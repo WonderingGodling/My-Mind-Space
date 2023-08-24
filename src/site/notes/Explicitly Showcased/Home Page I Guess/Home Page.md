@@ -2,6 +2,4 @@
 {"dg-publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/home-page/","tags":["gardenEntry"]}
 ---
 
-# THIS IS A HOME PAGE
-
-Test Test
+# Love You Sunny
