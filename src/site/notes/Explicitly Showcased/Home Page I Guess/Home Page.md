@@ -19,7 +19,7 @@ Make Yourself At Home
 If Youre [[Explicitly Showcased/Sunshine/Sunshine\|Sunny]] Click There
 And This Is For You [[Explicitly Showcased/People/Honey\|Honey]]
 
-Also Some People Wanted To Deliver Some Messages To A Bunch Of Internet Strangers So.... [[Explicitly Showcased/From Others/Roo\|Relay 1]] [[Explicitly Showcased/From Others/Fardip\|Relay 2]]
+Also Some People Wanted To Deliver Some Messages To A Bunch Of Internet Strangers So.... [[Explicitly Showcased/From Others/Relay 1\|Relay 1]] [[Explicitly Showcased/From Others/Fardip\|Relay 2]]
 
 [[Explicitly Showcased/My General Outlook On This\|My General Outlook On This]]
 
