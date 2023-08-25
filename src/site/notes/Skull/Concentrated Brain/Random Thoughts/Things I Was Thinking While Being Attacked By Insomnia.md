@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/things-i-was-thinking-while-being-attacked-by-insomnia/","title":"I Was Tired","dgShowLocalGraph":false,"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/things-i-was-thinking-while-being-attacked-by-insomnia/","title":"I Was Tired","dgShowLocalGraph":false}
 ---
 
 
