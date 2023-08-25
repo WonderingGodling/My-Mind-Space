@@ -10,7 +10,7 @@ Im Going To Be Sharing A Large Amount Of Of The Things I Think And Experience An
 
 As, I Suppose, A Mental Health Thing Im Going To Be Devoting A Portion Of My Brain Into An Archival Little Corner Or The Internet
 This Probably Wont Achieve Much But Its Not Nothing
-If You Want To Have A Look Around (If You *Can*) Look Around Feel Free
+If You Want To Have A Look Around (If You **Can**) Look Around Feel Free
 Get Comfortable
 
 If Youre [[Explicitly Showcased/Sunshine/Sunshine\|Sunny]] Click There
