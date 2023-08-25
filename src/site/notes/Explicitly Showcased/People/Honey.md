@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explicitly-showcased/people/honey/","title":"Honey","dgShowLocalGraph":false,"noteIcon":""}
+{"dg-publish":true,"permalink":"/explicitly-showcased/people/honey/","title":"Honey","dgShowLocalGraph":false}
 ---
 
 
