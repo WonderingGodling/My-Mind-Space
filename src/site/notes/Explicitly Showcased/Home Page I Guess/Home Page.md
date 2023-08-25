@@ -13,7 +13,7 @@ This Probably Wont Achieve Much But Its Not Nothing
 If You Want To Have A Look Around (If You *Can*) Look Around Feel Free
 Get Comfortable
 
-If Youre [[Explicitly Showcased/Sunshine/Sunshine\|Sunny]]|Sunny Lick There
+If Youre [[Explicitly Showcased/Sunshine/Sunshine\|Sunny]]| Click There
 
 
 
