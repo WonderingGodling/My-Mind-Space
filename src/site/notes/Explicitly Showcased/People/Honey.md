@@ -7,3 +7,5 @@
 
 Heyy Honey
 I Just Want You To Know That Youre Like....Gay
+Is It Gay To Say I Like Gay People?
+Either Way Youre Pretty Cool So Whatever
