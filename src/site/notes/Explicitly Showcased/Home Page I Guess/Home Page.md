@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/home-page/","title":"Horizon","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/home-page/","title":"Horizon","tags":["gardenEntry"],"dgShowToc":true,"noteIcon":null}
 ---
 
 
