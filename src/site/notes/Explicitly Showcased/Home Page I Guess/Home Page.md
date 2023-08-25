@@ -16,7 +16,7 @@ Get Comfortable
 If Youre [[Explicitly Showcased/Sunshine/Sunshine\|Sunny]] Click There
 And This Is For You [[Explicitly Showcased/People/Honey\|Honey]]
 
-Also Some People Wanted To Deliver Some Messages To A Bunch Of Internet Strangers So....
+Also Some People Wanted To Deliver Some Messages To A Bunch Of Internet Strangers So.... 
 
 
 
