@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explicitly-showcased/sunshine/sunshine/","title":"Sunshie","dgShowLocalGraph":false,"noteIcon":""}
+{"dg-publish":true,"permalink":"/explicitly-showcased/sunshine/sunshine/","title":"Sunshie","dgShowLocalGraph":false}
 ---
 
 
