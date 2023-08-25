@@ -13,6 +13,9 @@ This Probably Wont Achieve Much But Its Not Nothing
 If You Want To Have A Look Around (If You **Can**) Look Around Feel Free
 Get Comfortable
 
+You Want Some [[Skull/Concentrated Brain/Random Thoughts/Things I Was Thinking While Being Attacked By Insomnia\|Mad Rambles]] To Start You Off Or Something?
+Make Yourself At Home
+
 If Youre [[Explicitly Showcased/Sunshine/Sunshine\|Sunny]] Click There
 And This Is For You [[Explicitly Showcased/People/Honey\|Honey]]
 
