@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/phobophilia/","title":"Phobophilia","dgShowLocalGraph":false,"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/phobophilia/","title":"Phobophilia","dgShowLocalGraph":false}
 ---
 
 
