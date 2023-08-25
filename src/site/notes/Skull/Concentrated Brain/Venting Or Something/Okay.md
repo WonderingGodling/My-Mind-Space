@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/venting-or-something/okay/","title":"Okay","dgShowLocalGraph":false,"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/venting-or-something/okay/","title":"Okay","dgShowLocalGraph":false}
 ---
 
 
