@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explicitly-showcased/from-others/roo/","title":"Relay 1","dgShowLocalGraph":false,"noteIcon":""}
+{"dg-publish":true,"permalink":"/explicitly-showcased/from-others/roo/","title":"Relay 1","dgShowLocalGraph":false}
 ---
 
 
