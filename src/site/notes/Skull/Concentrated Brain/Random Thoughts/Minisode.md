@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/minisode/","title":"Minisode","dgShowLocalGraph":false,"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/minisode/","title":"Minisode","dgShowLocalGraph":false}
 ---
 
 
