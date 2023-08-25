@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explicitly-showcased/from-others/fardip/","title":"Relay 2","dgShowLocalGraph":false,"noteIcon":""}
+{"dg-publish":true,"permalink":"/explicitly-showcased/from-others/fardip/","title":"Relay 2","dgShowLocalGraph":false}
 ---
 
 
