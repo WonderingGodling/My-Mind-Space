@@ -30,5 +30,8 @@ Thats Awesome
 One Person With A Full Set Of Genitali And Another Person With Just None?
 The Actual Dream
 
+Imagine Being A Hermaphrodite **And** Being Able To Reproduce Asexually
+sUrvival Of The Fittest Is Fake And Sharks Run The World
+
 Also Im Going To Leave This Note Open For Future [[Explicitly Showcased/Me/Me\|Me]] Incase I Ever Start Researching Like Shark Mating Rituals Or Something
 oR Maybe Why Some [[Skull/Concentrated Brain/Random Facts/Sharks/Sharks\|Sharks]] Lay Eggs And Others Dont
