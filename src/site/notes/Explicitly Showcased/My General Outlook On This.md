@@ -13,7 +13,7 @@ Over Time (Knowing Me) Im Going To Forget I Have This Or That I Can Speak To [[S
 
 At The Moment Not Everything Can [[Explicitly Showcased/Me/Me\|Me]] Accessed
 For Example [[Skull/Concentrated Brain/Random Thoughts/Phobophilia\|This]] Is The Only Way To See That Note
-But Maybe Over Time Thatll Change
+But Maybe Over Time Thatll Change (That Has Changed Cheers)
 Who Knows
 
 Oh And Also There Are Some Note Links That Exist But Lead Nowhere
