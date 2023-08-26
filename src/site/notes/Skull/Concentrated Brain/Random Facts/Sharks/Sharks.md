@@ -109,7 +109,7 @@ Did You Know That at night, the Pacific angelshark may use bioluminescent pl
 
 Did You Know That the Galapagos shark is often the most abundant shark around oceanic islands?
 
-Did You Know That the blotched catshark exhibits fluorescence, with spots that glow yellow under blue light?
+Did You Know That the blotched catshark exhibits fluorescence, with spots that glow [[Fantasy/DM Notes/Realities/Copper 9/Mechanics/Oil Colour/Yellow/yellow\|yellow]] under blue light?
 
 Did You Know That the grey reef shark is the first shark species known to perform a threat display to warn off divers who are too close?
 
