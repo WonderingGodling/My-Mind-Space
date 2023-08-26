@@ -10,4 +10,5 @@ Whyg Not Give The People A Litle More Than What They Want
 Not Uncomfortably Just Like A Little Taster
 So Here
 
-This Page Looks Hells Of Wrong But I Refuse To Fix It <3
+This Page Looked Hells Of Wrong But I Refused To Fix It
+And Thus It Fixed Itself :D
