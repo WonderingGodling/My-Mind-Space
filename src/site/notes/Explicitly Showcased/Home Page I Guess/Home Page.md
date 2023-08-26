@@ -13,13 +13,13 @@ This Probably Wont Achieve Much But Its Not Nothing
 If You Want To Have A Look Around (If You **Can**) Look Around Feel Free
 Get Comfortable
 
-You Want Some [[Skull/Concentrated Brain/Random Thoughts/Things I Was Thinking While Being Attacked By Insomnia\|Mad Rambles]] To Start You Off Or Something?
+You Want Some [[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)\|Mad Rambles]] To Start You Off Or Something?
 Make Yourself At Home
 
 If Youre [[Explicitly Showcased/Sunshine/Sunshine\|Sunny]] Click There
 And This Is For You [[Explicitly Showcased/People/Honey\|Honey]]
 
-Also Some People Wanted To Deliver Some Messages To A Bunch Of Internet Strangers So.... [[Explicitly Showcased/From Others/Relay 1\|Relay 1]] [[Explicitly Showcased/From Others/Fardip\|Relay 2]]
+Also Some People Wanted To Deliver Some Messages To A Bunch Of Internet Strangers So.... [[Explicitly Showcased/From Others/Relay 1\|Relay 1]] [[Explicitly Showcased/From Others/Relay 2\|Relay 2]]
 
 [[Explicitly Showcased/My General Outlook On This\|My General Outlook On This]]
 
