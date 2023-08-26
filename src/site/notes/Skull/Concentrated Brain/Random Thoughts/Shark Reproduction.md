@@ -19,7 +19,7 @@ You Can Shove Your Biodiversity Up Your Ass
 Intercourse Is A Terrible Way For A Species To Reproduce And If You Thought About It For FIve Seeconds Youd Probably Agree
 Most Non-Mammalian Animals (From What I Know) Dont Even Engage In Intersourse And Have Other Ways Of Combining Male And FEmale Gametes
 BUT Thats Besides The Point
-teh point IS that Some Sharks Being Hermaphroditic And Some Being Asexual Is The Peak Of Reproductive Practices
+teh point IS that Some [[Skull/Concentrated Brain/Random Facts/Sharks/Sharks\|Sharks]] Being Hermaphroditic And Some Being Asexual Is The Peak Of Reproductive Practices
 If You Need To Reproduce You Always Can
 You Can Get A More Biodiverse Offspring Or Just Get Something That You Know Already Works
 Also CAn You Imagine That As A Human Pairing?
