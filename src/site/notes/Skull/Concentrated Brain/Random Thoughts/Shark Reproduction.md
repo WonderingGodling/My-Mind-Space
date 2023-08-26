@@ -11,6 +11,9 @@ Well Two Cool Shark Facts
 1. almost a quarter of the brown lanternsharks found in Suruga Bay, Japan, have both male and female organs
 2.  the blacktip shark can reproduce asexually
 
+First Off
+Obligitory [[Skull/Concentrated Brain/Random Facts/Sharks/Sharks\|Sharks]] Are Pretty Cool Comment
+Because They Are Awesome
 I Dont Want Both  Apenis And A Vagina, In Fact, I Want Neither Because I Think Both Absolutely Suck But I Do Love The Idea Of A Person Having Both Fully Functoinal
 You DOnt Usually get That In Humans Sadly And I Think Thats A Waste Of Portential
 Also The Ability To Reproduce Asexually Is Absolutely Amazing
@@ -27,5 +30,5 @@ Thats Awesome
 One Person With A Full Set Of Genitali And Another Person With Just None?
 The Actual Dream
 
-Also Im Going To Leave This Note Open For Future Me Incase I Ever Start Researching Like Shark Mating Rituals Or Something
+Also Im Going To Leave This Note Open For Future [[Explicitly Showcased/Me/Me\|Me]] Incase I Ever Start Researching Like Shark Mating Rituals Or Something
 oR Maybe Why Some [[Skull/Concentrated Brain/Random Facts/Sharks/Sharks\|Sharks]] Lay Eggs And Others Dont
