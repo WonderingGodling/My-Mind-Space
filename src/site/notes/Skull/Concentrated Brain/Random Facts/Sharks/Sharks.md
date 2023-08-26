@@ -47,7 +47,7 @@ Epaulette sharks are often found in rock pools. They can move from one pool to
 
 Basking sharks have huge livers of up to 2000 kg in weight.
 
-Since the Suez Canal was built, blacktip reef sharks have swum through it from the Red Sea, and now live in the Mediterranean Sea too.
+Since the Suez Canal was built, blacktip reef sharks have swum through it from the [[Fantasy/DM Notes/Realities/Copper 9/Mechanics/Oil Colour/Red/Red\|Red]] Sea, and now live in the Mediterranean Sea too.
 
 A whale shark's skin is around 10 cm thick, making it the thickest skin in the world.
 
