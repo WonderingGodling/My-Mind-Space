@@ -13,3 +13,10 @@ Maybe Im Just Bored And My Brain Said "Hey!" So I Put It Here
 Back On My Incremental Grind For A Bit
 
 The Lightless Flame Is Such A Badass Name
+
+I Just Wanna Watch A Movie
+Whyve You Gotta Be A Pain In The Ass
+
+You Ever Get Those Days Where Existinng Causes Burnout?
+I Feel Like Ive Done So Much Today But Ive Done Absoulutely Nothing
+And I Was Kinda Looking Forward To This Partyh Tomorrow But Im Not Going Bbecause I Have A Omedy Show Im Going To Instead
