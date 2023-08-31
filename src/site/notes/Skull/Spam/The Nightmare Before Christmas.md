@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/spam/the-nightmare-before-christmas/","title":{"title":null},"dgShowLocalGraph":"true/false"}
+{"dg-publish":true,"permalink":"/skull/spam/the-nightmare-before-christmas/","title":"The Nightmare Before Christmas","dgShowLocalGraph":false}
 ---
 
 
@@ -1675,7 +1675,7 @@ There you go sonny.  Hohohohehehe
 [goes back up chimney]
 
 Mother
-And what did Santa bring you honey?
+And what did Santa bring you [[Explicitly Showcased/People/Honey\|honey]]?
 
 [pulls out shrunken head]
 
