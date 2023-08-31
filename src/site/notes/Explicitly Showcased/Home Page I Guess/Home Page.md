@@ -23,12 +23,18 @@ Also Some [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Wanted
 
 [[Explicitly Showcased/My General Outlook On This\|My General Outlook On This]]
 
+I Dont Want This Specific Page To Get Crowded So Im Going To Stop Talking Here
+
+
+
+
+
 
 
 ###### You Got To The End
 
 ![Pasted image 20230824220645.png](/img/user/images/Pasted%20image%2020230824220645.png)
-
+<center><sub>Rawr</sub></center>
 
 
 <script src="https://utteranc.es/client.js"
