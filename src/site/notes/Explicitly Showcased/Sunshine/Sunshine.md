@@ -45,9 +45,9 @@ Youre Always Disappearing And Coming Back With Wild Stories
 Its Upsetting That Im Not There With You When You Get Up To Your Scooby Doo Esque Hijinks And All Those Small Oddities You Tell Me About
 But The Fact That You Tell Me About Them Makes The Distance Feel....Alright
 
-Thanks For Being The Best Moirail Anybodys Ever Had
+Thanks For Being The Bestest Moirail Anybodys Ever Had
 Youre A Life Saver <3
-Love You Soooooooooooooooo Much
+Love You Soooooooooooooooo Much <sub>(And I Miss You A Crap Tonne Too)</sub>
 Hope You Enjoyed Your Read
 
 ![Pasted image 20230825141100.png](/img/user/images/Pasted%20image%2020230825141100.png)
