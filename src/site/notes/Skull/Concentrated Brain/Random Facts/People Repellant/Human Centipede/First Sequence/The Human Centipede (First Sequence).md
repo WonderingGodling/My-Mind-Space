@@ -3,4 +3,4 @@
 ---
 
 
-Im Assuming You Want [[Skull/Concentrated Brain/Random Facts/People Repellant/Human Centipede/First Sequence/The Human Centipede (First Sequence) Summary\|This]] 
+Im Assuming You Want [[Skull/Concentrated Brain/Random Facts/People Repellant/Human Centipede/First Sequence/Tidbits/The Human Centipede (First Sequence) Summary\|This]] 
