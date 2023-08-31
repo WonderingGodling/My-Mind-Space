@@ -36,7 +36,7 @@ In this town of Halloween
 
 **CREATURE UNDER BED**
 I am the one hiding under your bed
-Teeth ground sharp and eyes glowing red
+Teeth ground sharp and eyes glowing [[Fantasy/DM Notes/Realities/Copper 9/Mechanics/Oil Colour/Red/Red\|red]]
 
 **MAN UNDER THE STAIRS**
 I am the one hiding under your stairs
@@ -58,11 +58,11 @@ Everybody's waiting for the next surprise
 Round that corner, man hiding in the trash can
 Something's waiting now to pounce, and how you'll scream
 
-**HARLEQUIN DEMON, WEREWOLF, AND MELTING MAN**
+**HARLEQUIN DEMON, [[Fantasy/DM Notes/Realities/Copper 9/Mechanics/Virus/Warewolf/Werewolf\|WEREWOLF]], AND MELTING MAN**
 Scream! This is Halloween
-Red 'n' black, slimy green
+[[Fantasy/DM Notes/Realities/Copper 9/Mechanics/Oil Colour/Red/Red\|Red]] 'n' [[Fantasy/DM Notes/Realities/Copper 9/Mechanics/Oil Colour/Black/Black\|black]], slimy [[Fantasy/DM Notes/Realities/Copper 9/Mechanics/Oil Colour/Green/Green\|green]]
 
-**WEREWOLF**
+**[[Fantasy/DM Notes/Realities/Copper 9/Mechanics/Virus/Warewolf/Werewolf\|WEREWOLF]]**
 Aren't you scared?
 
 **WITCHES**
@@ -163,7 +163,7 @@ No, thanks to  you, Jack.  Without your brilliant leadership -
 **JACK**
 Not at all Mayor.
 
-VAMPIRE (fat)
+[[Fantasy/DM Notes/Realities/Copper 9/Mechanics/Virus/Vampire/Vampire\|VAMPIRE]] (fat)
 You're such a scream, Jack
 
 **WITCH**
@@ -176,7 +176,7 @@ You made walls fall, Jack
 Walls fall?  You made the very mountains crack, Jack
 
 **DR. FINKELSTEIN**
-The deadly nightshade you slipped me wore off, Sally.  
+The deadly nightshade you slipped [[Explicitly Showcased/Me/Me\|me]] wore off, Sally.  
 
 **SALLY**
 Let go!
@@ -1124,7 +1124,7 @@ That not my Xmas.  My Xmas is filled with laughter and joy and this--my
 Sandy Claws outfit.  I want you to make it.
 
 **SALLY**
-Jack, please, listen to me--it's going to be a disaster.
+Jack, please, listen to [[Explicitly Showcased/Me/Me\|me]]--it's going to be a disaster.
 
 **JACK**
 How could it be--just follow the pattern.  This part is red, the trim is 
@@ -1252,7 +1252,7 @@ They'll talk about for years to come
 
 **GROUP**
 Let's have a cheer from everyone
-It's time to party
+It's time to [[Fantasy/DM Notes/Realities/Kawshekh/Campaign/Starfall/Characters/PC/Party/Party\|party]]
 
 **DUCK TOY**
 Making Christmas, making Christmas
@@ -1445,7 +1445,7 @@ comfortable than that and Jack said to make him comfortable.  Didn't he?
 Yes he did.
 
 **SANDY CLAWS**
-Haven't you heard of peace on earth and good will toward men?
+Haven't you heard of peace on earth and [[Fantasy/DM Notes/Edies Campaign/Campaign/Characters/NPC/Good/Good\|good]] will toward men?
 
 **LOCK, SHOCK & BARREL**
 No!
@@ -1559,7 +1559,7 @@ Answer for this heinous act
 
 **OOGIE BOOGIE**
 Oh, brother, you're something
-You put me in a spin
+You put [[Explicitly Showcased/Me/Me\|me]] in a spin
 You aren't comprehending
 The position that you're in
 It's hopeless, you're finished
@@ -1694,7 +1694,7 @@ we've had.
 **JACK**
 hohohohehehe
 
-[killer wreath, snake, vampire toy, killer duck]
+[killer wreath, snake, [[Fantasy/DM Notes/Realities/Copper 9/Mechanics/Virus/Vampire/Vampire\|vampire]] toy, killer duck]
 
 [screams]
 
@@ -1838,7 +1838,7 @@ Everything's gone all wrong
 What have I done?
 What have I done?
 Find a deep cave to hide in
-In a million years they'll find me
+In a million years they'll find [[[[Me\|[[Me]]|[[]]me\|]]me]]
 Only dust and a plaque
 That reads, 'Here Lies Poor Old Jack"
 
@@ -2068,7 +2068,7 @@ Careful, my precious jewel!
 **JACK**
 My dearest friend, if you don't mind
 I'd like to join you by your side
-Where we can gaze into the stars
+Where we can gaze into the [[Fantasy/DM Notes/Realities/Copper 9/Location/Star System/Stars/Stars\|stars]]
 
 **JACK AND SALLY**
 And sit together, now and forever
