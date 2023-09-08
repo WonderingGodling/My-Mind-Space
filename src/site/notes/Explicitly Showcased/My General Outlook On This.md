@@ -15,7 +15,7 @@ Itll Be Fun To Document And Share Stuff And I Guess Have An Outlet For My Though
 
 Over Time (Knowing [[Explicitly Showcased/Me/Me\|Me]]) Im Going To Forget I Have This Or That I Can Speak To [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Indirectly And Go Back To Being Unsatisfied With My Indirect Communication But Until Then Im Going To Keep Updating This And Adding My Thoughts And Links In Places That Make Sense To [[Explicitly Showcased/Me/Me\|Me]]
 
-Also Planning On Adding A [[Explicitly Showcased/Guestbook\|Guestbook]] Or Something
+<span style="color:#FF0000">Also Planning On Adding A [[Explicitly Showcased/Guestbook\|Guestbook]] Or Something</span>
 
 At The Moment Not Everything Can Be Accessed
 For Example [[Skull/Concentrated Brain/Random Thoughts/Phobophilia\|This]] Is The Only Way To See That Note
