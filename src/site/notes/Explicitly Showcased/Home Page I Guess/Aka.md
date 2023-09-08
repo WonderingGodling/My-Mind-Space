@@ -10,7 +10,7 @@ I Forgot About Those
 
 | Names You Might Know Me By |          Variations          |
 | -------------------------- |:----------------------------:|
-| Wondering Godling          | godling, Wonder, Wonderling  |
+| Wondering Godling          | Godling, Wonder, Wonderling, God  |
 | Frigay                     |             Fri              |
 | Hazel                      |             Haze             |
 | David                      |             Dave             |
