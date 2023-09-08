@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-permalink":"Sunshine","permalink":"/Sunshine/","title":"Sunshie","tags":["Sunshine","Love"],"dgShowLocalGraph":false}
 ---
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <span style="color:#A2FF0A">Sunshine</span>
 
@@ -48,6 +49,6 @@ But The Fact That You Tell Me About Them Makes The Distance Feel....Alright
 Thanks For Being The Bestest Moirail Anybodys Ever Had
 Youre A Life Saver <3
 Love You Soooooooooooooooo Much <sub>(And I Miss You A Crap Tonne Too)</sub>
-Hope You Enjoyed Your Read
+Hope You Enjoyed Your Read <span style="color:#FF0000">Mwah</span>
 
 ![Pasted image 20230825141100.png](/img/user/images/Pasted%20image%2020230825141100.png)
