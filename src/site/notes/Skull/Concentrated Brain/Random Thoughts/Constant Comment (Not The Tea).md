@@ -21,3 +21,14 @@ Whyve You Gotta Be A Pain In The Ass
 You Ever Get Those Days Where Existinng Causes Burnout?
 I Feel Like Ive Done So Much Today But Ive Done Absoulutely Nothing
 And I Was Kinda Looking Forward To This Partyh Tomorrow But Im Not Going Bbecause I Have A Omedy Show Im Going To Instead
+
+<center><sub>Done For Now ^^</sub></center>
+
+
+<script src="https://utteranc.es/client.js"
+        repo="WonderingGodling/My-Mind-Space"
+        issue-term="title"
+        theme="preferred-color-scheme"
+        crossorigin="anonymous"
+        async>
+</script>
