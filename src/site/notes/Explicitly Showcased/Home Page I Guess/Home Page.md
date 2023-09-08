@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/home-page/","title":"Horizon","tags":["gardenEntry"],"dgShowToc":true}
+{"dg-publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/home-page/","title":"Horizon","tags":["Home","Rambling","gardenEntry"],"dgShowToc":true}
 ---
 
-
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 ![Pasted image 20230824221117.png](/img/user/images/Pasted%20image%2020230824221117.png)
 # My Mind Is A Mess But You Can Sit Wherever You Like
 
@@ -25,6 +25,10 @@ Also Some [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Wanted
 
 I Dont Want This Specific Page To Get Crowded So Im Going To Stop Talking Here
 
+No Wait You Might Want [[Explicitly Showcased/Home Page I Guess/Aka\|This]]
+
+
+
 
 
 
@@ -32,7 +36,7 @@ I Dont Want This Specific Page To Get Crowded So Im Going To Stop Talking Here
 
 
 ###### You Got To The End
-
+<sup>Well Done</sup>
 ![Pasted image 20230824220645.png](/img/user/images/Pasted%20image%2020230824220645.png)
 <center><sub>Rawr</sub></center>
 
