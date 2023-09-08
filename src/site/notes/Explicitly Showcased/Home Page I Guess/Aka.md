@@ -10,11 +10,11 @@ I Forgot About Those
 
 | Names You Might Know Me By |          Variations          |
 | -------------------------- |:----------------------------:|
-| <span style="color:#00FFFF">Wondering Godling</span>          | Godling, Wonder, Wonderling, God  |
-| Frigay                     |             Fri              |
-| Hazel                      |             Haze             |
-| David                      |             Dave             |
-| Real Name                  | Im Not Putting On My Website |
+| <span style="color:#00FFFF">Wondering Godling</span>          | <span style="color:#00DDDD">Godling, Wonder, Wonderling, God</span>  |
+| <span style="color:#00FFFF">Frigay</span>                     |             <span style="color:#00DDDD">Fri</span>              |
+| <span style="color:#00FFFF">Hazel</span>                      |             <span style="color:#00DDDD">Haze</span>             |
+| <span style="color:#00FFFF">David</span>                      |             <span style="color:#00DDDD">Dave</span>             |
+| <span style="color:#00FFFF">Real Name</span>                  | <span style="color:#00CCCC">Im Not Putting On My Website</span> |
 
 
 
