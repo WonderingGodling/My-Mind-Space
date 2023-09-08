@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explicitly-showcased/sunshine/sunshine/","title":"Sunshie","dgShowLocalGraph":false}
+{"dg-publish":true,"dg-permalink":"Sunshine","permalink":"/Sunshine/","title":"Sunshie","tags":["Sunshine","Love"],"dgShowLocalGraph":false}
 ---
 
 
