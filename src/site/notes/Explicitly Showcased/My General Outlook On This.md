@@ -9,7 +9,7 @@
 
 <div><iframe allowfullscreen="" width="100%" height="400px" frameborder="1" name="myiFrame" style="border:1px #000000 solid;" src="https://plaza.one/" sandbox="allow-forms allow-modals allow-presentation allow-popups allow-same-origin allow-scripts"></iframe></div>
 
-<span style="color:#D00009">Ive Been Working On This For A Bit Now And Honestly I Dont Think Its Going To Have Too Big Of An Impact On My Life But The Thing Is I Need Something To Do And This Is Certainly Something To Do
+Ive Been Working On This For A Bit Now And Honestly I Dont Think Its Going To Have Too Big Of An Impact On My Life But The Thing Is I Need Something To Do And This Is Certainly Something To Do
 
 Itll Be Fun To Document And Share Stuff And I Guess Have An Outlet For My Thoughts And Stuff That Extends Past A Piece Of Paper Confined In My Bedroom But Other Than That This Is Just Gonna Be Something Else That Gets Added To The Interest Graveyard
 
