@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/shark-reproduction/","title":"shark Reproduction","dgShowLocalGraph":false}
 ---
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # Shark Reproduction
 
@@ -22,7 +23,7 @@ You Can Shove Your Biodiversity Up Your Ass
 Intercourse Is A Terrible Way For A Species To Reproduce And If You Thought About It For FIve Seeconds Youd Probably Agree
 Most Non-Mammalian Animals (From What I Know) Dont Even Engage In Intersourse And Have Other Ways Of Combining Male And FEmale Gametes
 BUT Thats Besides The Point
-teh point IS that Some [[Skull/Concentrated Brain/Random Facts/Sharks/Sharks\|Sharks]] Being Hermaphroditic And Some Being Asexual Is The Peak Of Reproductive Practices
+teh point IS that Some [[Skull/Concentrated Brain/Random Facts/Sharks/Sharks\|Sharks]] Being Hermaphroditic And Some Being [[Explicitly Showcased/Me/Asexual\|Asexual]] Is The Peak Of Reproductive Practices
 If You Need To Reproduce You Always Can
 You Can Get A More Biodiverse Offspring Or Just Get Something That You Know Already Works
 Also CAn You Imagine That As A Human Pairing?
