@@ -26,7 +26,7 @@ I Forgot About Those
 
 
 
-<center><sub>Done :)</sub></center>
+<center><sub>Thats All :)</sub></center>
 
 
 <script src="https://utteranc.es/client.js"
