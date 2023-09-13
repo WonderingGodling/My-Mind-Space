@@ -36,7 +36,7 @@ Perchance There's Something
 
 
 
-<center><sub>Done :)</sub></center>
+<center><sub><span style="color:#FF0000">Thats All</span></sub></center>
 
 
 <script src="https://utteranc.es/client.js"
