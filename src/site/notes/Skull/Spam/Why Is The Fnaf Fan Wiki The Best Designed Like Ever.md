@@ -1397,7 +1397,7 @@
 			<svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-arrow-tiny"></use></svg>		</a>
 </p>
 	</div>
-	<div class="fandom-slider__list" style="width: 2380px; margin: 0px;">
+	<div class="fandom-slider__list" style="width: 2380px; margin: 0px 0px 0px -1785px;">
 					<div class="gallerybox" data-index="0" style="width: 595px;">
 				<img alt="Five Nights at Freddy's Movie" src="https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/9/9f/FNaFMovie_header4-2.jpg/revision/latest/scale-to-width-down/670?cb=20230830203437" decoding="async" loading="lazy" width="670" height="294" data-image-name="FNaFMovie header4-2.jpg" data-image-key="FNaFMovie_header4-2.jpg" data-relevant="1">			</div>
 					<div class="gallerybox" data-index="1" style="width: 595px;">
@@ -1409,7 +1409,7 @@
 			</div>
 	<div class="fandom-slider__nav">
 		<div class="fandom-slider__nav__caption">
-							<div class="fandom-slider__nav__caption-0" data-index="0" style="display: block; opacity: 1;">
+							<div class="fandom-slider__nav__caption-0" data-index="0" style="display: none; opacity: 0;">
 					<h2>Five Nights at Freddy's Movie</h2>
 					<p>Movie premiering in theaters on October 27, 2023!</p>
 <p>										<a href="/wiki/Five_Nights_at_Freddy%27s_(Film)" class="read-more-link">
@@ -1433,7 +1433,7 @@
 					</a>
 </p>
 									</div>
-							<div class="fandom-slider__nav__caption-3" data-index="3" style="display: none; opacity: 0;">
+							<div class="fandom-slider__nav__caption-3" data-index="3" style="display: block; opacity: 1;">
 					<h2>Security Breach - Ruin</h2>
 					<p>The free DLC for Security Breach is now available!</p>
 <p>										<a href="/wiki/Ruin" class="read-more-link">
@@ -1443,13 +1443,13 @@
 									</div>
 					</div>
 		<div class="fandom-slider__nav__thumbs">
-							<div class="fandom-slider__nav__thumb-0 current-thumb" data-index="0">
+							<div class="fandom-slider__nav__thumb-0" data-index="0">
 											<img alt="Five Nights at Freddy's Movie" src="https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/9/9f/FNaFMovie_header4-2.jpg/revision/latest/scale-to-width-down/114?cb=20230830203437" decoding="async" loading="lazy" width="114" height="50" data-image-name="FNaFMovie header4-2.jpg" data-image-key="FNaFMovie_header4-2.jpg" data-relevant="1">									</div>
 							<div class="fandom-slider__nav__thumb-1" data-index="1">
 											<img alt="POPGOES Evergreen" src="https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/3/3d/POPGOESWallpaperGIF.gif/revision/latest/scale-to-width-down/89?cb=20210801032846" decoding="async" loading="lazy" width="89" height="50" data-image-name="POPGOESWallpaperGIF.gif" data-image-key="POPGOESWallpaperGIF.gif" data-relevant="1" data-src="https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/3/3d/POPGOESWallpaperGIF.gif/revision/latest/scale-to-width-down/89?cb=20210801032846" class=" lazyloaded">									</div>
 							<div class="fandom-slider__nav__thumb-2" data-index="2">
 											<img alt="Five Nights at Freddy's: Fightline" src="https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/5/55/FNaFFightline-preview.jpg/revision/latest/scale-to-width-down/75?cb=20230810164156" decoding="async" loading="lazy" width="75" height="50" data-image-name="FNaFFightline-preview.jpg" data-image-key="FNaFFightline-preview.jpg" data-relevant="1" data-src="https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/5/55/FNaFFightline-preview.jpg/revision/latest/scale-to-width-down/75?cb=20230810164156" class=" lazyloaded">									</div>
-							<div class="fandom-slider__nav__thumb-3" data-index="3">
+							<div class="fandom-slider__nav__thumb-3 current-thumb" data-index="3">
 											<img alt="Security Breach - Ruin" src="https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/4/4a/Ruin-banner.png/revision/latest/scale-to-width-down/87?cb=20230715162853" decoding="async" loading="lazy" width="87" height="50" data-image-name="Ruin-banner.png" data-image-key="Ruin-banner.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/4/4a/Ruin-banner.png/revision/latest/scale-to-width-down/87?cb=20230715162853" class=" lazyloaded">									</div>
 					</div>
 	</div>
@@ -2070,7 +2070,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<a class="wikiabar-button" href="https://bit.ly/FanLabWikiBar" data-index="2">
 		<span>Join Fan Lab</span>
 	</a>
-<div class="message" data-messagetooltip="Click here for more information!" data-wikiabarcontent="[{&quot;text&quot;:&quot;Check out Fandom Quizzes and challenge your friends!&quot;,&quot;href&quot;:&quot;https:\/\/bit.ly\/WBTrivia2&quot;},{&quot;text&quot;:&quot;Check out Fandom Quizzes and challenge your friends!&quot;,&quot;href&quot;:&quot;https:\/\/bit.ly\/WBTrivia2&quot;},{&quot;text&quot;:&quot;Check out Fandom Quizzes and challenge your friends!&quot;,&quot;href&quot;:&quot;https:\/\/bit.ly\/WBTrivia2&quot;},{&quot;text&quot;:&quot;Check out Fandom Quizzes and challenge your friends!&quot;,&quot;href&quot;:&quot;https:\/\/bit.ly\/WBTrivia2&quot;},{&quot;text&quot;:&quot;Check out Fandom Quizzes and challenge your friends!&quot;,&quot;href&quot;:&quot;https:\/\/bit.ly\/WBTrivia2&quot;}]" title="Click here for more information!" style="opacity: 0.762587;"><a href="https://bit.ly/WBTrivia2"></a></div>
+<div class="message" data-messagetooltip="Click here for more information!" data-wikiabarcontent="[{&quot;text&quot;:&quot;Check out Fandom Quizzes and challenge your friends!&quot;,&quot;href&quot;:&quot;https:\/\/bit.ly\/WBTrivia2&quot;},{&quot;text&quot;:&quot;Check out Fandom Quizzes and challenge your friends!&quot;,&quot;href&quot;:&quot;https:\/\/bit.ly\/WBTrivia2&quot;},{&quot;text&quot;:&quot;Check out Fandom Quizzes and challenge your friends!&quot;,&quot;href&quot;:&quot;https:\/\/bit.ly\/WBTrivia2&quot;},{&quot;text&quot;:&quot;Check out Fandom Quizzes and challenge your friends!&quot;,&quot;href&quot;:&quot;https:\/\/bit.ly\/WBTrivia2&quot;},{&quot;text&quot;:&quot;Check out Fandom Quizzes and challenge your friends!&quot;,&quot;href&quot;:&quot;https:\/\/bit.ly\/WBTrivia2&quot;}]" title="Click here for more information!" style=""><a href="https://bit.ly/WBTrivia2"></a></div>
 			<a href="#" class="arrow" data-trigger="hover" data-tooltip="Collapse" data-tooltipshow="Show" title="Collapse">
 				<svg class="wds-icon wds-icon-small close-icon"><use xlink:href="#wds-icons-close-small"></use></svg>			</a>
 		</div>
