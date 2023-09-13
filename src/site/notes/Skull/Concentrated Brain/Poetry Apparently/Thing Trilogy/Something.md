@@ -44,7 +44,7 @@ Sky But Somethings Up
 
 
 
-<center><sub>Done :)</sub></center>
+<center><sub>Id Say "Finished" But Theres One More To Come</sub></center>
 
 
 <script src="https://utteranc.es/client.js"
