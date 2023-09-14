@@ -23,6 +23,17 @@ And I Was Kinda Looking Forward To This Partyh Tomorrow But Im Not Going Bbecaus
 
 And Yeah.... I Did Forget About This
 
+Public Transport Is So Horrible In This Country
+I Mean It Exists Which Is More Than I Can Say For Like New York (Imagine Getting A Tram In Nyc)
+But Its Still Horrendous
+Its Expensive, Infrequent, Slow, Gross, Exploitative, Inconvenient, Inconsistant And Worst Of All: You Cant Use It Efficiently Without Research
+You Shouldnt Have To Figure Out If Its Better To Buy A Ticket There And Back Or Just One Ticket That Does Both
+(The Answer? It Depends :/)
+
+Also I Miss My Sunshine
+We Need To Talk More 
+
+
 
 
 <center><sub>Done For Now ^^</sub></center>
