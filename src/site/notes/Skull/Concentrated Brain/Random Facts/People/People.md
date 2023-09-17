@@ -9,7 +9,7 @@ This Is Absolutely Nothing, Just A Connector That Allows [[Explicitly Showcased/
 Then I Got To Thinking
 Whyg Not Give The People A Litle More Than What They Want
 Not Uncomfortably Just Like A Little Taster
-So Here <span style="color:#1e1e1e"> <font color="#1e1e1e">[[Explicitly Showcased/Secret Link\|​‍    ​‍]]</font> </span>
+So Here <span style="color:#1e1e1e"> <font color="#1e1e1e">[[Explicitly Showcased/Secret Link\| ​‍]]</font> </span>
 
 This Page Looked Hells Of Wrong But I Refused To Fix It
 And Thus It Fixed Itself :D
