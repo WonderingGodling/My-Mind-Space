@@ -48,7 +48,7 @@ Epaulette sharks are often found in rock pools. They can move from one pool to
 
 Basking sharks have huge livers of up to 2000 kg in weight.
 
-Since the Suez Canal was built, blacktip reef sharks have swum through it from the [[Fantasy/DM Notes/Realities/Copper 9/Mechanics/Oil Colour/Red/Red\|Red]] Sea, and now live in the Mediterranean Sea too.
+Since the Suez Canal was built, blacktip reef sharks have swum through it from the Red Sea, and now live in the Mediterranean Sea too.
 
 A whale shark's skin is around 10 cm thick, making it the thickest skin in the world.
 
@@ -110,7 +110,7 @@ Did You Know That at night, the Pacific angelshark may use bioluminescent pl
 
 Did You Know That the Galapagos shark is often the most abundant shark around oceanic islands?
 
-Did You Know That the blotched catshark exhibits fluorescence, with spots that glow [[Fantasy/DM Notes/Realities/Copper 9/Mechanics/Oil Colour/Yellow/yellow\|yellow]] under blue light?
+Did You Know That the blotched catshark exhibits fluorescence, with spots that glow yellow under blue light?
 
 Did You Know That the grey reef shark is the first shark species known to perform a threat display to warn off divers who are too close?
 
