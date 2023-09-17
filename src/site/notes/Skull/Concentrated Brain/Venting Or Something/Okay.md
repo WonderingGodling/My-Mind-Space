@@ -8,7 +8,7 @@
 "Am I Okay?"
 No I Am Very Obviously Not Okay
 I Dont Think I Ever Have Been Nor Ever Will Be Okay
-Am I [[Fantasy/DM Notes/Realities/Halcion/Mechanics/Drugs/Emotion-Vial/Happy/Happy\|Happy]]?
+Am I Happy?
 Sure
 Quite Often In Fact
 Am I Alive?
