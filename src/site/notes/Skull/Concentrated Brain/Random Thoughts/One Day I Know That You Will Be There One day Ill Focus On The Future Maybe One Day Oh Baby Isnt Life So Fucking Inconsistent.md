@@ -46,6 +46,8 @@ All In All Though I Dont Think The Bodies Made The Concert Any Worse
 Everytime I Saw Someone Leave The Crowd I Felt The Room Get Colder
 Human Body Temperature Is Such A Weird Concept
 
+[Lovejoy](https://packaged-media.redd.it/4bb1o5n7z1pb1/pb/m2-res_640p.mp4?m=DASHPlaylist.mpd&v=1&e=1695092400&s=55ba5a7fba56b023acf1441bc6a6ddfe4ff4b1d4#t=0)
+
 Dan Got A Black And White Poster That I Ended Up Accidentally Stealing Which Is Kinda Funny
 
 I Should Go To More Concerts
