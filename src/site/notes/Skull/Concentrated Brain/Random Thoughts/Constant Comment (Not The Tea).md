@@ -33,6 +33,9 @@ You Shouldnt Have To Figure Out If Its Better To Buy A Ticket There And Back Or 
 Also I Miss My Sunshine
 We Need To Talk More 
 
+At The Moment My Hands Smell Like Artificial Vanilla Which Is Not Helping With The Derealisation
+A Slight Feeling That My Entire Perception Of The World Is Fabricated Accompanied By My Hands Smelling Like A Playdoh Cookie Before People Were Worried About Kids Killing Themselves
+Its Not Even A Good Vanilla Smell So Smelling It Provides An Indescribable Feeling
 
 
 
