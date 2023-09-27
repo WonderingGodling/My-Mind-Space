@@ -18,7 +18,7 @@ I Just Wanna Watch A Movie
 Whyve You Gotta Be A Pain In The Ass
 
 You Ever Get Those Days Where Existinng Causes Burnout?
-I Feel Like Ive Done So Much Today But Ive Done Absoulutely Nothing
+I Feel Like Ive Done So Much Today But Ive Done Absoulutely [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]
 And I Was Kinda Looking Forward To This Partyh Tomorrow But Im Not Going Bbecause I Have A Omedy Show Im Going To Instead
 
 And Yeah.... I Did Forget About This
@@ -30,16 +30,65 @@ Its Expensive, Infrequent, Slow, Gross, Exploitative, Inconvenient, Inconsistant
 You Shouldnt Have To Figure Out If Its Better To Buy A Ticket There And Back Or Just One Ticket That Does Both
 (The Answer? It Depends :/)
 
-Also I Miss My Sunshine
+Also I Miss My [[Explicitly Showcased/Sunshine/Sunshine\|Sunshine]]
 We Need To Talk More 
 
 At The Moment My Hands Smell Like Artificial Vanilla Which Is Not Helping With The Derealisation
-A Slight Feeling That My Entire Perception Of The World Is Fabricated Accompanied By My Hands Smelling Like A Playdoh Cookie Before People Were Worried About Kids Killing Themselves
+A Slight Feeling That My Entire Perception Of The World Is Fabricated Accompanied By My Hands Smelling Like A Playdoh Cookie Before [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Were Worried About Kids Killing Themselves
 Its Not Even A Good Vanilla Smell So Smelling It Provides An Indescribable Feeling
 
+I Did A Bit Of Tidying Up
+You Wont Notice
+
+ I Don Get This Library
+I Think Its Designed So That You Cant Find Anything
+ So You Have To Be A Student To Read
+The Chemistry Is By Textiles 
+The Psychology Is Above Renewable Energy
+ And It Seems To Be Alphabetical Within The Subject?
+I Got To My Class And There Already People There
+
+ First Time Ive Touched My Phone For An Hour Or Two
+Im Becoming More Familiar With The Back Of My Eyelids Than The Contents Of My Imagination
+To Sleep Per Chance To Dream But To Be Forced To Struggle Through A Waking Nightmare Is Just To Suffer Eternity In Your Own Mind
+
+ The One Thing I Hate About Trains Is Im Nevee Sure Im On The Right One Until The Announcer Speaks
+Like Im Sitting Here And The Train Goes "Beep Boop Train To Shrewsbury" And Im Like Cool
+ Im Not Going To Shrewsbury But Wolverhampton Is A Stop On That Train 
+I Know All This Its All Goo
+ The Problem Is That That Doesn't Play Until The Doors Are Closed
+So If It Said The Wrong Train Id Just Have To Be Like •_•
+ Then Now That Its Moving It Like "Where Also Stopping At All These Places" And Im Like I Know 
+Thats The Train I Got On
+
+https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english?source=share
+
+The Library Is Dewey Decimal 
+The Catagory Arangement Still Feels Arbitrary
+
+Testing A Thing
+Dont Worry About It
+
+Okay Cool; Looks Like It Works
+
+There Is Nothing I Wanna Eat In This Whole City!
+Im Gonna Starve And Im Gonna Laugh 
+(I'll Probably Eat In Town But Still)
+What Even Is "Good Food"
+
+https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english?source=share
+
+Interesting: I Can Boot Multiple Instances Of This Application Which (Since Its Locked) Means That I Cant Close Any Instances Of It
+
+I Went Back And Added Some Stuff I Said To My Sunshine 
+
+Just Diagnosed Someone With Autism And They Were Like "Yep"
+
+Ive Got More Things To Do Than I Have Time To Sleep But Tolorrow I Have Things To Do So Its Time To Sleep?
 
 
-<center><sub>Done For Now ^^</sub></center>
+
+<center><sub>Done For Now \^w^ </sub></center>
 
 
 <script src="https://utteranc.es/client.js"
