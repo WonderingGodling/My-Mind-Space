@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/home-page/","title":"Horizon","tags":["Home","Rambling","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dgShowLocalGraph":false,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/home-page/","title":"Horizon","tags":["Home","Rambling","gardenEntry","gardenEntry"],"dgShowLocalGraph":false,"dgShowToc":true}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -9,11 +9,11 @@
 Im Going To Be Sharing A Large Amount Of Of The Things I Think And Experience And Whatever And Its Not Going To Be Very Organised Or Anything So Youll Just Have To Live With It
 
 As, I Suppose, A Mental Health Thing Im Going To Be Devoting A Portion Of My Brain Into An Archival Little Corner Or The Internet
-This Probably Wont Achieve Much But Its Not Nothing
+This Probably Wont Achieve Much But Its Not [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]
 If You Want To Have A Look Around (If You **Can**) Look Around Feel Free
 Get Comfortable
 
-You Want Some [[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)\|Mad Rambles]] To Start You Off Or Something?
+You Want Some [[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)\|Mad Rambles]] To Start You Off Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]?
 Make Yourself At Home
 
 If Youre [[Explicitly Showcased/Sunshine/Sunshine\|Sunny]] Click There
