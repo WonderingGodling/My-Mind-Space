@@ -86,6 +86,16 @@ Just Diagnosed Someone With Autism And They Were Like "Yep"
 
 Ive Got More Things To Do Than I Have Time To Sleep But Tolorrow I Have Things To Do So Its Time To Sleep?
 
+I Didnt Sleep I Messed With The Laptop 
+
+I Ran Out Of Data
+Spotify Was Using Automatic Quality 
+
+I Was Gonna Read On The Train But I Still Dont Trust Them
+
+So Many Thoughts, Nond Of Which Carey With Them The Drive For Dictation 
+Im Just Thinking And Existing And Dealing With It Because I Just Donr Feel Like Writing It
+
 
 
 <center><sub>Done For Now \^w^ </sub></center>
