@@ -104,7 +104,7 @@ I Haven't Updated This In A While But Thats Because Im Sectretly Losing My Mind
 
 
 
-<center><sub>Done For Now /^w^ </sub></center>
+<center><sub>Done For Now :DD</sub></center>
 
 
 <script src="https://utteranc.es/client.js"
