@@ -96,6 +96,12 @@ I Was Gonna Read On The Train But I Still Dont Trust Them
 So Many Thoughts, Nond Of Which Carey With Them The Drive For Dictation 
 Im Just Thinking And Existing And Dealing With It Because I Just Donr Feel Like Writing It
 
+I Haven't Updated This In A While But Thats Because Im Sectretly Losing My Mind
+
+"Im Going To Go Watch Big Brother"
+"Do You Wanna Hear A [[Skull/Concentrated Brain/Random Facts/People Repellant/Human Centipede/Human Centipede\|Human Centipede]] Fact‽‽‽‽"
+
+
 
 
 <center><sub>Done For Now \^w^ </sub></center>
