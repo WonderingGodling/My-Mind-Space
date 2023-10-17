@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/production/human-centipede-first-sequence-production-filming/"}
+{"dg-publish":true,"dg-permalink":"Human Centipede (First Sequence) Production (Filming)","permalink":"/Human Centipede (First Sequence) Production (Filming)/"}
 ---
 
 # Production 
