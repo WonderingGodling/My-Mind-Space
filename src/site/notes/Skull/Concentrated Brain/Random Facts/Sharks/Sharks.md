@@ -90,7 +90,7 @@ Did You Know That Mustelus hacat is a species of smooth-hound shark discover
 
 Did You Know That during the summer the finetooth shark is found exclusively in water less than 10 m (30 ft) deep?
 
-Did You Know That the Canary [[Islands\|Islands]] are one of the few places left where there are still substantial numbers of angelsharks, once common all around Europe?
+Did You Know That the Canary Islands are one of the few places left where there are still substantial numbers of angelsharks, once common all around Europe?
 
 Did You Know That whilst most sharks are poikilothermic, species in the family Lamnidae are homeothermic?
 
