@@ -96,15 +96,51 @@ I Was Gonna Read On The Train But I Still Dont Trust Them
 So Many Thoughts, Nond Of Which Carey With Them The Drive For Dictation 
 Im Just Thinking And Existing And Dealing With It Because I Just Donr Feel Like Writing It
 
-I Haven't Updated This In A While But Thats Because Im Sectretly Losing My Mind
+I Haven't Updated This In A While But Thats Because Im Sectretly <b>Losing My Mind!</b>
 
 "Im Going To Go Watch Big Brother"
 "Do You Wanna Hear A [[Skull/Concentrated Brain/Random Facts/People Repellant/Human Centipede/Human Centipede\|Human Centipede]] Fact‽‽‽‽"
 
+Today- This Week (42 2023) Has Been Stressful 
+Its Tuesday 
+Ive Spent The Whole Time Feeling Like A Zombie Then Being Dragged Out Of My Cozy Void
+Also Had So Much I Wanted To Write But Just Never Did
+
+Riddle Podcast: The Sculptor Turned Farmer Was In The Sh__ Resulting In A Lovely ___
+One Of The Hosts Like Immediately: Ed Sheeran Shape Of You
+(In The Shed Shearing And Shape Of Yew)
+Idk How She Got That Because I Still Think Its Dumb
+
+https://youtu.be/zHHQusnYY3c?si=fKYYsvFJHomCnpDf I Was Thinking About A Video Like This Last Nigh
+Amhorithms AmIRight
+
+
+https://youtu.be/HwAPLk_sQ3w?si=sAsU8B0mMT07Wnhz
+I Dissociated In And Out Of My Dearg And Missed The Premier But This Is So Good
+
+Short Version: Remembered One Of My Friends Knows Someone With An Armpit Fetish And Im Wondering How You Know You Have An Armpit Fetish 
+Like What Steps Do You Have To Take To Know Its Specifically That
+I Just Feel Like "Body Part" Is Too Specific
+ I Figured It Out!
+Watching Someone Change In The Gym And Youre Staring At Them For Ages
+Then You Go "Im Only Staring At Their Armpits"
+Then You Go Home Annd Figure It Out From There
+Its Just That I Can Imagine Someone Finding Bdsm Porn And Being Like "I Want More Of This"
+But Does Armpit Porn Even Exist?
+<p align=right> You should see <p>
+I Was Gonna Say "Im Okay" But When Have I Ever Not Been Curious
+Of The Top Ten Images Three Of Them Have Actual Armpits As A Focus
+Almost All Of Pornhubs Results Are Just Other Porn But Also Armpits Exist
+But Theres A Few Videos Of People Licking Them And One Video Titled "Armpit Joi"
+So I Guess Its Straight Up Not A Thing
+
+There's Some Of The Stuff I Didnt Add
 
 
 
-<center><sub>Done For Now :DD</sub></center>
+<center><sub>Done For Now
+{ #w}
+^ </sub></center>
 
 
 <script src="https://utteranc.es/client.js"
