@@ -106,7 +106,7 @@ Its Tuesday
 Ive Spent The Whole Time Feeling Like A Zombie Then Being Dragged Out Of My Cosy Void
 Also Had So Much I Wanted To Write But Just Never Did
 
-Riddle Podcast: The Sculptor Turned Farmer Was In The Sh__ Resulting In A Lovely ___
+Riddle Podcast: The Sculptor Turned Farmer Was In The Sh_ Resulting In A Lovely___
 One Of The Hosts Like Immediately: Ed Sheeran Shape Of You
 (In The Shed Shearing And Shape Of Yew)
 Idk How She Got That Because I Still Think Its Dumb
@@ -139,9 +139,7 @@ There's Some Of The Stuff I Didnt Add
 Gonna Make A [[Explicitly Showcased/From Others/Quotes\|Quotes]] Thing
 And Now That Ive Written That Its linked Forever
 
-<center><sub>Done For Now
-{ #w}
-^ </sub></center>
+<center><sub>Done For Now <b>^w^</b> </sub></center>
 
 
 <script src="https://utteranc.es/client.js"
