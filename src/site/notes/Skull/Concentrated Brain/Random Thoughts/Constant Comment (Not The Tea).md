@@ -46,18 +46,18 @@ I Think Its Designed So That You Cant Find Anything
 The Chemistry Is By Textiles 
 The Psychology Is Above Renewable Energy
  And It Seems To Be Alphabetical Within The Subject?
-I Got To My Class And There Already People There
+I Got To My Class And There Already [[Skull/Concentrated Brain/Random Facts/People/People\|People]] There
 
- First Time Ive Touched My Phone For An Hour Or Two
+First Time Ive Touched My Phone For An Hour Or Two
 Im Becoming More Familiar With The Back Of My Eyelids Than The Contents Of My Imagination
 To Sleep Per Chance To Dream But To Be Forced To Struggle Through A Waking Nightmare Is Just To Suffer Eternity In Your Own Mind
 
- The One Thing I Hate About Trains Is Im Nevee Sure Im On The Right One Until The Announcer Speaks
+The One Thing I Hate About Trains Is Im NeveR Sure Im On The Right One Until The Announcer Speaks
 Like Im Sitting Here And The Train Goes "Beep Boop Train To Shrewsbury" And Im Like Cool
- Im Not Going To Shrewsbury But Wolverhampton Is A Stop On That Train 
+Im Not Going To Shrewsbury But Wolverhampton Is A Stop On That Train 
 I Know All This Its All Goo
- The Problem Is That That Doesn't Play Until The Doors Are Closed
-So If It Said The Wrong Train Id Just Have To Be Like •_•
+The Problem Is That That Doesn't Play Until The Doors Are Closed
+So If It Said The Wrong Train Id Just Have To Be Like • _ •
  Then Now That Its Moving It Like "Where Also Stopping At All These Places" And Im Like I Know 
 Thats The Train I Got On
 
@@ -69,9 +69,9 @@ The Catagory Arangement Still Feels Arbitrary
 Testing A Thing
 Dont Worry About It
 
-Okay Cool; Looks Like It Works
+[[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] Cool; Looks Like It Works
 
-There Is Nothing I Wanna Eat In This Whole City!
+There Is [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] I Wanna Eat In This Whole City!
 Im Gonna Starve And Im Gonna Laugh 
 (I'll Probably Eat In Town But Still)
 What Even Is "Good Food"
@@ -80,11 +80,11 @@ https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actua
 
 Interesting: I Can Boot Multiple Instances Of This Application Which (Since Its Locked) Means That I Cant Close Any Instances Of It
 
-I Went Back And Added Some Stuff I Said To My Sunshine 
+I Went Back And Added Some Stuff I Said To My [[Explicitly Showcased/Sunshine/Sunshine\|Sunshine]] 
 
 Just Diagnosed Someone With Autism And They Were Like "Yep"
 
-Ive Got More Things To Do Than I Have Time To Sleep But Tolorrow I Have Things To Do So Its Time To Sleep?
+Ive Got More Things To Do Than I Have Time To Sleep But Tomorrow I Have Things To Do So Its Time To Sleep?
 
 I Didnt Sleep I Messed With The Laptop 
 
@@ -93,17 +93,17 @@ Spotify Was Using Automatic Quality
 
 I Was Gonna Read On The Train But I Still Dont Trust Them
 
-So Many Thoughts, Nond Of Which Carey With Them The Drive For Dictation 
-Im Just Thinking And Existing And Dealing With It Because I Just Donr Feel Like Writing It
+So Many Thoughts, None Of Which Carry With Them The Drive For Dictation 
+Im Just Thinking And Existing And Dealing With It Because I Just Dont Feel Like Writing It
 
-I Haven't Updated This In A While But Thats Because Im Sectretly <b>Losing My Mind!</b>
+I Haven't Updated This In A While But Thats Because Im Secretly <b>Losing My Mind!</b>
 
 "Im Going To Go Watch Big Brother"
 "Do You Wanna Hear A [[Skull/Concentrated Brain/Random Facts/People Repellant/Human Centipede/Human Centipede\|Human Centipede]] Fact‽‽‽‽"
 
 Today- This Week (42 2023) Has Been Stressful 
 Its Tuesday 
-Ive Spent The Whole Time Feeling Like A Zombie Then Being Dragged Out Of My Cozy Void
+Ive Spent The Whole Time Feeling Like A Zombie Then Being Dragged Out Of My Cosy Void
 Also Had So Much I Wanted To Write But Just Never Did
 
 Riddle Podcast: The Sculptor Turned Farmer Was In The Sh__ Resulting In A Lovely ___
@@ -112,31 +112,32 @@ One Of The Hosts Like Immediately: Ed Sheeran Shape Of You
 Idk How She Got That Because I Still Think Its Dumb
 
 https://youtu.be/zHHQusnYY3c?si=fKYYsvFJHomCnpDf I Was Thinking About A Video Like This Last Nigh
-Amhorithms AmIRight
+Algorithms AmIRight
 
 
 https://youtu.be/HwAPLk_sQ3w?si=sAsU8B0mMT07Wnhz
-I Dissociated In And Out Of My Dearg And Missed The Premier But This Is So Good
+I Dissociated In And Out Of My Death And Missed The Premier But This Is So Good
 
 Short Version: Remembered One Of My Friends Knows Someone With An Armpit Fetish And Im Wondering How You Know You Have An Armpit Fetish 
 Like What Steps Do You Have To Take To Know Its Specifically That
-I Just Feel Like "Body Part" Is Too Specific
- I Figured It Out!
+I Just Feel Like "[[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] Part" Is Too Specific
+I Figured It Out!
 Watching Someone Change In The Gym And Youre Staring At Them For Ages
 Then You Go "Im Only Staring At Their Armpits"
 Then You Go Home Annd Figure It Out From There
 Its Just That I Can Imagine Someone Finding Bdsm Porn And Being Like "I Want More Of This"
 But Does Armpit Porn Even Exist?
 <p align=right> You should see <p>
-I Was Gonna Say "Im Okay" But When Have I Ever Not Been Curious
+I Was Gonna Say "Im [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]" But When Have I Ever Not Been Curious
 Of The Top Ten Images Three Of Them Have Actual Armpits As A Focus
 Almost All Of Pornhubs Results Are Just Other Porn But Also Armpits Exist
-But Theres A Few Videos Of People Licking Them And One Video Titled "Armpit Joi"
+But Theres A Few Videos Of [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Licking Them And One Video Titled "Armpit Joi"
 So I Guess Its Straight Up Not A Thing
 
 There's Some Of The Stuff I Didnt Add
 
-
+Gonna Make A [[Explicitly Showcased/From Others/Quotes\|Quotes]] Thing
+And Now That Ive Written That Its linked Forever
 
 <center><sub>Done For Now
 { #w}
