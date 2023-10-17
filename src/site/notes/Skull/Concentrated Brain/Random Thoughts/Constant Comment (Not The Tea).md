@@ -124,10 +124,10 @@ I Just Feel Like "[[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] P
 I Figured It Out!
 Watching Someone Change In The Gym And Youre Staring At Them For Ages
 Then You Go "Im Only Staring At Their Armpits"
-Then You Go Home Annd Figure It Out From There
+Then You Go Home And Figure It Out From There
 Its Just That I Can Imagine Someone Finding Bdsm Porn And Being Like "I Want More Of This"
 But Does Armpit Porn Even Exist?
-<p align=right> You should see <p>
+<p align=right> You should see </p>
 I Was Gonna Say "Im [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]" But When Have I Ever Not Been Curious
 Of The Top Ten Images Three Of Them Have Actual Armpits As A Focus
 Almost All Of Pornhubs Results Are Just Other Porn But Also Armpits Exist
@@ -139,8 +139,7 @@ There's Some Of The Stuff I Didnt Add
 Gonna Make A [[Explicitly Showcased/From Others/Quotes\|Quotes]] Thing
 And Now That Ive Written That Its linked Forever
 
-<center><sub>Done For Now <b>^w^</b> </sub></center>
-
+<center><sub>Done For Now \^w^ </sub></center>
 
 <script src="https://utteranc.es/client.js"
         repo="WonderingGodling/My-Mind-Space"
