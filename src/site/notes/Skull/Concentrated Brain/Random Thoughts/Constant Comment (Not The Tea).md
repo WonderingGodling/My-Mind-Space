@@ -139,6 +139,27 @@ There's Some Of The Stuff I Didnt Add
 Gonna Make A [[Explicitly Showcased/From Others/Quotes\|Quotes]] Thing
 And Now That Ive Written That Its linked Forever
 
+Ive Done Nothing Today Because I
+Want To Die
+
+Watching Fun Dougdoug Video Where He Fails At Mario For Six Hours
+That Doesn't Sound Fun?
+Neither Does Breathing
+So On The Scale Of Enjoyment Im Leaning Towards Doing Something I Guess
+
+Right Now I Regret Everything I Feel
+And I Feel Nothing
+
+My Friend Threatened To Wear A "Lil Black Skirt" And If They Do I'll Strangle Them /Affectionate 
+
+Very Few Things Bring Me Happiness
+And One Of Those Things Has Been Leaving Me On Read For Hours
+Happiness Is A Lie
+Life Is A Chain Of Suffering
+Thank You For Coming To My Ted Talk
+
+Zoned Out So Hard Buy Only For An Hour So We're Good I Think
+
 <center><sub>Done For Now \^w^ </sub></center>
 
 <script src="https://utteranc.es/client.js"
