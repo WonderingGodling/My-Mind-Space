@@ -178,6 +178,25 @@ Theres A Person In Front Of Me Who Has A Bright Pink Backpack And Is Standing Ne
 
 It Had A Kuromi Badge!!
 
+Went To Bed At Like Six Last Night (For Eight Hours)
+Best Sleep Of Like A Month
+
+Two People On My Train Just Shout-Sang "Naked Twister"
+They Group Theyre In Is Introducing Each Other With Their Names And How Many Drinks Theyve Had
+
+I Think Most People With Low Self-Esteem Or Shitty Parents Feel A Deep Desire To Be Loved But I Feel Like It Just Made Me Hate The Concept
+Maybe Thats What Dads From The Seventies Were Aiming For 
+"If I Hate My Son He'll Become Emotionally Unavailable Then I'll Never Have To Deal With It Again"
+Well Ive Got Good News And Bad News For Ya
+The Good News Is: I Want To Kill Myself More Than I Want To Be Happy
+The Bad News Is I Dont Hate Gay People So....Sorry Dad
+
+I Just Took A Pepper Grinder From The Kitchen From My Room For No Reason
+I Have Mcdonalds; Why Would I Want Mcdonalds To Taste Good
+I Dont Know What My Subconscious Is Up To
+Theres Cayenne In My Pocket
+
+
 <center><sub>Done For Now \^w^ </sub></center>
 
 <script src="https://utteranc.es/client.js"
