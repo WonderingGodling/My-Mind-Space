@@ -196,6 +196,18 @@ I Have Mcdonalds; Why Would I Want Mcdonalds To Taste Good
 I Dont Know What My Subconscious Is Up To
 Theres Cayenne In My Pocket
 
+Mmmm
+Markiplier Isnt Cheering Me Up And I Dont Feel Like Music Right Now
+
+I Used The Peppers
+Good Job Me
+
+Mark Made Me Laugh
+We Got Spooked Together <3
+
+The Stanley Parable
+The Eye, The Lonely
+
 
 <center><sub>Done For Now \^w^ </sub></center>
 
