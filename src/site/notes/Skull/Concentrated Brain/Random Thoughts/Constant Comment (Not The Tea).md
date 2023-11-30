@@ -160,6 +160,24 @@ Thank You For Coming To My Ted Talk
 
 Zoned Out So Hard Buy Only For An Hour So We're Good I Think
 
+Im Currently Doing Nothing On This Train
+My Book And Headphones Are In My Bag And Getting Either Will Take Way More Energy Than I Have 
+
+Not Everyones As Dried Apricots As They Think They Are
+
+Woke Up At Like 2100 Spent ThreeHours Eating And Now Im Just Existing At 1
+
+I Love That Gertrude Robinson "Died In The Line Of Duty"
+
+Just Walked Passed A Homeless Guy With a Cat Which Is Honestly Genuis
+His Cat Was This Absolutely Adorable Little Bicolour And Of Course Nobody wants Them To Starve Or Anything So Give The Man Some Money So The Kitty Can Be Happy!
+
+<b>"Whats The Point Of Trying To Stay Alive All This Time....If Im Going To Die By My Own Hand"</b>
+
+Theres A Person In Front Of Me Who Has A Bright Pink Backpack And Is Standing Next To Someone Whos Jumper Is That Exact Shade Of Pink
+
+It Had A Kuromi Badge!!
+
 <center><sub>Done For Now \^w^ </sub></center>
 
 <script src="https://utteranc.es/client.js"
