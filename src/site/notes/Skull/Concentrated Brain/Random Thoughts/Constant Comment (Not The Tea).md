@@ -257,8 +257,53 @@ Remember Me Making Fun Of The Armpit Guy Because "How The Ft Dod He Figure That 
 Ive Changed My Opinion
 <details>
     <summary>I Dont Know If This Video Is Safe For Work But Its Relevant So Probably Not</summary>
-    ![[Zaotram - Class of '09 Full Gameplay [ML_NpTmAa5U - 668x376 - 1h05m02s].png]]
+    https://imgur.com/a/cMoyZLT
 </details>
+
+Did Yall Know You Can Group Call On The Lovesense App?
+
+I can’t fix him but
+I can fuck him and maybe
+that’ll calm him down
+
+girls who eat pussy
+for their own pleasure go to
+heaven btw
+
+I Think If A Guy Gets A Girl Pregnant She Should Just Be Able To Give Him The Pregnancy
+That Would Be A Great Update To Human Biology
+
+I Found Out One Of My Friends Is Into Rope Bondage
+He Doesn't Live In England
+Most Of The People Begging To Be Roped Live Way Too Far Or Are Wat Too Busy
+Pointless
+
+This Shopkeeper Just Tried To Steal 20p From Me
+I Was Buying Monster And They Were All 1.55 Except The One I Wanted And The Guy Typed Out 1.55 Into The Card Machine 
+And I Wouldn't Be Upset If He Didnt Turn The Can To Check First
+100% Just Being A Dick
+
+I Was Sitting On The Floor Trying To Listen To Shit And A Group Of Girls Srated Standing Around Me (Literally) And Had The Loudest Conversation About Nothing :/
+
+https://x.com/SlayzKiana/status/1717001251215515673?t=tFC5NqKSVIRiTqQiAwq_9w&s=09
+
+I Just Deepthroated A Knife
+
+The Other Day I Was Trying To Remember Who Voices Johnathan Sims From The Magnus Archives
+Now That I Know I Also Know Why I Couldn't Remember
+Its Jonathan Sims
+I Was Like "Not The Character, The Actor"
+
+Oh Yeah Dumb Riddle
+"Forwards Im Like Buffalo, Backwards Im Like B U F A L And O"
+
+One Of My Discord Friends Got Paws
+
+Flowers Cant Cum :(
+
+I Would Be So Normal With A Pet Human
+Like "Yeah Thats My Dog /Gen"  Vibes
+
 
 
 <center><sub>Done For Now \^w^ </sub></center>
