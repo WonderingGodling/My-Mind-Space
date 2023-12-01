@@ -20,11 +20,16 @@
 <span style="color:#F00000">Elias</span>, <span style="color:#00F000">Peter</span>- Tma
 
 
+<span style="color:#BBBBFF"><b>"Whats The Point Of Trying To Stay Alive All This Time....If Im Going To Die By My Own Hand"</b></span>
+Tobias- GE
 
+<span style="color:#D2C262">"The Sculptor Turned Farmer Was In The Sh_ Resulting In A Lovely___"</span>
+<span style="color:#855123">"Ed Sheeran Shape Of You"</span>
+<span style="color:#D2C262">Sandy</span>, <span style="color:#855123">Erin</span>- HRR
 
-
-
-
+<span style="color:#90F08D">"Im Going To Go Watch Big Brother"</span>
+<span style="color:#D00009">"Do You Wanna Hear A [[Skull/Concentrated Brain/Random Facts/People Repellant/Human Centipede/Human Centipede\|Human Centipede]] Fact‽‽‽‽"</span>
+<span style="color:#90F08D">Roo, <span style="color:#D00009">[[Explicitly Showcased/Me/Me\|Me]]</span>
 
 
 
