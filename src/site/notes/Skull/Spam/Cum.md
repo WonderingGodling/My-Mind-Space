@@ -8,16 +8,13 @@
 # <span style="color:#FFFFFF">Cum</span>
 
 
-
+Flowers Cant Cum :(
 
 
 ![Pasted image 20231201013046.png](/img/user/images/Pasted%20image%2020231201013046.png)
 
 
-<details>
-    <summary>Details</summary>
-    Something small enough to escape casual notice.
-</details>
+
 
 
 
