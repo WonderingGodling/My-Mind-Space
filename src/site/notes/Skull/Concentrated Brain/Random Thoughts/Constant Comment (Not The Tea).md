@@ -112,18 +112,10 @@ Im Just Thinking And Existing And Dealing With It Because I Just Dont Feel Like 
 
 I Haven't Updated This In A While But Thats Because Im Secretly <b>Losing My Mind!</b>
 
-"Im Going To Go Watch Big Brother"
-"Do You Wanna Hear A [[Skull/Concentrated Brain/Random Facts/People Repellant/Human Centipede/Human Centipede\|Human Centipede]] Fact‽‽‽‽"
-
 Today- This Week (42 2023) Has Been Stressful 
 Its Tuesday 
 Ive Spent The Whole Time Feeling Like A Zombie Then Being Dragged Out Of My Cosy Void
 Also Had So Much I Wanted To Write But Just Never Did
-
-Riddle Podcast: The Sculptor Turned Farmer Was In The Sh_ Resulting In A Lovely___
-One Of The Hosts Like Immediately: Ed Sheeran Shape Of You
-(In The Shed Shearing And Shape Of Yew)
-Idk How She Got That Because I Still Think Its Dumb
 
 ## Sneaky Imports
 https://youtu.be/zHHQusnYY3c?si=fKYYsvFJHomCnpDf I Was Thinking About A Video Like This Last Nigh
@@ -155,28 +147,28 @@ There's Some Of The Stuff I Didnt Add
 Gonna Make A [[Explicitly Showcased/From Others/Quotes\|Quotes]] Thing
 And Now That Ive Written That Its linked Forever
 
-Ive Done Nothing Today Because I
+Ive Done [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] Today Because I
 Want To Die
 
 Watching Fun Dougdoug Video Where He Fails At Mario For Six Hours
 That Doesn't Sound Fun?
 Neither Does Breathing
-So On The Scale Of Enjoyment Im Leaning Towards Doing Something I Guess
+So On The Scale Of Enjoyment Im Leaning Towards Doing [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] I Guess
 
 Right Now I Regret Everything I Feel
-And I Feel Nothing
+And I Feel [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]
 
 My Friend Threatened To Wear A "Lil Black Skirt" And If They Do I'll Strangle Them /Affectionate 
 
-Very Few Things Bring Me Happiness
-And One Of Those Things Has Been Leaving Me On Read For Hours
+Very Few Things Bring [[Explicitly Showcased/Me/Me\|Me]] Happiness
+And One Of Those Things Has Been Leaving [[Explicitly Showcased/Me/Me\|Me]] On Read For Hours
 Happiness Is A Lie
 Life Is A Chain Of Suffering
 Thank You For Coming To My Ted Talk
 
 Zoned Out So Hard Buy Only For An Hour So We're Good I Think
 
-Im Currently Doing Nothing On This Train
+Im Currently Doing [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] On This Train
 My Book And Headphones Are In My Bag And Getting Either Will Take Way More Energy Than I Have 
 
 Not Everyones As Dried Apricots As They Think They Are
@@ -185,29 +177,27 @@ Not Everyones As Dried Apricots As They Think They Are
 
 Woke Up At Like 2100 Spent Three Hours Eating And Now Im Just Existing At 1
 
-I Love That Gertrude Robinson "Died In The Line Of Duty"
-
 Just Walked Passed A Homeless Guy With a Cat Which Is Honestly Genuis
 His Cat Was This Absolutely Adorable Little Bicolour And Of Course Nobody wants Them To Starve Or Anything So Give The Man Some Money So The Kitty Can Be Happy!
 
 <b>"Whats The Point Of Trying To Stay Alive All This Time....If Im Going To Die By My Own Hand"</b>
 
-Theres A Person In Front Of Me Who Has A Bright Pink Backpack And Is Standing Next To Someone Whos Jumper Is That Exact Shade Of Pink
+Theres A Person In Front Of [[Explicitly Showcased/Me/Me\|Me]] Who Has A Bright Pink Backpack And Is Standing Next To Someone Whos Jumper Is That Exact Shade Of Pink
 
 It Had A Kuromi Badge!!
 
 Went To Bed At Like Six Last Night (For Eight Hours)
 Best Sleep Of Like A Month
 
-Two People On My Train Just Shout-Sang "Naked Twister"
+Two [[Skull/Concentrated Brain/Random Facts/People/People\|People]] On My Train Just Shout-Sang "Naked Twister"
 They Group Theyre In Is Introducing Each Other With Their Names And How Many Drinks Theyve Had
 
-I Think Most People With Low Self-Esteem Or Shitty Parents Feel A Deep Desire To Be Loved But I Feel Like It Just Made Me Hate The Concept
+I Think Most [[Skull/Concentrated Brain/Random Facts/People/People\|People]] With Low Self-Esteem Or Shitty Parents Feel A Deep Desire To Be Loved But I Feel Like It Just Made [[Explicitly Showcased/Me/Me\|Me]] Hate The Concept
 Maybe Thats What Dads From The Seventies Were Aiming For 
 "If I Hate My Son He'll Become Emotionally Unavailable Then I'll Never Have To Deal With It Again"
 Well Ive Got Good News And Bad News For Ya
 The Good News Is: I Want To Kill Myself More Than I Want To Be Happy
-The Bad News Is I Dont Hate Gay People So....Sorry Dad
+The Bad News Is I Dont Hate Gay [[Skull/Concentrated Brain/Random Facts/People/People\|People]] So....Sorry Dad
 
 I Just Took A Pepper Grinder From The Kitchen From My Room For No Reason
 I Have Mcdonalds; Why Would I Want Mcdonalds To Taste Good
@@ -215,12 +205,12 @@ I Dont Know What My Subconscious Is Up To
 Theres Cayenne In My Pocket
 
 Mmmm
-Markiplier Isnt Cheering Me Up And I Dont Feel Like Music Right Now
+Markiplier Isnt Cheering [[Explicitly Showcased/Me/Me\|Me]] Up And I Dont Feel Like Music Right Now
 
 I Used The Peppers
-Good Job Me
+Good Job [[Explicitly Showcased/Me/Me\|Me]]
 
-Mark Made Me Laugh
+Mark Made [[Explicitly Showcased/Me/Me\|Me]] Laugh
 We Got Spooked Together <3
 
 The Stanley Parable
@@ -229,9 +219,9 @@ The Eye, The Lonely, The Spiral, The Vast (At One Point)
 I Dont Have The Energy To Do Anything I Was Gonna Do
 
 ## Mother
-Theres A Scene At The End Of A Lot Of Hamtaro Episodes Where The Mother (I Dont Remember Anyones Names) Says Something About Or Directed Towards The Daughter But Says The Wrong Name
-Theres One Scene In Particular Thats Stuck With Me Where The Mother Addresses The Girl As "Brandy" To Which She Replies "Thats The Dog Mom...."
-The Reason Its Always Stuck With Me Is Because Thats How I Feel Every Time I Have A Conversation With My Mother
+Theres A Scene At The End Of A Lot Of Hamtaro Episodes Where The Mother (I Dont Remember Anyones Names) Says [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] About Or Directed Towards The Daughter But Says The Wrong Name
+Theres One Scene In Particular Thats Stuck With [[Explicitly Showcased/Me/Me\|Me]] Where The Mother Addresses The Girl As "Brandy" To Which She Replies "Thats The Dog Mom...."
+The Reason Its Always Stuck With [[Explicitly Showcased/Me/Me\|Me]] Is Because Thats How I Feel Every Time I Have A Conversation With My Mother
 I Know Shes Not Listening And That I Have - And Will Have To - Repeat Whatever I Just Said To Someone Who Ultimately Doesnt Care One Way Or The Other
 
 Fuck I Dont Update This Enough
@@ -243,7 +233,7 @@ Wearing My Friends Shirt And On My Way To Town They Said They Were Getting The T
 They Didnt Notice I Was Wearing Her Shirt Until I Pointed It Out Smh
 
 Just Read A Yuri Manga And The More I Read The More I Was Like "This Is Not A Healthy Thing To Read"
-Then It Ended And I Was Just Like "....Okay Sure"
+Then It Ended And I Was Just Like "....[[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] Sure"
 
 I Dont Feel Anything About It 
 Cant Decide If It Was a Happy Ending Or What
@@ -251,10 +241,11 @@ Cant Decide If It Was a Happy Ending Or What
 I Just Saw A Steam Comment "Homestuck? Well Yeah Its Bolted To The Ground"
 
 Nonbinary Dom Like
-"My Pronouns Are Master/Master's; You Will Adress Me On Your Knees"
+"My Pronouns Are Master/Master's; You Will Adress [[Explicitly Showcased/Me/Me\|Me]] On Your Knees"
 
-Remember Me Making Fun Of The Armpit Guy Because "How The Ft Dod He Figure That Out‽"
+Remember [[Explicitly Showcased/Me/Me\|Me]] Making Fun Of The Armpit Guy Because "How The Ft Dod He Figure That Out‽"
 Ive Changed My Opinion
+
 <details>
     <summary>I Dont Know If This Video Is Safe For Work But Its Relevant So Probably Not</summary>
     https://imgur.com/a/cMoyZLT
@@ -262,49 +253,34 @@ Ive Changed My Opinion
 
 Did Yall Know You Can Group Call On The Lovesense App?
 
-I can’t fix him but
-I can fuck him and maybe
-that’ll calm him down
-
-girls who eat pussy
-for their own pleasure go to
-heaven btw
 
 I Think If A Guy Gets A Girl Pregnant She Should Just Be Able To Give Him The Pregnancy
 That Would Be A Great Update To Human Biology
 
 I Found Out One Of My Friends Is Into Rope Bondage
 He Doesn't Live In England
-Most Of The People Begging To Be Roped Live Way Too Far Or Are Wat Too Busy
+Most Of The [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Begging To Be Roped Live Way Too Far Or Are Wat Too Busy
 Pointless
 
-This Shopkeeper Just Tried To Steal 20p From Me
+This Shopkeeper Just Tried To Steal 20p From [[Explicitly Showcased/Me/Me\|Me]]
 I Was Buying Monster And They Were All 1.55 Except The One I Wanted And The Guy Typed Out 1.55 Into The Card Machine 
 And I Wouldn't Be Upset If He Didnt Turn The Can To Check First
 100% Just Being A Dick
 
-I Was Sitting On The Floor Trying To Listen To Shit And A Group Of Girls Srated Standing Around Me (Literally) And Had The Loudest Conversation About Nothing :/
+I Was Sitting On The Floor Trying To Listen To Shit And A Group Of Girls Srated Standing Around [[Explicitly Showcased/Me/Me\|Me]] (Literally) And Had The Loudest Conversation About [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] :/
 
 https://x.com/SlayzKiana/status/1717001251215515673?t=tFC5NqKSVIRiTqQiAwq_9w&s=09
 
 I Just Deepthroated A Knife
 
-The Other Day I Was Trying To Remember Who Voices Johnathan Sims From The Magnus Archives
-Now That I Know I Also Know Why I Couldn't Remember
-Its Jonathan Sims
-I Was Like "Not The Character, The Actor"
-
-Oh Yeah Dumb Riddle
-"Forwards Im Like Buffalo, Backwards Im Like B U F A L And O"
-
 One Of My Discord Friends Got Paws
 
-Flowers Cant Cum :(
-
-I Would Be So Normal With A Pet Human
-Like "Yeah Thats My Dog /Gen"  Vibes
+Flowers Cant [[Skull/Spam/Cum\|Cum]] :(
 
 
+[[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] Cool
+
+## Back To Normal?
 
 <center><sub>Done For Now \^w^ </sub></center>
 
