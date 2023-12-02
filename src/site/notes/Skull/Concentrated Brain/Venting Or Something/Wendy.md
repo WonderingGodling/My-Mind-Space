@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Mother","permalink":"/Mother/","tags":["Tagless"],"dgShowLocalGraph":null,"dgShowToc":null}
+{"dg-publish":true,"dg-permalink":"Mother","permalink":"/Mother/","tags":["Tagless"]}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -36,19 +36,29 @@ But When She Doesnt Pick Up We Shouldnt Be Looking Out For Her In The First Plac
 
 
 ## Mother
-Theres A Scene At The End Of A Lot Of Hamtaro Episodes Where The Mother (I Dont Remember Anyones Names) Says [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] About Or Directed Towards The Daughter But Says The Wrong Name
-Theres One Scene In Particular Thats Stuck With [[Explicitly Showcased/Me/Me\|Me]] Where The Mother Addresses The Girl As "Brandy" To Which She Replies "Thats The Dog Mom...."
-The Reason Its Always Stuck With [[Explicitly Showcased/Me/Me\|Me]] Is Because Thats How I Feel Every Time I Have A Conversation With My Mother
+
+Theres A Scene At The End Of A Lot Of Hamtaro Episodes Where The Mother (I Dont Remember Anyones Names) Says [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] About Or Directed Towards The Daughter But Says The Wrong Name  
+Theres One Scene In Particular Thats Stuck With [[Explicitly Showcased/Me/Me\|Me]] Where The Mother Addresses The Girl As "Brandy" To Which She Replies "Thats The Dog Mom...."  
+The Reason Its Always Stuck With [[Explicitly Showcased/Me/Me\|Me]] Is Because Thats How I Feel Every Time I Have A Conversation With My Mother  
 I Know Shes Not Listening And That I Have - And Will Have To - Repeat Whatever I Just Said To Someone Who Ultimately Doesnt Care One Way Or The Other
 
-Fuck I Dont Update This Enough
+Fuck I Dont Update This Enough  
 More Imports:
 
 
 </div></div>
 
 
+She Woke Me Up Then Said "So Youre Just Not Coming To Church Then?"
+So I Got Up And She Shouted At Me On My Way Down The Stairs (To Be Fair To Her: She Shouted QtMe Because She Thought I Was My Brother So Thats Totally Fine Right?) 
+Then I Said "The Hostility Isnt Necessary" And She Exclaimed "Just Go Back To Sleep!"
+I May Not Understand Social Cues But I Know What "We Hate You Please Die" Means So I Went Back To Bed
 
+same day she buys food from a chip shop (Because she hasnt cooked in a week or two) And She Goes Into The Kitchen
+My Brother Comes To Get Me From My Room And When We Get Back Shes Setting Out The Food, My Brothers' In A Plate, Bread Being Buttered To Go Along With It
+The Two Of Them Have A Chat And In The Middle Of This Chat My Food (Still In The Bag Gets Thrusted Towards Me")
+So I Just Watched Her Be Nice To My Brother While Waiting For Her To Move So I Can Get A Fork
+Im Not  Saying Dont Have Favourites, I Am Saying Dont Neglect Your Child (I Still Got Food So I Know We'll Both Count It As A Win)
 
 
 
