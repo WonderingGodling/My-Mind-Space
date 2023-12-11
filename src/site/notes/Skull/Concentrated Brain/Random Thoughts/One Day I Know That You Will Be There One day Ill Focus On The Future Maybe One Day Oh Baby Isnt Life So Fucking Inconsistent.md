@@ -15,8 +15,8 @@ I Also Got Four Monsters And Was Going To Down Them All But Dan Took One (Which 
 
 When I Got To The Venue It Was Like Two Hours Early But The Line Still Stretched Down The Entire Road And Around The Corner So I Joined The Line To Save A Space Which Was Definitely The Best Move
 It Looked Like The Line Wrapped Around The Whole Block And I Was **Not** Standing At The Back Of That :)
-We Saw So Many Cool Gay [[Skull/Concentrated Brain/Random Facts/People/People\|People]] With Pride Flags And L'manburgh Flags (I Guess Those Are The Same Thing Now That I Think About It) But [[Explicitly Showcased/Me/Me\|Me]] And Dan Signed The L'manburgh Flag Which Was Cool
-We Also Saw One Or Two Juggalos! I Couldnt Tell If It Was The Same Person Walking Past [[Explicitly Showcased/Me/Me\|Me]] Twice (In The Same Direcrtion) Or If It Was Two Different [[Skull/Concentrated Brain/Random Facts/People/People\|People]] With Similar Outfits And Makeup
+We Saw So Many Cool Gay [[Skull/Concentrated Brain/Random Facts/People/People\|People]] With Pride Flags And L'manburgh Flags (I Guess Those Are The Same Thing Now That I Think About It) But [[Me\|Me]] And Dan Signed The L'manburgh Flag Which Was Cool
+We Also Saw One Or Two Juggalos! I Couldnt Tell If It Was The Same Person Walking Past [[Me\|Me]] Twice (In The Same Direcrtion) Or If It Was Two Different [[Skull/Concentrated Brain/Random Facts/People/People\|People]] With Similar Outfits And Makeup
 Either Way I Didnt See Them Again That Night
 And A Couple [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Loved "My" Hello Kitty Hoodie 
 
@@ -32,7 +32,7 @@ Lovejoy Came Out And Everyone Screamed (Low-Key Shocked That I Could Still Hear 
 Oh Yeah At One Point There Was A Group Of Kids Stacking Plastic Cups And It Went Super High
 Anyway Lovejoy Came On, Wilbur Soot Took Centre Mic And Said "Uh Hello" (Each Pause Had A Bunch Of Loud Screams After It) "We're A Band Called Lovejoy.... And We Were Hoping To Perform Some Songs For You Tonight..I Hope Thats [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] With You Guys" 
 The First Song They Sang Was Perfume Which Was Introduced As "A Song About Not Knowing What Love Is....Or A Type Of Cologne I Guess" Which Is So Their Vibe
-They Also Performed Songs About "A Prime Minister We Had Once", "A Man Whos A Left Leaning Gentleman And His Wife Who Is Married To A Left Leaning Gentleman But She Sneaks Out At Night To Sleep With You So You Blackmail Her Saying Ill Tell Your Husband If You Dont Give [[Explicitly Showcased/Me/Me\|Me]] All Your Money Which We've All Been Through. Im Sure, Im Sure Its A Very Common Experience Shared By Everyone In This Room", And "Consequences" (Wilbur Wasnt A Fan Of That Introduction)
+They Also Performed Songs About "A Prime Minister We Had Once", "A Man Whos A Left Leaning Gentleman And His Wife Who Is Married To A Left Leaning Gentleman But She Sneaks Out At Night To Sleep With You So You Blackmail Her Saying Ill Tell Your Husband If You Dont Give [[Me\|Me]] All Your Money Which We've All Been Through. Im Sure, Im Sure Its A Very Common Experience Shared By Everyone In This Room", And "Consequences" (Wilbur Wasnt A Fan Of That Introduction)
 And Every Time They Ended A Song By Like Dying
 Like A Standing Ragdoll With All The Lights Turning Off For A Second
 The Lights Were Fantastic! Whoever Was In Charge Of The Lighting Effects Deserves A Raise
