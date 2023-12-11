@@ -17,4 +17,4 @@ Thats The Fear Of Knowledge Or Learning [[Skull/Concentrated Brain/Poetry Appare
 I Feel Most Comfortable Opposing This So Estemophilia
 Which Ill Describe As A Desire To Acquire More, New Information
 
-This Is An Unrelated Thought Im Adding In Editing But Love You [[Explicitly Showcased/Sunshine/Sunshine\|Sunny]]
+This Is An Unrelated Thought Im Adding In Editing But Love You [[Sunshine\|Sunny]]
