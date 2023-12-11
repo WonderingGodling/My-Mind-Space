@@ -99,6 +99,8 @@ And Im Gonna Laugh
 All She Does Is Care About Herself And Try To Make My Life A Misery
 So All I'll Do Is Return The Favour
 
+Im Going To Keep Going
+And I Know She Will Too
 
 
 ‍
