@@ -12,15 +12,15 @@ I Dont Know Why She Thinks She Deserves Any Respect From Anybody
 Case And Point: i Just Tried To Explain To Her Why She Should Listen To My Brother Instead Of Just Yelling At Him (For Stuff He Didnt Do (I Only Got To The Lsiten Part, The Rest Was Too Complicated)) And Instead Of Listen To A Word I Said She Threw A Literal Tantrum
 She Jumped Up And Down, Screaming What Started As "I Dont Want To Talk" (Those Of You With Two Brain Cells Will Remember The Only Word Id Said So Far Was "Listen") But Devolved Into Unintelligible Screeching Which Ive Never Heard From Someone Over The Age Of Eight.
 
-Dont Worry Theres So Much More For [[Explicitly Showcased/Me/Me\|Me]] To Say About The Asshole So This'll Be Updated
+Dont Worry Theres So Much More For [[Me\|Me]] To Say About The Asshole So This'll Be Updated
 Also Her Names At The Top Because I Want Everyone To Know This Isnt Some Hypothetical Mother, This Is A Mentally Abusive Piece Of Shit That I Live With Every Day
 
-For The Record (My Record) This Was Created On 334,23 Which Was Supposed To Be A Good Day For [[Explicitly Showcased/Me/Me\|Me]]
+For The Record (My Record) This Was Created On 334,23 Which Was Supposed To Be A Good Day For [[Me\|Me]]
 
 Ive Spoken To Her Twice This Week (48,23)
-The First Time I Didnt Appreciate The Way She Villainized [[Explicitly Showcased/Me/Me\|Me]] And The Second Time Was Just 
+The First Time I Didnt Appreciate The Way She Villainized [[Me\|Me]] And The Second Time Was Just 
 And You Know What? I Bet She Didnt Even Fucking Notice!
-Shes Never Given A Fuck About [[Explicitly Showcased/Me/Me\|Me]] And Everyone Knows It
+Shes Never Given A Fuck About [[Me\|Me]] And Everyone Knows It
 
 (This Next Bit Is Imported)
 She Said She Doesnt Care
@@ -38,8 +38,8 @@ But When She Doesnt Pick Up We Shouldnt Be Looking Out For Her In The First Plac
 ## Mother
 
 Theres A Scene At The End Of A Lot Of Hamtaro Episodes Where The Mother (I Dont Remember Anyones Names) Says [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] About Or Directed Towards The Daughter But Says The Wrong Name  
-Theres One Scene In Particular Thats Stuck With [[Explicitly Showcased/Me/Me\|Me]] Where The Mother Addresses The Girl As "Brandy" To Which She Replies "Thats The Dog Mom...."  
-The Reason Its Always Stuck With [[Explicitly Showcased/Me/Me\|Me]] Is Because Thats How I Feel Every Time I Have A Conversation With My Mother  
+Theres One Scene In Particular Thats Stuck With [[Me\|Me]] Where The Mother Addresses The Girl As "Brandy" To Which She Replies "Thats The Dog Mom...."  
+The Reason Its Always Stuck With [[Me\|Me]] Is Because Thats How I Feel Every Time I Have A Conversation With My Mother  
 I Know Shes Not Listening And That I Have - And Will Have To - Repeat Whatever I Just Said To Someone Who Ultimately Doesnt Care One Way Or The Other
 
 Fuck I Dont Update This Enough  
@@ -60,18 +60,48 @@ The Two Of Them Have A Chat And In The Middle Of This Chat My Food (Still In The
 So I Just Watched Her Be Nice To My Brother While Waiting For Her To Move So I Can Get A Fork
 Im Not  Saying Dont Have Favourites, I Am Saying Dont Neglect Your Child (I Still Got Food So I Know We'll Both Count It As A Win)
 
+She Thinks Shes Some Kind of Saint Or Something 
+She Put Some Random Food In The Oven Last Night For The First Time In Two Weeks And Then Said Absolutely Nothing To Me Until Today 
+"What Did She Say Hazel?"
+Okay So For A Week Or Two Ive Been Trying To Go To This One Shop I Like Because Ive Wanted To Get Some Monster In My Reserves And I Havent Had The Chance
+Yesterday (334•23) I Was Going To Leave But She Persevered In Stopping Me, Willing To Go As Far As To Reveal <b>Shes Hiding Her Own Food And Drinks In Her Fucking Office!!</b> Just Letting Me Die Of Dehydration For The Fun Of It
+Anyway I Finally Had Breathing Room At About 17 And The Shop (Which Is A While Away) Shuts At Half Five So I Couldn't Go Despite That Be The Only Thing On My Entire To-Do List For The Weekend
+All This To Say That Today (After It Stopped Raining Bullets) I Left To Go To This Mystical Shop And The Second I Close The Door I Het The Message "Whose gone out?"
+Im Not Taking That Bait So My Brother Told Her I Left And She Said "Is the kitchen clean then?"
+A) Thats Not A Prerequisite Condition, Nor Was It Ever Discussed
+2) If It Weren't Me That Left (Or Had You Been Hallucinating) Could The Kitchen Have Instead Been Put Into Further Dissaray?
+III) What The Fuck Does Any Of This Have To Do With Your Avatar-Of-The-Web, Up-In- 
+My-Business, Controlling Ass? Fuck Off And Let Me Breathe
+I Just Sent Back A WhatsApp Sticker Of Someone Killing Themself And Let Her Respond With Her Rant About How Shes Been So Nice To Me By Only Cooking Herself Food For Two Weeks And Following It Up With How The Problem Is That I Don't Clean After Myself (I Haven't Eaten In Two Weeks, All The Dirty Dishes Are Of Her Design)
+Moving Onwards A Bit To Relatively Current Events Where In She Steps Into The Kitchen, Stops Moving And Stares At Me For Twenty(Ish) Seconds - I Should Start Timing Those - Before Simultaiously Asking Me When Im Going To Clean Her Mess And Demanding I Do It Right Now
+I Didnt Take The Bait
+Wrong Answer
+After Some Verbal Abuse About Me Being Useless She Says "I Asked You A Question And I Want The Kitchen Cleaned Today", Doubling Down On Pretending I Have Free Will
+I Told Her Tomorrow 
+Wrong Answer Again But I Think Ive Avoided Most Of Her Wrath Until Tomorrow 
+I Will Be Staying Out As Late As I Can So I Dont Have To Deal With Her Shit For Longer Than Necessary, When I Get Back I Will Clean Any Of My Plates Which Are Less Than Satisfactory And Then I Shall Be Going To Bed, Because I Know She Will Not Be Providing Me With Any Necessities
+
+Not Being Able To Feel Hatred For Anyone Is Possibly The Only Thing Keeping Me Sane In This House As It Would be Easier To Hate Her And Break Shit
+
+
+
+‍
 
 
 
 
+<center><sub> Why Do I Bother With Her </sub></center>
+ ‍​ 
+ ‍​ 
+‍​ 
 
-<center><sub>Done :)</sub></center>
 
 
-<script src="https://utteranc.es/client.js"
-        repo="WonderingGodling/My-Mind-Space"
-        issue-term="title"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
-</script>
+  ‍​ 
+
+
+  ‍​ 
+
+  ‍​ 
+
+<center><span style="color:#F00000"><sub>Over And Out  /̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿ (╥﹏╥)
