@@ -13,7 +13,7 @@ Well Two Cool Shark Facts
 2.  the blacktip shark can reproduce asexually
 
 First Off
-Obligitory [[Skull/Concentrated Brain/Random Facts/Sharks/Sharks\|Sharks]] Are Pretty Cool [[Template/Comment\|Comment]]
+Obligitory [[Skull/Concentrated Brain/Random Facts/Sharks/Sharks\|Sharks]] Are Pretty Cool [[Comment\|Comment]]
 Because They Are Awesome
 I Dont Want Both  Apenis And A Vagina, In Fact, I Want Neither Because I Think Both Absolutely Suck But I Do Love The Idea Of A Person Having Both Fully Functoinal
 You DOnt Usually get That In Humans Sadly And I Think Thats A Waste Of Portential
@@ -23,7 +23,7 @@ You Can Shove Your Biodiversity Up Your Ass
 Intercourse Is A Terrible Way For A Species To Reproduce And If You Thought About It For FIve Seeconds Youd Probably Agree
 Most Non-Mammalian Animals (From What I Know) Dont Even Engage In Intersourse And Have Other Ways Of Combining Male And FEmale Gametes
 BUT Thats Besides The Point
-teh point IS that Some [[Skull/Concentrated Brain/Random Facts/Sharks/Sharks\|Sharks]] Being Hermaphroditic And Some Being [[Explicitly Showcased/Me/Asexual\|Asexual]] Is The Peak Of Reproductive Practices
+teh point IS that Some [[Skull/Concentrated Brain/Random Facts/Sharks/Sharks\|Sharks]] Being Hermaphroditic And Some Being [[Asexual\|Asexual]] Is The Peak Of Reproductive Practices
 If You Need To Reproduce You Always Can
 You Can Get A More Biodiverse Offspring Or Just Get [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] That You Know Already Works
 Also CAn You Imagine That As A Human Pairing?
@@ -34,5 +34,5 @@ The Actual Dream
 Imagine Being A Hermaphrodite **And** Being Able To Reproduce Asexually
 sUrvival Of The Fittest Is Fake And [[Skull/Concentrated Brain/Random Facts/Sharks/Sharks\|Sharks]] Run The World
 
-Also Im Going To Leave This Note Open For Future [[Explicitly Showcased/Me/Me\|Me]] Incase I Ever Start Researching Like Shark Mating Rituals Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]
+Also Im Going To Leave This Note Open For Future [[Me\|Me]] Incase I Ever Start Researching Like Shark Mating Rituals Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]
 oR Maybe Why Some [[Skull/Concentrated Brain/Random Facts/Sharks/Sharks\|Sharks]] Lay Eggs And Others Dont
