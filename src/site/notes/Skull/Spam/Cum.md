@@ -11,7 +11,7 @@
 Flowers Cant Cum :(
 
 
-![Pasted image 20231201013046.png](/img/user/images/Pasted%20image%2020231201013046.png)
+![[Pasted image 20231201013046.png\|Pasted image 20231201013046.png]]
 
 
 
