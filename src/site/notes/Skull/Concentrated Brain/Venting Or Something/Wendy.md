@@ -5,22 +5,22 @@
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 
-# <span style="color:#F00000">My Mother: A Failure In Three Acts Part Who Gives A Fuck (I Know She Doesnt)</span>
+# <center><span style="color:#F00000">My Mother: A Failure In Three Acts Part Who Gives A Fuck (I Know She Doesnt)</span>
 
 Finally Snapped And Decided To Make This Shit Public Because Im Actually Fully And Completely Done With Her
 I Dont Know Why She Thinks She Deserves Any Respect From Anybody
 Case And Point: i Just Tried To Explain To Her Why She Should Listen To My Brother Instead Of Just Yelling At Him (For Stuff He Didnt Do (I Only Got To The Lsiten Part, The Rest Was Too Complicated)) And Instead Of Listen To A Word I Said She Threw A Literal Tantrum
 She Jumped Up And Down, Screaming What Started As "I Dont Want To Talk" (Those Of You With Two Brain Cells Will Remember The Only Word Id Said So Far Was "Listen") But Devolved Into Unintelligible Screeching Which Ive Never Heard From Someone Over The Age Of Eight.
 
-Dont Worry Theres So Much More For [[Me\|Me]] To Say About The Asshole So This'll Be Updated
+Dont Worry Theres So Much More For [[Explicitly Showcased/Me/Me\|Me]] To Say About The Asshole So This'll Be Updated
 Also Her Names At The Top Because I Want Everyone To Know This Isnt Some Hypothetical Mother, This Is A Mentally Abusive Piece Of Shit That I Live With Every Day
 
-For The Record (My Record) This Was Created On 334,23 Which Was Supposed To Be A Good Day For [[Me\|Me]]
+For The Record (My Record) This Was Created On 334,23 Which Was Supposed To Be A Good Day For [[Explicitly Showcased/Me/Me\|Me]]
 
 Ive Spoken To Her Twice This Week (48,23)
-The First Time I Didnt Appreciate The Way She Villainized [[Me\|Me]] And The Second Time Was Just 
+The First Time I Didnt Appreciate The Way She Villainized [[Explicitly Showcased/Me/Me\|Me]] And The Second Time Was Just 
 And You Know What? I Bet She Didnt Even Fucking Notice!
-Shes Never Given A Fuck About [[Me\|Me]] And Everyone Knows It
+Shes Never Given A Fuck About [[Explicitly Showcased/Me/Me\|Me]] And Everyone Knows It
 
 (This Next Bit Is Imported)
 She Said She Doesnt Care
@@ -38,8 +38,8 @@ But When She Doesnt Pick Up We Shouldnt Be Looking Out For Her In The First Plac
 ## Mother
 
 Theres A Scene At The End Of A Lot Of Hamtaro Episodes Where The Mother (I Dont Remember Anyones Names) Says [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] About Or Directed Towards The Daughter But Says The Wrong Name  
-Theres One Scene In Particular Thats Stuck With [[Me\|Me]] Where The Mother Addresses The Girl As "Brandy" To Which She Replies "Thats The Dog Mom...."  
-The Reason Its Always Stuck With [[Me\|Me]] Is Because Thats How I Feel Every Time I Have A Conversation With My Mother  
+Theres One Scene In Particular Thats Stuck With [[Explicitly Showcased/Me/Me\|Me]] Where The Mother Addresses The Girl As "Brandy" To Which She Replies "Thats The Dog Mom...."  
+The Reason Its Always Stuck With [[Explicitly Showcased/Me/Me\|Me]] Is Because Thats How I Feel Every Time I Have A Conversation With My Mother  
 I Know Shes Not Listening And That I Have - And Will Have To - Repeat Whatever I Just Said To Someone Who Ultimately Doesnt Care One Way Or The Other
 
 Fuck I Dont Update This Enough  
@@ -82,6 +82,22 @@ Wrong Answer Again But I Think Ive Avoided Most Of Her Wrath Until Tomorrow
 I Will Be Staying Out As Late As I Can So I Dont Have To Deal With Her Shit For Longer Than Necessary, When I Get Back I Will Clean Any Of My Plates Which Are Less Than Satisfactory And Then I Shall Be Going To Bed, Because I Know She Will Not Be Providing Me With Any Necessities
 
 Not Being Able To Feel Hatred For Anyone Is Possibly The Only Thing Keeping Me Sane In This House As It Would be Easier To Hate Her And Break Shit
+
+I Came Downstairs To clean TheK8tcgen But Shes Already Done It
+So Im Gonna Cook For My Brother 
+
+
+Im Here Trying To Mind My Own Business And She Comes Down Stairs And Immediately Starts A Fight
+Shouting, Complaining Talking About How Hard Cleaning Is For Her (Not For Any reason, Shes Just a Narcissist)
+
+Shes Still Shouting
+Apparently My Bag Being Next To Me Is A Huuuuge Mess
+And The Kitchen I Haven't Cleaned Yet (Or Abandoned) Is The Worst Crime Imaginable 
+
+Shes Gonna Suffer
+And Im Gonna Laugh
+All She Does Is Care About Herself And Try To Make My Life A Misery
+So All I'll Do Is Return The Favour
 
 
 
