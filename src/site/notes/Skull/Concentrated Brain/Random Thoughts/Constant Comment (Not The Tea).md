@@ -40,7 +40,7 @@ You Shouldnt Have To Figure Out If Its Better To Buy A Ticket There And Back Or 
 
 ### Back To Random
 
-Also I Miss My [[Sunshine\|Sunshine]]
+Also I Miss My [[Explicitly Showcased/Sunshine/Sunshine\|Sunshine]]
 We Need To Talk More
 
 ### Sometimes Im Just Like Whyyyyyy
@@ -106,7 +106,7 @@ https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actua
 
 Interesting: I Can Boot Multiple Instances Of This Application Which (Since Its Locked) Means That I Cant Close Any Instances Of It
 
-I Went Back And Added Some Stuff I Said To My [[Sunshine\|Sunshine]]
+I Went Back And Added Some Stuff I Said To My [[Explicitly Showcased/Sunshine/Sunshine\|Sunshine]]
 
 Just Diagnosed Someone With Autism And They Were Like "....Yep"
 
@@ -155,7 +155,7 @@ I Was Gonna Say "Im [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]
 
 There's Some Of The Stuff I Didnt Add
 
-Gonna Make A [[Quotes\|Quotes]] Thing  
+Gonna Make A [[Explicitly Showcased/From Others/Quotes\|Quotes]] Thing  
 And Now That Ive Written That Its linked Forever
 
 Ive Done [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]Today Because I  
@@ -171,8 +171,8 @@ And I Feel [[]Nothing\|]Nothing]]
 
 My Friend Threatened To Wear A "Lil Black Skirt" And If They Do I'll Strangle Them /Affectionate
 
-Very Few Things Bring [[Me\|Me]] Happiness  
-And One Of Those Things Has Been Leaving [[Me\|Me]] On Read For Hours  
+Very Few Things Bring [[Explicitly Showcased/Me/Me\|Me]] Happiness  
+And One Of Those Things Has Been Leaving [[Explicitly Showcased/Me/Me\|Me]] On Read For Hours  
 Happiness Is A Lie  
 Life Is A Chain Of Suffering  
 Thank You For Coming To My Ted Talk
@@ -193,7 +193,7 @@ His Cat Was This Absolutely Adorable Little Bicolour And Of Course Nobody wants 
 
 **"Whats The Point Of Trying To Stay Alive All This Time....If Im Going To Die By My Own Hand"**
 
-Theres A Person In Front Of [[Me\|Me]] Who Has A Bright Pink Backpack And Is Standing Next To Someone Whos Jumper Is That Exact Shade Of Pink
+Theres A Person In Front Of [[Explicitly Showcased/Me/Me\|Me]] Who Has A Bright Pink Backpack And Is Standing Next To Someone Whos Jumper Is That Exact Shade Of Pink
 
 It Had A Kuromi Badge!!
 
@@ -203,7 +203,7 @@ Best Sleep Of Like A Month
 Two [[Skull/Concentrated Brain/Random Facts/People/People\|People]] On My Train Just Shout-Sang "Naked Twister"  
 They Group Theyre In Is Introducing Each Other With Their Names And How Many Drinks Theyve Had
 
-I Think Most [[Skull/Concentrated Brain/Random Facts/People/People\|People]] With Low Self-Esteem Or Shitty Parents Feel A Deep Desire To Be Loved But I Feel Like It Just Made [[Me\|Me]] Hate The Concept  
+I Think Most [[Skull/Concentrated Brain/Random Facts/People/People\|People]] With Low Self-Esteem Or Shitty Parents Feel A Deep Desire To Be Loved But I Feel Like It Just Made [[Explicitly Showcased/Me/Me\|Me]] Hate The Concept  
 Maybe Thats What Dads From The Seventies Were Aiming For  
 "If I Hate My Son He'll Become Emotionally Unavailable Then I'll Never Have To Deal With It Again"  
 Well Ive Got Good News And Bad News For Ya  
@@ -216,12 +216,12 @@ I Dont Know What My Subconscious Is Up To
 Theres Cayenne In My Pocket
 
 Mmmm  
-Markiplier Isnt Cheering [[Me\|Me]] Up And I Dont Feel Like Music Right Now
+Markiplier Isnt Cheering [[Explicitly Showcased/Me/Me\|Me]] Up And I Dont Feel Like Music Right Now
 
 I Used The Peppers  
-Good Job [[Me\|Me]]
+Good Job [[Explicitly Showcased/Me/Me\|Me]]
 
-Mark Made [[Me\|Me]] Laugh  
+Mark Made [[Explicitly Showcased/Me/Me\|Me]] Laugh  
 We Got Spooked Together <3
 
 The Stanley Parable  
@@ -232,8 +232,8 @@ I Dont Have The Energy To Do Anything I Was Gonna Do
 ## Mother
 
 Theres A Scene At The End Of A Lot Of Hamtaro Episodes Where The Mother (I Dont Remember Anyones Names) Says [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] About Or Directed Towards The Daughter But Says The Wrong Name  
-Theres One Scene In Particular Thats Stuck With [[Me\|Me]] Where The Mother Addresses The Girl As "Brandy" To Which She Replies "Thats The Dog Mom...."  
-The Reason Its Always Stuck With [[Me\|Me]] Is Because Thats How I Feel Every Time I Have A Conversation With My Mother  
+Theres One Scene In Particular Thats Stuck With [[Explicitly Showcased/Me/Me\|Me]] Where The Mother Addresses The Girl As "Brandy" To Which She Replies "Thats The Dog Mom...."  
+The Reason Its Always Stuck With [[Explicitly Showcased/Me/Me\|Me]] Is Because Thats How I Feel Every Time I Have A Conversation With My Mother  
 I Know Shes Not Listening And That I Have - And Will Have To - Repeat Whatever I Just Said To Someone Who Ultimately Doesnt Care One Way Or The Other
 
 Fuck I Dont Update This Enough  
@@ -253,9 +253,9 @@ Cant Decide If It Was a Happy Ending Or What
 I Just Saw A Steam Comment "Homestuck? Well Yeah Its Bolted To The Ground"
 
 Nonbinary Dom Like  
-"My Pronouns Are Master/Master's; You Will Adress [[Me\|Me]] On Your Knees"
+"My Pronouns Are Master/Master's; You Will Adress [[Explicitly Showcased/Me/Me\|Me]] On Your Knees"
 
-Remember [[Me\|Me]] Making Fun Of The Armpit Guy Because "How The Ft Dod He Figure That Out‽"  
+Remember [[Explicitly Showcased/Me/Me\|Me]] Making Fun Of The Armpit Guy Because "How The Ft Dod He Figure That Out‽"  
 Ive Changed My Opinion
 
 I Dont Know If This Video Is Safe For Work But Its Relevant So Probably Not
@@ -270,12 +270,12 @@ He Doesn't Live In England
 Most Of The [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Begging To Be Roped Live Way Too Far Or Are Wat Too Busy  
 Pointless
 
-This Shopkeeper Just Tried To Steal 20p From [[Me\|Me]]  
+This Shopkeeper Just Tried To Steal 20p From [[Explicitly Showcased/Me/Me\|Me]]  
 I Was Buying Monster And They Were All 1.55 Except The One I Wanted And The Guy Typed Out 1.55 Into The Card Machine  
 And I Wouldn't Be Upset If He Didnt Turn The Can To Check First  
 100% Just Being A Dick
 
-I Was Sitting On The Floor Trying To Listen To Shit And A Group Of Girls Srated Standing Around [[Me\|Me]] (Literally) And Had The Loudest Conversation About [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]:/
+I Was Sitting On The Floor Trying To Listen To Shit And A Group Of Girls Srated Standing Around [[Explicitly Showcased/Me/Me\|Me]] (Literally) And Had The Loudest Conversation About [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]:/
 
 https://x.com/SlayzKiana/status/1717001251215515673?t=tFC5NqKSVIRiTqQiAwq_9w&s=09](https://x.com/SlayzKiana/status/1717001251215515673?t=tFC5NqKSVIRiTqQiAwq_9w&s=09)
 
@@ -288,8 +288,24 @@ Flowers Cant [[Skull/Spam/Cum\|Cum]] :(
 [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]
 ## Back To Normal?
 
-Test
+Did Some Messing Around And I Should Be Able To Edit Tje Websote On The Go So....
+Expect More Of Me I Guess
 
+I Just Heard Someone Piss Out About A Litre Of Liquid 
+Rare Case Of Me Using The Public Bathroom
+I Go In, Pee, Leave same Guy Continuously Pissing
+Hope He's Okay
+
+The Woman Who Lives Across The Road Just Turned The Corner (Walking Onto The Street), Lifted The Lid Of Our Bin,  Got In Her Car And Drove Away
+
+I Dont Think Either Of Those Two Washed Their Hands
+
+Somebody (Not Naming Names) Has Put Tablespoons Of Tea Into My Teapot Instead Of The More Elegant And Aptly Named Teaspoons Of Tea So I Dont Think The Brew Strength Is Ever Right
+
+Someone Should Make An Algorithm That Analyses The Frames Of Tv Shows And Switches Between Episodes Smoothly
+Like Youre Watching Friends Season Three And In Season Seven Episode Nine Everyone Happens To Stand In The Same Place So Its Suddenly Just A Whole Different Episode From Now On
+
+I Never Mentioned That One Guy In My Maths Lecture Whi Was Dipping His Lilipop Into His Coffee
 
 
 <center><sub>Done For Now \^w^ </sub></center>
