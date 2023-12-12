@@ -107,7 +107,8 @@ I Mean Other Than I Was In Her Room On Saturday I Think Youre All Caught Up For 
 ‍
 For Anyone Who Wants To See The Huge, Unforgivable Mess I Made In The Kitchen
 ![20231212_000310.jpg](/img/user/images/20231212_000310.jpg)
-
+<sub>That Has Food In It By The Way
+I Didnt Trust My Mother To Not Let Us Starve So I Made Enough To Eat TomorrowAs Well</sub>
 
 
 
