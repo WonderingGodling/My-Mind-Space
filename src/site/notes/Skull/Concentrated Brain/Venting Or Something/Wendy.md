@@ -105,6 +105,8 @@ And I Know She Will Too
 Maybe Ill Start Including Every Interaction We Have
 I Mean Other Than I Was In Her Room On Saturday I Think Youre All Caught Up For The Month
 ‍
+For Anyone Who Wants To See The Huge, Unforgivable Mess I Made In The Kitchen
+![20231212_000310.jpg](/img/user/images/20231212_000310.jpg)
 
 
 
