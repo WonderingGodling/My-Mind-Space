@@ -110,6 +110,17 @@ For Anyone Who Wants To See The Huge, Unforgivable Mess I Made In The Kitchen
 <sub>That Has Food In It By The Way
 I Didnt Trust My Mother To Not Let Us Starve So I Made Enough To Eat TomorrowAs Well</sub>
 
+She Has Learned About The Concept Of Food
+Unlocked: One Orange Juice
+
+Why The Fuck is She Singing
+I Cant Be Here
+I Can Hear Her In My Room
+Kill Me
+
+Shes Hiding The Kitchenware
+There Are Missing Forks And No Crockery 
+
 
 
 <center><sub> Why Do I Bother With Her </sub></center>
