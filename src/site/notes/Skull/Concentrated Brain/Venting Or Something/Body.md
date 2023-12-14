@@ -15,7 +15,13 @@ I Have One And I
 Dont Think It Likes [[Explicitly Showcased/Me/Me\|Me]] But I
 Dont Like It Either
 
+Oh Its A Vent Haiku Or Something 
+I Was Wondering What Was Taking Up This Page Name 
 
+Ive Realised That While This Body Is Physically Mine The Reason Its Never Feeled Entirely Mine Is Because I Dont Control It
+I Can Tell It To Move, I Can Get From One Place To The Other But Its More Like Im Puppeteering A Living Being Or Playing Hand Simulator 
+I Can Do General Commands, I Can Get More Focused  And More Specific, More Intricate But If I Leave It Alone It Just Moves Itself
+Like It Doesnt Need Me To Function But It Does Need Me To Survive
 
 
 
