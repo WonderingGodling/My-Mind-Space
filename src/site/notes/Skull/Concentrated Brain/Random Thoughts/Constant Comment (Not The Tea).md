@@ -307,6 +307,41 @@ Like Youre Watching Friends Season Three And In Season Seven Episode Nine Everyo
 
 I Never Mentioned That One Guy In My Maths Lecture Whi Was Dipping His Lilipop Into His Coffee
 
+I Wanted Tea
+I Cant Go Downstairs Though Because My Mother's Lurking Around
+
+I Dont Wanna Hear Christmas Music
+I Cannot Stand Christmas Music
+Most Christmas Songs Are Ear Grating But They Get A Pass Because Theyre About Christmas 
+Thats Not How Songs Work!
+Write A Good Song **Then** I'll Hope It Comes On The Radio
+Nobodys Walking Over To A Jukebox And Playing Do They Know Its Christmas 
+You Know What They Are Playing?
+Africa
+Essentially About The Same Thing Except Ones Shit And Mentions Christmas In The Chorus
+
+This CD Im Looking At Has 2000 Miles On It
+Thzts Not A Christmas Song?
+Ave Maria‽
+Does Jesus Song Just Mean Christmas Song?
+OVER THE RAINBOW
+Why Do We Bother
+
+Im Trying To Cook But My Body Is A Few Actions Before My Brain So I Haven't Technically Started 
+
+Eating Breakfast Out Of A Mug
+
+Saw Cores Family This Morning
+Bus Isnt Showing Up So Im Walking Down
+Past Them And Recognised Their Voices
+It Was Quite A Pleasant Surprise 
+
+A Pancake Or Something Just Fell From The Sky?
+Like Plap
+I Thought It Was Just Really Loud Bird Shit, Then Noticed It Was Too Big
+Theres Nobody Near Me To Throw It....
+
+
 
 <center><sub>Done For Now \^w^ </sub></center>
 
