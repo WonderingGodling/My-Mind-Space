@@ -341,6 +341,17 @@ Like Plap
 I Thought It Was Just Really Loud Bird Shit, Then Noticed It Was Too Big
 Theres Nobody Near Me To Throw It....
 
+Ive Thought Barely Anything Today
+/̵͇̿̿/'̿'̿ ̿ ̿̿ ̿̿ ̿̿ 
+
+Recently Ive Felt So Little About So Much
+Thats Why I Haven't Been Adding Anything 
+Christmas Is Coming Around Which Is Fun!
+I Have Literally No Expectations Whatsoever So I Cant Really Be Let Down I Guess
+
+I Feel Like Utter And Complete Shit
+I Want To Drink A Monster Because That Usually Helps But Then Theres Just Gonna Be More Of....This
+
 
 
 <center><sub>Done For Now \^w^ </sub></center>
