@@ -121,6 +121,13 @@ Kill Me
 Shes Hiding The Kitchenware
 There Are Missing Forks And No Crockery 
 
+Ive Been Listening To Her Shouting On The Phone For Hours
+Its Stressful
+Ive Been Meaning To Leave My Room For Ages But I Dont Want To Deal With....That
+
+I Have Food Now
+Her Torturous Voice Echos Throughout The House And Comes At You From Every Conceivable Place 
+
 
 
 <center><sub> Why Do I Bother With Her </sub></center>
