@@ -353,25 +353,6 @@ I Feel Like Utter And Complete Shit
 I Want To Drink A Monster Because That Usually Helps But Then Theres Just Gonna Be More Of....This
 
 
-Ive Been Too Depressed To Add To This But Ive Been Waiting For The Bus For An Hour And I Need To Talk About The Guy Standing Next To Me Eating A Tub Of Ice Cream
-Its 3°
-My Hands Could Freeze Water Right Now
-I Keep Getting Baited By Fifties
-17:59 Bus Starts Moving Dx
-How Are You Going To Be Two Buses And Ten Minutes Late‽ Useless 
-
-Dee Is So Fucking Cool
-I Love Her
-
-Either She Liked The Ring Or Shes Lying To Me And Honestly Im willing To Lie To Me Too
-
-Seriously I Love Her So Much
-Love Of My Life 
-
-Ive Been Like Craving Spaghetti Bolognese All Week But Ive Not Had The Energy To Make It
-Today I Dont Want To Eat But Guess What I Have For Dinner
-My Plan Is More Or Less Just To Eat It, Die, Then Idk But It Doesnt Super Matter At That Point
-(Its Not Bad Spaghetti; I Just Dont Want Food)
 
 <center><sub>Done For Now \^w^ </sub></center>
 
