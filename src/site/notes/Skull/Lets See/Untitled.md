@@ -43,13 +43,7 @@
     
   </head>
 
-  <body class="logged-out javascript">
-    <div id="outer" class="wrapper">
-      <ul id="skiplinks"><li><a href="#main">Main Content</a></li></ul>
-      <!-- BEGIN BETA CAVEATS! -->
-<noscript>
-  <p id="javascript-warning">
-    While we&#39;ve done our best to make the core functionality of this site accessible without javascript, it will work better with it enabled. Please consider turning it on!
+  <
   </p>
 </noscript>
 <!-- END BETA CAVEATS! --> 
@@ -364,11 +358,6 @@ on.&lt;/p&gt;</textarea>
 </div>
 
 
-    <style type="text/css">#workskin .centered{text-align:center}#workskin .italics{font-style:italic}#workskin .right{text-align:right}#workskin .block{width:650px;margin-left:auto;margin-right:auto;background:#eee;border:1px dashed gray;padding-top:10px;padding-bottom:10px;padding-left:35px;padding-right:35px}#workskin .black,#workskin .pesterlog{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#000}#workskin .white{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#fff}#workskin .aradia{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#a10000}#workskin .AR,#workskin .dave,#workskin .ARquiusprite{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#e00707}#workskin .athblue{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#00f}#workskin .athred,#workskin .kankri,#workskin .altkarkat{font-size:14px;font-weight:bold;font-family:courier,monospace;color:red}#workskin .bro,#workskin .davesprite,#workskin .dirk{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#f2a400}#workskin .dad,#workskin .pipefan413{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#4b4b4b}#workskin .equius,#workskin .horuss{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#000056}#workskin .eridan,#workskin .cronus{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#6a006a}#workskin .exile{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#fff;background-color:#000}#workskin .feferi,#workskin .meenah{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#77003c}#workskin .gamzee,#workskin .kurloz{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#2b0057}#workskin .jade,#workskin .erisolsprite{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#4ac925}#workskin .jadesprite,#workskin .jake{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#1f9400}#workskin .jane,#workskin .nannasprite{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#00d5f2}#workskin .jaspersprite,#workskin .mom,#workskin .roxy{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#ff6ff2}#workskin .john,#workskin .tavrisprite{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#0715cd}#workskin .kanaya,#workskin .porrim{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#008141}#workskin .karkat{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#626262}#workskin .nepeta,#workskin .meulin{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#416600}#workskin .rose{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#b536da}#workskin .scratch-green{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#fff;background-color:#1f9400}#workskin .scratch,#workskin .scratch-white{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#fff;background-color:#fff}#workskin .sollux,#workskin .mituna{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#a1a100}#workskin .strider{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#f2a400}#workskin .tavros,#workskin .rufioh{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#a15000}#workskin .terezi,#workskin .latula{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#008282}#workskin .uu,#workskin .uranianumbra,#workskin .calliope{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#929292}#workskin .undyingumbrage,#workskin .caliborn{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#323232}#workskin .vriska,#workskin .aranea{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#005682}#workskin .altcaliborn,#workskin .felt,#workskin .lordenglish{font-size:14px;font-weight:bold;font-family:courier,monospace;color:#2ed73a}</style>  
-
-  <!-- end cache for work skin -->
-
-<!-- BEGIN section where work skin applies -->
 <div id="workskin">
   <div class="preface group">
     <h2 class="title heading">
@@ -853,31 +842,12 @@ DAVE: do you leave your pesterchum open where roxy can use it<br>
 ROXY: whoa daves here too what an awesome coincidence<br>
 </span>
   <span class="dave">DAVE: NOPE</span></p>
-  </div>
-  <!--/main-->
 
-
-</div>
-
-<!-- end of cache -->
-
-            <!-- This partial requires local variable 'chapter' -->
-<div class="chapter" id="chapter-2">
-  <!-- chapter management -->
-
-
-  <div class="chapter preface group" role="complementary">
     <h3 class="title">
       <a href="https://archiveofourown.org/works/7190969/chapters/16537702">Chapter 2</a>: Part 1: "The Ecto-cest district of Pound Town"
     </h3>
 
-    <!-- only display byline if different from the main byline -->
 
-
-  </div>
-
-  <!--main content-->
-  <div class="userstuff module" role="article">
       <h3 class="landmark heading" id="work">Chapter Text</h3>
     <p>
   <strong><span class="black">====&gt; John: Be Dave</span></strong>
