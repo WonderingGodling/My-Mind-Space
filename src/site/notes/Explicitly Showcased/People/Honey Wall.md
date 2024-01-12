@@ -33,7 +33,7 @@
         var confirmPassword = "Honey";
         var password = document.getElementById("pswd").value;
         if (password == confirmPassword) {
-             window.location="Honey";
+             window.location="https://my-mind-space.vercel.app/explicitly-showcased/people/honey/";
         }
         else{
             alert("Passwords do not match.");
