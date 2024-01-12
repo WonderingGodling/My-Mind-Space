@@ -47,3 +47,5 @@ If Youre Reading This: I Want You To Know That You Are So Interesting; This Is L
 He Hasnt Seen Scott Pilgrim
 Considering Divorce
 
+They Just Have A Tendancy To Talk About How They Wont Talk About Something Which Means The Conversation Nets Nothing
+Its....Weird
