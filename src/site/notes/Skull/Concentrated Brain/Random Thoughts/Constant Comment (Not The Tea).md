@@ -81,7 +81,7 @@ Thats The Train I Got On
 
 #### Tumblr Link?
 
-https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english?source=share](https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english?source=share)
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:0WVvjWYXyV_tcp5kf631Jw/729147951762505728/v2" data-did="945d63eecd58b6a0bd44d5f12bb9abce89656c19"  ><a href="https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english">https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
 ### We Imported Still
 
@@ -100,7 +100,7 @@ What Even Is "Good Food"
 
 #### Tumblr Link??
 
-https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english?source=share](https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english?source=share)
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:0WVvjWYXyV_tcp5kf631Jw/729147951762505728/v2" data-did="945d63eecd58b6a0bd44d5f12bb9abce89656c19"  ><a href="https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english">https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
 ## Secondary Phase Of Random
 
@@ -134,7 +134,7 @@ Also Had So Much I Wanted To Write But Just Never Did
 https://youtu.be/zHHQusnYY3c?si=fKYYsvFJHomCnpDf](https://youtu.be/zHHQusnYY3c?si=fKYYsvFJHomCnpDf) I Was Thinking About A Video Like This Last Nigh  
 Algorithms AmIRight
 
-https://youtu.be/HwAPLk_sQ3w?si=sAsU8B0mMT07Wnhz](https://youtu.be/HwAPLk_sQ3w?si=sAsU8B0mMT07Wnhz)  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HwAPLk_sQ3w?si=amaDCRbklx1zqByF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 I Dissociated In And Out Of My Death And Missed The Premier But This Is So Good
 
 Short Version: Remembered One Of My Friends Knows Someone With An Armpit Fetish And Im Wondering How You Know You Have An Armpit Fetish  
@@ -277,7 +277,7 @@ And I Wouldn't Be Upset If He Didnt Turn The Can To Check First
 
 I Was Sitting On The Floor Trying To Listen To Shit And A Group Of Girls Srated Standing Around [[Explicitly Showcased/Me/Me\|Me]] (Literally) And Had The Loudest Conversation About [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]:/
 
-https://x.com/SlayzKiana/status/1717001251215515673?t=tFC5NqKSVIRiTqQiAwq_9w&s=09](https://x.com/SlayzKiana/status/1717001251215515673?t=tFC5NqKSVIRiTqQiAwq_9w&s=09)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do u think a transphobic conservative guy would change if I squished his head between my thighs</p>&mdash; Kiyana 🏳️‍⚧️ (@SlayzKiana) <a href="https://twitter.com/SlayzKiana/status/1717001251215515673?ref_src=twsrc%5Etfw">October 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I Just Deepthroated A Knife
 
@@ -351,6 +351,14 @@ I Have Literally No Expectations Whatsoever So I Cant Really Be Let Down I Guess
 
 I Feel Like Utter And Complete Shit
 I Want To Drink A Monster Because That Usually Helps But Then Theres Just Gonna Be More Of....This
+
+I Think The Worst PArt About Being Raped To Death Is That while Your Name, Face And Family Are All Across The News There Will Be countless Police Officers, Investigators/Detectives, Forensics, Mortuars and So Many Other Pepole Poking Around You Insides Like; Really? This Is So Not The Time For That! I Think Id Least Want People Touching My Dead Body If The Cause Of My Death Was Someone Touching My Live Body
+
+Theres A Chunk Of My Stuff Missing From This Page
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Real mommy doms get drunk and throw wine glasses at you and scream and you and then cry and say they&#39;re so sorry and it won&#39;t happen again and they love you and then do the exact same thing a week later</p>&mdash; 🐶🩸Page🩸🐶 (@Vampuppy_Page) <a href="https://twitter.com/Vampuppy_Page/status/1744568166548754454?ref_src=twsrc%5Etfw">January 9, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 
 
