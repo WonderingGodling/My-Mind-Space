@@ -18,7 +18,8 @@ Go Pet The Kat
 
 
 
-![Pasted image 20230825140921.png](/img/user/images/Pasted%20image%2020230825140921.png)
+![](https://i.imgur.com/uZCzlCN.png)
+
 
 8·2023 He Walked In The Rain To Buy Cookie Ingredients And Because The Shop Was Closed They Went To A Different One And Bought Overpriced Chocolate
     The Incomplete Cookies Were Still Good
