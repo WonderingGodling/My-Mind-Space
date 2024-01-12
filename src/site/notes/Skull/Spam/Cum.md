@@ -13,9 +13,7 @@ Flowers Cant Cum :(
 
 ![Pasted image 20231201013046.png](/img/user/images/Pasted%20image%2020231201013046.png)
 
-![[WhatsApp Video 2024-01-08 at 16.14.35.mp4]]
-
-
+<source type="video/mp4" src="https://i.imgur.com/RxY3tlQ.mp4">
 
 
 
