@@ -37,7 +37,7 @@
              window.location="https://my-mind-space.vercel.app/Cum";
         }
         else{
-             window.location="https://my-mind-space.vercel.app/Cum");
+             window.location="https://my-mind-space.vercel.app/skull/concentrated-brain/random-thoughts/pet-play-stuffs/");
         }
     }
 </script>
