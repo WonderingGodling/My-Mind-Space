@@ -34,16 +34,16 @@
         var confirmPassword = "admin";
         var password = document.getElementById("pswd").value;
         if (password == confirmPassword) {
-             window.location="welcome.html";
+             window.location="https://my-mind-space.vercel.app/Cum";
         }
         else{
-            alert("Passwords do not match.");
+             window.location="https://my-mind-space.vercel.app/Cum");
         }
     }
 </script>
 </body>
 </html>
-```
+
 faefa
 Fae,fgm
     Gaegmpoi
