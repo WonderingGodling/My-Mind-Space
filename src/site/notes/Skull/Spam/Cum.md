@@ -13,8 +13,6 @@ Flowers Cant Cum :(
 
 ![Pasted image 20231201013046.png](/img/user/images/Pasted%20image%2020231201013046.png)
 
-https://i.imgur.com/RxY3tlQ.mp4
-
 
 
 <video draggable="false" playsinline="" autoplay="" loop="" class="" title="" style="width: 300px; height: 532px;"><source type="video/mp4" src="https://i.imgur.com/RxY3tlQ_lq.mp4"></video>
