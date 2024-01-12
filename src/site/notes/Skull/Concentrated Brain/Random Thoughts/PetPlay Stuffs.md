@@ -12,7 +12,10 @@
 I Would Be So Normal With A Pet Human
 Like "Yeah Thats My Dog /Gen"  Vibes
 
-
+Holy Shit
+Dark Mode
+    <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">im not religious but i am a fan of marriage because i like the idea of someone having the need to take legal action if they wanted to leave me</p>&mdash; xanath.fm (@xanathgum) <a href="https://twitter.com/xanathgum/status/1745168249367544110?ref_src=twsrc%5Etfw">January 10, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">I don’t want to date people, I wanna own them in every way</p>&mdash; Kiyana 🏳️‍⚧️ (@SlayzKiana) <a href="https://twitter.com/SlayzKiana/status/1744412380254392641?ref_src=twsrc%5Etfw">January 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
