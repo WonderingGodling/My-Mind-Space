@@ -33,7 +33,7 @@
         var confirmPassword = "Honey";
         var password = document.getElementById("pswd").value;
         if (password == confirmPassword) {
-             window.location="https://my-mind-space.vercel.app/explicitly-showcased/people/tiddy-gremlin/";
+             window.location="https://my-mind-space.vercel.app/explicitly-showcased/people/tiddy-gremlin/+";
         }
         else{
             alert("Passwords do not match.");
