@@ -53,3 +53,9 @@ I Think Its Like Abandonment Trauma Or Something (Which Is Fair Because People L
 
 He Had A Very Bad Dream And As Horrified As I Am On Their Behalf I Do Have To Be Like "WTF R NITEMAREZ" Yknow?
 Your Brain Goes "I Hope This Doesnt Happen" And Makes It Happen
+
+Scopophobia 
+Thats All
+
+Theyre Upset I Dont Tell Them The Adult Thoughts I Have
+Not Happening
