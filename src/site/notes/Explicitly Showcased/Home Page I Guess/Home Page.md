@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/home-page/","title":"Horizon","tags":["Home","Rambling","gardenEntry"],"dgShowToc":true}
+{"dg-publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/home-page/","title":"Horizon","tags":["Home","Rambling","gardenEntry","gardenEntry"],"dgShowToc":true}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -17,7 +17,7 @@ You Want Some [[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not T
 Make Yourself At Home
 
 If Youre [[Explicitly Showcased/Sunshine/Sunshine\|Sunny]] Click There
-And This Is For You [[Explicitly Showcased/People/Honey\|Honey]]
+And This Is For You [[Explicitly Showcased/People/Tiddy Gremlin+\|Tiddy Gremlin+]]
 If Youre My Mother And You Dont Think Im Done With Your <b>Shit</b> [[Skull/Concentrated Brain/Venting Or Something/Wendy\|Click Here]] :D
 
 Also Some [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Wanted To Deliver Some Messages To A Bunch Of Internet Strangers So.... [[Explicitly Showcased/From Others/Relay 1\|Relay 1]] [[Explicitly Showcased/From Others/Relay 2\|Relay 2]]
