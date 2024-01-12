@@ -358,6 +358,18 @@ Theres A Chunk Of My Stuff Missing From This Page
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Real mommy doms get drunk and throw wine glasses at you and scream and you and then cry and say they&#39;re so sorry and it won&#39;t happen again and they love you and then do the exact same thing a week later</p>&mdash; 🐶🩸Page🩸🐶 (@Vampuppy_Page) <a href="https://twitter.com/Vampuppy_Page/status/1744568166548754454?ref_src=twsrc%5Etfw">January 9, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Why Is Hank Greens's Name William?
+
+Guess Who Just Finished The Essay Shes Spent Like Two Weeks Working On
+Apparently All My Sources Are Plagiarised Which Is Certainly Something
+
+![](https://i.imgur.com/vwdTu6Z.png)
+You Cant Tell Me That Wouldn't Be A Badass Name
+Naming My Daughter Mortality Rose
+
+"Momma Shelly Was Gay As Fuck
+-Dr Frankenstein"
+
 
 
 
