@@ -17,7 +17,7 @@ https://i.imgur.com/RxY3tlQ.mp4
 
 
 
-<video draggable="false" playsinline="" loop="" class="" hash="RxY3tlQ" title="" style="width: 960px; height: 1028px;" autoplay=""><source type="video/mp4" src="https://i.imgur.com/RxY3tlQ.mp4"></video>
+<video draggable="false" playsinline="" autoplay="" loop="" class="" title="" style="width: 300px; height: 532px;"><source type="video/mp4" src="https://i.imgur.com/RxY3tlQ_lq.mp4"></video>
 
 
 <center><sub>Done :)</sub></center>
