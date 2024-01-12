@@ -49,3 +49,4 @@ Considering Divorce
 
 They Just Have A Tendancy To Talk About How They Wont Talk About Something Which Means The Conversation Nets Nothing
 Its....Weird
+I Think Its Like Abandonment Trauma Or Something (Which Is Fair Because People Leaving Super Sucks) But I Cant Imagine Going "That Ideas Dumb! We're Not Friends Anymore" **However** He Does Need To Watch Scott Pilgrim Or I'll Riot
