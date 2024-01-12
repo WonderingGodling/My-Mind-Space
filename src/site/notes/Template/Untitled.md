@@ -23,7 +23,7 @@
         <br>
         <input class="box" type="password" id="pswd">
         <br>
-        <input class="confirm" type="button" value="SUBMIT" onclick="checkPswd();" />
+        <input class="confirm" type="button" value="SUBMIT" onclick="checkPswd(Fourteen);" />
       </form>
 
 
