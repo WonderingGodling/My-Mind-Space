@@ -43,7 +43,8 @@
 </body>
 </html>
 
-<center><sub>Done :)</sub></center>
+
+<center><sub>Good Luck</sub></center>
 
 
 <script src="https://utteranc.es/client.js"
