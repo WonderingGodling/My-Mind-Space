@@ -370,6 +370,9 @@ Naming My Daughter Mortality Rose
 "Momma Shelly Was Gay As Fuck
 -Dr Frankenstein"
 
+I Did Break This At Some Point
+If Youre Reading This It Was At Least Temporarily Fixed
+
 
 
 
