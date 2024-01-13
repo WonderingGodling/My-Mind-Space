@@ -15,7 +15,7 @@ Flowers Cant Cum :(
 
 
 
-<video draggable="false" playsinline="" autoplay="" loop="" class="" title="" style="width: 300px; height: 532px;"><source type="video/mp4" src="https://i.imgur.com/RxY3tlQ_lq.mp4"></video>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/QLTHbfD"  ><a href="//imgur.com/a/QLTHbfD"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 <center><sub>Done :)</sub></center>
