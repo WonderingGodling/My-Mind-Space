@@ -27,7 +27,7 @@
     <input type="password" id="pswd">
     <input type="button" value="Submit" onclick="checkPswd();" />
 </form>
-<!--Function to check password the already set password is admin-->
+
 <script type="text/javascript">
     function checkPswd() {
         var confirmPassword = "Honey";
@@ -46,11 +46,3 @@
 
 <center><sub>Good Luck</sub></center>
 
-
-<script src="https://utteranc.es/client.js"
-        repo="WonderingGodling/My-Mind-Space"
-        issue-term="title"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
-</script>
