@@ -36,7 +36,7 @@
              window.location="https://my-mind-space.vercel.app/explicitly-showcased/people/ash/honey/";
         }
         else{
-            alert("Passwords do not match.");
+            alert(">:O Imposter!");
         }
     }
 </script>
