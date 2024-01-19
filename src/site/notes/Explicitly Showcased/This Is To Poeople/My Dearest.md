@@ -62,7 +62,7 @@ And Id Rather Any Reassurance I Provide Be Genuine
 Thats Not My Point Though My Point Is That Im Not A Hundred Percent On Why Im Saying Any Of This Other Than I Feel As Though It Needs To Be Said
 Youre An Artist So You Know What Its Like To Create
 Its Like The Thing Already Exists And You Just Need To Be The One To Prove It
-Well I Write Because All These Facts And Thoughts Are Using Up Universes Of Space And I Need Them To Be Made "Real" To More Than Just Me And
+Well I Write Because All These Facts And [[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)\|Thoughts]] Are Using Up Universes Of Space And I Need Them To Be Made "Real" To More Than Just Me And
 Well Id Spill All My Guts To You Simply Because I Think You Might Want To Listen
 Even This
 I Wrote You A Cute Little Letter About How Amazing You Are (Which Again Wasnt The Point Of The Note It Just Needed To Be Said) But I Gave You The Link To This Instead
