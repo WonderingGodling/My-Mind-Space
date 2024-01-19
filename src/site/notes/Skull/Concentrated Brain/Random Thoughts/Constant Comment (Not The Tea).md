@@ -62,7 +62,7 @@ So You Have To Be A Student To Read
 The Chemistry Is By Textiles  
 The Psychology Is Above Renewable Energy  
 And It Seems To Be Alphabetical Within The Subject?  
-I Got To My Class And There Already [[Skull/Concentrated Brain/Random Facts/People/People\|People]] There
+I Got To My Class And There Already [[Skull/Concentrated Brain/Random Facts/People/People\|People]] There (ETA: Not My People Other People)
 
 First Time Ive Touched My Phone For An Hour Or Two  
 Im Becoming More Familiar With The Back Of My Eyelids Than The Contents Of My Imagination  
@@ -124,7 +124,7 @@ Im Just Thinking And Existing And Dealing With It Because I Just Dont Feel Like 
 
 I Haven't Updated This In A While But Thats Because Im Secretly **Losing My Mind!**
 
-Today- This Week (42 2023) Has Been Stressful  
+Today- This Week (42·2023) Has Been Stressful  
 Its Tuesday  
 Ive Spent The Whole Time Feeling Like A Zombie Then Being Dragged Out Of My Cosy Void  
 Also Had So Much I Wanted To Write But Just Never Did
@@ -132,7 +132,7 @@ Also Had So Much I Wanted To Write But Just Never Did
 ## Sneaky Imports
 
 https://youtu.be/zHHQusnYY3c?si=fKYYsvFJHomCnpDf](https://youtu.be/zHHQusnYY3c?si=fKYYsvFJHomCnpDf) I Was Thinking About A Video Like This Last Nigh  
-Algorithms AmIRight
+Algorithms AmIRight (ETA(19·2023 46.41) Links Dead Dont Bother)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HwAPLk_sQ3w?si=amaDCRbklx1zqByF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 I Dissociated In And Out Of My Death And Missed The Premier But This Is So Good
@@ -142,7 +142,7 @@ Like What Steps Do You Have To Take To Know Its Specifically That
 I Just Feel Like "[[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] Part" Is Too Specific  
 I Figured It Out!  
 Watching Someone Change In The Gym And Youre Staring At Them For Ages  
-Then You Go "Im Only Staring At Their Armpits"  
+Then You Go "Im Only Staring At Their Armpits...."  
 Then You Go Home And Figure It Out From There  
 Its Just That I Can Imagine Someone Finding Bdsm Porn And Being Like "I Want More Of This"  
 But Does Armpit Porn Even Exist?
@@ -167,9 +167,9 @@ Neither Does Breathing
 So On The Scale Of Enjoyment Im Leaning Towards Doing [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] I Guess
 
 Right Now I Regret Everything I Feel  
-And I Feel [[]Nothing\|]Nothing]]
+And I Feel [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]
 
-My Friend Threatened To Wear A "Lil Black Skirt" And If They Do I'll Strangle Them /Affectionate
+[[Explicitly Showcased/People/Roo/STOWAWAY SLUT (FREE)\|My Friend]] Threatened To Wear A "Lil Black Skirt" And If They Do I'll Strangle Them /Affectionate
 
 Very Few Things Bring [[Explicitly Showcased/Me/Me\|Me]] Happiness  
 And One Of Those Things Has Been Leaving [[Explicitly Showcased/Me/Me\|Me]] On Read For Hours  
@@ -179,7 +179,7 @@ Thank You For Coming To My Ted Talk
 
 Zoned Out So Hard Buy Only For An Hour So We're Good I Think
 
-Im Currently Doing [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]On This Train  
+Im Currently Doing [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] On This Train  
 My Book And Headphones Are In My Bag And Getting Either Will Take Way More Energy Than I Have
 
 Not Everyones As Dried Apricots As They Think They Are
@@ -188,20 +188,12 @@ ETA: Fact
 
 Woke Up At Like 2100 Spent Three Hours Eating And Now Im Just Existing At 1
 
-Just Walked Passed A Homeless Guy With a Cat Which Is Honestly Genuis  
-His Cat Was This Absolutely Adorable Little Bicolour And Of Course Nobody wants Them To Starve Or Anything So Give The Man Some Money So The Kitty Can Be Happy!
 
 **"Whats The Point Of Trying To Stay Alive All This Time....If Im Going To Die By My Own Hand"**
 
-Theres A Person In Front Of [[Explicitly Showcased/Me/Me\|Me]] Who Has A Bright Pink Backpack And Is Standing Next To Someone Whos Jumper Is That Exact Shade Of Pink
-
-It Had A Kuromi Badge!!
 
 Went To Bed At Like Six Last Night (For Eight Hours)  
 Best Sleep Of Like A Month
-
-Two [[Skull/Concentrated Brain/Random Facts/People/People\|People]] On My Train Just Shout-Sang "Naked Twister"  
-They Group Theyre In Is Introducing Each Other With Their Names And How Many Drinks Theyve Had
 
 I Think Most [[Skull/Concentrated Brain/Random Facts/People/People\|People]] With Low Self-Esteem Or Shitty Parents Feel A Deep Desire To Be Loved But I Feel Like It Just Made [[Explicitly Showcased/Me/Me\|Me]] Hate The Concept  
 Maybe Thats What Dads From The Seventies Were Aiming For  
@@ -230,11 +222,7 @@ The Eye, The Lonely, The Spiral, The Vast (At One Point)
 I Dont Have The Energy To Do Anything I Was Gonna Do
 
 ## Mother
-
-Theres A Scene At The End Of A Lot Of Hamtaro Episodes Where The Mother (I Dont Remember Anyones Names) Says [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] About Or Directed Towards The Daughter But Says The Wrong Name  
-Theres One Scene In Particular Thats Stuck With [[Explicitly Showcased/Me/Me\|Me]] Where The Mother Addresses The Girl As "Brandy" To Which She Replies "Thats The Dog Mom...."  
-The Reason Its Always Stuck With [[Explicitly Showcased/Me/Me\|Me]] Is Because Thats How I Feel Every Time I Have A Conversation With My Mother  
-I Know Shes Not Listening And That I Have - And Will Have To - Repeat Whatever I Just Said To Someone Who Ultimately Doesnt Care One Way Or The Other
+[Removed]
 
 Fuck I Dont Update This Enough  
 More Imports:
@@ -256,26 +244,19 @@ Nonbinary Dom Like
 "My Pronouns Are Master/Master's; You Will Adress [[Explicitly Showcased/Me/Me\|Me]] On Your Knees"
 
 Remember [[Explicitly Showcased/Me/Me\|Me]] Making Fun Of The Armpit Guy Because "How The Ft Dod He Figure That Out‽"  
-Ive Changed My Opinion
+Ive Changed My Opinion 
 
-I Dont Know If This Video Is Safe For Work But Its Relevant So Probably Not
+I Dont Know If This Video Is Safe For Work But Its Relevant So Probably Not (ETA(19·2023 47.08) The Video I Put Here Dissapeared But It Was In Fact Proof That Armpit Focused Videos Exist)
 
 Did Yall Know You Can Group Call On The Lovesense App?
 
 I Think If A Guy Gets A Girl Pregnant She Should Just Be Able To Give Him The Pregnancy  
 That Would Be A Great Update To Human Biology
 
-I Found Out One Of My Friends Is Into Rope Bondage  
+I Found Out One Of [[Explicitly Showcased/People/Ash/Tiddy Gremlin\|My Friends]] Is Into Rope Bondage  
 He Doesn't Live In England  
-Most Of The [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Begging To Be Roped Live Way Too Far Or Are Wat Too Busy  
+Most Of The [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Begging To Be Roped Live Way Too Far Or Are Way Too Busy  
 Pointless
-
-This Shopkeeper Just Tried To Steal 20p From [[Explicitly Showcased/Me/Me\|Me]]  
-I Was Buying Monster And They Were All 1.55 Except The One I Wanted And The Guy Typed Out 1.55 Into The Card Machine  
-And I Wouldn't Be Upset If He Didnt Turn The Can To Check First  
-100% Just Being A Dick
-
-I Was Sitting On The Floor Trying To Listen To Shit And A Group Of Girls Srated Standing Around [[Explicitly Showcased/Me/Me\|Me]] (Literally) And Had The Loudest Conversation About [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]:/
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do u think a transphobic conservative guy would change if I squished his head between my thighs</p>&mdash; Kiyana 🏳️‍⚧️ (@SlayzKiana) <a href="https://twitter.com/SlayzKiana/status/1717001251215515673?ref_src=twsrc%5Etfw">October 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -283,29 +264,16 @@ I Just Deepthroated A Knife
 
 One Of My Discord Friends Got Paws
 
-Flowers Cant [[Skull/Spam/Cum\|Cum]] :(
-
 [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]
 ## Back To Normal?
 
 Did Some Messing Around And I Should Be Able To Edit Tje Websote On The Go So....
 Expect More Of Me I Guess
 
-I Just Heard Someone Piss Out About A Litre Of Liquid 
-Rare Case Of Me Using The Public Bathroom
-I Go In, Pee, Leave same Guy Continuously Pissing
-Hope He's Okay
-
-The Woman Who Lives Across The Road Just Turned The Corner (Walking Onto The Street), Lifted The Lid Of Our Bin,  Got In Her Car And Drove Away
-
-I Dont Think Either Of Those Two Washed Their Hands
-
 Somebody (Not Naming Names) Has Put Tablespoons Of Tea Into My Teapot Instead Of The More Elegant And Aptly Named Teaspoons Of Tea So I Dont Think The Brew Strength Is Ever Right
 
 Someone Should Make An Algorithm That Analyses The Frames Of Tv Shows And Switches Between Episodes Smoothly
 Like Youre Watching Friends Season Three And In Season Seven Episode Nine Everyone Happens To Stand In The Same Place So Its Suddenly Just A Whole Different Episode From Now On
-
-I Never Mentioned That One Guy In My Maths Lecture Whi Was Dipping His Lilipop Into His Coffee
 
 I Wanted Tea
 I Cant Go Downstairs Though Because My Mother's Lurking Around
@@ -331,7 +299,7 @@ Im Trying To Cook But My Body Is A Few Actions Before My Brain So I Haven't Tech
 
 Eating Breakfast Out Of A Mug
 
-Saw Cores Family This Morning
+Saw Cors Family This Morning
 Bus Isnt Showing Up So Im Walking Down
 Past Them And Recognised Their Voices
 It Was Quite A Pleasant Surprise 
@@ -373,9 +341,64 @@ Naming My Daughter Mortality Rose
 I Did Break This At Some Point
 If Youre Reading This It Was At Least Temporarily Fixed
 
+Started Playing Stardew Valley Again And I Love Abby So Much; Like, Yes Girl You Go Eat That Quartz! I Was Saving It For Your Midnight Snack Anyway B)
+Cant Wait To Marry Her For The Eighteenth Time In A Row
+
+I Wanna Dye My Hair Black; Just A Shitty, Fading-Over-Time, Layer Of Void Overlaying An Almost Equally Shitty Bleached Head Of Hair
+And Underneath All Of It: Slowly Growing Black Roots
+If I Leave My Hair For Long Enough Therell Be An Obvious Faded Ring Of Where Has Been Bleached Sandwhiched Between An Artificial And A Natural Black
+
+Im Not Okay
+Im So Not Okay But I Dont Know Why
+
+It Has Come To My Attention (Via Me Telling Me What I Think Is Best For Me) That Since I Am Undergoing Zoochosis And That The Enrichment Time That I Usually Try To Provide Myself With Is A Failing Method,  The Best Thing For Me To Do For My Mental Health Is To Empty The Beehive More Frequently; The Problem Isnt My Mind, It's Keeping My Mind Locked Iniside Of Itself
+This Website Will See The Biggest Hit In Terms Of My Increase In Esoteric
+
+Also Im Now A Light Player And I Think Roo Is One Of The Desolation Maybe; Who Knows
+
+![IMG-20240114-WA0016 1.jpg](/img/user/images/IMG-20240114-WA0016%201.jpg)![IMG-20240114-WA0019.jpg](/img/user/images/IMG-20240114-WA0019.jpg)
+Hhhhhhhhhhhhhhhh
+
+I Just Got Dissapointed Because I Mistakenly Thought I Spotted A Free Box Of Floor Tampons
+
+I Hung Out With Dee Today (The Light Of My Life, Beacon Of Hope And The Best Woman Since Adam Got Married) And She Is Always So Freaking Amazing!
+We Went To Spoons For Lunch Then I Kinda Just Escorted Her Through The Completion Of A Errands; She Also Let Me Borrow An Old Shirt And After All That My Whole Day Has Been Made
+Living Proof That Spiders Can Be Lovely 
+On That Topic  No Clue What Aspect They Are
+
+Corys Definitely A Light Player; I Dont Know If Hes A Watcher Though; I Think Hes A Spiral Or Maybe The Web (Do Spiders Need To Manipulate <b>People</b> Or Can They Have Fun With It?)
+
+Speech To Text Making An Appearance 
+
+Finally Got My Hands On A Copy Of House Of Leaves
+Its A Second Editioni Copy Publishd In 2001 
+
+Count Bin Face Is Active Again
 
 
+I Wasnt Listening To The New Magnus PROTOCOL  Episode Because I Was Freaking Over The Small Details
+Technically The First Episode (I Know Two Came Out At Once)
 
+I Was Watching Hazbin Hotel But I Couldnt Find Episode Five So :)
+
+I Wanna Go On Reality Tv Shows And Just Lie To Everyone, Drive Them Slowly Insane; Every Year Or Two Someone With My Face But A Different Name Shows Up On A New Season Of Some Random Reality Tv Show Or Game Show Or Whatever And Nobody Quite Knows Why
+
+Just Learned That The Rocks On Your Farm Dont Drop Geodes Day One
+
+I Wanna Put Together A Dnd Party Of People Who Arent Friends; Mainly To See How Player Chemistry Would Form From Scratch Or If It Even Will
+Itll Be Interesting To See If Two People Hate Each Other Do They Reflect That In-Game Or Vice Versa
+
+My Computer Now Starts With A Key
+
+Also I Went To Las Iguanas To Eat, It Was Pretty Good
+
+Oh And New Earphones Are Quite Good
+Makes Me Feel A Little Crazy Though Because I Feel Like Im Listening To Shit In A Silewnt Room And Everyones Just Like "Who The Fuack Is This Guy?"
+Im Not Worried Theyre Judgin G Me Its Just A Very Large Tonal Shift
+
+Watch Icp Win US Presidency
+
+Cleaning Up The Vault
 
 <center><sub>Done For Now \^w^ </sub></center>
 
