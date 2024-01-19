@@ -36,11 +36,7 @@ But When She Doesnt Pick Up We Shouldnt Be Looking Out For Her In The First Plac
 
 
 ## Mother
-
-Theres A Scene At The End Of A Lot Of Hamtaro Episodes Where The Mother (I Dont Remember Anyones Names) Says [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] About Or Directed Towards The Daughter But Says The Wrong Name  
-Theres One Scene In Particular Thats Stuck With [[Explicitly Showcased/Me/Me\|Me]] Where The Mother Addresses The Girl As "Brandy" To Which She Replies "Thats The Dog Mom...."  
-The Reason Its Always Stuck With [[Explicitly Showcased/Me/Me\|Me]] Is Because Thats How I Feel Every Time I Have A Conversation With My Mother  
-I Know Shes Not Listening And That I Have - And Will Have To - Repeat Whatever I Just Said To Someone Who Ultimately Doesnt Care One Way Or The Other
+[Removed]
 
 Fuck I Dont Update This Enough  
 More Imports:
@@ -127,6 +123,15 @@ Ive Been Meaning To Leave My Room For Ages But I Dont Want To Deal With....That
 
 I Have Food Now
 Her Torturous Voice Echos Throughout The House And Comes At You From Every Conceivable Place 
+
+Theres A Scene At The End Of A Lot Of Hamtaro Episodes Where The Mother (I Dont Remember Anyones Names) Says [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] About Or Directed Towards The Daughter But Says The Wrong Name  
+Theres One Scene In Particular Thats Stuck With [[Explicitly Showcased/Me/Me\|Me]] Where The Mother Addresses The Girl As "Brandy" To Which She Replies "Thats The Dog Mom...."  
+The Reason Its Always Stuck With [[Explicitly Showcased/Me/Me\|Me]] Is Because Thats How I Feel Every Time I Have A Conversation With My Mother  
+I Know Shes Not Listening And That I Have - And Will Have To - Repeat Whatever I Just Said To Someone Who Ultimately Doesnt Care One Way Or The Other
+
+
+Was Talking To My Mother About Getting Skates And She Started Talking About How Theyre Hard And I Shouldn't Waste My Money And Blah Blah Blah So Ive Decided: Fuck You
+So Thats Like Two Hundred Quid Gone And I Dont Even Care If I Use Them
 
 
 
