@@ -253,7 +253,7 @@ Did Yall Know You Can Group Call On The Lovesense App?
 I Think If A Guy Gets A Girl Pregnant She Should Just Be Able To Give Him The Pregnancy  
 That Would Be A Great Update To Human Biology
 
-I Found Out One Of [[Tiddy Gremlin\|My Friends]] Is Into Rope Bondage  
+I Found Out One Of [[Explicitly Showcased/People/Ash/Tiddy Gremlin\|My Friends]] Is Into Rope Bondage  
 He Doesn't Live In England  
 Most Of The [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Begging To Be Roped Live Way Too Far Or Are Way Too Busy  
 Pointless
