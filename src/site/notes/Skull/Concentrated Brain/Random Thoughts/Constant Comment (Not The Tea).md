@@ -143,7 +143,7 @@ I Just Feel Like "[[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] 
 I Figured It Out!  
 Watching Someone Change In The Gym And Youre Staring At Them For Ages  
 Then You Go "Im Only Staring At Their Armpits...."  
-Then You Go Home And Figure It Out From There  
+Then You Go [[Explicitly Showcased/Home Page I Guess/Home Page\|Home]] And Figure It Out From There  
 Its Just That I Can Imagine Someone Finding Bdsm Porn And Being Like "I Want More Of This"  
 But Does Armpit Porn Even Exist?
 
@@ -352,9 +352,9 @@ Im Not Okay
 Im So Not Okay But I Dont Know Why
 
 It Has Come To My Attention (Via Me Telling Me What I Think Is Best For Me) That Since I Am Undergoing Zoochosis And That The Enrichment Time That I Usually Try To Provide Myself With Is A Failing Method,  The Best Thing For Me To Do For My Mental Health Is To Empty The Beehive More Frequently; The Problem Isnt My Mind, It's Keeping My Mind Locked Iniside Of Itself
-This Website Will See The Biggest Hit In Terms Of My Increase In Esoteric
+This [[Explicitly Showcased/Home Page I Guess/Home Page\|Website]] Will See The Biggest Hit In Terms Of My Increase In Esoteric
 
-Also Im Now A Light Player And I Think Roo Is One Of The Desolation Maybe; Who Knows
+Also Im Now A Light Player And I Think [[Explicitly Showcased/People/Roo/STOWAWAY SLUT (FREE)\|Roo]] Is One Of The Desolation Maybe; Who Knows
 
 ![IMG-20240114-WA0016 1.jpg](/img/user/images/IMG-20240114-WA0016%201.jpg)![IMG-20240114-WA0019.jpg](/img/user/images/IMG-20240114-WA0019.jpg)
 Hhhhhhhhhhhhhhhh
