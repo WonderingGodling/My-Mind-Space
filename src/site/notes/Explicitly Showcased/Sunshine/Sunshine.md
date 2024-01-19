@@ -53,4 +53,7 @@ Hope You Enjoyed Your Read <span style="color:#FF0000">Mwah</span>
 
 This Is Gonna Get A Lot Longer
 
+At Least I Wish That It Coukd#
+But My Motivation Is In A Deeper Pit Than A Wounded Ww2 Soldier 
+
 ![Pasted image 20230825141100.png](/img/user/images/Pasted%20image%2020230825141100.png)
