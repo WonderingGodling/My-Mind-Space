@@ -12,9 +12,9 @@
 # Original
 Ive Been Working On This For A Bit Now And Honestly I Dont Think Its Going To Have Too Big Of An Impact On My Life But The Thing Is I Need [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] To Do And This Is Certainly [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] To Do
 
-Itll Be Fun To Document And Share Stuff And I Guess Have An Outlet For My Thoughts And Stuff That Extends Past A Piece Of Paper Confined In My Bedroom But Other Than That This Is Just Gonna Be [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Else That Gets Added To The Interest Graveyard
+Itll Be Fun To Document And Share Stuff And I Guess Have An Outlet For My [[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)\|Thoughts]] And Stuff That Extends Past A Piece Of Paper Confined In My Bedroom But Other Than That This Is Just Gonna Be [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Else That Gets Added To The Interest Graveyard
 
-Over Time (Knowing [[Explicitly Showcased/Me/Me\|Me]]) Im Going To Forget I Have This Or That I Can Speak To [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Indirectly And Go Back To Being Unsatisfied With My Indirect Communication But Until Then Im Going To Keep Updating This And Adding My Thoughts And Links In Places That Make Sense To [[Explicitly Showcased/Me/Me\|Me]]
+Over Time (Knowing [[Explicitly Showcased/Me/Me\|Me]]) Im Going To Forget I Have This Or That I Can Speak To [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Indirectly And Go Back To Being Unsatisfied With My Indirect Communication But Until Then Im Going To Keep Updating This And Adding My [[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)\|Thoughts]] And Links In Places That Make Sense To [[Explicitly Showcased/Me/Me\|Me]]
 
 
 Also Planning On Adding A [[Explicitly Showcased/Guestbook\|Guestbook]] Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]
@@ -27,7 +27,7 @@ Who Knows
 
 Oh And Also There Are Some Note Links That Exist But Lead Nowhere
 Thats Because I Dont Want To Publish Everything Online (Story Idea Spoilers, Backend Connecters And Other Stuff) So Those Might Just Stay Broken
-Also On My End Ive Got Little Icons Next To Filess And Stuff And There Isnt A Simple Way To Treansfer Those To The Website Which Is A Pain In The Ass
+Also On My End Ive Got Little Icons Next To Filess And Stuff And There Isnt A Simple Way To Treansfer Those To The [[Explicitly Showcased/Home Page I Guess/Home Page\|Website]] Which Is A Pain In The Ass
 
 # Mid Zoochosis
 Adding To This (19·2023 44.97) Its Hard To Add To This While My Mental State Is On The Move, My Mnind Has To Settle In Order For The Production To Carry Forward
