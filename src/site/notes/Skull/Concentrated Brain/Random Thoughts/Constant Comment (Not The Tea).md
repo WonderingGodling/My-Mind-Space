@@ -404,6 +404,21 @@ I Always Feel Like I Shouldnt Be In This Body But Recently Ive Felt That My Body
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:0WVvjWYXyV_tcp5kf631Jw/729147951762505728/v2" data-did="945d63eecd58b6a0bd44d5f12bb9abce89656c19"  ><a href="https://www.tumblr.com/shencomix/739174739386515456">https://www.tumblr.com/shencomix/739174739386515456</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
+
+I Envy Suicide Bombers And Kamikaze Pilots
+Getting To Kill Yourself And Truely Believe The World Is Better Sounds Like The Dream
+
+Its Been Over A Week Since Ive Said Anything And That New Installment Is Lamenting About Not Killing Myself 
+
+
+Mortician Boyfriend Who Puts Ice In Your Mouth So He Can Imagine Getting Blown Off By A Corpse
+Hahahaha
+Ha
+
+Its 40•2024•4597 And I Am Losing My Mind But Im Back; Your Girl Is Back; I Am Typing Real Huamn Words-
+That One Doesnt Count; Go To Hell
+
+
 <center><sub>Done For Now \^w^ </sub></center>
 
 <script src="https://utteranc.es/client.js"
