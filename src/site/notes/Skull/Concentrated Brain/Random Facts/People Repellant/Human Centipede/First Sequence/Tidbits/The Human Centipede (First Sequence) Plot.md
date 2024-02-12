@@ -1,5 +1,5 @@
 ---
-{"Type:":"Film Plot","up:":[["The Human Centipede (First Sequence)"]],"down:":null,"Yesterday:":null,"Tomorrow:":null,"alias:":"Human Centipede 1 Plot","Next:":null,"Previous:":null,"dg-publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/tidbits/the-human-centipede-first-sequence-plot/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/tidbits/the-human-centipede-first-sequence-plot/"}
 ---
 
 
