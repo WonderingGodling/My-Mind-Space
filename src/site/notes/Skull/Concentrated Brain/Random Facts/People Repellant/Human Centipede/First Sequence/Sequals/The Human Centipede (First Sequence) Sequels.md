@@ -1,5 +1,5 @@
 ---
-{"Type:":"Sequel Information","up:":[["The Human Centipede (First Sequence)"]],"down:":null,"Yesterday:":null,"Tomorrow:":null,"alias:":"Human Centipede 1 Sequels","Next:":null,"Previous:":null,"dg-publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/sequals/the-human-centipede-first-sequence-sequels/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/sequals/the-human-centipede-first-sequence-sequels/"}
 ---
 
 
