@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Mother","permalink":"/Mother/","tags":["Tagless"]}
+{"Type":null,"up":"[[Venting Or Something]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":["mother","mom"],"Next":null,"Previous":null,"title":null,"comments":true,"dg-publish":true,"dg-show-local-graph":null,"tags":["Tagless"],"dg-show-toc":null,"dg-hide-in-graph":null,"dg-permalink":"Mother","permalink":"/Mother/","dgPassFrontmatter":true}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -31,7 +31,7 @@ If We Dont Pick Up When She Calls Us Its A Crime
 But When She Doesnt Pick Up We Shouldnt Be Looking Out For Her In The First Place
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/constant-comment/#mother" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skull/concentrated-brain/random-thoughts/constant-comment-not-the-tea/#mother" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -133,6 +133,11 @@ I Know Shes Not Listening And That I Have - And Will Have To - Repeat Whatever I
 Was Talking To My Mother About Getting Skates And She Started Talking About How Theyre Hard And I Shouldn't Waste My Money And Blah Blah Blah So Ive Decided: Fuck You
 So Thats Like Two Hundred Quid Gone And I Dont Even Care If I Use Them
 
+My Rooms Cold And My Mothers All "You Probably Broke [The Radiator] I Wouldn't Be Surprised"
+Excuse Me‽ Bitch
+
+I Try Do Hard To Not Add To Thid Page; That Woman Shovels So Much Negative Energy Into My Soul
+Energy That I Dont Want To Use To Fuel My Being; Or Even To Fuel My Writing In Any Form....Yet Here We Are
 
 
 <center><sub> Why Do I Bother With Her </sub></center>
