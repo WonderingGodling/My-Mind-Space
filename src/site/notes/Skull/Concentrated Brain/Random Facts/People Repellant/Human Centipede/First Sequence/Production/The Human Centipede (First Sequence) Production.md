@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/production/the-human-centipede-first-sequence-production/"}
+{"Type:":"Information Depth Clarifier","up:":[["The Human Centipede (First Sequence)"]],"down:":null,"Yesterday:":null,"Tomorrow:":null,"alias:":"Human Centipede 1 Production","Next:":null,"Previous:":null,"dg-publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/production/the-human-centipede-first-sequence-production/","dgPassFrontmatter":true}
 ---
 
 # Production
