@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"constant-comment","permalink":"/constant-comment/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing"]}
+{"Type:":"Brain Dump","down:":null,"Yesterday:":null,"Tomorrow:":null,"Next:":null,"Previous:":null,"title":"Constant Comment","layout":"page","comments":true,"dg-publish":true,"dg-show-local-graph":null,"tags":["RandomThoughts","BrainDump","ThisMeansNothing"],"aliases":["Constant Commment","Rambles","Mega Note","Thoughts","I Dont Know What Im Saying"],"up":"[[Random Thoughts]]","permalink":"/skull/concentrated-brain/random-thoughts/constant-comment-not-the-tea/","dgPassFrontmatter":true}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important} </style>
@@ -417,6 +417,9 @@ Ha
 
 Its 40•2024•4597 And I Am Losing My Mind But Im Back; Your Girl Is Back; I Am Typing Real Huamn Words-
 That One Doesnt Count; Go To Hell
+
+Im In 3AB002 And It Is Killing Me; Im Actually Dying! This Lecture Is So Slow And I Know All Of It And The Lecturer Said That This Isnt Important Because He Knows The Test And We've Already Covered The Part Of This Subject Thatll Bz On TheTest So do weNeed To Be Here? 
+That Wasnt rethorical; No Is The Answer
 
 
 <center><sub>Done For Now \^w^ </sub></center>
