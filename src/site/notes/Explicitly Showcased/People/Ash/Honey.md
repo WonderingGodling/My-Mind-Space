@@ -1,5 +1,5 @@
 ---
-{"title":"Honey","comments":true,"dg-publish":true,"dg-show-local-graph":null,"Type":"Just A Thing For Ash","up":"[[Tiddy Gremlin]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"tags":["Tagless"],"dg-show-toc":null,"dg-hide-in-graph":true,"dg-permalink":null,"permalink":"/explicitly-showcased/people/ash/honey/","hideInGraph":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/explicitly-showcased/people/ash/honey/","title":"Honey","hideInGraph":true,"tags":["Tagless"]}
 ---
 
 
