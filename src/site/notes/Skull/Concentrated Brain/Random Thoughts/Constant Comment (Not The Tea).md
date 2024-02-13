@@ -421,7 +421,7 @@ That One Doesnt Count; Go To Hell
 Im In 3AB002 And It Is Killing Me; Im Actually Dying! This Lecture Is So Slow And I Know All Of It And The Lecturer Said That This Isnt Important Because He Knows The Test And We've Already Covered The Part Of This Subject Thatll Be On TheTest So do weNeed To Be Here? 
 That Wasnt rethorical; No Is The Answer
 
-43•2024•???? Maybe Fixed The Website 
+43•2024• Maybe Fixed The Website 
 
 Habib Sucks So Much
 Hes Literally Just Talking About Himself 
@@ -441,9 +441,15 @@ I Know Its Not For Me
 Lex Is Great 
 Shout Out Lex
 
-43•2024•9314
+•9314
 I Just Realised I've Felt Quite "...." This Evening Which Is Very Impressive When You Consider That On Any Given Day: I Cant Feel
 What That Means Is ~~I've Simply Been Rotting..............Complacent~~! Ive Simply Been Rotting Complacently Without Realising That Either The Rotting Or The Complacency Was An Option
+
+•1440 Lets See How Late I Sleep In
+Like 36 Or Something 
+
+
+
 
 <center><sub>Done For Now \^w^ </sub></center>
 
