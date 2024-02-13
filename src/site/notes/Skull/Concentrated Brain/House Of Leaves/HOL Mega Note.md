@@ -104,7 +104,7 @@ Perhaps at that moment I was even thinking about what
 the two would look like in a cat fight.
 
 Last Page
-![[IMG-20240120-WA0011.jpeg\|IMG-20240120-WA0011.jpeg]]
+![IMG-20240120-WA0011.jpeg](/img/user/images/IMG-20240120-WA0011.jpeg)
 <center><sub>Done :)</sub></center>
 
 
