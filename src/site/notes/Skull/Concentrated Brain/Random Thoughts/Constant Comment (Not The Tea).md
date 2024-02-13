@@ -418,9 +418,32 @@ Ha
 Its 40•2024•4597 And I Am Losing My Mind But Im Back; Your Girl Is Back; I Am Typing Real Huamn Words-
 That One Doesnt Count; Go To Hell
 
-Im In 3AB002 And It Is Killing Me; Im Actually Dying! This Lecture Is So Slow And I Know All Of It And The Lecturer Said That This Isnt Important Because He Knows The Test And We've Already Covered The Part Of This Subject Thatll Bz On TheTest So do weNeed To Be Here? 
+Im In 3AB002 And It Is Killing Me; Im Actually Dying! This Lecture Is So Slow And I Know All Of It And The Lecturer Said That This Isnt Important Because He Knows The Test And We've Already Covered The Part Of This Subject Thatll Be On TheTest So do weNeed To Be Here? 
 That Wasnt rethorical; No Is The Answer
 
+43•2024•???? Maybe Fixed The Website 
+
+Habib Sucks So Much
+Hes Literally Just Talking About Himself 
+Hes Talking About Plants Now (Which Is His Job)
+
+The More He Speaks The Less I Value His Words
+And So I Keep Reading HOL (For Which I have Untranscribed Notes)
+
+That Was A Waste Of Time; I'll Try To Update This As Much As Possible Though
+
+Hhhhh
+Had To Get The 5 Train Back Dx
+
+Being Perceived Isnt For Everybody 
+I Know Its Not For Me
+
+Lex Is Great 
+Shout Out Lex
+
+43•2024•9314
+I Just Realised I've Felt Quite "...." This Evening Which Is Very Impressive When You Consider That On Any Given Day: I Cant Feel
+What That Means Is ~~I've Simply Been Rotting..............Complacent~~! Ive Simply Been Rotting Complacently Without Realising That Either The Rotting Or The Complacency Was An Option
 
 <center><sub>Done For Now \^w^ </sub></center>
 
