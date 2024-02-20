@@ -446,9 +446,84 @@ I Just Realised I've Felt Quite "...." This Evening Which Is Very Impressive Whe
 What That Means Is ~~I've Simply Been Rotting..............Complacent~~! Ive Simply Been Rotting Complacently Without Realising That Either The Rotting Or The Complacency Was An Option
 
 •1440 Lets See How Late I Sleep In
-Like 36 Or Something 
+
+Girls Talking About How Much They Suck At The Tests Here Or Something (I Dont Know); I <b>Do</b> Know That One Of Them Has To Redo Maths
+
+Adam Wants To Make Fun Of That One Girl
+Because Reasons 
+
+This Lecturer, Despite Not habing Started Yet, Doesn't strike me As A Mn who Knows What hes Doing
+
+I Was Right, Hes Apent The First Eighteen Minutes Riffing About Ice Cream
+
+The Most Annoying People Ever Are Sitting To My Right; Im Not Sure How They Got Here; Id Ve Surprised If They Can Spell Their Own Names 
+
+I Shouldn't Be Here
+The Lectures Slow, The People Are Gross, The Contents Important But The Powerpoints Are Shared Anyway; My Presence Is Just Leading To Suffering <sup>(Title Of My Autobiography)</sup>
+
+"Its Like My Grandpa Used To Say: Hiddem With Da Fish And He'll Never See It Comin"
+~ Me
+
+"Ugh, I Need To Bend Down Like A Peasant"
+~Core
+
+My Mothers Trying To Tell Me That Imposter Syndrome Is When Someone Pretends To Be You 
+
+This Lecturer- Emma Something- Has A Power Complex (Though To Be Fair Most Educators Do) But Whats Happening Is That Whenever She Notices That Someone Is Talking She Stops So That Dhe Can Stare At Them
+And It Isnt So that She Can Be Heard Properly Because There Is This Really Loud Drilling Noise Which Occasionally Comes From Behind Her And Shes Just Ignored It Every Time; I Can Only Conclude The Issue Id That The Idea Of Other People Not Sacrificing The Entirety Of Their Attention Id Being Treated As A Criminal Act
+
+I Really Need to Type Stuff Up More Because Keeping It In Os Driving Me Towards Madness And The People Who At Least Pretend To Care All Have Actual Things That Go On On Their Actual Lives--
+Also Im Thinking Of Seperating This Into Multiple Pages If It Gets Too Long; Thats A Long Way Down the Road Though So Dont Worry (Xei Said To The Zero people Reading)
+Im Also Going To Put Up My Lecture Notes When I Start Making Them So Theres That To Look Forward To
+
+Oh Yeah Yesterday Roo Asked Me If I Wanted To Play Overwatch And I Said Later Because I Was Tired; Later Came And I Asked Them And Got Rejected Because They Were Tired
+Thats A Fair Reason (If It Wasnt I Wouldn't Have Used It) But Its Still Kinda Rude Because Yknow <b>You</b> Asked <b>Me</b> But Its Whatever So I Didnt Say Anything
+
+On The Same Note (Knowing I'll Move The Previous Entry) I Started Playing Persona Three Reload Yesterday And Its A Great Game Which I Probably Would Have Had Something To Say About But That Was Last Night And Im Forgetful 
+
+Listened To The Magnus Protocol And We Are So Back!
+
+Bought A 39p Chocolate Flapjack Which Is Great.
+
+App Keeps Closing. Sucks.
+
+Its Cool That Ive Not Had To Stay For The Hour Gap Ever
+
+There Needs To Be A Word For Devour But For Eyes. Like You Can Devour A Chicken But You Cant Devour A Good Show
+Also Taste And Smell (In A Metaphorical Sense)--
+No You Can "See" Things Like Psychics And Stuff So Nevermind 
+
+Just Missed An Empty Train :D
+
+Train Fumes Giving Me Headache
+Also Got Here In Like An Hour Which Is A Surprisingly Slow Run But Its Whatever Because I Still Have An Hour Before My Lecture 
+
+Whatd The Opposite Of Cooking Because Thats What Im Doing--
+Rotting Works Surprisingly Well For That Actually; Promonged Uncookery And Suffering 
+Maybe If I Was The Hunt Id Feel Better; I Can Definitely See How A Light Hunter Would Be Able To Thrive (Although Why A Light Watcher Isnt Frankly Escapes Me)
+
+Every Time I See A Picture Of Myself The Best I Can Do To Describe My Attitude Towards It Is Stranger; I Feel Like When Im In An Image Or A Video The Thing That Is Me Is Wrong
+I Know Thats Some Form Of Body Dysmorphia Or Whatever And I Also Know That I Dont Really Care Enough About It To Do Anything
+I Guess Its Just That I Would Find Most Of My Life To Be Easier If I Weren'tAble To Be Perceived
+Really Wish The SEP Existed So People Would Just Let Me Be 
+
+As I'm Making Coffee To Mentally Fortify Myself For My Lectures I Get An Email Telling Me All Lectures Today Are Cancelled (51•2024•4500 Btw)
+Well More Specifically I Got Email Notified Of A Canvas Message Telling Me That Since IT (Incmuding Canvas) Is Malfunctioning Lectures Are Called Off
+
+Also My Brother Gets Recommended Trans Greentext On YouTube 
+L
 
 
+
+
+
+
+
+
+​    ​‍ 
+
+
+‍​ 
 
 
 <center><sub>Done For Now \^w^ </sub></center>
