@@ -513,6 +513,12 @@ Well More Specifically I Got Email Notified Of A Canvas Message Telling Me That 
 Also My Brother Gets Recommended Trans Greentext On YouTube 
 L
 
+Aaaaaaaaa
+
+I keep forgetting I Have This
+
+If I cant Sleep Im actually Gonna Be Really Mad :)
+
 
 
 
