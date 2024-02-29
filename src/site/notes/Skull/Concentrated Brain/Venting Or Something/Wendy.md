@@ -31,7 +31,7 @@ If We Dont Pick Up When She Calls Us Its A Crime
 But When She Doesnt Pick Up We Shouldnt Be Looking Out For Her In The First Place
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skull/concentrated-brain/random-thoughts/constant-comment-not-the-tea/#mother" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Constant Comment/#mother" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -39,6 +39,8 @@ But When She Doesnt Pick Up We Shouldnt Be Looking Out For Her In The First Plac
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important} </style>
 
 # <span style="color:#CD0000">Constant Comment (Not The Tea)</span>
+![](https://i.imgur.com/O8fvfW9.png)
+
 ## The Top
 
 I Dont Know What Im Writing And None Of This Matters  
@@ -153,7 +155,7 @@ Spotify Was Using Automatic Quality
 
 I Was Gonna Read On The Train But I Still Dont Trust Them
 
-So Many [[Constant Comment (Not The Tea) (conflict 2024-02-13-13-58-21)\|Thoughts]], None Of Which Carry With Them The Drive For Dictation  
+So Many [[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)\|Thoughts]], None Of Which Carry With Them The Drive For Dictation  
 Im Just Thinking And Existing And Dealing With It Because I Just Dont Feel Like Writing It
 
 I Haven't Updated This In A While But Thats Because Im Secretly **Losing My Mind!**
@@ -580,6 +582,85 @@ Also [[Explicitly Showcased/People/Roo/STOWAWAY SLUT (FREE)\|Roo]] Is Cool, Glad
 
 ![Tumblr_l_1160578296118.jpg](/img/user/images/Tumblr_l_1160578296118.jpg)
 
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:HmBJ8Ly3SvMXpp9ktdUq7Q/741139528161640448/v2" data-did="5bff922bcf470585110d7b2203c414daa135bb91"  ><a href="https://www.tumblr.com/trouble-trouble-trouble/741139528161640448/tmagp-try-to-go-one-ep-without-having-a-line">https://www.tumblr.com/trouble-trouble-trouble/741139528161640448/tmagp-try-to-go-one-ep-without-having-a-line</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+
+Watching Myself On The Edge Od Dissacotiation (Im Not Spelling That Right); Watching Myself Not Pay Attention
+
+I Dont Want To Exist Right Now
+
+![[Screenshot_20240223_073901_One UI Home.png\|Screenshot_20240223_073901_One UI Home.png]]
+
+Uhhh [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]? (ETA: Well Thats Gone?)
+
+Ive Been Up For Like Two Hours, Done [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] And Burned 34% Of My Battery And Honestly If I Could Just Coast In This State I Would 
+
+I Forgot About This Comic https://halo-head.com/comic/347-try-to-draw/ (Embed This Later) (EAT: The Hell You Mean eMbed This Later? How Would I Embed That)
+Last Updated Yesterday 
+Happens Every Time That I Read This
+
+
+I Haven't Really Eaten Or Drank Anything All Day And My Mothers Been Camping The Kitchen For Hours
+
+Vies Too Busy Cleaning To Deal With [[Explicitly Showcased/Me/Me\|Me]] Dx
+
+![d2b89dd5b95cb7f7d56f0e9c5881477d.jpg](/img/user/images/d2b89dd5b95cb7f7d56f0e9c5881477d.jpg)
+Cool Tattoo
+
+Eww CinemaSins Fnaf! Gonna Watch That :)
+
+"Im Pregnant"
+"Did You Just Say Youre Pregnant?!?!"
+"Well Itd Not That Bad"
+My Girls Got A Lil Pregnant, No Wories
+
+Eating Goldbears Like A Weirdo
+
+(59·2024·8333~)
+Finally Got My Pc Back;  [[Explicitly Showcased/Me/Me\|Me]] And Core Spent Like All Day Working On It And Now Everything Wprks Smoothly
+
+Now For Some Note Catchup
+
+![](https://i.imgur.com/yeTb4fe.png)
+Imagine Giivng Someone Dog Treats To Convince Them To Walk Into A Very Obvious Trap Filled With Monsyters
+thats The Dream Right Gang?
+
+![](https://i.imgur.com/2oS4aMU.jpeg)
+1981 Kitty
+
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Update: <br><br>MY MOM IS GETTING A FURSUIT <a href="https://t.co/fa1QIxc4DO">https://t.co/fa1QIxc4DO</a></p>&mdash; Blue 🔜 New Fursuit! (@bluefolf) <a href="https://twitter.com/bluefolf/status/1758178570910781914?ref_src=twsrc%5Etfw">February 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> Happy For Them
+
+
+"Wash....Myself? I Didnt Even Know You Could Do That"
+~Markiplier In Awe
+
+Lowkey Wanna Go Down On Someone Rn
+Need [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] To Do And Brains Like Someone Works Too ;)
+Like Its Not The Top Of My To-Do List But At The Same Time The Rest Of That List Doesnt Feel More Entertaining At The Moment
+
+Its Been A Year But I Think Ive Finally Found My Chill Room
+Theres A Random Staircase That Lasts Ten Steps And Goes Nowhere
+Quiet, Air Conditioning, Dont Feel Like Im Being Stared At
+None Of These Buildings Make Any Sense Whatsoever
+Only Reason I Found It Was Because I Walked A Friend To His Lecture And I Saw A Door That As Far As I Could Tell Went Nowhere
+I Was Wrong It Led To A Staircase And A Lift Behind More Doors And If You Walk Around The Lift? More Doors Leading To That Room
+
+Holy Hell I Forgot; Pay Attention!
+I Found Arizona Iced Tea Across The Road From My Uni; The Real Deal And Everything So I Bought A Couple (saving Them Because They Were Expensive) Im Just Happy That They Really Exist 
+
+![](https://i.imgur.com/RIfCypg.png)
+
+
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">jordan peterson will never know the pleasure of two sweaty tgirls frotting and panting desperately,, leaving bite and scratch marks on eachother,, minds blank as they rut desperately, mindlessly against each other.,,. sry what was i ttalking about</p>&mdash; ashley (dog)🐾🦴❤️‍🩹 (@ashpuppyxoxo) <a href="https://twitter.com/ashpuppyxoxo/status/1757932917571928287?ref_src=twsrc%5Etfw">February 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> Real? Idk
+
+![](https://i.imgur.com/jUiFBme.png)
+Small Shoutout To [[Explicitly Showcased/People/Roo/Roo\|My Slut]] Btw
+
+In The Second Shazam Film Theres A Scene Where A Woman Says Shes Over Six Thousand Years Old Then Kisses A Child Which Is....Interesting
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:D6sn2PQ62McOK15fSCqfPQ/742751721089105920/v2" data-did="4cf4fe0c2dff7d9858b5ee3b7d7dc2188cb03009"  ><a href="https://www.tumblr.com/walmart-the-official/742751721089105920/yeah-np-we-had-loads-of-extras-because-most-of">https://www.tumblr.com/walmart-the-official/742751721089105920/yeah-np-we-had-loads-of-extras-because-most-of</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+
+Theres Actually A Lot More That I Wanna Add But I'll Stop Here For Now Which Makes The Note At The Bottom Temporarily Redundant 
+
 
 
 
@@ -594,7 +675,8 @@ Also [[Explicitly Showcased/People/Roo/STOWAWAY SLUT (FREE)\|Roo]] Is Cool, Glad
 
 
 <center><sub>Done For Now \^w^ </sub></center>
-![20240222_215919.jpg](/img/user/images/20240222_215919.jpg)
+![20240222_215919 1.jpg](/img/user/images/20240222_215919%201.jpg)
+
 
 </div></div>
 
