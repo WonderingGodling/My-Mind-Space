@@ -619,7 +619,7 @@ I Found Arizona Iced Tea Across The Road From My Uni; The Real Deal And Everythi
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">jordan peterson will never know the pleasure of two sweaty tgirls frotting and panting desperately,, leaving bite and scratch marks on eachother,, minds blank as they rut desperately, mindlessly against each other.,,. sry what was i ttalking about</p>&mdash; ashley (dog)🐾🦴❤️‍🩹 (@ashpuppyxoxo) <a href="https://twitter.com/ashpuppyxoxo/status/1757932917571928287?ref_src=twsrc%5Etfw">February 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> Real? Idk
 
 ![](https://i.imgur.com/jUiFBme.png)
-Small Shoutout To [[Explicitly Showcased/People/Roo/STOWAWAY SLUT (FREE)\|Roo]] Btw
+Small Shoutout To [[Explicitly Showcased/People/Roo/STOWAWAY SLUT (FREE)\|My Slut]] Btw
 
 In The Second Shazam Film Theres A Scene Where A Woman Says Shes Over Six Thousand Years Old Then Kisses A Child Which Is....Interesting
 
