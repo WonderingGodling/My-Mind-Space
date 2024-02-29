@@ -61,3 +61,6 @@ Theyre Upset I Dont Tell Them The Adult Thoughts I Have
 Not Happening
 
 Seriously Though Hes Very Fascinating
+
+Youre Too Gay
+Like An Overcharged Battery
