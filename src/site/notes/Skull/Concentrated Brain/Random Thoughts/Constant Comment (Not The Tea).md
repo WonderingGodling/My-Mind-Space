@@ -641,4 +641,5 @@ Theres Actually A Lot More That I Wanna Add But I'll Stop Here For Now Which Mak
 
 
 <center><sub>Done For Now \^w^ </sub></center>
-![20240222_215919 1.jpg](/img/user/images/20240222_215919%201.jpg)
+![](https://i.imgur.com/NJNBwda.png)
+
