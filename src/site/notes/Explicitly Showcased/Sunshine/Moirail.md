@@ -23,7 +23,7 @@
 </head>
 <body>
 <form>
-    <label for="pswd">What Do We Say When We Want Something? </label>
+    <label for="pswd">We Both Know What You Want </label>
     <input type="password" id="pswd">
     <input type="button" value="Submit" onclick="checkPswd();" />
 </form>
