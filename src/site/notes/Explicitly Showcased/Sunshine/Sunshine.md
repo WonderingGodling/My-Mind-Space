@@ -76,6 +76,10 @@ I Will Say Its Sometimes Hard To Tell The Difference Between You Staying At Home
 You Not Messaging Me For Sixteen Hours Doesnt Really Mean Anything (Really Could Be Because Of Either) So I Kinda Just Have To Check Every Now And Then
 Id Check Up On You But That Doesn't....Do Anything 
 
+Also
+![IMG-20240302-WA0000.jpg](/img/user/images/IMG-20240302-WA0000.jpg)
+Those Look So Good And I Cant Believe You Didnt Give Me Any >:(
+Youre Evil!!
 
 
 
