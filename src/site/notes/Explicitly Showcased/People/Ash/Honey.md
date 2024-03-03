@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/explicitly-showcased/people/ash/honey/","title":"Honey","hideInGraph":true,"tags":["Tagless"]}
 ---
 
-
+![desktop-wallpaper-best-honey-in-high-quality-honey-backgrounds-honey-bee.jpg](/img/user/images/desktop-wallpaper-best-honey-in-high-quality-honey-backgrounds-honey-bee.jpg)
 # Honey
 
 Heyy Honey
@@ -64,3 +64,11 @@ Seriously Though Hes Very Fascinating
 
 Youre Too Gay
 Like An Overcharged Battery
+
+I Tell Myself That I Should Ignore You Bevause I Dont Need To Be Your Guardian Angel All The Time
+I Walk Back In The Room And Your Stuffs Exploded
+
+![Screenshot_20240303_182052_WhatsApp.png](/img/user/images/Screenshot_20240303_182052_WhatsApp.png)
+
+Sorry If It Seems Like Im Not Paying A Lot Of Attention To You But I Really Am And Youre Amazing 
+Im Just Not Feeling Very Conversational As Of Late <3
