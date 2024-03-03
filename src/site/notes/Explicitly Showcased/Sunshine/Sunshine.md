@@ -53,7 +53,72 @@ Hope You Enjoyed Your Read <span style="color:#FF0000">Mwah</span>
 
 This Is Gonna Get A Lot Longer
 
-At Least I Wish That It Coukd#
+At Least I Wish That It Could
 But My Motivation Is In A Deeper Pit Than A Wounded Ww2 Soldier 
+
+You Never Check This But If You Ever Do Can We Talk Aboug How Hot You Are? Youre Like Illegaly Attractive And I Want To Know How You Pull It Off
+Magic Right?
+
+![Screenshot_20240303_184239_WhatsApp.png](/img/user/images/Screenshot_20240303_184239_WhatsApp.png)
+
+I Love The Way Your Brain Works, When Your Brain Works, And Id Love It If You Keep Showing Me How Wonderful Your Insides Are ^^
+
+Youre Adorable Sunshine
+
+Keep Seeing Tma Tiktoks I Cant Send You
+
+Im Sorry To Hear About Your Gag Reflex; It Sounds Like Super Annoying (Not Even Just In Terms Of Fun Time) 
+What If We Just Took away Your Throat? You Wouldnt Be Able To Use It For Anything But You <b>Would</b> Be Able To Not Chock On Things....Because You Have Nothing To Choke On
+
+Also Gonna Leave This Quote From The Other Day "Then Whats The Guilt For"
+
+I Will Say Its Sometimes Hard To Tell The Difference Between You Staying At Home And My Notifications Being Broken
+You Not Messaging Me For Sixteen Hours Doesnt Really Mean Anything (Really Could Be Because Of Either) So I Kinda Just Have To Check Every Now And Then
+Id Check Up On You But That Doesn't....Do Anything 
+
+
+
+
+
+‍​ 
+
+‍​ 
+
+
+
+
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/my-only-sunshine/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
+
+
+# <center><span style="color:#000000"></span></center>
+
+Its Strange Watching Someone Who's So Far Away
+Trying To Enjoy Their Happieness Without Being Able To Bask In It
+But Im Glad You Have People Who Can Be Wrapped Up In Your Light
+I Just Hope That They Appreciate It As Much As I Do
+
+
+
+
+
+
+
+
+
+
+<center><sub>Mwah ♡</sub></center>
+
+
+
+</div></div>
+
 
 ![Pasted image 20230825141100.png](/img/user/images/Pasted%20image%2020230825141100.png)
