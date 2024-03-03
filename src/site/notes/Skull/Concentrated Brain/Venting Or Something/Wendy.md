@@ -653,13 +653,53 @@ I Found Arizona Iced Tea Across The Road From My Uni; The Real Deal And Everythi
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">jordan peterson will never know the pleasure of two sweaty tgirls frotting and panting desperately,, leaving bite and scratch marks on eachother,, minds blank as they rut desperately, mindlessly against each other.,,. sry what was i ttalking about</p>&mdash; ashley (dog)🐾🦴❤️‍🩹 (@ashpuppyxoxo) <a href="https://twitter.com/ashpuppyxoxo/status/1757932917571928287?ref_src=twsrc%5Etfw">February 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> Real? Idk
 
 ![](https://i.imgur.com/jUiFBme.png)
-Small Shoutout To [[Explicitly Showcased/People/Roo/STOWAWAY SLUT (FREE)\|Roo]] Btw
+Small Shoutout To [[Explicitly Showcased/People/Roo/STOWAWAY SLUT (FREE)\|My Slut]] Btw
 
 In The Second Shazam Film Theres A Scene Where A Woman Says Shes Over Six Thousand Years Old Then Kisses A Child Which Is....Interesting
+
+Scrolled Through This A Bit And Random Parts Just Do Not Exist
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:D6sn2PQ62McOK15fSCqfPQ/742751721089105920/v2" data-did="4cf4fe0c2dff7d9858b5ee3b7d7dc2188cb03009"  ><a href="https://www.tumblr.com/walmart-the-official/742751721089105920/yeah-np-we-had-loads-of-extras-because-most-of">https://www.tumblr.com/walmart-the-official/742751721089105920/yeah-np-we-had-loads-of-extras-because-most-of</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
 Theres Actually A Lot More That I Wanna Add But I'll Stop Here For Now Which Makes The Note At The Bottom Temporarily Redundant 
+
+Oh Yeah Now That My Computers All Good Im Going To Be Playing Games On Discord A Lot More
+And Maybe Twitch Sometimes (Thats More Effort)
+
+Talked To The Dreamer On Discord While Trying To Do Audio Settupy Thingies
+
+still need to.,... Still Need To Get Better At This But Were Working On It
+
+I Also Need To Ermind The Dreamer That They Need Shoes And Packing Stuff
+
+Maxxed Out My Pc With Overwatch
+That Was Crazy
+
+argragog is male and The Basilisk Is Female
+
+My Phone DidntRing
+It Just....Nothing? What?
+
+
+
+My Mother Was Talking About How He Hasnt Eaten And My Cousin Said He Hasnt Either
+"[My Aunt]! You Haven't Been Feeding Your Child‽‽" My Mother In Christ You Only Got Out Of Bed Three Hours Ago You Burn Hypocrisy Like Coal!
+
+I Think It Would Be Cool To Adapt This (Or Similar) Into Something Akin To The Navidson Records But I Know Nobody Would Take Part, Is Be Stuck Fighting For The Background Position In A One Man Play
+
+Why The Hell Are Family So Damn Loud
+It Doesn't Help That My Aunt Can Drown Out The Cries Of A Tortured Hyena, Nor That Everyones Response To The Calamity That Spills From Her Lips Is To Shout Over It
+
+I Dont Know About The Kings Heath Wizard Because Im A Kings Norton Girlie
+Its Not My Fault
+
+![Screenshot_20240303_183041_WhatsApp.png](/img/user/images/Screenshot_20240303_183041_WhatsApp.png)
+This Is From Way Back In 2023
+No Background For Some Reason 
+
+
+
+
 
 
 
