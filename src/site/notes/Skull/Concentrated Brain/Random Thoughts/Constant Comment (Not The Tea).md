@@ -666,6 +666,54 @@ No Background For Some Reason
 Everyones Busy 
 I Am Too But Like Dx
 
+How Long Do You Think Itll Be Until I Hit The "Nothing Ever Changes" Wall Of Uni? Or Until I Have Another Genuine Meltdown? 
+Im Taking Bets; Closest Without Going Over <33
+
+Ive Had No Purposeful Thoughts For Like Three Days; I Feel Like Death, Especially In The Sense That I Have No Way To Think About My Current State
+
+Roo Gets A Loyalty Star Because Why Not
+
+I Keep Forgetting, Amid My Own Depressive Episodes, To Keep Updates On My Current Antics And I Would Love For Someone To Remind Me
+
+Backing Up Some More Stuff
+Nevermind That Didnt Work And Is Super Lame
+
+I Want To Write A Thing But I Have Like Negative Energy
+Also Its Too Late To Sleep So :)
+
+The Problem With  The Ghostbusters Remake Isnt Judt That Its Worse Than The Original (Which It Is) But Its Also That The Original Isnt Actually That Good
+I Remember Enjoying It When I Was Like Five But I Also Doiont Remember A Single Good Thing About It
+
+Was Watching Hannible Yesterday, Watched The Whole First Season And Its An In-
+My Headphones Just Frog Blinked
+Anyway Its An Interesting Show, Not Very Intricate But Super Pretty (Kinda Erotic?) And The Actors And That Are Gorgeous Too I Guess
+Its Been A While Since Ive Watched A Psychopath Centred Show Whom I Dont Relate To But This Shiw Is Full Of Them And Thats Refreshing
+I Dont Have More Intricate Notes Because I <b>Was</b> Playing Cult Of The Lamb  So I Wasnt Actually Able To Type But Yeah I Think I'll Be Finishing This
+
+Dnd Cursed Dice TMP9 Style
+
+[Told To Arrive Early]
+[No Lecturer, No Instruction]
+9k!
+None Of The People I Talk To Are Even Here So Im Just Gonna Die
+
+Also RooGets aBonusStar Because I Feel Like They Dederve It
+
+Im So Dead Right Noww
+
+![Biblically_Accurate_Furby.png](/img/user/images/Biblically_Accurate_Furby.png)
+![62f982f12118a056e8a4f81ffc9fb543ecce51a3.jpg](/img/user/images/62f982f12118a056e8a4f81ffc9fb543ecce51a3.jpg)
+
+I Feel Like My Bones Want To Eat Me Whole
+I Guess Back To Video Games :D
+
+I Keep Feeling Like This Is It; Im Finally Going To Break Then Someone Messages Me And Im Like "Im Fine Why Do You Ask :)"
+Really Channelling My Inner Spider
+
+
+
+
+
 
 
 
