@@ -36,6 +36,7 @@ Oh Yeah, Me, Roo Might Not Be Able To Hang Out On The Twenty-Nineth So Try To Ac
 "I Saw A Tweet Earlier About A Guy Getting Hard Kissing His Girlfriend (Got Popular Because Everyone Was Bullying Him)
 Anyway I Was Gonna Be Like "This Is You" But I Forgot And Now The Accounts Gone" "
 
+★★★⚝
 
 
 
