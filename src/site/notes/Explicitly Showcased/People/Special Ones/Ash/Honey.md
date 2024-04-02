@@ -57,7 +57,7 @@ Your Brain Goes "I Hope This Doesnt Happen" And Makes It Happen
 Scopophobia 
 Thats All
 
-Theyre Upset I Dont Tell Them The Adult Thoughts I Have
+Theyre Upset I Dont Tell Them The Adult [[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)\|Thoughts]] I Have
 Not Happening
 
 Seriously Though Hes Very Fascinating
