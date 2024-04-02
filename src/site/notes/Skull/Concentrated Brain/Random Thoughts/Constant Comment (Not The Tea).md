@@ -761,7 +761,7 @@ And Some "Final" Files Are "Final B" So.... Not So Final
 215 Is "Final (1)" 
 No 206?
 
-Cannot Bash Roos Skull In
+Cannot Bash Roos [[Branches/Skull\|Skull]] In
 Also Minus A Star For General Insubordination
 
 
@@ -826,7 +826,7 @@ No Pure White Eyes
 Was Not Expecting A Phone Call
 Adultasdconnect@stah.org
 
-And Roo Can Get That Negative Star Removed
+And [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] Can Get That Negative Star Removed
 
 ★★⚝⚝
 
