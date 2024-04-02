@@ -15,7 +15,7 @@ Us
 
 Roo Is Definitely Interesting And If Im Being Honest Theres Not Much Else To Say On That
 I'll Never Fully Understand How (Or Even If) Their Brain Works But I Will Admit I Enjoy When It Breaks
- I End Up Having To Explain A Lot Of Stuff To Them But Honestly They Always Feel Too Bad About It For Me To Actually Be Upset
+ I End Up Having To Explain A Lot Of Stuff To Them But Honestly They Always Feel Too Bad About It For [[Branches/Me\|Me]] To Actually Be Upset
 
 
 I Left Roos Shirt At Their Place D:
@@ -28,7 +28,7 @@ Thats Honestly A Shame; They Should Get More Attention Every Now And Then
 ![Screenshot_20240303_181422_WhatsApp.png](/img/user/images/Screenshot_20240303_181422_WhatsApp.png)
 
 
-Oh Yeah, Me, Roo Might Not Be Able To Hang Out On The Twenty-Nineth So Try To Accost Them At Some Point
+Oh Yeah, [[Branches/Me\|Me]], Roo Might Not Be Able To Hang Out On The Twenty-Nineth So Try To Accost Them At Some Point
 
 ![IMG-20240225-WA0014.jpg](/img/user/images/IMG-20240225-WA0014.jpg)
 
