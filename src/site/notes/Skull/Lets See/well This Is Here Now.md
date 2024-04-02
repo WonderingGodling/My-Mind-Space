@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/lets-see/well-this-is-here-now/"}
+{"dg-publish":true,"permalink":"/skull/lets-see/well-this-is-here-now/","noteIcon":""}
 ---
 
 
