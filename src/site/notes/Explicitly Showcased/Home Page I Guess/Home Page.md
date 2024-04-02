@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/home-page/","title":"Horizon","tags":["Home","Rambling","gardenEntry","Website","gardenEntry","gardenEntry"],"dgShowToc":true}
+{"dg-publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/home-page/","title":"Horizon","tags":["Home","Rambling","gardenEntry","Website","gardenEntry"],"dgShowToc":true,"noteIcon":""}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -16,10 +16,10 @@ Get Comfortable
 You Want Some [[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)\|Mad Rambles]] To Start You Off Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]?
 Make Yourself At Home
 
-If Youre My [[Explicitly Showcased/Sunshine/Moirail\|Sunshine]] Then Click There
-And This Is For You [[Explicitly Showcased/People/Ash/Tiddy Gremlin\|Honey]]
+If Youre My [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Sunshine]] Then Click There
+And This Is For You [[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|Honey]]
 
-Also Some [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Wanted To Deliver Some Messages To A Bunch Of Internet Strangers So.... [[Explicitly Showcased/From Others/Relay 1\|Relay 1]] [[Explicitly Showcased/From Others/Relay 2\|Relay 2]]
+Also Some [[Branches/People\|People]] Wanted To Deliver Some Messages To A Bunch Of Internet Strangers So.... [[Explicitly Showcased/From Others/Relay 1\|Relay 1]] [[Explicitly Showcased/From Others/Relay 2\|Relay 2]]
 
   
 ‫‬‭‮‪‫‬‭‮҉   ‫‬‭‮҉‫‬‭‮‪‫‬‭‮҉ [[Explicitly Showcased/My General Outlook On This\|My General Outlook On This]]
