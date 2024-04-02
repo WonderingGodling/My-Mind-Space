@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explicitly-showcased/my-general-outlook-on-this/","title":"My General Outlook On This","tags":["Tagless"],"dgShowToc":true}
+{"dg-publish":true,"permalink":"/explicitly-showcased/my-general-outlook-on-this/","title":"My General Outlook On This","tags":["Tagless"],"dgShowToc":true,"noteIcon":""}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -14,7 +14,7 @@ Ive Been Working On This For A Bit Now And Honestly I Dont Think Its Going To Ha
 
 Itll Be Fun To Document And Share Stuff And I Guess Have An Outlet For My [[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)\|Thoughts]] And Stuff That Extends Past A Piece Of Paper Confined In My Bedroom But Other Than That This Is Just Gonna Be [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Else That Gets Added To The Interest Graveyard
 
-Over Time (Knowing [[Explicitly Showcased/Me/Me\|Me]]) Im Going To Forget I Have This Or That I Can Speak To [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Indirectly And Go Back To Being Unsatisfied With My Indirect Communication But Until Then Im Going To Keep Updating This And Adding My [[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)\|Thoughts]] And Links In Places That Make Sense To [[Explicitly Showcased/Me/Me\|Me]]
+Over Time (Knowing [[Branches/Me\|Me]]) Im Going To Forget I Have This Or That I Can Speak To [[Branches/People\|People]] Indirectly And Go Back To Being Unsatisfied With My Indirect Communication But Until Then Im Going To Keep Updating This And Adding My [[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)\|Thoughts]] And Links In Places That Make Sense To [[Branches/Me\|Me]]
 
 
 Also Planning On Adding A [[Explicitly Showcased/Guestbook\|Guestbook]] Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]
