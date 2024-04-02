@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"Constant Comment","permalink":"/Constant Comment/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing"],"dgShowToc":true}
+{"dg-publish":true,"dg-permalink":"Constant Comment","permalink":"/Constant Comment/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing"],"dgShowToc":true,"noteIcon":"Biohazard (Li)"}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important} </style>
 
@@ -42,13 +43,13 @@ You Shouldnt Have To Figure Out If Its Better To Buy A Ticket There And Back Or 
 
 ### Back To Random
 
-Also I Miss My [[Explicitly Showcased/Sunshine/Sunshine\|Sunshine]]
+Also I Miss My [[Explicitly Showcased/People/Special Ones/Sunshine/Vie\|Vie]]
 We Need To Talk More
 
 ### Sometimes Im Just Like Whyyyyyy
 
 At The Moment My Hands Smell Like Artificial Vanilla Which Is Not Helping With The Derealisation  
-A Slight Feeling That My Entire Perception Of The World Is Fabricated Accompanied By My Hands Smelling Like A Playdoh Cookie Before [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Were Worried About Kids Killing Themselves  
+A Slight Feeling That My Entire Perception Of The World Is Fabricated Accompanied By My Hands Smelling Like A Playdoh Cookie Before [[Branches/People\|People]] Were Worried About Kids Killing Themselves  
 Its Not Even A Good Vanilla Smell So Smelling It Provides An Indescribable Feeling
 
 ### Randomness :3
@@ -64,7 +65,7 @@ So You Have To Be A Student To Read
 The Chemistry Is By Textiles  
 The Psychology Is Above Renewable Energy  
 And It Seems To Be Alphabetical Within The Subject?  
-I Got To My Class And There Already [[Skull/Concentrated Brain/Random Facts/People/People\|People]] There (ETA: Not My [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Other [[Skull/Concentrated Brain/Random Facts/People/People\|People]])
+I Got To My Class And There Already [[Branches/People\|People]] There (ETA: Not My [[Branches/People\|People]] Other [[Branches/People\|People]])
 
 First Time Ive Touched My Phone For An Hour Or Two  
 Im Becoming More Familiar With The Back Of My Eyelids Than The Contents Of My Imagination  
@@ -108,7 +109,7 @@ What Even Is "Good Food"
 
 Interesting: I Can Boot Multiple Instances Of This Application Which (Since Its Locked) Means That I Cant Close Any Instances Of It
 
-I Went Back And Added Some Stuff I Said To My [[Explicitly Showcased/Sunshine/Sunshine\|Sunshine]]
+I Went Back And Added Some Stuff I Said To My [[Explicitly Showcased/People/Special Ones/Sunshine/Vie\|Vie]]
 
 Just Diagnosed Someone With Autism And They Were Like "....Yep"
 
@@ -151,7 +152,7 @@ But Does Armpit Porn Even Exist?
 
 You should see
 
-I Was Gonna Say "Im [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]])" But When Have I Ever Not Been Curious Of The Top Ten Images Three Of Them Have Actual Armpits As A Focus Almost All Of Pornhubs Results Are Just Other Porn But Also Armpits Exist But Theres A Few Videos Of [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Licking Them And One Video Titled "Armpit Joi" So I Guess Its Straight Up Not A Thing
+I Was Gonna Say "Im [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]])" But When Have I Ever Not Been Curious Of The Top Ten Images Three Of Them Have Actual Armpits As A Focus Almost All Of Pornhubs Results Are Just Other Porn But Also Armpits Exist But Theres A Few Videos Of [[Branches/People\|People]] Licking Them And One Video Titled "Armpit Joi" So I Guess Its Straight Up Not A Thing
 
 ## So Anyway
 
@@ -171,10 +172,10 @@ So On The Scale Of Enjoyment Im Leaning Towards Doing [[Skull/Concentrated Brai
 Right Now I Regret Everything I Feel  
 And I Feel [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]
 
-[[Explicitly Showcased/People/Roo/STOWAWAY SLUT (FREE)\|My Friend]] Threatened To Wear A "Lil Black Skirt" And If They Do I'll Strangle Them /Affectionate
+[[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|My Friend]] Threatened To Wear A "Lil Black Skirt" And If They Do I'll Strangle Them /Affectionate
 
-Very Few Things Bring [[Explicitly Showcased/Me/Me\|Me]] Happiness  
-And One Of Those Things Has Been Leaving [[Explicitly Showcased/Me/Me\|Me]] On Read For Hours  
+Very Few Things Bring [[Branches/Me\|Me]] Happiness  
+And One Of Those Things Has Been Leaving [[Branches/Me\|Me]] On Read For Hours  
 Happiness Is A Lie  
 Life Is A Chain Of Suffering  
 Thank You For Coming To My Ted Talk
@@ -197,12 +198,12 @@ Woke Up At Like 2100 Spent Three Hours Eating And Now Im Just Existing At 1
 Went To Bed At Like Six Last Night (For Eight Hours)  
 Best Sleep Of Like A Month
 
-I Think Most [[Skull/Concentrated Brain/Random Facts/People/People\|People]] With Low Self-Esteem Or Shitty Parents Feel A Deep Desire To Be Loved But I Feel Like It Just Made [[Explicitly Showcased/Me/Me\|Me]] Hate The Concept  
+I Think Most [[Branches/People\|People]] With Low Self-Esteem Or Shitty Parents Feel A Deep Desire To Be Loved But I Feel Like It Just Made [[Branches/Me\|Me]] Hate The Concept  
 Maybe Thats What Dads From The Seventies Were Aiming For  
 "If I Hate My Son He'll Become Emotionally Unavailable Then I'll Never Have To Deal With It Again"  
 Well Ive Got Good News And Bad News For Ya  
 The Good News Is: I Want To Kill Myself More Than I Want To Be Happy  
-The Bad News Is I Dont Hate Gay [[Skull/Concentrated Brain/Random Facts/People/People\|People]] So....Sorry Dad
+The Bad News Is I Dont Hate Gay [[Branches/People\|People]] So....Sorry Dad
 
 I Just Took A Pepper Grinder From The Kitchen From My Room For No Reason  
 I Have Mcdonalds; Why Would I Want Mcdonalds To Taste Good  
@@ -210,12 +211,12 @@ I Dont Know What My Subconscious Is Up To
 Theres Cayenne In My Pocket
 
 Mmmm  
-Markiplier Isnt Cheering [[Explicitly Showcased/Me/Me\|Me]] Up And I Dont Feel Like Music Right Now
+Markiplier Isnt Cheering [[Branches/Me\|Me]] Up And I Dont Feel Like Music Right Now
 
 I Used The Peppers  
-Good Job [[Explicitly Showcased/Me/Me\|Me]]
+Good Job [[Branches/Me\|Me]]
 
-Mark Made [[Explicitly Showcased/Me/Me\|Me]] Laugh  
+Mark Made [[Branches/Me\|Me]] Laugh  
 We Got Spooked Together <3
 
 The Stanley Parable  
@@ -243,9 +244,9 @@ Cant Decide If It Was a Happy Ending Or What
 I Just Saw A Steam Comment "Homestuck? Well Yeah Its Bolted To The Ground"
 
 Nonbinary Dom Like  
-"My Pronouns Are Master/Master's; You Will Adress [[Explicitly Showcased/Me/Me\|Me]] On Your Knees"
+"My Pronouns Are Master/Master's; You Will Adress [[Branches/Me\|Me]] On Your Knees"
 
-Remember [[Explicitly Showcased/Me/Me\|Me]] Making Fun Of The Armpit Guy Because "How The Ft Dod He Figure That Out‽"  
+Remember [[Branches/Me\|Me]] Making Fun Of The Armpit Guy Because "How The Ft Dod He Figure That Out‽"  
 Ive Changed My Opinion 
 
 I Dont Know If This Video Is Safe For Work But Its Relevant So Probably Not (ETA(19·2023 47.08) The Video I Put Here Dissapeared But It Was In Fact Proof That Armpit Focused Videos Exist)
@@ -255,9 +256,9 @@ Did Yall Know You Can Group Call On The Lovesense App?
 I Think If A Guy Gets A Girl Pregnant She Should Just Be Able To Give Him The Pregnancy  
 That Would Be A Great Update To Human Biology
 
-I Found Out One Of [[Explicitly Showcased/People/Ash/Tiddy Gremlin\|My Friends]] Is Into Rope Bondage  
+I Found Out One Of [[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|My Friends]] Is Into Rope Bondage  
 He Doesn't Live In England  
-Most Of The [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Begging To Be Roped Live Way Too Far Or Are Way Too Busy  
+Most Of The [[Branches/People\|People]] Begging To Be Roped Live Way Too Far Or Are Way Too Busy  
 Pointless
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do u think a transphobic conservative guy would change if I squished his head between my thighs</p>&mdash; Kiyana 🏳️‍⚧️ (@SlayzKiana) <a href="https://twitter.com/SlayzKiana/status/1717001251215515673?ref_src=twsrc%5Etfw">October 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -270,7 +271,7 @@ One Of My Discord Friends Got Paws
 ## Back To Normal?
 
 Did Some Messing Around And I Should Be Able To Edit Tje Websote On The Go So....
-Expect More Of [[Explicitly Showcased/Me/Me\|Me]] I Guess
+Expect More Of [[Branches/Me\|Me]] I Guess
 
 Somebody (Not Naming Names) Has Put Tablespoons Of Tea Into My Teapot Instead Of The More Elegant And Aptly Named Teaspoons Of Tea So I Dont Think The Brew Strength Is Ever Right
 
@@ -309,7 +310,7 @@ It Was Quite A Pleasant Surprise
 A Pancake Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Just Fell From The Sky?
 Like Plap
 I Thought It Was Just Really Loud Bird Shit, Then Noticed It Was Too Big
-Theres Nobody Near [[Explicitly Showcased/Me/Me\|Me]] To Throw It....
+Theres Nobody Near [[Branches/Me\|Me]] To Throw It....
 
 Ive Thought Barely Anything Today
 /̵͇̿̿/'̿'̿ ̿ ̿̿ ̿̿ ̿̿ 
@@ -322,7 +323,7 @@ I Have Literally No Expectations Whatsoever So I Cant Really Be Let Down I Guess
 I Feel Like Utter And Complete Shit
 I Want To Drink A Monster Because That Usually Helps But Then Theres Just Gonna Be More Of....This
 
-I Think The Worst PArt About Being Raped To Death Is That while Your Name, Face And Family Are All Across The News There Will Be countless Police Officers, Investigators/Detectives, Forensics, Mortuars and So Many Other Pepole Poking Around You Insides Like; Really? This Is So Not The Time For That! I Think Id Least Want [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Touching My Dead [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] If The Cause Of My Death Was Someone Touching My Live [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]]
+I Think The Worst PArt About Being Raped To Death Is That while Your Name, Face And Family Are All Across The News There Will Be countless Police Officers, Investigators/Detectives, Forensics, Mortuars and So Many Other Pepole Poking Around You Insides Like; Really? This Is So Not The Time For That! I Think Id Least Want [[Branches/People\|People]] Touching My Dead [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] If The Cause Of My Death Was Someone Touching My Live [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]]
 
 Theres A Chunk Of My Stuff Missing From This Page
 
@@ -334,7 +335,7 @@ Guess Who Just Finished The Essay Shes Spent Like Two Weeks Working On
 Apparently All My Sources Are Plagiarised Which Is Certainly [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]
 
 ![](https://i.imgur.com/vwdTu6Z.png)
-You Cant Tell [[Explicitly Showcased/Me/Me\|Me]] That Wouldn't Be A Badass Name
+You Cant Tell [[Branches/Me\|Me]] That Wouldn't Be A Badass Name
 Naming My Daughter Mortality Rose
 
 "Momma Shelly Was Gay As Fuck
@@ -353,10 +354,10 @@ If I Leave My Hair For Long Enough Therell Be An Obvious Faded Ring Of Where Has
 Im Not [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]
 Im So Not [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] But I Dont Know Why
 
-It Has Come To My Attention (Via [[Explicitly Showcased/Me/Me\|Me]] Telling [[Explicitly Showcased/Me/Me\|Me]] What I Think Is Best For [[Explicitly Showcased/Me/Me\|Me]]) That Since I Am Undergoing Zoochosis And That The Enrichment Time That I Usually Try To Provide Myself With Is A Failing Method,  The Best Thing For [[Explicitly Showcased/Me/Me\|Me]] To Do For My Mental Health Is To Empty The Beehive More Frequently; The Problem Isnt My Mind, It's Keeping My Mind Locked Iniside Of Itself
+It Has Come To My Attention (Via [[Branches/Me\|Me]] Telling [[Branches/Me\|Me]] What I Think Is Best For [[Branches/Me\|Me]]) That Since I Am Undergoing Zoochosis And That The Enrichment Time That I Usually Try To Provide Myself With Is A Failing Method,  The Best Thing For [[Branches/Me\|Me]] To Do For My Mental Health Is To Empty The Beehive More Frequently; The Problem Isnt My Mind, It's Keeping My Mind Locked Iniside Of Itself
 This [[Explicitly Showcased/Home Page I Guess/Home Page\|Website]] Will See The Biggest Hit In Terms Of My Increase In Esoteric
 
-Also Im Now A Light Player And I Think [[Explicitly Showcased/People/Roo/STOWAWAY SLUT (FREE)\|Roo]] Is One Of The Desolation Maybe; Who Knows
+Also Im Now A Light Player And I Think [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] Is One Of The Desolation Maybe; Who Knows
 
 ![IMG-20240114-WA0016 1.jpg](/img/user/images/IMG-20240114-WA0016%201.jpg)![IMG-20240114-WA0019.jpg](/img/user/images/IMG-20240114-WA0019.jpg)
 Hhhhhhhhhhhhhhhh
@@ -364,11 +365,11 @@ Hhhhhhhhhhhhhhhh
 I Just Got Dissapointed Because I Mistakenly Thought I Spotted A Free Box Of Floor Tampons
 
 I Hung Out With Dee Today (The Light Of My Life, Beacon Of Hope And The Best Woman Since Adam Got Married) And She Is Always So Freaking Amazing!
-We Went To Spoons For Lunch Then I Kinda Just Escorted Her Through The Completion Of A Errands; She Also Let [[Explicitly Showcased/Me/Me\|Me]] Borrow An Old Shirt And After All That My Whole Day Has Been Made
+We Went To Spoons For Lunch Then I Kinda Just Escorted Her Through The Completion Of A Errands; She Also Let [[Branches/Me\|Me]] Borrow An Old Shirt And After All That My Whole Day Has Been Made
 Living Proof That Spiders Can Be Lovely 
 On That Topic  No Clue What Aspect They Are
 
-Corys Definitely A Light Player; I Dont Know If Hes A Watcher Though; I Think Hes A Spiral Or Maybe The Web (Do Spiders Need To Manipulate <b>[[Skull/Concentrated Brain/Random Facts/People/People\|People]]</b> Or Can They Have Fun With It?)
+Corys Definitely A Light Player; I Dont Know If Hes A Watcher Though; I Think Hes A Spiral Or Maybe The Web (Do Spiders Need To Manipulate <b>[[Branches/People\|People]]</b> Or Can They Have Fun With It?)
 
 Speech To Text Making An Appearance 
 
@@ -387,22 +388,22 @@ I Wanna Go On Reality Tv Shows And Just Lie To Everyone, Drive Them Slowly Insan
 
 Just Learned That The Rocks On Your Farm Dont Drop Geodes Day One
 
-I Wanna Put Together A Dnd Party Of [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Who Arent Friends; Mainly To See How Player Chemistry Would Form From Scratch Or If It Even Will
-Itll Be Interesting To See If Two [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Hate Each Other Do They Reflect That In-Game Or Vice Versa
+I Wanna Put Together A Dnd Party Of [[Branches/People\|People]] Who Arent Friends; Mainly To See How Player Chemistry Would Form From Scratch Or If It Even Will
+Itll Be Interesting To See If Two [[Branches/People\|People]] Hate Each Other Do They Reflect That In-Game Or Vice Versa
 
 My Computer Now Starts With A Key
 
 Also I Went To Las Iguanas To Eat, It Was Pretty Good
 
 Oh And New Earphones Are Quite Good
-Makes [[Explicitly Showcased/Me/Me\|Me]] Feel A Little [[Skull/Spam/Crazy\|Crazy]] Though Because I Feel Like Im Listening To Shit In A Silewnt Room And Everyones Just Like "Who The Fuack Is This Guy?"
-Im Not Worried Theyre Judgin G [[Explicitly Showcased/Me/Me\|Me]] Its Just A Very Large Tonal Shift
+Makes [[Branches/Me\|Me]] Feel A Little [[Skull/Spam/Crazy\|Crazy]] Though Because I Feel Like Im Listening To Shit In A Silewnt Room And Everyones Just Like "Who The Fuack Is This Guy?"
+Im Not Worried Theyre Judgin G [[Branches/Me\|Me]] Its Just A Very Large Tonal Shift
 
 Watch Icp Win US Presidency
 
 Cleaning Up The Vault
 
-I Always Feel Like I Shouldnt Be In This [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] But Recently Ive Felt That My [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] Doesn't Belong With [[Explicitly Showcased/Me/Me\|Me]] In It
+I Always Feel Like I Shouldnt Be In This [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] But Recently Ive Felt That My [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] Doesn't Belong With [[Branches/Me\|Me]] In It
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:0WVvjWYXyV_tcp5kf631Jw/729147951762505728/v2" data-did="945d63eecd58b6a0bd44d5f12bb9abce89656c19"  ><a href="https://www.tumblr.com/shencomix/739174739386515456">https://www.tumblr.com/shencomix/739174739386515456</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
@@ -420,7 +421,7 @@ Ha
 Its 40•2024•4597 And I Am Losing My Mind But Im Back; Your Girl Is Back; I Am Typing Real Huamn Words-
 That One Doesnt Count; Go To Hell
 
-Im In 3AB002 And It Is Killing [[Explicitly Showcased/Me/Me\|Me]]; Im Actually Dying! This Lecture Is So Slow And I Know All Of It And The Lecturer Said That This Isnt Important Because He Knows The Test And We've Already Covered The Part Of This Subject Thatll Be On TheTest So do weNeed To Be Here? 
+Im In 3AB002 And It Is Killing [[Branches/Me\|Me]]; Im Actually Dying! This Lecture Is So Slow And I Know All Of It And The Lecturer Said That This Isnt Important Because He Knows The Test And We've Already Covered The Part Of This Subject Thatll Be On TheTest So do weNeed To Be Here? 
 That Wasnt rethorical; No Is The Answer
 
 43•2024• Maybe Fixed The [[Explicitly Showcased/Home Page I Guess/Home Page\|Website]] 
@@ -438,7 +439,7 @@ Hhhhh
 Had To Get The 5 Train Back Dx
 
 Being Perceived Isnt For Everybody 
-I Know Its Not For [[Explicitly Showcased/Me/Me\|Me]]
+I Know Its Not For [[Branches/Me\|Me]]
 
 Lex Is Great 
 Shout Out Lex
@@ -454,32 +455,32 @@ Girls Talking About How Much They Suck At The Tests Here Or [[Skull/Concentrated
 Adam Wants To Make Fun Of That One Girl
 Because Reasons 
 
-This Lecturer, Despite Not habing Started Yet, Doesn't strike [[Explicitly Showcased/Me/Me\|me]] As A Mn who Knows What hes Doing
+This Lecturer, Despite Not habing Started Yet, Doesn't strike [[Branches/Me\|Me]] As A Mn who Knows What hes Doing
 
 I Was Right, Hes Apent The First Eighteen Minutes Riffing About Ice Cream
 
-The Most Annoying [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Ever Are Sitting To My Right; Im Not Sure How They Got Here; Id Ve Surprised If They Can Spell Their Own Names 
+The Most Annoying [[Branches/People\|People]] Ever Are Sitting To My Right; Im Not Sure How They Got Here; Id Ve Surprised If They Can Spell Their Own Names 
 
 I Shouldn't Be Here
-The Lectures Slow, The [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Are Gross, The Contents Important But The Powerpoints Are Shared Anyway; My Presence Is Just Leading To Suffering <sup>(Title Of My Autobiography)</sup>
+The Lectures Slow, The [[Branches/People\|People]] Are Gross, The Contents Important But The Powerpoints Are Shared Anyway; My Presence Is Just Leading To Suffering <sup>(Title Of My Autobiography)</sup>
 
 "Its Like My Grandpa Used To Say: Hiddem With Da Fish And He'll Never See It Comin"
-~ [[Explicitly Showcased/Me/Me\|Me]]
+~ [[Branches/Me\|Me]]
 
 "Ugh, I Need To Bend Down Like A Peasant"
 ~Core
 
-My Mothers Trying To Tell [[Explicitly Showcased/Me/Me\|Me]] That Imposter Syndrome Is When Someone Pretends To Be You 
+My Mothers Trying To Tell [[Branches/Me\|Me]] That Imposter Syndrome Is When Someone Pretends To Be You 
 
 This Lecturer- Emma [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]- Has A Power Complex (Though To Be Fair Most Educators Do) But Whats Happening Is That Whenever She Notices That Someone Is Talking She Stops So That Dhe Can Stare At Them
-And It Isnt So that She Can Be Heard Properly Because There Is This Really Loud Drilling Noise Which Occasionally Comes From Behind Her And Shes Just Ignored It Every Time; I Can Only Conclude The Issue Id That The Idea Of Other [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Not Sacrificing The Entirety Of Their Attention Id Being Treated As A Criminal Act
+And It Isnt So that She Can Be Heard Properly Because There Is This Really Loud Drilling Noise Which Occasionally Comes From Behind Her And Shes Just Ignored It Every Time; I Can Only Conclude The Issue Id That The Idea Of Other [[Branches/People\|People]] Not Sacrificing The Entirety Of Their Attention Id Being Treated As A Criminal Act
 
-I Really Need to Type Stuff Up More Because Keeping It In Os Driving [[Explicitly Showcased/Me/Me\|Me]] Towards Madness And The [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Who At Least Pretend To Care All Have Actual Things That Go On On Their Actual Lives--
-Also Im Thinking Of Seperating This Into Multiple Pages If It Gets Too Long; Thats A Long Way Down the Road Though So Dont Worry (Xei Said To The Zero [[Skull/Concentrated Brain/Random Facts/People/People\|people]] Reading)
+I Really Need to Type Stuff Up More Because Keeping It In Os Driving [[Branches/Me\|Me]] Towards Madness And The [[Branches/People\|People]] Who At Least Pretend To Care All Have Actual Things That Go On On Their Actual Lives--
+Also Im Thinking Of Seperating This Into Multiple Pages If It Gets Too Long; Thats A Long Way Down the Road Though So Dont Worry (Xei Said To The Zero [[Branches/People\|People]] Reading)
 Im Also Going To Put Up My Lecture Notes When I Start Making Them So Theres That To Look Forward To
 
-Oh Yeah Yesterday [[Explicitly Showcased/People/Roo/STOWAWAY SLUT (FREE)\|Roo]] Asked [[Explicitly Showcased/Me/Me\|Me]] If I Wanted To Play Overwatch And I Said Later Because I Was Tired; Later Came And I Asked Them And Got Rejected Because They Were Tired
-Thats A Fair Reason (If It Wasnt I Wouldn't Have Used It) But Its Still Kinda Rude Because Yknow <b>You</b> Asked <b>[[Explicitly Showcased/Me/Me\|Me]]</b> But Its Whatever So I Didnt Say Anything
+Oh Yeah Yesterday [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] Asked [[Branches/Me\|Me]] If I Wanted To Play Overwatch And I Said Later Because I Was Tired; Later Came And I Asked Them And Got Rejected Because They Were Tired
+Thats A Fair Reason (If It Wasnt I Wouldn't Have Used It) But Its Still Kinda Rude Because Yknow <b>You</b> Asked <b>[[Branches/Me\|Me]]</b> But Its Whatever So I Didnt Say Anything
 
 On The Same Note (Knowing I'll Move The Previous Entry) I Started Playing Persona Three Reload Yesterday And Its A Great Game Which I Probably Would Have Had [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] To Say About But That Was Last Night And Im Forgetful 
 
@@ -497,20 +498,20 @@ No You Can "See" Things Like Psychics And Stuff So Nevermind
 
 Just Missed An Empty Train :D
 
-Train Fumes Giving [[Explicitly Showcased/Me/Me\|Me]] Headache
+Train Fumes Giving [[Branches/Me\|Me]] Headache
 Also Got Here In Like An Hour Which Is A Surprisingly Slow Run But Its Whatever Because I Still Have An Hour Before My Lecture 
 
 Whatd The Opposite Of Cooking Because Thats What Im Doing--
 Rotting Works Surprisingly Well For That Actually; Promonged Uncookery And Suffering 
-Maybe If I Was The Hunt Id Feel Better; I Can Definitely See How A Light Hunter Would Be Able To Thrive (Although Why A Light Watcher Isnt Frankly Escapes [[Explicitly Showcased/Me/Me\|Me]])
+Maybe If I Was The Hunt Id Feel Better; I Can Definitely See How A Light Hunter Would Be Able To Thrive (Although Why A Light Watcher Isnt Frankly Escapes [[Branches/Me\|Me]])
 
-Every Time I See A Picture Of Myself The Best I Can Do To Describe My Attitude Towards It Is Stranger; I Feel Like When Im In An Image Or A Video The Thing That Is [[Explicitly Showcased/Me/Me\|Me]] Is Wrong
+Every Time I See A Picture Of Myself The Best I Can Do To Describe My Attitude Towards It Is Stranger; I Feel Like When Im In An Image Or A Video The Thing That Is [[Branches/Me\|Me]] Is Wrong
 I Know Thats Some Form Of [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] Dysmorphia Or Whatever And I Also Know That I Dont Really Care Enough About It To Do Anything
 I Guess Its Just That I Would Find Most Of My Life To Be Easier If I Weren'tAble To Be Perceived
-Really Wish The SEP Existed So [[Skull/Concentrated Brain/Random Facts/People/People\|People]] Would Just Let [[Explicitly Showcased/Me/Me\|Me]] Be 
+Really Wish The SEP Existed So [[Branches/People\|People]] Would Just Let [[Branches/Me\|Me]] Be 
 
-As I'm Making Coffee To Mentally Fortify Myself For My Lectures I Get An Email Telling [[Explicitly Showcased/Me/Me\|Me]] All Lectures Today Are Cancelled (51•2024•4500 Btw)
-Well More Specifically I Got Email Notified Of A Canvas Message Telling [[Explicitly Showcased/Me/Me\|Me]] That Since IT (Incmuding Canvas) Is Malfunctioning Lectures Are Called Off
+As I'm Making Coffee To Mentally Fortify Myself For My Lectures I Get An Email Telling [[Branches/Me\|Me]] All Lectures Today Are Cancelled (51•2024•4500 Btw)
+Well More Specifically I Got Email Notified Of A Canvas Message Telling [[Branches/Me\|Me]] That Since IT (Incmuding Canvas) Is Malfunctioning Lectures Are Called Off
 
 Also My Brother Gets Recommended Trans Greentext On YouTube 
 L
@@ -526,10 +527,10 @@ Really Enjoying This Season For Some Reason
 4k Zen Comp Play; 2nd Sup Comp Play In Half As Many Hours 
 Going To Bed
 
-52•2024•0359 Is [[Explicitly Showcased/Me/Me\|Me]] Going To Bed Early So That Im Fully Rested For Dee <s>Tomorrow</s> Today 
-Also Listening To Tma 99 Dust To Dust; Its A Gertrude Episode (Not Her Best Though)
+52•2024•0359 Is [[Branches/Me\|Me]] Going To Bed Early So That Im Fully Rested For Dee <s>Tomorrow</s> Today 
+Also Listening To [[Branches/TMA\|TMA]] 99 Dust To Dust; Its A Gertrude Episode (Not Her Best Though)
 
-Also, [[Explicitly Showcased/Me/Me\|Me]], Its Boise City Oklahoma
+Also, [[Branches/Me\|Me]], Its Boise City Oklahoma
 You Always Forget That Settlement--
 What The Gell Is My Tinnitus Doing Today Its Bloody Distracting 
 
@@ -537,14 +538,14 @@ Holy Hell! Today Was So Awesome!! 52•2024•
 I Got To Hang Out With Dee Like All Day-- 
 (This App sucks (Crashed))
 Anyway Got To Hers In The Wet, That Was Sad, But I Got A Hug And Some Tea Out Of It, Then We Watched Gravity Falls While I Failed To Source Cabin In The Woods Before Switching To The Goldbergs Then To Sweeny Todd
-Dee Fell Asleep At One Point So I Took A Picture, Shes Cute (And Dhe Breathes Differently When Shes Asleep Which I Think Is Interesting) And I Love Her And Eventually [[Explicitly Showcased/People/Roo/STOWAWAY SLUT (FREE)\|Roo]] Showed Up And We Watched Most Of Hazbin Hotel (We Didnt Finish Episode Seven)
+Dee Fell Asleep At One Point So I Took A Picture, Shes Cute (And Dhe Breathes Differently When Shes Asleep Which I Think Is Interesting) And I Love Her And Eventually [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] Showed Up And We Watched Most Of Hazbin Hotel (We Didnt Finish Episode Seven)
 Also Excellent Bean Burgers 10/10
 I Could Write So Much More Because This Was Such An Awesome Day But I Wont Because Privacy And Whatnot
 However I Will Say Im Sad That I Didnt Wear Black Nails Lile I Pmanned Because Dee Did And I Got A Nice Picture Of Us Holding Hands 
 
 I Just love Dee So Much
 
-Also [[Explicitly Showcased/People/Roo/STOWAWAY SLUT (FREE)\|Roo]] Is Cool, Glad Theyre Safe And All That
+Also [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] Is Cool, Glad Theyre Safe And All That
 
 ![Tumblr_l_1160578296118.jpg](/img/user/images/Tumblr_l_1160578296118.jpg)
 
@@ -567,7 +568,7 @@ Happens Every Time That I Read This
 
 I Haven't Really Eaten Or Drank Anything All Day And My Mothers Been Camping The Kitchen For Hours
 
-Vies Too Busy Cleaning To Deal With [[Explicitly Showcased/Me/Me\|Me]] Dx
+Vies Too Busy Cleaning To Deal With [[Branches/Me\|Me]] Dx
 
 ![d2b89dd5b95cb7f7d56f0e9c5881477d.jpg](/img/user/images/d2b89dd5b95cb7f7d56f0e9c5881477d.jpg)
 Cool Tattoo
@@ -582,7 +583,7 @@ My Girls Got A Lil Pregnant, No Wories
 Eating Goldbears Like A Weirdo
 
 (59·2024·8333~)
-Finally Got My Pc Back;  [[Explicitly Showcased/Me/Me\|Me]] And Core Spent Like All Day Working On It And Now Everything Wprks Smoothly
+Finally Got My Pc Back;  [[Branches/Me\|Me]] And Core Spent Like All Day Working On It And Now Everything Wprks Smoothly
 
 Now For Some Note Catchup
 
@@ -619,7 +620,7 @@ I Found Arizona Iced Tea Across The Road From My Uni; The Real Deal And Everythi
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">jordan peterson will never know the pleasure of two sweaty tgirls frotting and panting desperately,, leaving bite and scratch marks on eachother,, minds blank as they rut desperately, mindlessly against each other.,,. sry what was i ttalking about</p>&mdash; ashley (dog)🐾🦴❤️‍🩹 (@ashpuppyxoxo) <a href="https://twitter.com/ashpuppyxoxo/status/1757932917571928287?ref_src=twsrc%5Etfw">February 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> Real? Idk
 
 ![](https://i.imgur.com/jUiFBme.png)
-Small Shoutout To [[Explicitly Showcased/People/Roo/STOWAWAY SLUT (FREE)\|My Slut]] Btw
+Small Shoutout To [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|My Slut]] Btw
 
 In The Second Shazam Film Theres A Scene Where A Woman Says Shes Over Six Thousand Years Old Then Kisses A Child Which Is....Interesting
 
@@ -639,19 +640,19 @@ still need to.,... Still Need To Get Better At This But Were Working On It
 I Also Need To Ermind The Dreamer That They Need Shoes And Packing Stuff
 
 Maxxed Out My Pc With Overwatch
-That Was Crazy
+That Was [[Skull/Spam/Crazy\|Crazy]]
 
 argragog is male and The Basilisk Is Female
 
 My Phone DidntRing
-It Just....Nothing? What?
+It Just....[[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]? What?
 
 
 
-My Mother Was Talking About How He Hasnt Eaten And My Cousin Said He Hasnt Either
-"[My Aunt]! You Haven't Been Feeding Your Child‽‽" My Mother In Christ You Only Got Out Of Bed Three Hours Ago You Burn Hypocrisy Like Coal!
+My [[Skull/Concentrated Brain/Venting Or Something/Wendy\|Mother]] Was Talking About How He Hasnt Eaten And My Cousin Said He Hasnt Either
+"[My Aunt]! You Haven't Been Feeding Your Child‽‽" My [[Skull/Concentrated Brain/Venting Or Something/Wendy\|Mother]] In Christ You Only Got Out Of Bed Three Hours Ago You Burn Hypocrisy Like Coal!
 
-I Think It Would Be Cool To Adapt This (Or Similar) Into Something Akin To The Navidson Records But I Know Nobody Would Take Part, Is Be Stuck Fighting For The Background Position In A One Man Play
+I Think It Would Be Cool To Adapt This (Or Similar) Into [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Akin To The Navidson Records But I Know Nobody Would Take Part, Is Be Stuck Fighting For The Background Position In A One Man Play
 
 Why The Hell Are Family So Damn Loud
 It Doesn't Help That My Aunt Can Drown Out The Cries Of A Tortured Hyena, Nor That Everyones Response To The Calamity That Spills From Her Lips Is To Shout Over It
@@ -666,14 +667,14 @@ No Background For Some Reason
 Everyones Busy 
 I Am Too But Like Dx
 
-How Long Do You Think Itll Be Until I Hit The "Nothing Ever Changes" Wall Of Uni? Or Until I Have Another Genuine Meltdown? 
+How Long Do You Think Itll Be Until I Hit The "[[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] Ever Changes" Wall Of Uni? Or Until I Have Another Genuine Meltdown? 
 Im Taking Bets; Closest Without Going Over <33
 
-Ive Had No Purposeful Thoughts For Like Three Days; I Feel Like Death, Especially In The Sense That I Have No Way To Think About My Current State
+Ive Had No Purposeful [[Constant Comment (Not The Tea) \|Thoughts]] For Like Three Days; I Feel Like Death, Especially In The Sense That I Have No Way To Think About My Current State
 
-Roo Gets A Loyalty Star Because Why Not
+[[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] Gets A Loyalty Star Because Why Not
 
-I Keep Forgetting, Amid My Own Depressive Episodes, To Keep Updates On My Current Antics And I Would Love For Someone To Remind Me
+I Keep Forgetting, Amid My Own Depressive Episodes, To Keep Updates On My Current Antics And I Would Love For Someone To Remind [[Branches/Me\|Me]]
 
 Backing Up Some More Stuff
 Nevermind That Didnt Work And Is Super Lame
@@ -695,7 +696,7 @@ Dnd Cursed Dice TMP9 Style
 [Told To Arrive Early]
 [No Lecturer, No Instruction]
 9k!
-None Of The People I Talk To Are Even Here So Im Just Gonna Die
+None Of The [[Branches/People\|People]] I Talk To Are Even Here So Im Just Gonna Die
 
 Also RooGets aBonusStar Because I Feel Like They Dederve It
 
@@ -704,11 +705,136 @@ Im So Dead Right Noww
 ![Biblically_Accurate_Furby.png](/img/user/images/Biblically_Accurate_Furby.png)
 ![62f982f12118a056e8a4f81ffc9fb543ecce51a3.jpg](/img/user/images/62f982f12118a056e8a4f81ffc9fb543ecce51a3.jpg)
 
-I Feel Like My Bones Want To Eat Me Whole
+I Feel Like My Bones Want To Eat [[Branches/Me\|Me]] Whole
 I Guess Back To Video Games :D
 
-I Keep Feeling Like This Is It; Im Finally Going To Break Then Someone Messages Me And Im Like "Im Fine Why Do You Ask :)"
-Really Channelling My Inner Spider
+I Keep Feeling Like This Is It; Im Finally Going To Break Then Someone Messages [[Branches/Me\|Me]] And Im Like "Im Fine Why Do You Ask :)"
+Really Channelling My Inner [[Skull/Concentrated Brain/Random Thoughts/TMA/Aspects/Spider\|Spider]]
+
+havent.... Havent Slept, Dont Really Want To
+Its Mothers Day Tomorrow And I Havent Preped, Dont Really Want To
+Played....I Dont Even Remmber Anymore But I Di Play Disco Elysium With [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] Yesterday "With [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]]" That Was Kinda Nice
+Absolutely Putting Out [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] With My Enrgy Today And Its Killing [[Branches/Me\|Me]]
+
+Probably Gonna Break Down And Do The Thing Later Which I Love Doing So Yay
+Oh And The Dreamer Messaged [[Branches/Me\|Me]] And That Freaked [[Branches/Me\|Me]] Out Because I Thought They Didnt Wanna Talk To [[Branches/Me\|Me]] So Idk Maybe (Probably) Im Just Paranoid
+
+Sometimes I Feel Like Ive Been Adding A Lot To This And Then I Scroll Up And Im Like....Nope
+Oh Well
+
+I Need To Write A Collective Hallucination Type Thingy 
+
+Pretty sure [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Vie]] Is Web, Desolation
+
+[[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] Desolation Lonely Maybe?
+Thats A Weird Dynamic; Possibly Eye
+Its Just That Amongst The Desolation Behaviour Theirs A Layer Of "Oh No, Please Dont Try To Hurt [[Branches/Me\|Me]]" Could Be As A Defence Or Even An Offence (Like A Dart Frog Or An Angler Fish)
+It Could Also Be Completely Seperate; I Guess What Im Trying To Say Is The Push And Pull Game They Play Can Either Be For Fun Or By Nature And Those Two Things Mean Completely Different Manifestations 
+
+[[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|Ash]] Though....[[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|Ash]] Is So The Eye Its Spooky, Heavy Lonely Follow Up In My Opinion 
+
+Dee Im Speculating Flesh Secondary?
+
+
+#### The language of flowers
+Sappho wrote an exquisite ode to the rose; and Thomas Moore, has thus transferred to the English the burning language of the Lesbian maid :
+
+"If Jove would give the leafy bowers 
+A queen for all their world of flowers, 
+The rose would be the choice of Jove, 
+And blush the queen of every grove. 
+Sweetest child of weeping morning, 
+Gem, the breast of earth adorning, 
+Eye of flow'rets, glow of lawns. 
+Bud of beauty, nursed by dawns : 
+Soft the soul of love it breathes, 
+Cypria's brow with magic wreathes; 
+And to the Zephyr's warm caresses. 
+Diffuses all its verdant tresses, 
+Till glowing with the wanton's play, 
+It blushes a diviner ray."
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="zxx" dir="ltr"><a href="https://t.co/48mWbvaikq">pic.twitter.com/48mWbvaikq</a></p>&mdash; PANAPANA (@87sukiyaki) <a href="https://twitter.com/87sukiyaki/status/1768084345489957290?ref_src=twsrc%5Etfw">March 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> No Words Needed
+
+Hrr Clue Crew 245 And 144's Files Were Uploaded Backwards
+And Some "Final" Files Are "Final B" So.... Not So Final
+215 Is "Final (1)" 
+No 206?
+
+Cannot Bash Roos Skull In
+Also Minus A Star For General Insubordination
+
+
+"SteamLibrary\steamapps\common\Stardew Valley\StardewModdingAPI.exe" %command%
+
+
+#### MINI PAINTING
+
+Primer Under Base Colour (Helps Stick)
+White Primer Vivid Dark Primer Grungy
+
+###### Base
+Base Colour Is The....base Colour
+Solid Layer, No Bright/Dark Spots, 
+Big Brush With Sturdy Bristles
+Push Paint Into Mini So Its In The Grooves No Gaps
+Multiple Base Coats
+Multiple Base Colours To Mathc Colour Theme
+
+##### Wet Blending
+Blend Colour On The Mini While Your Painting
+Keep One Colour On The Brush (Clean It)
+Maies A Workable Gradient Between Important Colours
+Add Colours "Without Being Afraid, Have Fun"
+
+##### Layering
+Usually Undiluted/Opaque
+Make It Pretty Later
+Opaque Layers Where You Want Things To Be Brighter
+Makes The Mini Look More 3D
+
+##### Washing
+Darkens  Features And Fills/Follows Recesses
+Direct With Brush
+Darker Spots
+Use Multiple Thin Layers
+Adds Colour Variety, Stain With New Colours
+
+##### Dry Brushing
+Quick Highlights
+Undiluted Paint, Get Rid Of Most Of It, Soft Brush Over Highlight Spots
+
+##### Edge Highlighting
+Highlights Duh
+Mimics How Light Works
+Thin/Sharp Brush
+Not Too Much Paint
+Brush Along Edge Redifine Shapes
+Multiple Highlights With Brighter Colours
+
+##### Glazing
+Thin Layers Of Transparent Paint So You Can See The Lower Layers
+
+##### Also
+Chroma Is Intense
+Thinned Contrast Base
+Gradients
+Invreased Contrast For Nonmetalic Metal
+Keep Red Away From Orange And Pink (Highlighting And Shading)
+No Pure White Eyes
+
+Was Not Expecting A Phone Call
+Adultasdconnect@stah.org
+
+And Roo Can Get That Negative Star Removed
+
+★★⚝⚝
+
+Arcane Weapon
+Good Game
+
+
+
 
 
 
