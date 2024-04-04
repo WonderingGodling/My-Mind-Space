@@ -867,6 +867,24 @@ And [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] C
 Arcane Weapon
 Good Game
 
+"Lets All Get Out And- Erin! Dont Slam My Door!"
+"Slam!!"
+-Erin And Adal
+
+Dee Really Liked Kitkats, Her Favourite Are The Macha Ones
+
+Dee: Macha Late
+Also Likes Careot Cake
+Not A Coconut Fan
+Is Adorable 
+
+Favourite Bird Is Duck Because Ducks Feel Friendly And Hates Geese And Swans Because Opposite 
+Really Needs To Slow Down And Stop Doing So Much But She Feels Like Shes Not Doing Enough In Terms Of Socialising And Rolling In The Dough 
+I Got Info On Her Favourite Radiohead Album But Thats Gone Now :p 
+
+Dont Forget, Monkey Film Sunday
+
+Really Gotta Write Stuff For The Dnd Character
 
 
 
