@@ -28,7 +28,7 @@ Thats Honestly A Shame; They Should Get More Attention Every Now And Then
 ![Screenshot_20240303_181422_WhatsApp.png](/img/user/images/Screenshot_20240303_181422_WhatsApp.png)
 
 
-Oh Yeah, [[Branches/Me\|Me]], Roo Might Not Be Able To Hang Out On The Twenty-Nineth So Try To Accost Them At Some Point
+Oh Yeah, [[Branches/Me\|Me]], Roo Might Not Be Able To Hang Out On The Twenty-Nineth So Try To Accost Them At Some Point 
 
 ![IMG-20240225-WA0014.jpg](/img/user/images/IMG-20240225-WA0014.jpg)
 
@@ -39,6 +39,19 @@ Anyway I Was Gonna Be Like "This Is You" But I Forgot And Now The Accounts Gone"
 ★★★⚝
 
 Flesh I Think Idk I'll Come Back To This (As Always)
+
+# Star Chart
+
+
+|    Reason     | Stars |
+|:-------------:| ----- |
+|   Obedience   | ★     |
+| Appreciation  | ★     |
+|  Remembering  |       |
+|   Offering    |       |
+|    Loyalty    | ★     |
+| Being Special |       |
+|     Bonus     | ★     |
 
 
 
