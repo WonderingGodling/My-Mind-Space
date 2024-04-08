@@ -724,16 +724,19 @@ Oh Well
 
 I Need To Write A Collective Hallucination Type Thingy 
 
-Pretty sure [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Vie]] Is Web, Desolation
+Pretty sure [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Vie]] Is Flesh, Web
+Anti Lonely 
 
 [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] Desolation Lonely Maybe?
 Thats A Weird Dynamic; Possibly Eye
 Its Just That Amongst The Desolation Behaviour Theirs A Layer Of "Oh No, Please Dont Try To Hurt [[Branches/Me\|Me]]" Could Be As A Defence Or Even An Offence (Like A Dart Frog Or An Angler Fish)
 It Could Also Be Completely Seperate; I Guess What Im Trying To Say Is The Push And Pull Game They Play Can Either Be For Fun Or By Nature And Those Two Things Mean Completely Different Manifestations 
+Anti Web Definitely 
 
-[[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|Ash]] Though....[[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|Ash]] Is So The Eye Its Spooky, Heavy Lonely Follow Up In My Opinion 
+[[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|Ash]] Though....[[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|Ash]] Is So Anti Eye Its Spooky, Heavy Lonely But Probably Not Main In My Opinion 
 
 Dee Im Speculating Flesh Secondary?
+Anti Hunt
 
 
 #### The language of flowers
