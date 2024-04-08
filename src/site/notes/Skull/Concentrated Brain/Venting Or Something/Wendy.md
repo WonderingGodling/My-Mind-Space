@@ -884,7 +884,126 @@ I Got Info On Her Favourite Radiohead Album But Thats Gone Now :p
 
 Dont Forget, Monkey Film Sunday
 
-Really Gotta Write Stuff For The Dnd Character
+Really Gotta Write Stuff For The Dnd Character   
+
+Backed Up Back Log Whatever
+Uhhh 96·2023· Did A Fun Dnd Sesh, Missed The One On 98 · But Thats Not Whats Important Here, Dnd Notes Are Available Elsewhere But The Important Thing Is I Had Fun And Freya Is A Very Good Gm
+
+97·2023· Went And Hung Out With Roo, We Met Up In Solls But My Train Was....It Wasnt Late  But "on time" Was Half An Hour After I Arrived So Idk
+When We Got Together We Went To Waggas, We Both Had Terriaki Chicken Or Something I Dont Actually Remember Anymore, Im Swo Far Beghind On My Documentation
+This Is Cutting Out My Evening With Dee On Alsom 96·  Which Is Ugh
+
+Dee Is Lovely, I Love Her, We Met Up And Had Lots Of Fun, Ill Write More In A Sec
+
+So 97· Apparently It Tookk Us Like An Hour To Eeat, Probabbly Because We Were Talking About Movies, Roo Has Good Music Takes And I Like That, It Makes Talking To Them Easy
+Sent Them The Toy Story Four Video And Hamiltion Off Braaodway
+Roo Alsso Ate Randoms, Chocolate Stars And Something Else, Crisp Thingy, During Godzilla X Kong Which Was Actually A Fun Movie To Watch
+The Cg Wasnt Horrendous, The "Titan" Scenes Were All Very Mimeesque Which I Actually Enjoyeed And Felt More Immersive, I Couldnt Really Give A Shit About The People In The Film At Any Point But That Might Just Be Me
+
+98· Me, Dee, Roo, Xander Met Up (That Was Me And Xanders 8th) And We Went To Ruberry, Frankies And Watched Monkey Man Which Was A Gorgeous Dev Patel Film ^^
+
+96· Again Real Quick, We Went To Kings Heath And Myphone Updated Twice, Dee Had Something From That Chicken Shop But I Wasnt Hungry So I Didnt Eat
+We Went To A Bookstore Ive Never Seen, Dee Found A Cool Birmingham Music Book For Her Dad, And We Chilled In The Park For A Bit Watching Ducks (I Think Ive Alreay Mentioned That Part Earlier But Whatever)
+
+# Also
+
+They Updated My Uni Timetable!
+I Actually Have Uni Tomorrow Morning, Thats Lame :/
+9-12 Dx
+And Chemistry On Wednesday Which Never Happens
+
+
+![](https://i.imgur.com/yHdFoZ4.png)
+That Clear Time Is Embarassing
+![](https://i.imgur.com/w9bArzE.png)
+
+
+
+Watching A YouTube And This Video Starts With Him Having Flown Here
+Anyone Visiting Birmingham Feels Gross
+Gatekeeping But As In Keeping You Safe
+
+
+![](https://i.imgur.com/qUUrD74.png)
+
+
+![](https://i.imgur.com/XSuhd0e.png)
+I Dont Think People Should Have Inside Thoughts; Let Me Crack Your Brain Open Like An Acorn
+
+
+Rewatching Dune To See If Its As Good As I Remember [It Was]
+
+
+![](https://i.imgur.com/2VXXaWh.png)
+fActs
+
+
+![](https://i.imgur.com/LvM9dm5.jpeg)
+Look At This Guy
+
+
+My Mother Wanted To Watch A Movie Then My Brother Started A Conversation 
+When It Ended I Asked Her To Rewind And When She Did She Called My Brother Back :/
+
+
+I Realised That When You Write Wizard Maths To Make (Oh Yeah I Named It) The Wrighth (Like Write) Invisible You Can Write Maths By It
+But If You Wrote A Wrighth Next To It To Turn The Maths Invisible Then The Maths Would Also Turn The Invisibility Wrighth Invisible
+But Also You Could Add Wrighth To Glasses Or Something To Make The Invisible Wrighth Vidible 
+
+So To Combat That You Add Wrighth To The Original Thing That Says Thag If Someone Uses The Read Invisible Wrighth Glasses Then Its Still Invisible
+And You Have To Do That Ad Infinum
+
+![](https://i.imgur.com/KwsoZQd.jpeg)
+Hot
+
+![](https://i.imgur.com/u47eFT6.png)
+
+
+![](https://i.imgur.com/zXLhJ5Z.jpeg)
+Needles
+
+![](https://i.imgur.com/wkoyOdX.jpeg)
+
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">waking up your sleepy puppygirl by shining a laser pointer on her puppyparts and watching your kittygirl dive into her crotch headfirst.</p>&mdash; ADHDoggie (@worstgoodgirl) <a href="https://twitter.com/worstgoodgirl/status/1767867706148106343?ref_src=twsrc%5Etfw">March 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+Bought New Earphones And Now I Wanna Die
+I Can Feel My Bank Account Bleeding
+
+
+![](https://i.imgur.com/aIkPj8f.png)
+
+
+![](https://i.imgur.com/7sC1uPI.png)
+![](https://i.imgur.com/W1Wnbrl.png)
+Still Dont Know How I Did That
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -904,6 +1023,10 @@ Really Gotta Write Stuff For The Dnd Character
 
 
 ​    ​‍ 
+
+
+
+
 
 
 ‍​ 
