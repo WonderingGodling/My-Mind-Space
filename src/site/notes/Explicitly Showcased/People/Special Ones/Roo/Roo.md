@@ -36,9 +36,18 @@ Oh Yeah, [[Branches/Me\|Me]], Roo Might Not Be Able To Hang Out On The Twenty-Ni
 "I Saw A Tweet Earlier About A Guy Getting Hard Kissing His Girlfriend (Got Popular Because Everyone Was Bullying Him)
 Anyway I Was Gonna Be Like "This Is You" But I Forgot And Now The Accounts Gone" "
 
-★★★⚝
+★⚝
 
 Flesh I Think Idk I'll Come Back To This (As Always)
+
+![](https://i.imgur.com/xwpnuPW.jpeg)
+
+
+Roo Really Loved Scotland
+And Crime Documentaries; Maybe Theyll Fall In Love With A Scottish Serial Killer
+
+Oh Yeah
+Sixteeth May
 
 # Star Chart
 
@@ -46,11 +55,11 @@ Flesh I Think Idk I'll Come Back To This (As Always)
 |    Reason     | Stars |
 |:-------------:| ----- |
 |   Obedience   | ★     |
-| Appreciation  | ★     |
+| Appreciation  | ★⚝    |
 |  Remembering  |       |
 |   Offering    |       |
 |    Loyalty    | ★     |
-| Being Special |       |
+| Being Special | ★     |
 |     Bonus     | ★     |
 
 
