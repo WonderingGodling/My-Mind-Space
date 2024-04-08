@@ -55,13 +55,13 @@ Sixteeth May
 |    Reason     | Stars |
 | :-----------: | ----- |
 |   Obedience   | ★     |
-| Appreciation  | ★⚝    |
+| Appreciation  | ★☆⚝   |
 |  Remembering  |       |
 |   Offering    |       |
 |    Loyalty    | ★     |
 | Being Special | ★     |
 |    Sluting    |       |
-|     Bonus     | ★     |
+|     Bonus     | ★★    |
 
 
 
