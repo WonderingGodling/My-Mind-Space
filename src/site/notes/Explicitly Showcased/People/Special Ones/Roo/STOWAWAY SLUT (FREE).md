@@ -30,7 +30,7 @@
 
 <script type="text/javascript">
     function checkPswd() {
-        var confirmPassword = "woof woof master";
+        var confirmPassword = "woof woof boss";
         var password = document.getElementById("pswd").value;
         if (password == confirmPassword) {
              window.location="https://my-mind-space.vercel.app/explicitly-showcased/people/roo/roo/";
