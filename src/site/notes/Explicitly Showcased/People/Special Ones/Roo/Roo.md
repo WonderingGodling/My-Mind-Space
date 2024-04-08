@@ -53,13 +53,14 @@ Sixteeth May
 
 
 |    Reason     | Stars |
-|:-------------:| ----- |
+| :-----------: | ----- |
 |   Obedience   | ★     |
 | Appreciation  | ★⚝    |
 |  Remembering  |       |
 |   Offering    |       |
 |    Loyalty    | ★     |
 | Being Special | ★     |
+|    Sluting    |       |
 |     Bonus     | ★     |
 
 
