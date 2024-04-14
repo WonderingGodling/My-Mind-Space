@@ -982,6 +982,15 @@ I Can Feel My Bank Account Bleeding
 ![](https://i.imgur.com/W1Wnbrl.png)
 Still Dont Know How I Did That
 
+Done Nothing All Day
+Missed Some Stuff Out- I Need To be Better At This
+
+Father Called
+
+Cooked 
+Eggs Oily >-<
+
+
 
 
 
