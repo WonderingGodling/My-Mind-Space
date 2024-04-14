@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explicitly-showcased/people/special-ones/roo/stowaway-slut-free/","title":"Secret?","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"dg-permalink":"Roodolf","permalink":"/Roodolf/","title":"Secret?","tags":["Tagless"],"dgShowToc":true,"noteIcon":""}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -26,7 +26,7 @@ Thanks Now I Know That
 
 ### Alignment
 
-If I Had To Guess, Roodolf Is A Time Player Who Would Easily Sink Into The Desolation If Given Half A Chance, I Also Feel Like The Stranger Wouldnt Be A Terrible Guess
+If I Had To Guess, Roodolf Is A Time Player Who Would Easily Sink Into The Desolation If Given Half A Chance, I Also Feel Like The Hunt Wouldnt Be A Terrible Guess? Animalistic And All That
 While We're On The Topic, They Are Terrified Of Spiders <3
 
 
@@ -34,14 +34,25 @@ While We're On The Topic, They Are Terrified Of Spiders <3
 
 ### Likes
 
+Roo, Like Many, Really Likes True Crime Documentaries; I Wouldnt Call It An Obsession But Its Noticable
+Obviously A Bratz Fan
 
 #### Loves
 
 ##### The Hots
 Roo Said To Include Everything So I Cant Forget To Mention Their Insane Thirst For Godzilla, Mothra, Ghost Face, Your Mom, Cthulu, They Would Fuck A Werewolf, They Wouldnt Fuck A Really Big Dog (Consent Is Important)
+Also **Major** Piss Kink
+
+### Dislikes
+
+Apparently They D0 Not Like Dolls, I Will Keep- I Dont Need To Keep That In Mind, Its Written Down Now
+
+#### Hates
+
 
 #### Roo's Shirt
 Tokyo Ghoul, Cute Other Stuff I'll Write Later
+
 
 
 
@@ -81,5 +92,4 @@ Tokyo Ghoul, Cute Other Stuff I'll Write Later
 </html>
 
 
-<center><sub>Good Luck ^^</sub></center>
-
+<center><sub>If You Made It This Far Then Message Me If You Think Roo Deserves A Star ★</sub></center>
