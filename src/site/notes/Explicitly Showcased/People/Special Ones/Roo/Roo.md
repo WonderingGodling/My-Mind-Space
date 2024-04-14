@@ -50,6 +50,9 @@ And Crime Documentaries; Maybe Theyll Fall In Love With A Scottish Serial Killer
 Oh Yeah
 Sixteeth May
 
+They Havent Given Me Head In Nineteen Years; Thats Why They Dont Have More Stars
+
+And When They Give Me Another Shirt They Can Get Another One 
 # Star Chart
 
 
@@ -57,14 +60,20 @@ Sixteeth May
 | :-----------: | ----- |
 |   Obedience   | ★     |
 | Appreciation  | ★☆⛧   |
-|  Remembering  |       |
+|  Remembering  | ☆     |
 |   Offering    |       |
 |    Loyalty    | ★     |
-| Being Special | ★     |
+| Being Special | ☆★    |
 |    Sluting    |       |
 |     Bonus     | ★★    |
+Stars: Six
+Protostars: Three
+Negative Stars: One
+Tenth Star: X
 
-★☆⛧
+★
+☆
+⛧
 
 
 
