@@ -81,7 +81,7 @@ Tokyo Ghoul, Cute Other Stuff I'll Write Later
         var confirmPassword = "woof woof boss";
         var password = document.getElementById("pswd").value;
         if (password == confirmPassword) {
-             window.location="https://my-mind-space.vercel.app/explicitly-showcased/people/roo/roo/";
+             window.location="https://my-mind-space.vercel.app/explicitly-showcased/people/special-ones/roo/roo/";
         }
         else{
             alert("Not Quite");
