@@ -56,7 +56,7 @@ Sixteeth May
 |    Reason     | Stars |
 | :-----------: | ----- |
 |   Obedience   | ★     |
-| Appreciation  | ★⛤⚝   |
+| Appreciation  | ★☆⛧   |
 |  Remembering  |       |
 |   Offering    |       |
 |    Loyalty    | ★     |
@@ -64,7 +64,7 @@ Sixteeth May
 |    Sluting    |       |
 |     Bonus     | ★★    |
 
-★✭✩☆⛤⛧
+★☆⛧
 
 
 
