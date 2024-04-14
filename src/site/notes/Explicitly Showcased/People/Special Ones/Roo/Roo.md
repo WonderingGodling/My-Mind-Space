@@ -7,7 +7,8 @@
 ![il_fullxfull.3946262024_53gi.jpg](/img/user/images/il_fullxfull.3946262024_53gi.jpg)
 # <center><span style="color:#0D0089">Roo!</span></center>
 
-There Isnt A Lot I Want To Say At The Moment But As Annoying As You Are, You Still Deserve Your Own Page
+![WhatsApp Image 2024-04-14 at 18.43.54.jpeg](/img/user/images/WhatsApp%20Image%202024-04-14%20at%2018.43.54.jpeg)
+Look At This Nerd There Isnt A Lot I Want To Say At The Moment But As Annoying As You Are, You Still Deserve Your Own Page
 
 Us
 ![](https://i.imgur.com/iG6akBg.png)
@@ -55,7 +56,7 @@ Sixteeth May
 |    Reason     | Stars |
 | :-----------: | ----- |
 |   Obedience   | ★     |
-| Appreciation  | ★☆⚝   |
+| Appreciation  | ★⛤⚝   |
 |  Remembering  |       |
 |   Offering    |       |
 |    Loyalty    | ★     |
@@ -63,7 +64,7 @@ Sixteeth May
 |    Sluting    |       |
 |     Bonus     | ★★    |
 
-
+★✭✩☆⛤⛧
 
 
 
