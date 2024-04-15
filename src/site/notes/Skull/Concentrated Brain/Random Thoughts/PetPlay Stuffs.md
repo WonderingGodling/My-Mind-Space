@@ -24,6 +24,8 @@ Keeping People As Pets Is Easier Than Uni
 Id Rather Worry If The Food I Buy For My Dog Is Good For Them Than Worry About How Much Money I Owe The Government
 Would You Rather Have A Partner That Gives You Treats Or One Thats Writing Essays All Day?
 
+![](https://i.imgur.com/u47eFT6.png)
+
 
 
 
