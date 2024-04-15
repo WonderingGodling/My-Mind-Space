@@ -672,7 +672,6 @@ Im Taking Bets; Closest Without Going Over <33
 
 Ive Had No Purposeful [[Constant Comment (Not The Tea) \|Thoughts]] For Like Three Days; I Feel Like Death, Especially In The Sense That I Have No Way To Think About My Current State
 
-[[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] Gets A Loyalty Star Because Why Not
 
 I Keep Forgetting, Amid My Own Depressive Episodes, To Keep Updates On My Current Antics And I Would Love For Someone To Remind [[Branches/Me\|Me]]
 
@@ -727,11 +726,7 @@ I Need To Write A Collective Hallucination Type Thingy
 Pretty sure [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Vie]] Is Flesh, Web
 Anti Lonely 
 
-[[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] Desolation Lonely Maybe?
-Thats A Weird Dynamic; Possibly Eye
-Its Just That Amongst The Desolation Behaviour Theirs A Layer Of "Oh No, Please Dont Try To Hurt [[Branches/Me\|Me]]" Could Be As A Defence Or Even An Offence (Like A Dart Frog Or An Angler Fish)
-It Could Also Be Completely Seperate; I Guess What Im Trying To Say Is The Push And Pull Game They Play Can Either Be For Fun Or By Nature And Those Two Things Mean Completely Different Manifestations 
-Anti Web Definitely 
+
 
 [[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|Ash]] Though....[[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|Ash]] Is So Anti Eye Its Spooky, Heavy Lonely But Probably Not Main In My Opinion 
 
@@ -764,70 +759,14 @@ And Some "Final" Files Are "Final B" So.... Not So Final
 215 Is "Final (1)" 
 No 206?
 
-Cannot Bash Roos [[Branches/Skull\|Skull]] In
-Also Minus A Star For General Insubordination
 
 
 "SteamLibrary\steamapps\common\Stardew Valley\StardewModdingAPI.exe" %command%
 
 
-#### MINI PAINTING
 
-Primer Under Base Colour (Helps Stick)
-White Primer Vivid Dark Primer Grungy
 
-###### Base
-Base Colour Is The....base Colour
-Solid Layer, No Bright/Dark Spots, 
-Big Brush With Sturdy Bristles
-Push Paint Into Mini So Its In The Grooves No Gaps
-Multiple Base Coats
-Multiple Base Colours To Mathc Colour Theme
 
-##### Wet Blending
-Blend Colour On The Mini While Your Painting
-Keep One Colour On The Brush (Clean It)
-Maies A Workable Gradient Between Important Colours
-Add Colours "Without Being Afraid, Have Fun"
-
-##### Layering
-Usually Undiluted/Opaque
-Make It Pretty Later
-Opaque Layers Where You Want Things To Be Brighter
-Makes The Mini Look More 3D
-
-##### Washing
-Darkens  Features And Fills/Follows Recesses
-Direct With Brush
-Darker Spots
-Use Multiple Thin Layers
-Adds Colour Variety, Stain With New Colours
-
-##### Dry Brushing
-Quick Highlights
-Undiluted Paint, Get Rid Of Most Of It, Soft Brush Over Highlight Spots
-
-##### Edge Highlighting
-Highlights Duh
-Mimics How Light Works
-Thin/Sharp Brush
-Not Too Much Paint
-Brush Along Edge Redifine Shapes
-Multiple Highlights With Brighter Colours
-
-##### Glazing
-Thin Layers Of Transparent Paint So You Can See The Lower Layers
-
-##### Also
-Chroma Is Intense
-Thinned Contrast Base
-Gradients
-Invreased Contrast For Nonmetalic Metal
-Keep Red Away From Orange And Pink (Highlighting And Shading)
-No Pure White Eyes
-
-Was Not Expecting A Phone Call
-Adultasdconnect@stah.org
 
 And [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] Can Get That Negative Star Removed
 
@@ -925,7 +864,7 @@ And You Have To Do That Ad Infinum
 ![](https://i.imgur.com/KwsoZQd.jpeg)
 Hot
 
-![](https://i.imgur.com/u47eFT6.png)
+
 
 
 ![](https://i.imgur.com/zXLhJ5Z.jpeg)
@@ -955,6 +894,33 @@ Father Called
 
 Cooked 
 Eggs Oily >-<
+
+Honestly Getting Pretty Tired Of Seeing Kiyanas Cock Everywhere 
+
+Watching A Reaction To The Hello Neighbor Cartoon; What Is This Show
+They Said Hello Neighbour In Episode One And Goodbye Neighbour In Episode Two; Theyre Gonna Run Out Of Steam
+
+Conversation With My Brother
+"What Are You Autistic?"
+"....Yeah.'
+
+10)a
+E
+C
+C
+E
+A
+E
+B
+D
+B
+D
+C
+A
+
+There's A Woman At Maccies In Such A Bridesmaid Dress Its Unreal But Shes By Herself Pecking A t Fries
+
+
 
 
 
