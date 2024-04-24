@@ -14,11 +14,11 @@ I Forgot That This Matters To Some [[Branches/People\|People]] And Not Everyone 
 | ---------------------------------------------------- | :---------------------------------------------------------------------: |
 | <span style="color:#00FFFF">Wondering Godling</span> |   <span style="color:#00DDDD">Godling, Wonder, Wonderling, God</span>   |
 | <span style="color:#00FFFF">Frigay</span>            |                 <span style="color:#00DDDD">Fri</span>                  |
+| <span style="color:#00FFFF">Scarlet</span>           |                <span style="color:#00CCCC">Scarl</span>                 |
 | <span style="color:#00FFFF">Hazel</span>             |                 <span style="color:#00DDDD">Haze</span>                 |
+| <span style="color:#00FFFF">Natalie</span>           |                 <span style="color:#00CCCC">Nat</span>                  |
 | <span style="color:#00FFFF">David</span>             |                 <span style="color:#00DDDD">Dave</span>                 |
 | <span style="color:#00FFFF">Real Name</span>         | <span style="color:#00CCCC">Im Not Putting On My [[Explicitly Showcased/Home Page I Guess/Home Page\|Website]] |
-| <span style="color:#00FFFF">Natalie</span>           |                 <span style="color:#00CCCC">Nat</span>                  |
-| <span style="color:#00FFFF">Scarlet</span>           |                <span style="color:#00CCCC">Scarl</span>                 |
 
 # [Pronouns](https://en.pronouns.page/@WonderingGodling)
 
