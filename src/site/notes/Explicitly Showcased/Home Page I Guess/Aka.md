@@ -31,13 +31,4 @@ I Forgot That This Matters To Some People And Not Everyone Knows So: I Go By Lit
 
 
 
-<center><sub>Thats All  :)</sub></center>
-
-
-<script src="https://utteranc.es/client.js"
-        repo="WonderingGodling/My-Mind-Space"
-        issue-term="title"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
-</script>
+<center><sub>Thats All  Buh Bye</sub></center>
