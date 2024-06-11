@@ -921,10 +921,29 @@ A
 There's A Woman At Maccies In Such A Bridesmaid Dress Its Unreal But Shes By Herself Pecking A t Fries
 
 
+118·2024·90 I Think The Hooodie Gave Me A Nightmare
 
+Its 155·2024·8434 And.... Yeah :)
+I Feel Sad And Sick Which Is A Great Combination; Date With Roo Tomorrow So I Can Just Die Unfortunately And Dees Back So Yay So That
+I Want To Sleep In Existential Drift But I Also Dont See The Point So I Havent Yet
+I'll Lie Down For The Sake Of It
+Hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh Yeah
 
+Long Sleep, Feel Like Shit
 
+There Has To Be A Single Digit Total Of People In My Life Who Have Apologised For Something 
 
+156•• Was A Good Day
+
+Roo Can Be Drugged With Mint Chocolate Ice Cream
+
+Playing Overwatch With Roo
+They Watched Me Play 1v1 And Lose 4-5; It Was Fun Though ^^
+Hope Joined Us ^^
+Roo Doesnt Know What A Goon Cave Is; Told Her To Google It Later
+Also Roo Is She/they Now
+
+Played Comp And Thee Was A Tank Tht Did Nothing Round 1 And Then Wiped The Other Team Round Two :/
 
 
 
