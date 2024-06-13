@@ -979,6 +979,43 @@ Also Roo Is She/they Now
 
 Played Comp And Thee Was A Tank Tht Did Nothing Round 1 And Then Wiped The Other Team Round Two :/
 
+Also Roo: mango Iced Tea: Not Ideal
+
+The Unmentionable One Officialy Hass A Kitten; Thats Going Great And Im Happy For Them
+
+I Have A Headache
+
+Watched More Dungeon Meshi And Its Still Interestinbg But Still Weird
+
+Oh Yeah, Got Ring Of Pain
+Itts Still A Fun Game But Playing From Scratch Is Disorientating
+And Also Cookie Clicker Since I Dont Beeive I Brought That Up Yet
+
+Ive Also Been Enjoying The McMaster's Guide To Homicide <b>Murder Your Employer<b>
+
+Headacheee
+
+Watched All The Doctor Who
+Rogue Felt Like A Classic
+And The Doctor Got Another Souvinir
+
+Kettle Threw My Power Out
+
+Playing More Ring Of Pain
+Thats Going Not So Well
+
+Roo Was So Toxic Today
+If Anything Comes Up Regarding Wednesday 164·2024· Then We Can Assume That Was That
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/OBzZ0jb" data-context="false" ><a href="//imgur.com/a/OBzZ0jb"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+Dnd Ideas Cooking
+The World Will Collapse Around RoovAnd I Feel No Remorse
+
+Im Actively Existing And I Hate It
+Why Is Everything?
+
+
 
 
 
