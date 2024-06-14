@@ -331,7 +331,8 @@ I Think The Worst PArt About Being Raped To Death Is That while Your Name, Face 
 
 Theres A Chunk Of My Stuff Missing From This Page
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Real mommy doms get drunk and throw wine glasses at you and scream and you and then cry and say they&#39;re so sorry and it won&#39;t happen again and they love you and then do the exact same thing a week later</p>&mdash; 🐶🩸Page🩸🐶 (@Vampuppy_Page) <a href="https://twitter.com/Vampuppy_Page/status/1744568166548754454?ref_src=twsrc%5Etfw">January 9, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+https://twitter.com/Vampuppy_Page/status/1744568166548754454?ref_src=twsrc%5Etfw
+[And Put These Back]
 
 Why Is Hank Greens's Name William?
 
@@ -599,7 +600,9 @@ thats The Dream Right Gang?
 ![](https://i.imgur.com/2oS4aMU.jpeg)
 1981 Kitty
 
-<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Update: <br><br>MY MOM IS GETTING A FURSUIT <a href="https://t.co/fa1QIxc4DO">https://t.co/fa1QIxc4DO</a></p>&mdash; Blue 🔜 New Fursuit! (@bluefolf) <a href="https://twitter.com/bluefolf/status/1758178570910781914?ref_src=twsrc%5Etfw">February 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> Happy For Them
+https://twitter.com/bluefolf/status/1758178570910781914?ref_src=twsrc%5Etfw
+[And Put These Back]
+Happy For Them
 
 
 "Wash....Myself? I Didnt Even Know You Could Do That"
@@ -622,7 +625,9 @@ I Found Arizona Iced Tea Across The Road From My Uni; The Real Deal And Everythi
 ![](https://i.imgur.com/RIfCypg.png)
 
 
-<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">jordan peterson will never know the pleasure of two sweaty tgirls frotting and panting desperately,, leaving bite and scratch marks on eachother,, minds blank as they rut desperately, mindlessly against each other.,,. sry what was i ttalking about</p>&mdash; ashley (dog)🐾🦴❤️‍🩹 (@ashpuppyxoxo) <a href="https://twitter.com/ashpuppyxoxo/status/1757932917571928287?ref_src=twsrc%5Etfw">February 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> Real? Idk
+https://twitter.com/ashpuppyxoxo/status/1757932917571928287?ref_src=twsrc%5Etfw
+[And Put These Back]
+Real? Idk
 
 ![](https://i.imgur.com/jUiFBme.png)
 Small Shoutout To [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|My Slut]] Btw
@@ -758,7 +763,9 @@ Diffuses all its verdant tresses,
 Till glowing with the wanton's play, 
 It blushes a diviner ray."
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="zxx" dir="ltr"><a href="https://t.co/48mWbvaikq">pic.twitter.com/48mWbvaikq</a></p>&mdash; PANAPANA (@87sukiyaki) <a href="https://twitter.com/87sukiyaki/status/1768084345489957290?ref_src=twsrc%5Etfw">March 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> No Words Needed
+https://twitter.com/87sukiyaki/status/1768084345489957290?ref_src=twsrc%5Etfw
+[And Put These Back]
+No Words Needed
 
 Hrr Clue Crew 245 And 144's Files Were Uploaded Backwards
 And Some "Final" Files Are "Final B" So.... Not So Final
@@ -879,7 +886,8 @@ Needles
 ![](https://i.imgur.com/wkoyOdX.jpeg)
 
 
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">waking up your sleepy puppygirl by shining a laser pointer on her puppyparts and watching your kittygirl dive into her crotch headfirst.</p>&mdash; ADHDoggie (@worstgoodgirl) <a href="https://twitter.com/worstgoodgirl/status/1767867706148106343?ref_src=twsrc%5Etfw">March 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+https://twitter.com/worstgoodgirl/status/1767867706148106343?ref_src=twsrc%5Etfw
+[And Put These Back]
 
 
 Bought New Earphones And Now I Wanna Die
