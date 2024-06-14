@@ -984,6 +984,18 @@ Im Actively Existing And I Hate It
 Why Is Everything?
 
 Deamn Formatting Keeps Breaking Now Everything Looks Like A Mess
+#
+
+Hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+Im Gonna Play Overwatch And Stop Remembering I Exist
+Itll Be Fun [Xe Lied To Themself; Not Wanting To Play Overwatch]
+
+I Spilled Pop On Angel Dust
+I Dread The Day I Have To Clean Him
+
+"Wait I Got It! it Was Something You Ssaid- I Dont Know What It Was; I Wasnt Listening! But It Was Something You Said"
+Lateral
 
 
 
