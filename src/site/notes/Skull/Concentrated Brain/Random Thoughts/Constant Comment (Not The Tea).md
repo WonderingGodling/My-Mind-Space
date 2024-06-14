@@ -139,7 +139,7 @@ Algorithms AmIRight (ETA(19·2023 46.41) Links Dead Dont Bother)
 (ETA 265·2024· Video Removed And Breaking Website :)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HwAPLk_sQ3w" title="THE AMAZING DIGITAL CIRCUS: PILOT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+(ETR 226· ADC Pilot Video Which Might Have Been The Breakage From Yesterday)
 I Dissociated In And Out Of My Death And Missed The Premier But This Is So Good
 
 Short Version: Remembered One Of My Friends Knows Someone With An Armpit Fetish And Im Wondering How You Know You Have An Armpit Fetish  
