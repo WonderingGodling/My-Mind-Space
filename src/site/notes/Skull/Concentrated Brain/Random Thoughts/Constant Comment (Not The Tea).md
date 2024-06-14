@@ -975,7 +975,8 @@ Thats Going Not So Well
 Roo Was So Toxic Today
 If Anything Comes Up Regarding Wednesday 164·2024· Then We Can Assume That Was That
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/OBzZ0jb" data-context="false" ><a href="//imgur.com/a/OBzZ0jb">mood</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![[ee8ab112d9056a7a920a93dc3558e2d9.mp4]]
+[Riminder To Put This Back]
 
 Dnd Ideas Cooking
 The World Will Collapse Around RoovAnd I Feel No Remorse
