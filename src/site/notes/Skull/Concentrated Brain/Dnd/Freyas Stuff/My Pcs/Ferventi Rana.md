@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/freyas-stuff/my-pcs/ferventi-rana/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/freyas-stuff/my-pcs/ferventi-rana/","tags":["Tagless"],"dgShowToc":true,"noteIcon":""}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 
 # <center><span style="color:#CC550D">Ferventi  Rana</span></center>
-![](https://i.imgur.com/gfDnAnI.jpeg)
+![470afad0-3694-4a4d-86c4-7cef3a3a97f6.jpg](/img/user/images/470afad0-3694-4a4d-86c4-7cef3a3a97f6.jpg)
 
 
 
@@ -18,10 +18,10 @@
 
 
 ## Stats
- # Base
+ ### Base
 
 | Speed | AC  | Proficiency Bonus | initiative Bonus |
-| :---: | :-: | :---------------: | :--------------: |
+|:-----:|:---:|:-----------------:|:----------------:|
 |   5   | 17  |        +5         |        +5        |
 
 |   Hit Dice   | 13d8 | 13d8 | Saving Throws |
@@ -33,38 +33,6 @@
 | Inteligence  |  12  |  +1  |               |
 |    Wisdom    |  18  |  +4  |               |
 |   Charima    |  15  |  +2  |               |
-
-| Death Saves  |     |     |     |
-| ------------ | --- | --- | --- |
-| Death Failes |     |     |     |
-# Attacks
-
-| Attack         | To-Hit | Damage                |
-| -------------- | ------ | --------------------- |
-| Darts (20)     | +10    | 1d4 (Piercing) +10    |
-| Unarmed Strike | +10    | 1d8 (Bludgeoning) +10 |
-| Curse Energy   | 26     |                       |
-
- # Spells
-
-| Spell Modifier | Wisdom |
-| -------------- | ------ |
-| Spell DC       | 5      |
-| Hit Modifier   | -3     |
-# Inventory
-Inventory: 
-Money: 3000gp
-Chain Shirt, darts, sheild, Clothes, Explorers Kit
-
-# Extra
-  Resistances: Necrotic, Radiant
-  Advantage: Survival/intelligence For fey/fiends/undead, 
-  Vulnerabilities:
-  Conditions:
-  
-
-# Proficiencies
-
 
 | Skills          | Bonus |
 | --------------- | ----- |
@@ -87,17 +55,71 @@ Chain Shirt, darts, sheild, Clothes, Explorers Kit
 | Stealth         | 5     |
 | Survival        | 4     |
 
-Armor: Shields and light armour 
+| Death Saves  |     |     |     |
+| ------------ | --- | --- | --- |
+| Death Failes |     |     |     |
+### Attacks
+
+| Attack         | To-Hit | Damage                |
+| -------------- | ------ | --------------------- |
+| Darts (20)     | +10    | 1d4 (Piercing) +10    |
+| Unarmed Strike | +10    | 1d8 (Bludgeoning) +10 |
+| Curse Energy   | 26     |                       |
+
+ ### Spells
+
+| Spell Modifier | Wisdom |
+| -------------- | ------ |
+| Spell DC       | 5      |
+| Hit Modifier   | -3     |
+# Inventory
+Inventory: 
+Money: 3000gp
+Chain Shirt, darts, sheild, Clothes, Explorers Kit
+
+# Extra
+Resistances: 
+Advantage:
+Vulnerabilities:
+Conditions:
+  
+
+# Proficiencies
+
+| Skills          | Bonus |
+| --------------- | ----- |
+| Acrobatics      | 10    |
+| Animal Handling | 4     |
+| Arcana          | 1     |
+| Athletics       | 4     |
+| Deception       | 2     |
+| History         | 6     |
+| Insight         | 9     |
+| Intimidation    | 2     |
+| Investigation   | 6     |
+| Medicine        | 4     |
+| Nature          | 1     |
+| Perception      | 9     |
+| Performance     | 2     |
+| Persuasion      | 7     |
+| Religion        | 1     |
+| Sleight of Hand | 5     |
+| Stealth         | 5     |
+| Survival        | 4     |
+
+		
+Armor: Shields and light armour
 Weapons: Simple ranged and melee weapons
 Tool Proficiencies: Gaming Set, Theives Tools
-Languages: CommOn, Celestial
+Languages: Common, Celestial
+
 Notes: 
 
 Spellcasting
 martial arts
 cursed energy
 Curse type 
-     Warning Shot
+    Warning Shot
 curse state (Heavenly pact)  
 Give and take
 Cursed healing 
@@ -117,7 +139,7 @@ Trance
 Ear to the Ground
 Telekinetic (Strength Dc 17)
 
-Spells:
+### Spell List
 
 
 | 1st (4) | Shield (Reaction)       | Magic Weapon (Concentration) |
