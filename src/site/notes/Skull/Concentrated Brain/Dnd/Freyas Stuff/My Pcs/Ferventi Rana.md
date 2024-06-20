@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/freyas-stuff/my-pcs/ferventi-rana/","tags":["Tagless"],"dgShowToc":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/freyas-stuff/my-pcs/ferventi-rana/","tags":["dnd","FerventiRana","MyPCs","FreyaStuff","ConcentratedBrain"],"dgShowToc":true,"noteIcon":""}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 
 # <center><span style="color:#CC550D">Ferventi  Rana</span></center>
-![470afad0-3694-4a4d-86c4-7cef3a3a97f6.jpg](/img/user/images/470afad0-3694-4a4d-86c4-7cef3a3a97f6.jpg)
+![470afad0-3694-4a4d-86c4-7cef3a3a97f6 1.jpg](/img/user/images/470afad0-3694-4a4d-86c4-7cef3a3a97f6%201.jpg)
 
 
 
@@ -115,29 +115,31 @@ Languages: Common, Celestial
 
 Notes: 
 
-[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User Terminology/Curse User Spell Casting\|Spellcasting]]
-martial arts
-cursed energy
-Curse type 
-    Warning Shot
-curse state (Heavenly pact)  
-Give and take
-Cursed healing 
-Extra attack
-Curse ritual 
-     The Voids Embarce
-Soft as paper, sharp as steel 
-Cursed movement 
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Spell Casting\|Spell Casting]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User Terminology/Curse User Martial Arts\|martial Arts]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Cursed Energy\|Cursed Energy]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Curse type\|Curse type]] 
+	[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Warning Shot\|Warning Shot]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Cursed state\|curse state]] ([[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Heavenly pact\|Heavenly pact]])
+	[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Give and take\|Give And Take]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Cursed healing\|Cursed healing]] 
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Extra attack\|Extra attack]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Cursed ritual\|Cursed ritual]] 
+	[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/The Voids Embarce\|The Voids Embarce]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Soft as paper, sharp as steel\|Soft as paper, sharp as steel]] 
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Cursed movement\|Cursed movement]]
 Curse type feature 
-Crippled body, burning soul 
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Crippled body, burning soul\|Crippled body,Burning Soul]]
 
-Blessing of the Raven Queen (5)
-Darkvision
-Fey Ancestry
-Trance
+[[Blessing of the Raven Queen \|Blessing of the Raven Queen ]](5)
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Darkvision\|Darkvision]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Fey Ancestry\|Fey Ancestry]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Trance\|Trance]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Keen Senses\|Keen Senses]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Necrotic Resistance\|Necrotic Resistance]]
 
-Ear to the Ground
-Telekinetic (Strength Dc 17)
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ear to the Ground\|Ear to the Ground]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Telekinetic\|Telekinetic]] (Strength Dc 17)
 
 ### Spell List
 

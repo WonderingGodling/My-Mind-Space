@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"LunaFreyasCurseUser","permalink":"/LunaFreyasCurseUser/","tags":["Tagless"],"dgShowToc":true,"noteIcon":""}
+{"dg-publish":true,"dg-permalink":"LunafreyasCurseUser","permalink":"/LunafreyasCurseUser/","tags":["Tagless"],"dgShowToc":true,"noteIcon":""}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -53,6 +53,7 @@ Equipment
 |          19           |         6         |       2        |        4         |       1d10       |         Ability Score Improvement         |
 |          20           |         6         |       2        |        5         |       1d10       |           Cursed state feature            |
 
+----
 ## Martial arts
 At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes
 You gain the following benefits while you are unarmed:
@@ -85,17 +86,16 @@ Spell attack modifier = your proficiency bonus + your Constitution modifier
 Your curse inside of you acts as your spellcasting focus .
 
 ## Curse type
-At 2nd level  your cursed energy awakens choose a “[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Cursed Type\|#Cursed Type]]”
-
+At 2nd level  your cursed energy awakens choose a “[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Cursed Type\|Cursed Type]]”
 
 ## Cursed state 
 At 2nd level your curse inside awakens, how does it manifest, choose a Cursed state (found below cursed types)
-- [[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User# Controlled curse\|# Controlled curse]]
-- [[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User# Curse tool user\|# Curse tool user]] 
-- [[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User# Consumed curse\|# Consumed curse]] 
-- [[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User# Alter ego\|# Alter ego]]
-- [[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User# Curse speech\|# Curse speech]] 
-- [[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User# Heavenly pact\|# Heavenly pact]]
+- [[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User# Controlled curse\|Controlled curse]]
+- [[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User# Curse tool user\|Curse tool user]] 
+- [[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User# Consumed curse\|Consumed curse]] 
+- [[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User# Alter ego\|Alter ego]]
+- [[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User# Curse speech\|Curse speech]] 
+- [[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User# Heavenly pact\|Heavenly pact]]
 
 ## Cursed healing 
 At 3rd level, your soul burns with cursed energy giving you the power to fight on 
@@ -106,6 +106,8 @@ When you reach 4th level, and again at 8th, 12th, 16th and 19th level, you can i
 
 ## Extra Attack
 Beginning at 5th level, when you take the attack option, you may attack twice.
+
+----
 
 ## Cursed ritual 
 By 6th level,  your cursed energy has reached a point where you can expel some to bolster you and your allies for a day of adventure, 
@@ -136,6 +138,8 @@ You gain advantage on all charisma checks (except saving throws), you can cast p
 You are unable to act in a physically hostile manner 
 (costs 6 cursed energy energy )
 
+----
+
 ## Cursed movement 
 By 10th level, your curse billows through your entire body increasing your natural abilities 
 As a action you can consume 5 cursed energy to double your base movement speed, you may expend multiple points while doing this, adding your base movement speed onto it again per 5 energy spent 
@@ -155,8 +159,7 @@ As a bonus action you can gain cursed energy equal to ¼ your cursed user level
 A cosmic witch born amongst the stars but taken away before their soul could reach them 
 
 
-
-
+----
 
 
 ## Cursed Type
@@ -207,11 +210,7 @@ You reach of your domain expansion is increased to 40ft radius
 You may now follow up your domain expansion with either two uses of your regular cursed technique  or one use of your improved cursed technique 
 
 
-
-
-
-
-
+----
 
 
 ## Curse state 
@@ -221,19 +220,19 @@ A controlled curse is the most common type of curse state for a curse user, bein
 These curses tend to be quite mundane, forming from lesser emotions or being young curses born from less concentrated emotional pain. Either way a curse of this nature while weaker is much easier to control 
 
 
-### Controlled flow
+#### Controlled flow
 By 2nd level your control over your curse has allowed you to restore more of your cursed energy while resting 
 You now regain cursed energy equal to half your level per short rest
 
-### Steady stream 
+#### Steady stream 
 By 9th level, your control over your curse now allows you to  alter how much cursed energy is needed to bolster your physical state, 
 When using cursed healing or cursed movement  you only consume half the points (rounded down)  needed for each ability  
 
-### Pocket power 
+#### Pocket power 
 By 13th level, your control over your curse now allows you to store small amounts of residual cursed energy in order to used a cursed technique
 Once per long rest you can perform your base cursed technique  without consuming any cursed energy, when done in this way the techniques effect is halved (e.g  damage dealt is cut in half, status effects last half as long and if possible is half as powerful)
 
-### Domain flash 
+#### Domain flash 
 By 20th level, your control over your curse now allows you to use your Domain expansion in a much weaker but energy efficient manner. Once per long rest you can use your domain expansion without consuming cursed energy, the range of the domain is now a 5ft radius, the effects are halved and anyone caught inside has to do a  saving throw of your choice (other then charisma) to escape it 
 
 ----------
@@ -242,7 +241,8 @@ A Curse tool user normally has little to no curse energy they can use by themsel
 
 
 At 2nd level when you pick this cursed state you lose access to all forms of spellcasting and will not gain a domain expansion and your cursed technique will be limited (this is expanded on more down the page)
-Cursed strike
+
+#### Cursed strike
 By 2nd level your suppressed curse energy is now able to power normally mundane weapons into flowing with cursed energy 
 You gain proficiency in medium and heavy armor as well as all types of weaponry 
 When holding a mundane weapon (anything that is not a cursed tool) you can spend cursed energy to power it, for every 2 cursed energy used you add a +1 attack and damage modifier to the weapon, the extra damage dealt is curse damage 
@@ -250,7 +250,8 @@ When holding a mundane weapon (anything that is not a cursed tool) you can spend
 
 You can use cursed tools without expending cursed energy when using them, you gain a natural +2 bonus to attack and damage rolls when using any type of cursed tool 
 When you kill a curse (a cursed creature ) using a cursed tool or a mundane weapon given cursed energy you can give yourself 1 level of exhaustion then  turn that curse into a cursed tool (stats,special ability  and type of weapon depends on the curse you killed)
-Master of tools
+
+#### Master of tools
 By 9th level, your training with cursed tools (and weapons you give cursed energy) has honed your body to be quick and responsive
 
 
@@ -263,14 +264,15 @@ After performing your extra attack you can consume 4 cursed energy to perform an
 You gain a cursed technique that must use a cursed tool 
 
 
-Dual curse tools
+#### Dual curse tools
 By 13th level, your proficiency with cursed tools has lead you to trying out a new technique, 
 
 
 You can now dual wield any cursed tool you have (not mundane weapons given cursed energy through cursed strike) even if those weapons would normally require two hands (such as a greatsword type weapon)
 You apply the attack modifier to the second weapons attack as well as the first 
 You can consume 11 cursed energy to then  use a third tool for two turns
-Cursed tool devastation 
+
+#### Cursed tool devastation 
 By 20th level, you have mastered cursed tools, while other curse users may outmatch you in a short fight, you excel at now relying on your cursed energy, because of this your excess cursed energy can be put into increasing the power and speed of your cursed tools
 
 
@@ -280,20 +282,18 @@ Only after performing all other extra attacks you can consume 9  cursed energy t
  As an action you can consume 20 cursed energy to perform a ‘cursed tool devastation’, any cursed tools you have on you or in your backpack  and pulled out (if you cannot hold the extras then they will float near you, you then perform a single  attack with each one of them with advantage. If all attacks hit, you can treat the final attack as a critical as well as dealing a extra +20 curse damage  
 
 
+----
 
 
-
-
-
-
-
-Consumed curse 
+### Consumed curse 
 A consumed curse is a curse user whose  soul has been mostly taken over by their curse, leading them to exhibit signs related to the emotions that formed their curse (e.g a curse formed from hatred causes the user to show more signs of anger towards things) this is a much more primal and raw form of cursed energy 
-Raw energy 
+
+#### Raw energy 
 By 2nd level the energy your curse puts out is hard to control, coming out in bursts of raw cursed energy, not concentrated into anything before great effort
 You gain Raw cursed energy, you have a number of raw cursed energy equal to half your normal max amount of cursed energy (rounded down)
 You can use  Raw cursed energy to fuel normal cursed techniques , but causes exhaustion if you deplete all the Raw cursed energy in this way 
-Raw technique 
+
+#### Raw technique 
 By 9th level, your Raw energy while still wild and hard to control can now be harnessed in a burst of power 
 You gain a Raw technique, a much stronger but much more self destructive version of your normal cursed technique , when you perform a Raw technique consume however many Raw energy is needed for it and give yourself 1 level of exhaustion each time you use it 
 
@@ -312,12 +312,13 @@ Special technique  (doesn’t fit into any category, or implements more then two
 
 
 
-Raw reflection
+#### Raw reflection
 By 13th level,  your Raw energy has spread even further through your soul causing your raw energy to spill out even when using normal cursed energy moves 
 
 
 When you perform cursed reflection you can consume  Raw energy and gain 1 level of exhaustion  to attach a spell to the projectile equal to the number of raw energy you used, as well as this you can choose to follow the projectile up with your Raw technique if it includes a ranged attack,or teleportation move
-Soul consumed 
+
+#### Soul consumed 
 By 20th level, your curse has grown in power from your own negative emotions, consuming your soul fully, while you exist as the mind, the curse exists as your body working as one to achieve your goals now fueled by the emotion that formed the curse
 
 
@@ -327,20 +328,17 @@ You gain weakness to curse damage
  You gain resistance to physical damage 
 
 
+----
 
 
-
-
-
-
-Alter ego 
+### Alter ego 
 A alter ego is a curse user who has a incredibly powerful curse dwelling within them, these are curses who gained sentience from their raw power or the strong emotion that formed them, these can also be mortal races who became a consumed curse and achieved a large amount of power before dying 
 
 
 (talk with dm to create the curse within you and their own abilities)
 
 
-Take control
+#### Take control
 By 2nd level your alter ego dwells within you  and will try to get free,  
 
 
@@ -352,14 +350,14 @@ Your curse can try to take control from you whenever they want, when this happen
 
 You can make a pact with your curse to ensure they do not force control away from you, you must do this as a long rest 
 
-Energy siphon 
+#### Energy siphon 
 By 9th level,your curse feels pity on you when you start to lose your cursed energy, giving you some of their own to keep the fight going
 
 
 When you are at half or less cursed  energy you can use a bonus action to ask your curse for some energy, if the curse accepts you gain half your level worth of cursed energy 
 
 
-Overstepped bounds 
+#### Overstepped bounds 
 By 13th level, your curse has come to tolerate you and doesn’t want any lowly creature to end you
 
 
@@ -367,7 +365,7 @@ If you are incapacitated by a creature with a lower challenge rating then the le
 Can only be used once per long rest
 
 
-Equalibrium 
+#### Equalibrium 
 By 20th level,  you and your curse exist in a sort of harmony, cohabiting the same body in order to each achieve your own goals to this end your curse is willing to help you out of kindness instead of trickery 
 
 
@@ -378,17 +376,19 @@ If you perform domain expansion your curse will  use their raw cursed technique 
  When overstepped bounds ends, you now will start with two successful death saves
 
 
+----
 
-Cursed speech
+
+### Cursed speech
 A cursed speech user  is someone who’s cursed energy can be channeled into their own voice, affecting the world and those around them with mere words, while powerful it is very dangerous for both the user and others around that user, the stronger the words used are the harder it is to channel the cursed energy, this can end up causing the word to be brought back onto you or to just cause damage to your throat making you unable to use cursed speech for a extended period or in more extreme cases causing internal bleeding 
 
 
-Words of power 
+#### Words of power 
 By 2nd level You gain the  ability to channel your cursed energy into cursed speech at the cost of the more concentrated forms of cursed energy 
 
 
 when you pick this cursed state you lose access to your cursed technique in all forms in exchange for this you gain access to Words of power (these can be anything the player thinks of, the rules for energy cost are located below this  section) these words affect anything that can hear you within a 60ft range
-A curse speech user has no control of when their energy is used, meaning if any term other then words that cannot be used as words of power (these are normally mundane words that are not commands or terms that can be used to affect something[e.g names,ingredients,places) this makes them very dangerous to fellow group members if the user is not careful with their speech 
+A curse speech user has no control of when their energy is used, meaning if any term other then words that cannot be used as words of power (these are normally mundane words that are not commands or terms that can be used to affect something[e.g names,ingredients,places) this makes them very dangerous to fellow group members if the user is not careful with their speech] 
 
 
 harmless = 0 + creatures con mod 
@@ -400,26 +400,27 @@ mild effect (anything you could manually do yourself) 2 + creatures con modifier
 medium effect (effects you would not be able to do yourself/ supportive abilities[e.g "stop" "run" "hide" "heal" "help" "betray"]) 4+ creatures con modifier 
 
 
-strong effect (a effect that could change the tide of battle or greatly affect a strong foe [e.g "crush" "bleed" "go away" "freeze" "surrender") 6 + creatures level
+strong effect (a effect that could change the tide of battle or greatly affect a strong foe [e.g "crush" "bleed" "go away" "freeze" "surrender") 6 + creatures level]
 
 
 legendary effect (a effect that will win almost certainly win a fight, bring about great change or just a very powerful word [e.g "die" "age" "implode " "revive" "ascend"] 10 + creatures level + creatures con mod
 
 
 
-Subtle word
+#### Subtle word
 By 9th level,You have learned  to use weaker words without expending any cursed energy  if you are well rested
 
 
 You can use  a harmless or mild effect word of power without consuming any cursed energy once per long rest
-Cursed public speaker 
+
+#### Cursed public speaker 
 By 13th level, Cursed speech makes cursed energy very hard to concentrate in one direction for long, you have learned to take advantage of that in order to effect multiple creatures at once
 
 
 When using your words of power you can choose to target a creature in a 15ft cone from you 
 
 
-Naught but a word 
+#### Naught but a word 
 By 20th level, your ability to use words of power without consuming cursed energy has gotten much better allowing the free use of weaker words and the limited use of stronger ones
 
 
@@ -432,22 +433,14 @@ You can use harmless and mild effects without consuming any cursed energy
 You can use a medium word of power without consuming any cursed energy once per long rest
 
 
+----
 
 
-
-
-
-
-
-
-
-
-
-Heavenly pact  
+### Heavenly pact  
 A Heavenly pact is a restriction placed on a curse user at birth crippling the user physically but giving them a abundance of cursed energy 
 
 
-Give and take
+#### Give and take
 By 2nd level now that you have awakened your cursed energy your pact has triggered, your body becomes permanently crippled in some way (up to the players choice)
 
 
@@ -466,7 +459,7 @@ gain a weakness to all physical damage
 
 
 
-Soft as paper, sharp as steel 
+#### Soft as paper, sharp as steel 
 By 9th level,your pact begins to take a bigger toll.your body becoming much more vulnerable but your cursed energy begins to grow much faster 
 
 
@@ -482,7 +475,7 @@ Your speed is reduced by 10ft
 Your constitution modifier is now -6
 
 
-Broken but unbound 
+#### Broken but unbound 
 By 13th level, your body continues to degrade but your cursed energy ascends to new heights  in both power and control 
 
 
@@ -499,7 +492,7 @@ Your speed is reduced to  5ft
 Your constitution modifier is now -8
 
 
-Crippled body, burning soul 
+#### Crippled body, burning soul 
 By 20th level, your body has now fully degraded from the pact, but your cursed energy has surpassed the limits of most other curse users in raw control and storage of cursed energy 
 
 

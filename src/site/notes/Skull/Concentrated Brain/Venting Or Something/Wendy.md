@@ -44,9 +44,9 @@ But When She Doesnt Pick Up We Shouldnt Be Looking Out For Her In The First Plac
 
 ## The Top
 
-I Dont Know What Im Writing And None Of This Matters  
-This Is Just Like A Brain Dump For Non-specific And Super Short Ideas That Havent Earned Their Own Page Yet  
-Maybe Things Go Here Because Im Tired  
+I Dont Know What Im Writing And None Of This Matters 
+This Is Just Like A Brain Dump For Non-specific And Super Short Ideas That Havent Earned Their Own Page Yet 
+Maybe Things Go Here Because Im Tired 
 Maybe Im Just Bored And My Brain Said "Hey!" So I Put It Here
 
 ### Original Random Bulk
@@ -55,11 +55,11 @@ Back On My Incremental Grind For A Bit
 
 The Lightless Flame Is Such A Badass Name
 
-I Just Wanna Watch A Movie  
+I Just Wanna Watch A Movie 
 Whyve You Gotta Be A Pain In The Ass
 
-You Ever Get Those Days Where Existinng Causes Burnout?  
-I Feel Like Ive Done So Much Today But Ive Done Absoulutely [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]  
+You Ever Get Those Days Where Existinng Causes Burnout? 
+I Feel Like Ive Done So Much Today But Ive Done Absoulutely [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] 
 And I Was Kinda Looking Forward To This Party Tomorrow But Im Not Going Bbecause I Have A Comedy Show Im Going To Instead
 
 ETA: I Did Show Up To The End, Saw Some Old Friends
@@ -68,11 +68,11 @@ And Yeah.... I Did Forget About This
 
 ### Public Transport Rant
 
-Public Transport Is So Horrible In This Country  
-I Mean It Exists Which Is More Than I Can Say For Like New York (Imagine Getting A Tram In Nyc)  
-But Its Still Horrendous  
-Its Expensive, Infrequent, Slow, Gross, Exploitative, Inconvenient, Inconsistant And Worst Of All: You Cant Use It Efficiently Without Research  
-You Shouldnt Have To Figure Out If Its Better To Buy A Ticket There And Back Or Just One Ticket That Does Both  
+Public Transport Is So Horrible In This Country 
+I Mean It Exists Which Is More Than I Can Say For Like New York (Imagine Getting A Tram In Nyc) 
+But Its Still Horrendous 
+Its Expensive, Infrequent, Slow, Gross, Exploitative, Inconvenient, Inconsistant And Worst Of All: You Cant Use It Efficiently Without Research 
+You Shouldnt Have To Figure Out If Its Better To Buy A Ticket There And Back Or Just One Ticket That Does Both 
 (The Answer? It Depends :/)
 
 ### Back To Random
@@ -82,62 +82,62 @@ We Need To Talk More
 
 ### Sometimes Im Just Like Whyyyyyy
 
-At The Moment My Hands Smell Like Artificial Vanilla Which Is Not Helping With The Derealisation  
-A Slight Feeling That My Entire Perception Of The World Is Fabricated Accompanied By My Hands Smelling Like A Playdoh Cookie Before [[Branches/People\|People]] Were Worried About Kids Killing Themselves  
+At The Moment My Hands Smell Like Artificial Vanilla Which Is Not Helping With The Derealisation 
+A Slight Feeling That My Entire Perception Of The World Is Fabricated Accompanied By My Hands Smelling Like A Playdoh Cookie Before [[Branches/People\|People]] Were Worried About Kids Killing Themselves 
 Its Not Even A Good Vanilla Smell So Smelling It Provides An Indescribable Feeling
 
 ### Randomness :3
 
-I Did A Bit Of Tidying Up  
+I Did A Bit Of Tidying Up 
 You Wont Notice
 
 ## This Is Imported
 
-I Dont Get This Library  
-I Think Its Designed So That You Cant Find Anything  
-So You Have To Be A Student To Read  
-The Chemistry Is By Textiles  
-The Psychology Is Above Renewable Energy  
-And It Seems To Be Alphabetical Within The Subject?  
+I Dont Get This Library 
+I Think Its Designed So That You Cant Find Anything 
+So You Have To Be A Student To Read 
+The Chemistry Is By Textiles 
+The Psychology Is Above Renewable Energy 
+And It Seems To Be Alphabetical Within The Subject? 
 I Got To My Class And There Already [[Branches/People\|People]] There (ETA: Not My [[Branches/People\|People]] Other [[Branches/People\|People]])
 
-First Time Ive Touched My Phone For An Hour Or Two  
-Im Becoming More Familiar With The Back Of My Eyelids Than The Contents Of My Imagination  
+First Time Ive Touched My Phone For An Hour Or Two 
+Im Becoming More Familiar With The Back Of My Eyelids Than The Contents Of My Imagination 
 To Sleep Per Chance To Dream But To Be Forced To Struggle Through A Waking Nightmare Is Just To Suffer Eternity In Your Own Mind
 
 ### Public Transport Rant (Train Edition)
 
-The One Thing I Hate About Trains Is Im NeveR Sure Im On The Right One Until The Announcer Speaks  
-Like Im Sitting Here And The Train Goes "Beep Boop Train To Shrewsbury" And Im Like Cool  
-Im Not Going To Shrewsbury But Wolverhampton Is A Stop On That Train  
-I Know All This Its All Goo  
-The Problem Is That That Doesn't Play Until The Doors Are Closed  
-So If It Said The Wrong Train Id Just Have To Be Like • _ •  
-Then Now That Its Moving It Like "Where Also Stopping At All These Places" And Im Like I Know  
+The One Thing I Hate About Trains Is Im NeveR Sure Im On The Right One Until The Announcer Speaks 
+Like Im Sitting Here And The Train Goes "Beep Boop Train To Shrewsbury" And Im Like Cool 
+Im Not Going To Shrewsbury But Wolverhampton Is A Stop On That Train 
+I Know All This Its All Goo 
+The Problem Is That That Doesn't Play Until The Doors Are Closed 
+So If It Said The Wrong Train Id Just Have To Be Like • _ • 
+Then Now That Its Moving It Like "Where Also Stopping At All These Places" And Im Like I Know 
 Thats The Train I Got On
 
 #### Tumblr Link?
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:0WVvjWYXyV_tcp5kf631Jw/729147951762505728/v2" data-did="945d63eecd58b6a0bd44d5f12bb9abce89656c19"  ><a href="https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english">https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:0WVvjWYXyV_tcp5kf631Jw/729147951762505728/v2" data-did="945d63eecd58b6a0bd44d5f12bb9abce89656c19" ><a href="https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english">https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
 ### We Imported Still
 
-The Library Is Dewey Decimal  
+The Library Is Dewey Decimal 
 The Catagory Arangement Still Feels Arbitrary
 
-Testing A Thing  
+Testing A Thing 
 Dont Worry About It
 
 [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] Cool; Looks Like It Works
 
-There Is [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] I Wanna Eat In This Whole City!  
-Im Gonna Starve And Im Gonna Laugh  
-(I'll Probably Eat In Town But Still)  
+There Is [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] I Wanna Eat In This Whole City! 
+Im Gonna Starve And Im Gonna Laugh 
+(I'll Probably Eat In Town But Still) 
 What Even Is "Good Food"
 
 #### Tumblr Link??
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:0WVvjWYXyV_tcp5kf631Jw/729147951762505728/v2" data-did="945d63eecd58b6a0bd44d5f12bb9abce89656c19"  ><a href="https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english">https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:0WVvjWYXyV_tcp5kf631Jw/729147951762505728/v2" data-did="945d63eecd58b6a0bd44d5f12bb9abce89656c19" ><a href="https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english">https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
 ## Secondary Phase Of Random
 
@@ -151,37 +151,37 @@ Ive Got More Things To Do Than I Have Time To Sleep But Tomorrow I Have Things T
 
 I Didnt Sleep I Messed With The Laptop
 
-I Ran Out Of Data  
+I Ran Out Of Data 
 Spotify Was Using Automatic Quality
 
 I Was Gonna Read On The Train But I Still Dont Trust Them
 
-So Many [[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)\|Thoughts]], None Of Which Carry With Them The Drive For Dictation  
+So Many [[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)\|Thoughts]], None Of Which Carry With Them The Drive For Dictation 
 Im Just Thinking And Existing And Dealing With It Because I Just Dont Feel Like Writing It
 
 I Haven't Updated This In A While But Thats Because Im Secretly **Losing My Mind!**
 
-Today- This Week (42·2023) Has Been Stressful  
-Its Tuesday  
-Ive Spent The Whole Time Feeling Like A Zombie Then Being Dragged Out Of My Cosy Void  
+Today- This Week (42·2023) Has Been Stressful 
+Its Tuesday 
+Ive Spent The Whole Time Feeling Like A Zombie Then Being Dragged Out Of My Cosy Void 
 Also Had So Much I Wanted To Write But Just Never Did
 
 ## Sneaky Imports
 
-https://youtu.be/zHHQusnYY3c?si=fKYYsvFJHomCnpDf](https://youtu.be/zHHQusnYY3c?si=fKYYsvFJHomCnpDf) I Was Thinking About A Video Like This Last Nigh  
+https://youtu.be/zHHQusnYY3c?si=fKYYsvFJHomCnpDf](https://youtu.be/zHHQusnYY3c?si=fKYYsvFJHomCnpDf) I Was Thinking About A Video Like This Last Nigh 
 Algorithms AmIRight (ETA(19·2023 46.41) Links Dead Dont Bother)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HwAPLk_sQ3w" title="THE AMAZING DIGITAL CIRCUS: PILOT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HwAPLk_sQ3w?si=amaDCRbklx1zqByF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 I Dissociated In And Out Of My Death And Missed The Premier But This Is So Good
 
-Short Version: Remembered One Of My Friends Knows Someone With An Armpit Fetish And Im Wondering How You Know You Have An Armpit Fetish  
-Like What Steps Do You Have To Take To Know Its Specifically That  
-I Just Feel Like "[[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] Part" Is Too Specific  
-I Figured It Out!  
-Watching Someone Change In The Gym And Youre Staring At Them For Ages  
-Then You Go "Im Only Staring At Their Armpits...."  
-Then You Go [[Explicitly Showcased/Home Page I Guess/Home Page\|Home]] And Figure It Out From There  
-Its Just That I Can Imagine Someone Finding Bdsm Porn And Being Like "I Want More Of This"  
+Short Version: Remembered One Of My Friends Knows Someone With An Armpit Fetish And Im Wondering How You Know You Have An Armpit Fetish 
+Like What Steps Do You Have To Take To Know Its Specifically That 
+I Just Feel Like "[[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] Part" Is Too Specific 
+I Figured It Out! 
+Watching Someone Change In The Gym And Youre Staring At Them For Ages 
+Then You Go "Im Only Staring At Their Armpits...." 
+Then You Go [[Explicitly Showcased/Home Page I Guess/Home Page\|Home]] And Figure It Out From There 
+Its Just That I Can Imagine Someone Finding Bdsm Porn And Being Like "I Want More Of This" 
 But Does Armpit Porn Even Exist?
 
 You should see
@@ -192,31 +192,31 @@ I Was Gonna Say "Im [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]
 
 There's Some Of The Stuff I Didnt Add
 
-Gonna Make A [[Explicitly Showcased/From Others/Quotes\|Quotes]] Thing  
+Gonna Make A [[Explicitly Showcased/From Others/Quotes\|Quotes]] Thing 
 And Now That Ive Written That Its linked Forever
 
-Ive Done [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]Today Because I  
+Ive Done [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]Today Because I 
 Want To Die
 
-Watching Fun Dougdoug Video Where He Fails At Mario For Six Hours  
-That Doesn't Sound Fun?  
-Neither Does Breathing  
+Watching Fun Dougdoug Video Where He Fails At Mario For Six Hours 
+That Doesn't Sound Fun? 
+Neither Does Breathing 
 So On The Scale Of Enjoyment Im Leaning Towards Doing [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] I Guess
 
-Right Now I Regret Everything I Feel  
+Right Now I Regret Everything I Feel 
 And I Feel [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]
 
 [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|My Friend]] Threatened To Wear A "Lil Black Skirt" And If They Do I'll Strangle Them /Affectionate
 
-Very Few Things Bring [[Branches/Me\|Me]] Happiness  
-And One Of Those Things Has Been Leaving [[Branches/Me\|Me]] On Read For Hours  
-Happiness Is A Lie  
-Life Is A Chain Of Suffering  
+Very Few Things Bring [[Branches/Me\|Me]] Happiness 
+And One Of Those Things Has Been Leaving [[Branches/Me\|Me]] On Read For Hours 
+Happiness Is A Lie 
+Life Is A Chain Of Suffering 
 Thank You For Coming To My Ted Talk
 
 Zoned Out So Hard Buy Only For An Hour So We're Good I Think
 
-Im Currently Doing [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] On This Train  
+Im Currently Doing [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] On This Train 
 My Book And Headphones Are In My Bag And Getting Either Will Take Way More Energy Than I Have
 
 Not Everyones As Dried Apricots As They Think They Are
@@ -229,31 +229,31 @@ Woke Up At Like 2100 Spent Three Hours Eating And Now Im Just Existing At 1
 **"Whats The Point Of Trying To Stay Alive All This Time....If Im Going To Die By My Own Hand"**
 
 
-Went To Bed At Like Six Last Night (For Eight Hours)  
+Went To Bed At Like Six Last Night (For Eight Hours) 
 Best Sleep Of Like A Month
 
-I Think Most [[Branches/People\|People]] With Low Self-Esteem Or Shitty Parents Feel A Deep Desire To Be Loved But I Feel Like It Just Made [[Branches/Me\|Me]] Hate The Concept  
-Maybe Thats What Dads From The Seventies Were Aiming For  
-"If I Hate My Son He'll Become Emotionally Unavailable Then I'll Never Have To Deal With It Again"  
-Well Ive Got Good News And Bad News For Ya  
-The Good News Is: I Want To Kill Myself More Than I Want To Be Happy  
+I Think Most [[Branches/People\|People]] With Low Self-Esteem Or Shitty Parents Feel A Deep Desire To Be Loved But I Feel Like It Just Made [[Branches/Me\|Me]] Hate The Concept 
+Maybe Thats What Dads From The Seventies Were Aiming For 
+"If I Hate My Son He'll Become Emotionally Unavailable Then I'll Never Have To Deal With It Again" 
+Well Ive Got Good News And Bad News For Ya 
+The Good News Is: I Want To Kill Myself More Than I Want To Be Happy 
 The Bad News Is I Dont Hate Gay [[Branches/People\|People]] So....Sorry Dad
 
-I Just Took A Pepper Grinder From The Kitchen From My Room For No Reason  
-I Have Mcdonalds; Why Would I Want Mcdonalds To Taste Good  
-I Dont Know What My Subconscious Is Up To  
+I Just Took A Pepper Grinder From The Kitchen From My Room For No Reason 
+I Have Mcdonalds; Why Would I Want Mcdonalds To Taste Good 
+I Dont Know What My Subconscious Is Up To 
 Theres Cayenne In My Pocket
 
-Mmmm  
+Mmmm 
 Markiplier Isnt Cheering [[Branches/Me\|Me]] Up And I Dont Feel Like Music Right Now
 
-I Used The Peppers  
+I Used The Peppers 
 Good Job [[Branches/Me\|Me]]
 
-Mark Made [[Branches/Me\|Me]] Laugh  
+Mark Made [[Branches/Me\|Me]] Laugh 
 We Got Spooked Together <3
 
-The Stanley Parable  
+The Stanley Parable 
 The Eye, The Lonely, The Spiral, The Vast (At One Point)
 
 I Dont Have The Energy To Do Anything I Was Gonna Do
@@ -261,38 +261,38 @@ I Dont Have The Energy To Do Anything I Was Gonna Do
 ## [[Skull/Concentrated Brain/Venting Or Something/Wendy\|Mother]]
 [Removed]
 
-Fuck I Dont Update This Enough  
+Fuck I Dont Update This Enough 
 More Imports:
 
 ## More Imports
 
-Wearing My Friends Shirt And On My Way To Town They Said They Were Getting The Train In So We Should Meet Up  
+Wearing My Friends Shirt And On My Way To Town They Said They Were Getting The Train In So We Should Meet Up 
 They Didnt Notice I Was Wearing Her Shirt Until I Pointed It Out Smh
 
-Just Read A Yuri Manga And The More I Read The More I Was Like "This Is Not A Healthy Thing To Read"  
+Just Read A Yuri Manga And The More I Read The More I Was Like "This Is Not A Healthy Thing To Read" 
 Then It Ended And I Was Just Like "....[[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] Sure"
 
-I Dont Feel Anything About It  
+I Dont Feel Anything About It 
 Cant Decide If It Was a Happy Ending Or What
 
 I Just Saw A Steam Comment "Homestuck? Well Yeah Its Bolted To The Ground"
 
-Nonbinary Dom Like  
+Nonbinary Dom Like 
 "My Pronouns Are Master/Master's; You Will Adress [[Branches/Me\|Me]] On Your Knees"
 
-Remember [[Branches/Me\|Me]] Making Fun Of The Armpit Guy Because "How The Ft Dod He Figure That Out‽"  
+Remember [[Branches/Me\|Me]] Making Fun Of The Armpit Guy Because "How The Ft Dod He Figure That Out‽" 
 Ive Changed My Opinion 
 
 I Dont Know If This Video Is Safe For Work But Its Relevant So Probably Not (ETA(19·2023 47.08) The Video I Put Here Dissapeared But It Was In Fact Proof That Armpit Focused Videos Exist)
 
 Did Yall Know You Can Group Call On The Lovesense App?
 
-I Think If A Guy Gets A Girl Pregnant She Should Just Be Able To Give Him The Pregnancy  
+I Think If A Guy Gets A Girl Pregnant She Should Just Be Able To Give Him The Pregnancy 
 That Would Be A Great Update To Human Biology
 
-I Found Out One Of [[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|My Friends]] Is Into Rope Bondage  
-He Doesn't Live In England  
-Most Of The [[Branches/People\|People]] Begging To Be Roped Live Way Too Far Or Are Way Too Busy  
+I Found Out One Of [[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|My Friends]] Is Into Rope Bondage 
+He Doesn't Live In England 
+Most Of The [[Branches/People\|People]] Begging To Be Roped Live Way Too Far Or Are Way Too Busy 
 Pointless
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do u think a transphobic conservative guy would change if I squished his head between my thighs</p>&mdash; Kiyana 🏳️‍⚧️ (@SlayzKiana) <a href="https://twitter.com/SlayzKiana/status/1717001251215515673?ref_src=twsrc%5Etfw">October 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -388,7 +388,7 @@ If I Leave My Hair For Long Enough Therell Be An Obvious Faded Ring Of Where Has
 Im Not [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]
 Im So Not [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] But I Dont Know Why
 
-It Has Come To My Attention (Via [[Branches/Me\|Me]] Telling [[Branches/Me\|Me]] What I Think Is Best For [[Branches/Me\|Me]]) That Since I Am Undergoing Zoochosis And That The Enrichment Time That I Usually Try To Provide Myself With Is A Failing Method,  The Best Thing For [[Branches/Me\|Me]] To Do For My Mental Health Is To Empty The Beehive More Frequently; The Problem Isnt My Mind, It's Keeping My Mind Locked Iniside Of Itself
+It Has Come To My Attention (Via [[Branches/Me\|Me]] Telling [[Branches/Me\|Me]] What I Think Is Best For [[Branches/Me\|Me]]) That Since I Am Undergoing Zoochosis And That The Enrichment Time That I Usually Try To Provide Myself With Is A Failing Method, The Best Thing For [[Branches/Me\|Me]] To Do For My Mental Health Is To Empty The Beehive More Frequently; The Problem Isnt My Mind, It's Keeping My Mind Locked Iniside Of Itself
 This [[Explicitly Showcased/Home Page I Guess/Home Page\|Website]] Will See The Biggest Hit In Terms Of My Increase In Esoteric
 
 Also Im Now A Light Player And I Think [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] Is One Of The Desolation Maybe; Who Knows
@@ -401,7 +401,7 @@ I Just Got Dissapointed Because I Mistakenly Thought I Spotted A Free Box Of Flo
 I Hung Out With Dee Today (The Light Of My Life, Beacon Of Hope And The Best Woman Since Adam Got Married) And She Is Always So Freaking Amazing!
 We Went To Spoons For Lunch Then I Kinda Just Escorted Her Through The Completion Of A Errands; She Also Let [[Branches/Me\|Me]] Borrow An Old Shirt And After All That My Whole Day Has Been Made
 Living Proof That Spiders Can Be Lovely 
-On That Topic  No Clue What Aspect They Are
+On That Topic No Clue What Aspect They Are
 
 Corys Definitely A Light Player; I Dont Know If Hes A Watcher Though; I Think Hes A Spiral Or Maybe The Web (Do Spiders Need To Manipulate <b>[[Branches/People\|People]]</b> Or Can They Have Fun With It?)
 
@@ -413,7 +413,7 @@ Its A Second Editioni Copy Publishd In 2001
 Count Bin Face Is Active Again
 
 
-I Wasnt Listening To The New Magnus PROTOCOL  Episode Because I Was Freaking Over The Small Details
+I Wasnt Listening To The New Magnus PROTOCOL Episode Because I Was Freaking Over The Small Details
 Technically The First Episode (I Know Two Came Out At Once)
 
 I Was Watching Hazbin Hotel But I Couldnt Find Episode Five So :)
@@ -439,7 +439,7 @@ Cleaning Up The Vault
 
 I Always Feel Like I Shouldnt Be In This [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] But Recently Ive Felt That My [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] Doesn't Belong With [[Branches/Me\|Me]] In It
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:0WVvjWYXyV_tcp5kf631Jw/729147951762505728/v2" data-did="945d63eecd58b6a0bd44d5f12bb9abce89656c19"  ><a href="https://www.tumblr.com/shencomix/739174739386515456">https://www.tumblr.com/shencomix/739174739386515456</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:0WVvjWYXyV_tcp5kf631Jw/729147951762505728/v2" data-did="945d63eecd58b6a0bd44d5f12bb9abce89656c19" ><a href="https://www.tumblr.com/shencomix/739174739386515456">https://www.tumblr.com/shencomix/739174739386515456</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
 
 I Envy Suicide Bombers And Kamikaze Pilots
@@ -583,7 +583,7 @@ Also [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] 
 
 ![Tumblr_l_1160578296118.jpg](/img/user/images/Tumblr_l_1160578296118.jpg)
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:HmBJ8Ly3SvMXpp9ktdUq7Q/741139528161640448/v2" data-did="5bff922bcf470585110d7b2203c414daa135bb91"  ><a href="https://www.tumblr.com/trouble-trouble-trouble/741139528161640448/tmagp-try-to-go-one-ep-without-having-a-line">https://www.tumblr.com/trouble-trouble-trouble/741139528161640448/tmagp-try-to-go-one-ep-without-having-a-line</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:HmBJ8Ly3SvMXpp9ktdUq7Q/741139528161640448/v2" data-did="5bff922bcf470585110d7b2203c414daa135bb91" ><a href="https://www.tumblr.com/trouble-trouble-trouble/741139528161640448/tmagp-try-to-go-one-ep-without-having-a-line">https://www.tumblr.com/trouble-trouble-trouble/741139528161640448/tmagp-try-to-go-one-ep-without-having-a-line</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
 Watching Myself On The Edge Od Dissacotiation (Im Not Spelling That Right); Watching Myself Not Pay Attention
 
@@ -617,7 +617,7 @@ My Girls Got A Lil Pregnant, No Wories
 Eating Goldbears Like A Weirdo
 
 (59·2024·8333~)
-Finally Got My Pc Back;  [[Branches/Me\|Me]] And Core Spent Like All Day Working On It And Now Everything Wprks Smoothly
+Finally Got My Pc Back; [[Branches/Me\|Me]] And Core Spent Like All Day Working On It And Now Everything Wprks Smoothly
 
 Now For Some Note Catchup
 
@@ -660,7 +660,7 @@ In The Second Shazam Film Theres A Scene Where A Woman Says Shes Over Six Thousa
 
 Scrolled Through This A Bit And Random Parts Just Do Not Exist
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:D6sn2PQ62McOK15fSCqfPQ/742751721089105920/v2" data-did="4cf4fe0c2dff7d9858b5ee3b7d7dc2188cb03009"  ><a href="https://www.tumblr.com/walmart-the-official/742751721089105920/yeah-np-we-had-loads-of-extras-because-most-of">https://www.tumblr.com/walmart-the-official/742751721089105920/yeah-np-we-had-loads-of-extras-because-most-of</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:D6sn2PQ62McOK15fSCqfPQ/742751721089105920/v2" data-did="4cf4fe0c2dff7d9858b5ee3b7d7dc2188cb03009" ><a href="https://www.tumblr.com/walmart-the-official/742751721089105920/yeah-np-we-had-loads-of-extras-because-most-of">https://www.tumblr.com/walmart-the-official/742751721089105920/yeah-np-we-had-loads-of-extras-because-most-of</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
 Theres Actually A Lot More That I Wanna Add But I'll Stop Here For Now Which Makes The Note At The Bottom Temporarily Redundant 
 
@@ -715,14 +715,14 @@ Nevermind That Didnt Work And Is Super Lame
 I Want To Write A Thing But I Have Like Negative Energy
 Also Its Too Late To Sleep So :)
 
-The Problem With  The Ghostbusters Remake Isnt Judt That Its Worse Than The Original (Which It Is) But Its Also That The Original Isnt Actually That Good
+The Problem With The Ghostbusters Remake Isnt Judt That Its Worse Than The Original (Which It Is) But Its Also That The Original Isnt Actually That Good
 I Remember Enjoying It When I Was Like Five But I Also Doiont Remember A Single Good Thing About It
 
 Was Watching Hannible Yesterday, Watched The Whole First Season And Its An In-
 My Headphones Just Frog Blinked
 Anyway Its An Interesting Show, Not Very Intricate But Super Pretty (Kinda Erotic?) And The Actors And That Are Gorgeous Too I Guess
 Its Been A While Since Ive Watched A Psychopath Centred Show Whom I Dont Relate To But This Shiw Is Full Of Them And Thats Refreshing
-I Dont Have More Intricate Notes Because I <b>Was</b> Playing Cult Of The Lamb  So I Wasnt Actually Able To Type But Yeah I Think I'll Be Finishing This
+I Dont Have More Intricate Notes Because I <b>Was</b> Playing Cult Of The Lamb So I Wasnt Actually Able To Type But Yeah I Think I'll Be Finishing This
 
 Dnd Cursed Dice TMP9 Style
 
@@ -826,14 +826,14 @@ I Got Info On Her Favourite Radiohead Album But Thats Gone Now :p
 
 Dont Forget, Monkey Film Sunday
 
-Really Gotta Write Stuff For The Dnd Character   
+Really Gotta Write Stuff For The Dnd Character 
 
 Backed Up Back Log Whatever
 Uhhh 96·2023· Did A Fun Dnd Sesh, Missed The One On 98 · But Thats Not Whats Important Here, Dnd Notes Are Available Elsewhere But The Important Thing Is I Had Fun And Freya Is A Very Good Gm
 
-97·2023· Went And Hung Out With Roo, We Met Up In Solls But My Train Was....It Wasnt Late  But "on time" Was Half An Hour After I Arrived So Idk
+97·2023· Went And Hung Out With Roo, We Met Up In Solls But My Train Was....It Wasnt Late But "on time" Was Half An Hour After I Arrived So Idk
 When We Got Together We Went To Waggas, We Both Had Terriaki Chicken Or Something I Dont Actually Remember Anymore, Im Swo Far Beghind On My Documentation
-This Is Cutting Out My Evening With Dee On Alsom 96·  Which Is Ugh
+This Is Cutting Out My Evening With Dee On Alsom 96· Which Is Ugh
 
 Dee Is Lovely, I Love Her, We Met Up And Had Lots Of Fun, Ill Write More In A Sec
 
@@ -991,7 +991,7 @@ Oh Yeah, Got Ring Of Pain
 Itts Still A Fun Game But Playing From Scratch Is Disorientating
 And Also Cookie Clicker Since I Dont Beeive I Brought That Up Yet
 
-Ive Also Been Enjoying The McMaster's Guide To Homicide <b>Murder Your Employer<b>
+Ive Also Been Enjoying The McMaster's Guide To Homicide <b>Murder Your Employer</b>
 
 Headacheee
 
@@ -1007,7 +1007,10 @@ Thats Going Not So Well
 Roo Was So Toxic Today
 If Anything Comes Up Regarding Wednesday 164·2024· Then We Can Assume That Was That
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/OBzZ0jb" data-context="false" ><a href="//imgur.com/a/OBzZ0jb"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+![[ee8ab112d9056a7a920a93dc3558e2d9.mp4]]
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/OBzZ0jb" data-context="false" ><a href="//imgur.com/a/OBzZ0jb">mood</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 Dnd Ideas Cooking
 The World Will Collapse Around RoovAnd I Feel No Remorse
@@ -1015,6 +1018,31 @@ The World Will Collapse Around RoovAnd I Feel No Remorse
 Im Actively Existing And I Hate It
 Why Is Everything?
 
+Deamn Formatting Keeps Breaking Now Everything Looks Like A Mess
+#
+
+Hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+Im Gonna Play Overwatch And Stop Remembering I Exist
+Itll Be Fun [Xe Lied To Themself; Not Wanting To Play Overwatch]
+
+I Spilled Pop On Angel Dust
+I Dread The Day I Have To Clean Him
+
+"Wait I Got It! it Was Something You Ssaid- I Dont Know What It Was; I Wasnt Listening! But It Was Something You Said"
+Lateral
+
+Test
+
+I Fixed It!
+Lets go!
+
+Moving Dnd Notes Over To Here
+
+Stardew Better Friendship Mod
+Monos Portrait Mod
+
+My Brain is Just Static
 
 
 
@@ -1056,7 +1084,17 @@ Why Is Everything?
 
 
 
-​    ​‍ 
+
+
+
+
+
+
+​ ​‍ ‍​ 
+
+
+
+
 
 
 
