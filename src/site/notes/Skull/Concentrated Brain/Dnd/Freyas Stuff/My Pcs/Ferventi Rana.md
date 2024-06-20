@@ -115,7 +115,7 @@ Languages: Common, Celestial
 
 Notes: 
 
-Spellcasting
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User Terminology/Curse User Spell Casting\|Spellcasting]]
 martial arts
 cursed energy
 Curse type 
