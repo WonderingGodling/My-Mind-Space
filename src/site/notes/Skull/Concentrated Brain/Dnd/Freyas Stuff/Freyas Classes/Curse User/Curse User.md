@@ -113,27 +113,27 @@ Beginning at 5th level, when you take the attack option, you may attack twice.
 By 6th level,  your cursed energy has reached a point where you can expel some to bolster you and your allies for a day of adventure, 
 Using cursed energy you can use a action to perform a Cursed ritual taking 1 hour  affecting any willing creature in a  10ft radius from the list below once per 24hrs 
 
-### Curse of recklessness 
+ ### Curse of recklessness 
 You gain +5 to all melee attack and damage rolls, your speed is increased by 30 ft
 You lose 5ac, you have to use all your movement each turn unless physically unable
 (costs 2 cursed energy)
 
-### Curse of fortitude 
+ ### Curse of fortitude 
 You gain 3ac, you have resistance to one type of physical damage of your choice(each affected member chooses for themselves), you have advantage on saving throws to avoid damage 
 You gain -4 to all attack rolls and damage rolls, your speed is decreased by 10ft  
 (costs 2 cursed energy)
 
-### Curse of all seeing 
+ ### Curse of all seeing 
 You gain 60ft of darkvision (if already gained then you gain 120 ft of truesight) you gain see through invisibility magical or otherwise, you are aware of traps automatically, you have advantage on perception checks that require sight
 You become deaf, all checks related to hearing are automatically failed, you are blinded if in bright light, you have half vision if in dim light  but bull vision if in  darkness 
 (costs 4 cursed energy)
 
-### Curse of the light foot
+ ### Curse of the light foot
 You gain advantage on stealth checks, you can cast invisibility one time per ritual, this invisibility is broken if you deal damage to a creature, you have advantage on sleight of hand checks
 You gain a -2 to attacks and damage rolls when not in stealth 
 (costs 4 cursed energy)
 
-### Curse of deception 
+ ### Curse of deception 
 You gain advantage on all charisma checks (except saving throws), you can cast polymorph on yourself  as many times equal to your proficiency bonus 
 You are unable to act in a physically hostile manner 
 (costs 6 cursed energy energy )
@@ -174,7 +174,7 @@ At 2nd level your cursed energy manifests into a curse type giving you a cursed 
 
 ### domain expansion 
 By 7th level, your cursed energy is now to a level where you can harness it to create a meta physical domain of your power
-Create a domain ina 15ft radius anything caught in it cannot dodge whatever affect is given by the domain or any attack 
+Create a domain in a 15ft radius anything caught in it cannot dodge whatever affect is given by the domain or any attack 
 - Damage domain
 - Debuff domain
 - Restriction domain
@@ -454,11 +454,6 @@ Your max health is halved
 gain a weakness to all physical damage 
 
 
-
-
-
-
-
 #### Soft as paper, sharp as steel 
 By 9th level,your pact begins to take a bigger toll.your body becoming much more vulnerable but your cursed energy begins to grow much faster 
 
@@ -466,8 +461,6 @@ By 9th level,your pact begins to take a bigger toll.your body becoming much more
 You gain 3 points of cursed energy at the start of combat if you have none 
 If fighting a cursed spirit you have a +4 to initiative 
 The range of cursed techniques is increased by 10ft more of range your domain expansion gains another 5ft to its radius 
-
-
 
 
 You gain a weakness to fire,lightning,cold and acid 

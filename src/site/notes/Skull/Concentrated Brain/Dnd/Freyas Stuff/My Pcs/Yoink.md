@@ -1,22 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/freyas-stuff/my-pcs/warning-shot/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/freyas-stuff/my-pcs/yoink/","tags":["Tagless"],"noteIcon":""}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 
-# <center><span style="color:#892102">Warning Shot</span></center>
-
-When Ferventi's Adrenaline Gets Too High They Lash Out Both Physically And Emotionally, Striking Their Opponent With A Personalised Curse. The Pain Of The Curse Settling In Subsides As Their Senses Are Filled With A Manifestation Of Their Greatest Fear. It Overwhelms Them Until She Lets Them Go And The Curse Energy Drains Out.
+# <center><span style="color:#CC550D">Yoink</span></center>
+The Sempra Distant Begin To Feel Their Heart Get Pulled Towards The Creature Theyve Been Stalking. They Dont Know Why Theyve Been Staying So Far Away But For Some Reason This Thing Wants Them. Ferventi Grows Impatient. Ferventi Needs More.
 
 ----
-Reaction 
 
-Consume 3 cursed energy and perform a reaction strike pouring cursed energy into your weapon/fist on a successful hit the opponent sees the attack form into their greatest fear causing them to take 2d8 curse damage and  go into the frightened status and abandoning whatever their current motivation was
+Improved technique:
 
-Consume a extra 1 energy every turn you wish for this effect to stay active
+Passive ability 
 
-If Known: At The End incapacitated, can’t move, and can speak only falteringly.
+Consumes 2 cursed energy when you want to toggle it on, lasts until you dismiss it or are incapacitated 
+
+Prerequisite: have to be 40ft away 
+
+While a creature of your choice is 40ft away you can drain hp away from them  equal to the creatures con modifier 
+
+
 
 
 

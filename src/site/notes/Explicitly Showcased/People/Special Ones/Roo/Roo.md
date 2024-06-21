@@ -26,7 +26,7 @@ Talked To Roo While Playing Stardew And Theyve Actually Gotten Better At The Gam
 Wow I Never Add To This </3
 Thats Honestly A Shame; They Should Get More Attention Every Now And Then
 
-[[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] Desolation Lonely Maybe?
+[[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Desolation Lonely Maybe?
 Thats A Weird Dynamic; Possibly Eye
 Its Just That Amongst The Desolation Behaviour Theirs A Layer Of "Oh No, Please Dont Try To Hurt [[Branches/Me\|Me]]" Could Be As A Defence Or Even An Offence (Like A Dart Frog Or An Angler Fish)
 It Could Also Be Completely Seperate; I Guess What Im Trying To Say Is The Push And Pull Game They Play Can Either Be For Fun Or By Nature And Those Two Things Mean Completely Different Manifestations 
@@ -55,7 +55,7 @@ And Crime Documentaries; Maybe Theyll Fall In Love With A Scottish Serial Killer
 Oh Yeah
 Sixteeth May
 
-[[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] Gets A Loyalty Star Because Why Not
+[[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Gets A Loyalty Star Because Why Not
 
 They Havent Given Me Head In Nineteen Years; Thats Why They Dont Have More Stars
 

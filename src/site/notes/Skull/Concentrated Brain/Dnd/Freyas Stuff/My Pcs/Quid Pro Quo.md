@@ -1,22 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/freyas-stuff/my-pcs/warning-shot/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/freyas-stuff/my-pcs/quid-pro-quo/","tags":["Tagless"],"noteIcon":""}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 
-# <center><span style="color:#892102">Warning Shot</span></center>
+# <center><span style="color:#CC550D">Quid Pro Quo</span></center>
 
-When Ferventi's Adrenaline Gets Too High They Lash Out Both Physically And Emotionally, Striking Their Opponent With A Personalised Curse. The Pain Of The Curse Settling In Subsides As Their Senses Are Filled With A Manifestation Of Their Greatest Fear. It Overwhelms Them Until She Lets Them Go And The Curse Energy Drains Out.
+You Scratch My Back; I'll Scratch Yours Also Works When Both Parties Have Claws. Being No Stanger To Being Stabbed In The Back, Venti Had Her Eye On This One And Has Counted Their Transgressions, Until The Fires Of Hell Can Bring Forth Retribution Part Of It Will Be Hand Delivered By Yours Truly.
 
 ----
-Reaction 
 
-Consume 3 cursed energy and perform a reaction strike pouring cursed energy into your weapon/fist on a successful hit the opponent sees the attack form into their greatest fear causing them to take 2d8 curse damage and  go into the frightened status and abandoning whatever their current motivation was
+Improved reverse technique:
 
-Consume a extra 1 energy every turn you wish for this effect to stay active
+Action
 
-If Known: At The End incapacitated, can’t move, and can speak only falteringly.
+Consumed ⅓ of the damage you wish to use 
+
+During a fight pick one creature, you now may tally how much  damage they do to you throughout the fight, at any point during it you can consume ⅓ of that damage as curse energy then fire back all of it at a enemy, the attack is unable to miss unless a technique is used 
+
+(i.e if you are hurt for 15 dmg overall then you consume 5 cursed energy then deal 15dmg to them)
+
+
 
 
 

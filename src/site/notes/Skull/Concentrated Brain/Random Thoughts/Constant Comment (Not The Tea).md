@@ -172,7 +172,7 @@ So On The Scale Of Enjoyment Im Leaning Towards Doing [[Skull/Concentrated Brai
 Right Now I Regret Everything I Feel 
 And I Feel [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]
 
-[[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|My Friend]] Threatened To Wear A "Lil Black Skirt" And If They Do I'll Strangle Them /Affectionate
+[[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|My Friend]] Threatened To Wear A "Lil Black Skirt" And If They Do I'll Strangle Them /Affectionate
 
 Very Few Things Bring [[Branches/Me\|Me]] Happiness 
 And One Of Those Things Has Been Leaving [[Branches/Me\|Me]] On Read For Hours 
@@ -357,7 +357,7 @@ Im So Not [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] But I Don
 It Has Come To My Attention (Via [[Branches/Me\|Me]] Telling [[Branches/Me\|Me]] What I Think Is Best For [[Branches/Me\|Me]]) That Since I Am Undergoing Zoochosis And That The Enrichment Time That I Usually Try To Provide Myself With Is A Failing Method, The Best Thing For [[Branches/Me\|Me]] To Do For My Mental Health Is To Empty The Beehive More Frequently; The Problem Isnt My Mind, It's Keeping My Mind Locked Iniside Of Itself
 This [[Explicitly Showcased/Home Page I Guess/Home Page\|Website]] Will See The Biggest Hit In Terms Of My Increase In Esoteric
 
-Also Im Now A Light Player And I Think [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] Is One Of The Desolation Maybe; Who Knows
+Also Im Now A Light Player And I Think [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Is One Of The Desolation Maybe; Who Knows
 
 ![IMG-20240114-WA0016 1.jpg](/img/user/images/IMG-20240114-WA0016%201.jpg)![IMG-20240114-WA0019.jpg](/img/user/images/IMG-20240114-WA0019.jpg)
 Hhhhhhhhhhhhhhhh
@@ -479,7 +479,7 @@ I Really Need to Type Stuff Up More Because Keeping It In Os Driving [[Branches/
 Also Im Thinking Of Seperating This Into Multiple Pages If It Gets Too Long; Thats A Long Way Down the Road Though So Dont Worry (Xei Said To The Zero [[Branches/People\|People]] Reading)
 Im Also Going To Put Up My Lecture Notes When I Start Making Them So Theres That To Look Forward To
 
-Oh Yeah Yesterday [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] Asked [[Branches/Me\|Me]] If I Wanted To Play Overwatch And I Said Later Because I Was Tired; Later Came And I Asked Them And Got Rejected Because They Were Tired
+Oh Yeah Yesterday [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Asked [[Branches/Me\|Me]] If I Wanted To Play Overwatch And I Said Later Because I Was Tired; Later Came And I Asked Them And Got Rejected Because They Were Tired
 Thats A Fair Reason (If It Wasnt I Wouldn't Have Used It) But Its Still Kinda Rude Because Yknow <b>You</b> Asked <b>[[Branches/Me\|Me]]</b> But Its Whatever So I Didnt Say Anything
 
 On The Same Note (Knowing I'll Move The Previous Entry) I Started Playing Persona Three Reload Yesterday And Its A Great Game Which I Probably Would Have Had [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] To Say About But That Was Last Night And Im Forgetful 
@@ -538,14 +538,14 @@ Holy Hell! Today Was So Awesome!! 52•2024•
 I Got To Hang Out With Dee Like All Day-- 
 (This App sucks (Crashed))
 Anyway Got To Hers In The Wet, That Was Sad, But I Got A Hug And Some Tea Out Of It, Then We Watched Gravity Falls While I Failed To Source Cabin In The Woods Before Switching To The Goldbergs Then To Sweeny Todd
-Dee Fell Asleep At One Point So I Took A Picture, Shes Cute (And Dhe Breathes Differently When Shes Asleep Which I Think Is Interesting) And I Love Her And Eventually [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] Showed Up And We Watched Most Of Hazbin Hotel (We Didnt Finish Episode Seven)
+Dee Fell Asleep At One Point So I Took A Picture, Shes Cute (And Dhe Breathes Differently When Shes Asleep Which I Think Is Interesting) And I Love Her And Eventually [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Showed Up And We Watched Most Of Hazbin Hotel (We Didnt Finish Episode Seven)
 Also Excellent Bean Burgers 10/10
 I Could Write So Much More Because This Was Such An Awesome Day But I Wont Because Privacy And Whatnot
 However I Will Say Im Sad That I Didnt Wear Black Nails Lile I Pmanned Because Dee Did And I Got A Nice Picture Of Us Holding Hands 
 
 I Just love Dee So Much
 
-Also [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] Is Cool, Glad Theyre Safe And All That
+Also [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Is Cool, Glad Theyre Safe And All That
 
 ![Tumblr_l_1160578296118.jpg](/img/user/images/Tumblr_l_1160578296118.jpg)
 
@@ -620,7 +620,7 @@ I Found Arizona Iced Tea Across The Road From My Uni; The Real Deal And Everythi
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">jordan peterson will never know the pleasure of two sweaty tgirls frotting and panting desperately,, leaving bite and scratch marks on eachother,, minds blank as they rut desperately, mindlessly against each other.,,. sry what was i ttalking about</p>&mdash; ashley (dog)🐾🦴❤️‍🩹 (@ashpuppyxoxo) <a href="https://twitter.com/ashpuppyxoxo/status/1757932917571928287?ref_src=twsrc%5Etfw">February 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> Real? Idk
 
 ![](https://i.imgur.com/jUiFBme.png)
-Small Shoutout To [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|My Slut]] Btw
+Small Shoutout To [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|My Slut]] Btw
 
 In The Second Shazam Film Theres A Scene Where A Woman Says Shes Over Six Thousand Years Old Then Kisses A Child Which Is....Interesting
 
@@ -712,7 +712,7 @@ Really Channelling My Inner [[Skull/Concentrated Brain/Random Thoughts/TMA/Aspec
 
 havent.... Havent Slept, Dont Really Want To
 Its Mothers Day Tomorrow And I Havent Preped, Dont Really Want To
-Played....I Dont Even Remmber Anymore But I Di Play Disco Elysium With [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] Yesterday "With [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]]" That Was Kinda Nice
+Played....I Dont Even Remmber Anymore But I Di Play Disco Elysium With [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Yesterday "With [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]]" That Was Kinda Nice
 Absolutely Putting Out [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] With My Enrgy Today And Its Killing [[Branches/Me\|Me]]
 
 Probably Gonna Break Down And Do The Thing Later Which I Love Doing So Yay
@@ -768,7 +768,7 @@ No 206?
 
 
 
-And [[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]] Can Get That Negative Star Removed
+And [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Can Get That Negative Star Removed
 
 ★★⚝⚝
 
@@ -1010,6 +1010,27 @@ Monos Portrait Mod
 
 My Brain is Just Static
 
+rth Retribution Part Of It Will Be Hand Delivered By Yours Truly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1072,6 +1093,10 @@ My Brain is Just Static
 
 <center><sub>Done For Now \^w^ </sub></center>
 
-![](https://i.imgur.com/0hjpdF1.png)
 
+
+
+
+
+![](https://i.imgur.com/0hjpdF1.png)
 

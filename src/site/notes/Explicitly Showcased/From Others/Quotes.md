@@ -29,7 +29,7 @@ Tobias- GE
 
 <span style="color:#90F08D">"Im Going To Go Watch Big Brother"</span>
 <span style="color:#D00009">"Do You Wanna Hear A [[Branches/Human Centipede\|Human Centipede]] Fact‽‽‽‽"</span>
-<span style="color:#90F08D">[[Explicitly Showcased/People/Special Ones/Roo/STOWAWAY SLUT (FREE)\|Roo]], <span style="color:#D00009">[[Branches/Me\|Me]]</span>
+<span style="color:#90F08D">[[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]], <span style="color:#D00009">[[Branches/Me\|Me]]</span>
 
 "you Need To Show Dominance Over Your Puppy"
 -John Mulaney

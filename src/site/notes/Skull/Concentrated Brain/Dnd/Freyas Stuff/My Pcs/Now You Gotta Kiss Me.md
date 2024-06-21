@@ -1,23 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/freyas-stuff/my-pcs/warning-shot/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/freyas-stuff/my-pcs/now-you-gotta-kiss-me/","tags":["Tagless"],"noteIcon":""}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 
-# <center><span style="color:#892102">Warning Shot</span></center>
+# <center><span style="color:#CC550D">Now You Gotta Kiss Me</span></center>
 
-When Ferventi's Adrenaline Gets Too High They Lash Out Both Physically And Emotionally, Striking Their Opponent With A Personalised Curse. The Pain Of The Curse Settling In Subsides As Their Senses Are Filled With A Manifestation Of Their Greatest Fear. It Overwhelms Them Until She Lets Them Go And The Curse Energy Drains Out.
+Having Missed Ferventi (Obviously In An Attempt To Flirt) The Attacker Is Now Infatuated With Her
 
 ----
-Reaction 
 
-Consume 3 cursed energy and perform a reaction strike pouring cursed energy into your weapon/fist on a successful hit the opponent sees the attack form into their greatest fear causing them to take 2d8 curse damage and  go into the frightened status and abandoning whatever their current motivation was
+Reverse technique:
 
-Consume a extra 1 energy every turn you wish for this effect to stay active
+Costs 2 cursed energy 
 
-If Known: At The End incapacitated, can’t move, and can speak only falteringly.
+Reaction strike (prerequisite: creature has to miss a attack on you )
 
+After a creature misses a attack you may strike back with a unarmed strike, on a hit  you charm the creature for three rounds or until you attack them, as well as this they will listen to basic commands as if under the effect of the suggestion spell 
 
 
 
