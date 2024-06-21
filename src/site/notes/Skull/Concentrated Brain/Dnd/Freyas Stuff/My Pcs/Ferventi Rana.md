@@ -13,47 +13,45 @@
 ## General
  Race:  Shadar-Kai
  Class:  Curse User 13
+	 Curse Points 26 +5 If Needed
  Alignment: Chaotic Neutral 
  Background: Bounty Hunter
 
 
 ## Stats
- ### Base
 
-| Speed | AC  | Proficiency Bonus | initiative Bonus |
-|:-----:|:---:|:-----------------:|:----------------:|
-|   5   | 17  |        +5         |        +5        |
-
-|   Hit Dice   | 13d8 | 13d8 | Saving Throws |
-|:------------:|:----:|:----:| ------------- |
-|    Health    |  52  |  52  |               |
-|   Strength   |  8   |  -1  |               |
-|  Dexterity   |  20  |  +5  | +10           |
-| Constitution |  1   |  -8  |               |
-| Inteligence  |  12  |  +1  |               |
-|    Wisdom    |  18  |  +4  |               |
-|   Charima    |  15  |  +2  |               |
+|    Speed     |  AC  | Bonus |  Initiative   |
+| :----------: | :--: | :---: | :-----------: |
+|      5       |  17  |  +5   |      +9       |
+|   Hit Dice   | 13d8 | 13d8  | Saving Throws |
+|    Health    |  52  |  52   |               |
+|   Strength   |  8   |  -1   |               |
+|  Dexterity   |  20  |  +5   |      +10      |
+| Constitution |  1   |  -8   |               |
+| Inteligence  |  12  |  +1   |               |
+|    Wisdom    |  18  |  +4   |               |
+|   Charima    |  15  |  +2   |               |
 
 | Skills          | Bonus |
-| --------------- | ----- |
-| Acrobatics      | 10    |
-| Animal Handling | 4     |
-| Arcana          | 1     |
-| Athletics       | 4     |
-| Deception       | 2     |
-| History         | 6     |
-| Insight         | 9     |
-| Intimidation    | 2     |
-| Investigation   | 6     |
-| Medicine        | 4     |
-| Nature          | 1     |
-| Perception      | 9     |
-| Performance     | 2     |
-| Persuasion      | 7     |
-| Religion        | 1     |
-| Sleight of Hand | 5     |
-| Stealth         | 5     |
-| Survival        | 4     |
+| --------------- |:-----:|
+| Acrobatics      |  10   |
+| Animal Handling |   4   |
+| Arcana          |   1   |
+| Athletics       |   4   |
+| Deception       |   2   |
+| History         |   6   |
+| Insight         |   9   |
+| Intimidation    |   2   |
+| Investigation   |   6   |
+| Medicine        |   4   |
+| Nature          |   1   |
+| Perception      |   9   |
+| Performance     |   2   |
+| Persuasion      |   7   |
+| Religion        |   1   |
+| Sleight of Hand |   5   |
+| Stealth         |   5   |
+| Survival        |   4   |
 
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
@@ -64,49 +62,27 @@
 | -------------- | ------ | --------------------- |
 | Darts (20)     | +10    | 1d4 (Piercing) +10    |
 | Unarmed Strike | +10    | 1d8 (Bludgeoning) +10 |
-| Curse Energy   | 26     |                       |
+| Curse Energy   |        |                       |
 
  ### Spells
 
 | Spell Modifier | Wisdom |
-| -------------- | ------ |
-| Spell DC       | 5      |
-| Hit Modifier   | -3     |
+|:--------------:|:------:|
+|    Spell DC    |   5    |
+|  Hit Modifier  |   -3   |
 # Inventory
 Inventory: 
 Money: 3000gp
-Chain Shirt, darts, sheild, Clothes, Explorers Kit
+Chain Shirt, darts, sheild, Clothes, a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, a waterskin, 50 feet of hempen rope, [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/1 In The Chamber\|1 In The Chamber]]
 
 # Extra
 Resistances: 
-Advantage:
-Vulnerabilities:
-Conditions:
+Advantage: Against Charm
+Vulnerabilities: not Force, Poison, Psychic, Thunder
+Conditions: Cant Be Slept
   
 
 # Proficiencies
-
-| Skills          | Bonus |
-| --------------- | ----- |
-| Acrobatics      | 10    |
-| Animal Handling | 4     |
-| Arcana          | 1     |
-| Athletics       | 4     |
-| Deception       | 2     |
-| History         | 6     |
-| Insight         | 9     |
-| Intimidation    | 2     |
-| Investigation   | 6     |
-| Medicine        | 4     |
-| Nature          | 1     |
-| Perception      | 9     |
-| Performance     | 2     |
-| Persuasion      | 7     |
-| Religion        | 1     |
-| Sleight of Hand | 5     |
-| Stealth         | 5     |
-| Survival        | 4     |
-
 		
 Armor: Shields and light armour
 Weapons: Simple ranged and melee weapons
@@ -119,17 +95,23 @@ Notes:
 [[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User Terminology/Curse User Martial Arts\|martial Arts]]
 [[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Cursed Energy\|Cursed Energy]]
 [[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Curse type\|Curse type]] 
-	[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Warning Shot\|Warning Shot]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Cursed Technique\|Cursed Technique]]: 
+	[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Warning Shot\|Warning Shot]] (reaction) 50ft 3+1
 [[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Cursed state\|curse state]] ([[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Heavenly pact\|Heavenly pact]])
-	[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Give and take\|Give And Take]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Give and take\|Give And Take]] (5×2 Free Healing)
 [[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Cursed healing\|Cursed healing]] 
 [[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Extra attack\|Extra attack]]
-[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Cursed ritual\|Cursed ritual]] 
-	[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/The Voids Embarce\|The Voids Embarce]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Cursed ritual\|Cursed ritual]] 3AC Damage Save Advantage 2
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Domain Expansion\|Domain Expansion]]: 
+		[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/The Voids Embrace\|The Voids Embrace]] (Action) 50ft 8+2
 [[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Soft as paper, sharp as steel\|Soft as paper, sharp as steel]] 
-[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Cursed movement\|Cursed movement]]
-Curse type feature 
-[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Crippled body, burning soul\|Crippled body,Burning Soul]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Cursed movement\|Cursed movement]] (Ignore)
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Improved technique\|Improved Curse Technique]]
+	[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Yoink\|Yoink]] (passive) 50+ft 2
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Reverse curse technique\|Reverse Curse Technique]]
+	[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Now You Gotta Kiss Me\|Now You Gotta Kiss Me]] (Miss, reaction Strike) 2
+	[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Quid Pro Quo\|Quid Pro Quo]] (Action) 40ft 1⁄3Damage
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/Freyas Classes/Curse User/Curse User#Broken but unbound \|Broken but unbound]] 15ft Teleport 5
 
 [[Blessing of the Raven Queen \|Blessing of the Raven Queen ]](5)
 [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Darkvision\|Darkvision]]
@@ -160,6 +142,14 @@ Why Do The Good Always Suffer When We Are Powerless Against It? Do The Gods Give
 loves Cats And Board Games, Eclipses Are Beautiful, 
 
 Hates People More Than Curses, Will Do Anything For The "Right" Reason
+
+Backstory
+Born After Their Older Brother Had Already Passed, Ferventi Grew Up Under A Lot Of Pressure To Be Perfect. Pressure That She Felt Couldnt Be Lived Up To But Had To Be Confronted Nonetheless. Her Parents Were Nice Enough, Their Mom Was A Fishmonger And Their Dad Was A Magic Circle Inspector. She Didnt Have The Most Lavish Life Growing Up But It Was Better Than Average. The Fish Business Is Still Strong But Their Father Has Retired Somewhat Recently, He Wasnt Forced To Or Anything, He Just No Longer Has The Heart To Keep Up The Inspection Business. Its Been A While Since Venti Left Home And Though The Family Arent Necessarily On Speaking Terms With Each Other There Will Still Be The Odd Letter Finding Her Every Now And Then, She Tries To Right Back But Its Hard.
+
+Its Not Like Anyhting Was Ever Perfect, They Always Felt Like They Were One Push Away From The Edge, One Insignificant Expectation Away From Losing Her Mind But That Never Happened. No, Instead The Gods Remembered That They Had Given Her A Gift. Its More Like A Consolation Prize.
+
+
+
 
 
 
