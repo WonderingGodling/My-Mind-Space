@@ -11,12 +11,12 @@
 
 
 ## General
- Race:  [[Shifter\|Shifter]]
- Class:  [[Monk\|Monk]] 1, [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Bruce/Brawler\|Brawler]] 3
+ Race:  [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Bruce/Shifter\|Shifter]]
+ Class:  [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Bruce/Monk\|Monk]] 1, [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Bruce/Brawler\|Brawler]] 3
 ​    ​‍​    ​‍Fisticuffs: 2d6
 ​    ​‍​    ​‍Style Points: 3
  Alignment: Lawful Good
- Background: [[Giant Foundling\|Giant Foundling]]
+ Background: [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Bruce/Giant Foundling\|Giant Foundling]]
 
 
 ## Stats
@@ -62,9 +62,11 @@
 | Unarmed Strike | +6     | 1d6 (Bludgeoning) +6 |
 | Darts 9        | +6     | 1d6 (Piercing) +6    |
 # Inventory
-Inventory: 
-Money: 25gp
 
+Money: 25gp
+Inventory:  Sickle, 9 darts
+2 backpacks, crowbar, hammer, 10 pitons, 10 torches, tinderbox, 10 days of rations, waterskin(Well Water), 50 feet of hempen rope, a set of traveler's clothes, playing Cards, **Headband**
+a small stone that reminds you of home, Throne Marble
 
 # Extra
 Resistances: 
@@ -75,20 +77,20 @@ Conditions:
 
 # Proficiencies
 		
-Armor: 
-Weapons: 
-Tool Proficiencies: 
-Languages: 
+Armor:  Light Armor,medium,heavy armor
+Weapons: Simple weapons, shortswords, Improvised Weapons, Whip, Derringer 
+Tools: Smith's Tools, Flute, Playing Cards
+Languages: Giant, Common, Dwarvish, Orcish
 
 # Notes: 
 
-Unarmoured Defence 
-Martial Arts
-Strike of the Giants 2/rest
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Bruce/Monk#Unarmored Defense\|Unarmoured Defence ]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Bruce/Monk#Martial Arts\|Martial Arts]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Bruce/Strike of the Giants\|Strike of the Giants]] 2/rest
 ​    ​‍​    ​‍Storm Strike, 1d6 DC10
-Blindsight
-Keen Senses
-Shifting 2/rest
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Bruce/Blindsight\|Blindsight]] 15ft
+[[Skull/Concentrated Brain/Dnd/Terminology/Keen Senses\|Keen Senses]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Bruce/Shifter#Shifting.\|Shifting]] 2/rest
 ​    ​‍​    ​‍Beasthide 1d6, +1AC
 [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Bruce/Brawler#Fisticuffs\|Fisticuffs]]
 [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Bruce/Brawler#Style\|Style]]
@@ -96,7 +98,7 @@ Shifting 2/rest
      ​‍​   [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Bruce/Brawler#Chokehold\|Chokehold]] (Grapple)
     ​‍​    [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Bruce/Brawler#Down but not out\|Down but not out]] (0hp, Strike + Prone)
 [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Bruce/Brawler#Street Smart\|Street Smart]]
-[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Bruce/Brawler#Adrenaline rush\|Adrenaline Rush]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Bruce/Brawler#Adrenaline rush\|Adrenaline Rush]] Reactioni
 [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Bruce/Brawler#Fighting style\|Fighting Style]]
     ​‍​    [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Bruce/Brawler#Street fighter\|Street Fighter]]
 [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Bruce/Brawler#Brass is better than bone\|Brass is better than bone]]
@@ -105,7 +107,10 @@ Shifting 2/rest
 Skill Expert
 
 
-
+# Characteristics 
+Wolf-Like,Seven And A Half Feet Tall, musclular, pointed ears; most shifters also have prominent canine teeth
+He Doesnt Know How He Looks, And If He Did He Wouldnt Know That Hes More Intimidating Than Other People
+Has An Unplaceable Acccent Because Giant Is His First Language
 
 
 
