@@ -68,10 +68,9 @@
 |:--------------:|:------:|
 |    Spell DC    |   5    |
 |  Hit Modifier  |   -3   |
-# Inventory
-Inventory: 
+# Inventory 
 Money: 3000gp
-Chain Shirt, darts, sheild, Clothes, a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, a waterskin, 50 feet of hempen rope, [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Venti/1 In The Chamber\|1 In The Chamber]]
+Inventory: Chain Shirt, darts, sheild, Clothes, a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, a waterskin, 50 feet of hempen rope, [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Venti/1 In The Chamber\|1 In The Chamber]]
 
 # Extra
 Resistances: 
