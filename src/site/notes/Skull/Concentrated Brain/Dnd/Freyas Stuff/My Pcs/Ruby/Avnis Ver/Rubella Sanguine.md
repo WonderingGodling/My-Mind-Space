@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/freyas-stuff/my-pcs/bruce/bruce-pain/","tags":["Tagless","Bruce"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/freyas-stuff/my-pcs/ruby/avnis-ver/rubella-sanguine/","tags":["Tagless"],"noteIcon":""}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 
-# <center><span style="color:#2A251D">Bruce Pain</span></center>
-![285d0cb5-c657-4130-b9a9-f7dacdbf0804.jpg](/img/user/images/285d0cb5-c657-4130-b9a9-f7dacdbf0804.jpg)
+# <center><span style="color:#FF0000">Rubella "Ruby" Sanguine Of Upper Avalon</span></center>
+![e81be147-672e-4096-886e-0ab9db12931d.png](/img/user/images/e81be147-672e-4096-886e-0ab9db12931d.png)
 
 
 
@@ -58,18 +58,15 @@
 
 | Attack         | To-Hit | Damage               |
 | -------------- | ------ | -------------------- |
-| Whip (10ft)    | +6     | 1d6 (Slashing)       |
-| Unarmed Strike | +6     | 1d6 (Bludgeoning) +6 |
-| Darts 9        | +6     | 1d6 (Piercing) +6    |
-
-| Sickle | +6  | 1d6 (Slashing) +6 |
-| ------ | --- | ----------------- |
+| Sickle         | +6     | 2d6 (Piercing) +6    |
+| Unarmed Strike | +6     | 2d6 (Bludgeoning) +6 |
+| Darts 9        | +6     | 2d6 (Piercing) +6    |
 # Inventory
 
-Money: 25gp, 12sp
-Inventory:  Sickle, 19 darts
+Money: 25gp
+Inventory:  Sickle, 9 darts
 2 backpacks, crowbar, hammer, 10 pitons, 10 torches, tinderbox, 10 days of rations, waterskin(Well Water), 50 feet of hempen rope, a set of traveler's clothes, playing Cards, **Headband**
-a small stone that reminds you of home, Throne Marble (Knuckles)
+a small stone that reminds you of home, Throne Marble
 
 # Extra
 Resistances: 
@@ -124,10 +121,6 @@ All Lives Should Be Assumed Precious
 the Giants, The Warmth And Rocks That Remind Him Of His Home, The Howls Of Freed Beasts
 
 Only Sees Outcasts As Trustworthy
-
-
-Calm, Methodical, likes Audiobooks
-
 
 Backstory
 Turned Blind By Parents (Because Shifter) And Discarded Into The Woods

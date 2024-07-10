@@ -38,7 +38,14 @@ But When She Doesnt Pick Up We Shouldnt Be Looking Out For Her In The First Plac
 
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important} </style>
+<div class="header">
+  <h2>Scroll Indicator</h2>
+  <div class="progress-container">
+    <div class="progress-bar" id="myBar"></div>
+  </div>
+</div>
 
+<div>content...</div>
 # <span style="color:#CD0000">Constant Comment (Not The Tea)</span>
 ![](https://i.imgur.com/O8fvfW9.png)
 
@@ -1046,9 +1053,227 @@ My Brain is Just Static
 
 rth Retribution Part Of It Will Be Hand Delivered By Yours Truly.
 
+Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Gonna Blow My Brains Out I Hate This I Hate This I Hate This I Hate This I Hatie This I Hate This I Hate This I Haite This
+<b>SIGH</b>
+
+Zen
+Ana
+Illari
+
+D.VA
+Ram
+Road
+
+Ash
+Tracer
+Sombra
+
+
+#### Proof Im Forgetful
+##### Cor
+Still Nothing From Vie So Imma Just Do That Some Other Time
+
+Cor's In Norwich
+Took A Cool Picture With A Phonebox ![](https://i.imgur.com/z89xOYt.jpeg)
+Not That Cool But Phonebox
+Not Comning Back Until Saturday But Is Free All Days After
+Been Walking 
+"Our holidays always manage to be really physically exhausting so they dont really feel like a break"
+Sent Him A Video "I 3D Printed A $1,224 Chair" By Morley Kert (I Should Watch More Of Those) 
+​​    ​‍Actually Was A Good Video; guy-- Why Am I Explaining It
+https://youtu.be/ThXu-zyltSM
+
+Also This Real Quick
+![](https://i.imgur.com/egVGTh1.jpeg)
+
+And Of Course
+![](https://i.imgur.com/ANv4WW2.jpeg)
+Its Amazing That Hes Like That Yknow
+
+Oh Yeah We Were Also Talking About
+
+Buying Road Signs
+You Can Get Custom Ones Or Just The Regular Ones And Kinda Just Put Them Wherever You Want 
+Would Be Nice Honestly But Probably More Effort Than Its Worth
+
+Currently Talking About The Boats In Norwich Canals/Rivers (norfolk broads)
+"the area we were in is mostly holiday boats though, so im not sure what the fulltime houseboats would look like"
+We Both Wish To Just Not Have To Exist In The Real World; Government, Taxes, People And All That 
+Neither Of Us Can Figure Out How To Have Free Internet Though
+
+"Timberborn is getting bugfixes for the experimental branch an average of more than once a day.
+It's really nice seeing devs actually listen to feedback and fix + improve stuff in real time in the game...
+Fun fact: The role that pings you about experimental updates in their discord is called 'Branch Taster' "
+
+I Think Corys Artificer Is Gonna Be Called "Ian Vlaim Son Of Ars" As Per My Request
+
+"Til that Volt-amps are actually different to watts. It's mostly applicable to AC where you can have current 'sloshing' between inductors, which means that the actual amount of power used by a device (i.e watts) is different to the amount of power which travels through the cables due to the device (volt-amps)"
+
+##### Roo
+Yendi Is Ugandan If That Ever Becomes Relevant
+She Asked Him Last Night While They Were Playing Overwatch (Instead Of Playing With Me And Xander)
+That Was Funny Actually Because They Wanted To Join Us Aftter We Stopped Playing (We Told Her To Fuck Off ^^)
+Then I Watched Youtube And Went To Bed At Like Two/Three So Average Night For Me (192·2024· Btw)
+
+Also Sent This To Roo; Is This Anything?
+![](https://i.imgur.com/qTnXD3b.jpeg)
+
+"do u have anything not specific you want for ur 20th?"
+"Give Me Your Heart And We'll Call It Square
+We Get Married, We Fuck, Im Gone When You Wake Up And So Are Half Your Books, Nobody Knows Whats Going On"
+"If Its Something Crazy Ask First :)"
+"hm probs wont, i wanna do somthing nice for you"
+"Do We Have The Same Definition Of Nice"
+"no we dont but it will be nice"
+"Slave Contract?"
+"if u treat me well enough"
+
+Oh Yeah Roo Called Me So Many Times On Sunday For No Reason >:(
+
+Oh And They Forgot That They Followed Me On The App They Made Me Download
+
+Oh Yeah They Did Similar On Saturday
+They Were Begging Me To Play Stardew All Day Then They Just Said "Actually Im Tired So Fuck You"
+They Even Said "in An Hour" And Gave Up Before The Hour
+
+Also Wasnt Into The.... Ill Send It
+![[VID-20240706-WA0001.mp4]]
+tOo Bug Like Apparently
+
+And Four Missed Video Calls On 186· Because I Was Out With My Wife And They Wanted To See The Dog
+They Watched Cabaret On The Same Day
+
+Wish I Could Write Way More About That Day But The Depression Is Making It A Blur
+
+Oh Yeah Roo Wants To Watch Inside Out 2
+I Said No Because Its Probably Shit
+
+"drank 2 pints of coffee and desperatly need to pee while waiting for the bus rn" Deserved Also It Was Hot And Cold Coffee Because They Cant Be Normal For One Second
+
+Bdsm Special Interest, Doesnt Know Who Theyd Feel Comfortable With, Romantic, Not Xander, He Would Kill Them
+
+When In London With Dee They Went To A Kink Shop With Monster Dildos, "Clone A Cock", Floggers, Paddles, Costumes And Masks
+
+"i wish u were here with us ♡....woulve been an awesome threesome"
+Roo And Dee Wild West Photoshoot
+
+![](https://i.imgur.com/PGXLsKZ.jpeg)
+![](https://i.imgur.com/4PR9JYr.jpeg)
+
+Oh Yeah They Made Me  Brownies That Were Pretty Good
+Gave Them To Me When We Went To See A Quiet Place Day One
+We Also Went To Paramo Lounge And I Had A Brisket Chilly Thing That Was Okay But Also A Side Of Rice Which Was Less Okay
+I Dont Remember What Roo Had But I Do Remember They Didnt Buy Snacks Afterwards
+I Also Remember We Were Suppposed To Meet Up At 11:30 But She Got There After 12 So Like :)
+
+"i Need More Tattoos"
+i am now also free in the evening
+Did You Cancel Your Lesson?
+no cancelled a friend
+Far Better
+Shouldn't Be Using That Word Anyway
+what word?
+Good Material Is Wasted On You
+I Should Just Quote Movies And Move On
+
+Oh Shit Yeah Also On A Quiet Place Day I Got A Really Good Rose Late From The Black Orange Cafe Place And I Will Definitely Get That Every Time From Now On
+Roo Had Never Seen One Before And Thought It Was Pretty
+
+Roo Should Give Me Head Frfr
+
+They Were Meant To Give Me A Tshirt And Underwear How Dare She Forget >:((
+
+Also Can Confirm That They Want To Be Broken Open
+
+Also They Did Themselves Cherry Nails Dutring London
+Also Did Dees And She Couldnt Get Them Off
+
+Also Roo Played Overwatch By Themselves
+They Made Friends Like Two/Three Games In But Thats Whatever
+
+Also She Doesnt Work On Fridays
+
+Oh Yeah
+Her Crush She Made Us Play Overwatch With
+I Dont Care Enough To Write More About That
+
+Getting Her Pussy Waxed
+Thatts Gonna Be Fun
+
+Takes Her About 30 Minutes On Average To Fill Out The Cum Sheet
+
+Random Stuff Roo Likes Doing: Tarot Readings, Crochet, Painting Nails, Doing Make Up
+
+##### Cory
+Played Stardew Valley With Him
+He Passed Out Multiple Times, Fished At One AM And Wanted To Sort Our Chests Into Green And Not Green
+
+###### Dee
 
 
 
+
+
+
+
+Dee Should Let Me Give Her Head Frfr
+
+
+
+### Back To Basics
+Accidently Almost Opened Andy And Leyley And Someone Sent Me A Screenshot On Discord
+Like The Game Didnt Open But The "Started Playing" Notification Sent
+
+Celebrated A Family Members Birthday In June
+It Was Scheduled For 1300 We Showed Up At 1500 And Prople Only Started Showing Up Like Five Minutes Later So I Guess We All Just Said "Nahh" Anyway
+
+
+# Off Topic Screenshots
+Holding Hands
+![](https://i.imgur.com/PKpwc2w.jpeg)
+![](https://i.imgur.com/bCRlnBJ.jpeg)
+
+Our Specialty
+![](https://i.imgur.com/mp0c4nW.jpeg)
+
+<b>What The Fuck Johnny!?!?! Leave Her Alone!</b>
+![](https://i.imgur.com/AlHU0Lk.jpeg)
+
+Uhhhh..... (This Screenshot Was First But I Still Love Her)
+![](https://i.imgur.com/p99WPZC.jpeg)
+
+
+:)
+![](https://i.imgur.com/AC5hSHU.jpeg)
+
+
+....No Comment :)
+![](https://i.imgur.com/nYmAH0Y.jpeg)
+
+
+Me And My Wife Vibin
+![](https://i.imgur.com/FvSdjbd.jpeg)
+
+
+Never Taking Off This Hat
+![](https://i.imgur.com/M71rFip.jpeg)
+
+
+Enter The Dungussy
+![](https://i.imgur.com/YQVe3Ga.jpeg)
+
+
+The Clawww
+![](https://i.imgur.com/IRrQGFw.jpeg)
+
+
+
+
+Reminder To Do Research On Stuffs Ive Written Down
+And Animal Facts
+And Actually Im Gonna Make A To-do List
+done
 
 
 

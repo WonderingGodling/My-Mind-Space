@@ -33,9 +33,3 @@ Also On My End Ive Got Little Icons Next To Filess And Stuff And There Isnt A Si
 Adding To This (19·2023 44.97) Its Hard To Add To This While My Mental State Is On The Move, My Mnind Has To Settle In Order For The Production To Carry Forward
 What Does This Mean? There Are Gaps In The Masterpiece, Holes Populating Within The Tapestry
 
-
-<a href="#" class="previous">&laquo; Previous</a>
-<a href="#" class="next">[[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)\|Next]] &raquo;</a>
-
-<a href="#" class="previous round">&#8249;</a>
-<a href="#" class="next round">&#8250;</a>
