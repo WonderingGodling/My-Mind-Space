@@ -10,8 +10,6 @@
     <div class="progress-bar" id="myBar"></div>
   </div>
 </div>
-
-<div>content...</div>
 # <span style="color:#CD0000">Constant Comment (Not The Tea)</span>
 ![](https://i.imgur.com/O8fvfW9.png)
 
