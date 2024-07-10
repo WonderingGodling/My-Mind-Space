@@ -2,81 +2,59 @@
 {"dg-publish":true,"permalink":"/login/","tags":["Tagless"],"noteIcon":""}
 ---
 
+<form action="action_page.php" style="border:1px solid #ccc">
+  <div class="container">
+    <h1>Sign Up</h1>
+    <p>Please fill in this form to create an account.</p>
+    <hr>
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Register</title>
-</head>
-<body>
-    <h2>Register</h2>
-    <form action="/register" method="post">
-        <label for="username">Username:</label>
-        <input type="text" id="username" name="username" required><br><br>
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" required>
 
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required><br><br>
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
 
-        <label for="password">Password:</label>
-        <input type="password" id="password" name="password" required><br><br>
+    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
 
-        <button type="submit">Register</button>
-    </form>
-</body>
-</html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
-</head>
-<body>
-    <h2>Login</h2>
-    <form action="/login" method="post">
-        <label for="username">Username:</label>
-        <input type="text" id="username" name="username" required><br><br>
+    <label>
+      <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
+    </label>
 
-        <label for="password">Password:</label>
-        <input type="password" id="password" name="password" required><br><br>
+    <p>By creating an account you agree to our <a href="#" style="color:dodgerblue">Terms & Privacy</a>.</p>
 
-        <button type="submit">Login</button>
-    </form>
-</body>
-</html>
+    <div class="clearfix">
+      <button type="button" class="cancelbtn">Cancel</button>
+      <button type="submit" class="signupbtn">Sign Up</button>
+    </div>
+  </div>
+</form>
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Track Page Views</title>
-  <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      // Function to get the page view count from local storage
-      function getPageViewCount() {
-        return parseInt(localStorage.getItem('pageViewCount')) || 0;
-      }
+<form action="action_page.php" method="post">
+  <div class="imgcontainer">
+    <img src="img_avatar2.png" alt="Avatar" class="avatar">
+  </div>
 
-      // Function to increment the page view count and update local storage
-      function incrementPageViewCount() {
-        const currentCount = getPageViewCount();
-        localStorage.setItem('pageViewCount', currentCount + 1);
-      }
+  <div class="container">
+    <label for="uname"><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" name="uname" required>
 
-      // Increment the page view count
-      incrementPageViewCount();
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
 
-      // Display the page view count
-      const countDisplay = document.getElementById('pageViewCountDisplay');
-      countDisplay.textContent = `You have viewed ${getPageViewCount()} pages on this site.`;
-    });
-  </script>
-</head>
-<body>
-  <h1></h1>
-  <p id="pageViewCountDisplay"></p>
-</body>
-</html>
+    <button type="submit">Login</button>
+    <label>
+      <input type="checkbox" checked="checked" name="remember"> Remember me
+    </label>
+  </div>
+
+  <div class="container" style="background-color:#f1f1f1">
+    <button type="button" class="cancelbtn">Cancel</button>
+    <span class="psw">Forgot <a href="#">password?</a></span>
+  </div>
+</form>
+
+
 
 <html lang="en">
 <head>
