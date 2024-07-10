@@ -11,6 +11,8 @@
 - [ ] Research On Stuffs Ive Written Down
 - [ ] Go Back Through Roo Stuff And Add It To Dee Stuff
 - [ ] Watch Helluva Boss
+- [ ] Slay The Princess Flow Chart
+- [ ] Update Everything
 
 
 
