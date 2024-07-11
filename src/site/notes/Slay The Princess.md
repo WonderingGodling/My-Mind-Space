@@ -3,10 +3,3 @@
 ---
 
 
-
-```mermaid
-flowchart TD
-Start --> Stop
-Start ---> West
-West ---> bop
-```

@@ -6,13 +6,19 @@
 
 
 - [ ] Add Edie Note
-- [ ] Add Cory Note
+- [x] Add Cory Note  [completion:: 2024-07-11]
+- [ ] Add Cow
 - [ ] Animal Facts
 - [ ] Research On Stuffs Ive Written Down
 - [ ] Go Back Through Roo Stuff And Add It To Dee Stuff
 - [ ] Watch Helluva Boss
 - [ ] Slay The Princess Flow Chart
+- [ ] Move Porn To Other Phone
+- [ ] Write Coc Character
+- [ ] Write Thunderdome Fights
+- [ ] Write Start Of Princess Quest
 - [ ] Update Everything
+
 
 
 

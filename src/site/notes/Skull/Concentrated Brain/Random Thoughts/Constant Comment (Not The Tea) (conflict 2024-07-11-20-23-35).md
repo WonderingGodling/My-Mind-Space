@@ -1,65 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"Mother","permalink":"/Mother/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"dg-permalink":"Constant Comment","permalink":"/Constant Comment/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing"],"dgShowToc":true,"noteIcon":""}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
-
-
-# <center><span style="color:#F00000">My Mother: A Failure In Three Acts Part Who Gives A Fuck (I Know She Doesnt)</span></center>
-
-Finally Snapped And Decided To Make This Shit Public Because Im Actually Fully And Completely Done With Her
-I Dont Know Why She Thinks She Deserves Any Respect From Anybody
-Case And Point: i Just Tried To Explain To Her Why She Should Listen To My Brother Instead Of Just Yelling At Him (For Stuff He Didnt Do (I Only Got To The Lsiten Part, The Rest Was Too Complicated)) And Instead Of Listen To A Word I Said She Threw A Literal Tantrum
-She Jumped Up And Down, Screaming What Started As "I Dont Want To Talk" (Those Of You With Two Brain Cells Will Remember The Only Word Id Said So Far Was "Listen") But Devolved Into Unintelligible Screeching Which Ive Never Heard From Someone Over The Age Of Eight.
-
-Dont Worry Theres So Much More For [[Branches/Me\|Me]] To Say About The Asshole So This'll Be Updated
-Also Her Names At The Top Because I Want Everyone To Know This Isnt Some Hypothetical Mother, This Is A Mentally Abusive Piece Of Shit That I Live With Every Day
-
-For The Record (My Record) This Was Created On 334,23 Which Was Supposed To Be A Good Day For [[Branches/Me\|Me]]
-
-Ive Spoken To Her Twice This Week (48,23)
-The First Time I Didnt Appreciate The Way She Villainized [[Branches/Me\|Me]] And The Second Time Was Just 
-And You Know What? I Bet She Didnt Even Fucking Notice!
-Shes Never Given A Fuck About [[Branches/Me\|Me]] And Everyone Knows It
-
-(This Next Bit Is Imported)
-She Said She Doesnt Care
-Then Changed Her Mind
-Then Was A Prick About Us Not Having Ordered Allready
-So Fuck Her She Can Have The Chicken Balti
-If We Dont Pick Up When She Calls Us Its A Crime
-But When She Doesnt Pick Up We Shouldnt Be Looking Out For Her In The First Place
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-[[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]][[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roodolf]][[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]---
-"Type:": Brain Dump
-"down:": 
-"Yesterday:": 
-"Tomorrow:": 
-"Next:": 
-"Previous:": 
-title: Constant Comment
-comments: true
-dg-show-local-graph: 
-tags:
-  - RandomThoughts
-  - BrainDump
-  - ThisMeansNothing
-aliases:
-  - Constant Commment
-  - Rambles
-  - Mega Note
-  - Thoughts
-  - I Dont Know What Im Saying
-up: "[[Branches/Random Thoughts\|Random Thoughts]]"
-dg-show-toc: true
-dg-permalink: Constant Comment
-dg-publish: true
----
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important} </style>
 
@@ -1088,8 +1030,58 @@ Sombra
 
 
 #### Proof Im Forgetful
+##### Cor
+Still Nothing From Vie So Imma Just Do That Some Other Time
 
-ETA 192·2024·8584: Gone :P
+Cor's In Norwich
+Took A Cool Picture With A Phonebox ![](https://i.imgur.com/z89xOYt.jpeg)
+Not That Cool But Phonebox
+Not Comning Back Until Saturday But Is Free All Days After
+Been Walking 
+"Our holidays always manage to be really physically exhausting so they dont really feel like a break"
+Sent Him A Video "I 3D Printed A $1,224 Chair" By Morley Kert (I Should Watch More Of Those) 
+​​    ​‍Actually Was A Good Video; guy-- Why Am I Explaining It
+https://youtu.be/ThXu-zyltSM
+
+Also This Real Quick
+![](https://i.imgur.com/egVGTh1.jpeg)
+
+And Of Course
+![](https://i.imgur.com/ANv4WW2.jpeg)
+Its Amazing That Hes Like That Yknow
+
+Oh Yeah We Were Also Talking About
+
+Buying Road Signs
+You Can Get Custom Ones Or Just The Regular Ones And Kinda Just Put Them Wherever You Want 
+Would Be Nice Honestly But Probably More Effort Than Its Worth
+
+Currently Talking About The Boats In Norwich Canals/Rivers (norfolk broads)
+"the area we were in is mostly holiday boats though, so im not sure what the fulltime houseboats would look like"
+We Both Wish To Just Not Have To Exist In The Real World; Government, Taxes, People And All That 
+Neither Of Us Can Figure Out How To Have Free Internet Though
+
+"Timberborn is getting bugfixes for the experimental branch an average of more than once a day.
+It's really nice seeing devs actually listen to feedback and fix + improve stuff in real time in the game...
+Fun fact: The role that pings you about experimental updates in their discord is called 'Branch Taster' "
+
+I Think Corys Artificer Is Gonna Be Called "Ian Vlaim Son Of Ars" As Per My Request
+
+"Til that Volt-amps are actually different to watts. It's mostly applicable to AC where you can have current 'sloshing' between inductors, which means that the actual amount of power used by a device (i.e watts) is different to the amount of power which travels through the cables due to the device (volt-amps)"
+
+Played Stardew Valley With Him
+He Passed Out Multiple Times, Fished At One AM And Wanted To Sort Our Chests Into Green And Not Green
+
+###### Dee
+
+
+
+
+
+
+
+Dee Should Let Me Give Her Head Frfr
+
 
 
 ### Back To Basics
@@ -1232,130 +1224,3 @@ done
 
 ![](https://i.imgur.com/0hjpdF1.png)
 
-
-<html>
-<body onbeforeunload="return myFunction()">
-
-<script>
-function myFunction() {
-  return "Write something clever here...";
-}
-</script>
-
-</body>
-</html>
-
-
-</div></div>
-
-
-She Woke Me Up Then Said "So Youre Just Not Coming To Church Then?"
-So I Got Up And She Shouted At Me On My Way Down The Stairs (To Be Fair To Her: She Shouted QtMe Because She Thought I Was My Brother So Thats Totally Fine Right?) 
-Then I Said "The Hostility Isnt Necessary" And She Exclaimed "Just Go Back To Sleep!"
-I May Not Understand Social Cues But I Know What "We Hate You Please Die" Means So I Went Back To Bed
-
-same day she buys food from a chip shop (Because she hasnt cooked in a week or two) And She Goes Into The Kitchen
-My Brother Comes To Get Me From My Room And When We Get Back Shes Setting Out The Food, My Brothers' In A Plate, Bread Being Buttered To Go Along With It
-The Two Of Them Have A Chat And In The Middle Of This Chat My Food (Still In The Bag Gets Thrusted Towards Me")
-So I Just Watched Her Be Nice To My Brother While Waiting For Her To Move So I Can Get A Fork
-Im Not  Saying Dont Have Favourites, I Am Saying Dont Neglect Your Child (I Still Got Food So I Know We'll Both Count It As A Win)
-
-She Thinks Shes Some Kind of Saint Or Something 
-She Put Some Random Food In The Oven Last Night For The First Time In Two Weeks And Then Said Absolutely Nothing To Me Until Today 
-"What Did She Say Hazel?"
-Okay So For A Week Or Two Ive Been Trying To Go To This One Shop I Like Because Ive Wanted To Get Some Monster In My Reserves And I Havent Had The Chance
-Yesterday (334•23) I Was Going To Leave But She Persevered In Stopping Me, Willing To Go As Far As To Reveal <b>Shes Hiding Her Own Food And Drinks In Her Fucking Office!!</b> Just Letting Me Die Of Dehydration For The Fun Of It
-Anyway I Finally Had Breathing Room At About 17 And The Shop (Which Is A While Away) Shuts At Half Five So I Couldn't Go Despite That Be The Only Thing On My Entire To-Do List For The Weekend
-All This To Say That Today (After It Stopped Raining Bullets) I Left To Go To This Mystical Shop And The Second I Close The Door I Het The Message "Whose gone out?"
-Im Not Taking That Bait So My Brother Told Her I Left And She Said "Is the kitchen clean then?"
-A) Thats Not A Prerequisite Condition, Nor Was It Ever Discussed
-2) If It Weren't Me That Left (Or Had You Been Hallucinating) Could The Kitchen Have Instead Been Put Into Further Dissaray?
-III) What The Fuck Does Any Of This Have To Do With Your Avatar-Of-The-Web, Up-In- 
-My-Business, Controlling Ass? Fuck Off And Let Me Breathe
-I Just Sent Back A WhatsApp Sticker Of Someone Killing Themself And Let Her Respond With Her Rant About How Shes Been So Nice To Me By Only Cooking Herself Food For Two Weeks And Following It Up With How The Problem Is That I Don't Clean After Myself (I Haven't Eaten In Two Weeks, All The Dirty Dishes Are Of Her Design)
-Moving Onwards A Bit To Relatively Current Events Where In She Steps Into The Kitchen, Stops Moving And Stares At Me For Twenty(Ish) Seconds - I Should Start Timing Those - Before Simultaiously Asking Me When Im Going To Clean Her Mess And Demanding I Do It Right Now
-I Didnt Take The Bait
-Wrong Answer
-After Some Verbal Abuse About Me Being Useless She Says "I Asked You A Question And I Want The Kitchen Cleaned Today", Doubling Down On Pretending I Have Free Will
-I Told Her Tomorrow 
-Wrong Answer Again But I Think Ive Avoided Most Of Her Wrath Until Tomorrow 
-I Will Be Staying Out As Late As I Can So I Dont Have To Deal With Her Shit For Longer Than Necessary, When I Get Back I Will Clean Any Of My Plates Which Are Less Than Satisfactory And Then I Shall Be Going To Bed, Because I Know She Will Not Be Providing Me With Any Necessities
-
-Not Being Able To Feel Hatred For Anyone Is Possibly The Only Thing Keeping Me Sane In This House As It Would be Easier To Hate Her And Break Shit
-
-I Came Downstairs To clean TheK8tcgen But Shes Already Done It
-So Im Gonna Cook For My Brother 
-
-
-Im Here Trying To Mind My Own Business And She Comes Down Stairs And Immediately Starts A Fight
-Shouting, Complaining Talking About How Hard Cleaning Is For Her (Not For Any reason, Shes Just a Narcissist)
-
-Shes Still Shouting
-Apparently My Bag Being Next To Me Is A Huuuuge Mess
-And The Kitchen I Haven't Cleaned Yet (Or Abandoned) Is The Worst Crime Imaginable 
-
-Shes Gonna Suffer
-And Im Gonna Laugh
-All She Does Is Care About Herself And Try To Make My Life A Misery
-So All I'll Do Is Return The Favour
-
-Im Going To Keep Going
-And I Know She Will Too
-
-Maybe Ill Start Including Every Interaction We Have
-I Mean Other Than I Was In Her Room On Saturday I Think Youre All Caught Up For The Month
-‍
-For Anyone Who Wants To See The Huge, Unforgivable Mess I Made In The Kitchen
-![[20231212_000310.jpg\|20231212_000310.jpg]]
-<sub>That Has Food In It By The Way
-I Didnt Trust My Mother To Not Let Us Starve So I Made Enough To Eat TomorrowAs Well</sub>
-
-She Has Learned About The Concept Of Food
-Unlocked: One Orange Juice
-
-Why The Fuck is She Singing
-I Cant Be Here
-I Can Hear Her In My Room
-Kill Me
-
-Shes Hiding The Kitchenware
-There Are Missing Forks And No Crockery 
-
-Ive Been Listening To Her Shouting On The Phone For Hours
-Its Stressful
-Ive Been Meaning To Leave My Room For Ages But I Dont Want To Deal With....That
-
-I Have Food Now
-Her Torturous Voice Echos Throughout The House And Comes At You From Every Conceivable Place 
-
-Theres A Scene At The End Of A Lot Of Hamtaro Episodes Where The Mother (I Dont Remember Anyones Names) Says [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] About Or Directed Towards The Daughter But Says The Wrong Name  
-Theres One Scene In Particular Thats Stuck With [[Branches/Me\|Me]] Where The Mother Addresses The Girl As "Brandy" To Which She Replies "Thats The Dog Mom...."  
-The Reason Its Always Stuck With [[Branches/Me\|Me]] Is Because Thats How I Feel Every Time I Have A Conversation With My Mother  
-I Know Shes Not Listening And That I Have - And Will Have To - Repeat Whatever I Just Said To Someone Who Ultimately Doesnt Care One Way Or The Other
-
-
-Was Talking To My Mother About Getting Skates And She Started Talking About How Theyre Hard And I Shouldn't Waste My Money And Blah Blah Blah So Ive Decided: Fuck You
-So Thats Like Two Hundred Quid Gone And I Dont Even Care If I Use Them
-
-My Rooms Cold And My Mothers All "You Probably Broke [The Radiator] I Wouldn't Be Surprised"
-Excuse Me‽ Bitch
-
-I Try Do Hard To Not Add To Thid Page; That Woman Shovels So Much Negative Energy Into My Soul
-Energy That I Dont Want To Use To Fuel My Being; Or Even To Fuel My Writing In Any Form....Yet Here We Are
-
-
-<center><sub> Why Do I Bother With Her </sub></center>
- ‍​ 
- ‍​ 
-‍​ 
-
-
-
-  ‍​ 
-
-
-  ‍​ 
-
-  ‍​ 
-
-<center><span style="color:#F00000"><sub>Over And Out  /̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿ (╥﹏╥)</sub></span></center>
