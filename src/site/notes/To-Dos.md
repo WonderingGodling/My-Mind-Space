@@ -5,7 +5,7 @@
 # <center><span style="color:#00340C">To-Dos</span></center>
 
 
-- [ ] Add Edie Note
+- [x] Add Edie Note  [completion:: 2024-07-11]
 - [x] Add Cory Note  [completion:: 2024-07-11]
 - [ ] Add Cow
 - [ ] Animal Facts
@@ -17,6 +17,7 @@
 - [ ] Write Coc Character
 - [ ] Write Thunderdome Fights
 - [ ] Write Start Of Princess Quest
+- [ ] Sub Note Everything
 - [ ] Update Everything
 
 

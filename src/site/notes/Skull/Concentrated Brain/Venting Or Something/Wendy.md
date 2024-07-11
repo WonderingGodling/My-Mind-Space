@@ -31,35 +31,11 @@ If We Dont Pick Up When She Calls Us Its A Crime
 But When She Doesnt Pick Up We Shouldnt Be Looking Out For Her In The First Place
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Constant Comment/#mother" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-[[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]][[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roodolf]][[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]---
-"Type:": Brain Dump
-"down:": 
-"Yesterday:": 
-"Tomorrow:": 
-"Next:": 
-"Previous:": 
-title: Constant Comment
-comments: true
-dg-show-local-graph: 
-tags:
-  - RandomThoughts
-  - BrainDump
-  - ThisMeansNothing
-aliases:
-  - Constant Commment
-  - Rambles
-  - Mega Note
-  - Thoughts
-  - I Dont Know What Im Saying
-up: "[[Branches/Random Thoughts\|Random Thoughts]]"
-dg-show-toc: true
-dg-permalink: Constant Comment
-dg-publish: true
----
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important} </style>
 
@@ -167,7 +143,7 @@ What Even Is "Good Food"
 
 Interesting: I Can Boot Multiple Instances Of This Application Which (Since Its Locked) Means That I Cant Close Any Instances Of It
 
-I Went Back And Added Some Stuff I Said To My [[Explicitly Showcased/People/Special Ones/Sunshine/Vie\|Vie]]
+I Went Back And Added Some Stuff I Said To My [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Moirail]]
 
 Just Diagnosed Someone With Autism And They Were Like "....Yep"
 
@@ -360,13 +336,13 @@ Im Trying To Cook But My [[Skull/Concentrated Brain/Venting Or Something/Body\|B
 
 Eating Breakfast Out Of A Mug
 
-Saw Cors Family This Morning
+Saw Cor's Family This Morning
 Bus Isnt Showing Up So Im Walking Down
 Past Them And Recognised Their Voices
 It Was Quite A Pleasant Surprise 
 
 A Pancake Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Just Fell From The Sky?
-Like Plap
+Like [[Plap.jpg|Plap!]]
 I Thought It Was Just Really Loud Bird Shit, Then Noticed It Was Too Big
 Theres Nobody Near [[Branches/Me\|Me]] To Throw It....
 
@@ -381,7 +357,7 @@ I Have Literally No Expectations Whatsoever So I Cant Really Be Let Down I Guess
 I Feel Like Utter And Complete Shit
 I Want To Drink A Monster Because That Usually Helps But Then Theres Just Gonna Be More Of....This
 
-I Think The Worst PArt About Being Raped To Death Is That while Your Name, Face And Family Are All Across The News There Will Be countless Police Officers, Investigators/Detectives, Forensics, Mortuars and So Many Other Pepole Poking Around You Insides Like; Really? This Is So Not The Time For That! I Think Id Least Want [[Branches/People\|People]] Touching My Dead [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] If The Cause Of My Death Was Someone Touching My Live [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]]
+I Think The Worst Part About Being Raped To Death Is That while Your Name, Face And Family Are All Across The News There Will Be countless Police Officers, Investigators/Detectives, Forensics, Mortuars and So Many Other Pepole Poking Around You Insides Like; Really? This Is So Not The Time For That! I Think Id Least Want [[Branches/People\|People]] Touching My Dead [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] If The Cause Of My Death Was Someone Touching My Live [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]]
 
 Theres A Chunk Of My Stuff Missing From This Page
 
@@ -412,8 +388,20 @@ If I Leave My Hair For Long Enough Therell Be An Obvious Faded Ring Of Where Has
 Im Not [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]
 Im So Not [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] But I Dont Know Why
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/explicitly-showcased/my-general-outlook-on-this/#zoochosis" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# Zoochosis
+
 It Has Come To My Attention (Via [[Branches/Me\|Me]] Telling [[Branches/Me\|Me]] What I Think Is Best For [[Branches/Me\|Me]]) That Since I Am Undergoing Zoochosis And That The Enrichment Time That I Usually Try To Provide Myself With Is A Failing Method, The Best Thing For [[Branches/Me\|Me]] To Do For My Mental Health Is To Empty The Beehive More Frequently; The Problem Isnt My Mind, It's Keeping My Mind Locked Iniside Of Itself
 This [[Explicitly Showcased/Home Page I Guess/Home Page\|Website]] Will See The Biggest Hit In Terms Of My Increase In Esoteric
+
+
+</div></div>
+
+
 
 Also Im Now A Light Player And I Think [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Is One Of The Desolation Maybe; Who Knows
 
@@ -422,10 +410,6 @@ Hhhhhhhhhhhhhhhh
 
 I Just Got Dissapointed Because I Mistakenly Thought I Spotted A Free Box Of Floor Tampons
 
-I Hung Out With Dee Today (The Light Of My Life, Beacon Of Hope And The Best Woman Since Adam Got Married) And She Is Always So Freaking Amazing!
-We Went To Spoons For Lunch Then I Kinda Just Escorted Her Through The Completion Of A Errands; She Also Let [[Branches/Me\|Me]] Borrow An Old Shirt And After All That My Whole Day Has Been Made
-Living Proof That Spiders Can Be Lovely 
-On That Topic No Clue What Aspect They Are
 
 Corys Definitely A Light Player; I Dont Know If Hes A Watcher Though; I Think Hes A Spiral Or Maybe The Web (Do Spiders Need To Manipulate <b>[[Branches/People\|People]]</b> Or Can They Have Fun With It?)
 
@@ -437,7 +421,7 @@ Its A Second Editioni Copy Publishd In 2001
 Count Bin Face Is Active Again
 
 
-I Wasnt Listening To The New Magnus PROTOCOL Episode Because I Was Freaking Over The Small Details
+I Wasnt Listening To The New [[Skull/Concentrated Brain/Media/The Magnus Protocol/The Magnnus Protocol\|MagNus Protocol]] Episode Because I Was Freaking Over The Small Details
 Technically The First Episode (I Know Two Came Out At Once)
 
 I Was Watching Hazbin Hotel But I Couldnt Find Episode Five So :)
@@ -489,7 +473,7 @@ Hes Literally Just Talking About Himself
 Hes Talking About Plants Now (Which Is His Job)
 
 The More He Speaks The Less I Value His Words
-And So I Keep Reading HOL (For Which I have Untranscribed Notes)
+And So I Keep Reading [[Skull/Concentrated Brain/House Of Leaves/HOL Mega Note\|HOL]] (For Which I have Untranscribed Notes)
 
 That Was A Waste Of Time; I'll Try To Update This As Much As Possible Though
 
@@ -528,17 +512,14 @@ The Lectures Slow, The [[Branches/People\|People]] Are Gross, The Contents Impor
 "Ugh, I Need To Bend Down Like A Peasant"
 ~Core
 
-My Mothers Trying To Tell [[Branches/Me\|Me]] That Imposter Syndrome Is When Someone Pretends To Be You 
 
 This Lecturer- Emma [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]- Has A Power Complex (Though To Be Fair Most Educators Do) But Whats Happening Is That Whenever She Notices That Someone Is Talking She Stops So That Dhe Can Stare At Them
 And It Isnt So that She Can Be Heard Properly Because There Is This Really Loud Drilling Noise Which Occasionally Comes From Behind Her And Shes Just Ignored It Every Time; I Can Only Conclude The Issue Id That The Idea Of Other [[Branches/People\|People]] Not Sacrificing The Entirety Of Their Attention Id Being Treated As A Criminal Act
 
-I Really Need to Type Stuff Up More Because Keeping It In Os Driving [[Branches/Me\|Me]] Towards Madness And The [[Branches/People\|People]] Who At Least Pretend To Care All Have Actual Things That Go On On Their Actual Lives--
+I Really Need to Type Stuff Up More Because Keeping It In Is Driving [[Branches/Me\|Me]] Towards Madness And The [[Branches/People\|People]] Who At Least Pretend To Care All Have Actual Things That Go On On Their Actual Lives--
 Also Im Thinking Of Seperating This Into Multiple Pages If It Gets Too Long; Thats A Long Way Down the Road Though So Dont Worry (Xei Said To The Zero [[Branches/People\|People]] Reading)
 Im Also Going To Put Up My Lecture Notes When I Start Making Them So Theres That To Look Forward To
 
-Oh Yeah Yesterday [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Asked [[Branches/Me\|Me]] If I Wanted To Play Overwatch And I Said Later Because I Was Tired; Later Came And I Asked Them And Got Rejected Because They Were Tired
-Thats A Fair Reason (If It Wasnt I Wouldn't Have Used It) But Its Still Kinda Rude Because Yknow <b>You</b> Asked <b>[[Branches/Me\|Me]]</b> But Its Whatever So I Didnt Say Anything
 
 On The Same Note (Knowing I'll Move The Previous Entry) I Started Playing Persona Three Reload Yesterday And Its A Great Game Which I Probably Would Have Had [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] To Say About But That Was Last Night And Im Forgetful 
 
@@ -560,7 +541,7 @@ Train Fumes Giving [[Branches/Me\|Me]] Headache
 Also Got Here In Like An Hour Which Is A Surprisingly Slow Run But Its Whatever Because I Still Have An Hour Before My Lecture 
 
 Whatd The Opposite Of Cooking Because Thats What Im Doing--
-Rotting Works Surprisingly Well For That Actually; Promonged Uncookery And Suffering 
+Rotting Works Surprisingly Well For That Actually; Prolonged Uncookery And Suffering 
 Maybe If I Was The Hunt Id Feel Better; I Can Definitely See How A Light Hunter Would Be Able To Thrive (Although Why A Light Watcher Isnt Frankly Escapes [[Branches/Me\|Me]])
 
 Every Time I See A Picture Of Myself The Best I Can Do To Describe My Attitude Towards It Is Stranger; I Feel Like When Im In An Image Or A Video The Thing That Is [[Branches/Me\|Me]] Is Wrong
@@ -582,7 +563,7 @@ If I cant Sleep Im actually Gonna Be Really Mad :)
 
 Really Enjoying This Season For Some Reason
 
-4k Zen Comp Play; 2nd Sup Comp Play In Half As Many Hours 
+4k Zen Comp Play; 2nd Supp Comp Play In Half As Many Hours 
 Going To Bed
 
 52•2024•0359 Is [[Branches/Me\|Me]] Going To Bed Early So That Im Fully Rested For Dee <s>Tomorrow</s> Today 
@@ -594,12 +575,6 @@ What The Gell Is My Tinnitus Doing Today Its Bloody Distracting
 
 Holy Hell! Today Was So Awesome!! 52•2024• 
 I Got To Hang Out With Dee Like All Day-- 
-(This App sucks (Crashed))
-Anyway Got To Hers In The Wet, That Was Sad, But I Got A Hug And Some Tea Out Of It, Then We Watched Gravity Falls While I Failed To Source Cabin In The Woods Before Switching To The Goldbergs Then To Sweeny Todd
-Dee Fell Asleep At One Point So I Took A Picture, Shes Cute (And Dhe Breathes Differently When Shes Asleep Which I Think Is Interesting) And I Love Her And Eventually [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Showed Up And We Watched Most Of Hazbin Hotel (We Didnt Finish Episode Seven)
-Also Excellent Bean Burgers 10/10
-I Could Write So Much More Because This Was Such An Awesome Day But I Wont Because Privacy And Whatnot
-However I Will Say Im Sad That I Didnt Wear Black Nails Lile I Pmanned Because Dee Did And I Got A Nice Picture Of Us Holding Hands 
 
 I Just love Dee So Much
 
@@ -624,9 +599,9 @@ Last Updated Yesterday
 Happens Every Time That I Read This
 
 
-I Haven't Really Eaten Or Drank Anything All Day And My Mothers Been Camping The Kitchen For Hours
+I Haven't Really Eaten Or Drank Anything All Day And My Mother's Been Camping The Kitchen For Hours
 
-Vies Too Busy Cleaning To Deal With [[Branches/Me\|Me]] Dx
+Vie's Too Busy Cleaning To Deal With [[Branches/Me\|Me]] Dx
 
 ![d2b89dd5b95cb7f7d56f0e9c5881477d.jpg](/img/user/images/d2b89dd5b95cb7f7d56f0e9c5881477d.jpg)
 Cool Tattoo
@@ -635,7 +610,7 @@ Eww CinemaSins Fnaf! Gonna Watch That :)
 
 "Im Pregnant"
 "Did You Just Say Youre Pregnant?!?!"
-"Well Itd Not That Bad"
+"Well Its Not That Bad"
 My Girls Got A Lil Pregnant, No Wories
 
 Eating Goldbears Like A Weirdo
@@ -659,7 +634,7 @@ thats The Dream Right Gang?
 ~Markiplier In Awe
 
 Lowkey Wanna Go Down On Someone Rn
-Need [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] To Do And Brains Like Someone Works Too ;)
+Need [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] To Do And Brains Like "Someone Works Too ;)"
 Like Its Not The Top Of My To-Do List But At The Same Time The Rest Of That List Doesnt Feel More Entertaining At The Moment
 
 Its Been A Year But I Think Ive Finally Found My Chill Room
@@ -679,6 +654,7 @@ I Found Arizona Iced Tea Across The Road From My Uni; The Real Deal And Everythi
 
 ![](https://i.imgur.com/jUiFBme.png)
 Small Shoutout To [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|My Slut]] Btw
+(ETA They Have Since Changed Their Lockscren (Unfaithful))
 
 In The Second Shazam Film Theres A Scene Where A Woman Says Shes Over Six Thousand Years Old Then Kisses A Child Which Is....Interesting
 
@@ -747,6 +723,7 @@ My Headphones Just Frog Blinked
 Anyway Its An Interesting Show, Not Very Intricate But Super Pretty (Kinda Erotic?) And The Actors And That Are Gorgeous Too I Guess
 Its Been A While Since Ive Watched A Psychopath Centred Show Whom I Dont Relate To But This Shiw Is Full Of Them And Thats Refreshing
 I Dont Have More Intricate Notes Because I <b>Was</b> Playing Cult Of The Lamb So I Wasnt Actually Able To Type But Yeah I Think I'll Be Finishing This
+(ETA 192•2024• Havent Finished)
 
 Dnd Cursed Dice TMP9 Style
 
@@ -781,8 +758,7 @@ Oh Well
 
 I Need To Write A Collective Hallucination Type Thingy 
 
-Pretty sure [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Vie]] Is Flesh, Web
-Anti Lonely 
+Pretty sure [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Vie]] Is Flesh, Lonely 
 
 
 
@@ -792,23 +768,7 @@ Dee Im Speculating Flesh Secondary?
 Anti Hunt
 
 
-#### The language of flowers
-Sappho wrote an exquisite ode to the rose; and Thomas Moore, has thus transferred to the English the burning language of the Lesbian maid :
 
-"If Jove would give the leafy bowers 
-A queen for all their world of flowers, 
-The rose would be the choice of Jove, 
-And blush the queen of every grove. 
-Sweetest child of weeping morning, 
-Gem, the breast of earth adorning, 
-Eye of flow'rets, glow of lawns. 
-Bud of beauty, nursed by dawns : 
-Soft the soul of love it breathes, 
-Cypria's brow with magic wreathes; 
-And to the Zephyr's warm caresses. 
-Diffuses all its verdant tresses, 
-Till glowing with the wanton's play, 
-It blushes a diviner ray."
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="zxx" dir="ltr"><a href="https://t.co/48mWbvaikq">pic.twitter.com/48mWbvaikq</a></p>&mdash; PANAPANA (@87sukiyaki) <a href="https://twitter.com/87sukiyaki/status/1768084345489957290?ref_src=twsrc%5Etfw">March 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> No Words Needed
 
@@ -837,16 +797,7 @@ Good Game
 "Slam!!"
 -Erin And Adal
 
-Dee Really Liked Kitkats, Her Favourite Are The Macha Ones
 
-Dee: Macha Late
-Also Likes Careot Cake
-Not A Coconut Fan
-Is Adorable 
-
-Favourite Bird Is Duck Because Ducks Feel Friendly And Hates Geese And Swans Because Opposite 
-Really Needs To Slow Down And Stop Doing So Much But She Feels Like Shes Not Doing Enough In Terms Of Socialising And Rolling In The Dough 
-I Got Info On Her Favourite Radiohead Album But Thats Gone Now :p 
 
 Dont Forget, Monkey Film Sunday
 
@@ -855,21 +806,14 @@ Really Gotta Write Stuff For The Dnd Character
 Backed Up Back Log Whatever
 Uhhh 96·2023· Did A Fun Dnd Sesh, Missed The One On 98 · But Thats Not Whats Important Here, Dnd Notes Are Available Elsewhere But The Important Thing Is I Had Fun And Freya Is A Very Good Gm
 
-97·2023· Went And Hung Out With Roo, We Met Up In Solls But My Train Was....It Wasnt Late But "on time" Was Half An Hour After I Arrived So Idk
-When We Got Together We Went To Waggas, We Both Had Terriaki Chicken Or Something I Dont Actually Remember Anymore, Im Swo Far Beghind On My Documentation
-This Is Cutting Out My Evening With Dee On Alsom 96· Which Is Ugh
+
 
 Dee Is Lovely, I Love Her, We Met Up And Had Lots Of Fun, Ill Write More In A Sec
 
-So 97· Apparently It Tookk Us Like An Hour To Eeat, Probabbly Because We Were Talking About Movies, Roo Has Good Music Takes And I Like That, It Makes Talking To Them Easy
-Sent Them The Toy Story Four Video And Hamiltion Off Braaodway
-Roo Alsso Ate Randoms, Chocolate Stars And Something Else, Crisp Thingy, During Godzilla X Kong Which Was Actually A Fun Movie To Watch
-The Cg Wasnt Horrendous, The "Titan" Scenes Were All Very Mimeesque Which I Actually Enjoyeed And Felt More Immersive, I Couldnt Really Give A Shit About The People In The Film At Any Point But That Might Just Be Me
 
-98· Me, Dee, Roo, Xander Met Up (That Was Me And Xanders 8th) And We Went To Ruberry, Frankies And Watched Monkey Man Which Was A Gorgeous Dev Patel Film ^^
 
-96· Again Real Quick, We Went To Kings Heath And Myphone Updated Twice, Dee Had Something From That Chicken Shop But I Wasnt Hungry So I Didnt Eat
-We Went To A Bookstore Ive Never Seen, Dee Found A Cool Birmingham Music Book For Her Dad, And We Chilled In The Park For A Bit Watching Ducks (I Think Ive Alreay Mentioned That Part Earlier But Whatever)
+
+
 
 # Also
 
@@ -908,8 +852,7 @@ fActs
 Look At This Guy
 
 
-My Mother Wanted To Watch A Movie Then My Brother Started A Conversation 
-When It Ended I Asked Her To Rewind And When She Did She Called My Brother Back :/
+
 
 
 I Realised That When You Write Wizard Maths To Make (Oh Yeah I Named It) The Wrighth (Like Write) Invisible You Can Write Maths By It
@@ -976,7 +919,7 @@ D
 C
 A
 
-There's A Woman At Maccies In Such A Bridesmaid Dress Its Unreal But Shes By Herself Pecking A t Fries
+
 
 
 118·2024·90 I Think The Hooodie Gave Me A Nightmare
@@ -993,17 +936,10 @@ There Has To Be A Single Digit Total Of People In My Life Who Have Apologised Fo
 
 156•• Was A Good Day
 
-Roo Can Be Drugged With Mint Chocolate Ice Cream
-
-Playing Overwatch With Roo
-They Watched Me Play 1v1 And Lose 4-5; It Was Fun Though ^^
-Hope Joined Us ^^
-Roo Doesnt Know What A Goon Cave Is; Told Her To Google It Later
-Also Roo Is She/they Now
 
 Played Comp And Thee Was A Tank Tht Did Nothing Round 1 And Then Wiped The Other Team Round Two :/
 
-Also Roo: mango Iced Tea: Not Ideal
+
 
 The Unmentionable One Officialy Hass A Kitten; Thats Going Great And Im Happy For Them
 
@@ -1036,8 +972,6 @@ If Anything Comes Up Regarding Wednesday 164·2024· Then We Can Assume That Was
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/OBzZ0jb" data-context="false" ><a href="//imgur.com/a/OBzZ0jb">mood</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
-Dnd Ideas Cooking
-The World Will Collapse Around RoovAnd I Feel No Remorse
 
 Im Actively Existing And I Hate It
 Why Is Everything?
@@ -1342,6 +1276,11 @@ Excuse Me‽ Bitch
 
 I Try Do Hard To Not Add To Thid Page; That Woman Shovels So Much Negative Energy Into My Soul
 Energy That I Dont Want To Use To Fuel My Being; Or Even To Fuel My Writing In Any Form....Yet Here We Are
+
+My Mothers Trying To Tell [[Branches/Me\|Me]] That Imposter Syndrome Is When Someone Pretends To Be You 
+
+My Mother Wanted To Watch A Movie Then My Brother Started A Conversation 
+When It Ended I Asked Her To Rewind And When She Did She Called My Brother Back :/
 
 
 <center><sub> Why Do I Bother With Her </sub></center>

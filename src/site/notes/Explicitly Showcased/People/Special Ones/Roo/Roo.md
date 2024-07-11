@@ -6,9 +6,11 @@
 
 ![il_fullxfull.3946262024_53gi.jpg](/img/user/images/il_fullxfull.3946262024_53gi.jpg)
 # <center><span style="color:#40E0D0">Roo!</span></center>
-
 ![WhatsApp Image 2024-04-14 at 18.43.54.jpeg](/img/user/images/WhatsApp%20Image%202024-04-14%20at%2018.43.54.jpeg)
 Look At This Nerd There Isnt A Lot I Want To Say At The Moment But As Annoying As You Are, You Still Deserve Your Own Page
+
+Putting This Here:
+Heart Player; Desolation, Spider
 
 Us
 ![](https://i.imgur.com/iG6akBg.png)
@@ -197,6 +199,32 @@ Thatts Gonna Be Fun
 Takes Her About 30 Minutes On Average To Fill Out The Cum Sheet
 
 Random Stuff Roo Likes Doing: Tarot Readings, Crochet, Painting Nails, Doing Make Up
+
+Oh Yeah Yesterday [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Asked [[Branches/Me\|Me]] If I Wanted To Play Overwatch And I Said Later Because I Was Tired; Later Came And I Asked Them And Got Rejected Because They Were Tired
+Thats A Fair Reason (If It Wasnt I Wouldn't Have Used It) But Its Still Kinda Rude Because Yknow <b>You</b> Asked <b>[[Branches/Me\|Me]]</b> But Its Whatever So I Didnt Say Anything
+
+97·2023· Went And Hung Out With Roo , We Met Up In Solls But My Train Was....It Wasnt Late But "on time" Was Half An Hour After I Arrived So Idk
+When We Got Together We Went To Waggas, We Both Had Terriaki Chicken Or Something I Dont Actually Remember Anymore, Im Swo Far Beghind On My Documentation
+This Is Cutting Out My Evening With Dee On Alsom 96· Which Is Ugh
+
+So 97· Apparently It Tookk Us Like An Hour To Eeat, Probabbly Because We Were Talking About Movies, Roo Has Good Music Takes And I Like That, It Makes Talking To Them Easy
+Sent Them The Toy Story Four Video And Hamiltion Off Braaodway
+Roo Alsso Ate Randoms, Chocolate Stars And Something Else, Crisp Thingy, During Godzilla X Kong Which Was Actually A Fun Movie To Watch
+The Cg Wasnt Horrendous, The "Titan" Scenes Were All Very Mimeesque Which I Actually Enjoyeed And Felt More Immersive, I Couldnt Really Give A Shit About The People In The Film At Any Point But That Might Just Be Me
+
+
+98· Me, Dee, Roo, Xander Met Up (That Was Me And Xanders 8th) And We Went To Ruberry, Frankies And Watched Monkey Man Which Was A Gorgeous Dev Patel Film ^^
+
+
+Roo Can Be Drugged With Mint Chocolate Ice Cream
+
+Playing Overwatch With Roo
+They Watched Me Play 1v1 And Lose 4-5; It Was Fun Though ^^
+Hope Joined Us ^^
+Roo Doesnt Know What A Goon Cave Is; Told Her To Google It Later
+Also Roo Is She/they Now
+
+Also Roo: mango Iced Tea: Not Ideal
 
 ★
 ☆

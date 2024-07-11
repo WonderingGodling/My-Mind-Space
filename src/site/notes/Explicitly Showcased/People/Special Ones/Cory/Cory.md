@@ -7,6 +7,7 @@
 
 # <center><span style="color:#000000"></span></center>
 
+Light; 
 
 ##### Cor
 Still Nothing From Vie So Imma Just Do That Some Other Time
@@ -51,6 +52,8 @@ I Think Corys Artificer Is Gonna Be Called "Ian Vlaim Son Of Ars" As Per My Requ
 ##### Cory
 Played Stardew Valley With Him
 He Passed Out Multiple Times, Fished At One AM And Wanted To Sort Our Chests Into Green And Not Green
+
+Corys Definitely A Light Player; I Dont Know If Hes A Watcher Though; I Think Hes A Spiral Or Maybe The Web (Do Spiders Need To Manipulate <b>[[Branches/People\|People]]</b> Or Can They Have Fun With It?)
 
 
 

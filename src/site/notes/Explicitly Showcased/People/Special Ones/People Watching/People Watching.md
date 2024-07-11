@@ -37,6 +37,8 @@ I Dont Think Either Of Those Two Washed Their Hands
 
 I Never Mentioned That One Guy In My Maths Lecture Whi Was Dipping His Lilipop Into His Coffee
 
+There's A Woman At Maccies In Such A Bridesmaid Dress Its Unreal But Shes By Herself Pecking A t Fries
+
 
 
 

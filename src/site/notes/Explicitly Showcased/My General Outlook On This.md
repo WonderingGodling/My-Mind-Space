@@ -29,6 +29,11 @@ Oh And Also There Are Some Note Links That Exist But Lead Nowhere
 Thats Because I Dont Want To Publish Everything Online (Story Idea Spoilers, Backend Connecters And Other Stuff) So Those Might Just Stay Broken
 Also On My End Ive Got Little Icons Next To Filess And Stuff And There Isnt A Simple Way To Treansfer Those To The [[Explicitly Showcased/Home Page I Guess/Home Page\|Website]] Which Is A Pain In The Ass
 
+# Zoochosis
+
+It Has Come To My Attention (Via [[Branches/Me\|Me]] Telling [[Branches/Me\|Me]] What I Think Is Best For [[Branches/Me\|Me]]) That Since I Am Undergoing Zoochosis And That The Enrichment Time That I Usually Try To Provide Myself With Is A Failing Method, The Best Thing For [[Branches/Me\|Me]] To Do For My Mental Health Is To Empty The Beehive More Frequently; The Problem Isnt My Mind, It's Keeping My Mind Locked Iniside Of Itself
+This [[Explicitly Showcased/Home Page I Guess/Home Page\|Website]] Will See The Biggest Hit In Terms Of My Increase In Esoteric
+
 # Mid Zoochosis
 Adding To This (19·2023 44.97) Its Hard To Add To This While My Mental State Is On The Move, My Mnind Has To Settle In Order For The Production To Carry Forward
 What Does This Mean? There Are Gaps In The Masterpiece, Holes Populating Within The Tapestry
