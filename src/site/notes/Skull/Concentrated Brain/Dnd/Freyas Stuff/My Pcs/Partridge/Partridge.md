@@ -94,17 +94,15 @@ Languages: Common, Abyssal, Elvish,
 
 Notes: 
 
-Superior Darkvision
-Dwarven Resilience
-Duergar Resilience
-Dwarven Combat Training
-Stonecunning
-Duergar Magic (3rd Lvl)
-Sunlight Sensitivity
-Sunlight Sensitivity
-Heart of Darkness
-Reaper
-
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Partridge/Superior Darkvision\|Superior Darkvision]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Partridge/Dwarven Resilience\|Dwarven Resilience]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Partridge/Duergar Resilience\|Duergar Resilience]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Partridge/Dwarven Combat Training\|Dwarven Combat Training]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Partridge/Stonecutting\|Stonecutting]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Partridge/Duergar Magic\|Duergar Magic]] (3rd Lvl)
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Partridge/Sunlight Sensitivity\|Sunlight Sensitivity]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Partridge/Heart of Darkness\|Heart of Darkness]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Partridge/Reaper\|Reaper]]
 
 # Backstory
 
