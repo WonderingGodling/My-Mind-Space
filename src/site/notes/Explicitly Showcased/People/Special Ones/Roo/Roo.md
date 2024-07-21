@@ -243,7 +243,7 @@ As Part Of Worshipping Me Theyd Also Need To Masturbate In A New Location Every 
 However Much The Dildo Costs They Would Need To Cum Twice As Much By The End Of The Year Or Pay The Rest Back (Not Including Standard Shipping)
 Assuming Twice A Day This Gives Them A Current Budget Of £163
 
-If They Dont Find This By September I Will Hint Towards Reading This
+If They Dont Find This By Nex I Will Hint Towards Reading This
 
 
 
