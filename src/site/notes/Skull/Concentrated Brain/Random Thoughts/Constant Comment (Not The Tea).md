@@ -1085,6 +1085,10 @@ I Haven't Talked To Vie In Over A Week And Its Actually Killing Me And I Cant Ta
 I Haven't Been Able To Write Anything Because All Im Thinking All Day Is "Aaaaaaaaaaahhhhhhhhhhhhhhhh!!!!!!!!!!!!!!" And I Just Want To Stop Existing Or At The Very Least Stop Functioning But My Worthless Body cant Even Figure Out How To Cry Which Is Step Two Of Being Depressed, Overwhelming Self Hatred And Hoping For Your Own Doom Is Usually Much Later For Normal People (Not That If Be Faliliar With That)
 This Week Ive Tried Going On Walks And Skating And Watching Movies  And Tv Shows And Social Media And Pornography And Books And Podcast And Hanging Out With Friends And Doing Nothing Each For Literal Hours At A Time Hoping That Maybe If Im Absorbed Enough In It The Dull Sense That My Interacting With The World I Slowly Making It Worse Will Fade Into The Background But Theres No such Thing As Relief I Guess
 
+Just Scrolled Up
+Last Update Was About 192, Its 208 Now
+Between Then I Have Talked At My Phone And Made A To-Do List I Have Not Revisited Once
+
 
 
 
