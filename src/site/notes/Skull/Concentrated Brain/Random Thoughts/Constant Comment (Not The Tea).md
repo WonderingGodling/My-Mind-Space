@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Constant Comment","permalink":"/Constant Comment/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless"],"dgShowToc":true,"noteIcon":""}
+{"dg-publish":true,"dg-permalink":"Constant Comment","permalink":"/Constant Comment/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true,"noteIcon":""}
 ---
 
 
@@ -999,6 +999,8 @@ Like The Game Didnt Open But The "Started Playing" Notification Sent
 Celebrated A Family Members Birthday In June
 It Was Scheduled For 1300 We Showed Up At 1500 And Prople Only Started Showing Up Like Five Minutes Later So I Guess We All Just Said "Nahh" Anyway
 
+Tomatoes Are Nightshades
+I Wonder If You Can Reverse Cultivate  Them
 
 # Off Topic Screenshots
 Holding Hands
@@ -1047,6 +1049,42 @@ Reminder To Do Research On Stuffs Ive Written Down
 And Animal Facts
 And Actually Im Gonna Make A To-do List
 done
+
+O k, this is a test to see if I'll be able to talk OKI really do hate this thing to see if I'll be able to talk during a dog stream, see if it picks up my words or wealth of our words or what. 
+OK Google Voice typing its broken so I have to use the shitty. Samsung one pets find it. Put a. In the sentence. It's correcting the word shitty but it took its time doing it block the flight and its corrected shit again. Turn it keep and it's changed to fuck.  Competence what is a wrong visit fucking
+
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+Response Douglas, I said douglas douglas. Not Dublin sonic, do a waste word. Does the game called see if mutation that came out today, it doesn't look Bad. I don't know if it looks good. I'll add it to a wish list so I don't need this track of it. I need to follow a bunch of games on here. Good Morning.
+
+I Haven't Talked To Vie In Over A Week And Its Actually Killing Me And I Cant Talk To Anyone About It Because Best Case Scenario Literally Gets Me Nowhere And Worse Case Scenario Probably Gets Me Starved To Death
+I Haven't Been Able To Write Anything Because All Im Thinking All Day Is "Aaaaaaaaaaahhhhhhhhhhhhhhhh!!!!!!!!!!!!!!" And I Just Want To Stop Existing Or At The Very Least Stop Functioning But My Worthless Body cant Even Figure Out How To Cry Which Is Step Two Of Being Depressed, Overwhelming Self Hatred And Hoping For Your Own Doom Is Usually Much Later For Normal People (Not That If Be Faliliar With That)
+This Week Ive Tried Going On Walks And Skating And Watching Movies  And Tv Shows And Social Media And Pornography And Books And Podcast And Hanging Out With Friends And Doing Nothing Each For Literal Hours At A Time Hoping That Maybe If Im Absorbed Enough In It The Dull Sense That My Interacting With The World I Slowly Making It Worse Will Fade Into The Background But Theres No such Thing As Relief I Guess
+
 
 
 
