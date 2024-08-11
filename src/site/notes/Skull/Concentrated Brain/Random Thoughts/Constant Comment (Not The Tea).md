@@ -1128,7 +1128,7 @@ I Liked It But She Said She Had Some Complaints Which Is Fair Because I Dont Kbn
 Im Weirdly Out Of Fucks
 I Have A Bunch Of Stuff I Want To Do But Theres None Of It That I Want To Do
 
-So she was turned away
+<center>So she was turned away
 To hide her face, her lips, her guilt among the trees,
 Even their leaves, to haunt caves of the forest,
 To feed her love on melancholy sorow
@@ -1138,7 +1138,7 @@ Then bones which some say turned to thin-worn rocks;
 And last her voice remained.
 Vanished in forest,
 Far from her usual walks on hills and valleys,
-She's heard by all who call; her voice has life. 
+She's heard by all who call; her voice has life. </center>
 The Metamorphoses by
 Ovid. p. 97.
 
