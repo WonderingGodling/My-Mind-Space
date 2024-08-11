@@ -308,7 +308,7 @@ Past Them And Recognised Their Voices
 It Was Quite A Pleasant Surprise 
 
 A Pancake Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Just Fell From The Sky?
-Like [[Plap.jpg|Plap!]]
+Like [[Plap.jpg\|Plap!]]
 I Thought It Was Just Really Loud Bird Shit, Then Noticed It Was Too Big
 Theres Nobody Near [[Branches/Me\|Me]] To Throw It....
 
@@ -1088,6 +1088,61 @@ This Week Ive Tried Going On Walks And Skating And Watching Movies  And Tv Shows
 Just Scrolled Up
 Last Update Was About 192, Its 208 Now
 Between Then I Have Talked At My Phone And Made A To-Do List I Have Not Revisited Once
+
+
+## Stardew Jammables
+### Spring
+Strawberry
+kAle
+Rhubarb
+Cauliflower
+### Summer
+Starfruit
+Hops
+Red Cabbage
+Melon
+Radish
+Pineapple
+Tarot Root
+### Fall
+Pumpkin
+GRape
+Artichoke
+Beet
+Amoranth
+Yam
+Cranberry
+
+There Are Many Pages Here Which Are Intended To Actually Be Completely Empty
+This Is The Longest Of Those
+
+Dnd Food Item: Maybe Bell
+
+I Really Need To Get Back On This
+Also The Loom Bands I Put On My Thing- Pet, Are Breaking
+Played Overwatch With Cow; It Was Fun Got A Couple Potgs And She Enjoyed Themself So All Is Good
+
+Also Got A Lineart Update From Lilith
+I Liked It But She Said She Had Some Complaints Which Is Fair Because I Dont Kbnow How To Art
+
+Im Weirdly Out Of Fucks
+I Have A Bunch Of Stuff I Want To Do But Theres None Of It That I Want To Do
+
+So she was turned away
+To hide her face, her lips, her guilt among the trees,
+Even their leaves, to haunt caves of the forest,
+To feed her love on melancholy sorow
+Which, sleepless, turned her body to a shade, 
+First pale and wrinkled, then a sheet of air,
+Then bones which some say turned to thin-worn rocks; 
+And last her voice remained.
+Vanished in forest,
+Far from her usual walks on hills and valleys,
+She's heard by all who call; her voice has life. 
+The Metamorphoses by
+Ovid. p. 97.
+
+
 
 
 
