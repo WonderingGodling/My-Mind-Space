@@ -12,7 +12,8 @@
 
 ## General
  Race:  Changeling
- Class:  Soulknife 3
+ Class:  [[Rogue\|Rogue]] 3
+​    ​‍​    ​‍​    ​‍​    [[​‍Soulknife\|​‍Soulknife]] 
  Alignment: True Neutral
  Background: Entertainer
 
@@ -58,12 +59,13 @@
 | ------------------ | ------ | ------------- |
 | Soulknife (60ft)   | +5     | 1d6+5 Psychic |
 | Soulknife 2 (60ft) | +5     | 1d4+5 Psychic |
+
 spell save DC: 13
-Dissonant Whispers, Misty Step
+[[Dissonant Whispers\|Dissonant Whispers]], [[Misty Step\|Misty Step]]
 # Inventory
 
 Money: 50gp
-Inventory:  Flute, a costume, Coiling Grasp Tattoo, Leather armor, thieves' tools
+Inventory:  Flute, a costume, [[Coiling Grasp Tattoo\|Coiling Grasp Tattoo]], Leather armor, thieves' tools
 
 backpack,, bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, a waterskin, 50 feet of hempen rope
 
@@ -85,17 +87,17 @@ Languages: Common, Elvish, Thieves' Cant
 
 
 # Notes: 
-Shapechanger
-Unsettling Visage
-Divergent Persona
+[[Shapechanger\|Shapechanger]]
+[[Unsettling Visage\|Unsettling Visage]]
+[[Divergent Persona\|Divergent Persona]]
 
-Expertise
-Sneak Attack
-Thieves' Cant
-Cunning Action
-Psionic Power
-Psychic Blades
+[[Expertise\|Expertise]]
+[[Sneak Attack\|Sneak Attack]]
+[[Thieves' Cant\|Thieves' Cant]]
+[[Cunning Action\|Cunning Action]]
+[[Psionic Power\|Psionic Power]]
+[[Psychic Blades\|Psychic Blades]]
 
-Fey Touched
+[[Fey Touched\|Fey Touched]]
 
 # Characteristics 
