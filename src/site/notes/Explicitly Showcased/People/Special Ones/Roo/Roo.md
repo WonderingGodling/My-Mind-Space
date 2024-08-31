@@ -133,7 +133,7 @@ They Were Begging Me To Play Stardew All Day Then They Just Said "Actually Im Ti
 They Even Said "in An Hour" And Gave Up Before The Hour
 
 Also Wasnt Into The.... Ill Send It
-![[VID-20240706-WA0001.mp4]]
+![[VID-20240706-WA0001.mp4\|VID-20240706-WA0001.mp4]]
 tOo Bug Like Apparently
 
 And Four Missed Video Calls On 186· Because I Was Out With My Wife And They Wanted To See The Dog
@@ -243,7 +243,7 @@ As Part Of Worshipping Me Theyd Also Need To Masturbate In A New Location Every 
 However Much The Dildo Costs They Would Need To Cum Twice As Much By The End Of The Year Or Pay The Rest Back (Not Including Standard Shipping)
 Assuming Twice A Day This Gives Them A Current Budget Of £163
 
-If They Dont Find This By Nex I Will Hint Towards Reading This
+If They Dont Find This By Next Month I Will Hint Towards Reading This
 
 
 

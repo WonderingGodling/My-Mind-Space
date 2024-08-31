@@ -26,7 +26,7 @@ Drew Their Swords And Shot Each Other
 A Deaf Policeman Heard The Noise 
 And Ran Up To Save The Two Dead Boys
 
-A Pasrylised Donkey Passing By
+A Paralysed Donkey Passing By
 Kicked The Blind Man In The Eye
 He Crashed Through A Wall Not Making A Sound
 Fell In A Dry Ditch And Promptly Drowned

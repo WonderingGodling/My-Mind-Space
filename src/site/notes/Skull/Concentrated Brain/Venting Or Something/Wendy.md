@@ -342,7 +342,7 @@ Past Them And Recognised Their Voices
 It Was Quite A Pleasant Surprise 
 
 A Pancake Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Just Fell From The Sky?
-Like [[Plap.jpg|Plap!]]
+Like [[Plap.jpg\|Plap!]]
 I Thought It Was Just Really Loud Bird Shit, Then Noticed It Was Too Big
 Theres Nobody Near [[Branches/Me\|Me]] To Throw It....
 
@@ -1033,6 +1033,8 @@ Like The Game Didnt Open But The "Started Playing" Notification Sent
 Celebrated A Family Members Birthday In June
 It Was Scheduled For 1300 We Showed Up At 1500 And Prople Only Started Showing Up Like Five Minutes Later So I Guess We All Just Said "Nahh" Anyway
 
+Tomatoes Are Nightshades
+I Wonder If You Can Reverse Cultivate  Them
 
 # Off Topic Screenshots
 Holding Hands
@@ -1082,27 +1084,104 @@ And Animal Facts
 And Actually Im Gonna Make A To-do List
 done
 
+O k, this is a test to see if I'll be able to talk OKI really do hate this thing to see if I'll be able to talk during a dog stream, see if it picks up my words or wealth of our words or what. 
+OK Google Voice typing its broken so I have to use the shitty. Samsung one pets find it. Put a. In the sentence. It's correcting the word shitty but it took its time doing it block the flight and its corrected shit again. Turn it keep and it's changed to fuck.  Competence what is a wrong visit fucking
+
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
+Response Douglas, I said douglas douglas. Not Dublin sonic, do a waste word. Does the game called see if mutation that came out today, it doesn't look Bad. I don't know if it looks good. I'll add it to a wish list so I don't need this track of it. I need to follow a bunch of games on here. Good Morning.
+
+I Haven't Talked To Vie In Over A Week And Its Actually Killing Me And I Cant Talk To Anyone About It Because Best Case Scenario Literally Gets Me Nowhere And Worse Case Scenario Probably Gets Me Starved To Death
+I Haven't Been Able To Write Anything Because All Im Thinking All Day Is "Aaaaaaaaaaahhhhhhhhhhhhhhhh!!!!!!!!!!!!!!" And I Just Want To Stop Existing Or At The Very Least Stop Functioning But My Worthless Body cant Even Figure Out How To Cry Which Is Step Two Of Being Depressed, Overwhelming Self Hatred And Hoping For Your Own Doom Is Usually Much Later For Normal People (Not That If Be Faliliar With That)
+This Week Ive Tried Going On Walks And Skating And Watching Movies  And Tv Shows And Social Media And Pornography And Books And Podcast And Hanging Out With Friends And Doing Nothing Each For Literal Hours At A Time Hoping That Maybe If Im Absorbed Enough In It The Dull Sense That My Interacting With The World I Slowly Making It Worse Will Fade Into The Background But Theres No such Thing As Relief I Guess
+
+Just Scrolled Up
+Last Update Was About 192, Its 208 Now
+Between Then I Have Talked At My Phone And Made A To-Do List I Have Not Revisited Once
 
 
+## Stardew Jammables
+### Spring
+Strawberry
+kAle
+Rhubarb
+Cauliflower
+### Summer
+Starfruit
+Hops
+Red Cabbage
+Melon
+Radish
+Pineapple
+Tarot Root
+### Fall
+Pumpkin
+GRape
+Artichoke
+Beet
+Amoranth
+Yam
+Cranberry
+
+There Are Many Pages Here Which Are Intended To Actually Be Completely Empty
+This Is The Longest Of Those
+
+Dnd Food Item: Maybe Bell
+
+I Really Need To Get Back On This
+Also The Loom Bands I Put On My Thing- Pet, Are Breaking
+Played Overwatch With Cow; It Was Fun Got A Couple Potgs And She Enjoyed Themself So All Is Good
+
+Also Got A Lineart Update From Lilith
+I Liked It But She Said She Had Some Complaints Which Is Fair Because I Dont Kbnow How To Art
+
+Im Weirdly Out Of Fucks
+I Have A Bunch Of Stuff I Want To Do But Theres None Of It That I Want To Do
+
+So she was turned away
+To hide her face, her lips, her guilt among the trees,
+Even their leaves, to haunt caves of the forest,
+To feed her love on melancholy sorow
+Which, sleepless, turned her body to a shade, 
+First pale and wrinkled, then a sheet of air,
+Then bones which some say turned to thin-worn rocks; 
+And last her voice remained.
+Vanished in forest,
+Far from her usual walks on hills and valleys,
+She's heard by all who call; her voice has life.
+The Metamorphoses by
+Ovid. p. 97.
 
 
+Thats All I Remember From That One
+I Will Be Moving This Once I Know My Cows Seen It 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+I Really Need To Sit Down And Update this
 
 
 
