@@ -61,11 +61,11 @@
 | Soulknife 2 (60ft) | +5     | 1d4+5 Psychic |
 
 spell save DC: 13
-[[Dissonant Whispers\|Dissonant Whispers]], [[Misty Step\|Misty Step]]
+[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Dissonant Whispers\|Dissonant Whispers]], [[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Misty Step\|Misty Step]]
 # Inventory
 
 Money: 50gp
-Inventory:  Flute, a costume, [[Coiling Grasp Tattoo\|Coiling Grasp Tattoo]], Leather armor, thieves' tools
+Inventory:  Flute, a costume, [[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Coiling Grasp Tattoo\|Coiling Grasp Tattoo]], Leather armor, thieves' tools
 
 backpack,, bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, a waterskin, 50 feet of hempen rope
 
@@ -87,17 +87,17 @@ Languages: Common, Elvish, Thieves' Cant
 
 
 # Notes: 
-[[Shapechanger\|Shapechanger]]
-[[Unsettling Visage\|Unsettling Visage]]
-[[Divergent Persona\|Divergent Persona]]
+[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Shapechanger\|Shapechanger]]
+[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Unsettling Visage\|Unsettling Visage]]
+[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Divergent Persona\|Divergent Persona]]
 
-[[Expertise\|Expertise]]
-[[Sneak Attack\|Sneak Attack]]
-[[Thieves' Cant\|Thieves' Cant]]
-[[Cunning Action\|Cunning Action]]
-[[Psionic Power\|Psionic Power]]
-[[Psychic Blades\|Psychic Blades]]
+[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Expertise\|Expertise]]
+[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Sneak Attack\|Sneak Attack]]
+[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Thieves' Cant\|Thieves' Cant]]
+[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Cunning Action\|Cunning Action]]
+[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Psionic Power\|Psionic Power]]
+[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Psychic Blades\|Psychic Blades]]
 
-[[Fey Touched\|Fey Touched]]
+[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Fey Touched\|Fey Touched]]
 
 # Characteristics 
