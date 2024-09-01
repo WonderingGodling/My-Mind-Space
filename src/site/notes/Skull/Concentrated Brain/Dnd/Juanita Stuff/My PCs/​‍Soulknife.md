@@ -38,7 +38,8 @@ The powers below use your Psionic Energy dice.
 The first time you use this power after each long rest, you don't expend the Psionic Energy die. All other times you use the power, you expend the die.
 
 </div></div>
-
+ 
+Psionic Power
 
 
 ### 
