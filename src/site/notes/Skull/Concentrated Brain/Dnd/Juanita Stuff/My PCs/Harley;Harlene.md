@@ -12,8 +12,8 @@
 
 ## General
  Race:  Changeling
- Class:  [[Rogue\|Rogue]] 3
-​    ​‍​    ​‍​    ​‍​    [[​‍Soulknife\|​‍Soulknife]] 
+ Class:  [[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Rogue\|Rogue]] 3
+​    ​‍​    ​‍​    ​‍​    [[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/​‍Soulknife\|​‍Soulknife]] 
  Alignment: True Neutral
  Background: Entertainer
 
