@@ -34,21 +34,16 @@
 
 | Skills                | Bonus | Skills                | Bonus |
 | --------------------- | :---: | --------------------- | :---: |
-| Acrobatics (Dex)      |   7   | Medicine (Wis)        |   1   |
-| Animal Handling (Wis) |   1   | Nature (Int)          |   0   |
+| Acrobatics (Dex)      |   7   | Investigation (Int)   |   0   |
+| Animal Handling (Wis) |   1   | Medicine (Wis)        |   1   |
 | Arcana (Int)          |   0   | Perception (Wis)      |   1   |
 | Athletics (Str)       |  -1   | Performance (Char)    |   5   |
 | Deception (Char)      |   5   | Persuasion (Char)     |   5   |
-| History (Int)         |   0   | Religion (Int)        |   0   |
-| Insight (Wis)         |   3   | Sleight of Hand (Dex) |   5   |
-| Intimidation (Char)   |   3   | Stealth (Dex)         |   5   |
-| Investigation (Int)   |   0   | Survival (Wis)        |   1   |
-| History (Int)         |   0   | Sleight of Hand (Dex) |   3   |
-| Insight (Wis)         |   1   | Stealth (Dex)         |   3   |
-| Intimidation (Char)   |   7   | Strategy (Int)        |   0   |
-| Investigation (Int)   |   0   | Street Smarts (Wis)   |   1   |
-| Lifting (Str)         |  -1   | Survival (Wis)        |   1   |
-| Medicine (Wis)        |   1   | Trivia (Int)          |   0   |
+| Investigation (Int)   |   0   | Religion (Int)        |   0   |
+| History (Int)         |   0   | Sleight of Hand (Dex) |   5   |
+| Insight (Wis)         |   1   | Stealth (Dex)         |   5   |
+| Intimidation (Char)   |   7   | Survival (Wis)        |   1   |
+
 
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
@@ -67,7 +62,7 @@ spell save DC: 13
 Money: 50gp
 Inventory:  Flute, a costume, [[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Coiling Grasp Tattoo\|Coiling Grasp Tattoo]], Leather armor, thieves' tools
 
-backpack,, bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, a waterskin, 50 feet of hempen rope
+backpack,, bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, a waterskin, 50 feet of hempen rope, Blanket, Mirrror
 
 # Extra
 Resistances: 
