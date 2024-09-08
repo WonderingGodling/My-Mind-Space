@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/juanita-stuff/my-p-cs/harley-harlene/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/juanita-stuff/my-p-cs/harley-harlene/","title":"Harley/Harlene","tags":["Tagless"],"noteIcon":""}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -36,13 +36,15 @@
 | --------------------- | :---: | --------------------- | :---: |
 | Acrobatics (Dex)      |   7   | Investigation (Int)   |   0   |
 | Animal Handling (Wis) |   1   | Medicine (Wis)        |   1   |
-| Arcana (Int)          |   0   | Perception (Wis)      |   1   |
-| Athletics (Str)       |  -1   | Performance (Char)    |   5   |
-| Deception (Char)      |   5   | Persuasion (Char)     |   5   |
-| Investigation (Int)   |   0   | Religion (Int)        |   0   |
-| History (Int)         |   0   | Sleight of Hand (Dex) |   5   |
-| Insight (Wis)         |   1   | Stealth (Dex)         |   5   |
-| Intimidation (Char)   |   7   | Survival (Wis)        |   1   |
+| Arcana (Int)          |   0   | Nature (int)          |   0   |
+| Athletics (Str)       |  -1   | Perception (Wis)      |   1   |
+| Deception (Char)      |   5   | Performance (Char)    |   5   |
+| Investigation (Int)   |   0   | Persuasion (Char)     |   5   |
+| History (Int)         |   0   | Religion (Int)        |   0   |
+| Insight (Wis)         |   3   | Sleight of Hand (Dex) |   5   |
+| Intimidation (Char)   |   7   | Stealth (Dex)         |   5   |
+|                       |       | Survival (Wis)        |   1   |
+
 
 
 | Death Saves  |     |     |     |
@@ -59,10 +61,10 @@ spell save DC: 13
 [[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Dissonant Whispers\|Dissonant Whispers]], [[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Misty Step\|Misty Step]]
 # Inventory
 
-Money: 50gp
+Money: 95gp
 Inventory:  Flute, a costume, [[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Coiling Grasp Tattoo\|Coiling Grasp Tattoo]], Leather armor, thieves' tools
 
-backpack,, bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, a waterskin, 50 feet of hempen rope, Blanket, Mirrror
+backpack,, bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, a waterskin, 50 feet of hempen rope, Blanket, Mirrror, A Lot Of Alcohol
 
 # Extra
 Resistances: 
