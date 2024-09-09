@@ -1149,7 +1149,8 @@ I Will Be Moving This Once I Know My Cows Seen It
 
 I Really Need To Sit Down And Update this
 
-
+Going To Bed Sad Because What I Want To Do Is Play Bg3 But I Jjust Came Out Of A Dnd Sesh Where Everyone Kinda Feels Shitty So I Feel Like It Would Be In Pour Tase To Fuck Off And-- 
+It Would Be In *Poor Taste* To Fuck Off And Then Play A Dnd Inspired Videogame Until The Sun Comes
 
 
 
