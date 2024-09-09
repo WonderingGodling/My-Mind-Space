@@ -1152,7 +1152,26 @@ I Really Need To Sit Down And Update this
 Going To Bed Sad Because What I Want To Do Is Play Bg3 But I Jjust Came Out Of A Dnd Sesh Where Everyone Kinda Feels Shitty So I Feel Like It Would Be In Pour Tase To Fuck Off And-- 
 It Would Be In *Poor Taste* To Fuck Off And Then Play A Dnd Inspired Videogame Until The Sun Comes Up
 
-Also If Vie Doesnt Hate Me Id Love To See How She Talks To The People He Does Hate Because I Am Dying Every Day Out Here And I Feel Like Theyre Praying For Me To Become A Better Person
+Also If Vie Doesnt Hate Me, Id Love To See How She Talks To The People He Does Hate Because I Am Dying Every Day Out Here And I Feel Like Theyre Praying For Me To Become A Better Person, But, Everytime They Look At Me Im Just More Of A Wretched Facade Of Human Emotions, Slowly Crumbling Into The Nothingness That Radiates Out Of Me
+And Im Stuck Like This.
+
+I Mean It Doesnt Help That I Feel Like Everyone Else Is Barely Tollerating Me, Except My Cow (Who Does Seem To Genuinely Enjoy Talking To Me But Still Kinda Hates The Rest Of My Existance) And A Few Other People Who I Feel Like Theyre Just Indifferent
+Who Can Blame Them Though
+Should Change My Name To Marmite
+Or Just Kill Myself (A Very Funny Joke) To Get Out Of Everyones Way
+
+Its 1361·253·24 And I Did WholehEartedly Plan On Updating This Earlier But Not Like This
+It Was Gonna Be A Quick Update On What I Did Over The Past Few Weeks, The Places Ive Gone, The People Ive Talked To, But Overall I Just Feel Like Shit Barely Scraping By Every Day, Not Taking Care Of Myself, Not Even Enjoying Myself Really But Thats Whatever
+
+I Hope If I Update This Again Its More Of The Norm And Less Of The Depression And Everybody-Hates-Meness That Has Been Thrust Upon Me
+
+Like Even My Wife, Who Is The Best And Can Do No Wrong, Will Be  Online And Not Read My Messages Sometimes
+An Obvious Dagger To The Heart But At The Same Time I Will Usually Hear From Her After A Bit, Or Get A Liked Message Notification And The Dagger Will Be Removed
+Some Other People Though Open My Messages To Figure Out How To Better Arrange Daggers Into My Chest Cavity
+
+The Entire Last Paragraph And A Bit Werent Meamnt To Exist, I Guess Im Just That Passionate About How Much I Want To Be Wiped Off The Face Of The Earth Sometiemes
+
+Also Whoevers Reading This: im Sure I Think Youre A Delight, If Youre Part Of The Problem Just....Idk Be More Conciderate Of My Emoptions I Guess? I Know Im Not But Someone Shoul
 
 
 
