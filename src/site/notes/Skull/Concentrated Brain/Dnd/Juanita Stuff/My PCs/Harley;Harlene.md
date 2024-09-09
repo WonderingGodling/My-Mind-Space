@@ -34,16 +34,16 @@
 
 | Skills                | Bonus | Skills                | Bonus |
 | --------------------- | :---: | --------------------- | :---: |
-| Acrobatics (Dex)      |   7   | Investigation (Int)   |   0   |
-| Animal Handling (Wis) |   1   | Medicine (Wis)        |   1   |
-| Arcana (Int)          |   0   | Nature (int)          |   0   |
-| Athletics (Str)       |  -1   | Perception (Wis)      |   1   |
-| Deception (Char)      |   5   | Performance (Char)    |   5   |
-| Investigation (Int)   |   0   | Persuasion (Char)     |   5   |
+| Acrobatics (Dex)      |   7   | Medicine (Wis)        |   1   |
+| Animal Handling (Wis) |   1   | Nature (int)          |   0   |
+| Arcana (Int)          |   0   | Perception (Wis)      |   1   |
+| Athletics (Str)       |  -1   | Performance (Char)    |   5   |
+| Deception (Char)      |   5   | Persuasion (Char)     |   5   |
 | History (Int)         |   0   | Religion (Int)        |   0   |
 | Insight (Wis)         |   3   | Sleight of Hand (Dex) |   5   |
 | Intimidation (Char)   |   7   | Stealth (Dex)         |   5   |
-|                       |       | Survival (Wis)        |   1   |
+| Investigation (Int)   |   0   | Survival (Wis)        |   1   |
+
 
 
 
@@ -62,6 +62,7 @@ spell save DC: 13
 # Inventory
 
 Money: 95gp
+Tokens 12
 Inventory:  Flute, a costume, [[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Coiling Grasp Tattoo\|Coiling Grasp Tattoo]], Leather armor, thieves' tools
 
 backpack,, bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, a waterskin, 50 feet of hempen rope, Blanket, Mirrror, A Lot Of Alcohol
