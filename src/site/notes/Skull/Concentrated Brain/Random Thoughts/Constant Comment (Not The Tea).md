@@ -1171,8 +1171,23 @@ Some Other People Though Open My Messages To Figure Out How To Better Arrange Da
 
 The Entire Last Paragraph And A Bit Werent Meamnt To Exist, I Guess Im Just That Passionate About How Much I Want To Be Wiped Off The Face Of The Earth Sometiemes
 
-Also Whoevers Reading This: im Sure I Think Youre A Delight, If Youre Part Of The Problem Just....Idk Be More Conciderate Of My Emoptions I Guess? I Know Im Not But Someone Shoul
+Also Whoevers Reading This: im Sure I Think Youre A Delight, If Youre Part Of The Problem Just....Idk Be More Conciderate Of My Emoptions I Guess? I Know Im Not But Someone Should Be
 
+Why Would I Use This For Something That Makses Sense Like Writing Down All My Thoughts And Important Notes And Stuff Or Even To Say I Appreciate It When This Is Read (Even Though I Only Think One Person Ever Reads This) But Instead Im Gonna Do This:
+
+## Xenomorph Research
+Xenomorph XX121 Is An Endoparasitoid With A "Multi-Staged Life Cycle". Theres A Planet Called Xenomorph Prime In The Alien Games But Its Not Ever Mentioned In The Films So Idk. Its Also A Hive Mind.
+
+The appearance of the Xenomorph can vary depending on the host in which the embryo is implanted!
+The Human phenotype is generally around 7–9 feet (~ 2.13 - 2.74 meters) in height and roughly 181.43 to 272.15 kilograms (400-600 pounds) in weight, with a long, muscular tail and large, curved, oblong head. (You Know, The Classic)
+
+The Scientific Name Is Internecivus raptus Which Means Murderous Thief
+### More Appearence Stuff Stolen From The Wiki
+The Queen of this species is generally twice as large (although some Queens have been shown to grow even larger, some surpassing 30 meters in height if given time) and possesses superior speed, strength and intelligence compared to her common offspring.
+
+## :)
+Gonna Write More
+Not No But Like Soon Hopefully
 
 
 
