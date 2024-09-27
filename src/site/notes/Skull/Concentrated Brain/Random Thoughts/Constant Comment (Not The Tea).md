@@ -1189,6 +1189,54 @@ The Queen of this species is generally twice as large (although some Queens have
 Gonna Write More
 Not No But Like Soon Hopefully
 
+![[VID-20240914-WA0048.mp4\|VID-20240914-WA0048.mp4]]
+
+Im Actually Just Ruining My Mind- What? Losing My Mind
+Sitting On The Train, One Ear Plugged In And The Other Being Accosted By Sound
+Got The Gay Umbrella Though 
+
+Also Someone On This Train Has A Wolves Lanyard
+Can't See For What Because No Glasses
+
+Oh Yeah Changed My Phone Password At Some Point
+Possibly 266 Or 265
+
+Miku!
+![[IMG-20240922-WA0122.jpg\|IMG-20240922-WA0122.jpg]]
+Brennan Lee Mulligan In My Riddle Podcast
+Also My Earphones Are Broken Ans Im Going qinsade
+Both Of Those 261 (Same Day Vie Went To Get Friends Car)
+Im Sure I'll Go Through Tgise Messages Soon
+
+266•24 Roo Used The Pool At Their All Inclusive 
+
+267 Forgot My ID So im Going Around Tge Side 
+Think I Bent My Umbrella 
+
+On Time
+
+Ive Used My Phone 33 Minutes More Than Laat Week
+Its Monday 
+
+Gotta Think Of Something To Do For An Hour And Q Half
+Can't Go Off Campus Because No ID
+
+Obsessed Qith The Person Next To Me Using Theur Phone At A 30° Angle AndDoinv Nothing Sus On It
+Theyre Drawing Vultures Now
+
+Time Skip!!
+Found My ID, Setting Up Laptop Missing My Mind, All Good I Think--
+sHes On Episode 26 Wihch Is Michales Episode!!!! Fuck Yeah!!
+
+So Many Red Underlines
+
+If I Go Through Vies Messages Id Have To Fill This Website With So Much Stuff Then Id Just Be Thinking About That Instead Of Enjoing My Distractions So Im Gonna Not Do That
+
+AlsO My Headphones Didnt Arive >:(((((
+	
+Actually Would Be Rreally Funny If The Person Who Was Helping Me Cope With Abandonment Left Me Because I Was Strugling With Abandonment.....
+
+
 
 
 
