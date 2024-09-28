@@ -59,10 +59,10 @@ Dee Should Let Me Give Her Head Frfr
 
 <script type="text/javascript">
     function checkPswd() {
-        var confirmPassword = "Paul Eating Caterpillars";
+        var confirmPassword = "Feed Me";
         var password = document.getElementById("pswd").value;
         if (password == confirmPassword) {
-             window.location="https://my-mind-space.vercel.app/explicitly-showcased/people/special-ones/cory/cory/";
+             window.location="https://my-mind-space.vercel.app/explicitly-showcased/people/special-ones/edie/dee/";
         }
         else{
             alert("Not Quite");

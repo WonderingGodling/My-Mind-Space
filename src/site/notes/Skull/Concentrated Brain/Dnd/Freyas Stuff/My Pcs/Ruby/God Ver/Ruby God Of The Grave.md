@@ -14,9 +14,9 @@
 
 ## General
  Race:  Aasimar
- Class: Ghostslayer 20 Fighter 2
+ Class: [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Bloodhunter\|Bloodhunter]] ([[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Ghostslayer\|Ghostslayer]]) 20 [[Fighter\|Fighter]] 2
  Alignment: Chaotic Good
- Background: Folk Hero
+ Background: [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Folk Hero\|Folk Hero]]
 
 
 ## Stats
@@ -69,10 +69,13 @@
 |  Hit Modifier  |   17   |
 ### Spell List
 
+Free
 
-| Cantrip | Light                    |
-| ------- | ------------------------ |
-| 1st     | Tasha's Hideous Laughter |
+| **Cantrip** | [[Light\|Light]]              |                   |
+| ----------- | ---------------------- | ----------------- |
+| **1st**     | [[thunderwave\|thunderwave]]        | [[Burning Hands\|Burning Hands]] |
+| **2nd**     | [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Rime's Binding Ice\|Rime's Binding Ice]] |                   |
+| **3rd**     | [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Counterspell\|Counterspell]]       |                   |
 
 
 # Inventory
@@ -97,79 +100,80 @@ Languages: Common & Celestial
 	 
 # Notes: 
 
-Darkvision 60
-Celestial Resistance
-Healing Hands 9d4
-Light Bearer
-Celestial Revelation
-    Radiant Soul
+[[Skull/Concentrated Brain/Dnd/Terminology/Darkvision\|Darkvision]] 60
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Celestial Resistance\|Celestial Resistance]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Healing Hands\|Healing Hands]] 9d4
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Light Bearer\|Light Bearer]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Celestial Revelation\|Celestial Revelation]]
+    [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Radiant Soul\|Radiant Soul]]
 
-Rustic Hospitality
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Rustic Hospitality\|Rustic Hospitality]]
 
-Hunter's Bane
-Blood Maledict 3
-    Binding
-    Marked
-    Exposure
-    Fallen Puppet
-    Exorcist
-Fighting Style
-    Great Weapon Fighting
-Crimson Rite
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Hunter's Bane\|Hunter's Bane]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Blood Maledict\|Blood Maledict]] 5
+    [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Blood Curse of Binding\|Blood Curse of Binding]]
+    [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Blood Curse of the Marked\|Blood Curse of the Marked]]
+    [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Blood Curse of Exposure\|Blood Curse of Exposure]]
+    [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Blood Curse of the Fallen Puppet\|Blood Curse of the Fallen Puppet]]
+    [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Blood Curse of the Exorcist\|Blood Curse of the Exorcist]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Fighting Style\|Fighting Style]]
+    [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Great Weapon Fighting\|Great Weapon Fighting]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Crimson Rite\|Crimson Rite]]
      Necrotic
      Cold
      Radiance
      Psychic
-Extra Attack
-Brand of Castigation
-Aether Walk
-Grim Psychometry
-Dark Augmentation
-Brand of Sundering
-Brand of Tethering
-Hardened Soul
-Rite Revival
-Sanguine Mastery
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Rite Focus\|Rite Focus]]
+        The Grave
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Extra Attack\|Extra Attack]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Brand of Castigation\|Brand of Castigation]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Aether Walk\|Aether Walk]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Revealed Arcana\|Revealed Arcana]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Grim Psychometry\|Grim Psychometry]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Rime's Binding Ice\|Rime's Binding Ice]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Mystic Frenzy\|Mystic Frenzy]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Dark Augmentation\|Dark Augmentation]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Brand of the Sapping Scar\|Brand of the Sapping Scar]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Unsealed Arcana\|Unsealed Arcana]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Counterspell\|Counterspell]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Brand of Sundering\|Brand of Sundering]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Brand of Tethering\|Brand of Tethering]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Hardened Soul\|Hardened Soul]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Rite Revival\|Rite Revival]]
+	[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Blood Curse of the Souleater (Feature)\|Blood Curse of the Souleater (Feature)]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Sanguine Mastery\|Sanguine Mastery]]
 
-Blind Fighting
-Second Wind
-Action Surge
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Blind Fighting\|Blind Fighting]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Second Wind\|Second Wind]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Action Surge\|Action Surge]]
 
-Boon of Irresistible Offense
-Boon of Magic Resistance
-Boon of Recovery
-Boon of Resilience
-Boon of the Fire Soul
-Boon of the Stormborn
-Boon of Fortitude
-Boon of Spell Mastery
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Boon of Irresistible Offense\|Boon of Irresistible Offense]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Boon of Magic Resistance\|Boon of Magic Resistance]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Boon of Recovery\|Boon of Recovery]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Boon of Resilience\|Boon of Resilience]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Boon of the Fire Soul\|Boon of the Fire Soul]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Boon of the Stormborn\|Boon of the Stormborn]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Boon of Fortitude\|Boon of Fortitude]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Boon of Quick Casting\|Boon of Quick Casting]]
 
-Tough
-Resilient
-Savage Attacker
-Vital Sacrifice
-Slasher
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Tough\|Tough]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Resilient\|Resilient]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Savage Attacker\|Savage Attacker]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Vital Sacrifice\|Vital Sacrifice]]
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Slasher\|Slasher]]
 
-# Characteristics 
-Wolf-Like,Seven And A Half Feet Tall, musclular, pointed ears; most shifters also have prominent canine teeth
-He Doesnt Know How He Looks, And If He Did He Wouldnt Know That Hes More Intimidating Than Other People
-Has An Unplaceable Acccent Because Giant Is His First Language
+[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Ruby/God Ver/Six Feet Under\|Six Feet Under]]
 
 
 
-Fake Hero, Calm, Vengeful, Sees Self As Neutral
+##### Brand 
 
-All Lives Should Be Assumed Precious
+psychic twice Heamo Modifier, Cant Dash, If Teleport 4d6 psychic, Wisdom Throw To Succeed
+deals damage to you or a creature you can see within 5 feet of you, the branded creature takes psychic damage equal to your Hemocraft modifier
 
-the Giants, The Warmth And Rocks That Remind Him Of His Home, The Howls Of Freed Beasts
+vulnerable to your Crimson Rite 
 
-Only Sees Outcasts As Trustworthy
+vulnerable to your magic
 
-Backstory
-Turned Blind By Parents (Because Shifter) And Discarded Into The Woods
-Raised By Giants In Some Volcanic Region
-Growing Up There Was DisIplined In The Waysn Of The Monk But Only Really Took Well To The Fighting Part
-Left Home To Go Adventuring, People "Watching" (Or Stone Finding Is As Intersting), And To Maybe Help "Outsiders"
-Doesnt Know How To Act Around "Normal" People, But Is Putting Up With Them So He Can Be Better Than People Like His "Parents"
-He Gets Confused Sometimes When Things Are Outside Of What He Knows
-Now, Out In The World, Is Learning How To Properlly Take On Challenges
+ Whenever you hit a creature with a weapon for which you have an active crimson rite, you roll an additional hemocraft die when determining the extra damage from the rite
+Additionally, if a branded creature has the Incorporeal Movement trait or a similar feature, it can’t move through creatures or objects while branded.
