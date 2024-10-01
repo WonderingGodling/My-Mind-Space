@@ -1218,6 +1218,10 @@ I Should Spend Some Time Parsing This Shit
 
 I Am Shaking <b>Bad</b>
 
+He Wanted Us To Look At A Thing AnD I Stopped And Then Hes Already Like Moved On Blegh
+
+Got Way Too Distracted Making A [[Skull/Concentrated Brain/Random Thoughts/Stats\|Stats]] Page
+
 
 
 

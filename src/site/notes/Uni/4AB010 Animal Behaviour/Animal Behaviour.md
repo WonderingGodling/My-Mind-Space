@@ -73,6 +73,24 @@ Philopatry
 
 If It Has A Function Its Usually Ultimate
 
+## statistics
+Descriptive
+Inferential
+
+## The 6 Basic ‘steps’ of the scientific method 
+Step 1: Ask a Question 
+Step 2: Do some background research/preliminary observations
+Step 3: Construct a Hypothesis and TESTABLE predictions
+Step 4: Test Your Predictions by Doing an Experiment/Study
+Step 5: Analyse your data and draw conclusions 
+Step 6: Communicate Your Results
+
+Natural/Artificial Experiment
+
+Nominal Catagories Have No Order, Ordinal Ones Do
+
+Central Tendancy! lets Go!
+Mode. Median. Range. Quartiles Are Dead But Who Cares
 
 
 
