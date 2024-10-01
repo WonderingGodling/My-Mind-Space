@@ -7,33 +7,44 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Stopwatch</title>
+    <title>Auto-start Stopwatch</title>
     <style>
-        #timer {
-            font-size: 2em;
-            margin: 20px;
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        #stopwatch {
+            font-size: 48px;
+            color: #333;
         }
     </style>
 </head>
 <body>
+    <h1>Stopwatch</h1>
+    <div id="stopwatch">00:00:00</div>
 
-<div id="timer">00:00</div>
+    <script>
+        let startTime = Date.now();
 
-<script>
-    let stopwatch;
-    let elapsedTime = 0;
+        function updateStopwatch() {
+            const currentTime = Date.now();
+            const elapsedTime = currentTime - startTime;
 
-    function startStopwatch() {
-        clearInterval(stopwatch);
-        stopwatch = setInterval(() => {
-            elapsedTime++;
-            const minutes = Math.floor(elapsedTime / 60);
-            const seconds = elapsedTime % 60;
-            document.getElementById('timer').innerText = `${minutes < 10 ? '0' : ''}${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
-        }, 1000);
-    }
+            const hours = Math.floor(elapsedTime / 3600000);
+            const minutes = Math.floor((elapsedTime % 3600000) / 60000);
+            const seconds = Math.floor((elapsedTime % 60000) / 1000);
 
-</script>
+            // Format the time with leading zeros
+            const formattedHours = String(hours).padStart(2, '0');
+            const formattedMinutes = String(minutes).padStart(2, '0');
+            const formattedSeconds = String(seconds).padStart(2, '0');
 
+            document.getElementById('stopwatch').textContent = `${formattedHours}:${formattedMinutes}:${formattedSeconds}`;
+        }
+
+        // Start the stopwatch immediately when the page loads
+        setInterval(updateStopwatch, 1000);
+    </script>
 </body>
 </html>
