@@ -9,7 +9,7 @@
 
 
 
-_Necromancy cantrip_
+_[[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Partridge/Necromancy School\|Necromancy School]] [[Skull/Concentrated Brain/Dnd/Freyas Stuff/My Pcs/Partridge/Cantrip\|cantrip]]_
 
 **Casting Time:** 1 action  
 **Range:** 60 feet  

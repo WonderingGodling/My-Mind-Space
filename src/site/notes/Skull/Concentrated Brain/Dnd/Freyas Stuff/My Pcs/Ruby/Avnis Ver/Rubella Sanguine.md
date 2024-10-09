@@ -6,7 +6,7 @@
 
 
 # <center><span style="color:#FF0000">Rubella "Ruby" Sanguine Of Upper Avalon</span></center>
-![e81be147-672e-4096-886e-0ab9db12931d.png](/img/user/images/e81be147-672e-4096-886e-0ab9db12931d.png)
+![[e81be147-672e-4096-886e-0ab9db12931d.png\|e81be147-672e-4096-886e-0ab9db12931d.png]]
 
 
 

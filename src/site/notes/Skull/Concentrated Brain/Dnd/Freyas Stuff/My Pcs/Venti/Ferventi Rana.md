@@ -6,7 +6,7 @@
 
 
 # <center><span style="color:#CC550D">Ferventi  Rana</span></center>
-![470afad0-3694-4a4d-86c4-7cef3a3a97f6 1.jpg](/img/user/images/470afad0-3694-4a4d-86c4-7cef3a3a97f6%201.jpg)
+![[470afad0-3694-4a4d-86c4-7cef3a3a97f6 1.jpg\|470afad0-3694-4a4d-86c4-7cef3a3a97f6 1.jpg]]
 
 
 

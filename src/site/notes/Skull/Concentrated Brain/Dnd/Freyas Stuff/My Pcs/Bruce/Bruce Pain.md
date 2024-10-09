@@ -6,7 +6,7 @@
 
 
 # <center><span style="color:#2A251D">Bruce Pain</span></center>
-![285d0cb5-c657-4130-b9a9-f7dacdbf0804.jpg](/img/user/images/285d0cb5-c657-4130-b9a9-f7dacdbf0804.jpg)
+![[285d0cb5-c657-4130-b9a9-f7dacdbf0804.jpg\|285d0cb5-c657-4130-b9a9-f7dacdbf0804.jpg]]
 
 
 

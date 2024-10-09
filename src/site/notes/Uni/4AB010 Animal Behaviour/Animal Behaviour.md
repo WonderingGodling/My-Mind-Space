@@ -92,6 +92,17 @@ Nominal Catagories Have No Order, Ordinal Ones Do
 Central Tendancy! lets Go!
 Mode. Median. Range. Quartiles Are Dead But Who Cares
 
+## Evolutionary Basis Of Behaviour
+NAtural Selection
+ECological Niche, Selection Pressure
+
+## Genetics
+[So Far All Stuff I Know, I'll Fill It In Later]
+[.... I Might Not Be Able To]
+
+
+
+
 
 
 <center><sub>Done?</sub></center>
