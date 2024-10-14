@@ -100,10 +100,33 @@ ECological Niche, Selection Pressure
 [So Far All Stuff I Know, I'll Fill It In Later]
 [.... I Might Not Be Able To]
 
+# Ethograms And Collecting Data
+
+## Question Refresher
+Proximate: Mechanism/Causation, Ontogeny/Development
+Ultimate: Function/Adaptation, Evolution/Phylogeny
+
+## Ethograms
+Ethogram: a catalogue or table of all the different kinds of behaviour or activity observed in an animal.
+### rules
+1. An ethogram is list of behavioural categories, abbreviations for those behaviours, with clear, descriptive definitions – With this list, you should be able to look at an animal, and, based on your list, say: “oh, that animal is clearly doing behaviour X right now!” – Definitions need to be clear, so that two different researchers watching thesame animal will always score the behaviour the same way! 
+2. These behavioural categories must be tailored to your research question/research goals 
+3. Behavioural categories should be defined so the animal can always be classified as doing at least one behaviour. – Ie., you should never look at your animal of interest and say: “oh, that animal’s current behaviour does not match ANYHTING on my list of behaviours” 
+4. Each behavioural category is mutually exclusive of other behaviours – An animal by definition can only be doing ONE behaviour on your list of behaviours at a time – Ie., you should not be able to say: “oh, that animal is both eating AND walkingright now, so I will write in my notes that it is engaged in two behaviours at once…”
+
+### Basic Ethogram Format
 
 
+| Behaviour Name | Abbreviation | Purpose/Simple Descriiption             | What sequence of minimovements/behaviours make up this behavioural category?                                                                                                                                                                    |
+| -------------- | ------------ | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Running        | RN           | Animal is moving rapidly using its legs | The animal is moving forward in space by pushing off from the ground with their hind feet, launching forward with all four feet off the ground, before the front feet land, followed by the hind legs, which then push off repeating the cycle. |
 
+Important: think of this part of your ethogram as describing the behaviour to an alien with no concept of running
 
+Lecture Explanation As An Example:
+Usually Standing While Opening And Closing Their Mouth To Vocalies In Front Of An Audience For Educational Purposes, SOmetimes Using Arms And Hands To Gesture Towards The Audience Or Screen To Portray An Idea. The Audience Will Usually Be Watching Quietly To Attain Information
+
+Dont Use The Word "To"
 
 <center><sub>Done?</sub></center>
 

@@ -22,8 +22,8 @@
 |    Speed     | AC  | Bonus |  Initiative   |
 | :----------: | :-: | :---: | :-----------: |
 |      30      | 10  |   2   |       0       |
-|   Hit Dice   | 2d6 |  2d6  | Saving Throws |
-|    Health    | 17  |  17   |               |
+|   Hit Dice   | 3d6 |  3d6  | Saving Throws |
+|    Health    | 24  |  24   |               |
 |   Strength   |  8  |  -1   |               |
 |  Dexterity   | 10  |   0   |               |
 | Constitution | 14  |   2   |               |
@@ -45,7 +45,7 @@
 
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
-| Death Failes |     |     |     |
+| Death Fails |     |     |     |
 ### Attacks
 
 | Attack | To-Hit | Damage |
