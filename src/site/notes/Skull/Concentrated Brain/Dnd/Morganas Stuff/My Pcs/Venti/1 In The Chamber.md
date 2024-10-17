@@ -17,6 +17,7 @@ Cursed ability:costs 1 cursed energy  roll a d6 on a 6  you fire the revolver an
 
 
 If Known Can Disarm But An Dex Save Against Crit
+Give Someone The Gun And If They Beat Their Own AC They Get Shot, If They Dont: I Get Shot
 
 
 
