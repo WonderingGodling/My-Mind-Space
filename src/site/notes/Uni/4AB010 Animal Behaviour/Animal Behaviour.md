@@ -176,6 +176,53 @@ of a monkey grunt to the end of that
 
 grunt
 
+## Sampling Rules
+
+
+## Recording Rules
+
+Focal Samples: If Youre Observing A Group Treat Them As One Entity
+If TheyreNot All doing TheSame Thing, Use The Majority
+
+## Sampling Vs Recording
+## Continuous Sampling
+Constqntlx Monitoring The Same Subject
+Behaviours Andt Times
+If In Group, Randomise
+Predefined Observation Time
+
+Activity Budget
+Percentage Of Time
+
+### Instantaneous Recording
+Short Sampling Intervals (Like Ten Minutes, Once Every Minute)
+Less Precise
+Misses Rare, Short Behaviours
+Dont Record Event Behaviours
+## Scan Sampling
+Individuals In A Whole Group
+Instantaneous
+Note What Theyre All Doing On The Time Interval
+It Doesn't Matter Which Individual Is Which
+
+"You Get Really Good At Looking At Testicles"
+
+Vertate Monkeys Have Bright Blue Testicles Or Really Long Breasts
+
+Females Are Limited By Access To Energy
+
+### Behaviour Sampling
+Tracking Specific Behaviour
+What (And When) The Individual Is Doing When That Behaviour Is Observed
+
+### 1/0 Sampling
+Whether The Behaviour Occured During That Time Sample
+
+### Ad Libitum Sampling
+Writing Down Whatever
+
+
+
 <center><sub>Done?</sub></center>
 
 
@@ -186,3 +233,4 @@ grunt
         crossorigin="anonymous"
         async>
 </script>
+
