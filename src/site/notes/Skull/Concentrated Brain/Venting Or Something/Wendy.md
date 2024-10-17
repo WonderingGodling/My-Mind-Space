@@ -4972,7 +4972,6 @@ And Animal Facts
 And Actually Im Gonna Make A To-do List
 done
 
-[this Bit Has Been Moved Over To [[Skull/Concentrated Brain/Random Thoughts/StT Killing Me\|StT Killing Me]]]
 I Haven't Talked To Vie In Over A Week And Its Actually Killing Me And I Cant Talk To Anyone About It Because Best Case Scenario Literally Gets Me Nowhere And Worse Case Scenario Probably Gets Me Starved To Death
 I Haven't Been Able To Write Anything Because All Im Thinking All Day Is "Aaaaaaaaaaahhhhhhhhhhhhhhhh!!!!!!!!!!!!!!" And I Just Want To Stop Existing Or At The Very Least Stop Functioning But My Worthless Body cant Even Figure Out How To Cry Which Is Step Two Of Being Depressed, Overwhelming Self Hatred And Hoping For Your Own Doom Is Usually Much Later For Normal People (Not That If Be Faliliar With That)
 This Week Ive Tried Going On Walks And Skating And Watching Movies  And Tv Shows And Social Media And Pornography And Books And Podcast And Hanging Out With Friends And Doing Nothing Each For Literal Hours At A Time Hoping That Maybe If Im Absorbed Enough In It The Dull Sense That My Interacting With The World I Slowly Making It Worse Will Fade Into The Background But Theres No such Thing As Relief I Guess
@@ -5116,10 +5115,12 @@ Can't Go Off Campus Because No ID
 Obsessed Qith The Person Next To Me Using Theur Phone At A 30° Angle AndDoinv Nothing Sus On It
 Theyre Drawing Vultures Now
 
-Time Skip!!
-Found My ID, Setting Up Laptop Missing My Mind, All Good I Think--
-sHes On Episode 26 Wihch Is Michales Episode!!!! Fuck Yeah!!
+Accidentally Conflicted The Files
+All Good Now
 
+Also Didnt Do Anything- Not Do, Write
+Stressful Morning So I- Ffs
+Leaving Everything Today
 So Many Red Underlines
 
 If I Go Through Vies Messages Id Have To Fill This Website With So Much Stuff Then Id Just Be Thinking About That Instead Of Enjoing My Distractions So Im Gonna Not Do That
