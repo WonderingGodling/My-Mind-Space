@@ -5145,6 +5145,16 @@ He Wanted Us To Look At A Thing AnD I Stopped And Then Hes Already Like Moved On
 Got Way Too Distracted Making A [[Skull/Concentrated Brain/Random Thoughts/Stats\|Stats]] Page
 
 
+Wrighth 1, Fire Resistance (Augmentation)
+When Donned Bless/Sleb Thwart Flame (Keeps)
+
+Wrighth 2, Group Revival (Status)
+Link/Kiln, When Killed/Licked Break Link/Kiln, When Links/Lynx Void Live/Vil, Link/Kiln
+
+Wrighth 3, Wright Vision (Augmentation)
+When Donned Bid/Dib Viewed Wright/Tyre/Try Aired/Dare
+
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/4-ab-010-animal-behaviour/animal-behaviour/","tags":["Tagless"],"dgShowToc":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/uni/4-ab-010-animal-behaviour/animal-behaviour-conflict-2024-10-15-02-58-22/","tags":["Tagless"],"dgShowToc":true,"noteIcon":""}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -176,6 +176,53 @@ of a monkey grunt to the end of that
 
 grunt
 
+## Sampling Rules
+
+
+## Recording Rules 
+
+Focal Samples: If Youre Observing A Group Treat Them As One Entity
+If TheyreNot All doing TheSame Thing, Use The Majority 
+
+## Sampling Vs Recording 
+## Continuous Sampling 
+Constqntlx Monitoring The Same Subject
+Behaviours Andt Times
+If In Group, Randomise
+Predefined Observation Time
+
+Activity Budget
+Percentage Of Time
+
+### Instantaneous Recording 
+Short Sampling Intervals (Like Ten Minutes, Once Every Minute)
+Less Precise
+Misses Rare, Short Behaviours 
+Dont Record Event Behaviours 
+## Scan Sampling 
+Individuals In A Whole Group
+Instantaneous 
+Note What Theyre All Doing On The Time Interval 
+It Doesn't Matter Which Individual Is Which
+
+"You Get Really Good At Looking At Testicles"
+
+Vertate Monkeys Have Bright Blue Testicles Or Really Long Breasts
+
+Females Are Limited By Access To Energy
+
+### Behaviour Sampling 
+Tracking Specific Behaviour 
+What (And When) The Individual Is Doing When That Behaviour Is Observed 
+
+### 1/0 Sampling 
+Whether The Behaviour Occured During That Time Sample
+
+### Ad Libitum Sampling
+Writing Down Whatever
+
+
+
 <center><sub>Done?</sub></center>
 
 
@@ -186,3 +233,4 @@ grunt
         crossorigin="anonymous"
         async>
 </script>
+

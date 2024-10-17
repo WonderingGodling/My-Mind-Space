@@ -9,10 +9,12 @@
 
 
 
-![[web.whatsapp.webp\|web.whatsapp.webp]]
+![Pasted image 20241014200139.png](/img/user/images/Pasted%20image%2020241014200139.png)
+
+
 ## General
  Race:  [[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Daemon/Yuan-Ti\|Yuan-Ti]]
- Class: [[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Daemon/Wizard\|Wizard]] 2 [[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Daemon/Blood Magic\|Blood Magic]]
+ Class: [[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Daemon/Wizard\|Wizard]] 3 [[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Daemon/Blood Magic\|Blood Magic]]
  Alignment: Neutral Evil
  Background: [[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Daemon/Ruined\|Ruined]]
 
@@ -23,7 +25,7 @@
 | :----------: | :-: | :---: | :-----------: |
 |      30      | 10  |   2   |       0       |
 |   Hit Dice   | 3d6 |  3d6  | Saving Throws |
-|    Health    | 24  |  24   |               |
+|    Health    |  2  |   2   |               |
 |   Strength   |  8  |  -1   |               |
 |  Dexterity   | 10  |   0   |               |
 | Constitution | 14  |   2   |               |
@@ -48,8 +50,9 @@
 | Death Fails |     |     |     |
 ### Attacks
 
-| Attack | To-Hit | Damage |
-| ------ | ------ | ------ |
+| Attack                | To-Hit | Damage         |
+| --------------------- | ------ | -------------- |
+| Sword Of A Fallen Age | -1     | 1d8-1 Slashing |
 
 ### [[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Daemon/Daemon's Spells\|Daemon's Spells]]
 
@@ -58,8 +61,8 @@
 
 # Inventory
 
-Money: 200
-Inventory: Gust/Absorb Elements Paper, Karathis' Book, [[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Daemon/A Blood-Red Ruby Gem Necklace (Attuned)\|A Blood-Red Ruby Gem Necklace (Attuned)]]
+Money: 195
+Inventory: [[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Daemon/Gust\|Gust]]/[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Daemon/Absorb Elements\|Absorb Elements]] Paper, Karathis' Book, [[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Daemon/A Blood-Red Ruby Gem Necklace (Attuned)\|A Blood-Red Ruby Gem Necklace (Attuned)]], [[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Daemon/Sword Of A Fallen Age\|Sword Of A Fallen Age]], 4 Ink Pens, Silk Rope, Paper
 
 # Extra
 Resistances: 
