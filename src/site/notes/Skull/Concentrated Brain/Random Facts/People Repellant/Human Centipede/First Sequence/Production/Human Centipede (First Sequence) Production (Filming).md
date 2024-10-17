@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Human Centipede (First Sequence) Production (Filming)","permalink":"/Human Centipede (First Sequence) Production (Filming)/"}
+{"dg-publish":true,"dg-permalink":"Human Centipede (First Sequence) Production (Filming)","permalink":"/Human Centipede (First Sequence) Production (Filming)/","noteIcon":""}
 ---
 
 # Production 

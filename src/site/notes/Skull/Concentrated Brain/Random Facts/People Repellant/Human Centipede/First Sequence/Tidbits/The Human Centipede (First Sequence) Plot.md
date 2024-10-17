@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/tidbits/the-human-centipede-first-sequence-plot/"}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/tidbits/the-human-centipede-first-sequence-plot/","noteIcon":""}
 ---
 
 

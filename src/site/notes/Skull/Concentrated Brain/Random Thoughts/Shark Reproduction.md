@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"shark Reproduction","permalink":"/shark Reproduction/","title":"shark Reproduction","tags":["sharks","Concentrated","RandomFacts","Sharks","RandomThoughts","Reproduction"]}
+{"dg-publish":true,"dg-permalink":"shark Reproduction","permalink":"/shark Reproduction/","title":"shark Reproduction","tags":["sharks","Concentrated","RandomFacts","Sharks","RandomThoughts","Reproduction"],"noteIcon":""}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -34,5 +34,5 @@ The Actual Dream
 Imagine Being A Hermaphrodite **And** Being Able To Reproduce Asexually
 sUrvival Of The Fittest Is Fake And [[Skull/Concentrated Brain/Random Facts/Sharks/Sharks\|Sharks]] Run The World
 
-Also Im Going To Leave This Note Open For Future [[Explicitly Showcased/Me/Me\|Me]] Incase I Ever Start Researching Like Shark Mating Rituals Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]
+Also Im Going To Leave This Note Open For Future [[Branches/Me\|Me]] Incase I Ever Start Researching Like Shark Mating Rituals Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]
 oR Maybe Why Some [[Skull/Concentrated Brain/Random Facts/Sharks/Sharks\|Sharks]] Lay Eggs And Others Dont
