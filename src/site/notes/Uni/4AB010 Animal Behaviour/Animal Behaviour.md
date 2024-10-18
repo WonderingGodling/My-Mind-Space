@@ -100,9 +100,9 @@ ECological Niche, Selection Pressure
 [So Far All Stuff I Know, I'll Fill It In Later]
 [.... I Might Not Be Able To]
 
-# Ethograms And Collecting Data
+## Ethograms And Collecting Data
 
-## Question Refresher
+### Question Refresher
 Proximate: Mechanism/Causation, Ontogeny/Development
 Ultimate: Function/Adaptation, Evolution/Phylogeny
 
@@ -226,11 +226,4 @@ Writing Down Whatever
 <center><sub>Done?</sub></center>
 
 
-<script src="https://utteranc.es/client.js"
-        repo="WonderingGodling/My-Mind-Space"
-        issue-term="title"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
-</script>
 
