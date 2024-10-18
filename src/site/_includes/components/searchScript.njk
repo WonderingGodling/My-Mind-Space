@@ -1,5 +1,6 @@
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
 <script>
+    const sanitizeHtml = require('sanitize-html');
     document.addEventListener('DOMContentLoaded', init, false);
     document.addEventListener('DOMContentLoaded', setCorrectShortcut, false);
 
@@ -323,8 +324,8 @@
     }
 
     function truncate(str, size) {
-        //first, remove HTML
-        str = str.replaceAll(/<[^>]*>/g, '');
+        //first, remove HTML using sanitize-html
+        str = sanitizeHtml(str, { allowedTags: [], allowedAttributes: {} });
         if (str.length < size) 
             return str;
         return str.substring(0, size - 3) + '...';
