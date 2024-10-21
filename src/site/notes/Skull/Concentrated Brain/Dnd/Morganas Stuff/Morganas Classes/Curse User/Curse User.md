@@ -436,7 +436,8 @@ You can use a medium word of power without consuming any cursed energy once per 
 ----
 
 
-### Heavenly pact  
+### Heavenly pact 
+ 
 A Heavenly pact is a restriction placed on a curse user at birth crippling the user physically but giving them a abundance of cursed energy 
 
 
@@ -505,7 +506,6 @@ You go mostly deaf  (can only hear within a 15ft radius)
 You lose sight in one eye
 You lose control of one arm
 You automatically fail any roll  to stop a poison or disease 
-
 
 
 
