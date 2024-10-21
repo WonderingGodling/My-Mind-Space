@@ -19,6 +19,10 @@ Causes the frightened effect as well as stunning for a turn after the domain clo
 For two turns after the domain closes a user who was caught in it can’t use any cursed energy they also have disadvantage on physical strike 
 
 
+Rewritten
+drain curse points, turn invisible
+
+
 
 
 
