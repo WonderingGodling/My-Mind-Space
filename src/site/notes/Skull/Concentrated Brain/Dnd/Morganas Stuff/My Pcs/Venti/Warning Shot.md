@@ -12,7 +12,7 @@ When Ferventi's Adrenaline Gets Too High They Lash Out Both Physically And Emoti
 ----
 Reaction 
 
-Consume 3 cursed energy and perform a reaction strike pouring cursed energy into your weapon/fist on a successful hit the opponent sees the attack form into their greatest fear causing them to take 2d8 curse damage and  go into the frightened status and abandoning whatever their current motivation was
+Consume 3 cursed energy and perform a reaction strike pouring cursed energy into your weapon/fist on an unsuccessful hit (+5) the opponent sees the attack form into their greatest fear causing them to take 2d8 curse damage and  go into the frightened status and abandoning whatever their current motivation was
 
 Consume a extra 1 energy every turn you wish for this effect to stay active
 
