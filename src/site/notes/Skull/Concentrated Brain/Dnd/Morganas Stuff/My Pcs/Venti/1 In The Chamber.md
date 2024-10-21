@@ -9,6 +9,8 @@
 
 A Tattered Shell Of What You Can Imagine Was Once A Revolver But Is Now Some Metallic Shell Riddled With Holes And Deliberate Looking Scratches. Its A Miracle This Piece Of Junk Can Hold Itself Together. If You Use It You Better Hope The Explosion Comes From The Part Pointing Away From You.
 
+---
+Action
 2d8 cursed damage
 
 This weapon is broken and cannot be used other then with its cursed ability 
@@ -16,7 +18,6 @@ This weapon is broken and cannot be used other then with its cursed ability
 Cursed ability:costs 1 cursed energy  roll a d6 on a 6  you fire the revolver and it will critical the opponent
 
 
-If Known Can Disarm But An Dex Save Against Crit
 Give Someone The Gun And If They Beat Their Own AC They Get Shot, If They Dont: I Get Shot
 
 
