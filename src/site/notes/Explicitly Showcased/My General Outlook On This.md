@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Constant Comment","permalink":"/Constant Comment/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/explicitly-showcased/my-general-outlook-on-this/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true,"noteIcon":""}
 ---
 
 
@@ -355,7 +355,7 @@ Im Not [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]
 Im So Not [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] But I Dont Know Why
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Constant Comment/#zoochosis" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/explicitly-showcased/my-general-outlook-on-this/#zoochosis" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -713,7 +713,7 @@ Im Not [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]
 Im So Not [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] But I Dont Know Why
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Constant Comment/#zoochosis" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/explicitly-showcased/my-general-outlook-on-this/#zoochosis" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -1071,7 +1071,7 @@ Im Not [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]
 Im So Not [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] But I Dont Know Why
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Constant Comment/#zoochosis" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/explicitly-showcased/my-general-outlook-on-this/#zoochosis" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -1429,7 +1429,7 @@ Im Not [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]
 Im So Not [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] But I Dont Know Why
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Constant Comment/#zoochosis" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/explicitly-showcased/my-general-outlook-on-this/#zoochosis" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
