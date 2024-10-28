@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/explicitly-showcased/my-general-outlook-on-this/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true,"noteIcon":""}
 ---
 
-# My General Outlook On This
+Using a named example of each, Compare and Contrast Prokaryotic and Eukaryotic  
+cell structure# My General Outlook On This
 
 #### ‫‬‭‮‪‫‬‭‮҉   ‫‬‭‮҉‫‬‭‮‪‫‬‭‮ My General Outlook On This
 
