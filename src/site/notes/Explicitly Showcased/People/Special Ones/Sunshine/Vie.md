@@ -81,6 +81,21 @@ Also
 Those Look So Good And I Cant Believe You Didnt Give Me Any >:(
 Youre Evil!!
 
+I Havent Updated This In So Long
+I Still Think About Our Pizza All The Time, I Wish I Could Have Been In That Moment Forever
+
+When I First Met Vesper She Was So Small. Like Talking To Her Was The Verbal Equivalent Of When A Kitten Sleeps On Your Lap 
+I Know Theyve Been Through A Lot Both Before And After Having Met And I Feel Bad That I Couldn't Protect Them From Any Of That But At The Same Time Look How Xe's Grown
+Im So Proud Of Him And So Honored That I Can Spend Time With Him
+At The Same Time I Feel Like Im Always Such a Bother To Them, And I'll Always Be Sorry About That Even Though He Tells Me Its Okay
+That Being Said: Thank You
+
+Usually I Write These As Like A Detailed Explanaition Of Who The Person Is Like "Vespers Favourite Ice Cream Is Strawberry Cheesecake" But I Dont Know How To Describe You In Any Wya T sOmeone Who Doesnt Already Know You. Like You Are One Of Those Wonder That You Need To See to Believe. I Could Just Turn This Into A List Of Things I Like About You: i LIke How She Interacts With People That She Loves/Cares About, I Like How She Complains About The Things That Annoy Him, Hes Both Good At Dealing With People And Bad At Putting Up With People, They Get Excited About Some Of The Smallest Things And Its Adorable But They Are Just As Capable Of Being Excited Over The Bigger Aspects Of Life, I Love How That Can Contrast Against My Opinion On Some Things, The Way He Talks About Things Always Warm My Heart And Im Pretty Sure He Feels THe Same About My Random Rambling
+
+I Keep Thinking I Should Update This But Im Worried That You dont Want Me To
+I Also Just Realised The Link Might Have Changed since I Last Sent This To You
+
+
 
 
 
