@@ -10,7 +10,7 @@ Muse;Spider, Flesh
 
 # Good Day
 I Hung Out With Dee Today (The Light Of My Life, Beacon Of Hope And The Best Woman Since Adam Got Married) And She Is Always So Freaking Amazing!
-We Went To Spoons For Lunch Then I Kinda Just Escorted Her Through The Completion Of A Errands; She Also Let [[Branches/Me\|Me]] Borrow An Old Shirt And After All That My Whole Day Has Been Made
+We Went To Spoons For Lunch Then I Kinda Just Escorted Her Through The Completion Of A Errands; She Also Let [[Explicitly Showcased/Me/Me\|Me]] Borrow An Old Shirt And After All That My Whole Day Has Been Made
 Living Proof That Spiders Can Be Lovely 
 On That Topic No Clue What Aspect They Are
 

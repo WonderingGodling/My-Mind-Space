@@ -12,15 +12,15 @@ I Dont Know Why She Thinks She Deserves Any Respect From Anybody
 Case And Point: i Just Tried To Explain To Her Why She Should Listen To My Brother Instead Of Just Yelling At Him (For Stuff He Didnt Do (I Only Got To The Lsiten Part, The Rest Was Too Complicated)) And Instead Of Listen To A Word I Said She Threw A Literal Tantrum
 She Jumped Up And Down, Screaming What Started As "I Dont Want To Talk" (Those Of You With Two Brain Cells Will Remember The Only Word Id Said So Far Was "Listen") But Devolved Into Unintelligible Screeching Which Ive Never Heard From Someone Over The Age Of Eight.
 
-Dont Worry Theres So Much More For [[Branches/Me\|Me]] To Say About The Asshole So This'll Be Updated
+Dont Worry Theres So Much More For [[Explicitly Showcased/Me/Me\|Me]] To Say About The Asshole So This'll Be Updated
 Also Her Names At The Top Because I Want Everyone To Know This Isnt Some Hypothetical Mother, This Is A Mentally Abusive Piece Of Shit That I Live With Every Day
 
-For The Record (My Record) This Was Created On 334,23 Which Was Supposed To Be A Good Day For [[Branches/Me\|Me]]
+For The Record (My Record) This Was Created On 334,23 Which Was Supposed To Be A Good Day For [[Explicitly Showcased/Me/Me\|Me]]
 
 Ive Spoken To Her Twice This Week (48,23)
-The First Time I Didnt Appreciate The Way She Villainized [[Branches/Me\|Me]] And The Second Time Was Just 
+The First Time I Didnt Appreciate The Way She Villainized [[Explicitly Showcased/Me/Me\|Me]] And The Second Time Was Just 
 And You Know What? I Bet She Didnt Even Fucking Notice!
-Shes Never Given A Fuck About [[Branches/Me\|Me]] And Everyone Knows It
+Shes Never Given A Fuck About [[Explicitly Showcased/Me/Me\|Me]] And Everyone Knows It
 
 (This Next Bit Is Imported)
 She Said She Doesnt Care
@@ -208,8 +208,8 @@ And I Feel [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|
 
 [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|My Friend]] Threatened To Wear A "Lil Black Skirt" And If They Do I'll Strangle Them /Affectionate
 
-Very Few Things Bring [[Branches/Me\|Me]] Happiness 
-And One Of Those Things Has Been Leaving [[Branches/Me\|Me]] On Read For Hours 
+Very Few Things Bring [[Explicitly Showcased/Me/Me\|Me]] Happiness 
+And One Of Those Things Has Been Leaving [[Explicitly Showcased/Me/Me\|Me]] On Read For Hours 
 Happiness Is A Lie 
 Life Is A Chain Of Suffering 
 Thank You For Coming To My Ted Talk
@@ -232,7 +232,7 @@ Woke Up At Like 2100 Spent Three Hours Eating And Now Im Just Existing At 1
 Went To Bed At Like Six Last Night (For Eight Hours) 
 Best Sleep Of Like A Month
 
-I Think Most [[Branches/People\|People]] With Low Self-Esteem Or Shitty Parents Feel A Deep Desire To Be Loved But I Feel Like It Just Made [[Branches/Me\|Me]] Hate The Concept 
+I Think Most [[Branches/People\|People]] With Low Self-Esteem Or Shitty Parents Feel A Deep Desire To Be Loved But I Feel Like It Just Made [[Explicitly Showcased/Me/Me\|Me]] Hate The Concept 
 Maybe Thats What Dads From The Seventies Were Aiming For 
 "If I Hate My Son He'll Become Emotionally Unavailable Then I'll Never Have To Deal With It Again" 
 Well Ive Got Good News And Bad News For Ya 
@@ -245,12 +245,12 @@ I Dont Know What My Subconscious Is Up To
 Theres Cayenne In My Pocket
 
 Mmmm 
-Markiplier Isnt Cheering [[Branches/Me\|Me]] Up And I Dont Feel Like Music Right Now
+Markiplier Isnt Cheering [[Explicitly Showcased/Me/Me\|Me]] Up And I Dont Feel Like Music Right Now
 
 I Used The Peppers 
-Good Job [[Branches/Me\|Me]]
+Good Job [[Explicitly Showcased/Me/Me\|Me]]
 
-Mark Made [[Branches/Me\|Me]] Laugh 
+Mark Made [[Explicitly Showcased/Me/Me\|Me]] Laugh 
 We Got Spooked Together <3
 
 The Stanley Parable 
@@ -278,9 +278,9 @@ Cant Decide If It Was a Happy Ending Or What
 I Just Saw A Steam Comment "Homestuck? Well Yeah Its Bolted To The Ground"
 
 Nonbinary Dom Like 
-"My Pronouns Are Master/Master's; You Will Adress [[Branches/Me\|Me]] On Your Knees"
+"My Pronouns Are Master/Master's; You Will Adress [[Explicitly Showcased/Me/Me\|Me]] On Your Knees"
 
-Remember [[Branches/Me\|Me]] Making Fun Of The Armpit Guy Because "How The Ft Dod He Figure That Out‽" 
+Remember [[Explicitly Showcased/Me/Me\|Me]] Making Fun Of The Armpit Guy Because "How The Ft Dod He Figure That Out‽" 
 Ive Changed My Opinion 
 
 I Dont Know If This Video Is Safe For Work But Its Relevant So Probably Not (ETA(19·2023 47.08) The Video I Put Here Dissapeared But It Was In Fact Proof That Armpit Focused Videos Exist)
@@ -305,7 +305,7 @@ One Of My Discord Friends Got Paws
 ## Back To Normal?
 
 Did Some Messing Around And I Should Be Able To Edit Tje Websote On The Go So....
-Expect More Of [[Branches/Me\|Me]] I Guess
+Expect More Of [[Explicitly Showcased/Me/Me\|Me]] I Guess
 
 Somebody (Not Naming Names) Has Put Tablespoons Of Tea Into My Teapot Instead Of The More Elegant And Aptly Named Teaspoons Of Tea So I Dont Think The Brew Strength Is Ever Right
 
@@ -344,7 +344,7 @@ It Was Quite A Pleasant Surprise
 A Pancake Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Just Fell From The Sky?
 Like [[Plap.jpg\|Plap!]]
 I Thought It Was Just Really Loud Bird Shit, Then Noticed It Was Too Big
-Theres Nobody Near [[Branches/Me\|Me]] To Throw It....
+Theres Nobody Near [[Explicitly Showcased/Me/Me\|Me]] To Throw It....
 
 Ive Thought Barely Anything Today
 /̵͇̿̿/'̿'̿ ̿ ̿̿ ̿̿ ̿̿ 
@@ -369,7 +369,7 @@ Guess Who Just Finished The Essay Shes Spent Like Two Weeks Working On
 Apparently All My Sources Are Plagiarised Which Is Certainly [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]
 
 ![](https://i.imgur.com/vwdTu6Z.png)
-You Cant Tell [[Branches/Me\|Me]] That Wouldn't Be A Badass Name
+You Cant Tell [[Explicitly Showcased/Me/Me\|Me]] That Wouldn't Be A Badass Name
 Naming My Daughter Mortality Rose
 
 "Momma Shelly Was Gay As Fuck
@@ -395,7 +395,7 @@ Im So Not [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] But I Don
 
 # Zoochosis
 
-It Has Come To My Attention (Via [[Branches/Me\|Me]] Telling [[Branches/Me\|Me]] What I Think Is Best For [[Branches/Me\|Me]]) That Since I Am Undergoing Zoochosis And That The Enrichment Time That I Usually Try To Provide Myself With Is A Failing Method, The Best Thing For [[Branches/Me\|Me]] To Do For My Mental Health Is To Empty The Beehive More Frequently; The Problem Isnt My Mind, It's Keeping My Mind Locked Iniside Of Itself  
+It Has Come To My Attention (Via [[Explicitly Showcased/Me/Me\|Me]] Telling [[Explicitly Showcased/Me/Me\|Me]] What I Think Is Best For [[Explicitly Showcased/Me/Me\|Me]]) That Since I Am Undergoing Zoochosis And That The Enrichment Time That I Usually Try To Provide Myself With Is A Failing Method, The Best Thing For [[Explicitly Showcased/Me/Me\|Me]] To Do For My Mental Health Is To Empty The Beehive More Frequently; The Problem Isnt My Mind, It's Keeping My Mind Locked Iniside Of Itself  
 This [Website](https://my-mind-space.vercel.app/) Will See The Biggest Hit In Terms Of My Increase In Esoteric
 
 
@@ -438,14 +438,14 @@ My Computer Now Starts With A Key
 Also I Went To Las Iguanas To Eat, It Was Pretty Good
 
 Oh And New Earphones Are Quite Good
-Makes [[Branches/Me\|Me]] Feel A Little [[Skull/Spam/Crazy\|Crazy]] Though Because I Feel Like Im Listening To Shit In A Silewnt Room And Everyones Just Like "Who The Fuack Is This Guy?"
-Im Not Worried Theyre Judgin G [[Branches/Me\|Me]] Its Just A Very Large Tonal Shift
+Makes [[Explicitly Showcased/Me/Me\|Me]] Feel A Little [[Skull/Spam/Crazy\|Crazy]] Though Because I Feel Like Im Listening To Shit In A Silewnt Room And Everyones Just Like "Who The Fuack Is This Guy?"
+Im Not Worried Theyre Judgin G [[Explicitly Showcased/Me/Me\|Me]] Its Just A Very Large Tonal Shift
 
 Watch Icp Win US Presidency
 
 Cleaning Up The Vault
 
-I Always Feel Like I Shouldnt Be In This [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] But Recently Ive Felt That My [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] Doesn't Belong With [[Branches/Me\|Me]] In It
+I Always Feel Like I Shouldnt Be In This [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] But Recently Ive Felt That My [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] Doesn't Belong With [[Explicitly Showcased/Me/Me\|Me]] In It
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:0WVvjWYXyV_tcp5kf631Jw/729147951762505728/v2" data-did="945d63eecd58b6a0bd44d5f12bb9abce89656c19" ><a href="https://www.tumblr.com/shencomix/739174739386515456">https://www.tumblr.com/shencomix/739174739386515456</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
@@ -463,7 +463,7 @@ Ha
 Its 40•2024•4597 And I Am Losing My Mind But Im Back; Your Girl Is Back; I Am Typing Real Huamn Words-
 That One Doesnt Count; Go To Hell
 
-Im In 3AB002 And It Is Killing [[Branches/Me\|Me]]; Im Actually Dying! This Lecture Is So Slow And I Know All Of It And The Lecturer Said That This Isnt Important Because He Knows The Test And We've Already Covered The Part Of This Subject Thatll Be On TheTest So do weNeed To Be Here? 
+Im In 3AB002 And It Is Killing [[Explicitly Showcased/Me/Me\|Me]]; Im Actually Dying! This Lecture Is So Slow And I Know All Of It And The Lecturer Said That This Isnt Important Because He Knows The Test And We've Already Covered The Part Of This Subject Thatll Be On TheTest So do weNeed To Be Here? 
 That Wasnt rethorical; No Is The Answer
 
 43•2024• Maybe Fixed The [[Explicitly Showcased/Home Page I Guess/Home Page\|Website]] 
@@ -481,7 +481,7 @@ Hhhhh
 Had To Get The 5 Train Back Dx
 
 Being Perceived Isnt For Everybody 
-I Know Its Not For [[Branches/Me\|Me]]
+I Know Its Not For [[Explicitly Showcased/Me/Me\|Me]]
 
 Lex Is Great 
 Shout Out Lex
@@ -497,7 +497,7 @@ Girls Talking About How Much They Suck At The Tests Here Or [[Skull/Concentrated
 Adam Wants To Make Fun Of That One Girl
 Because Reasons 
 
-This Lecturer, Despite Not habing Started Yet, Doesn't strike [[Branches/Me\|Me]] As A Mn who Knows What hes Doing
+This Lecturer, Despite Not habing Started Yet, Doesn't strike [[Explicitly Showcased/Me/Me\|Me]] As A Mn who Knows What hes Doing
 
 I Was Right, Hes Apent The First Eighteen Minutes Riffing About Ice Cream
 
@@ -507,7 +507,7 @@ I Shouldn't Be Here
 The Lectures Slow, The [[Branches/People\|People]] Are Gross, The Contents Important But The Powerpoints Are Shared Anyway; My Presence Is Just Leading To Suffering <sup>(Title Of My Autobiography)</sup>
 
 "Its Like My Grandpa Used To Say: Hiddem With Da Fish And He'll Never See It Comin"
-~ [[Branches/Me\|Me]]
+~ [[Explicitly Showcased/Me/Me\|Me]]
 
 "Ugh, I Need To Bend Down Like A Peasant"
 ~Core
@@ -516,7 +516,7 @@ The Lectures Slow, The [[Branches/People\|People]] Are Gross, The Contents Impor
 This Lecturer- Emma [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]- Has A Power Complex (Though To Be Fair Most Educators Do) But Whats Happening Is That Whenever She Notices That Someone Is Talking She Stops So That Dhe Can Stare At Them
 And It Isnt So that She Can Be Heard Properly Because There Is This Really Loud Drilling Noise Which Occasionally Comes From Behind Her And Shes Just Ignored It Every Time; I Can Only Conclude The Issue Id That The Idea Of Other [[Branches/People\|People]] Not Sacrificing The Entirety Of Their Attention Id Being Treated As A Criminal Act
 
-I Really Need to Type Stuff Up More Because Keeping It In Is Driving [[Branches/Me\|Me]] Towards Madness And The [[Branches/People\|People]] Who At Least Pretend To Care All Have Actual Things That Go On On Their Actual Lives--
+I Really Need to Type Stuff Up More Because Keeping It In Is Driving [[Explicitly Showcased/Me/Me\|Me]] Towards Madness And The [[Branches/People\|People]] Who At Least Pretend To Care All Have Actual Things That Go On On Their Actual Lives--
 Also Im Thinking Of Seperating This Into Multiple Pages If It Gets Too Long; Thats A Long Way Down the Road Though So Dont Worry (Xei Said To The Zero [[Branches/People\|People]] Reading)
 Im Also Going To Put Up My Lecture Notes When I Start Making Them So Theres That To Look Forward To
 
@@ -537,20 +537,20 @@ No You Can "See" Things Like Psychics And Stuff So Nevermind
 
 Just Missed An Empty Train :D
 
-Train Fumes Giving [[Branches/Me\|Me]] Headache
+Train Fumes Giving [[Explicitly Showcased/Me/Me\|Me]] Headache
 Also Got Here In Like An Hour Which Is A Surprisingly Slow Run But Its Whatever Because I Still Have An Hour Before My Lecture 
 
 Whatd The Opposite Of Cooking Because Thats What Im Doing--
 Rotting Works Surprisingly Well For That Actually; Prolonged Uncookery And Suffering 
-Maybe If I Was The Hunt Id Feel Better; I Can Definitely See How A Light Hunter Would Be Able To Thrive (Although Why A Light Watcher Isnt Frankly Escapes [[Branches/Me\|Me]])
+Maybe If I Was The Hunt Id Feel Better; I Can Definitely See How A Light Hunter Would Be Able To Thrive (Although Why A Light Watcher Isnt Frankly Escapes [[Explicitly Showcased/Me/Me\|Me]])
 
-Every Time I See A Picture Of Myself The Best I Can Do To Describe My Attitude Towards It Is Stranger; I Feel Like When Im In An Image Or A Video The Thing That Is [[Branches/Me\|Me]] Is Wrong
+Every Time I See A Picture Of Myself The Best I Can Do To Describe My Attitude Towards It Is Stranger; I Feel Like When Im In An Image Or A Video The Thing That Is [[Explicitly Showcased/Me/Me\|Me]] Is Wrong
 I Know Thats Some Form Of [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] Dysmorphia Or Whatever And I Also Know That I Dont Really Care Enough About It To Do Anything
 I Guess Its Just That I Would Find Most Of My Life To Be Easier If I Weren'tAble To Be Perceived
-Really Wish The SEP Existed So [[Branches/People\|People]] Would Just Let [[Branches/Me\|Me]] Be 
+Really Wish The SEP Existed So [[Branches/People\|People]] Would Just Let [[Explicitly Showcased/Me/Me\|Me]] Be 
 
-As I'm Making Coffee To Mentally Fortify Myself For My Lectures I Get An Email Telling [[Branches/Me\|Me]] All Lectures Today Are Cancelled (51•2024•4500 Btw)
-Well More Specifically I Got Email Notified Of A Canvas Message Telling [[Branches/Me\|Me]] That Since IT (Incmuding Canvas) Is Malfunctioning Lectures Are Called Off
+As I'm Making Coffee To Mentally Fortify Myself For My Lectures I Get An Email Telling [[Explicitly Showcased/Me/Me\|Me]] All Lectures Today Are Cancelled (51•2024•4500 Btw)
+Well More Specifically I Got Email Notified Of A Canvas Message Telling [[Explicitly Showcased/Me/Me\|Me]] That Since IT (Incmuding Canvas) Is Malfunctioning Lectures Are Called Off
 
 Also My Brother Gets Recommended Trans Greentext On YouTube 
 L
@@ -566,10 +566,10 @@ Really Enjoying This Season For Some Reason
 4k Zen Comp Play; 2nd Supp Comp Play In Half As Many Hours 
 Going To Bed
 
-52•2024•0359 Is [[Branches/Me\|Me]] Going To Bed Early So That Im Fully Rested For Dee <s>Tomorrow</s> Today 
+52•2024•0359 Is [[Explicitly Showcased/Me/Me\|Me]] Going To Bed Early So That Im Fully Rested For Dee <s>Tomorrow</s> Today 
 Also Listening To [[Branches/TMA\|TMA]] 99 Dust To Dust; Its A Gertrude Episode (Not Her Best Though)
 
-Also, [[Branches/Me\|Me]], Its Boise City Oklahoma
+Also, [[Explicitly Showcased/Me/Me\|Me]], Its Boise City Oklahoma
 You Always Forget That Settlement--
 What The Gell Is My Tinnitus Doing Today Its Bloody Distracting 
 
@@ -601,7 +601,7 @@ Happens Every Time That I Read This
 
 I Haven't Really Eaten Or Drank Anything All Day And My Mother's Been Camping The Kitchen For Hours
 
-Vie's Too Busy Cleaning To Deal With [[Branches/Me\|Me]] Dx
+Vie's Too Busy Cleaning To Deal With [[Explicitly Showcased/Me/Me\|Me]] Dx
 
 ![d2b89dd5b95cb7f7d56f0e9c5881477d.jpg](/img/user/images/d2b89dd5b95cb7f7d56f0e9c5881477d.jpg)
 Cool Tattoo
@@ -616,7 +616,7 @@ My Girls Got A Lil Pregnant, No Wories
 Eating Goldbears Like A Weirdo
 
 (59·2024·8333~)
-Finally Got My Pc Back; [[Branches/Me\|Me]] And Core Spent Like All Day Working On It And Now Everything Wprks Smoothly
+Finally Got My Pc Back; [[Explicitly Showcased/Me/Me\|Me]] And Core Spent Like All Day Working On It And Now Everything Wprks Smoothly
 
 Now For Some Note Catchup
 
@@ -707,7 +707,7 @@ Im Taking Bets; Closest Without Going Over <33
 Ive Had No Purposeful [[Constant Comment (Not The Tea) \|Thoughts]] For Like Three Days; I Feel Like Death, Especially In The Sense That I Have No Way To Think About My Current State
 
 
-I Keep Forgetting, Amid My Own Depressive Episodes, To Keep Updates On My Current Antics And I Would Love For Someone To Remind [[Branches/Me\|Me]]
+I Keep Forgetting, Amid My Own Depressive Episodes, To Keep Updates On My Current Antics And I Would Love For Someone To Remind [[Explicitly Showcased/Me/Me\|Me]]
 
 Backing Up Some More Stuff
 Nevermind That Didnt Work And Is Super Lame
@@ -739,19 +739,19 @@ Im So Dead Right Noww
 ![Biblically_Accurate_Furby.png](/img/user/images/Biblically_Accurate_Furby.png)
 ![62f982f12118a056e8a4f81ffc9fb543ecce51a3.jpg](/img/user/images/62f982f12118a056e8a4f81ffc9fb543ecce51a3.jpg)
 
-I Feel Like My Bones Want To Eat [[Branches/Me\|Me]] Whole
+I Feel Like My Bones Want To Eat [[Explicitly Showcased/Me/Me\|Me]] Whole
 I Guess Back To Video Games :D
 
-I Keep Feeling Like This Is It; Im Finally Going To Break Then Someone Messages [[Branches/Me\|Me]] And Im Like "Im Fine Why Do You Ask :)"
+I Keep Feeling Like This Is It; Im Finally Going To Break Then Someone Messages [[Explicitly Showcased/Me/Me\|Me]] And Im Like "Im Fine Why Do You Ask :)"
 Really Channelling My Inner [[Skull/Concentrated Brain/Random Thoughts/TMA/Aspects/Spider\|Spider]]
 
 havent.... Havent Slept, Dont Really Want To
 Its Mothers Day Tomorrow And I Havent Preped, Dont Really Want To
 Played....I Dont Even Remmber Anymore But I Di Play Disco Elysium With [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Yesterday "With [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]]" That Was Kinda Nice
-Absolutely Putting Out [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] With My Enrgy Today And Its Killing [[Branches/Me\|Me]]
+Absolutely Putting Out [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] With My Enrgy Today And Its Killing [[Explicitly Showcased/Me/Me\|Me]]
 
 Probably Gonna Break Down And Do The Thing Later Which I Love Doing So Yay
-Oh And The Dreamer Messaged [[Branches/Me\|Me]] And That Freaked [[Branches/Me\|Me]] Out Because I Thought They Didnt Wanna Talk To [[Branches/Me\|Me]] So Idk Maybe (Probably) Im Just Paranoid
+Oh And The Dreamer Messaged [[Explicitly Showcased/Me/Me\|Me]] And That Freaked [[Explicitly Showcased/Me/Me\|Me]] Out Because I Thought They Didnt Wanna Talk To [[Explicitly Showcased/Me/Me\|Me]] So Idk Maybe (Probably) Im Just Paranoid
 
 Sometimes I Feel Like Ive Been Adding A Lot To This And Then I Scroll Up And Im Like....Nope
 Oh Well
@@ -1258,14 +1258,69 @@ He Wanted Us To Look At A Thing AnD I Stopped And Then Hes Already Like Moved On
 Got Way Too Distracted Making A [[Skull/Concentrated Brain/Random Thoughts/Stats\|Stats]] Page
 
 
-Wrighth 1, Fire Resistance (Augmentation)
-When Donned Bless/Sleb Thwart Flame (Keeps)
 
-Wrighth 2, Group Revival (Status)
-Link/Kiln, When Killed/Licked Break Link/Kiln, When Links/Lynx Void Live/Vil, Link/Kiln
 
-Wrighth 3, Wright Vision (Augmentation)
-When Donned Bid/Dib Viewed Wright/Tyre/Try Aired/Dare
+###### aaa
+miliitek, data, 52 floor,
+aarasaka 191
+	playing uberpop, arsecracks
+
+Mrs s. Broker
+	Atlantis
+	johnny silver
+
+
+
+Every Time I Want To Update This I Look And Its Broken
+It Kinda Makes Me Wanna Stop Ngl (In The Moment Not In General (Usually))
+
+Also Im So Not Paying Attention Right Now And I Hope That Doesnt Fuck Me Over Too Much
+Im Like So Done Right Now Though
+
+I Didnt Eat Breakfast Today (302•2024) But Thats Fine, I Think I Skipped Breakfast A Few Times This Month
+I Was Gonna Get A Flapjack But Train Blew Up So I Was Late To Uni (I Might Have Been On An Earlier Train If I Had Cared Less About What I Was Going To Eat)
+
+ZOnedd Out Again ^^
+
+![Pasted image 20241028114919.png](/img/user/images/Pasted%20image%2020241028114919.png) I Never Finished Playing This
+I Was Playing It With Vie And Then Never Did A Session Two
+
+I VNEEr Singed Into Microsoft ON THis Laopop....
+
+cool i dont eed to know this for the exam
+
+thought for a second that id forgotten my jacket somewhere @~@
+really not feeling great
+just generally "no"
+also qa isnt working an d i cant be arsed to type so lower case (lowercase?) for a bit
+
+vie responded! then nothing but thats to be expected
+assuming hes busy and staying distracted
+
+bbeen staeving in this room for like an hour and i hhave another one coming; this laptop isnt going to last until the end of the lesson
+! speak of the devil: 10%
+it was just 20
+
+animal behavior notes
+
+what did skinner define as all descernable processes....
+
+tim burgen
+
+starlings
+
+which animal species uses sonar
+
+what are the main organs in snakes which detect heat
+
+which of the following denotypes is heterozygous
+
+communication
+
+averages
+
+
+
 
 
 
@@ -1425,8 +1480,8 @@ I Have Food Now
 Her Torturous Voice Echos Throughout The House And Comes At You From Every Conceivable Place 
 
 Theres A Scene At The End Of A Lot Of Hamtaro Episodes Where The Mother (I Dont Remember Anyones Names) Says [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] About Or Directed Towards The Daughter But Says The Wrong Name  
-Theres One Scene In Particular Thats Stuck With [[Branches/Me\|Me]] Where The Mother Addresses The Girl As "Brandy" To Which She Replies "Thats The Dog Mom...."  
-The Reason Its Always Stuck With [[Branches/Me\|Me]] Is Because Thats How I Feel Every Time I Have A Conversation With My Mother  
+Theres One Scene In Particular Thats Stuck With [[Explicitly Showcased/Me/Me\|Me]] Where The Mother Addresses The Girl As "Brandy" To Which She Replies "Thats The Dog Mom...."  
+The Reason Its Always Stuck With [[Explicitly Showcased/Me/Me\|Me]] Is Because Thats How I Feel Every Time I Have A Conversation With My Mother  
 I Know Shes Not Listening And That I Have - And Will Have To - Repeat Whatever I Just Said To Someone Who Ultimately Doesnt Care One Way Or The Other
 
 
@@ -1439,7 +1494,7 @@ Excuse Me‽ Bitch
 I Try Do Hard To Not Add To Thid Page; That Woman Shovels So Much Negative Energy Into My Soul
 Energy That I Dont Want To Use To Fuel My Being; Or Even To Fuel My Writing In Any Form....Yet Here We Are
 
-My Mothers Trying To Tell [[Branches/Me\|Me]] That Imposter Syndrome Is When Someone Pretends To Be You 
+My Mothers Trying To Tell [[Explicitly Showcased/Me/Me\|Me]] That Imposter Syndrome Is When Someone Pretends To Be You 
 
 My Mother Wanted To Watch A Movie Then My Brother Started A Conversation 
 When It Ended I Asked Her To Rewind And When She Did She Called My Brother Back :/

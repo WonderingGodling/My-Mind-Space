@@ -73,7 +73,7 @@ Free
 
 | **Cantrip** | [[Light\|Light]]              |                   |
 | ----------- | ---------------------- | ----------------- |
-| **1st**     | [[thunderwave\|thunderwave]]        | [[Burning Hands\|Burning Hands]] |
+| **1st**     | [[thunderwave\|thunderwave]]        | [[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Burning Hands\|Burning Hands]] |
 | **2nd**     | [[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Ruby/God Ver/Rime's Binding Ice\|Rime's Binding Ice]] |                   |
 | **3rd**     | [[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Ruby/God Ver/Counterspell\|Counterspell]]       |                   |
 

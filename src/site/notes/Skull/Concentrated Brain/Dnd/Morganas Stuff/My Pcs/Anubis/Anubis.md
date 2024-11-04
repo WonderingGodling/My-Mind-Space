@@ -56,7 +56,7 @@
 
 | Constitution |     |     |
 | ------------ | --- | --- |
-
+Mist points: 4
 # Inventory
 
 Money: 10, a mix of Azorius and Boros 1-zino coins
@@ -86,20 +86,20 @@ Rakdos Guild Spells
 	Fire Bolt, Vicious Mockery, Burning Hands, Dissonant Whispers, Hellish Rebuke, Crown of Madness, Enthrall, Flaming Sphere
 
 Githyanki Psionics
-	Mage Hand
-Psychic Resilience
-Knowledge from a Past Life
+	[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Mage hand\|Mage Hand]]
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Githyanki#Psychic Resilience.\|Psychic Resilience]]
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Venti/Reborn#Deathless Nature\|Deathless nature]]
 
-Mist walk
-Shroud of mist
-Spellcasting
-Mist breath
-Misty path
-	Path of the ascended
-Mist manipulation
-Mist sight
-Hand of the mist
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Mist Walker#Mist walk\|Mist walk]]
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Mist Walker#Shroud of mist\|Shroud Of Mist]]
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Mist Walker#Spellcasting\|Spellcasting]]
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Mist Walker#Mist breath\|Mist Breath]]
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Mist Walker#Misty path\|Misty path]]
+	[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Mist Walker#Path of the ascended\|Path of the ascended]]
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Mist Walker#Mist manipulation\|Mist manipulation]]
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Mist Walker#Mist sight\|Mist sight]]
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Mist Walker#Hand of the mist\|Hand of the mist]]
 
 
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/War Caster\|War Caster]]
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Ruby/God Ver/Vital Sacrifice\|Vital Sacrifice]]
 [[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Remarkable Recovery\|Remarkable Recovery]]

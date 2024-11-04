@@ -31,7 +31,7 @@ Also On My End Ive Got Little Icons Next To Filess And Stuff And There Isnt A Si
 
 # Zoochosis
 
-It Has Come To My Attention (Via [[Branches/Me\|Me]] Telling [[Branches/Me\|Me]] What I Think Is Best For [[Branches/Me\|Me]]) That Since I Am Undergoing Zoochosis And That The Enrichment Time That I Usually Try To Provide Myself With Is A Failing Method, The Best Thing For [[Branches/Me\|Me]] To Do For My Mental Health Is To Empty The Beehive More Frequently; The Problem Isnt My Mind, It's Keeping My Mind Locked Iniside Of Itself  
+It Has Come To My Attention (Via [[Explicitly Showcased/Me/Me\|Me]] Telling [[Explicitly Showcased/Me/Me\|Me]] What I Think Is Best For [[Explicitly Showcased/Me/Me\|Me]]) That Since I Am Undergoing Zoochosis And That The Enrichment Time That I Usually Try To Provide Myself With Is A Failing Method, The Best Thing For [[Explicitly Showcased/Me/Me\|Me]] To Do For My Mental Health Is To Empty The Beehive More Frequently; The Problem Isnt My Mind, It's Keeping My Mind Locked Iniside Of Itself  
 This [Website](https://my-mind-space.vercel.app/) Will See The Biggest Hit In Terms Of My Increase In Esoteric
 
 # Mid Zoochosis

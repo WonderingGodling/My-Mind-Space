@@ -25,7 +25,7 @@
 | :----------: | :-: | :---: | :-----------: |
 |      30      | 10  |   2   |       0       |
 |   Hit Dice   | 3d6 |  3d6  | Saving Throws |
-|    Health    |  2  |   2   |               |
+|    Health    |  6  |  24   |               |
 |   Strength   |  8  |  -1   |               |
 |  Dexterity   | 10  |   0   |               |
 | Constitution | 14  |   2   |               |

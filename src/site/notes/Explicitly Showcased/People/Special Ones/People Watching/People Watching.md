@@ -11,18 +11,18 @@
 Just Walked Passed A Homeless Guy With a Cat Which Is Honestly Genuis  
 His Cat Was This Absolutely Adorable Little Bicolour And Of Course Nobody wants Them To Starve Or Anything So Give The Man Some Money So The Kitty Can Be Happy!
 
-Theres A Person In Front Of [[Branches/Me\|Me]] Who Has A Bright Pink Backpack And Is Standing Next To Someone Whos Jumper Is That Exact Shade Of Pink
+Theres A Person In Front Of [[Explicitly Showcased/Me/Me\|Me]] Who Has A Bright Pink Backpack And Is Standing Next To Someone Whos Jumper Is That Exact Shade Of Pink
 It Had A Kuromi Badge!!
 
 Two [[Branches/People\|People]] On My Train Just Shout-Sang "Naked Twister"  
 They Group Theyre In Is Introducing Each Other With Their Names And How Many Drinks Theyve Had
 
-This Shopkeeper Just Tried To Steal 20p From [[Branches/Me\|Me]]  
+This Shopkeeper Just Tried To Steal 20p From [[Explicitly Showcased/Me/Me\|Me]]  
 I Was Buying Monster And They Were All 1.55 Except The One I Wanted And The Guy Typed Out 1.55 Into The Card Machine  
 And I Wouldn't Be Upset If He Didnt Turn The Can To Check First  
 100% Just Being A Dick
 
-I Was Sitting On The Floor Trying To Listen To Shit And A Group Of Girls Started Standing Around [[Branches/Me\|Me]] (Literally) And Had The Loudest Conversation About [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]:/
+I Was Sitting On The Floor Trying To Listen To Shit And A Group Of Girls Started Standing Around [[Explicitly Showcased/Me/Me\|Me]] (Literally) And Had The Loudest Conversation About [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]:/
 
 
 I Just Heard Someone Piss Out About A Litre Of Liquid 

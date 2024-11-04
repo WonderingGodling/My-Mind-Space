@@ -93,7 +93,16 @@ That Being Said: Thank You
 Usually I Write These As Like A Detailed Explanaition Of Who The Person Is Like "Vespers Favourite Ice Cream Is Strawberry Cheesecake" But I Dont Know How To Describe You In Any Wya T sOmeone Who Doesnt Already Know You. Like You Are One Of Those Wonder That You Need To See to Believe. I Could Just Turn This Into A List Of Things I Like About You: i LIke How She Interacts With People That She Loves/Cares About, I Like How She Complains About The Things That Annoy Him, Hes Both Good At Dealing With People And Bad At Putting Up With People, They Get Excited About Some Of The Smallest Things And Its Adorable But They Are Just As Capable Of Being Excited Over The Bigger Aspects Of Life, I Love How That Can Contrast Against My Opinion On Some Things, The Way He Talks About Things Always Warm My Heart And Im Pretty Sure He Feels THe Same About My Random Rambling
 
 I Keep Thinking I Should Update This But Im Worried That You dont Want Me To
-I Also Just Realised The Link Might Have Changed since I Last Sent This To You
+I Also Just Realised The Link Might Have Changed since I Last Sent This To You...
+
+
+Baking, Stargazing, Outside, Olive Garden, Movie, Could Have A Nice Night Picnic
+
+
+Didnt Re4spond To My Happy Birthday But Sure Whatever
+
+She got That Tattoo She Wanted, Im Happy For Her
+
 
 
 

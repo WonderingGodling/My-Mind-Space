@@ -34,5 +34,5 @@ The Actual Dream
 Imagine Being A Hermaphrodite **And** Being Able To Reproduce Asexually
 sUrvival Of The Fittest Is Fake And [[Skull/Concentrated Brain/Random Facts/Sharks/Sharks\|Sharks]] Run The World
 
-Also Im Going To Leave This Note Open For Future [[Branches/Me\|Me]] Incase I Ever Start Researching Like Shark Mating Rituals Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]
+Also Im Going To Leave This Note Open For Future [[Explicitly Showcased/Me/Me\|Me]] Incase I Ever Start Researching Like Shark Mating Rituals Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]
 oR Maybe Why Some [[Skull/Concentrated Brain/Random Facts/Sharks/Sharks\|Sharks]] Lay Eggs And Others Dont

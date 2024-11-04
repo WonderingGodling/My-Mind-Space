@@ -222,6 +222,11 @@ Whether The Behaviour Occured During That Time Sample
 Writing Down Whatever
 
 
+## Canada Geese Behavioural Observation Session
+
+302(28)•2024•5965(14:19), West Park Lake (Not under Bridge(There Are Too Few)), 
+
+Swimming, Drinking From The Top Of The Water, Standing On Branch (In Lake), Leaving/ Entering Water, Grooming, Walking, Resting, Resting By Water, Foraging, Social, Out Of Sight, Stretching Tall
 
 <center><sub>Done?</sub></center>
 
