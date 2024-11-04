@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/home-page/","title":"Horizon","tags":["Home","Rambling","gardenEntry","Website","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dgShowLocalGraph":"false","dgShowToc":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/home-page/","title":"Horizon","tags":["Home","Rambling","gardenEntry","Website","gardenEntry"],"dgShowLocalGraph":"false","dgShowToc":true,"noteIcon":""}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -21,10 +21,13 @@ And This Is For You [[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin
 
 Also Some [[Branches/People\|People]] Wanted To Deliver Some Messages To A Bunch Of Internet Strangers So.... [[Explicitly Showcased/From Others/Relay 1\|Relay 1]] [[Explicitly Showcased/From Others/Relay 2\|Relay 2]]
 
+Currently  **[[Explicitly Showcased/Home Page I Guess/Testing Stuff\|Testing Stuff]]**
   
 ‫‬‭‮‪‫‬‭‮҉   ‫‬‭‮҉‫‬‭‮‪‫‬‭‮҉ [[Explicitly Showcased/My General Outlook On This\|My General Outlook On This]]
  
 I Dont Want This Specific Page To Get Crowded So Im Going To Stop Talking Here
+
+<script src="https://static.elfsight.com/platform/platform.js" async></script> <div class="elfsight-app-20ee6467-81a6-47ba-81bd-de95c689049f" data-elfsight-app-lazy></div>
 
 
 
