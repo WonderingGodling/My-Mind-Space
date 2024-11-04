@@ -30,7 +30,7 @@ Thats Honestly A Shame; They Should Get More Attention Every Now And Then
 
 [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Desolation Lonely Maybe?
 Thats A Weird Dynamic; Possibly Eye
-Its Just That Amongst The Desolation Behaviour Theirs A Layer Of "Oh No, Please Dont Try To Hurt [[Branches/Me\|Me]]" Could Be As A Defence Or Even An Offence (Like A Dart Frog Or An Angler Fish)
+Its Just That Amongst The Desolation Behaviour Theirs A Layer Of "Oh No, Please Dont Try To Hurt [[Explicitly Showcased/Me/Me\|Me]]" Could Be As A Defence Or Even An Offence (Like A Dart Frog Or An Angler Fish)
 It Could Also Be Completely Seperate; I Guess What Im Trying To Say Is The Push And Pull Game They Play Can Either Be For Fun Or By Nature And Those Two Things Mean Completely Different Manifestations 
 Anti Web Definitely 
 
@@ -200,8 +200,8 @@ Takes Her About 30 Minutes On Average To Fill Out The Cum Sheet
 
 Random Stuff Roo Likes Doing: Tarot Readings, Crochet, Painting Nails, Doing Make Up
 
-Oh Yeah Yesterday [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Asked [[Branches/Me\|Me]] If I Wanted To Play Overwatch And I Said Later Because I Was Tired; Later Came And I Asked Them And Got Rejected Because They Were Tired
-Thats A Fair Reason (If It Wasnt I Wouldn't Have Used It) But Its Still Kinda Rude Because Yknow <b>You</b> Asked <b>[[Branches/Me\|Me]]</b> But Its Whatever So I Didnt Say Anything
+Oh Yeah Yesterday [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Asked [[Explicitly Showcased/Me/Me\|Me]] If I Wanted To Play Overwatch And I Said Later Because I Was Tired; Later Came And I Asked Them And Got Rejected Because They Were Tired
+Thats A Fair Reason (If It Wasnt I Wouldn't Have Used It) But Its Still Kinda Rude Because Yknow <b>You</b> Asked <b>[[Explicitly Showcased/Me/Me\|Me]]</b> But Its Whatever So I Didnt Say Anything
 
 97·2023· Went And Hung Out With Roo , We Met Up In Solls But My Train Was....It Wasnt Late But "on time" Was Half An Hour After I Arrived So Idk
 When We Got Together We Went To Waggas, We Both Had Terriaki Chicken Or Something I Dont Actually Remember Anymore, Im Swo Far Beghind On My Documentation
@@ -230,31 +230,3 @@ Also Roo: mango Iced Tea: Not Ideal
 ☆
 ⛧
 
-# Roo Dildo Deal
-If They Dont Even Read This Then Im Glad I Didnt Waste My Time With Them
-
-Yesterday Roo Asked Me "what do i need to do to convince you to buy me a dildo?" But The Thing Is Shes Always Proved Inept At Coming Up With Good Ideas So Here's My Suggestion 
-
-## Clause One
-If They Were Taking This Seriously They Would Need To Literally Worship Me For A Month Straight Before I Put Real Money Towards This; Im Not Putting In Money If You Wont Put In Effort
-As Part Of Worshipping Me Theyd Also Need To Masturbate In A New Location Every Day
-
-## Clause Two 
-However Much The Dildo Costs They Would Need To Cum Twice As Much By The End Of The Year Or Pay The Rest Back (Not Including Standard Shipping)
-Assuming Twice A Day This Gives Them A Current Budget Of £163
-
-If They Dont Find This By Next Month I Will Hint Towards Reading This
-
-
-
-
-<center><sub>Done :)</sub></center>
-
-
-<script src="https://utteranc.es/client.js"
-        repo="WonderingGodling/My-Mind-Space"
-        issue-term="title"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
-</script>
