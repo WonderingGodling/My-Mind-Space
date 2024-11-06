@@ -54,9 +54,9 @@
 
 ### [[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Anubis' Spells\|Anubis' Spells]]
 
-| Constitution |     |     |
+| Constitution | 15  | 7   |
 | ------------ | --- | --- |
-Mist points: 4
+Mist points: 4/4
 # Inventory
 
 Money: 10, a mix of Azorius and Boros 1-zino coins
