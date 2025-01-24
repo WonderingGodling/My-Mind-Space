@@ -9,7 +9,6 @@
  
 ![](https://i.imgur.com/28cl6bL.jpeg)
 
-![[Raven.pdf]]
 
 
 ## General
