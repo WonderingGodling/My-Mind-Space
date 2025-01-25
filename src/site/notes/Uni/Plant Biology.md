@@ -277,7 +277,7 @@ Dense protoplasmic contents
 
 ## week 3 Plant Diversity I & II
 
-### Plant Diversity - Seed Plants
+### Plant Diversity I - Seed Plants
 
 #### Spores v. Seeds
 Spore – most important reproductive & dispersal unit of Bryophyta (haploid)
@@ -286,4 +286,1050 @@ Composed of a protected embryo plant
 Embryo– develops from a fertilised oosphere of a gametophyte which is at all times structurally attached to, and physiologically dependent upon, a sporophyte
 
 #### 2 types of seed bearing plants
+
+
+|                                      Gymnosperms                                      |                               Angiosperms                               |
+|:-------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|
+|                              Naked seeds (not protected)                              |                        Protected seeds in fruit                         |
+|                                     Winged seeds                                      |                             Produce flowers                             |
+|                                    Wind pollinated                                    |                    Colourful to attract pollinators                     |
+| Conifers produce cones (Female cones are larger contain ovules; males contain pollen) |                           Broad shaped leaves                           |
+|                                  Needle like leaves                                   | Deciduous – lose all leaves once per year; remain dormant in the winter |
+|                      Evergreen, leaves are continually replaced                       |                                                                         |
+
+#### Progressive changes in the life cycle of land plants
+- Dominant plant from gametophyte to sporophyte
+- From single gametophyte plant
+	- To small male gametophyte
+	- Large female gametophyte
+- Heterospory
+	- Microspores producing male gametophyte
+	- Megaspores producing female gametophyte
+- Development of gametophyte within the spores before dispersal
+- Retention of female megaspore in the megasporangium & development of the female gametophyte
+- Development of male gametophyte within female organs
+	- carpel = megasporophyll
+	- N.B. a carpel = ovary, style & stigma
+
+#### Life Cycle of Seed Plants
+- Seed plants (spermatophytes) – show the phenomenon of alternation of generations  
+- BUT the sporophyte produces 2 types of spores:  
+	- Microspores  
+	- Megaspores
+
+##### Sporophyte generation  
+- Sporophyte produces 2 types of spores (heterosporous) 
+- Megasporangium – undergoes meiosis to produce megaspores (female gametophyte) 
+- Microsporangium – undergoes meiosis to produce haploid microspores, germinate to produce male gametophyte (pollen)  
+- Many gymnosperms use wind for pollination and seed dispersal
+
+#### Spore types in seed plants
+
+Microspores (pollen grains)
+- Produced in the microsporangia (anthers)
+- Give rise to vestigial male gametophytes & 2 male nuclei
+	- 1 fertilises the female nucleus 
+	- Other joins with the 2ndry nucleus to make the triploid endosperm nucleus 
+	- N.B. only in angiosperms
+
+Megaspores (ovules)
+- Produced within each megasporangium (embryo sac) 
+- Produces a vestigial female gametophyte & a single female sex cell
+
+#### Seed habit
+Has many advantages over the life cycle of lower plants
+- Advantages:  
+	- Development of pollen grains which may be transferred by wind or animals (usually insects) from 1 plant to another 
+	- Female gametophyte is retained on the sporophyte where it is protected & nourished
+	- After fertilisation the whole gametophyte & the surrounding integument becomes the seed  
+	- In Angiosperms (as distinct from Gymnosperms) the seeds are surrounded by a modified ovary wall, the carpel, which often plays an important part in the successful dispersal of the seed
+
+#### Seed plants - Gymnospermae
+- Have naked seeds – no carpel is present  
+- No vessels in their xylem tissue  
+- Major surviving group is the Coniferae  
+- Characterised by needle-like leaves & cones
+- Have seeds which are enclosed in the carpel – which becomes modified to aid dispersion  
+- Double fertilisation takes place & an endosperm tissue forms within the ovule  
+- Vessels are present
+
+#### Seed plants - Angiospermae  
+- Have seeds which are enclosed in the carpel – which becomes modified to aid dispersion  
+- Double fertilisation takes place & an endosperm  tissue forms within the ovule
+
+
+#### Gymnosperms
+- After fertilisation - young sporophyte is liberated as the seed
+- Members show a tendency to a reduction in leaf size  
+- Xylem is composed of tracheids  
+	- (except Gnetales – vessels)  
+- Microspores pass down the micropyle & come in direct contact with the nucellus during the pollination process
+
+#### Cycadophytes
+- Short unbranched trunk  
+- Terminal crown of long, leathery fern-like pinnate leaves  
+- Mostly less than 6 feet tall  
+- Large conspicuously developed pith and cortical zones in the stem
+-  Found across much of tropical & subtropical parts of the world
+- Relatively little development of 2º xylem  
+- All dioecious (male & female strobili on separate plants)  
+- Pollen sacs on scale like micosporophylls in compact cones (microsporangia) 
+- Megasporophylls also in cones  
+- Pollination by wind
+
+|Cycads| Conifers|
+|:---:|:---:|
+|Ciliated antherozoids |Passive male gametes|  
+|2º thickening not vigorous |Massive 2º thickening|  
+|Wood manoxylic |Wood pycnoxylic|  
+|Comparatively small plants| Mostly large plants|  
+|Stems unbranched |Stems profusely branched|  
+|Leaves pinnate| Leaves simple, 4 types|  
+|Dioecious |Monoecious|  
+|Dicotyledonous| Polycotyledonous|  
+|Ovules have radial symmetry |Ovules have bilateral symmetry|  
+|Originated from seed ferns| Originated from Cordaitales|  
+|Limited tropical & sub-tropical distribution|Still successful. More or less global distribution|
+
+#### Significance of gymnosperms
+
+Ecological importance
+- Provide food & habitat for wildlife  
+- Forests prevent soil erosion  
+- Reduce greenhouse effect: fix carbon dioxide  
+Economic & commercial importance  
+- Lumber for wood & paper  
+- Resins – wood, furniture  
+- Ornamental plants (trees, landscaping)  
+- Food - pine nuts (pesto)
+
+#### Angiosperms
+- Undergo an alternation of generations in which the diploid, or sporophyte, generation is dominant  
+- The haploid, gametophyte generation is exceedingly reduced & vestigial (more so than in the gymnosperms)
+
+##### Angiosperm reproduction
+- Starts with the development of the anther & the carpel in the flower  
+- Meiosis gives rise to microspores & megaspores – which germinate to produce reduced gametophyte plants  
+- Give rise to gametes which fuse & the resulting zygote has divided to form the new embryo sporophyte plant
+- Process is completed with the shedding & germination of the seed, which contains the new diploid sporophyte plant as the embryo
+- Microsporogenesis  
+	- pollen grains are the microspores  
+	- Occurs within the pollen sacs of the anther & involve spore mother cells  
+	- Pollen sacs are microsporangia  
+	- Each spore mother cell gives rise (via the two divisions of meiosis) to a group of 4 pollen grains  
+- Usually separates into four distinct grains
+- Megasporogenesis  
+	- Meiosis takes place within the ovule  
+- Megaspore nucleus divides mitotically to give 8 nuclei  
+	- Gives rise to the 8 nucleate embryo-sac
+
+#### Pollination  
+- Involves the transfer of pollen from anther to stigma  
+- Transfer within the flower (self-pollination) is not uncommon, but there are floral mechanisms which encourage transfer between individual plants (cross pollination)
+
+#### Fertilisation  
+- When in contact with the stigma the pollen grain germinates  
+- Pollen tube grows from the stigma down through the style into the ovary  
+- Ovule is penetrated via the micropyle, then the nucellus &  
+finally the embryo sac  
+- Once the pollen tube has penetrated into the embryo sac the tip breaks down & both male gametes are discharged  
+- Fertilisation involves the fusion between one of the male gametes with the single female gamete of the embryo sac
+- The unique feature of fertilisation in angiosperms is that a 2nd fertilisation also takes place when a 2nd male gamete fuses to form the endosperm  
+- The endosperm gives rise to nutritive tissue in the seed  
+	- Provides nutrition for the embryo & young plant 
+	- Often filled with food materials – carbs, fats & proteins present in labile form
+
+### Plant Diversity II - ## Aquatic macrophytes
+
+#### Aquatic Plant Communities
+- Microphytes - consist of microscopic organisms like algae  
+- Phytoplankton that drift in the water  
+- Types that attach to stones & plants  
+- Attached microphytes are called the periphyton  
+	- often joined by bacteria and protists  
+- May form large growths on the pond  
+weeds
+
+#### Definition  
+ - “macro” - big, “phytes” – plants, or “hydro” phytes  
+- Associated with open water or wetlands  
+- Tolerate, or prefer, having water around them or their parts  
+- All plants which are easily seen with the naked eye  
+- Mainly form communities around the fringe of the ponds and lakes,  
+- Also grow in rivers  
+- May extend right across the water  
+- Or limited to the fringe or littoral region
+
+#### Importance of Aquatic Plants  
+- Modify the habitat  
+- Provide shelter and a habitat to animals  
+- Source of food  
+- Supply of oxygen  
+- Provide shade in hot weather  
+- Link between air and water  
+- Plant diversity ensures animal diversity  
+- Aesthetically pleasing
+
+#### Simple classification  
+- Leaves & stems within, or floating, on water  
+- Upper leaves, or shoots, able to grow above the water  
+- Lower leaves able to grow submerged  
+- Bank plants growing above normal water level  
+- Photosynthetically active parts are permanently, or submerged in freshwater, or float on the water surface or emerge above it
+
+#### Features  
+- Respond to changes in water quality, to water level fluctuations & other environmental factors  
+- Natural component of lake ecosystems  
+- Provide habitat & food for animals  
+- Concentrate nutrients & release oxygen  
+- With increasing nutrient status their development causes its own problems (become weeds) 
+- Respond to changes in water quality, to water level fluctuations & other environmental factors  
+- Natural component of lake ecosystems  
+- Provide habitat & food for animals  
+- Concentrate nutrients & release oxygen  
+- With increasing nutrient status their development causes its own problems (become weeds)
+
+#### 4 General Macrophyte Categories  
+- Emergent plants – generally grow on submerged substrate with the majority of the plant growing in air,  
+- Floating leaved – leaves floating on the surface, but attached by long stems to the substrate,  
+- Submerged – plant is predominantly submerged but may have emergent reproductive structures,  
+- Free floating – grow completely unattached to substrate and generally grow at or near to the surface,
+
+#### Emergent plants  
+- Rooted in muddy soil or shallow water  
+- Close to the shore  
+- Send up tough, rigid stalks and leaves (to 6m), e.g. Phragmites australis, Typha latifolia, Sparganium erectum
+
+#### Floating-leaf plants  
+- Rooted underwater  
+- Flexible, air-filled stems support broad leaves that float on the surface  
+ - Limited by the length to which their stems can grow  
+- Stems may be several feet long  
+	- survive in deeper water than emergent plants  
+- Floating unattached plants are relatively unrestricted by depth
+
+##### Floating Leaves – Exposed to Air & Water at the  same time  
+ - Ideal – strong leathery peltate leaf, circular in shape, an entire  
+margin,  
+- Water-repellent upper surface, and long pliable petiole  
+- Few attain this mechanical ideal  
+- Trend towards it in numerous species, notably the Nymphaeceae  
+- Colonise only sheltered habitats with still/slow flowing water
+
+##### Nymphaeceae -  Water lily  
+- Leaf – peltate  
+	- Entire margin  
+	- Circular  
+- Water repellent upper surface  
+- Long pliable petiole
+
+#### Submergent plants  
+ - Weak stems and feathery leaves,  
+	 - grow completely underwater  
+ - Can grow in still deeper water  
+- Are limited by penetration of light through water
+- Weak stems and feathery leaves,  
+	- grow completely underwater  
+- Can grow in still deeper water
+
+##### Completely submerged e.g.Elodea sp.  
+- Lack stomata - gas exchange occurs though the thin, air-permeable cuticle and a thin or even absent epidermis.  
+ - The leaves are very thin or thread-like which accounts for a favourable surface (high) to volume (small) ratio.  
+ - The water transport system, the xylem, is strongly reduced as water shortage is virtually impossible.  
+- Their buoyancy derives from large intercellular cavities that protrude into stems and roots and thus facilitate oxygen transport. 
+- The intensity of light underwater is relatively low; a true palisade parenchyma layer is often lacking.
+
+#### Submerged leaves  
+- Thin leaves – entire, fenestrated, dissected  
+- Extremely thin cuticle  
+- Presence of chloroplasts in the epidermis  
+- Two main growth habits  
+	- a shortened axis with a rosette of radical leaves  
+	- elongated flexuous stem clothed with leaves
+
+#### Free-floating plants  
+- Float on water surface  
+- Not limited by depth  
+- Their dangling roots obtain nutrients from the water  
+- Multiply rapidly and form a bright green mat on the water's surface  
+- Relatively unrestricted by depth
+
+#### Morphology  
+- Have adaptive features suitable for life under water  
+- Good supply of aerenchyma tissue  
+- Absence of cuticle from stem/leaves  
+- High concentration of chloroplasts in epidermal layer  
+- Resistance to wetting and tearing  
+- May show heterophylly (leaves that differ in morphology depending on whether they are submerged or emergent)
+
+#### Zonation  
+Each type of plant is limited to a range of depths, thus forming zones with different species  
+- Deeper water supports only free-floating plants  
+- Submergent plants (floating-leaf plants) grow in shallower water  
+- Emergent plants are restricted to the shallow perimeter
+
+#### Transition to Marsh  
+- Presence of a substantial amount of emergent vegetation marks the transition from pond to marsh  
+- Eventually the marsh dries and is taken over by grasses  
+ - Then moisture-tolerant woody species giving rise to carr woodland (willow or alder)  
+ - Eventually – larger deciduous trees or Scots pine  
+conifers
+
+#### Classic hydrosere zonation  (Lentic habitat)  
+- Central open water  
+- Shallower water  
+- Transition zone  
+- Carr dominated by  
+	- Willow (Salix spp.) and alder (Alnus spp.)
+
+#### Succession  
+- Series of replacements of one community by another  
+- Occurs in a pond as organisms die and fall to the bottom  
+- Pond gradually fills in & becomes more shallow, <2000 years 
+	- Species previously excluded by depth are able to colonize  
+- Stages of succession - reflected by pattern of zonation - from open water to dry land  
+- From pond community to more advanced successional communities
+
+#### Factors affecting lake colonisation  
+- Latitude & altitude  
+- Basin formation  
+- Bank slope  
+- Water depth & clarity  
+- Geology, and associated soils, and substrate  
+- Water chemistry  
+- Aspect  
+- Size  
+- Fetch
+
+##### Regional factors  
+- Latitude  
+- Altitude  
+- Biogeographic history  
+
+##### Local Factors  
+- Bedrock and soil type  
+- Surrounding land use  
+- Size and shape of the lake  
+- Hydrology (ice cover and water level fluctuations)  
+- Water colour / transparency  
+- Water chemistry  
+- Competition  
+- Herbivory  
+
+#### Factors affecting distribution of aquatic vegetation
+
+##### Regional factors  
+- Latitude  
+- Altitude  
+- Biogeographic history  
+
+##### Local Factors  
+- Bedrock and soil type  
+- Surrounding land use  
+- Size and shape of the lake  
+- Hydrology (ice cover and water level fluctuations)  
+- Water colour / transparency  
+- Water chemistry  
+- Competition  
+- Herbivory  
+
+#### Factors affecting distribution of aquatic vegetation
+
+##### Factors responsible for variations in macrophyte distribution  
+ - Basin formation – slope & depth  
+- Basin geology & substrate  
+- Aspect, especially prevailing wind  
+- Size of the lake, affecting the fetch  
+- Plant distribution will vary from basin to basin
+- Basin formation – slope & depth  
+- Basin geology & substrate  
+- Aspect, especially prevailing wind  
+- Size of the lake, affecting the fetch  
+- Plant distribution will vary from basin to basin
+
+#### River & stream (Lotic) habitats  
+- Longitudinal distribution downstream  
+- Local level zonation patterns  
+- Velocity  
+- Size  
+- Gradient
+- Moving water influences plants directly  
+	- also controls the soil  
+- Some spp. grow best in still water, others in swiftly flowing streams  
+- If habitats are similar in other respects similar vegetation occurs in streams of similar flow types  
+- Typing of rivers using macrophytes has been developed for conservation & management
+
+
+#### Lotic macrophyte communities  
+- Show similar traits to those of still waters  
+- Typical communities associated with different river types Communities may prefer certain soil types  
+- Changes respond to water substrate, channel width & slope, flow patterns, nutrients & biotic interactions  
+- Dominant pattern is of longitudinal zonation from headstream to lowlands  
+ - Identified at least 40 river types – Haslam (1978)
+ - Show similar traits to those of still waters  
+ - Typical communities associated with different river types 
+ - Communities may prefer certain soil types 
+ - Changes respond to water substrate, channel width & slope, flow patterns, nutrients & biotic interactions  
+ - Dominant pattern is of longitudinal zonation from headstream to lowlands  
+ - Identified at least 40 river types – Haslam (1978)
+
+#### Important Physical Variables in Lotic Environments  
+- Water movement, or flow  
+- Soil or substrate on the bed of the watercourse  
+- Width of the channel  
+- Depth of the channel  
+- Drainage order, i.e. position of the channel in the river system  
+ - Downwards slope (gradient) of the channel
+ - Water movement, or flow  
+- Soil or substrate on the bed of the watercourse  
+- Width of the channel  
+- Depth of the channel  
+- Drainage order, i.e. position of the channel in the river system  
+ - Downwards slope (gradient) of the channel
+
+#### 3 Basic Types of Lotic Communities  
+- Mountainous (resistant geology) – fast flows & spates, coarse substrate & nutrient poor. Limited diversity, few channel species and regular washing out.  
+- Upland, oligo-mesotrophic rivers – not so steep & severe, few spates, sediment accumulates, trophic status rises. Often well developed species-rich fringing communities and channel species. 
+- Lowland (often alluvial, eutrophic) – steady flow, rich in nutrients, shallow with stable substrate, or may have large channels with unstable substrate, may have marked zonal changes. Fringing species may line the banks.
+
+#### Plants as Indicators  
+- Plants are sensitive indicators of the conditions in which they live  
+- Much can be deduced about the site from the plants  
+- If the habitat is known the expected vegetation can be predicted  
+- Plants can be used to monitor and assess the remaining factors, e.g.  pollution
+
+### Week 4 Plant Development
+
+#### Processes of plant development
+
+#### Control of Plant Development
+ 
+ Honestly Idk Ill Come Back To This
+
+## Week 5 Floral biology and pollination
+
+### Floral biology and pollination (Part I)
+
+#### Agencies of pollination  
+The agencies of pollination fall into two groups:  
+1) Abiotic agencies : wind, water, rain.  
+2) Biotic agencies : insects, birds, monkeys, small mammals (bats, rats) and small reptiles (geckos), ants, water skaters.  
+Flowers have adapted to facilitate pollination by both biotic and abiotic agencies. In the case of plants which use biotic pollinators the plants and animals have coadapted and these various adaptations are called ‘adaptive syndromes’.
+
+Some flowers tend to be oligophilic ie they have very few species of visitors (often only one). This tends to be most common in flowers with relatively specialised shapes (flags, trumpets, tubes), rather than ‘unsophisticated’ flowers with cup, bell or brush shapes  
+which often have many different pollinating species and  
+are termed polyphilic.  
+
+Below is a list of the major classes of pollination syndromes:  
+animal pollinated - Zoophily, 
+insect pollinated - entomophily,  
+beetles - cantharophily, 
+flies - myophily, 
+bees - melittophily,  
+butterflies - psycophily, 
+moths - phalaenophily,  
+birds - ornithophily, 
+bats - chireptonophily,  
+wind - anemophily, 
+water - hydrophily
+
+Whichever agency is employed in pollination the plant is usually a passive partner in the transaction. Beyond the “goods for sale” display it remains static, but as in the rest of nature there are exceptions to the rule!  
+
+These exceptions are not entirely confined to animal-pollinated species. There are also explosive discharges of pollen into the air by the anemophilous species Ricinus communis and Parietaria diffusa.
+
+#### ABIOTIC POLLINATION AGENCIES  
+Anemophily (wind pollination)  
+Pollination by wind is probably the most ancient  
+type of pollination. The plant groups which flourished  
+in the Carboniferous and Mezoic were chiefly vascular  
+gymnosperms.  
+The gymnosperms, with a few exceptions are all  
+wind-pollinated at the present day and were presumably  
+so in earlier times.  
+Flowers of plants which rely on the wind for  
+pollination are generally small and inconspicuous, and  
+possess none of the attractive attributes of entomophilous  
+species, but are often only composed of the essential  
+organs only.
+
+Wind pollinated species include - grasses and  
+sedges, conifers and many temperate broad leaf tree  
+species such as walnuts (Juglans), oaks (Quercus) etc.  
+The flowers of anemophilous species are frequentely  
+small, drab and dull in colour (don’t need to attract  
+animal pollinators) and arranged in “catkins” which are  
+most often unisexual. The male catkins are often  
+pendulous and their axes are flexible so that they can be  
+easily shaken or swayed by the wind. (See figures 1, 2 & 3)  
+The pollen of these species is most often small and  
+smooth-coated. Generally speaking anemophilous species  
+produce far greater amounts of pollen than entomophilous  
+species. Pohl (1937) estimated that a single plant of  
+Mercurialis annua and Rumex acetosa produce  
+respectively 1,352,000,000 & 393,000,000 pollen grains!!!  
+(Needed because pollination is down to chance).
+
+ Anemophilous flowers do not possess nectaries.  
+There are also very few ovules in the ovary, two in  
+Juglans and Quercus, and one in Urtica, Parietaria,  
+Ulmus, Betula and Myrica and the grasses.  
+ Often wind pollinated tree species in temperate  
+climates such as hazel (Corylus avellana) produce their  
+tiny flowers early in the year before they produce leaves,  
+and as a result the wind is able to gather the pollen  
+without hinderance and the grains don’t get trapped in the  
+foliage so increasing the chances of successful pollination.  
+Not many wind pollinated species exist in tropical  
+rain forests.  
+WHY?
+
+#### Hydrophily (Water pollination)  
+ Angiosperms which have “ returned to the water”  
+show differing degrees of adaptation to their environment.  
+The conservation of the flower, which makes it such a  
+valuable organ in taxonomy, is now exhibited in an entirely  
+different way.  
+ Eelgrass is an example of an angiosperm  
+which bears totally submerged flowers in tropical oceans,  
+the flowers of which use hydrophilous pollination.  
+(See figure 4).  
+ Flowers of hydrophilous species have no colour  
+nectaries or scent since these are not required. (See Figures  
+5, 6 & 7).
+
+ Their floral envelope is small, often only consisting  
+of a single whorl of sepals, in some cases even this is  
+missing and the flower exists as a single naked stamen or  
+ovary as in the submerged Star Worts, the Callitriches.  
+ With this simplification is also a reduction in size.  
+ True hydrophily where the pollen is water-borne, is  
+rare and only occurs in totally submerged aquatic species.  
+The most studied examples are the marine perennials, the  
+grass wracks, Zostera, Phyllospadix and Halophila.  
+ It is only in these species that pollen itself is  
+modified to suit the environment. Zostera marina has  
+separate inflorescences of male and female flowers  
+enclosed in the base of a grass-like leaf.
+
+ The male flower is a single sessile anther. The  
+anther wall has no endothecium as have the land plants,  
+and when it is mature it dehisces by absorbing water which  
+causes the innermost cells to swell and burst the sac.  
+ The pollen grains are very long and thread-like in  
+shape. They have no exine and are shed naked into the sea.  
+They are non-motile and coil around the stigma of the female  
+flowers if they drift against them.
+
+#### Rain pollination  
+ The significance of rain as a pollinating agency  
+in certain angiosperms was only recognised relatively  
+recently (1950’s). Hagerup (1950) reported that in the  
+Faroe islands (Danish group of islands in North Sea)  
+that flowers of the Creeping Buttercup (Ranunculus repens)  
+were wide open even on rainy days.  
+ In these islands the rainfall is very high, but is  
+very gentle and frequent, and this climate is of great  
+importance to the pollination biology of these species  
+growing in this region.
+
+ R. repens is common throughout the U.K. and much of  
+Northern Europe and is a typical entomophilous species  
+its flowers have bright yellow petals, are scented, bear  
+large amounts of pollen and also some nectar.  
+ Most of the petal area is glossy and water proof, but  
+at the base of each petal there is a dull area with a nectary  
+hidden under a small flap. If a raindrop falls on the flower  
+it dislodges pollen from the anthers on the glossy part of  
+the petal and runs down it and is then held by the matt  
+absorbent base.  
+ Each additional drop swirls the floating pollen  
+around the corolla cup which may become filled with water  
+to the level of the glossy parts.
+
+ R. repens is common throughout the U.K. and much of  
+Northern Europe and is a typical entomophilous species  
+its flowers have bright yellow petals, are scented, bear  
+large amounts of pollen and also some nectar.  
+ Most of the petal area is glossy and water proof, but  
+at the base of each petal there is a dull area with a nectary  
+hidden under a small flap. If a raindrop falls on the flower  
+it dislodges pollen from the anthers on the glossy part of  
+the petal and runs down it and is then held by the matt  
+absorbent base.  
+ Each additional drop swirls the floating pollen  
+around the corolla cup which may become filled with water  
+to the level of the glossy parts.
+
+ The location of the carpels is such that the water  
+rises by capillarity between them and the pollen is  
+deposited on the stigma. There is a leak of water through  
+gaps between the bases of the petals so that just enough  
+water is held in the cup as is necessary for pollination  
+
+#### Biotic agencies of pollination  
+ Other species of flowering plants adopt a different  
+strategy. To reduce wastage of energy (oils, proteins in  
+pollen) in production of the huge amounts of pollen  
+produced by wind pollinated species, they use animal  
+messengers to collect the pollen and deliver it directly to  
+the stigma of other plants of the same species.
+
+### Floral biol. and pollination II
+
+#### TYPES OF ANIMAL POLLINATORS  
+Pollination by insects (entomophily)  
+There are three main classes of flower visiting insects:  
+(1) Hymenoptera (social/solitary bees and wasps).  
+(2) Diptera (flies).  
+(3) Lepidoptera (butterflies and moths).  
+ They are all structurally adapted to allow them  
+to exploit flowers. As mentioned earlier, insect pollinated  
+flowers display a number of features which facilitate and  
+attract such pollinators. (See figures 1 & 2)
+
+(1) Insect pollinated species generally have large vividly  
+coloured flowers which can be seen from afar. If the plant  
+has evolved small flowers, then they are usually in the form  
+of an inflorescence (a bunch).  
+Since insect vision is most efficient in the blue/UV region of  
+the electromagnetic spectrum. So the majority of insect  
+pollinated species have yellow, blue or white flowers.  
+(2) The shape of the perianth varies according to the  
+species of insect that has coevolved to pollinate a  
+particular flower species.
+
+(3) As mentioned earlier most insects have excellent vision,  
+but are most often only sensitive to blue and UV light. So  
+nectar flowers have evolved markings termed nectar guides  
+which are clearly visible in UV part of the spectrum to  
+advertise the location of the nectar. (See figure 3).  
+(4) Since most insects have a good sense of smell, so  
+perfumes have evolved as attractants. These flower scents  
+are volatile essential oils.  
+Little is known of the ecology of scent production by  
+flowers. Diurnal (follow 24 hour cycle) species emit scent in  
+daytime (Roses), whereas nocturnal species produce scent  
+at night (Durio spp).
+
+ The scent of nocturnal flowers differs from day  
+flowers: night flowers are very sweet compared to the day  
+flowers spicy smell (bat pollinated flowers are sour/mousy  
+in smell).  
+(4) Deception - this is performed in a variety of ways by  
+both pollen flower and nectar flower species. E.g. certain  
+pollen flowers replace fodder pollen by structures  
+mimicking full anthers to attract and thereby “trick”  
+pollinators; the most bizarre deception is the sexual  
+deception performed by certain orchid species.  
+For example the European mirror orchid (ground dwelling  
+plant about 1 foot high which produces few flowers on a  
+single stem).
+
+ The mirror orchid flowers have an oval lip that  
+glistens with a metallic blue-violet colour, and has a  
+yellow border fringed with long red hairs. Each flower  
+actually looks like species of wasps and bees native to  
+the region in which the orchids grow. The function of this  
+mimicry is AMAZING!  
+ The flower is actually pretending to make sexual  
+advances to the male bees! It does this even more  
+effectively than first thought; in that the orchid produces a  
+pheromone which resembles that emitted by sexually  
+receptive female bees.  
+ When a bee finds such a flower it lands on the lip of  
+the flower and tries to copulate with the flower.  
+(See figure 4).
+
+ The bee fails but in the process the flower  
+descends a curved petal structure which contains both  
+female and male reproductive organs and “glues” a  
+pair of pollinia on to his head. If the next orchid he visits  
+has already despatched its pollinia then the column will  
+collect his pollinia and thereby the orchid is fertilised.
+
+#### Pollination by birds (Ornithophily)  
+How birds came to be pollinators  
+ As flying animals with a rough outer surface, birds  
+possess good external prerequisites to act as plant  
+pollinators.  
+Q: How and why did birds evolve to become  
+pollinators?  
+ Among the hypotheses proposed to explain this  
+phenomenon is that bird mediated pollination is a  
+development from the destructive eating of flowers still  
+observed even in present day temperate bird species  
+(e.g. sparrows destroying crocuses in Spring if they are  
+desperate for food).
+
+ It has also been proposed that wood-peckers may  
+have been tempted to change their diet (fruit eating)  
+ A third explanation proposes that birds obtained  
+this habit from chasing insects into flowers, and just  
+happened by chance to find the nectar or to puncture  
+succulent tissues; or fourthly that some species may have  
+originally drunk water collected in the blossoms to quench  
+their thirst in tropical forests.  
+ No matter whether any or all of these explanations is  
+true or not, certain bird species did somehow co-adapt with  
+certain tropical/sub tropical plant species, and gave rise to  
+the marvellous symbiotic relationships we can observe  
+today.
+
+#### The biology of bird pollination  
+ Birds differ from the insect pollinators in that they  
+can obtain only one of their staple foodstuffs from  
+flowers, namely nectar, a Hummingbird may eat up to half  
+its body weight in sugar daily! These species do not  
+usually eat pollen, except incidentally whilst drinking  
+nectar, and in order to obtain the protein component of  
+their diet they eat small insects.  
+ These bird species can only exist in regions of the  
+world that can provide an abundant and continuous supply  
+of insects and nectar throughout the year ie. The tropics  
+and subtropics of the world. The equatorial belt in America  
+between 50 North and 50 South, is the main centre of the  
+Hummingbirds (Trochilidae).
+
+ The tropics and sub-tropics of Africa and S.E. Asia  
+is the home of the Sunbirds (Nectrinidae); the sugarbirds  
+(Promeropidae) are found in South Africa and the  
+Honeyeaters (Meliphagidae) are found in the S.W. pacific  
+region. These four families comprise the majority of bird  
+species highly adapted to visiting and pollinating flowers.  
+ Hummingbirds live only in the New World. Most  
+of which are found in Central America. Ecuador  
+contains half the known species (130 out of 319 exist in  
+this country).  
+ The Sunbirds are restricted to the tropical and sub  
+-tropical regions of the ‘Old World’. They are abundant in  
+tropical and Southern Africa with about thirty species  
+found native to S.E. Asia.
+
+ The tropics and sub-tropics of Africa and S.E. Asia  
+is the home of the Sunbirds (Nectrinidae); the sugarbirds  
+(Promeropidae) are found in South Africa and the  
+Honeyeaters (Meliphagidae) are found in the S.W. pacific  
+region. These four families comprise the majority of bird  
+species highly adapted to visiting and pollinating flowers.  
+ Hummingbirds live only in the New World. Most  
+of which are found in Central America. Ecuador  
+contains half the known species (130 out of 319 exist in  
+this country).  
+ The Sunbirds are restricted to the tropical and sub  
+-tropical regions of the ‘Old World’. They are abundant in  
+tropical and Southern Africa with about thirty species  
+found native to S.E. Asia.
+
+ To enlist the services of these bird species, plants  
+have to attract them, and the features of flowering plants  
+which demonstrate the syndrome of ornithophily  
+are listed below:  
+Bird flowers Flower-birds  
+1. Diurnal anthesis. Diurnal.  
+2. Vivid colours often See best in red part  
+red, yellow or orange. Of em spectrum.  
+3. Flower tubular and/or Too large to land on  
+hanging. Flower itself.  
+4. Hard flower wall, Hard bill.  
+well protected nectary.
+
+5. Absence of scent. Little or no sense  
+of smell.  
+6. Nectar very abundant. Large appetite!  
+7. Often deep tubular Long bill and  
+flowers. Tongue.  
+8. Nectar guides absent. High intelligence.  
+(See figures 5, 6, 7 & 8)  
+ Birds are relatively large animals compared  
+to insects therefore bird-pollinated plants have to be  
+large enough to accommodate the head of a bird as it  
+drinks its nectar and collects its pollen. Furthermore,  
+the petals must been strong enough to take this treatment
+
+ So, if you are in a tropical or sub-tropical country  
+and you see a flower that is large, robust, red and  
+lacks scent, it is most likely that this flower is pollinated  
+by birds!  
+ The most highly specialised of all nectar-feeding  
+bird species are the hummingbirds. They closely resemble  
+Sunbirds found in S.E. Asia in size and shape. However,  
+they can beat their wings so swiftly and move them so  
+precisely that they can hang in the air in front of a flower.  
+In response Central American plants attract these species  
+with delicate flowers which face downwards so that they  
+can only be entered from the air.
+
+#### Pollination by bats (cheiropterophily)  
+ One family of mammals has been of particular  
+importance to species of flowering plants namely - BATS.  
+ Bats are nocturnal animals, small bat species are  
+essentially insect eaters it is the larger species with  
+relatively good vision that serve as plant pollinators.  
+ Bat species which pollinate flowers include the  
+Eonyteris and Macroglossus which include some of the  
+biggest bat species of S.E. Asia. These species have long  
+slender noses and very long tongues. (See figure 9 )
+
+ When drinking nectar the tongue moves very fast  
+in and out of the flower. They also eat large quantities  
+of pollen. These bat species are colour blind, but pale  
+flowers are visible to them.  
+ To attract bat pollinators the flowers must open at  
+night and be pale to be easily seen in the dark. The  
+perfume of these flowers is of a musty, yeasty rather  
+‘yucky’ type! Durian tree species (Durio spp) produce  
+flowers that possess all these qualities.  
+ Some of the fruit bats have evolved characteristics  
+which further aid them in collecting nectar Macroglossus  
+has a tongue as long as its body!!!!!!!
+
+ Almost all species of wild bananas found in tropical  
+countries such as Malaysia (eg Musa textilis) are bat  
+pollinated.  
+ Cacti also, favour bats as pollinators. In arid regions  
+in which cacti grow very few animals are active during the  
+day time. So many species of cacti open their flowers at  
+dusk and close them again at dawn
+
+## Week 6 Plant Stress Biology
+
+### Environmental Stress
+
+ Since the subject of environmental stress is  
+so large and time is limited, I shall limit today’s lecture  
+to a brief discussion of some of the physiological  
+adaptations of angiosperm species to mineral stress.  
+Adaptations to excess of mineral salts  
+ HALOPHYTES: A number of angiosperms grow  
+where they are periodically submerged in seawater.  
+In addition, to the problems of root aeration - coastal  
+mangrove swamps. They also have to adapt to the  
+salt content  
+There are two aspects to this problem:  
+1. The osmotic problem  
+2. The chemical toxicity of Na+ ions.
+
+ Plants adapted to deal with both these problems  
+are called halophytes.  
+ The problem of high salt concentration in the  
+environment also has to be tackled by plants in arid  
+environments where intense evaporation concentrates  
+ground-water salts.  
+1. The osmotic problem is solved by gearing the plant  
+down to a w lower than the environment. The low  
+0 is achieved by taking up salts: Na+ & Cl - but also  
+higher concs of K+ & organic anions than in mesophytes  
+(give defn mesophytes). The NaCl all has to be kept in the  
+vacuole - the cytoplasmic machinery of halophytes has  
+not evolved tolerance of high [sodium] .
+
+
+ Therefore, the o of the cytoplasm has to be  
+lowered somehow, or it would be squeezed dry between  
+the vacuole & the external salt solution. This is achieved  
+by increasing the concentration in the cytoplasm of some  
+‘compatible’ solute wh does not wreck the machinery.  
+For many halophytes this is proline - an amino acid  
+therefore water soluble even though there is no net charge  
+& proline is the most soluble aa.  
+ Halophytes may contain up to 10 X the ‘normal’ level  
+of [proline] found in mesophytes. For example in  
+Triglochin maritima, proline accumulates to 20% of sh DW.  
+Similar levels are found in the sea aster Aster tripolium.
+
+
+2. The Problem of Na+ toxicity is solved in 2 different ways  
+by different halophyte types:  
+(a) succulent types - Some spp maintain a steady rate of  
+uptake of salt, which is sequestered away inside vacuoles  
+to generate a low 0 . Example Mesembryanthemum  
+crystallinum which grows on the shores of the Dead Sea.  
+(b) salt excretors - Most plants on a salt marsh are  
+succulent - those which are not are therefore quite  
+conspicuous, e.g. sea lavender (Limonium) & the grass  
+Spartina. When the external [salt] goes up, these species  
+take in extra salt so as to keep w more negative than that  
+of the external solution enabling them to keep water  
+moving into the plant.
+
+
+The extra salt they secrete as a v. conc’d solution from  
+specialised glands up on the lf surface where it is washed  
+away by rain/dried out & blown away or, as in Atriplex  
+spongiosa (desert dwelling plant) it fills up specially  
+adapted trichomes (bladder) with the salt which serve to  
+reflect the intense desert sun keeping the leaf cool.  
+(See figure 1 for structure of a salt gland).  
+Salt glands:  
+ Salt glands are highly variable in morphology fm  
+sp to sp & most of them are a complete mystery! Best  
+understood example is that of Limonium (British salt grass).
+
+ Mesophytes wh show some tolerance of increased  
+salinity adopt a difft strategy to that of the halophytes.  
+Instead of filling themselves up with salt, plants of salt-  
+resistant varieties of soybean have less salt in them than  
+plants of non-tolerant varieties grown on the same, mildly  
+saline soils I.e. they survive by totally excluding the salt.  
+
+TOXIC EXCESSES OF MINERAL IONS  
+Occurs in mesic envt’s due to the chemistry of the  
+substratum & drainage patterns. The availability of difft  
+mineral ions varies widely in soils & any plant not  
+specifically adapted to grow on a particular combination  
+of minerals & whose physiology is not plastic enough to  
+adapt rapidly will suffer metabolic imbalances.
+
+1. Calcifuge/calcicole plants:  
+Plants adapted to grow on soils associated with a high  
+[Ca 2+] (alkaline soil) are termed calcicoles, plants adapted  
+to grow on acidic soils are called calcifuges.  
+ Very few plants are completely restricted to alkaline  
+or acid soils, so the number of ‘strict’ calcicoles or  
+calcifuges is few.  
+ The metabolic problems experienced by mesophytes  
+on acid soil are caused by the solubilization to  
+comparatively high levels of Al, Fe, Mn, Cu, Zn & Borate.  
+Any or all 6 may prove to be toxic. They affect processes  
+wh depend on Ca 2+ like cell wall assembly, cell expansion  
+& cell division & they interfere with each others uptake &  
+that of Ca++ & Mg++. Which of them proves to be  
+responsible for toxicity depends on :
+
+(1) soil chemistry  
+(2) extent of acidification  
+(3) the particular sensitivity of the plant concerned  
+e.g. rice is very susceptible to Fe 2+ toxicity.  
+Aluminium toxicity is quite common & seems to be a major  
+problem for plants on acid soils. Adaptations to deal with  
+soil Al+++ include:  
+(1) secretion of OH- by rts to raise pH  
+(2) Al+++ resistant, rt surface enzymes  
+(3) Al exclusion fm the rt (wheat, barley & soybean)  
+(4) Excess Al in rt, but exclusion fm the shoot (rice, rye)  
+(5) Al accumulates in the sh - these are the tolerant types  
+of Al rich tropical soils - e.g. tea (Camelia sinensis)  
+where the old lvs have 30, 000 ppm A+++.
+
+2. Heavy metal tolerance (Ag, Ni, Pb, Cd)  
+ Some spp show tolerance to normally toxic  
+excesses of heavy-metal cations not found in natural  
+soils except where they overlie ore deposits. They have  
+become adapted to & are now perculiary associated with  
+naturallyexposed ores e.g. Viola calaminaria on Zn  
+(zinc violet).  
+ Also there are a number of genotypically distinct  
+races of spp wh are not normally resistant to metal ion  
+excess e.g. Silene vulgaris & a no of grass spp. The  
+resistant types occur at low freq. <2%, on normal soil  
+& are strongly selected for on soils contaminated with  
+toxic levels of Zn, Cu, Ni, Pb, Cd & Ag (usually by people).
+
+ Resistance is always spf to a particular metal  
+e.g. Agrostis stolenifera (creeping bent grass)  
+has separate & specific races tolerant of excesses  
+of Mg, Cr, Ni, Cu & Zn & its mechanism differs fm metal to  
+metal.  
+
+MINERAL ION DEFICIENCY  
+1.Calcicoles  
+Calcicolous plants are very efficient at absorbing Fe from  
+Fe+++ deficient acidic soils.  
+Two different mechanisms for Fe-efficiency exist:  
+(1) (Most common response by dicots and many  
+monocots) In response to Fe-deficiency there is an  
+increase in the activity of Fe+++ reductase at the  
+absorptive surface of the roots.
+
+ Fe+++ reductase is inhibited by high pH &  
+dependent on a supply of soluble Fe, and these types  
+frequently also increase H+ extrusion and sometimes  
+also release simple chelators into the soil. The majority of  
+calcicoles use this method.  
+(2) A second method is used by grasses only . Specialized  
+Fe+++ - chelating cmpds : ‘phytosiderophores’ (see Figure  
+2) are released into the soil in response to Fe - deficiency.  
+The Fe 3+ - phytosiderophore complex is then taken up by  
+specific high affinity uptake system. High soil pH has very  
+little effect on this system
+
+ Fe+++ reductase is inhibited by high pH &  
+dependent on a supply of soluble Fe, and these types  
+frequently also increase H+ extrusion and sometimes  
+also release simple chelators into the soil. The majority of  
+calcicoles use this method.  
+(2) A second method is used by grasses only . Specialized  
+Fe+++ - chelating cmpds : ‘phytosiderophores’ (see Figure  
+2) are released into the soil in response to Fe - deficiency.  
+The Fe 3+ - phytosiderophore complex is then taken up by  
+specific high affinity uptake system. High soil pH has very
+
+ Unavailability of mineral ions is not always due to  
+high pH:  
+(a) underlying rocks may be nutrient - poor sands, or  
+(b) resistant to weathering, like granite, or  
+(C) the soils may be very old so that nearly all the nutrients  
+have leached out of them. This is the case for soils over  
+the flat, continental rocks of much of the tropics where  
+leaching is intense & the soils are 100, 000 yrs old or more!  
+We owe the fertlility of N. temp’ te soils to the glaciations.  
+(2) Inorganic phosphate (IP)  
+V. freqy a limiting plant nutrient, & in soils where IP  
+availability is low, plants infected with a mycorrhizal fungus  
+are not so severely affected as unifected plants.
+
+ The fungus is better than rts at IP uptake where  
+[IP] is low & relays enough of what it takes up to the  
+plant to prevent deficiency.  
+3) Nitrogen  
+ Not as often limiting as other minerals. Provided  
+soil is reasonably aerated, the activity of nitrifying  
+bacteria living in it, close to plant roots, can maintain  
+sufficient levels for plant growth. Global estimates of  
+bacterial N fixation : 100 - 800 tons y -1.  
+ Symbiotic N fixation in root nodules is often  
+overemphasised by people bec. of its agricultural imp.  
+In fact nodules are only found in 8 families & while plants  
+such as Genista, Cytisus & Ulex can grow in very nutrient  
+poor soils they must be well aerated, e.g. sands.
+
+ Waterlogging & resultant anaerobiosis, not just  
+low pH cripple bacterial nitrification and peat bogs such as  
+found in Ireland are notoriously N-deficient. Nearly all  
+peat bog spp have low levels of nitrate reductase in the field  
+& do not respond to added NO 3- by synthesising the  
+enzyme.  
+4. Carnivorous plants (live in boggy ground where bacteria  
+can’t live so eat insects instead!)  
+ Elaborate adaptations for trapping & consuming  
+insects have evolved in a number of bog plants. By devious  
+lures: lurid colours, smells of putrefaction & e.g. spp  
+of Sarracenia and Nepenthes (See figures 3 - 8) have a line  
+of glands producinga sweet trail fm the ground up to the  
+slippery rim of a fluid-filled pitcher:
+
+ insects are attracted to a variety of traps:  
+sticky,  
+snappy, or  
+slippery with exuded platelets of soft wax to clog the  
+tarsal claws, in wh the trapped insect is digested by  
+hydrolytic enzymes, chiefly proteases and  
+phospholipases (no chitinase)  
+ The rapid, trap movements of Dionaea are  
+triggered by touch (See Figures 9 & 10) - the slower  
+inflection of Drosera is a response to any form of  
+combined nitrogen ( See figures 11& 12)
+
+ Secretion of hydrolases is commonly a response  
+to a wide range of forms of combined nitrogen. The  
+glands producing the enzymes are all rather similar in  
+construction. Secretory cells are apoplastically isolated  
+fm underlying tissue by a layer of cells with a casparian  
+strip.  
+ In butterwort (Pinguicula) (See Figure 12 ) the  
+hydrolases are pre-synthesised & stored in secretory  
+glands. On stimn each gland pumps fluid out onto the  
+surface of the leaf  rapid response. (Leaf is trap  
+sticky leaf surface covered with sticky trichomes).
+
 
