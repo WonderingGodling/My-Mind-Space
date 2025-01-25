@@ -37,30 +37,30 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a Component pouch or (b) an Arcane Focus.
     
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Level|Proficiency<br><br>Bonus|Cantrips Known|Spells Known|Mist breath|Features|—Spell Slots per Spell Level—|   |   |   |   |   |   |   |   |
-|1st|2nd|3rd|4th|5th|6th|7th|8th|9th|
-|1st|+2|2|3|0|Mist walks.,shroud of mist, Spellcasting|2|—|—|—|—|—|—|—|—|
-|2nd|+2|2|4|2pts<br><br>5ft radius|Mist breath|3|—|—|—|—|—|—|—|—|
-|3rd|+2|4|5|3pts<br><br>5ft radius|Mist path,Shroud of mist,Mist sight|4|2|—|—|—|—|—|—|—|
-|4th|+2|5|6|4pts<br><br>5ft radius|Ability Score Improvement, Hand of the mist|4|3|—|—|—|—|—|—|—|
-|5th|+3|5|7|5pts<br><br>10ft radius|—|4|3|2|—|—|—|—|—|—|
-|6th|+3|5|8|6pts<br><br>10ft radius|—|4|3|3|—|—|—|—|—|—|
-|7th|+3|5|9|7pts<br><br>10 radius|Mist path feature, defense of the mist|4|3|3|1|—|—|—|—|—|
-|8th|+3|5|10|8pts<br><br>10ft radius|Ability Score Improvement,|4|3|3|2|—|—|—|—|—|
-|9th|+4|5|11|9pts<br><br>10ft radius|Mist movement|4|3|3|3|1|—|—|—|—|
-|10th|+4|6|12|10pts<br><br>15ft radius|Mist path Feature, <br><br>Mist guard|4|3|3|3|2|—|—|—|—|
-|11th|+4|6|13|11pts<br><br>15ft radius|—|4|3|3|3|2|1|—|—|—|
-|12th|+4|6|13|12pts<br><br>15ft radius|Ability Score Improvement,|4|3|3|3|2|1|—|—|—|
-|13th|+5|6|13|13pts<br><br>15ft radius|Guiding hand of the mist|4|3|3|3|2|1|1|—|—|
-|14th|+5|6|14|14pts<br><br>15ft radius|—|4|3|3|3|2|1|1|—|—|
-|15th|+5|6|14|15pts<br><br>20ft radius|Mist path Feature, Mist assist|4|3|3|3|2|1|1|1|—|
-|16th|+5|6|14|16pts<br><br>20ft radius|Ability Score Improvement.|4|3|3|3|2|1|1|1|—|
-|17th|+6|6|15|17pts<br><br>20ft radius|—|4|3|3|3|2|1|1|1|1|
-|18th|+6|6|15|18pts<br><br>20ft radius|Mist born|4|3|3|3|3|1|1|1|1|
-|19th|+6|6|17|19pts<br><br>20ft radius|Ability Score Improvement|4|3|3|3|3|2|1|1|1|
-|20th|+6|6|17|20pts<br><br>25ft radius|Mist path feature|4|3|3|3|3|2|2|1|1|
+|       |                          |                |              |                          |                                             |                               |     |     |     |     |     |     |     |     |
+| ----- | ------------------------ | -------------- | ------------ | ------------------------ | ------------------------------------------- | ----------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Level | Proficiency<br><br>Bonus | Cantrips Known | Spells Known | Mist breath              | Features                                    | —Spell Slots per Spell Level— |     |     |     |     |     |     |     |     |
+| 1st   | 2nd                      | 3rd            | 4th          | 5th                      | 6th                                         | 7th                           | 8th | 9th |     |     |     |     |     |     |
+| 1st   | +2                       | 2              | 3            | 0                        | Mist walks.,shroud of mist, Spellcasting    | 2                             | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2nd   | +2                       | 2              | 4            | 2pts<br><br>5ft radius   | Mist breath                                 | 3                             | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3rd   | +2                       | 4              | 5            | 3pts<br><br>5ft radius   | Mist path,Shroud of mist,Mist sight         | 4                             | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 4th   | +2                       | 5              | 6            | 4pts<br><br>5ft radius   | Ability Score Improvement, Hand of the mist | 4                             | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 5th   | +3                       | 5              | 7            | 5pts<br><br>10ft radius  | —                                           | 4                             | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 6th   | +3                       | 5              | 8            | 6pts<br><br>10ft radius  | —                                           | 4                             | 3   | 3   | —   | —   | —   | —   | —   | —   |
+| 7th   | +3                       | 5              | 9            | 7pts<br><br>10 radius    | Mist path feature, defense of the mist      | 4                             | 3   | 3   | 1   | —   | —   | —   | —   | —   |
+| 8th   | +3                       | 5              | 10           | 8pts<br><br>10ft radius  | Ability Score Improvement,                  | 4                             | 3   | 3   | 2   | —   | —   | —   | —   | —   |
+| 9th   | +4                       | 5              | 11           | 9pts<br><br>10ft radius  | Mist movement                               | 4                             | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
+| 10th  | +4                       | 6              | 12           | 10pts<br><br>15ft radius | Mist path Feature, <br><br>Mist guard       | 4                             | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
+| 11th  | +4                       | 6              | 13           | 11pts<br><br>15ft radius | —                                           | 4                             | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 12th  | +4                       | 6              | 13           | 12pts<br><br>15ft radius | Ability Score Improvement,                  | 4                             | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13th  | +5                       | 6              | 13           | 13pts<br><br>15ft radius | Guiding hand of the mist                    | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14th  | +5                       | 6              | 14           | 14pts<br><br>15ft radius | —                                           | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 15th  | +5                       | 6              | 14           | 15pts<br><br>20ft radius | Mist path Feature, Mist assist              | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 16th  | +5                       | 6              | 14           | 16pts<br><br>20ft radius | Ability Score Improvement.                  | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 17th  | +6                       | 6              | 15           | 17pts<br><br>20ft radius | —                                           | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18th  | +6                       | 6              | 15           | 18pts<br><br>20ft radius | Mist born                                   | 4                             | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19th  | +6                       | 6              | 17           | 19pts<br><br>20ft radius | Ability Score Improvement                   | 4                             | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20th  | +6                       | 6              | 17           | 20pts<br><br>25ft radius | Mist path feature                           | 4                             | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 ### Mist walk
 

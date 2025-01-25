@@ -78,7 +78,11 @@ Languages: Common, Gith, Abyssal
 
 # Notes: 
 
-
+2 rubies, 2 saphires 2 something and 2 black diamonds, 500 creds each
+11, 000 creds
+ring of djin summoning
+plate armour +3
+Potion of storm giant strength
 
 # Characteristics 
 Fearsome Reputation
@@ -93,7 +97,7 @@ Githyanki Psionics
 [[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Mist Walker#Mist walk\|Mist walk]]
 [[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Mist Walker#Shroud of mist\|Shroud Of Mist]]
 [[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Mist Walker#Spellcasting\|Spellcasting]]
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Mist Walker#Mist breath\|Mist Breath]]
+	[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Mist Walker#Mist breath\|Mist Breath]] 10ft
 [[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Mist Walker#Misty path\|Misty path]]
 	[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Mist Walker#Path of the ascended\|Path of the ascended]]
 [[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Mist Walker#Mist manipulation\|Mist manipulation]]

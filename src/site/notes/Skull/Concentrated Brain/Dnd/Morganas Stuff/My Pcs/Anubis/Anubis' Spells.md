@@ -9,27 +9,31 @@
 
 
 
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Daemon/Prestidigitation\|Prestidigitation]] 10 A
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Shocking grasp\|Shocking grasp]] 0 A
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Mage hand\|Mage hand]] 30 x
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Fire Bolt\|Fire Bolt]] 120 A
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Vicious Mockery\|Vicious Mockery]] 60 A
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Daemon/Poison Spray\|Poison Spray]] 
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Daemon/Prestidigitation\|Prestidigitation]] 10 
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Shocking grasp\|Shocking grasp]] 0 
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Mage hand\|Mage hand]] 30 
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Fire Bolt\|Fire Bolt]] 120 
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Vicious Mockery\|Vicious Mockery]] 60 
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Daemon/Poison Spray\|Poison Spray]]  10
 
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Magic missile\|Magic missile]]
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Silvery barbs\|Silvery barbs]] R
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Daemon/Healing Elixir\|Healing elixir]]
-[[Burning Hands \|Burning Hands ]]
-[[Dissonant Whispers \|Dissonant Whispers ]]
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Hellish Rebuke\|Hellish Rebuke]] R
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Magic missile\|Magic missile]] 120
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Silvery barbs\|Silvery barbs]] 60 R
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Daemon/Healing Elixir\|Healing elixir]] X
+[[Burning Hands \|Burning Hands ]] 15
+[[Dissonant Whispers \|Dissonant Whispers ]] 60
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Hellish Rebuke\|Hellish Rebuke]] 60 R
 
 
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Wither and Bloom\|Wither and Bloom]] 
-[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Misty Step\|Misty Step]] B
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Knock\|Knock]]
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Crown of Madness\|Crown of Madness]]
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Enthrall\|Enthrall]]
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Flaming Sphere\|Flaming Sphere]]
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Wither and Bloom\|Wither and Bloom]] 60
+[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Misty Step\|Misty Step]] 30 B
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Knock\|Knock]] 60
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Crown of Madness\|Crown of Madness]] 120
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Enthrall\|Enthrall]] 60
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Flaming Sphere\|Flaming Sphere]] 60
+
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Fear\|Fear]] 30
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Haste\|Haste]] 30
+[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Anubis/Fireball\|Fireball]] 150
 
 
 
