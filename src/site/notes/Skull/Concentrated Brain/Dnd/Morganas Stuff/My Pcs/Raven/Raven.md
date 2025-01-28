@@ -62,7 +62,7 @@
 
 # Inventory
 
-Money: 10 gp
+Money: 15 gp
 Inventory: A set of well-loved carpenter's tools, a blank book, 1 ounce of ink, an ink pen, a set of traveler's clothes, theives tools, dungeoneers pack
 
 # Extra

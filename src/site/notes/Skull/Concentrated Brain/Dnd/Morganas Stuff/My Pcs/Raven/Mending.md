@@ -1,21 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/morganas-stuff/my-pcs/raven/raven-s-spells/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/morganas-stuff/my-pcs/raven/mending/","tags":["Tagless"],"noteIcon":""}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 
-# <center><span style="color:#322366">Raven's Spells</span></center>
+# <center><span style="color:#000000">Mending</span></center>
 
-## Cantrips
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Raven/Mending\|Mending]] X  M
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Raven/Message\|Message]]  120 M
+_Transmutation cantrip_
 
-## 1st (2)
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Raven/Alarm\|Alarm]] 30 x M
-[[Detect Magic \|Detect Magic ]]
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Raven/Identify\|Identify]] x M
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Raven/Purify Food And Drink\|Purify Food And Drink]] 10 
+**Casting Time:** 1 minute  
+**Range:** Touch  
+**Components:** V, S, M (two lodestones)  
+**Duration:** Instantaneous
+
+This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.
+
+This spell can physically repair a magic item or construct, but the spell can’t restore magic to such an object.
+
+**_Spell Lists._** [Artificer](http://dnd5e.wikidot.com/spells:artificer), [Bard](http://dnd5e.wikidot.com/spells:bard), [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Druid](http://dnd5e.wikidot.com/spells:druid), [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
+
 
 
 

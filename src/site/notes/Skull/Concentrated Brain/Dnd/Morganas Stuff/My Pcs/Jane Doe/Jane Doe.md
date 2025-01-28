@@ -100,6 +100,13 @@ Harness Divine Power (1)
 
 # Characteristics 
 
+Fun Facts:
+- [ ] Became A Cleric Because She Has A Really Good Plan For Keeping Everyone Alive And Happy
+- [ ] Just Really Wants People To Like Her Not Because Shes Vein (Not That Shes Not) But More Because That Always Seems To Work Out For Them
+- [ ] Has Been Looking Into Slimes Recently (Literally)
+- [ ] Tells Everyone She Started From The Ground Up In Solim But She Actually Moved There When She Got Her Clerical Powers As A Teen
+- [ ] She Strongly Believes That Ignorance Is Bliss And That Itd Be Better To Not Trick People Into Being happy If Need Be
+
 # Random Notes
 People Being Harrassed/Kidnapped
 	Been Happening For A While. Nothings Being Done About It, More Frequent Recently, Mayor And Coulsels Of Draknir Put Out A Bounty, 60g + 10pps, This Graveyeard This Night (possible Congrefation Spot), Nobody Has Come Out, Kill Kill Kill, 
@@ -122,7 +129,7 @@ StEphanie (15 Degree CROP LINE),  Beartrice (Straight, Off Centre, Crop Line),
 Person Found In Coffin, Other Peple In Coffins Dead0
 Old Woman Tori
 Ration, 5 Copper
-Ruby Alive In Grave???
+Ruby Copycat Alive In Grave???
 Half Orc Adventuring Shop, Oxew, Checkpoint Initiative (charity Guild (Rather Straight And Trustworthy)), 
 
 Winter Star Starts
@@ -140,4 +147,4 @@ Letter From Kalkav, 110g Each, 08000-2200 Protect Wearhouse, 7am Start, Any Qs, 
 Sleep Mist Or Something
 Jessie Von Clownstick/Von Clownie
 
-Building Sepent Carving On Hinges/Full Back Tattoo  "walk In Shadow"
+Building Serpent Carving On Hinges/Full Back Tattoo  "walk In Shadow"

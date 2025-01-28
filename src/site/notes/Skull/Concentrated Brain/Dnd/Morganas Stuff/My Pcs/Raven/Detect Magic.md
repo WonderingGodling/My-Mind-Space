@@ -1,21 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/morganas-stuff/my-pcs/raven/raven-s-spells/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/morganas-stuff/my-pcs/raven/detect-magic/","tags":["Tagless"],"noteIcon":""}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 
-# <center><span style="color:#322366">Raven's Spells</span></center>
+# <center><span style="color:#000000">Detect Magic</span></center>
 
-## Cantrips
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Raven/Mending\|Mending]] X  M
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Raven/Message\|Message]]  120 M
 
-## 1st (2)
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Raven/Alarm\|Alarm]] 30 x M
-[[Detect Magic \|Detect Magic ]]
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Raven/Identify\|Identify]] x M
-[[Skull/Concentrated Brain/Dnd/Morganas Stuff/My Pcs/Raven/Purify Food And Drink\|Purify Food And Drink]] 10 
+_1st-level divination (ritual)_
+
+**Casting Time:** 1 action  
+**Range:** Self  
+**Components:** V, S  
+**Duration:** Concentration, up to 10 minutes
+
+For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
+
+The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+
+**_Spell Lists._** [Artificer](http://dnd5e.wikidot.com/spells:artificer), [Bard](http://dnd5e.wikidot.com/spells:bard), [Cleric](http://dnd5e.wikidot.com/spells:cleric), [Druid](http://dnd5e.wikidot.com/spells:druid), [Paladin](http://dnd5e.wikidot.com/spells:paladin), [Ranger](http://dnd5e.wikidot.com/spells:ranger), [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Wizard](http://dnd5e.wikidot.com/spells:wizard)
 
 
 
