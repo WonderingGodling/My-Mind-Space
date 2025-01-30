@@ -82,7 +82,7 @@ Focusing On Flowering And Agricultural Plants
 Bryophyta And <b>Tracheopyta</b>
 
 ### TRACHEOPHYTA
-Vascular plants (Xylem & phloem)
+Vascular plants ([[Uni/Plant Biology#xylem\|xylem]] & [[Uni/Plant Biology#Phloem\|phloem]])
 Vegetative plant diploid
 
 Sub-Division
@@ -106,7 +106,7 @@ The Shoot System
 	- reproduction & seed dispersal  
 	- food and water conduction  
 
-The Root System  
+The [[Uni/Plant Biology#The root\|root]]System  
 - Underground (usually)  
 - Anchors the plant in the soil  
 - Absorbs water and nutrients  
@@ -116,7 +116,7 @@ The Root System
 #### Meristems
 A region of localized mitosis (Where Plant cell types arise )
 
-Meristems may be at the tip of the shoot or root (apical meristem) or lateral, occurring in cylinders extending nearly the length of the plant
+Meristems may be at the tip of the shoot or [[Uni/Plant Biology#The root\|root]] (apical meristem) or lateral, occurring in cylinders extending nearly the length of the plant
 
 A cambium is a lateral meristem that produces (usually) secondary growth
 
@@ -128,19 +128,19 @@ Plants have three tissue types:
 The Epidermis forms a continuous, 1 Cell Thick, layer  
 over the surface of most primary organs
 2. Ground Tissue (parenchyma)
-The Endodermis is the inner layer of the root cortex
+The Endodermis is the inner layer of the [[Uni/Plant Biology#The root\|root]]cortex
 3. Vascular Tissue (stele)
 	- Discrete bundles in stems & leaves
 	- Form a ring in dicotyledonous (dicot) stems
 	- Are scattered in monocotyledonous(monocot) stems
-	- Divides into xylem & phloem
+	- Divides into [[Uni/Plant Biology#xylem\|xylem]] & [[Uni/Plant Biology#Phloem\|phloem]]
 
 ##### Parenchyma
 generalized plant cell type
 -  alive at maturity
 -  bulk of ground and vascular tissues
 	- function in storage, photosynthesis
-	- also in the xylem and phloem of vascular bundles
+	- also in the [[Uni/Plant Biology#xylem\|xylem]] and [[Uni/Plant Biology#Phloem\|phloem]] of vascular bundles
 	- the largest occur in the pith region
 	- ray parenchyma cells occur in wood rays, which transport materials laterally within a woody stem
 	- May develop into:
@@ -168,7 +168,7 @@ generalized plant cell type
 	- Sclereids
 
 ###### Sieve tube cells
-- Characteristic of phloem tissue of angiosperms  
+- Characteristic of [[Uni/Plant Biology#Phloem\|phloem]] tissue of angiosperms  
 - Fairly small, rounded, have a thin unlignified wall  
 - Difficult to distinguish from parenchyma cells in T.S. section 
 - Greatly elongated in L.S. section joined end to end to form tubes
@@ -185,8 +185,8 @@ Dense protoplasmic contents
 - Transports carbohydrates produced during photosynthesis  
 - Provides structural support  
 - Positioned: 
-	- Outside the xylem in stems & roots
-	- Below the xylem in leaves
+	- Outside the [[Uni/Plant Biology#xylem\|xylem]] in stems & [[Uni/Plant Biology#The root\|roots]]
+	- Below the [[Uni/Plant Biology#xylem\|xylem]] in leaves
 - Compact discrete mass of small, thin-walled living cells
 - Consists of 4 types of cell:
 	- Phloem parenchyma
@@ -205,7 +205,7 @@ Dense protoplasmic contents
 
 ##### Anatomy of dicotyledonous stems
 - Contains a ring of vascular bundles 
-	- Contain xylem (inside)  
+	- Contain [[Uni/Plant Biology#xylem\|xylem]] (inside)  
 	- Phloem (outside)  
 	- Cambium – between X & P, 
 		- one celled & undifferentiated 
@@ -220,10 +220,10 @@ Dense protoplasmic contents
 - Cambium joins with newly formed interfascicular  
 - cambium to form a complete ring  
 	- Divides by mitosis, i.e. becomes meristematic 
-	- Produces a ring of 2ndry xylem (on inside)  
-	- Produces a ring of 2ndry phloem (on outside)  
-- Annual rings – distinct difference between spring xylem & autumn xylem
-- Medullary rays – strips of parenchyma running radially through the secondary xylem 
+	- Produces a ring of 2ndry [[Uni/Plant Biology#xylem\|xylem]] (on inside)  
+	- Produces a ring of 2ndry [[Uni/Plant Biology#Phloem\|phloem]] (on outside)  
+- Annual rings – distinct difference between spring [[Uni/Plant Biology#xylem\|xylem]] & autumn [[Uni/Plant Biology#xylem\|xylem]]
+- Medullary rays – strips of parenchyma running radially through the secondary [[Uni/Plant Biology#xylem\|xylem]] 
 	- Transmits water & foods  
 - Cork - develops from beneath the epidermis (from phellogen)  
 	- Produces phelloderm on the inside (2ndry cortex) 
@@ -236,7 +236,7 @@ Dense protoplasmic contents
 
 ## Basic Plant Anatomy II
 
-### The root
+### The Root
 - Vascular tissue – is central  
 - Can become meristematic  
 - Secondary thickening can form  
@@ -258,9 +258,9 @@ Dense protoplasmic contents
 - Spongy mesophyll  
 
 #### Leaf structure
-- Water & minerals arrive from the vascular bundles (vein – xylem & phloem, continuous with stem) 
-	- Xylem is on the adaxial (upper) side of the leaf  
-- Xylem & phloem of leaf bundles – like that in the stem
+- Water & minerals arrive from the vascular bundles (vein – [[Uni/Plant Biology#xylem\|xylem]] & [[Uni/Plant Biology#Phloem\|phloem]], continuous with stem) 
+	- [[Uni/Plant Biology#xylem\|xylem]] is on the adaxial (upper) side of the leaf  
+- [[Uni/Plant Biology#xylem\|xylem]] & [[Uni/Plant Biology#Phloem\|phloem]] of leaf bundles – like that in the stem
 
 ##### Pea - leaf stomata  
 - regulates exchange of water vapour, oxygen and carbon dioxide  
@@ -346,7 +346,7 @@ Has many advantages over the life cycle of lower plants
 
 #### Seed plants - Gymnospermae
 - Have naked seeds – no carpel is present  
-- No vessels in their xylem tissue  
+- No vessels in their [[Uni/Plant Biology#xylem\|xylem]] tissue  
 - Major surviving group is the Coniferae  
 - Characterised by needle-like leaves & cones
 - Have seeds which are enclosed in the carpel – which becomes modified to aid dispersion  
@@ -361,7 +361,7 @@ Has many advantages over the life cycle of lower plants
 #### Gymnosperms
 - After fertilisation - young sporophyte is liberated as the seed
 - Members show a tendency to a reduction in leaf size  
-- Xylem is composed of tracheids  
+- [[Uni/Plant Biology#xylem\|xylem]] is composed of tracheids  
 	- (except Gnetales – vessels)  
 - Microspores pass down the micropyle & come in direct contact with the nucellus during the pollination process
 
@@ -371,7 +371,7 @@ Has many advantages over the life cycle of lower plants
 - Mostly less than 6 feet tall  
 - Large conspicuously developed pith and cortical zones in the stem
 -  Found across much of tropical & subtropical parts of the world
-- Relatively little development of 2º xylem  
+- Relatively little development of 2º [[Uni/Plant Biology#xylem\|xylem]]  
 - All dioecious (male & female strobili on separate plants)  
 - Pollen sacs on scale like micosporophylls in compact cones (microsporangia) 
 - Megasporophylls also in cones  
@@ -496,12 +496,12 @@ weeds
 - Free floating – grow completely unattached to substrate and generally grow at or near to the surface,
 
 #### Emergent plants  
-- Rooted in muddy soil or shallow water  
+- [[Uni/Plant Biology#The root\|root]]ed in muddy soil or shallow water  
 - Close to the shore  
 - Send up tough, rigid stalks and leaves (to 6m), e.g. Phragmites australis, Typha latifolia, Sparganium erectum
 
 #### Floating-leaf plants  
-- Rooted underwater  
+- [[Uni/Plant Biology#The root\|root]]ed underwater  
 - Flexible, air-filled stems support broad leaves that float on the surface  
  - Limited by the length to which their stems can grow  
 - Stems may be several feet long  
@@ -535,8 +535,8 @@ margin,
 ##### Completely submerged e.g.Elodea sp.  
 - Lack stomata - gas exchange occurs though the thin, air-permeable cuticle and a thin or even absent epidermis.  
  - The leaves are very thin or thread-like which accounts for a favourable surface (high) to volume (small) ratio.  
- - The water transport system, the xylem, is strongly reduced as water shortage is virtually impossible.  
-- Their buoyancy derives from large intercellular cavities that protrude into stems and roots and thus facilitate oxygen transport. 
+ - The water transport system, the [[Uni/Plant Biology#xylem\|xylem]], is strongly reduced as water shortage is virtually impossible.  
+- Their buoyancy derives from large intercellular cavities that protrude into stems and [[Uni/Plant Biology#The root\|root]]s and thus facilitate oxygen transport. 
 - The intensity of light underwater is relatively low; a true palisade parenchyma layer is often lacking.
 
 #### Submerged leaves  
@@ -550,7 +550,7 @@ margin,
 #### Free-floating plants  
 - Float on water surface  
 - Not limited by depth  
-- Their dangling roots obtain nutrients from the water  
+- Their dangling [[Uni/Plant Biology#The root\|root]]s obtain nutrients from the water  
 - Multiply rapidly and form a bright green mat on the water's surface  
 - Relatively unrestricted by depth
 
@@ -1102,7 +1102,7 @@ adaptations of angiosperm species to mineral stress.
 Adaptations to excess of mineral salts  
  HALOPHYTES: A number of angiosperms grow  
 where they are periodically submerged in seawater.  
-In addition, to the problems of root aeration - coastal  
+In addition, to the problems of [[Uni/Plant Biology#The root\|root]]aeration - coastal  
 mangrove swamps. They also have to adapt to the  
 salt content  
 There are two aspects to this problem:  
@@ -1239,7 +1239,7 @@ Two different mechanisms for Fe-efficiency exist:
 (1) (Most common response by dicots and many  
 monocots) In response to Fe-deficiency there is an  
 increase in the activity of Fe+++ reductase at the  
-absorptive surface of the roots.
+absorptive surface of the [[Uni/Plant Biology#The root\|root]]s.
 
  Fe+++ reductase is inhibited by high pH &  
 dependent on a supply of soluble Fe, and these types  
@@ -1284,10 +1284,10 @@ plant to prevent deficiency.
 3) Nitrogen  
  Not as often limiting as other minerals. Provided  
 soil is reasonably aerated, the activity of nitrifying  
-bacteria living in it, close to plant roots, can maintain  
+bacteria living in it, close to plant [[Uni/Plant Biology#The root\|root]]s, can maintain  
 sufficient levels for plant growth. Global estimates of  
 bacterial N fixation : 100 - 800 tons y -1.  
- Symbiotic N fixation in root nodules is often  
+ Symbiotic N fixation in [[Uni/Plant Biology#The root\|root]]nodules is often  
 overemphasised by people bec. of its agricultural imp.  
 In fact nodules are only found in 8 families & while plants  
 such as Genista, Cytisus & Ulex can grow in very nutrient  
