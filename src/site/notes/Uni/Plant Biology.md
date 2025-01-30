@@ -7,7 +7,7 @@
 
 # <center><span style="color:#3f9b0b">Introduction To Plant Kingdom </span></center>
 
-# Week 1 Introduction to the Plant Kingdom
+# <center> Week 1 Introduction to the Plant Kingdom</center>
 ## Living Organisms
 
 5 Groups:
