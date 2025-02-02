@@ -11,56 +11,62 @@
 
 
 ## General
- Race:  
- Class: 
- Alignment: 
- Background: 
+ Race:  Aasimar
+ Class: Lycan Bloodhunter 3
+ Alignment: Lawful Good
+ Background: Mercinary
 
 
 ## Stats
 
 |    Speed     | AC  | Bonus |  Initiative   |
 | :----------: | :-: | :---: | :-----------: |
-|      30      |     |       |               |
-|   Hit Dice   |     |       | Saving Throws |
-|    Health    |     |       |               |
-|   Strength   |     |       |               |
-|  Dexterity   |     |       |               |
-| Constitution |     |       |               |
-| Inteligence  |     |       |               |
-|    Wisdom    |     |       |               |
-|   Charima    |     |       |               |
+|      30      |  18   |   2    |     3          |
+|   Hit Dice   |   3d10  |    3d10   | Saving Throws |
+|    Health    |  33   |  33     |               |
+|   Strength   |   12  |      1 |          1     |
+|  Dexterity   |   17  |      3 |          5     |
+| Constitution |    13 |     1  |         1      |
+| Inteligence  |   15  |    2   |        4       |
+|    Wisdom    |  10   |   0    |         1      |
+|   Charima    |  8   |  -1     |         -1      |
 
 | Skills                | Bonus | Skills                | Bonus |
 | --------------------- | :---: | --------------------- | :---: |
-| Acrobatics (Dex)      |       | Medicine (Wis)        |       |
-| Animal Handling (Wis) |       | Nature (int)          |       |
-| Arcana (Int)          |       | Perception (Wis)      |       |
-| Athletics (Str)       |       | Performance (Char)    |       |
-| Deception (Char)      |       | Persuasion (Char)     |       |
-| History (Int)         |       | Religion (Int)        |       |
-| Insight (Wis)         |       | Sleight of Hand (Dex) |       |
-| Intimidation (Char)   |       | Stealth (Dex)         |       |
-| Investigation (Int)   |       | Survival (Wis)        |       |
+| Acrobatics (Dex)      |  5     | Medicine (Wis)        |  1     |
+| Animal Handling (Wis) |   1    | Nature (int)          |   2    |
+| Arcana (Int)          |    4   | Perception (Wis)      |    1   |
+| Athletics (Str)       |     3  | Performance (Char)    |     -1  |
+| Deception (Char)      |  -1     | Persuasion (Char)     |      1 |
+| History (Int)         |    4   | Religion (Int)        |     2  |
+| Insight (Wis)         |     1  | Sleight of Hand (Dex) |      3 |
+| Intimidation (Char)   |      -1 | Stealth (Dex)         |     3  |
+| Investigation (Int)   |    2   | Survival (Wis)        |      1 |
 
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
-| Death Fails |     |     |     |
+| Death Fails  |     |     |     |
+
 ### Attacks
 
 | Attack | To-Hit | Damage |
 | ------ | ------ | ------ |
-|        |        |        |
+| Rapier       |   5     | 1d8+5 Piercing      |
+|   Shield     | 5       |     1d6+5 Slashing   |
 
 ### [[Pacseholders's Spells\|Pacseholders's Spells]]
 
-| Constitution |     |     |
+| Int |   12  |  4   |
 | ------------ | --- | --- |
 
 # Inventory
 
 Money: 
-Inventory: 
+Inventory: A uniform of your company (traveler's clothes in quality), an insignia of your rank, Dice, scale mail armor, Backpack, bedroll, mess kit, tinderbox, torch (10), rations (10), waterskin, 50ft hempen rope, Boomerang Shield
+Shopping List: Halfplate, Grappling Hook, rope, Locks, Manacles, portable ram, Caltrops , Hunting Traps, Silvered, Dragonchess, Playing card, Three-Dragon Ante,  
+Magic Items: Brooch of Shielding, Gloves of Missile Snaring, Immovable Rod
+Feats I Want: Adrenaline Rush, Savage Attacker, **Piercer**, Mobile, Medium Armor Master, Defensive Duelist, Fighting Initiate
+
 # Extra
 Resistances: 
 Advantage: 
@@ -70,13 +76,29 @@ Conditions:
 
 # Proficiencies
 		
-Armor:  
-Weapons: 
-Tools: 
-Languages: 
+Armor:  Light armor, medium armor, shields
+Weapons: Simple weapons, martial weapons
+Tools: Alchemist's supplies, Dice set, vehicles (land)
+Languages: Common, Celestial
 
 # Notes: 
+Darkvision (60) 
+Celestial Resistance 
+Healing Hands (2)d4 
+Light Bearer 
+Radiant Soul 
 
+Hunter's Bane 
+Blood Maledict 
+  Blood Curse of Binding 
+Fighting Style 
+  dueling 
+Crimson Rite 
+  Rite of the Storm 
+Heightened Senses 
+Hybrid Transformation 
+
+Shield Master
 
 
 # Characteristics 
