@@ -247,6 +247,162 @@ Single layer of peptidoglycan outside plasma membrane
 	- Grow by adding subunits of pilin protein to their base
 
 
+## Week 3 Bacterial growth and Genetics
+
+### Bacterial growth and replication
+**Binary fission:**
+- Process results in two identical daughter cells  
+- Time to division depends on environmental factors and species  
+- Responsible for characteristic arrangement of cells  
+- Growth is exponential – 2, 4, 8, 16, 32, 64,  
+- Rapid growth allows rapid evolution of traits by mutation or recombination
+
+Bacterial growth starts with chromosome replication
+Septation/division follows
+
+*Bacterial growth rates in lab conditions*
+![Pasted image 20250203142156.png](/img/user/Pasted%20image%2020250203142156.png)
+Lag: inactivity
+stationary: equal replication and death rate
+
+#### Measurement of bacterial growth
+Can be measured directly or indirectly
+Direct:
+- Microscopy
+- Membrane filtration (mostly for water)
+- Plate counts and viable counts – aerobic or anaerobic
+
+Indirect:
+- [[Uni/Microbiology#Turbidity\|Turbidity]] using spectrophotometry
+- Biomass
+- Measuring cell products – C0
+
+"Are really showing presence or detecting organism by its growth" (????)
+
+##### The viable count
+Allows the approximate quantity of living organisms measured from a sample
+Examples for Bacteria and yeasts: 
+- Spread plates  
+- Pour plates  
+- Miles and Misera
+Doesn't take into account viable but non-culturable organisms (underestimate)
+
+##### Turbidity
+Bacterial Number can be estimated using spectroscopy.  
+When a growth curve is plotted using plate counts along with the optical density of a sample from a growing culture at 550 – 600 nm, bacterial number can be determined using only turbidity
+
+##### Growth can be used to identify an organism
+As bacterial cells grow they utilise nutrients or carbon sources in different ways and produce enzymes, allowing a metabolic fingerprint to be obtained (specific to the organism)  
+
+Many systems developed to exploit differences:
+Manual –agar plates – biochemical tests  
+Mechanised – robotic biochemical assays  
+
+### The bacterial chromosome
+- Double stranded circular DNA molecule
+- Condensed into the nucleiod
+- No nuclear membrane
+- Chromosome is unpaired – haploid
+- Encodes all the genes required for essential cell functions
+
+#### Chromosome Replication
+Must happen for cell division
+- Replication is semi-conservative – each copy made contains one new (daughter) and one old strand (parent)  
+- Replication starts from a specific site the Origin of Replication (ori C)  
+- Bi-directional  
+- Uses a large collection of enzymes - Replisome
+
+#### Chromosome size
+- Size varies significantly between species  
+	- Can infect more species - larger chromosomes
+- Efficient methods for genome sequencing available only from 1995  
+- whole genome “shotgun” sequencing  
+- Venter & Smith: 1st to sequence Haemophilus influenzae & Mycoplasma genitalium  
+- Now many available - whole genomes sequenced through automated processes – important strains  
+
+### Bacterial gene expression
+#### Operons  
+- Functionally linked genes are grouped together  
+- expression controlled by a single operator (called OPERONs)  
+	- All the genes in an operon are transcribed onto one large messenger RNA molecule  
+- ensures that all the genes required for a particular metabolic task are expressed and active at the same time
+
+#### Control of gene expression  
+Controlled by proteins which regulate the rate of gene transcription: 
+- REPRESSORs (negative control - down regulate)  
+- ACTIVATORs (positive control – up regulate) 
+- REGULONs: a group of operons that is co-regulated – e.g. toxins 
+Can be specific proteins or products such as levels of catabolites - glucose  
+
+
+### Plasmids
+
+Extra-chromosomal genetic elements that replicate independently from host chromosome and aren't essential for survival of the bacterium  
+- Thousands of different plasmids exist  
+	- 300 isolated from strains of E. coli alone  
+	- Possible to make them in the lab – plasmid vectors for cloning
+
+#### Spread naturally by CONJUGATION  
+Replication is similar to chromosome replication and starts at origin of replication (ori V)
+Between a donor cell a recipient cell - sex pilus  
+Typically circular, DS and < 5% size of chromosomes - 1 to 5 x 105 bp  
+
+
+#### Medical importance of plasmids
+##### Antibiotic resistance  
+Aka R factors were first discovered in Japan in 1959
+Increase of R plasmids correlates with increasing use of antibiotics
+Usually enzymatic inactivation of the antibiotic:
+- β- lactamases – penicillin resistance  
+- Prevent uptake by modifying cell wall  
+
+
+### Mutation and recombination
+#### Mutation in bacterial genes  
+An inheritable change within a nucleotide (DNA) sequence. A bacterial strain carrying such a change is called a mutant. this can be:
+- spontaneous - natural radiation, errors during DNA replication  
+- induced - chemical mutagens
+#### Types of mutation  
+- Point mutation - affects one base pair  
+- Insertion or deletion of large DNA fragment (due to a mobile element called a transposon)
+may result in loss of gene function  
+- Inversions and duplications
+
+#### Examples of mutations altering gene function  
+- Replacement of nucleotide resulting in amino acid substitution in a protein (missense)  
+- Premature termination of protein synthesis (nonsense)  
+- Change in expression levels due changed regulation  
+	- deletions or insertions
+
+#### Recombination  
+- Genes in two separate bacterial cells brought together in one  
+- Occurs by transfer of genetic information between bacteria have a COMMON GENE POOL  
+- Swap genes through horizontal gene transfer  
+- Includes genes on plasmids  
+- Happens through – Transformation, Conjugation and transduction
+
+#### Transformation  
+- Uptake of pure (naked) DNA from medium surrounding cell  
+- Released into medium from lysed cells  
+- DNA must integrate into chromosome to transform recipient cell = Transformants  
+- Can be induced in the lab - Plasmids
+
+#### Transduction  
+- DNA transferred cell to cell by Bacteriophages (bacterial viruses)  
+- Bacteriophage picks up partially degraded bacterial DNA instead of its own by mistake when making new virus – transducing phage  
+- Not all bacteriophages can transduce and not all bacteria are transducible
+
+#### Conjugation  
+- Cell-to-cell contact allowing transfer of DNA  
+- Plasmids are self-transmissible by CONJUGATION  
+	- encode the sex pilus and other transfer genes (tra region) 
+	-  is the major mechanism of transfer of antibiotic resistance genes on R plasmids
+
+
+
+
+
+
 
 
 

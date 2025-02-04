@@ -54,18 +54,12 @@
 | Rapier       |   5     | 1d8+5 Piercing      |
 |   Shield     | 5       |     1d6+5 Slashing   |
 
-### [[Pacseholders's Spells\|Pacseholders's Spells]]
-
-| Int |   12  |  4   |
-| ------------ | --- | --- |
 
 # Inventory
 
 Money: 
 Inventory: A uniform of your company (traveler's clothes in quality), an insignia of your rank, Dice, scale mail armor, Backpack, bedroll, mess kit, tinderbox, torch (10), rations (10), waterskin, 50ft hempen rope, Boomerang Shield
-Shopping List: Halfplate, Grappling Hook, rope, Locks, Manacles, portable ram, Caltrops , Hunting Traps, Silvered, Dragonchess, Playing card, Three-Dragon Ante,  
-Magic Items: Brooch of Shielding, Gloves of Missile Snaring, Immovable Rod
-Feats I Want: Adrenaline Rush, Savage Attacker, **Piercer**, Mobile, Medium Armor Master, Defensive Duelist, Fighting Initiate
+
 
 # Extra
 Resistances: 
@@ -100,6 +94,9 @@ Hybrid Transformation
 
 Shield Master
 
+Shopping List: Halfplate, Grappling Hook, rope, Locks, Manacles, portable ram, Caltrops , Hunting Traps, Silvered, Dragonchess, Playing card, Three-Dragon Ante,  
+Magic Items: Brooch of Shielding, Gloves of Missile Snaring, Immovable Rod
+Feats I Want: Adrenaline Rush, Savage Attacker, **Piercer**, Mobile, Medium Armor Master, Defensive Duelist, Fighting Initiate
 
 # Characteristics 
 

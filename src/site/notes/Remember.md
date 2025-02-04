@@ -24,7 +24,7 @@ Egyptian Gods
 [[Bible Order\|Bible Order]]
 [[The Missle\|The Missle]]
 [[Skull/Concentrated Brain/Poetry Apparently/Ladies And Gentlemen\|Ladies And Gentlemen]]
-AND YOU CAN QUOTE ME ON THAT
+[[AND YOU CAN QUOTE ME ON THAT\|AND YOU CAN QUOTE ME ON THAT]]
 
 
 

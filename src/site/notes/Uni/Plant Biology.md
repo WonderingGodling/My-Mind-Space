@@ -93,7 +93,7 @@ Class
 **Gymnospermae** (Conifer)
 **Angiospermae** (Flowering Plants)
 
-# Week 2 Basic Plant Anatomy I & II
+# <center>Week 2 Basic Plant Anatomy I & II</center>
 ## Basic Plant Anatomy I
 
 ### The "Typical" Plant Body
@@ -206,7 +206,7 @@ Dense protoplasmic contents
 ##### Anatomy of dicotyledonous stems
 - Contains a ring of vascular bundles 
 	- Contain [[Uni/Plant Biology#xylem\|xylem]] (inside)  
-	- Phloem (outside)  
+	- [[Uni/Plant Biology#Phloem\|Phloem]] (outside)  
 	- Cambium – between X & P, 
 		- one celled & undifferentiated 
 - Cortex – external to bundles
@@ -247,14 +247,14 @@ Dense protoplasmic contents
 - Storage of starch could be a feature
 
 #### Function of Roots  
-- Anchorage –  
-- Storage of food –  
-- Transport of water -
+- Anchorage 
+- Storage of food 
+- Transport of water 
 
 ### Anatomy of the leaf
 - Thin upper epidermis covered with a waxy cuticle 
 	- Below is the mesophyll tissue  
-- Palisade parenchyma  
+- Palisade [[Uni/Plant Biology#Parenchyma\|parenchyma]]
 - Spongy mesophyll  
 
 #### Leaf structure
@@ -275,17 +275,17 @@ Dense protoplasmic contents
 |     Bundled vasculature     |       Dispersed vasculature      |
 
 
-## week 3 Plant Diversity I & II
+# <center>week 3 Plant Diversity I & II</center>
 
-### Plant Diversity I - Seed Plants
+## Plant Diversity I - Seed Plants
 
-#### Spores v. Seeds
+### Spores v. Seeds
 Spore – most important reproductive & dispersal unit of Bryophyta (haploid)
 Seed- a reproductive structure
 Composed of a protected embryo plant
 Embryo– develops from a fertilised oosphere of a gametophyte which is at all times structurally attached to, and physiologically dependent upon, a sporophyte
 
-#### 2 types of seed bearing plants
+### 2 types of seed bearing plants
 
 
 |                                      Gymnosperms                                      |                               Angiosperms                               |
@@ -297,7 +297,7 @@ Embryo– develops from a fertilised oosphere of a gametophyte which is at all t
 |                                  Needle like leaves                                   | Deciduous – lose all leaves once per year; remain dormant in the winter |
 |                      Evergreen, leaves are continually replaced                       |                                                                         |
 
-#### Progressive changes in the life cycle of land plants
+### Progressive changes in the life cycle of land plants
 - Dominant plant from gametophyte to sporophyte
 - From single gametophyte plant
 	- To small male gametophyte
@@ -311,19 +311,19 @@ Embryo– develops from a fertilised oosphere of a gametophyte which is at all t
 	- carpel = megasporophyll
 	- N.B. a carpel = ovary, style & stigma
 
-#### Life Cycle of Seed Plants
+### Life Cycle of Seed Plants
 - Seed plants (spermatophytes) – show the phenomenon of alternation of generations  
 - BUT the sporophyte produces 2 types of spores:  
 	- Microspores  
 	- Megaspores
 
-##### Sporophyte generation  
+#### Sporophyte generation  
 - Sporophyte produces 2 types of spores (heterosporous) 
 - Megasporangium – undergoes meiosis to produce megaspores (female gametophyte) 
 - Microsporangium – undergoes meiosis to produce haploid microspores, germinate to produce male gametophyte (pollen)  
 - Many gymnosperms use wind for pollination and seed dispersal
 
-#### Spore types in seed plants
+### Spore types in seed plants
 
 Microspores (pollen grains)
 - Produced in the microsporangia (anthers)
@@ -336,7 +336,7 @@ Megaspores (ovules)
 - Produced within each megasporangium (embryo sac) 
 - Produces a vestigial female gametophyte & a single female sex cell
 
-#### Seed habit
+### Seed habit
 Has many advantages over the life cycle of lower plants
 - Advantages:  
 	- Development of pollen grains which may be transferred by wind or animals (usually insects) from 1 plant to another 
@@ -344,7 +344,7 @@ Has many advantages over the life cycle of lower plants
 	- After fertilisation the whole gametophyte & the surrounding integument becomes the seed  
 	- In Angiosperms (as distinct from Gymnosperms) the seeds are surrounded by a modified ovary wall, the carpel, which often plays an important part in the successful dispersal of the seed
 
-#### Seed plants - Gymnospermae
+### Seed plants - Gymnospermae
 - Have naked seeds – no carpel is present  
 - No vessels in their [[Uni/Plant Biology#xylem\|xylem]] tissue  
 - Major surviving group is the Coniferae  
@@ -353,19 +353,19 @@ Has many advantages over the life cycle of lower plants
 - Double fertilisation takes place & an endosperm tissue forms within the ovule  
 - Vessels are present
 
-#### Seed plants - Angiospermae  
+### Seed plants - Angiospermae  
 - Have seeds which are enclosed in the carpel – which becomes modified to aid dispersion  
 - Double fertilisation takes place & an endosperm  tissue forms within the ovule
 
 
-#### Gymnosperms
+### Gymnosperms
 - After fertilisation - young sporophyte is liberated as the seed
 - Members show a tendency to a reduction in leaf size  
 - [[Uni/Plant Biology#xylem\|xylem]] is composed of tracheids  
 	- (except Gnetales – vessels)  
 - Microspores pass down the micropyle & come in direct contact with the nucellus during the pollination process
 
-#### Cycadophytes
+### Cycadophytes
 - Short unbranched trunk  
 - Terminal crown of long, leathery fern-like pinnate leaves  
 - Mostly less than 6 feet tall  
@@ -377,21 +377,21 @@ Has many advantages over the life cycle of lower plants
 - Megasporophylls also in cones  
 - Pollination by wind
 
-|Cycads| Conifers|
-|:---:|:---:|
-|Ciliated antherozoids |Passive male gametes|  
-|2º thickening not vigorous |Massive 2º thickening|  
-|Wood manoxylic |Wood pycnoxylic|  
-|Comparatively small plants| Mostly large plants|  
-|Stems unbranched |Stems profusely branched|  
-|Leaves pinnate| Leaves simple, 4 types|  
-|Dioecious |Monoecious|  
-|Dicotyledonous| Polycotyledonous|  
-|Ovules have radial symmetry |Ovules have bilateral symmetry|  
-|Originated from seed ferns| Originated from Cordaitales|  
-|Limited tropical & sub-tropical distribution|Still successful. More or less global distribution|
+|                    Cycads                    |                      Conifers                      |
+|:--------------------------------------------:|:--------------------------------------------------:|
+|            Ciliated antherozoids             |                Passive male gametes                |
+|          2º thickening not vigorous          |               Massive 2º thickening                |
+|                Wood manoxylic                |                  Wood pycnoxylic                   |
+|          Comparatively small plants          |                Mostly large plants                 |
+|               Stems unbranched               |              Stems profusely branched              |
+|                Leaves pinnate                |               Leaves simple, 4 types               |
+|                  Dioecious                   |                     Monoecious                     |
+|                Dicotyledonous                |                  Polycotyledonous                  |
+|         Ovules have radial symmetry          |           Ovules have bilateral symmetry           |
+|          Originated from seed ferns          |            Originated from Cordaitales             |
+| Limited tropical & sub-tropical distribution | Still successful. More or less global distribution |
 
-#### Significance of gymnosperms
+### Significance of gymnosperms
 
 Ecological importance
 - Provide food & habitat for wildlife  
@@ -403,11 +403,11 @@ Economic & commercial importance
 - Ornamental plants (trees, landscaping)  
 - Food - pine nuts (pesto)
 
-#### Angiosperms
+### Angiosperms
 - Undergo an alternation of generations in which the diploid, or sporophyte, generation is dominant  
 - The haploid, gametophyte generation is exceedingly reduced & vestigial (more so than in the gymnosperms)
 
-##### Angiosperm reproduction
+#### Angiosperm reproduction
 - Starts with the development of the anther & the carpel in the flower  
 - Meiosis gives rise to microspores & megaspores – which germinate to produce reduced gametophyte plants  
 - Give rise to gametes which fuse & the resulting zygote has divided to form the new embryo sporophyte plant
@@ -423,11 +423,11 @@ Economic & commercial importance
 - Megaspore nucleus divides mitotically to give 8 nuclei  
 	- Gives rise to the 8 nucleate embryo-sac
 
-#### Pollination  
+### Pollination  
 - Involves the transfer of pollen from anther to stigma  
 - Transfer within the flower (self-pollination) is not uncommon, but there are floral mechanisms which encourage transfer between individual plants (cross pollination)
 
-#### Fertilisation  
+### Fertilisation  
 - When in contact with the stigma the pollen grain germinates  
 - Pollen tube grows from the stigma down through the style into the ovary  
 - Ovule is penetrated via the micropyle, then the nucellus &  
@@ -439,9 +439,9 @@ finally the embryo sac
 	- Provides nutrition for the embryo & young plant 
 	- Often filled with food materials – carbs, fats & proteins present in labile form
 
-### Plant Diversity II - ## Aquatic macrophytes
+## Plant Diversity II - Aquatic macrophytes
 
-#### Aquatic Plant Communities
+### Aquatic Plant Communities
 - Microphytes - consist of microscopic organisms like algae  
 - Phytoplankton that drift in the water  
 - Types that attach to stones & plants  
@@ -450,7 +450,7 @@ finally the embryo sac
 - May form large growths on the pond  
 weeds
 
-#### Definition  
+### Definition  
  - “macro” - big, “phytes” – plants, or “hydro” phytes  
 - Associated with open water or wetlands  
 - Tolerate, or prefer, having water around them or their parts  
@@ -460,7 +460,7 @@ weeds
 - May extend right across the water  
 - Or limited to the fringe or littoral region
 
-#### Importance of Aquatic Plants  
+### Importance of Aquatic Plants  
 - Modify the habitat  
 - Provide shelter and a habitat to animals  
 - Source of food  
@@ -470,14 +470,14 @@ weeds
 - Plant diversity ensures animal diversity  
 - Aesthetically pleasing
 
-#### Simple classification  
+### Simple classification  
 - Leaves & stems within, or floating, on water  
 - Upper leaves, or shoots, able to grow above the water  
 - Lower leaves able to grow submerged  
 - Bank plants growing above normal water level  
 - Photosynthetically active parts are permanently, or submerged in freshwater, or float on the water surface or emerge above it
 
-#### Features  
+### Features  
 - Respond to changes in water quality, to water level fluctuations & other environmental factors  
 - Natural component of lake ecosystems  
 - Provide habitat & food for animals  
