@@ -398,15 +398,65 @@ may result in loss of gene function
 	- encode the sex pilus and other transfer genes (tra region) 
 	-  is the major mechanism of transfer of antibiotic resistance genes on R plasmids
 
+## Week 4 Terrestrial Microbiology Part 1
+
+### Soil
+- Complex environment  
+- Variety of microhabitats  
+	- Pores in soil, plant roots, air & water pockets 
+- Huge diversity of microbes  
+- Each climate and soil type has own microbial community
+
+#### Microorganisms in soil
+- Many microbes live in pores in soil  
+- Others are associated with plants:  
+	- Rhizoplane - on root surface  
+	- Rhizosphere - in close vicinity to root  
+	- Mycorrhizal fungi - symbiosis with plant  
+	- Give N & P to plant 
+	- Take organic C from plant  
+- Subsurface microbiota - microbial communities deep beneath the top-soil
+
+##### Importance of soil microorganisms
+- Global geochemical cycle  
+- Essential role in agriculture & maintaining environmental quality  
+- Production of Soil Organic Matter
+
+### Types of soil
+Most of Earths soil is mineral soil (less than 20% carbon)
+\> 20% is organic soil
+
+Soil Organic Matter (SOM):  all living, or once-living, materials within, or added to, the soil
+- Retain nutrients, maintaining soil structure, hold water for plants  
+- Can be degraded by microbes
+
+#### SOM
+Large influence on biological, chemical & physical dynamics of soil  
+SOM can be enhanced using fertiliser
+
+|           Nitrogen            |            Phosphorus             |
+| :---------------------------: | :-------------------------------: |
+| Many soils Have limited N2 Content |   Excess into lakes and streams   |
+| nitrates in water (Health implications)  | Excessive growth of Cyanobacteria |
 
 
 
+#### Production of SOM
+Three step process with breakdown of:  
+1. Soluble carbohydrates & proteins  
+2. Complex CHOs e.g. cellulose  
+3. Very resistant material e.g. lignin (complex oxygen- containing organic polymer)  
 
+Microbes involved (covered in Part 2)  
+- Streptomyces 
+- Pseudomonas  
+- Bacillus 
+- Basidiomycete fungi
 
+#### How to study soil microorganisms
 
-
-
-
+Traditionally bacterial culture (only identified ~ 1% of community)
+Advances in technology allow us to sequence the DNA in environments by Focusing on small subunit ribosomal RNA (ssrRNA) or total DNA sequencing (metagenomics)
 
 
 
