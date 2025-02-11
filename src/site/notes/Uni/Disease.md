@@ -12,37 +12,75 @@ ul {  list-style-image: url('blob:https://web.whatsapp.com/8094fc80-7dd8-4da4-ac
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Table of Contents Generator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    ul li {
+      margin: 5px 0;
+    }
+    ul li a {
+      text-decoration: none;
+    }
+  </style>
 </head>
 <body>
+  <div id="toc-container">
+    <h2>Table of Contents</h2>
+    <ul id="toc-list"></ul>
+  </div>
   <div id="content"></div>
-  
+
   <script>
+    // Function to generate TOC and content
     function generateTOC(markdownContent) {
-      const tocContainer = document.createElement('ul');
-      document.body.prepend(tocContainer);
+      const tocList = document.getElementById('toc-list');
+      const contentContainer = document.getElementById('content');
 
       markdownContent.split('\n').forEach(line => {
-        const match = line.match(/^(#{1,6})\s+(.*)/);
+        const match = line.match(/^(#{1,6})\s+(.*)/); // Match markdown headers (e.g., #, ##, ###)
         if (match) {
-          const level = match[1].length;
+          const level = match[1].length; // Get the level of the header from the number of '#' characters
           const text = match[2];
-          const id = text.toLowerCase().replace(/\s+/g, '-');
+          const id = text.toLowerCase().replace(/\s+/g, '-'); // Convert heading text to an ID-friendly format
 
-          // Create list item and link
+          // Create the corresponding heading element
+          const header = document.createElement(`h${Math.min(level, 6)}`); // Make sure we don't exceed h6
+          header.id = id; // Set the ID for anchor link
+          header.textContent = text;
+          contentContainer.appendChild(header); // Add the header to the content container
+
+          // Create the corresponding TOC entry
           const listItem = document.createElement('li');
-          listItem.style.marginLeft = `${(level - 1) * 20}px`;
+          listItem.style.marginLeft = `${(level - 1) * 20}px`; // Indent based on the heading level
           const link = document.createElement('a');
-          link.href = `#${id}`;
+          link.href = `#${id}`; // Link to the header section
           link.textContent = text;
-
           listItem.appendChild(link);
-          tocContainer.appendChild(listItem);
+          tocList.appendChild(listItem); // Append to the TOC list
         }
       });
     }
+
+    // Call the function with markdown content as a string
+    const markdownContent = `
+# Introduction
+## Chapter 1
+### Subsection 1.1
+## Chapter 2
+# Conclusion
+    `;
+    
+    generateTOC(markdownContent); // Generate TOC from markdown content
   </script>
 </body>
 </html>
+
+
 
 
 # <center><span style="color:#B043A0">Biomedical Basis Of Disease</span></center>
