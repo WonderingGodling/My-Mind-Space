@@ -18,6 +18,24 @@
 FeNCHOPS
 
 
+....
+........
+...........
+..............
+
+## Mandelian Genetics
+Dna-rna-protein
+### Ploidy
+Human Paired Chromosomes- Diplouid
+Bacteria, Lone Chromosome- Haploid
+
+Dominant And  Recessive Genes
+
+Penetrance (%)
+
+### Genomics, Transcriptomics, Proteomics And Metabolomics
+
+
 
 
 

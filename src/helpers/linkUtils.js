@@ -13,7 +13,7 @@ function extractLinks(content) {
           .slice(2, -2)
           .split("|")[0]
           .replace(/.(md|markdown)\s?$/i, "")
-          .replace(/\\/g, "")
+          .replace("\\", "")
           .trim()
           .split("#")[0]
     ),
@@ -23,7 +23,7 @@ function extractLinks(content) {
           .slice(6, -1)
           .split("|")[0]
           .replace(/.(md|markdown)\s?$/i, "")
-          .replace(/\\/g, "")
+          .replace("\\", "")
           .trim()
           .split("#")[0]
     ),
