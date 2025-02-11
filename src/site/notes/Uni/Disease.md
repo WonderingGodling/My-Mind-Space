@@ -16,7 +16,7 @@ ul {  list-style-image: url('blob:https://web.whatsapp.com/8094fc80-7dd8-4da4-ac
 ### Types Of Drugs
 Natural, synthetic, Semi-Synthetic, BioSynthetic 
 
-### Terminology
+### Random Terminology
 Therapeutic effect
 Side effects
 Adverse effects
@@ -32,10 +32,11 @@ Other
 ![](https://i.imgur.com/2ezEeT1.jpeg)
 
 
-### Absorption
-Absorption –the process by which the drug moves into the body from an external source
 
-#### Characteristics of a drug favoring absorption
+### Absorption 
+The drug moving into the body from an external source
+
+#### Characteristics of a drug favouring absorption
 - Low molecular size
 - Nonpolar
 - Lipophilic
@@ -50,12 +51,14 @@ Absorption –the process by which the drug moves into the body from an external
 - Gastric Emptying Time  
 - Intestinal Motility  
 - Food  
-- Formulation Factors  (First Pass Effect)
-![](https://i.imgur.com/39KHMgJ.png)
+- Formulation Factors  
+- The First Pass Effect- the drug getting to where is metabolised
+
+
 
 ### Bioavailability
-The fraction or percentage of administered drug that reaches systemic circulation, measured relative to intravenous (IV) administration.
-A Critical factor in determining drug effectiveness
+The proportion of administered drug that reaches systemic circulation, relative to IV administration.
+Determins drug effectiveness
 
 #### IV Administration (100% Bioavailability)
 <ul>
@@ -72,9 +75,7 @@ A Critical factor in determining drug effectiveness
 2. Function: Proteins transport and protect drugs  
 3. Release: Controlled drug distribution to target sites  
 
-Key point: This binding determines how  
-effectively drugs move through the body and  
-reach their intended targets.
+Key point: This binding determines how effectively drugs move through the body and reach their intended targets.
 
 ### Factors Affecting Drug Distribution
 #### Rate
@@ -86,10 +87,9 @@ reach their intended targets.
 - Lipid solubility  
 - Available transport mechanisms  
 - Intracellular Binding  
-- Factors Affecting Drug Distribution
 
 ### Biotransformation
-Chemical alteration of the drug in the living organism so as to eliminate it from the body.
+Chemical alteration of the drug to eliminate it from the body, increasing atributes like water solubility.
 
 ### Pharmacodynamics
 What a drug does to the body (How and Where)
@@ -110,99 +110,90 @@ Targets:
 - Interact with DNA
 
 #### Receptors
-Drug + Receptor Drug receptor complex Response
+Drug receptor complex  causes a Response
 
 **Agonist**  
 Definition: A drug that binds to a receptor  and stimulates cellular activity  
-Effects: Triggers the receptor's natural biological response  
+Effects: Triggers the receptor's response  
 
 **Antagonist**  
-Definition: A molecule that binds to a  
-receptor but blocks or inhibits its activation  
-Effects: Prevents the natural biological  
-response
+Definition: A molecule that binds to a receptor but blocks or inhibits its activation  
+Effects: Prevents the response
 
 #### Affinity, efficacy and potency
 Affinity  
-A measure of how well a drug binds to a receptor.  
-Can be measured as the concentration of a drug that occupies 50% of receptors  
-The dissociation constant KD (more dissociated = less affinity)
+How well a drug binds to a receptor.  
+Measured as the concentration the drug occupying 50% of receptors  
+Higher affinity, lower dissociation constant (DK)
 
 Efficacy  
-A measure of the magnitude of the effect once the drug is bound
+The magnitude of the bound drug's effect 
 
 Potency  
-A measure of the quantity of a drug needed to produce the maximal effect
+The quantity of a drug needed to produce the maximal effect
 
 ## Week 3 Type 2 Diabetes Mellitus (Case Study 1)
 ### Type 2 diabetes mellitus (T2DM) is
-A complex metabolic disorder characterised by hyperglycaemia (excessive sugar in the blood).
-It arises from the body's inability to use insulin properly, known as insulin resistance, combined with a relative deficiency of insulin (insulin deficiency).
+A complex metabolic disorder characterised by hyperglycaemia (excessive blood sugar).
+It arises from the body's inability to use insulin properly (insulin resistance) combined with insulin deficiency.
 
 ### Insulin's Role & Insulin Resistance
-Insulin's Role: Insulin is a hormone produced by the pancreas. It allows glucose from the bloodstream to enter cells, to be used for energy.
+Insulin's Role: Insulin is a hormone produced by the pancreas. It allows glucose to enter cells (through blood), for energy.
 
-Insulin Resistance: In T2DM, cells don't respond properly to insulin's signal, making it harder for glucose to enter the cells.
+Insulin Resistance: In T2DM, cells don't respond to insulin, making it harder for glucose to enter cells.
 
 ### Glucose in the context of T2DM
-Glucose is the primary source of energy for your body's cells. It comes mostly from carbohydrates.
-
-After you eat, glucose is absorbed into your bloodstream, where it travels to your cells to provide them with energy
+Glucose (from carbohydrates) is a cells primary energy source.
 
 ### Pathogenesis
 #### Insulin Resistance
-Reduced tissue sensitivity- Cells in muscles, fat, and liver become less responsive to insulin, the hormone that allows glucose to enter cells for energy. This leads to decreased glucose uptake and utilisation.
+Reduced tissue sensitivity- Cells in muscles, fat, and liver become less responsive to insulin decreasing glucose uptake and utilisation.
 
-Increased glucose production- The liver produces more glucose, further contributing to hyperglycaemia
+Increased glucose production- The liver produces more glucose, contributing to hyperglycaemia
 
 #### Impaired Insulin Secretion
-Beta-cell dysfunction- The pancreatic beta cells, which produce insulin, gradually lose their ability to secrete enough insulin to overcome insulin resistance.
+Beta-cell dysfunction- The pancreatic beta cells gradually lose their ability to secrete enough insulin to overcome resistance.
 
-Progressive decline- Over time, beta-cell function deteriorates, leading to worsening hyperglycaemia
+Progressive decline- Cell function deteriorates worsening hyperglycaemia
 
 ### Laboratory Features & Diagnostic Criteria
 #### HbA1C Test (Glycated Haemoglobin Test)
-This blood test measures average blood sugar (glucose) level over the past 2-3 months. An A1C level of 6.5% or higher (< 5.7% is normal) on two separate tests indicates diabetes. The reason HbA1c provides an average of blood glucose levels over the past 2–3 months is due to the lifespan of red blood cells which is around 120 days.
+Measures average blood glucose over 3 months. 
+6.5% or higher indicates diabetes. 
+HbA1c provides an average of blood glucose over 2–3 months due to the lifespan of red blood cells being 120 days.
 
 #### Fasting Plasma Glucose (FPG) Test
-This test measures blood sugar (glucose) level after an overnight fast (at least 8 hours). A fasting blood sugar level of 126 mg/dL (7.0 mmol/L) or higher on two separate tests indicates diabetes.
+Measures blood glucose after an overnight fast (at least 8 hours) to establish a baseline. A fasting blood sugar level of 126 mg/dL (7.0 mmol/L) or higher indicates diabetes.
 
 #### Oral Glucose Tolerance Test (OGTT)
-This test measures your blood sugar level before and 2 hours after drinking a sugary liquid. A blood sugar level of 200 mg/dL (11.1 mmol/L) or higher 2 hours after the drink indicates diabetes
-
-How it works?  
-- Fasting Blood Sugar  
-- Fast for at least 8 hours before the test. A fasting blood sample is taken to establish your baseline blood sugar level.  
-- Drink a sugary liquid containing a specific amount of glucose (usually 75 grams).  
-- Blood samples are taken after 1-2 hours after you drink the glucose solution and measure how your blood sugar levels change over time.
+Measures blood sugar level before and 2 hours after drinking a sugary liquid (75g). A blood sugar level of 200 mg/dL (11.1 mmol/L) or higher indicates diabetes
 
 #### Random Plasma Glucose (RPG) Test
-This test measures your blood sugar level at any time of day, regardless of when you last ate. A blood sugar level of 200 mg/dL (11.1 mmol/L) or higher, along with symptoms of diabetes, indicates diabetes.
+Measures blood sugar level at any time of day. A blood sugar level of 200 mg/dL (11.1 mmol/L) or higher, along with symptoms of diabetes, indicates diabetes.
 
 ### Management Strategies?
-![](https://i.imgur.com/efx3foK.png)
+#### 1st Line of Management: Life-style modifications
+- Dietary Modifications
+- Weight Management
+- Regular Physical Activity
+- Smoking Cessation
 
-![](https://i.imgur.com/yc1fZuX.png)
+#### 2nd Line of Management: Medications
+- Metformin- Increase insulin sensitivity & decrease hepatic gluconeogenesis
+- Gliclazide- Stimulate the beta cells in the pancreas to release more insulin
+- Sitagliptin- Enhance insulin secretion and reduce glucagon secretion
+- Linagliptin- Increase incretin hormone levels, which enhance insulin release and  decrease glucagon secretion
 
 #### 3rd Line of Management - Injectable Therapy – Insulin  
-▪ May be needed if oral medications are not sufficient to achieve target blood  
-sugar levels.  
-▪ Different types of insulin are available, including rapid-acting, short-acting,  
-intermediate-acting, long-acting, and premixed insulins.  
-▪ Insulin therapy may involve multiple daily injections or the use of an insulin  
-pump.
+- If oral medications aren't sufficient to achieve target blood sugar levels.  
+- There are rapid-acting, short-acting, intermediate-acting, long-acting, and premixed insulins.  
+- Insulin therapy may involve multiple daily injections or the use of an insulin pump.
 
 ##### Sites of Insulin Injection  
-Abdomen: This is a preferred site due to  
-consistent absorption. Avoid the area around  
-the belly button and any scars.  
-Thighs: Use the middle to outer part of the  
-thigh.  
-Upper Arms: The back of the upper arm can  
-be used, but it may be difficult to reach for  
-self-injection.  
-Buttocks: The upper outer area of the  
-buttocks is suitable
+Abdomen: preferred site due to consistent absorption. Avoid the area around the belly button and any scars.  
+Thighs: middle/outer part of thigh.  
+Upper Arms: The back of the upper arm can be used, but it may be difficult to reach.  
+Buttocks: The upper outer area of the buttocks
 
 ### idk
 ![](https://i.imgur.com/LLC44Ee.png)
@@ -215,19 +206,8 @@ buttocks is suitable
 ![](https://i.imgur.com/EsrME1A.png)
 
 ### Case Study  
-Brian, a 52-year-old plasterer, presented to his general practitioner (GP) with complaints of persistent thirst  
-(polydipsia), frequent urination (polyuria), and slow-healing wounds. He reported no history of smoking and  
-consumes approximately 20 units of alcohol per week.  
-During the consultation, his blood pressure (BP) was recorded at 167/97 mmHg. His body mass index (BMI)  
-was calculated as 34.3 kg/m². Initial blood tests revealed an elevated glycated haemoglobin (HbA1c) level of  
-64 mmol/mol. This test was repeated to confirm the result, yielding a subsequent HbA1c of 68 mmol/mol.  
-His total cholesterol measured 5.9 mmol/L, with a non-high-density lipoprotein (non-HDL) cholesterol of 3.7  
-mmol/L.  
-Based on these clinical findings, Brian was diagnosed with Type 2 Diabetes Mellitus (T2DM). The GP provided  
-comprehensive counselling on lifestyle modifications, including dietary changes, increased physical activity,  
-and weight management. Pharmacological intervention was initiated with metformin. Given Brian's elevated  
-cholesterol levels and the increased cardiovascular risk associated with T2DM, the initiation of statin  
-therapy is under strong consideration and will be discussed further at a follow-up appointment.
+Brian, a 52-year-old plasterer, presented to his general practitioner (GP) with complaints of persistent thirst (polydipsia), frequent urination (polyuria), and slow-healing wounds. He reported no history of smoking and consumes approximately 20 units of alcohol per week. During the consultation, his blood pressure (BP) was recorded at 167/97 mmHg. His body mass index (BMI) was calculated as 34.3 kg/m². Initial blood tests revealed an elevated glycated haemoglobin (HbA1c) level of 64 mmol/mol. This test was repeated to confirm the result, yielding a subsequent HbA1c of 68 mmol/mol.  
+His total cholesterol measured 5.9 mmol/L, with a non-high-density lipoprotein (non-HDL) cholesterol of 3.7 mmol/L. Based on these clinical findings, Brian was diagnosed with Type 2 Diabetes Mellitus (T2DM). The GP provided comprehensive counselling on lifestyle modifications, including dietary changes, increased physical activity, and weight management. Pharmacological intervention was initiated with metformin. Given Brian's elevated cholesterol levels and the increased cardiovascular risk associated with T2DM, the initiation of statin therapy is under strong consideration and will be discussed further at a follow-up appointment.
 
 ## Week 4 Alzheimer’s Disease (Case Study 2)
 
@@ -252,13 +232,22 @@ The pathogenesis of AD involves progressive brain cell damage caused by abnormal
 - Tau proteins, which normally stabilise brain cell structures, become abnormal.  
 - They form tangles inside neurons, blocking nutrient transport and leading to cell death.
 
-1. Neuroinflammation & Cell Death  
+3. Neuroinflammation & Cell Death  
 - The immune system reacts to plaques and tangles, causing chronic inflammation.  
 - Brain cells (neurons) die, leading to memory loss and cognitive decline.  
 4. Brain Shrinkage (Atrophy)  
 - Over time, widespread neuron loss causes the brain to shrink, especially in the hippocampus (memory centre).
 
-![](https://i.imgur.com/NcU9HKk.png)
+### Symptoms
+- Memory loss
+- Difficulty finding words and speaking
+- Confusion about time, place, and people
+- misplacing items
+- inability to find steps
+- poor judgment/decision-making
+- personality/behaviour changes
+- difficulty completing familiar tasks
+- loss of ability to recognise loved ones
 
 ### Risk Factors of Alzheimer’s Disease
 1. Age: The risk of developing Alzheimer's disease  increases significantly with age, especially after 65.  
@@ -287,31 +276,28 @@ The pathogenesis of AD involves progressive brain cell damage caused by abnormal
 ### Treatment & Management Strategies
 #### Medications
 ##### Cholinesterase inhibitors  
-- Acetylcholine is critical for encoding new memories and recalling stored memories. It plays a key role in areas of the brain such as the hippocampus (memory centre).  
+- Acetylcholine is a neurotransmitter that encodes and recalls memories in the hippocampus.  
 - Acetylcholine is an essential neurotransmitter.  
  - Cholinesterase inhibitors, such as donepezil, rivastigmine, and galantamine, work by increasing the levels of acetylcholine.
-- Cholinesterase inhibitors are prescribed to combat the decreased levels of acetylcholine observed in AD.  
-- These medications interfere with acetylcholinesterase, preventing it from breaking down acetylcholine
+- Cholinesterase inhibitors combat the decreased levels of acetylcholine from AD.  
+- These medications prevent acetylcholinesterase from breaking down acetylcholine
 
 ##### Memantine  
-- This medication works by regulating glutamate, another neurotransmitter in the brain.  
-- Memantine can help improve cognitive function (i.e., memory, attention, and reasoning skills)  
-- It works by blocking the effects of excess glutamate (Excitation) in the brain.  
-- Specifically, it binds to NMDA receptors, which are involved in glutamate signalling.  
-- By blocking these receptors, memantine helps to reduce the overstimulation of  glutamate and protect nerve cells from further damage.
+- Works by regulating the neurotransmitter glutamate
+- Memantine helps improve cognitive function 
+- Binds to NMDA receptors, which are involved in glutamate signalling.  
+- Blocking these receptors, helps to reduce the overstimulation of glutamate and protect nerve cells from further damage.
 
 ##### Aducanumab and Lecanemab  
-- These are recently approved monoclonal antibodies that target amyloid plaques in the brain.  
-- They are approved for early-stage AD and have shown some promise in slowing down cognitive decline.
-
+- Recently approved  for early-stage AD monoclonal antibodies that target amyloid plaques in the brain to slow down cognitive declin
 
 #### Non-pharmacological approaches  
 ##### Cognitive stimulation therapy  
-This involves engaging in activities that stimulate cognitive functions, such as memory, problem-solving, and language.  
+Engaging in activities that stimulate cognitive functions, such as memory, problem-solving, and language.  
 ##### Reminiscence therapy  
-This involves discussing past experiences and memories, often using prompts like photos or music, to improve mood and well-being.  
+Discussing past experiences and memories, often using prompts like photos or music, to improve mood and well-being.  
 ##### Behavioural therapies  
-These can help manage behavioural and psychological symptoms associated with Alzheimer's, such as agitation, anxiety, and depression.  
+Helps manage behavioural and psychological symptoms associated with Alzheimer's, such as agitation, anxiety, and depression.  
 ##### Lifestyle modifications  
 Maintaining a healthy lifestyle with regular exercise, a balanced diet, and social engagement can also help support brain health and potentially slow down the progression of Alzheimer's.
 
