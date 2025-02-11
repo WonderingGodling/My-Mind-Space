@@ -6,80 +6,6 @@
 ul {  list-style-image: url('blob:https://web.whatsapp.com/8094fc80-7dd8-4da4-ac03-79d571d156a5');}
 </style>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Table of Contents Generator</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-    ul {
-      list-style: none;
-      padding-left: 0;
-    }
-    ul li {
-      margin: 5px 0;
-    }
-    ul li a {
-      text-decoration: none;
-    }
-  </style>
-</head>
-<body>
-  <div id="toc-container">
-    <h2>Table of Contents</h2>
-    <ul id="toc-list"></ul>
-  </div>
-  <div id="content"></div>
-
-  <script>
-    // Function to generate TOC and content
-    function generateTOC(markdownContent) {
-      const tocList = document.getElementById('toc-list');
-      const contentContainer = document.getElementById('content');
-
-      markdownContent.split('\n').forEach(line => {
-        const match = line.match(/^(#{1,6})\s+(.*)/); // Match markdown headers (e.g., #, ##, ###)
-        if (match) {
-          const level = match[1].length; // Get the level of the header from the number of '#' characters
-          const text = match[2];
-          const id = text.toLowerCase().replace(/\s+/g, '-'); // Convert heading text to an ID-friendly format
-
-          // Create the corresponding heading element
-          const header = document.createElement(`h${Math.min(level, 6)}`); // Make sure we don't exceed h6
-          header.id = id; // Set the ID for anchor link
-          header.textContent = text;
-          contentContainer.appendChild(header); // Add the header to the content container
-
-          // Create the corresponding TOC entry
-          const listItem = document.createElement('li');
-          listItem.style.marginLeft = `${(level - 1) * 20}px`; // Indent based on the heading level
-          const link = document.createElement('a');
-          link.href = `#${id}`; // Link to the header section
-          link.textContent = text;
-          listItem.appendChild(link);
-          tocList.appendChild(listItem); // Append to the TOC list
-        }
-      });
-    }
-
-    // Call the function with markdown content as a string
-    const markdownContent = `
-# Introduction
-## Chapter 1
-### Subsection 1.1
-## Chapter 2
-# Conclusion
-    `;
-    
-    generateTOC(markdownContent); // Generate TOC from markdown content
-  </script>
-</body>
-</html>
-
 
 
 
@@ -317,115 +243,80 @@ Alzheimer’s disease is a progressive neurological disorder that causes memory 
 ### Pathogenesis
 The pathogenesis of AD involves progressive brain cell damage caused by abnormal protein build-up.  
 1. Amyloid Plaques (Extracellular)  
-▪ Beta-amyloid proteins clump together outside brain cells due to abnormal cleavage of  
-amyloid precursor protein (APP) by beta-secretase & gamma-secretase  
-▪ These plaques disrupt communication between neurons and trigger inflammation.  
-▪ Major hallmark of AD.  
-▪ Exact cause still unknown
+- Beta-amyloid proteins clump together outside brain cells due to abnormal cleavage of amyloid precursor protein (APP) by beta-secretase & gamma-secretase  
+- These plaques disrupt communication between neurons and trigger inflammation.  
+- Major hallmark of AD.  
+- Exact cause still unknown
 
 2. Tau Tangles (Intracellular)  
-• Tau proteins, which normally stabilise brain cell structures, become abnormal.  
-• They form tangles inside neurons, blocking nutrient transport and leading to cell death.
+- Tau proteins, which normally stabilise brain cell structures, become abnormal.  
+- They form tangles inside neurons, blocking nutrient transport and leading to cell death.
 
-3. Neuroinflammation & Cell Death  
-▪ The immune system reacts to plaques and tangles, causing chronic inflammation.  
-▪ Brain cells (neurons) die, leading to memory loss and cognitive decline.  
+1. Neuroinflammation & Cell Death  
+- The immune system reacts to plaques and tangles, causing chronic inflammation.  
+- Brain cells (neurons) die, leading to memory loss and cognitive decline.  
 4. Brain Shrinkage (Atrophy)  
-▪ Over time, widespread neuron loss causes the brain to shrink, especially in the hippocampus  
-(memory centre).
+- Over time, widespread neuron loss causes the brain to shrink, especially in the hippocampus (memory centre).
 
 ![](https://i.imgur.com/NcU9HKk.png)
 
 ### Risk Factors of Alzheimer’s Disease
-1. Age: The risk of developing Alzheimer's disease  
-increases significantly with age, especially after 65.  
-2. Family history: Having a parent or sibling with  
-Alzheimer's disease increases your risk of developing  
-the disease.  
-3. Genetics: Certain genetic variations, such as the APOE  
-ε4 allele, can increase the risk of Alzheimer's disease.  
-4. Cardiovascular health: Conditions that affect the heart  
-and blood vessels, such as high blood pressure, high  
-cholesterol, and diabetes, can increase the risk of  
-Alzheimer's disease.  
-5. Lifestyle factors: Physical inactivity, unhealthy diet,  
-smoking, and excessive alcohol consumption can  
-increase the risk of Alzheimer's disease
+1. Age: The risk of developing Alzheimer's disease  increases significantly with age, especially after 65.  
+2. Family history: Having a parent or sibling with Alzheimer's disease increases your risk of developing the disease.  
+3. Genetics: Certain genetic variations, such as the APOE ε4 allele, can increase the risk of Alzheimer's disease.  
+4. Cardiovascular health: Conditions that affect the heart and blood vessels, such as high blood pressure, high cholesterol, and diabetes, can increase the risk of Alzheimer's disease.  
+5. Lifestyle factors: Physical inactivity, unhealthy diet, smoking, and excessive alcohol consumption can increase the risk of Alzheimer's disease
 
 ### Diagnosis
-1. Medical History & Physical Examination  
-▪ Review of symptoms, family history, and lifestyle.  
-▪ Assessment of overall health, medications, and past illnesses.  
+1. Medical History & Physical Examination 
+ - Review of symptoms, family history, and lifestyle.  
+ - Assessment of overall health, medications, and past illnesses.  
 2. Cognitive and Neuropsychological Tests  
-▪ Mini-Mental State Examination (MMSE) – Assesses memory, orientation, and problem-  
-solving skills.  
-▪ Montreal Cognitive Assessment (MoCA) – Detects mild cognitive impairment.  
-▪ Clock Drawing Test – Evaluates visuospatial and executive function
-
+- Mini-Mental State Examination (MMSE) – Assesses memory, orientation, and problem- solving skills.  
+- Montreal Cognitive Assessment (MoCA) – Detects mild cognitive impairment.  
+- Clock Drawing Test – Evaluates visuospatial and executive function
 3. Laboratory Tests  
-▪ Genetic testing – APOE-ε4 gene testing may be done for hereditary risk.  
+- Genetic testing – APOE-ε4 gene testing may be done for hereditary risk.  
 4. Brain Imaging  
-▪ MRI or CT Scan – Detects brain shrinkage.  
-▪ PET Scan – Identifies amyloid plaques and tau tangles associated with Alzheimer’s.
+- MRI or CT Scan – Detects brain shrinkage.  
+- PET Scan – Identifies amyloid plaques and tau tangles associated with Alzheimer’s.
 5. Cerebrospinal Fluid (CSF) Analysis (in some cases)  
-▪ Measures levels of amyloid and tau proteins linked to AD
+ - Measures levels of amyloid and tau proteins linked to AD
 ![](https://i.imgur.com/VZfBtei.png)
 
 ### Treatment & Management Strategies
 #### Medications
 ##### Cholinesterase inhibitors  
-▪ Acetylcholine is critical for encoding new memories and recalling stored memories. It  
-plays a key role in areas of the brain such as the hippocampus (memory centre).  
-▪ Acetylcholine is an essential neurotransmitter.  
-▪ Cholinesterase inhibitors, such as donepezil, rivastigmine, and galantamine, work by  
-increasing the levels of acetylcholine.
-▪ Cholinesterase inhibitors are prescribed to combat the decreased levels of  
-acetylcholine observed in AD.  
-▪ These medications interfere with acetylcholinesterase, preventing it from breaking  
-down acetylcholine
+- Acetylcholine is critical for encoding new memories and recalling stored memories. It plays a key role in areas of the brain such as the hippocampus (memory centre).  
+- Acetylcholine is an essential neurotransmitter.  
+ - Cholinesterase inhibitors, such as donepezil, rivastigmine, and galantamine, work by increasing the levels of acetylcholine.
+- Cholinesterase inhibitors are prescribed to combat the decreased levels of acetylcholine observed in AD.  
+- These medications interfere with acetylcholinesterase, preventing it from breaking down acetylcholine
 
 ##### Memantine  
-▪ This medication works by regulating glutamate, another neurotransmitter in the brain.  
-▪ Memantine can help improve cognitive function (i.e., memory, attention, and reasoning  
-skills)  
-▪ It works by blocking the effects of excess glutamate (Excitation) in the brain.  
-▪ Specifically, it binds to NMDA receptors, which are involved in glutamate signalling.  
-▪ By blocking these receptors, memantine helps to reduce the overstimulation of  
-glutamate and protect nerve cells from further damage.
+- This medication works by regulating glutamate, another neurotransmitter in the brain.  
+- Memantine can help improve cognitive function (i.e., memory, attention, and reasoning skills)  
+- It works by blocking the effects of excess glutamate (Excitation) in the brain.  
+- Specifically, it binds to NMDA receptors, which are involved in glutamate signalling.  
+- By blocking these receptors, memantine helps to reduce the overstimulation of  glutamate and protect nerve cells from further damage.
 
 ##### Aducanumab and Lecanemab  
-▪ These are recently approved monoclonal antibodies that target amyloid plaques in the  
-brain.  
-▪ They are approved for early-stage AD and have shown some promise in slowing down  
-cognitive decline.
+- These are recently approved monoclonal antibodies that target amyloid plaques in the brain.  
+- They are approved for early-stage AD and have shown some promise in slowing down cognitive decline.
 
 
 #### Non-pharmacological approaches  
 ##### Cognitive stimulation therapy  
-This involves engaging in activities that stimulate cognitive functions, such as memory, problem-solving, and  
-language.  
+This involves engaging in activities that stimulate cognitive functions, such as memory, problem-solving, and language.  
 ##### Reminiscence therapy  
-This involves discussing past experiences and memories, often using prompts like photos or music, to  
-improve mood and well-being.  
+This involves discussing past experiences and memories, often using prompts like photos or music, to improve mood and well-being.  
 ##### Behavioural therapies  
-These can help manage behavioural and psychological symptoms associated with Alzheimer's, such as  
-agitation, anxiety, and depression.  
+These can help manage behavioural and psychological symptoms associated with Alzheimer's, such as agitation, anxiety, and depression.  
 ##### Lifestyle modifications  
-Maintaining a healthy lifestyle with regular exercise, a balanced diet, and social engagement can also help  
-support brain health and potentially slow down the progression of Alzheimer's.
+Maintaining a healthy lifestyle with regular exercise, a balanced diet, and social engagement can also help support brain health and potentially slow down the progression of Alzheimer's.
 
 ### Case Study  
-A 63-year-old woman presented with a 2-year history of repetitiveness, memory loss, and executive function  
-loss beginning at age 58. This progressed to include word-finding difficulties, visuospatial skill decline, and  
-impaired instrumental activities of daily living. Neuropsychological assessment revealed a Mini-Mental State  
-Examination (MMSE) score of 14/30 at the initial visit, with poor verbal fluency, visuospatial, and executive  
-skills. Brain MRI at age 58 showed mild generalized cortical atrophy.  
-Based on these findings, a clinical diagnosis of early-onset Alzheimer disease (EOAD) was made. Treatment  
-included cholinesterase inhibitors, which initially improved her MMSE score to 18/30. Later, memantine was  
-added due to further cognitive decline (MMSE=13/30). She died at age 63 of pneumonia. A post-mortem  
-examination confirmed the EOAD diagnosis, revealing numerous plaques and tangles, congophilic amyloid  
-angiopathy, and Lewy Body pathology in the amygdala. Genetic testing, conducted three years before her  
-death, identified a novel PSEN2 mutation (L221T) and an apolipoprotein E (apoE) ε3/4 genotype
+A 63-year-old woman presented with a 2-year history of repetitiveness, memory loss, and executive function loss beginning at age 58. This progressed to include word-finding difficulties, visuospatial skill decline, and impaired instrumental activities of daily living. Neuropsychological assessment revealed a Mini-Mental State Examination (MMSE) score of 14/30 at the initial visit, with poor verbal fluency, visuospatial, and executive skills. Brain MRI at age 58 showed mild generalized cortical atrophy. Based on these findings, a clinical diagnosis of early-onset Alzheimer disease (EOAD) was made. Treatment included cholinesterase inhibitors, which initially improved her MMSE score to 18/30. Later, memantine was added due to further cognitive decline (MMSE=13/30). She died at age 63 of pneumonia. A post-mortem examination confirmed the EOAD diagnosis, revealing numerous plaques and tangles, congophilic amyloid  angiopathy, and Lewy Body pathology in the amygdala. Genetic testing, conducted three years before her death, identified a novel PSEN2 mutation (L221T) and an apolipoprotein E (apoE) ε3/4 genotype
 
 
 <center><sub>Done :)</sub></center>
