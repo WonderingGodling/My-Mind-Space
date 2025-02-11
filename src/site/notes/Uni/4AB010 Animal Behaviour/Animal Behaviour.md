@@ -228,6 +228,11 @@ Writing Down Whatever
 
 Swimming, Drinking From The Top Of The Water, Standing On Branch (In Lake), Leaving/ Entering Water, Grooming, Walking, Resting, Resting By Water, Foraging, Social, Out Of Sight, Stretching Tall
 
+(Cant Focus Properly Because The Wifi Inst Worrking On Atny haindg  cant Log On To The Computers For Whatever Reason) Something Something Reproduction
+9Never
+
+
+
 <center><sub>Done?</sub></center>
 
 
