@@ -1319,6 +1319,14 @@ communication
 
 averages
 
+My Brain Is Having Not Great Ideas As Coping Mechanisms
+If They Could Take Out Their Agression On Me Id Feel As If I Got What I Deserved And Everyones Lives Would Be Better
+I Know Thats Not The Case But I Feel Like What Im Experiencing Every Day Probably Hurts More Or Maybe Im Just Hoping For A New Source Of Discomfort So That The Repetition Isnt What Drives Me Insane
+
+I Feel Like I Shouldnt Say Any Of This And That Any Response I Get Wouldn't Be Genuine 
+Like If I Suck As Much As I Think I Do Nobody Would Want To Have That Conversation And Im Sorry To Whoever Thats Inconvenienced (It Will Happen Again)
+
+
 
 
 
@@ -1382,6 +1390,9 @@ averages
 
 
 ![](https://i.imgur.com/0hjpdF1.png)
+
+
+[[Skull/Concentrated Brain/Random Thoughts/Less Constant Comment The First\|Next?]]
 
 
 <html>

@@ -1,39 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/uni/4-bc-003-cell-biology-and-genetics/cell-biology/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/jesters-stuff/my-pcs/venti/1-in-the-chamber/","tags":["Tagless"],"noteIcon":""}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 
-# <center><span style="color:#000000">Cell Biology</span></center>
+# <center><span style="color:#CC550D">Cursed tool: 1 in the chamber </span></center>
 
-## Cells
+A Tattered Shell Of What You Can Imagine Was Once A Revolver But Is Now Some Metallic Shell Riddled With Holes And Deliberate Looking Scratches. Its A Miracle This Piece Of Junk Can Hold Itself Together. If You Use It You Better Hope The Explosion Comes From The Part Pointing Away From You.
 
-### Cell Size
-### Membranes
-### Lyoszome/Cytoskeleton
-### How To Study Cells
+---
+Action
+2d8 cursed damage
+
+This weapon is broken and cannot be used other then with its cursed ability 
+
+Cursed ability:costs 1 cursed energy  roll a d6 on a 6  you fire the revolver and it will critical the opponent
 
 
-FeNCHOPS
+Give Someone The Gun And If They Beat Their Own AC They Get Shot, If They Dont: I Get Shot
 
 
-....
-........
-...........
-..............
 
-## Mandelian Genetics
-Dna-rna-protein
-### Ploidy
-Human Paired Chromosomes- Diplouid
-Bacteria, Lone Chromosome- Haploid
 
-Dominant And  Recessive Genes
-
-Penetrance (%)
-
-### Genomics, Transcriptomics, Proteomics And Metabolomics
 
 
 

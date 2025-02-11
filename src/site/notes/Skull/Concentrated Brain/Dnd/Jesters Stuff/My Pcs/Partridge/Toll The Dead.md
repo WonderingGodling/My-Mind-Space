@@ -1,40 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/uni/4-bc-003-cell-biology-and-genetics/cell-biology/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/jesters-stuff/my-pcs/partridge/toll-the-dead/","tags":["Tagless"],"noteIcon":""}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 
-# <center><span style="color:#000000">Cell Biology</span></center>
-
-## Cells
-
-### Cell Size
-### Membranes
-### Lyoszome/Cytoskeleton
-### How To Study Cells
+# <center><span style="color:#000000"></span></center>
 
 
-FeNCHOPS
 
+_[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Partridge/Necromancy School\|Necromancy School]] [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Partridge/Cantrip\|Cantrip]]_
 
-....
-........
-...........
-..............
+**Casting Time:** 1 action  
+**Range:** 60 feet  
+**Components:** V, S  
+**Duration:** Instantaneous
 
-## Mandelian Genetics
-Dna-rna-protein
-### Ploidy
-Human Paired Chromosomes- Diplouid
-Bacteria, Lone Chromosome- Haploid
+You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom saving throw or take 1d8 necrotic damage. If the target is missing any of its hit points, it instead takes 1d12 necrotic damage.
 
-Dominant And  Recessive Genes
-
-Penetrance (%)
-
-### Genomics, Transcriptomics, Proteomics And Metabolomics
-
+**_At Higher Levels._** The spell’s damage increases by one die when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12).
 
 
 
