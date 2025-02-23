@@ -6,7 +6,11 @@
 
 
 # <center><span style="color:#D6B164">Microbiology</span></center>
-
+<sub> [[Uni/Microbiology#week 2 Classification, structure and function of microbes\|Classification, structure and function of microbes]]
+[[Uni/Microbiology#Week 3 Bacterial growth and Genetics\|Bacterial growth and Genetics]]
+[[Uni/Microbiology#Week 4 Terrestrial Microbiology Part 1\|Terrestrial Microbiology Part 1]]
+[[Uni/Microbiology#Week 4 Terrestrial Microbiology Part 2\|Terrestrial Microbiology Part 2]]
+[[Uni/Microbiology#Week 5 Nutrition and Respiration\|Nutrition and Respiration]] </sub>
 
 ## week 2 Classification, structure and function of microbes
 
@@ -17,7 +21,7 @@
 
 #### Three-Domain System
 Based on the phylogenetic tree using the 16S rRNA
- [[Uni/Microbiology#The Bacteria (eubacteria)\| Bacteria]],  [[Uni/Microbiology#The Archaea (archaebacteria)\|Archaea]], [[Uni/Microbiology#The Eukarya (eukaryotes)\|Eukarya]]
+ [[Uni/Microbiology#The Bacteria (eubacteria)\|Bacteria]],  [[Uni/Microbiology#The Archaea (archaebacteria)\|Archaea]], [[Uni/Microbiology#The Eukarya (eukaryotes)\|Eukarya]]
 
 #### Prokaryotes
 ##### The Bacteria (eubacteria)
@@ -40,7 +44,7 @@ Based on the phylogenetic tree using the 16S rRNA
 
 (Being lazy, might make my own later)
 
-|                           | Bacteria       | Archaea        | Eukarya            |
+|                ​           | Bacteria       | Archaea        | Eukarya            |
 | :--:                      | : ---:         | : --- :        | :---:              |
 | Histones                  | Naked          | Naked          | Associated         |
 | DNA  Shape                | Circular       | Circular       | Linear             |
@@ -243,7 +247,7 @@ Single layer of peptidoglycan outside plasma membrane
 - Single (haploid) circular chromosome (dsDNA)
 - Encodes all the essential genes
 - Plasmids (dsDNA molecule independent of chromosome)
-- 
+
 ##### Ribosomes
 - site of protein synthesis
 - Excluded from the nucleoid
@@ -621,9 +625,6 @@ Cofactors And Enzymes Manipulate Internal Reactions
 Glycolysis is a thing
 Krebs Cycle is also a thing
 Anaerobic less energy
-
-<sub>I really dont wanna write any of this</sub>
-Yeah this is mostly nothing but hes doing a fair job
 
 
 
