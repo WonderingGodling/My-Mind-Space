@@ -44,20 +44,20 @@ Based on the phylogenetic tree using the 16S rRNA
 
 (Being lazy, might make my own later)
 
-|            ^.^    ​           | Bacteria       | Archaea        | Eukarya            |
-| :--:                      | : ---:         | : --- :        | :---:              |
-| Histones                  | Naked          | Naked          | Associated         |
-| DNA  Shape                | Circular       | Circular       | Linear             |
-| Introns                   | Absent         | Absent         | Present            |
-| DNA In Cytoplasm          | Nucleoid       | Nucleoid       | Nucleus            |
-| Membrane-Bound Organelles | None           | None           | Some               |
-| Ribosomes                 | 70s            | 70s            | 80s                |
-| Reproduction              | Binary Fission | Binary Fission | Mitosis Or Meiosis |
-| Chromosomes               | Haploid        | Haploid        | Diploid            |
-| Size                      | 1-5µm          | 1-5µm          | 10-100µm           |
-| Cell Wall (Peptidoglycan) | Present        | Present        | Absent             |
-| Harsh Environments        | Vulnerable     | Can Survive    | Vulnerable         |
-| Antibiotic Sensitivity    | Sensitive      | Resistant      | Sensitive          |
+|       Features    ​        |    Bacteria    |    Archaea     |      Eukarya       |
+|:-------------------------:|:--------------:|:--------------:|:------------------:|
+|         Histones          |     Naked      |     Naked      |     Associated     |
+|        DNA  Shape         |    Circular    |    Circular    |       Linear       |
+|          Introns          |     Absent     |     Absent     |      Present       |
+|     DNA In Cytoplasm      |    Nucleoid    |    Nucleoid    |      Nucleus       |
+| Membrane-Bound Organelles |      None      |      None      |        Some        |
+|         Ribosomes         |      70s       |      70s       |        80s         |
+|       Reproduction        | Binary Fission | Binary Fission | Mitosis Or Meiosis |
+|        Chromosomes        |    Haploid     |    Haploid     |      Diploid       |
+|           Size            |     1-5µm      |     1-5µm      |      10-100µm      |
+| Cell Wall (Peptidoglycan) |    Present     |    Present     |       Absent       |
+|    Harsh Environments     |   Vulnerable   |  Can Survive   |     Vulnerable     |
+|  Antibiotic Sensitivity   |   Sensitive    |   Resistant    |     Sensitive      |
 
 
 ### Classification
