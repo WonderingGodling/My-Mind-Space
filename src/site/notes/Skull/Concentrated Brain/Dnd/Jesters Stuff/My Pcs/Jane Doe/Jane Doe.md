@@ -12,35 +12,35 @@
 
 ## General
  Race:  Mind Flayer
- Class: Peace Cleric 2
+ Class: Peace Cleric 3
  Alignment: Chaotic Good
  Background: Rewarded
 
 
 ## Stats
 
-|    Speed     | AC  | Bonus |  Initiative   |
-| :----------: | :-: | :---: | :-----------: |
-|      30      | 14  |   2   |       0       |
-|   Hit Dice   | 2d8 |  2d8  | Saving Throws |
-|    Health    | 18  |  18   |               |
-|   Strength   |  8  |  -1   |      -1       |
-|  Dexterity   |  0  |   0   |       0       |
-| Constitution | 13  |   1   |       1       |
-| Inteligence  | 14  |   2   |       2       |
-|    Wisdom    | 17  |   3   |       5       |
-|   Charima    | 14  |   2   |       4       |
+|    Speed     | AC  | Bonus |  Initiative   |     |
+| :----------: | :-: | :---: | :-----------: | --- |
+|      30      | 14  |   2   |       0       |     |
+|   Hit Dice   | 3d8 |  3d8  | Saving Throws |     |
+|    Health    | 13  |  27   |             |     |
+|   Strength   |  8  |  -1   |      -1       |     |
+|  Dexterity   |  0  |   0   |       0       |     |
+| Constitution | 13  |   1   |       1       |     |
+| Inteligence  | 14  |   2   |       2       |     |
+|    Wisdom    | 17  |   3   |       5       |     |
+|   Charima    | 14  |   2   |       4       |     |
 
 | Skills                | Bonus | Skills                | Bonus |
 | --------------------- | :---: | --------------------- | :---: |
 | Acrobatics (Dex)      |    0   | Medicine (Wis)        |5       |
 | Animal Handling (Wis) |     3  | Nature (int)          | 2      |
 | Arcana (Int)          |      2 | Perception (Wis)      |  3     |
-| Athletics (Str)       |       -1| Performance (Char)    |  4     |
-| Deception (Char)      | 2      | Persuasion (Char)     |    4   |
+| Athletics (Str)       |       -1| Performance (Char)    |  6A     |
+| Deception (Char)      | 4A      | Persuasion (Char)     |    6A   |
 | History (Int)         |  2     | Religion (Int)        |     4  |
 | Insight (Wis)         |   5    | Sleight of Hand (Dex) | 0      |
-| Intimidation (Char)   |    2   | Stealth (Dex)         |  0     |
+| Intimidation (Char)   |    4A   | Stealth (Dex)         |  0     |
 | Investigation (Int)   |     2  | Survival (Wis)        |   3    |
 
 | Death Saves  |     |     |     |
@@ -60,7 +60,8 @@
 # Inventory
 
 Money: 18
-Inventory: Circlet of Human Perfection, Mace, Kusarigama, Scale Mail, Light Crossbow (20), shield, holy symbol, black ink, pen, paper (5), Dice, signet ring, fine clothes, Backpack, blanket, candle (10), tinderbox, alms box, incense (2), censer, vestments, rations (2), waterskin, Snowball Bag!!, Bag Of Gifts, coolest Candycane
+Inventory: Circlet of Human Perfection, Mace, Kusarigama, Scale Mail, Light Crossbow (20), shield, holy symbol, black ink, pen, paper (5), Dice, signet ring, fine clothes, Backpack, blanket, candle (10), tinderbox, alms box, incense (2), censer, vestments, rations (2), waterskin, Snowball Bag!!, Bag Of Gifts, coolest Candycane, Jester Access Card, 5 Copper, 20 Heart Gems, 5 Silver, Lovers Pen, Love Potion, heartbeat Necklace, Life-long Locket, 2 Heart Crystals, One Vial Of Love, Boots Of Speed, Staff Of Lovers Grasp, Cresent Moon Rose, 
+Painings: Obsidian Pillar, Unnamed Cresents, Old Gods,
 # Extra
 Resistances: Magic
 Advantage: Charisma, Slime Medicine, 
@@ -103,7 +104,7 @@ Harness Divine Power (1)
 Fun Facts:
 - [ ] Became A Cleric Because She Has A Really Good Plan For Keeping Everyone Alive And Happy
 - [ ] Just Really Wants People To Like Her Not Because Shes Vein (Not That Shes Not) But More Because That Always Seems To Work Out For Them
-- [ ] Has Been Looking Into Slimes Recently (Literally)
+- [x] Has Been Looking Into Slimes Recently (Literally)  [completion:: 2025-02-10]
 - [ ] Tells Everyone She Started From The Ground Up In Solim But She Actually Moved There When She Got Her Clerical Powers As A Teen
 - [ ] She Strongly Believes That Ignorance Is Bliss And That Itd Be Better To Not Trick People Into Being happy If Need Be
 

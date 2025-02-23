@@ -271,7 +271,16 @@ The pathogenesis of AD involves progressive brain cell damage caused by abnormal
 - PET Scan – Identifies amyloid plaques and tau tangles associated with Alzheimer’s.
 5. Cerebrospinal Fluid (CSF) Analysis (in some cases)  
  - Measures levels of amyloid and tau proteins linked to AD
-![](https://i.imgur.com/VZfBtei.png)
+
+| Category | Effects |
+|:--------:|:-------:|
+|      Amyloid Plaques    |   Accumulation of beta-amyloid (Aβ) → disrupts neuronal communication & triggers immune response      |
+|    Tau Tangles      |   Hyperphosphorylated tau detaches from microtubules → forms neurofibrillary tangles (NFTs) → disrupts intracellular transport → neuronal dysfunction & apoptosis.      |
+|     Neuroinflammation     | Microglial activation fails to clear plaques → releases inflammatory cytokines (TNF-α, IL-1β, IL-6) → chronic inflammation causes neuronal damage        |
+|    Oxidative Stress & Mitochondrial Dysfunction      | Increased reactive oxygen species (ROS) and impaired mitochondrial function → reduced ATP production, energy failure, and neuronal apoptosis        |
+|   Neurotransmitter Deficiency       | Loss of cholinergic neurons in the basal forebrain → decreased acetylcholine (ACh) → impaired memory and learning. Glutamate dysregulation causes excitotoxicity, further damaging neurons        |
+|     Synaptic & Neuronal Loss     |Progressive synapse loss & brain atrophy (hippocampus & cortex) → cognitive decline, impaired motor function, and eventual loss of vital functions.         |
+
 
 ### Treatment & Management Strategies
 #### Medications
@@ -289,7 +298,7 @@ The pathogenesis of AD involves progressive brain cell damage caused by abnormal
 - Blocking these receptors, helps to reduce the overstimulation of glutamate and protect nerve cells from further damage.
 
 ##### Aducanumab and Lecanemab  
-- Recently approved  for early-stage AD monoclonal antibodies that target amyloid plaques in the brain to slow down cognitive declin
+Recently approved  for early-stage AD monoclonal antibodies that target amyloid plaques in the brain to slow down cognitive declin
 
 #### Non-pharmacological approaches  
 ##### Cognitive stimulation therapy  

@@ -22,8 +22,8 @@
 |    Speed     | AC  | Bonus |  Initiative   |
 |:------------:|:---:|:-----:|:-------------:|
 |      30      | 15  |   2   |       1       |
-|   Hit Dice   | 2d8 |  2d8  | Saving Throws |
-|    Health    | 22  |  22   |               |
+|   Hit Dice   | 1d8 |  2d8  | Saving Throws |
+|    Health    | 13  |  22   |               |
 |   Strength   | 12  |   1   |       1       |
 |  Dexterity   | 13  |   1   |       1       |
 | Constitution | 16  |   3   |       5       |
@@ -59,11 +59,12 @@
 
 | Inteligence |  5  | 13  |
 | :---------: | :-: | :-: |
+### [[Raven's Bodyguard\|Raven's Bodyguard]]
 
 # Inventory
 
-Money: 15 gp
-Inventory: A set of well-loved carpenter's tools, a blank book, 1 ounce of ink, an ink pen, a set of traveler's clothes, theives tools, dungeoneers pack
+Money: 13 gp
+Inventory: A set of well-loved carpenter's tools, a blank book, 1 ounce of ink, an ink pen, a set of traveler's clothes, theives tools, dungeoneers pack,  woodcavers kit, Backpack, 2 crowbar, hammer, piton (9) ,torch (10), tinderbox, rations (10), waterskin, hempen rope, privateer letter, map (With Outposts), Cartography, Navigators, 8 bullets, gust of wind scroll, Bag Of Holding, 2 Health Pots, [[Chaos Armor\|Chaos Armor]]
 
 # Extra
 Resistances: 
@@ -78,7 +79,7 @@ Armor:  Light armor, medium armor, shields
 Weapons: Simple weapons
 Tools: Carpenter's tools, Vehicles (water), Thieves’ tools, tinker’s tools, mason's tools
 Languages: Common, Elven
-2 health pots, BoH
+
 # Notes: 
 
 [[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Shared Bloodline\|Shared Bloodline]]
@@ -95,6 +96,11 @@ Languages: Common, Elven
 	[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Artificer Infusions#Enhanced Defense\|Enhanced Defence]]
 	[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Artificer Infusions#Enhanced Arcane Focus\|Enhanced Arcane Focus]]
 	[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Artificer Infusions#Armor of Magical Strength\|Armor of Magical Strength]]
+[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Artificer#The Right Tool for the Job\|Artificer#The Right Tool for the Job]]
+[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Battle Smith#Tool Proficiency\|Battle Smith#Tool Proficiency]]
+[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Battle Smith#Battle Smith Spells\|Battle Smith#Battle Smith Spells]]
+[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Battle Smith#Battle Ready\|Battle Smith#Battle Ready]]
+[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Battle Smith#Steel Defender\|Battle Smith#Steel Defender]]
 
 # Characteristics 
 

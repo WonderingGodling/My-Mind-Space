@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Plant Biology","permalink":"/Plant Biology/","title":"Plants <3","tags":["Tagless"],"dgShowToc":true,"noteIcon":""}
+{"dg-publish":true,"dg-permalink":"Basic Plant Biology","permalink":"/Basic Plant Biology/","title":"Plants <3","tags":["Tagless"],"dgShowToc":true,"noteIcon":""}
 ---
 
  <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -305,11 +305,15 @@ Embryo– develops from a fertilised oosphere of a gametophyte which is at all t
 - Heterospory
 	- Microspores producing male gametophyte
 	- Megaspores producing female gametophyte
+
+###### <button type="button" class="collapsible">(Unimportant, Ignore)</button>  
+<div class="content"> <p>
 - Development of gametophyte within the spores before dispersal
 - Retention of female megaspore in the megasporangium & development of the female gametophyte
 - Development of male gametophyte within female organs
 	- carpel = megasporophyll
 	- N.B. a carpel = ovary, style & stigma
+</p> </div>
 
 ### Life Cycle of Seed Plants
 - Seed plants (spermatophytes) – show the phenomenon of alternation of generations  
@@ -337,12 +341,11 @@ Megaspores (ovules)
 - Produces a vestigial female gametophyte & a single female sex cell
 
 ### Seed habit
-Has many advantages over the life cycle of lower plants
-- Advantages:  
-	- Development of pollen grains which may be transferred by wind or animals (usually insects) from 1 plant to another 
-	- Female gametophyte is retained on the sporophyte where it is protected & nourished
-	- After fertilisation the whole gametophyte & the surrounding integument becomes the seed  
-	- In Angiosperms (as distinct from Gymnosperms) the seeds are surrounded by a modified ovary wall, the carpel, which often plays an important part in the successful dispersal of the seed
+Many advantages over the life cycle of lower plants
+- Development of pollen grains which are transferrable by wind or animals between plants 
+- Female gametophyte is retained on the sporophyte where it is protected & nourished
+- After fertilisation the whole gametophyte & the surrounding integument becomes the seed  
+- In Angiosperms (as distinct from Gymnosperms) the seeds are surrounded by a modified ovary wall, the carpel, which often plays an important part in the successful dispersal of the seed
 
 ### Seed plants - Gymnospermae
 - Have naked seeds – no carpel is present  
@@ -358,12 +361,16 @@ Has many advantages over the life cycle of lower plants
 - Double fertilisation takes place & an endosperm  tissue forms within the ovule
 
 
-### Gymnosperms
+### <button type="button" class="collapsible">Gymnosperms (Ignorable)</button>  
+<div class="content">  
+  <p>
+
 - After fertilisation - young sporophyte is liberated as the seed
 - Members show a tendency to a reduction in leaf size  
 - [[Uni/Plant Biology#xylem\|xylem]] is composed of tracheids  
 	- (except Gnetales – vessels)  
 - Microspores pass down the micropyle & come in direct contact with the nucellus during the pollination process
+</p> </div>
 
 ### Cycadophytes
 - Short unbranched trunk  
@@ -425,7 +432,8 @@ Economic & commercial importance
 
 ### Pollination  
 - Involves the transfer of pollen from anther to stigma  
-- Transfer within the flower (self-pollination) is not uncommon, but there are floral mechanisms which encourage transfer between individual plants (cross pollination)
+- self-pollination is not uncommon, but some floral mechanisms encourage transfer between individual plants (cross pollination)
+	- Hybrid vigor
 
 ### Fertilisation  
 - When in contact with the stigma the pollen grain germinates  
@@ -439,7 +447,7 @@ finally the embryo sac
 	- Provides nutrition for the embryo & young plant 
 	- Often filled with food materials – carbs, fats & proteins present in labile form
 
-## Plant Diversity II - Aquatic macrophytes
+## Plant Diversity II - Aquatic macrophytes (Unimportant, Ignore)
 
 ### Aquatic Plant Communities
 - Microphytes - consist of microscopic organisms like algae  
@@ -701,10 +709,332 @@ conifers
 ### Week 4 Plant Development
 
 #### Processes of plant development
+Plants respond to changes in the environment. Favourable changes are exploited, unfavourable changes are countered. Responses fall into one of two types: rapid and reversible vs slow and irreversible.
+
+For animals, most responses are reversible. Although some plant responses belong in this category, (e.g. guard cells) most involve development and are therefore irreversible
+
+First of all, we’ll examine the basic system of development common to most higher plants, then see how responsive it is to changes in the environment. N.B. All the cells in a plant trace their origin to an APICAL MERISTEM.  
+
+Plant embryos consist of COTYLEDONS ( the seed leaves), and a SHOOT APICAL MERISTEM (SAM) separated from a ROOT APICAL MERISTEM (RAM) by a short ‘stem’, the HYPOCOTYL. (see Figure 1) 
+Cells in apical meristems divide, generating cells of two types: (1) those that continue to divide, maintaining the meristem, and (2) those that stop dividing and build the plant.
+
+The arresting cells also fall into two types: (1) those that promptly expand and differentiate, and (2) those for which arrest is a temporary phase. These occupy fixed positions, and resume cell division again later to build additional structures: branch roots, branch shoots, and extra girth.  
+
+All types of cells, at any stage in their development, may respond to changes in the environment, individually or collectively as a group (as in a meristem), by altering the progress or nature of development to increase the survival chances of the plant.
+
+APICAL MERISTEMS  
+Each apical meristem is a small (approx. 100-250 um) dome of dividing cells at the very tip of every shoot or root. Both root and shoot apical meristems consist of a  
+central group of cells the function of which is thought to be organisational and outer layers of cells dividing rapidly to generate new tissue.  
+
+The distinction is more marked in roots, where the central cells are called a quiescent center (q.c.). The meristematic cells form 2 bowl shaped layers: the root initials (ri) and the cap initials (ci).
+
+In angiosperm shoots the central zone (cz) grades off less distinctly into the meristematic regions (m). The zonation is easier to see in gymnosperm shoot apical  
+meristems because the ‘central mother cells’ (cmc) divide much more slowly than their angiosperm counterparts.
+
+Isolated SAMs and RAMs can be cultured  plants & roots on nutrient media. Thereby demonstrating their independence of the rest of the plant - they are self-contained developmental units.  
+
+Moving back from the apex, patterns of mitotic arrest emerge. Different from qc & cz = cycling slowly; further back, cells are cycling rapidly or not cycling.
+
+- Cells which continue to divide show up because they are smaller than other cells.  
+- Roots show a clear and simple sequence of overlapping zones: an apical zone of cell elongation &, in tissue more basal, a separate zone of differentiation of root hairs & casparian strip as well as xylem and phloem.   
+- Up in the shoot, development is made much more complicated by : leaf morphogenesis
+
+#### LEAF MORPHOGENESIS  
+![](https://i.imgur.com/phEJ0jX.png)
+- Leaf shape and size is generated by a sequence of meristems, each independently controlled.
+- During morphogenesis, a not-yet-fully formed leaf is  called a primordium.  
+PHASES OF LEAF MORPHOGENESIS  
+Phase 1: (See Figure 4)  
+- Accelerated cell division & expansion some few cell  layers under the surface of the flanks of the apical dome heaves up a bump or buttress, the position of which is  determined only by the 2 nearest primordia (inhibitory) so that the leaves arise in a constant arrangement w.r.t. older leaves, a pattern of leaf position/arrangement known as  the phyllotaxis.  
+THEREFORE PHASE 1 DETERMINES LF POSITION.
+
+Phase 2: The Apical meristem of the leaf ( See Figure 5)  
+- The +/- random divisions of the first phase stop,  & growth is taken over by a cell, or small number of cells,  just under the outermost layer.  
+- Proximal (back) cells stop dividing, distal (front)  cells keep dividing and the bump or buttress grows to form  a peg which will expand to become the mid-rib.  
+- The cells of the apical meristem of the leaf cease  dividing & vacuolate before the leaf is 1mm long in dicots,  0.3 mm in gymnosperms and monocots.  
+PHASE 2 DETERMINES LF LENGTH
+
+Phase 3: The marginal meristem. (See Figure 6)  
+- A stripe of cells down each side of the peg &  extending 4 cells into it re-commence active cell division. The accumulated cells form 2 wings laterally, with cell  division concentrated along the margin of the growing, curved plate which will later expand to become the leaf  blade or lamina.  
+Phase 4: Plate enlargement.  
+- The plate is enlarged by a phase of anticlinal  (adds area) divisions scattered throughout.  
+- AnticlinalAnticlinal divisions add to the area.  
+--PericlinalPericlinal divisions add to the thickness.  
+PHASES 3 & 4 DETERMINE LF WIDTH
+
+Phase 5: The plate meristem.  
+- A sudden wave of periclinal divisions from tip  base, generate the final 7 to 10 cell thickness.  
+PHASE 5 DETERMINES LF THICKNESS  
+DIFFERENT LEAF SHAPES  
+- Different leaf shapes are achieved by restricting the  duration and/or distribution of individual phases, e.g. conifer  needles are generated by a similar sequence except the  activity of the marginal meristem is very limited.  
+- Differences between spp are genetically determined,  but phases 4 & 5 can be under environmental control  for production of specific features.
+
+NB* Counter predation, fenestrations in leaf as in nettles.  
+ DIFFERENTIATION IN LEAVES  
+- The cell division phase is followed by a phase of cell  expansion & diffn in which the spongy mesophyll cells stop  expanding earlier than other cells & therefore get ripped apart  and give rise to large intercellular spaces.  
+- Cell expansion stops first in the LF tip, passing as a  wave back down to the petiole, if there is one, who's entire  devlp is v. much later than the rest of the leaf.  
+- The cell expansion phase of the petiole often lasts the entire life of the LF so that growth adjustments for the  direction of light can be made.
+
+- Petioles supported by collenchyma, whose walls thicken v. early, & phloem fibres e.g. raffia palm.  
+CELL EXPANSION  
+1. Cell walls1. Cell walls  
+- The cell walls in tissues which are still expanding  are known as primary walls. Typically, the primary walls  are thin and consist of cellulose microfibrils in a  pectin + water matrix (gel). When cell expansion is finished,  the thicker secondary wall is laid down over the inside  of the wall in certain cell types, except where there  are clusters of plasmodesmata - pit fields. These ‘windows’  in the secondary wall are called simple pits.
+
+- Secondary walls are made mostly of cellulose  microfibrils with a much smaller proportion of matrix  polysaccharide and water and contain lignin. This type of  cell wall provides strength, but puts a stop to cell  expansion. Hence there are problems in providing  mechanical support for the growing primary tissues.  
+- For the growing primary tissues this is solved in 2For the growing primary tissues this is solved in 2  very different ways.very different ways.  
+(a) Fibres: These cells belong to the class of support  
+tissue called sclerenchyma with massively thickened,  hard, cellulose walls often but not always lignified. The  wall is inextensible so the cell goes on extending to cope  with the expansion of the surrounding tissue by apical  intrusive growth.
+
+- The ends of the cell are pointed, thin walled and  cytoplasmic & they carry on growing, boring intrusively between the expanding cells while the middle section  thickens up.  
+- In this way, primary tissue fibre cells reach great  lengths exploited by us in the case of flax and hemp.  
+(b) Collenchyma  
+These cells have very thick but extendable walls. Beginning at the corners often, parenchyma cells lay down a wall of  alternating layers of pectin & cellulose which is strong  capable of supporting up to 10-12 kg/mm2 before breaking.  
+Example celery petioles
+
+- Collenchyma is distributed in stems as a  strengthening tube. The cells are very long & thin in LS by  the time stem elongation is complete.  
+SIZE-DETERMINING MERISTEMS IN THE STEM  
+- Stems have various subsidiary ‘meristems’ - : zones of cell division basal to the shape determining apical  meristem.  
+- One of these, known in dicots as the subapical  meristem, controls internode elongation in a simple,  quantitative way. Divisions are predominantly anticlinal ie. Add to the length, but not to the thickness of the axis separating out this activity keeps the upper internodes  v. short & as a result the developing lfs protect the  apical dome and younger lfs.
+
+- In many plants, esp’y grasses, the m’stematic activity  wh leads to internode elongation persists, becoming  confined to a region at the base of the internode with fully diff’ned tissue above as well as below.  
+- This ‘intercalated’ m’ stematic tissue is called an  intercalary meristem & also occurs in the base of grasses  lf sheath ( how grass can grow again after mowing!)
+
+
 
 #### Control of Plant Development
  
- Honestly Idk Ill Come Back To This
+PLANT GROWTH REGULATORS
+ PGRs play an important role. The idea that their  
+individual roles can be defined by the nature of the response  
+to each of them (auxins  cell expansion, cytokinin  cell  
+division) doesn’t fit the facts and must be discarded. At different  
+times they can function in either of 2 rather different types of  
+interaction:  
+1) PGRs may be generated by development in one part of the  
+plant (xylem differentiation in lfs  auxin, senescence or  
+ripening  ethylene, plastid differentiation  gibberellins,  
+ripening fruit tissue  abscisic acid, cell division in root tips   
+cytokinin).
+
+ Other parts of the same plant may be programmed  
+to produce an appropriate developmental response,  
+WHATEVER IS APPROPRIATE FOR THAT TISSUE OF THAT  
+SPECIES AT THAT DEVELOPMENTAL STAGE. The constant  
+feature is the link between the particular PGR and the particular  
+Devt which produced it.  
+Ie. The same PGR is produced in response to a certain stimulus.  
+But, the plant response to the PGR is species, tissue and time  
+specific!  
+2) PGRs may be synthesized in response to an environmental  
+signal (drought  abscisic acid, light  gibberelins, mineral  
+nutrients  cytokinins, physical stress  ethylene). Other parts  
+of the same plant may be programmed to produce an appropriate  
+developmental response
+
+ The response is WHATEVER IS APPROPRIATE  
+FOR THAT TISSUE OF THAT SPECIES AT THAT  
+DEVELOPMENTAL STAGE. The constant feature is the  
+link between the particular PGR and the particular env’tal  
+signal in response to which its synthesis was increased.  
+Different responses of different species to the same PGR are  
+an important component of adaptations.  
+CONTROL OF PRIMARY GROWTH:  
+CELL EXPANSIONCELL EXPANSION  
+ The most important co-ordinating influence on primary  
+vegetative growth, and differentiation, shoot branching and  
+cambial activity is auxinauxin synthesized in developing leaves.
+
+ This auxin is swept root tip wards by a process termed  
+polar transport (at 1cm per hr) as the xylem differentiates  
+and the contents of vessels lyse through the living parenchyma  
+cells of the stele.  
+ Cell expansion determining internode length is auxin-  
+dependent, so the developing leaf influences the size of  
+internodes below it that will support and supply it.  
+ Tropic curvature enables the expanding internodes  
+to respond to light and gravity, but the mechanism remains  
+obscure. The environmental signals are detected by specialized  
+plastids (chloroplasts, chromoplasts, amyloplasts &  
+aleoplasts’).
+
+ Statoliths are large amyloplasts which do not disappear  
+when the plant is starved and, unlike other starch grains, are  
+‘loose’ inside the cell, rolling down to the lowest point when the  
+plant is tilted.  
+ Phototropism, growth in response to the direction of  
+light is mediated by a yellow flavoprotein photoreceptor  
+maximally sensitive to blue light.  
+ Sensitivity to phototropic stimuli in coleoptiles correlates  
+with special bright yellow plastids unique to cells of the bundle-  
+sheath. Leaves have statoliths in the bundle sheaths only stems  
+have them in the endodermis (but in roots they are in the root  
+cap).
+
+ The most likely explanation is that the specialised  
+plastids influence the transport of auxin from the polar  
+transport stream in the stele to the expanding tissues of the  
+cortex, blocking the radial outwards movement of auxin on the  
+illuminated or upper side.  
+BUT AUXIN IS NOT THE ONLY PGR INFLUENCING CELLBUT AUXIN IS NOT THE ONLY PGR INFLUENCING CELL  
+EXPANSION!EXPANSION!  
+ Differentiating leaves export gibberellins which promote  
+cell expansion (& directly regulate the activity of the subapical  
+meristem, promoting cell divisions that increase internode  
+length).
+
+ Growing root tips export cytokinins, which promote  
+cell expansion in leaves, but not in stems. When more mineral  
+nutrients are available in the soil, more cytokinin is exported  
+from roots, and leaves are larger in response.  
+ Cell expansion is also sensitive to ethylene, part of a  
+response to physical stress. The production of ethylene by  
+plant tissues increases when you bend, shake or stress them.  
+Elevated ethylene alters the orientation of cortical utubules  
+in expanding cells, which alters the orientation of cellulose  
+microfibrils synthesized. (See figure 1)  
+ Subsequently, so as to increase radial cell expansion  
+at the expense of longitudinal expansion  STOUTER AXIS,  
+able to push up paving stones!
+
+A. VASCULAR TISSUE  
+Primary xylem requires auxin from developing lvs in order to  
+differentiate. Primary phloem requires cytokinin from growing  
+roots. In addition, cells in the appropriate position do not  
+differentiate into fibres unless supplied with both auxin and  
+gibberellin. These PGRs influence the program of differentiation.  
+Increased [GA]  larger fibres increased [IAA]  thicker walls.  
+B. MERISTEMOIDS  
+1.General  
+The way plants generate the little, tiny organs which have only a  
+few cells, in what appears to be a homogenous array of identical  
+cells, divide assymmetrically.
+
+ First the nucleus moves to one end of the cell, which  
+may show a ‘gradient’ of organelles across it, oriented to some  
+outside influence e.g. a meristem. 2 cells are formed : a small  
+cell, from the dense end, wh goes on to something exciting,  
+& a large cell fm the other end of the gradient wh usually does  
+not. (See figures 2 & 3).  
+ The small cell usually re-commences cell division &,  
+acting as tiny meristem (‘meristemoid’) goes on to generate  
+one of the various types of glands, hairs & other little structures  
+wh are dotted throughout & especially over the surface of plants.  
+ The stomata arise from meristemoids in the
+
+  
+Control  
+The purpose of meristemoids seems to be to allow independent  
+control of the development of these ‘tiny’ organs, e.g. the  
+timing of maturation and the spacing of the guard cells is  
+obviously important for the leaf.  
+CONTROL OF SECONDARY GROWTH: BRANCHING  
+Lateral roots arise deep inside the root. From a single layer -  
+the PERICYCLE - just inside the endodermis so that the  
+integrity of the stele isn’t breached. Shoot branches arise from  
+similarly arrested cells, but in pockets on the outside surface of  
+the axis where they monitor light. The mechanisms of control  
+of shoot branching vary from plant to plant.
+
+COLLECTIVE DEVELOPMENTAL TRANSITIONS  
+ Plant organs and especially meristems, sometimes  
+undergo a major shift in biochemistry and/or pattern of  
+growth. Rather like differentiation for a single cell, but this time  
+for a whole group of cells there is a coordinated, synchronous  
+change from the expression of one set of genes to the  
+expression of a new set. Such changes we refer to as  
+‘transformations’. Transformations are large scale qualitative  
+transitions which form the life cycle of organs and individuals.  
+A. Senscence  
+This is terminal transformation for any tissue/individual, involving  
+the breakdown of cell structures & macromolecules - but note  
+that the initiation of this phase is by gene de-repression +  
+synthesis of a range of hydrolytic enzymes = energy-consuming,  
+so waterlogged, dried or poisoned lvs STAY GREEN!
+
+ The onset of tissue senescence is controlled by auxin  
+levels in the tissue wh, post dffn, slowly declines until eventually  
+at v. low [auxin], tissues begin to respond to the tiny amounts of  
+ethylene they produce all the time by producing excess ethylene  
+wh activates the senescence process.  
+ The onset of tissue senescence is adaptively entrained  
+to: nutrient stress via CKs, water stress via ABA, & daylength  
+via GA, the effective levels of wh. increase with daylength.  
+ The [ethylene] also activates abscission, the final stage of  
+tissue senescence. Scattered through the plant are groups of  
+cells wh. do not  cell expansion response to auxin.  
+Strategically placed, e.g. in petiole bases, they respond to  
+ethylene when mature by cell expansion + partial autolysis of cell  
+walls: (See figure 4)
+
+In some spp, the entire plant may be ‘switched over’  
+into senescence: monocarpic species (die at end of fruiting  
+season e.g. banana plant). In soybean (Glycine max)  
+it is the maturing seeds wh induce the onset of whole plant  
+senescence wh in spp where it occurs, usually follows flowering  
+& seed formation.  
+Not only annual/biennial herbs though:Tachigalia versicolor in  
+Panama, a large (40m) dicot tree, produces 70,000 winged  
+seeds & promptly dies. Also, bamboos & Agave - the Century tree.
+
+B. Induction of flowering  
+1. Developmental control  
+For many plants the switch is part of the internal  
+development of the individual (therefore we cannot  
+control it). Sometimes we observe that the transition is  
+related to the accumulation of a fixed number of  
+leaves (8 lvs in Datura ‘thorn apple’ 30 to 40 years  
+growth in beech).
+
+2. Environmental control  
+(therefore we can control it and do expts!) For plants wh grow  
+in regions away frm the equator, the sh m’stems  producing  
+flws is adaptively entrained to daylength to make the plant  
+flower at a precise time of the year. (See Figure 5)  
+PHOTOPERIODISMPHOTOPERIODISM  
+For other plants, especially biennials, the entrainment is to a  
+prolonged period of chilling (equiv temperate winter) :  
+vernalisation.  
+ For photoperiodism, the ‘detector’ system is phytochrome  
+as primary light sensor, linked to the endogenous circadian  
+rhythm, wh connects phytochrome  apex at a fixed time after sunset every night.
+
+detector’ system is in the developing leaves. These dvlp  
+lvs produce the bulk of the GA & auxin & as they mature  
+produce the bulk of the ABA & relay all the CK, wh arrives fm  
+the rt, on to the sh apical meristem.  
+ The ‘detector’ system triggers an altered pattern of GR  
+production/relay by the lf wh the sh’ m’stems are adapted to  
+interpret by transforming into floral m’stems. Sometimes the  
+connection is simple, e.g. effective [GA] rises in long days, &  
+in some plants wh flower in long days exogenous GA will  
+induce flowering, but mostly the interactions are:  
+(a) complex & prolonged, because the transition to flowering  
+is critical for survival & is therefore subject to careful, multiple  
+cross-checking, &
+
+(b) species-specific, because the transition to flowering  
+forms part of the machinery for adaptation to the environment  
+by individual spp in a very wide range of environments.  
+C. GERMINATION  
+Many seeds will germinate as soon as the chemical inhibitors  
+of the fruit sap have been washed off & conditions are  
+favourable: water & warmth. Other types stubbornly refuse -  
+they have an innate dormancy. There are 3 basic types,  
+characterised by the treatment required to break dormancy.  
+1. ‘After ripening’ - no germ’n unless dry at room temp for  
+several wks, e.g. grasses & cereals, clover & the evening  
+primrose (Oenothera).
+
+2. Chilling req’t. Seed needs to have imbibed before it  
+responds & several wks at 0 to 5o C are required =  
+stratification. Same ‘dectector’ system as vernalisation.  
+1. Light req’t. Mediated by phytochrome : Pfr = primary  
+sensor (Pr inhibits).  
+ Chilling and light trigger increases in GA, or CK,  
+or both, & these PGRs initiate the mobilisation of reserves  
+in the seed, ending metabolic dormancy. The dormant  
+state, then, is stable until these growth substances trigger  
+the transformation to active growth.
 
 ## Week 5 Floral biology and pollination
 
@@ -712,15 +1042,13 @@ conifers
 
 #### Agencies of pollination  
 The agencies of pollination fall into two groups:  
-1) Abiotic agencies : wind, water, rain.  
-2) Biotic agencies : insects, birds, monkeys, small mammals (bats, rats) and small reptiles (geckos), ants, water skaters.  
+2) Abiotic agencies : wind, water, rain.  
+3) Biotic agencies : insects, birds, monkeys, small mammals (bats, rats) and small reptiles (geckos), ants, water skaters.  
 Flowers have adapted to facilitate pollination by both biotic and abiotic agencies. In the case of plants which use biotic pollinators the plants and animals have coadapted and these various adaptations are called ‘adaptive syndromes’.
 
-Some flowers tend to be oligophilic ie they have very few species of visitors (often only one). This tends to be most common in flowers with relatively specialised shapes (flags, trumpets, tubes), rather than ‘unsophisticated’ flowers with cup, bell or brush shapes  
-which often have many different pollinating species and  
-are termed polyphilic.  
+Some flowers are oligophilic (very few species of visitors). This tends to be most common in flowers with relatively specialised shapes (flags, trumpets, tubes), rather than ‘unsophisticated’ flowers with cup, bell or brush shapes which often have many different pollinating species (polyphilic).  
 
-Below is a list of the major classes of pollination syndromes:  
+Below is a list of the major classes of pollination syndromes (not important):  
 animal pollinated - Zoophily, 
 insect pollinated - entomophily,  
 beetles - cantharophily, 
@@ -738,272 +1066,94 @@ Whichever agency is employed in pollination the plant is usually a passive partn
 These exceptions are not entirely confined to animal-pollinated species. There are also explosive discharges of pollen into the air by the anemophilous species Ricinus communis and Parietaria diffusa.
 
 #### ABIOTIC POLLINATION AGENCIES  
-Anemophily (wind pollination)  
-Pollination by wind is probably the most ancient  
-type of pollination. The plant groups which flourished  
-in the Carboniferous and Mezoic were chiefly vascular  
-gymnosperms.  
-The gymnosperms, with a few exceptions are all  
-wind-pollinated at the present day and were presumably  
-so in earlier times.  
-Flowers of plants which rely on the wind for  
-pollination are generally small and inconspicuous, and  
-possess none of the attractive attributes of entomophilous  
-species, but are often only composed of the essential  
-organs only.
+##### Anemophily (wind pollination)  
+Oldest type of pollination. 
+The gymnosperms, are wind-pollinated at the present day and were presumably so earlier.  
+Flowers of plants which rely on the wind for pollination are generally small and inconspicuous, and possess none of the attractive attributes of entomophilous species, but are often only composed of the essential organs only.
 
-Wind pollinated species include - grasses and  
-sedges, conifers and many temperate broad leaf tree  
-species such as walnuts (Juglans), oaks (Quercus) etc.  
-The flowers of anemophilous species are frequentely  
-small, drab and dull in colour (don’t need to attract  
-animal pollinators) and arranged in “catkins” which are  
-most often unisexual. The male catkins are often  
-pendulous and their axes are flexible so that they can be  
-easily shaken or swayed by the wind. (See figures 1, 2 & 3)  
-The pollen of these species is most often small and  
-smooth-coated. Generally speaking anemophilous species  
-produce far greater amounts of pollen than entomophilous  
-species. Pohl (1937) estimated that a single plant of  
-Mercurialis annua and Rumex acetosa produce  
-respectively 1,352,000,000 & 393,000,000 pollen grains!!!  
-(Needed because pollination is down to chance).
+Wind pollinated species include - grasses and sedges, conifers and many temperate broad leaf tree species such as walnuts (Juglans), oaks (Quercus) etc.  
+
+The flowers of anemophilous species are frequentely small, drab and dull in colour (don’t need to attract animal pollinators) and arranged in “catkins” which are  
+most often unisexual. 
+Male catkins are often pendulous and their axes are flexible so that they can be easily shaken or swayed by the wind.
+The pollen of these species is most often small and smooth-coated. Generally speaking anemophilous species produce far greater amounts of pollen than entomophilous  
+species.
+Produces billions of pollen grains because wind pollination is down to chance.
 
  Anemophilous flowers do not possess nectaries.  
-There are also very few ovules in the ovary, two in  
-Juglans and Quercus, and one in Urtica, Parietaria,  
+There are also very few ovules in the ovary, two in Juglans and Quercus, and one in Urtica, Parietaria,  
 Ulmus, Betula and Myrica and the grasses.  
- Often wind pollinated tree species in temperate  
-climates such as hazel (Corylus avellana) produce their  
-tiny flowers early in the year before they produce leaves,  
-and as a result the wind is able to gather the pollen  
-without hinderance and the grains don’t get trapped in the  
-foliage so increasing the chances of successful pollination.  
-Not many wind pollinated species exist in tropical  
-rain forests.  
-WHY?
+ Often wind pollinated tree species in temperate climates such as hazel (Corylus avellana) produce their tiny flowers early in the year before they produce leaves,  
+and as a result the wind is able to gather the pollen without hinderance and the grains don’t get trapped in the foliage so increasing the chances of successful pollination.  
+Not many wind pollinated species exist in tropical rain forests because there isnt much wind
 
 #### Hydrophily (Water pollination)  
- Angiosperms which have “ returned to the water”  
-show differing degrees of adaptation to their environment.  
-The conservation of the flower, which makes it such a  
-valuable organ in taxonomy, is now exhibited in an entirely  
-different way.  
- Eelgrass is an example of an angiosperm  
-which bears totally submerged flowers in tropical oceans,  
-the flowers of which use hydrophilous pollination.  
-(See figure 4).  
- Flowers of hydrophilous species have no colour  
-nectaries or scent since these are not required. (See Figures  
-5, 6 & 7).
+ Angiosperms which have “ returned to the water” show differing degrees of adaptation to their environment.  
+The conservation of the flower is now exhibited in an entirely different way.  
+ Eelgrass is an example of an angiosperm which bears totally submerged flowers in tropical oceans, that use hydrophilous pollination. 
+ Flowers of hydrophilous species have no colour nectaries or scent since these are not required.
 
- Their floral envelope is small, often only consisting  
-of a single whorl of sepals, in some cases even this is  
-missing and the flower exists as a single naked stamen or  
-ovary as in the submerged Star Worts, the Callitriches.  
+ Their floral envelope is small, often only consisting of a single whorl of sepals, in some cases even this is missing and the flower exists as a single naked stamen or ovary as in the submerged Star Worts, the Callitriches.  
  With this simplification is also a reduction in size.  
- True hydrophily where the pollen is water-borne, is  
-rare and only occurs in totally submerged aquatic species.  
-The most studied examples are the marine perennials, the  
-grass wracks, Zostera, Phyllospadix and Halophila.  
- It is only in these species that pollen itself is  
-modified to suit the environment. Zostera marina has  
-separate inflorescences of male and female flowers  
-enclosed in the base of a grass-like leaf.
+ 
+ True hydrophily where the pollen is water-borne, is rare and only occurs in totally submerged aquatic species. The most studied examples are the marine perennials, the grass wracks, Zostera, Phyllospadix and Halophila.  In these species pollen itself is modified to suit the environment. Zostera marina has separate inflorescences of male and female flowers enclosed in the base of a grass-like leaf.
 
- The male flower is a single sessile anther. The  
-anther wall has no endothecium as have the land plants,  
-and when it is mature it dehisces by absorbing water which  
-causes the innermost cells to swell and burst the sac.  
- The pollen grains are very long and thread-like in  
-shape. They have no exine and are shed naked into the sea.  
-They are non-motile and coil around the stigma of the female  
-flowers if they drift against them.
+ The male flower is a single sessile anther. The anther wall has no endothecium as have the land plants, and when it is mature it dehisces by absorbing water which causes the innermost cells to swell and burst the sac.  
+ The pollen grains are very long and thread-like in shape. They have no exine and are shed naked into the sea. They are non-motile and coil around the stigma of the female flowers if they drift against them.
 
-#### Rain pollination  
- The significance of rain as a pollinating agency  
-in certain angiosperms was only recognised relatively  
-recently (1950’s). Hagerup (1950) reported that in the  
-Faroe islands (Danish group of islands in North Sea)  
-that flowers of the Creeping Buttercup (Ranunculus repens)  
-were wide open even on rainy days.  
- In these islands the rainfall is very high, but is  
-very gentle and frequent, and this climate is of great  
-importance to the pollination biology of these species  
-growing in this region.
+##### Rain pollination  
+ The significance of rain as a pollinating agency in certain angiosperms was only recognised relatively recently (1950’s). Hagerup (1950) reported that in the  
+Faroe islands (Danish group of islands in North Sea) that flowers of the Creeping Buttercup (Ranunculus repens) were wide open even on rainy days.  
+ In these islands the rainfall is very high, but is very gentle and frequent, and this climate is of great importance to the pollination biology of these species growing in this region.
 
  R. repens is common throughout the U.K. and much of  
-Northern Europe and is a typical entomophilous species  
-its flowers have bright yellow petals, are scented, bear  
-large amounts of pollen and also some nectar.  
- Most of the petal area is glossy and water proof, but  
-at the base of each petal there is a dull area with a nectary  
-hidden under a small flap. If a raindrop falls on the flower  
-it dislodges pollen from the anthers on the glossy part of  
-the petal and runs down it and is then held by the matt  
-absorbent base.  
- Each additional drop swirls the floating pollen  
-around the corolla cup which may become filled with water  
-to the level of the glossy parts.
+Northern Europe and is a typical entomophilous species its flowers have bright yellow petals, are scented, bear large amounts of pollen and also some nectar.  
+ Most of the petal area is glossy and water proof, but at the base of each petal there is a dull area with a nectary hidden under a small flap. If a raindrop falls on the flower  
+it dislodges pollen from the anthers on the glossy part of the petal and runs down it and is then held by the matt absorbent base.  
+ Each additional drop swirls the floating pollen around the corolla cup which may become filled with water to the level of the glossy parts.
 
- R. repens is common throughout the U.K. and much of  
-Northern Europe and is a typical entomophilous species  
-its flowers have bright yellow petals, are scented, bear  
-large amounts of pollen and also some nectar.  
- Most of the petal area is glossy and water proof, but  
-at the base of each petal there is a dull area with a nectary  
-hidden under a small flap. If a raindrop falls on the flower  
-it dislodges pollen from the anthers on the glossy part of  
-the petal and runs down it and is then held by the matt  
-absorbent base.  
- Each additional drop swirls the floating pollen  
-around the corolla cup which may become filled with water  
-to the level of the glossy parts.
-
- The location of the carpels is such that the water  
-rises by capillarity between them and the pollen is  
-deposited on the stigma. There is a leak of water through  
-gaps between the bases of the petals so that just enough  
-water is held in the cup as is necessary for pollination  
+ The location of the carpels is such that the water rises by capillarity between them and the pollen is deposited on the stigma. There is a leak of water through gaps between the bases of the petals so that just enough water is held in the cup as is necessary for pollination  
 
 #### Biotic agencies of pollination  
- Other species of flowering plants adopt a different  
-strategy. To reduce wastage of energy (oils, proteins in  
-pollen) in production of the huge amounts of pollen  
-produced by wind pollinated species, they use animal  
-messengers to collect the pollen and deliver it directly to  
-the stigma of other plants of the same species.
+ Other species of flowering plants adopt a different strategy. To reduce wastage of energy (oils, proteins in pollen) in production of the huge amounts of pollen  
+produced by wind pollinated species, they use animal messengers to collect the pollen and deliver it directly to the stigma of other plants of the same species.
 
 ### Floral biol. and pollination II
 
 #### TYPES OF ANIMAL POLLINATORS  
 Pollination by insects (entomophily)  
 There are three main classes of flower visiting insects:  
-(1) Hymenoptera (social/solitary bees and wasps).  
-(2) Diptera (flies).  
-(3) Lepidoptera (butterflies and moths).  
- They are all structurally adapted to allow them  
-to exploit flowers. As mentioned earlier, insect pollinated  
-flowers display a number of features which facilitate and  
-attract such pollinators. (See figures 1 & 2)
+1) Hymenoptera (social/solitary bees and wasps).  
+2) Diptera (flies).  
+3) Lepidoptera (butterflies and moths).  
+ They are all structurally adapted to allow them to exploit flowers. As mentioned earlier, insect pollinated flowers display a number of features which facilitate and attract such pollinators.
+ 
+ 1) Insect pollinated species generally have large vividly coloured flowers which can be seen from afar. If the plant  has evolved small flowers, then they are usually in the form  of an inflorescence (a bunch).  Since insect vision is most efficient in the blue/UV region of the electromagnetic spectrum. So the majority of insect pollinated species have yellow, blue or white flowers.  
+ 2) The shape of the perianth varies according to the  species of insect that has coevolved to pollinate a  particular flower species.
+ 3) ) As mentioned earlier most insects have excellent vision, but are most often only sensitive to blue and UV light. So nectar flowers have evolved markings termed nectar guides which are clearly visible in UV part of the spectrum to advertise the location of the nectar. (See figure 3).  
+4) Since most insects have a good sense of smell, so perfumes have evolved as attractants. These flower scents are volatile essential oils. Little is known of the ecology of scent production by flowers. Diurnal (follow 24 hour cycle) species emit scent in daytime (Roses), whereas nocturnal species produce scent at night (Durio spp). The scent of nocturnal flowers differs from day flowers: night flowers are very sweet compared to the day flowers spicy smell (bat pollinated flowers are sour/mousy in smell).  
+5) Deception - this is performed in a variety of ways by both pollen flower and nectar flower species. E.g. certain pollen flowers replace fodder pollen by structures  mimicking full anthers to attract and thereby “trick” pollinators; the most bizarre deception is the sexual deception performed by certain orchid species. For example the European mirror orchid (ground dwelling plant about 1 foot high which produces few flowers on a single stem).
 
-(1) Insect pollinated species generally have large vividly  
-coloured flowers which can be seen from afar. If the plant  
-has evolved small flowers, then they are usually in the form  
-of an inflorescence (a bunch).  
-Since insect vision is most efficient in the blue/UV region of  
-the electromagnetic spectrum. So the majority of insect  
-pollinated species have yellow, blue or white flowers.  
-(2) The shape of the perianth varies according to the  
-species of insect that has coevolved to pollinate a  
-particular flower species.
+ The mirror orchid flowers have an oval lip that glistens with a metallic blue-violet colour, and has a yellow border fringed with long red hairs. Each flower actually looks like species of wasps and bees native to the region in which the orchids grow. The function of this mimicry is AMAZING!  The flower is actually pretending to make sexual  
+advances to the male bees! It does this even more effectively than first thought; in that the orchid produces a pheromone which resembles that emitted by sexually receptive female bees.  When a bee finds such a flower it lands on the lip of the flower and tries to copulate with the flower. 
 
-(3) As mentioned earlier most insects have excellent vision,  
-but are most often only sensitive to blue and UV light. So  
-nectar flowers have evolved markings termed nectar guides  
-which are clearly visible in UV part of the spectrum to  
-advertise the location of the nectar. (See figure 3).  
-(4) Since most insects have a good sense of smell, so  
-perfumes have evolved as attractants. These flower scents  
-are volatile essential oils.  
-Little is known of the ecology of scent production by  
-flowers. Diurnal (follow 24 hour cycle) species emit scent in  
-daytime (Roses), whereas nocturnal species produce scent  
-at night (Durio spp).
-
- The scent of nocturnal flowers differs from day  
-flowers: night flowers are very sweet compared to the day  
-flowers spicy smell (bat pollinated flowers are sour/mousy  
-in smell).  
-(4) Deception - this is performed in a variety of ways by  
-both pollen flower and nectar flower species. E.g. certain  
-pollen flowers replace fodder pollen by structures  
-mimicking full anthers to attract and thereby “trick”  
-pollinators; the most bizarre deception is the sexual  
-deception performed by certain orchid species.  
-For example the European mirror orchid (ground dwelling  
-plant about 1 foot high which produces few flowers on a  
-single stem).
-
- The mirror orchid flowers have an oval lip that  
-glistens with a metallic blue-violet colour, and has a  
-yellow border fringed with long red hairs. Each flower  
-actually looks like species of wasps and bees native to  
-the region in which the orchids grow. The function of this  
-mimicry is AMAZING!  
- The flower is actually pretending to make sexual  
-advances to the male bees! It does this even more  
-effectively than first thought; in that the orchid produces a  
-pheromone which resembles that emitted by sexually  
-receptive female bees.  
- When a bee finds such a flower it lands on the lip of  
-the flower and tries to copulate with the flower.  
-(See figure 4).
-
- The bee fails but in the process the flower  
-descends a curved petal structure which contains both  
-female and male reproductive organs and “glues” a  
-pair of pollinia on to his head. If the next orchid he visits  
-has already despatched its pollinia then the column will  
-collect his pollinia and thereby the orchid is fertilised.
+ The bee fails but in the process the flower descends a curved petal structure which contains both female and male reproductive organs and “glues” a pair of pollinia on to his head. If the next orchid he visits has already despatched its pollinia then the column will collect his pollinia and thereby the orchid is fertilised.
 
 #### Pollination by birds (Ornithophily)  
 How birds came to be pollinators  
- As flying animals with a rough outer surface, birds  
-possess good external prerequisites to act as plant  
-pollinators.  
-Q: How and why did birds evolve to become  
-pollinators?  
- Among the hypotheses proposed to explain this  
-phenomenon is that bird mediated pollination is a  
-development from the destructive eating of flowers still  
-observed even in present day temperate bird species  
-(e.g. sparrows destroying crocuses in Spring if they are  
-desperate for food).
+ As flying animals with a rough outer surface, birds possess good external prerequisites to act as plant pollinators.  
+Q: How and why did birds evolve to become pollinators?  
+ Among the hypotheses proposed to explain this phenomenon is that bird mediated pollination is a development from the destructive eating of flowers still observed even in present day temperate bird species (e.g. sparrows destroying crocuses in Spring if they are desperate for food).
 
- It has also been proposed that wood-peckers may  
-have been tempted to change their diet (fruit eating)  
- A third explanation proposes that birds obtained  
-this habit from chasing insects into flowers, and just  
-happened by chance to find the nectar or to puncture  
-succulent tissues; or fourthly that some species may have  
-originally drunk water collected in the blossoms to quench  
-their thirst in tropical forests.  
- No matter whether any or all of these explanations is  
-true or not, certain bird species did somehow co-adapt with  
-certain tropical/sub tropical plant species, and gave rise to  
-the marvellous symbiotic relationships we can observe  
-today.
+ It has also been proposed that wood-peckers may have been tempted to change their diet (fruit eating)  A third explanation proposes that birds obtained this habit from chasing insects into flowers, and just happened by chance to find the nectar or to puncture succulent tissues; or fourthly that some species may have originally drunk water collected in the blossoms to quench their thirst in tropical forests.  
+ No matter whether any or all of these explanations is true or not, certain bird species did somehow co-adapt with certain tropical/sub tropical plant species, and gave rise to the marvellous symbiotic relationships we can observe today.
 
 #### The biology of bird pollination  
- Birds differ from the insect pollinators in that they  
-can obtain only one of their staple foodstuffs from  
-flowers, namely nectar, a Hummingbird may eat up to half  
-its body weight in sugar daily! These species do not  
-usually eat pollen, except incidentally whilst drinking  
-nectar, and in order to obtain the protein component of  
-their diet they eat small insects.  
- These bird species can only exist in regions of the  
-world that can provide an abundant and continuous supply  
-of insects and nectar throughout the year ie. The tropics  
-and subtropics of the world. The equatorial belt in America  
-between 50 North and 50 South, is the main centre of the  
-Hummingbirds (Trochilidae).
+ Birds differ from the insect pollinators in that they can obtain only one of their staple foodstuffs from flowers, namely nectar, a Hummingbird may eat up to half its body weight in sugar daily! These species do not usually eat pollen, except incidentally whilst drinking nectar, and in order to obtain the protein component of their diet they eat small insects.  These bird species can only exist in regions of the world that can provide an abundant and continuous supply of insects and nectar throughout the year ie. The tropics and subtropics of the world. The equatorial belt in America between 50 North and 50 South, is the main centre of the Hummingbirds (Trochilidae).
 
- The tropics and sub-tropics of Africa and S.E. Asia  
-is the home of the Sunbirds (Nectrinidae); the sugarbirds  
-(Promeropidae) are found in South Africa and the  
-Honeyeaters (Meliphagidae) are found in the S.W. pacific  
-region. These four families comprise the majority of bird  
-species highly adapted to visiting and pollinating flowers.  
- Hummingbirds live only in the New World. Most  
-of which are found in Central America. Ecuador  
-contains half the known species (130 out of 319 exist in  
-this country).  
- The Sunbirds are restricted to the tropical and sub  
--tropical regions of the ‘Old World’. They are abundant in  
-tropical and Southern Africa with about thirty species  
-found native to S.E. Asia.
+ The tropics and sub-tropics of Africa and S.E. Asia is the home of the Sunbirds (Nectrinidae); the sugarbirds (Promeropidae) are found in South Africa and the  
+Honeyeaters (Meliphagidae) are found in the S.W. pacific region. These four families comprise the majority of bird species highly adapted to visiting and pollinating flowers.  
+ Hummingbirds live only in the New World. Most of which are found in Central America. Ecuador contains half the known species (130 out of 319 exist in this country).  The Sunbirds are restricted to the tropical and sub -tropical regions of the ‘Old World’. They are abundant in tropical and Southern Africa with about thirty species found native to S.E. Asia.
 
  The tropics and sub-tropics of Africa and S.E. Asia  
 is the home of the Sunbirds (Nectrinidae); the sugarbirds  
@@ -1023,23 +1173,25 @@ found native to S.E. Asia.
  To enlist the services of these bird species, plants  
 have to attract them, and the features of flowering plants  
 which demonstrate the syndrome of ornithophily  
-are listed below:  
+are listed below:
 Bird flowers Flower-birds  
-1. Diurnal anthesis. Diurnal.  
-2. Vivid colours often See best in red part  
+6. Diurnal anthesis. Diurnal.  
+7. Vivid colours often See best in red part  
 red, yellow or orange. Of em spectrum.  
-3. Flower tubular and/or Too large to land on  
+8. Flower tubular and/or Too large to land on  
 hanging. Flower itself.  
-4. Hard flower wall, Hard bill.  
+9. Hard flower wall, Hard bill.  
 well protected nectary.
 
-5. Absence of scent. Little or no sense  
+10. Absence of scent. Little or no sense  
 of smell.  
-6. Nectar very abundant. Large appetite!  
-7. Often deep tubular Long bill and  
+11. Nectar very abundant. Large appetite!  
+12. Often deep tubular Long bill and  
 flowers. Tongue.  
-8. Nectar guides absent. High intelligence.  
-(See figures 5, 6, 7 & 8)  
+13. Nectar guides absent. High intelligence.  
+
+Birds Like Similar Colours To People
+Birds Have Bad Smell
  Birds are relatively large animals compared  
 to insects therefore bird-pollinated plants have to be  
 large enough to accommodate the head of a bird as it  
@@ -1102,12 +1254,12 @@ adaptations of angiosperm species to mineral stress.
 Adaptations to excess of mineral salts  
  HALOPHYTES: A number of angiosperms grow  
 where they are periodically submerged in seawater.  
-In addition, to the problems of [[Uni/Plant Biology#The root\|root]]aeration - coastal  
+In addition, to the problems of rootaeration - coastal  
 mangrove swamps. They also have to adapt to the  
 salt content  
 There are two aspects to this problem:  
-1. The osmotic problem  
-2. The chemical toxicity of Na+ ions.
+14. The osmotic problem  
+15. The chemical toxicity of Na+ ions.
 
  Plants adapted to deal with both these problems  
 are called halophytes.  
@@ -1115,7 +1267,7 @@ are called halophytes.
 environment also has to be tackled by plants in arid  
 environments where intense evaporation concentrates  
 ground-water salts.  
-1. The osmotic problem is solved by gearing the plant  
+16. The osmotic problem is solved by gearing the plant  
 down to a w lower than the environment. The low  
 0 is achieved by taking up salts: Na+ & Cl - but also  
 higher concs of K+ & organic anions than in mesophytes  
@@ -1138,7 +1290,7 @@ Triglochin maritima, proline accumulates to 20% of sh DW.
 Similar levels are found in the sea aster Aster tripolium.
 
 
-2. The Problem of Na+ toxicity is solved in 2 different ways  
+17. The Problem of Na+ toxicity is solved in 2 different ways  
 by different halophyte types:  
 (a) succulent types - Some spp maintain a steady rate of  
 uptake of salt, which is sequestered away inside vacuoles  
@@ -1180,7 +1332,7 @@ specifically adapted to grow on a particular combination
 of minerals & whose physiology is not plastic enough to  
 adapt rapidly will suffer metabolic imbalances.
 
-1. Calcifuge/calcicole plants:  
+18. Calcifuge/calcicole plants:  
 Plants adapted to grow on soils associated with a high  
 [Ca 2+] (alkaline soil) are termed calcicoles, plants adapted  
 to grow on acidic soils are called calcifuges.  
@@ -1211,7 +1363,7 @@ soil Al+++ include:
 of Al rich tropical soils - e.g. tea (Camelia sinensis)  
 where the old lvs have 30, 000 ppm A+++.
 
-2. Heavy metal tolerance (Ag, Ni, Pb, Cd)  
+19. Heavy metal tolerance (Ag, Ni, Pb, Cd)  
  Some spp show tolerance to normally toxic  
 excesses of heavy-metal cations not found in natural  
 soils except where they overlie ore deposits. They have  
@@ -1248,7 +1400,7 @@ also release simple chelators into the soil. The majority of
 calcicoles use this method.  
 (2) A second method is used by grasses only . Specialized  
 Fe+++ - chelating cmpds : ‘phytosiderophores’ (see Figure  
-2) are released into the soil in response to Fe - deficiency.  
+20) are released into the soil in response to Fe - deficiency.  
 The Fe 3+ - phytosiderophore complex is then taken up by  
 specific high affinity uptake system. High soil pH has very  
 little effect on this system
@@ -1260,7 +1412,7 @@ also release simple chelators into the soil. The majority of
 calcicoles use this method.  
 (2) A second method is used by grasses only . Specialized  
 Fe+++ - chelating cmpds : ‘phytosiderophores’ (see Figure  
-2) are released into the soil in response to Fe - deficiency.  
+21) are released into the soil in response to Fe - deficiency.  
 The Fe 3+ - phytosiderophore complex is then taken up by  
 specific high affinity uptake system. High soil pH has very
 
@@ -1281,7 +1433,7 @@ are not so severely affected as unifected plants.
  The fungus is better than rts at IP uptake where  
 [IP] is low & relays enough of what it takes up to the  
 plant to prevent deficiency.  
-3) Nitrogen  
+22) Nitrogen  
  Not as often limiting as other minerals. Provided  
 soil is reasonably aerated, the activity of nitrifying  
 bacteria living in it, close to plant [[Uni/Plant Biology#The root\|root]]s, can maintain  
@@ -1299,7 +1451,7 @@ found in Ireland are notoriously N-deficient. Nearly all
 peat bog spp have low levels of nitrate reductase in the field  
 & do not respond to added NO 3- by synthesising the  
 enzyme.  
-4. Carnivorous plants (live in boggy ground where bacteria  
+23. Carnivorous plants (live in boggy ground where bacteria  
 can’t live so eat insects instead!)  
  Elaborate adaptations for trapping & consuming  
 insects have evolved in a number of bog plants. By devious  
