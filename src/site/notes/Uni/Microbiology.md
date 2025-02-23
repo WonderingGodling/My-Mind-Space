@@ -1,32 +1,41 @@
 ---
-{"dg-publish":true,"permalink":"/uni/microbiology/","tags":["Tagless"],"dgShowToc":true,"noteIcon":""}
+{"dg-publish":true,"dg-permalink":"Microbiology","permalink":"/Microbiology/","tags":["Tagless"],"dgShowToc":true,"noteIcon":""}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 
-# <center><span style="color:#76B1B4">Microbiology</span></center>
+# <center><span style="color:#D6B164">Microbiology</span></center>
+<sub> [[Uni/Microbiology#week 2 Classification, structure and function of microbes\|Classification, structure and function of microbes]]
+[[Uni/Microbiology#Week 3 Bacterial growth and Genetics\|Bacterial growth and Genetics]]
+[[Uni/Microbiology#Week 4 Terrestrial Microbiology Part 1\|Terrestrial Microbiology Part 1]]
+[[Uni/Microbiology#Week 4 Terrestrial Microbiology Part 2\|Terrestrial Microbiology Part 2]]
+[[Uni/Microbiology#Week 5 Nutrition and Respiration\|Nutrition and Respiration]] </sub>
 
-## week 2
+## week 2 Classification, structure and function of microbes
 
-### Classification of microbes
+### Classification of Cellular microbes
+![](https://i.imgur.com/sXN61XY.jpeg)
+
+
 
 #### Three-Domain System
 Based on the phylogenetic tree using the 16S rRNA
-Bacteria, Archaea, Eukarya
-##### Prokaryotes
-###### The Bacteria (eubacteria)
+ [[Uni/Microbiology#The Bacteria (eubacteria)\|Bacteria]],  [[Uni/Microbiology#The Archaea (archaebacteria)\|Archaea]], [[Uni/Microbiology#The Eukarya (eukaryotes)\|Eukarya]]
+
+#### Prokaryotes
+##### The Bacteria (eubacteria)
 - Membranes- unbranched fatty acid chains
 	- Ester bonded to glycerol
 - Cell walls contain Peptidoglycan
 
-###### The Archaea (archaebacteria)
+##### The Archaea (archaebacteria)
 - Live in extreme harsh environments
 - Membranes- ranched fatty acid chains
 	- Ether bonded to glycerol
 
-##### Eukaryotes
-###### The Eukarya (eukaryotes)
+#### Eukaryotes
+##### The Eukarya (eukaryotes)
 - Membranes- unbranched fatty acid chains
 	- Ester bonded to glycerol
 - Some have cell walls
@@ -34,14 +43,30 @@ Bacteria, Archaea, Eukarya
 - Fungi- unicellular or multicellular
 
 (Being lazy, might make my own later)
-![](https://i.imgur.com/JzYWdXv.png)
 
-#### Classification
-|                                Classical Characteristics                                 |                                                                        |
-|:----------------------------------------------------------------------------------------:|:----------------------------------------------------------------------:|
-|                   Morphology – cell  shape/size is genetically  stable                   |      Compare microbial  genomes to estimate  taxonomic similarity      |
-| Physiology/metabolism –  directly related to nature  and activity of microbial  proteins | Ribosomal RNAs (rRNAs)  from small ribosomal  subunits  (18=eukaryote) |
-|                          Biochemistry –  proteomics (MALDI-TOF)                          |                                                                        |
+|                ​           | Bacteria       | Archaea        | Eukarya            |
+| :--:                      | : ---:         | : --- :        | :---:              |
+| Histones                  | Naked          | Naked          | Associated         |
+| DNA  Shape                | Circular       | Circular       | Linear             |
+| Introns                   | Absent         | Absent         | Present            |
+| DNA In Cytoplasm          | Nucleoid       | Nucleoid       | Nucleus            |
+| Membrane-Bound Organelles | None           | None           | Some               |
+| Ribosomes                 | 70s            | 70s            | 80s                |
+| Reproduction              | Binary Fission | Binary Fission | Mitosis Or Meiosis |
+| Chromosomes               | Haploid        | Haploid        | Diploid            |
+| Size                      | 1-5µm          | 1-5µm          | 10-100µm           |
+| Cell Wall (Peptidoglycan) | Present        | Present        | Absent             |
+| Harsh Environments        | Vulnerable     | Can Survive    | Vulnerable         |
+| Antibiotic Sensitivity    | Sensitive      | Resistant      | Sensitive          |
+
+
+### Classification
+| Classical Characteristics |                      Molecular                       |
+|:-------------------------:|:----------------------------------------------------:|
+|        Morphology         |   Compare genomes to estimate taxonomic similarity   |
+|        Physiology         | rRNA  from small ribosomal  subunits  (18=eukaryote) |
+|       Biochemistry        |                                                      |
+
 #### Colitis (Clostridium difficile)
 - Gram positive
 - persistent spores
@@ -86,7 +111,7 @@ Bacteria, Archaea, Eukarya
 - Not alive
 - Exist in and out of cells
 - Extracellular virus:
-	- inactive – possess very few enzymes
+	- inactive - possess very few enzymes
 	- Cannot reproduce
 - intracellular virus:
 	- Act as nucleic acids making host cells simulate viral components
@@ -104,6 +129,7 @@ Bacteria, Archaea, Eukarya
 ##### Spanish Flu (influenza A/H1N1)
 
 ### THE BACTERIAL CELL
+![](https://i.imgur.com/adZfGB4.png)
 
 #### Bacterial Cell Organisational Structure
 - Appendages (Attachments to the cell surface)
@@ -111,9 +137,19 @@ Bacteria, Archaea, Eukarya
 - Cytoplasmic region (Nucleoid, ribosomes, inclusion bodies)
 
 ##### Common External Bacterial Structures
-![](https://i.imgur.com/OHM9hlv.png)
-![](https://i.imgur.com/8JdHFin.png)
-Another table for me to make
+
+|       Structure        |                       Funcion                        |
+|:----------------------:|:----------------------------------------------------:|
+|       Cell Wall        | Maintains Cell Shape And Protects From Osmotic Stess |
+|        Flagella        |                       Motility                       |
+|     Pili/Fimbriae      |    Attatchment/Interaction With Surfaces/Bacteria    |
+| Capsules, Slime Layers |  Resistance TO Phagocytosis, Adherance To Surfaces   |
+|    Plasma Membrane     |   Selectively Permeable, Nutrient/Waste Transport    |
+|        Nucleoid        |                 Localisation Of DNA                  |
+|        Plasmids        |          Extra-Chromosomal Genetic Material          |
+|       Ribosomes        |                  Protein Synthesis                   |
+|    Inclusion Bodies    |                 Storage Of Molecules                 |
+|       Endospore        |               Survive Harsh Conditions               |
 
 #### BACTERIAL CELL WALL
 
@@ -124,13 +160,13 @@ Another table for me to make
 - Makes some viruses stronger
 - Mycoplasmas and Chlamydia sp. have no cell wall
 - Bacterial cell wall synthesis is targeted by antibiotics
+
 ### Gram Reaction
 Hans Christian Gram (Danish physician) discovered grams in bacterial walls in 1884
 - **Crystal violet** stains cells purple  
 - Lugol’s iodine forms a complex with Crystal violet  
 - Gram-negative cells lose this complex when exposed to ethanol
 - Gram-positive cells retain purple complex  
-
 - Safranin counterstain Dyes Gram-negative cells red  
 - Counter stained Gram-positive cells stay purple
 
@@ -142,15 +178,17 @@ Hans Christian Gram (Danish physician) discovered grams in bacterial walls in 18
 	- N-acetylglucosamine (NAG)
 	- N-acetylmuramic acid  (NAM)
 		- NAM residues are cross-linked to peptides
+
 #### Gram-positive Cell Wall
 Single layer of peptidoglycan outside plasma membrane
+
 ##### Teichoic acids
 - Polymers of glycerol or ribitol joined by phosphate groups  
-- Wall teichoic acids – covalently linked to NAM residues of peptidoglycan  
+- Wall teichoic acids - covalently linked to NAM residues of peptidoglycan  
 
 ##### Lipoteichoic acids 
 - covalently linked to lipids in the plasma membrane 
-- Anchors cell wall to plasma membrane – maintains cell structure  
+- Anchors cell wall to plasma membrane - maintains cell structure  
 - Facilitates attachment of Gram-positive pathogens
 
 #### Gram-negative Cell Wall
@@ -180,7 +218,7 @@ Single layer of peptidoglycan outside plasma membrane
 - Stabilises outer membrane structure
 - Permeability barrier, restricting entry of antibiotics, detergents
 - Protects pathogenic bacteria from host defences
-- Lipid A portion – endotoxin 
+- Lipid A portion - endotoxin 
 
 #### Plasma Membrane
 - Prevents entry of hydrophilic and charged molecules
@@ -188,6 +226,7 @@ Single layer of peptidoglycan outside plasma membrane
 	- Similar to cholesterol
 	- Regulate membrane rigidity
 	- Permeability barrier
+
 ##### Fluid mosaic model
 - Bilayer of amphipathic phospholipids  
 - Outer surface of hydrophilic heads  
@@ -198,36 +237,39 @@ Single layer of peptidoglycan outside plasma membrane
 - Well organised layer that’s not easily washed off  
 - Mainly polysaccharide  
 - Some are made of protein  
-- Pathogens – attach to surfaces and resist phagocytosis  
+- Pathogens - attach to surfaces and resist phagocytosis  
 - Protect against desiccation (contain lots of water)
-### CYTOPLASM
 
-#### Nucleoid
+#### CYTOPLASM
+
+##### Nucleoid
 - Supercoiled into nucleoid structure with no nuclear membrane (allowing chromosomes to be longer than the cell)
 - Single (haploid) circular chromosome (dsDNA)
 - Encodes all the essential genes
 - Plasmids (dsDNA molecule independent of chromosome)
-#### Ribosomes
+
+##### Ribosomes
 - site of protein synthesis
 - Excluded from the nucleoid
 - Composed primarily of rRNA
 - Site of action of some antibiotics
 
-#### Inclusion Bodies
+##### Inclusion Bodies
 - Can take form of granules, crystals or globules
 - Serve as energy and nutrient reserves
 	-  Abundant under favourable conditions
 	- Carbon often stored as poly-β-hydroxybutyrate (PHB) inclusions
 	- Phosphate stored as polyphosphate granules
 
-#### Bacterial Endospores
+##### Bacterial Endospores
 - Dormant cells, formed within a mother cell
 - Form in response to environmental stress
 - Core surrounded by other layers
 - Extremely resistant to heat, UV radiation, chemical disinfectants, desiccation
-### APPENDAGES
 
-#### Flagella
+#### APPENDAGES
+
+##### Flagella
 - Allow bacteria to swim  
 	- Towards nutrients  
 	- Away from toxic substances  
@@ -236,32 +278,33 @@ Single layer of peptidoglycan outside plasma membrane
 	- Filament (made of flagellin protein)  
 	- Hook  
 	- Basal body
-##### Flagella Distribution Pattern
+
+###### Flagella Distribution Pattern
 - Monotrichous
 - Lopotrichous
 - Amphitrichous
 - Peritrichous
-#### Pili
+
+##### Pili
 - Pilus (Latin for hair)
 	- Fine appendages thinner and shorter than flagella  
 	- Grow by adding subunits of pilin protein to their base
 
 
 ## Week 3 Bacterial growth and Genetics
+![](https://i.imgur.com/5IQeekL.png)
 
 ### Bacterial growth and replication
 **Binary fission:**
 - Process results in two identical daughter cells  
 - Time to division depends on environmental factors and species  
 - Responsible for characteristic arrangement of cells  
-- Growth is exponential – 2, 4, 8, 16, 32, 64,  
+- Growth is exponential - 2, 4, 8, 16, 32, 64,  
 - Rapid growth allows rapid evolution of traits by mutation or recombination
 
 Bacterial growth starts with chromosome replication
 Septation/division follows
 
-*Bacterial growth rates in lab conditions*
-![Pasted image 20250203142156.png](/img/user/Pasted%20image%2020250203142156.png)
 Lag: inactivity
 stationary: equal replication and death rate
 
@@ -270,14 +313,12 @@ Can be measured directly or indirectly
 Direct:
 - Microscopy
 - Membrane filtration (mostly for water)
-- Plate counts and viable counts – aerobic or anaerobic
+- Plate counts and viable counts - aerobic or anaerobic
 
 Indirect:
 - [[Uni/Microbiology#Turbidity\|Turbidity]] using spectrophotometry
 - Biomass
-- Measuring cell products – C0
-
-"Are really showing presence or detecting organism by its growth" (????)
+- Measuring cell products - C0
 
 ##### The viable count
 Allows the approximate quantity of living organisms measured from a sample
@@ -289,25 +330,25 @@ Doesn't take into account viable but non-culturable organisms (underestimate)
 
 ##### Turbidity
 Bacterial Number can be estimated using spectroscopy.  
-When a growth curve is plotted using plate counts along with the optical density of a sample from a growing culture at 550 – 600 nm, bacterial number can be determined using only turbidity
+When a growth curve is plotted using plate counts and the optical density of a sample is high (550 - 600 nm) then the bacterial number can be determined using only turbidity
 
 ##### Growth can be used to identify an organism
-As bacterial cells grow they utilise nutrients or carbon sources in different ways and produce enzymes, allowing a metabolic fingerprint to be obtained (specific to the organism)  
+As bacterial cells grow they utilise nutrients/carbon sources in different ways producing enzymes, allowing a metabolic fingerprint to be obtained (specific to the organism)  
 
 Many systems developed to exploit differences:
-Manual –agar plates – biochemical tests  
-Mechanised – robotic biochemical assays  
+Manual -agar plates - biochemical tests  
+Mechanised - robotic biochemical assays  
 
 ### The bacterial chromosome
 - Double stranded circular DNA molecule
 - Condensed into the nucleiod
 - No nuclear membrane
-- Chromosome is unpaired – haploid
+- Chromosome is unpaired - haploid
 - Encodes all the genes required for essential cell functions
 
 #### Chromosome Replication
 Must happen for cell division
-- Replication is semi-conservative – each copy made contains one new (daughter) and one old strand (parent)  
+- Replication is semi-conservative - each copy made contains one new (daughter) and one old strand (parent)  
 - Replication starts from a specific site the Origin of Replication (ori C)  
 - Bi-directional  
 - Uses a large collection of enzymes - Replisome
@@ -318,9 +359,11 @@ Must happen for cell division
 - Efficient methods for genome sequencing available only from 1995  
 - whole genome “shotgun” sequencing  
 - Venter & Smith: 1st to sequence Haemophilus influenzae & Mycoplasma genitalium  
-- Now many available - whole genomes sequenced through automated processes – important strains  
+- Now many available - whole genomes sequenced through automated processes - important strains  
 
 ### Bacterial gene expression
+![](https://i.imgur.com/brwkY85.png)
+
 #### Operons  
 - Functionally linked genes are grouped together  
 - expression controlled by a single operator (called OPERONs)  
@@ -330,66 +373,68 @@ Must happen for cell division
 #### Control of gene expression  
 Controlled by proteins which regulate the rate of gene transcription: 
 - REPRESSORs (negative control - down regulate)  
-- ACTIVATORs (positive control – up regulate) 
-- REGULONs: a group of operons that is co-regulated – e.g. toxins 
+- ACTIVATORs (positive control - up regulate) 
+- REGULONs: a group of operons that is co-regulated - e.g. toxins 
 Can be specific proteins or products such as levels of catabolites - glucose  
 
 
-### Plasmids
+#### Plasmids
 
-Extra-chromosomal genetic elements that replicate independently from host chromosome and aren't essential for survival of the bacterium  
+Extra-chromosomal material replicated independently from host chromosome and aren't essential for survival  
 - Thousands of different plasmids exist  
 	- 300 isolated from strains of E. coli alone  
-	- Possible to make them in the lab – plasmid vectors for cloning
+	- Possible to make them in the lab - plasmid vectors for cloning
 
-#### Spread naturally by CONJUGATION  
-Replication is similar to chromosome replication and starts at origin of replication (ori V)
-Between a donor cell a recipient cell - sex pilus  
+##### Spread naturally by CONJUGATION  
+Replication is similar to chromosome replication and starts at the origin (ori V)
+Between a donor cell and recipient cell - sex pilus  
 Typically circular, DS and < 5% size of chromosomes - 1 to 5 x 105 bp  
 
 
-#### Medical importance of plasmids
-##### Antibiotic resistance  
+##### Medical importance of plasmids
+###### Antibiotic resistance  
 Aka R factors were first discovered in Japan in 1959
 Increase of R plasmids correlates with increasing use of antibiotics
 Usually enzymatic inactivation of the antibiotic:
-- β- lactamases – penicillin resistance  
+- β- lactamases - penicillin resistance  
 - Prevent uptake by modifying cell wall  
 
 
 ### Mutation and recombination
+![](https://i.imgur.com/e02m9FR.png)
+
 #### Mutation in bacterial genes  
-An inheritable change within a nucleotide (DNA) sequence. A bacterial strain carrying such a change is called a mutant. this can be:
-- spontaneous - natural radiation, errors during DNA replication  
-- induced - chemical mutagens
+An inheritable change within a nucleotide (DNA) sequence. This can be:
+- spontaneous  (natural radiation, errors during DNA replication)  
+- induced  (chemical mutagens)
+
 #### Types of mutation  
 - Point mutation - affects one base pair  
-- Insertion or deletion of large DNA fragment (due to a mobile element called a transposon)
-may result in loss of gene function  
+- Insertion or deletion of large DNA fragment  
 - Inversions and duplications
 
 #### Examples of mutations altering gene function  
-- Replacement of nucleotide resulting in amino acid substitution in a protein (missense)  
+- Replacement of nucleotide resulting in amino acid substitution in a protein (missense) 
 - Premature termination of protein synthesis (nonsense)  
-- Change in expression levels due changed regulation  
+- Change in expression levels due to changed regulation  
 	- deletions or insertions
 
 #### Recombination  
 - Genes in two separate bacterial cells brought together in one  
-- Occurs by transfer of genetic information between bacteria have a COMMON GENE POOL  
+- Occurs by transfer of genetic information between bacteria (COMMON GENE POOL)  
 - Swap genes through horizontal gene transfer  
 - Includes genes on plasmids  
-- Happens through – Transformation, Conjugation and transduction
+- Happens through - Transformation, Conjugation and transduction
 
 #### Transformation  
 - Uptake of pure (naked) DNA from medium surrounding cell  
 - Released into medium from lysed cells  
-- DNA must integrate into chromosome to transform recipient cell = Transformants  
-- Can be induced in the lab - Plasmids
+- DNA must integrate into chromosome to transform recipient cell (Transformants)  
+- Can be induced in the lab (Plasmids)
 
 #### Transduction  
 - DNA transferred cell to cell by Bacteriophages (bacterial viruses)  
-- Bacteriophage picks up partially degraded bacterial DNA instead of its own by mistake when making new virus – transducing phage  
+- Bacteriophage picks up partially degraded bacterial DNA by mistake, making new virus (Transducing phage)  
 - Not all bacteriophages can transduce and not all bacteria are transducible
 
 #### Conjugation  
@@ -398,9 +443,11 @@ may result in loss of gene function
 	- encode the sex pilus and other transfer genes (tra region) 
 	-  is the major mechanism of transfer of antibiotic resistance genes on R plasmids
 
-## Week 4 Terrestrial Microbiology Part 1
+## Week 4 Terrestrial Microbiology Part 1: Soil as a Habitat
+![](https://i.imgur.com/1JYANrs.png)
 
 ### Soil
+
 - Complex environment  
 - Variety of microhabitats  
 	- Pores in soil, plant roots, air & water pockets 
@@ -410,12 +457,12 @@ may result in loss of gene function
 #### Microorganisms in soil
 - Many microbes live in pores in soil  
 - Others are associated with plants:  
-	- Rhizoplane - on root surface  
-	- Rhizosphere - in close vicinity to root  
-	- Mycorrhizal fungi - symbiosis with plant  
+	- Rhizoplane (on root surface)  
+	- Rhizosphere (in close vicinity to root)  
+	- Mycorrhizal fungi (symbiosis with plant)  
 	- Give N & P to plant 
 	- Take organic C from plant  
-- Subsurface microbiota - microbial communities deep beneath the top-soil
+- Subsurface microbiota - (microbial communities deep beneath the top-soil)
 
 ##### Importance of soil microorganisms
 - Global geochemical cycle  
@@ -423,6 +470,7 @@ may result in loss of gene function
 - Production of Soil Organic Matter
 
 ### Types of soil
+![](https://i.imgur.com/KFBr4I8.png)
 Most of Earths soil is mineral soil (less than 20% carbon)
 \> 20% is organic soil
 
@@ -458,16 +506,130 @@ Microbes involved (covered in Part 2)
 Traditionally bacterial culture (only identified ~ 1% of community)
 Advances in technology allow us to sequence the DNA in environments by Focusing on small subunit ribosomal RNA (ssrRNA) or total DNA sequencing (metagenomics)
 
+## Week 4 Terrestrial Microbiology Part 2: Microbes in the soil
+![](https://i.imgur.com/lTkf9t9.png)
+
+#### Streptomyces
+- Gram positive  
+- Spore forming  
+- Filamentous bacteria  
+- Produces odour-causing compound “Geosmin”  
+- Important antibiotic producer  
+- e.g. tetracycline, erythromycin, chloramphenicol
+
+#### Pseudomonas  
+- Gram negative  
+- Straight or curved, motile rods  
+- Ecologically important in water & soil  
+- Degrade many soluble compounds  
+- from breakdown of plant & animal materials  
+- toxic substances (bioremediation)  
+- role in spoilage of food  
+- Some are pathogenic (P. aeruginosa)  
+- UTI, burns, cystic fibrosis  
+
+#### Bacillus  
+- Gram positive rod  
+- Spore former  
+- Range of species  
+- B. anthracis is cause of Anthrax  
+- Biological warfare agent  
+- B. cereus  
+- Food intoxication (rice)
+
+#### Cyanobacteria  
+- “Blue-green algae”  
+- Originally thought to be algae  
+- Cell structure is prokaryotic  
+- Determined by electron microscopy  
+- Extra layers to cell wall  
+- Found in soil, fresh & marine water  
+- Produce pigments to prevent damage to DNA by light
+
+##### Positive significance of Cyanobacteria  
+- Important contribution to CO2 fixation  
+- Use up to ½ CO2 in their environments  
+- Common in all aquatic environments  
+- Grow at or near the surface  
+- Require light & CO2  
+- Contribute to N2 fixation in aquatic environments
+
+##### Negative impact of Cyanobacteria
+- Gas vacuolate species  
+- Nuisance blooms in freshwater  
+- Mid-summer/autumn  
+- Float to surface & carried to shore  
+- Accumulation onshore, decay & odours  
+- Microcystis aeruginosa  
+- Toxic compounds  
+- Kill animals (cattle & dogs)  
+- Kill humans ingesting contaminated animals
+
+#### Other microbes in soil  
+- Bacteria, Archaea, Fungi & Protozoa  
+- Bacterial populations are high  
+- 109-1010 cells/g dry weight  
+- Fungi  
+- Several hundred metres of hyphae/g
+
+#### Mega fungi  
+- Armillaria bulbosa  
+- Tree roots in hardwood forests, Michigan  
+- Mycorrhizae spread over 30 acres  
+- Weighs 100 tons  
+- 1500 years old  
+- Among largest & most ancient organisms on earth  
+
+### Soil Microbes and Human Health  
+- Humans are in constant contact with soil (dirt)  
+- Direct contact or unwashed raw, leafy veg  
+- Can contain a variety of pathogens  
+- Need an entry point & optimal conditions in the human  
+- e.g. Clostridium  
+- Moulds associated with buildings
+
+#### Clostridium spp.
+- Gram positive  
+- Spore forming rods  
+- Strict anaerobes  
+- O2 kills vegetative cell  
+- Spores are resistant to O2  
+- Spores produced under anaerobic conditions  
+- \>120 species
+
+##### Diseases caused by Clostridium  
+- Wound & tissue infections  
+- Gas gangrene C. perfringens  
+- Tetanus C. tetani  
+- Food intoxication  
+- Perfringens C. perfringens  
+- Botulism C. botulinum  
+- Many due to release of exotoxins  
+- Botulinum toxin (Botulin) is the most potent microbial toxin known!
+
+### Soil use for new antibiotics  
+- New class of antibiotic isolated  
+- Teixobactin  
+- From previously uncharacterised bacteria  
+- Eleftheria terrae  
+- Identified using the iChip  
+- Effective against Gram positive bacteria  
+- In development currently
+
+## Week 5 Nutrition and Respiration
+### random information to start
+Cells are NCHOPS
+Most Abuntant Macromolecules: Proteins
+Cofactors And Enzymes Manipulate Internal Reactions
+        Cofactors can be classified into two types: prosthetic groups (inorganic) and coenzymes (organic)
+Glycolysis is a thing
+Krebs Cycle is also a thing
+Anaerobic less energy
+
+
+
+
 
 
 
 <center><sub>Done :)</sub></center>
-
-
-<script src="https://utteranc.es/client.js"
-        repo="WonderingGodling/My-Mind-Space"
-        issue-term="title"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
-</script>
