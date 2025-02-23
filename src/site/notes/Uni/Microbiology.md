@@ -5,12 +5,8 @@
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 
-# <center><span style="color:#76B1B4">Microbiology</span></center>
-<sub> [[Uni/Microbiology#week 2 Classification, structure and function of microbes\|Classification, structure and function of microbes]]
-[[Uni/Microbiology#Week 3 Bacterial growth and Genetics\|Bacterial growth and Genetics]]
-[[Uni/Microbiology#Week 4 Terrestrial Microbiology Part 1\|Terrestrial Microbiology Part 1]]
-[[Uni/Microbiology#Week 4 Terrestrial Microbiology Part 2\|Terrestrial Microbiology Part 2]]
-[[Uni/Microbiology#Week 5 Nutrition and Respiration\|Nutrition and Respiration]] </sub>
+# <center><span style="color:#D6B164">Microbiology</span></center>
+
 
 ## week 2 Classification, structure and function of microbes
 
@@ -595,7 +591,7 @@ Advances in technology allow us to sequence the DNA in environments by Focusing 
 - O2 kills vegetative cell  
 - Spores are resistant to O2  
 - Spores produced under anaerobic conditions  
-- >120 species
+- \>120 species
 
 ##### Diseases caused by Clostridium  
 - Wound & tissue infections  
@@ -619,7 +615,7 @@ Advances in technology allow us to sequence the DNA in environments by Focusing 
 ## Week 5 Nutrition and Respiration
 ### random information to start
 Cells are NCHOPS
-Most Abuntant MAcromolecules: Proteins
+Most Abuntant Macromolecules: Proteins
 Cofactors And Enzymes Manipulate Internal Reactions
         Cofactors can be classified into two types: prosthetic groups (inorganic) and coenzymes (organic)
 Glycolysis is a thing
@@ -636,12 +632,3 @@ Yeah this is mostly nothing but hes doing a fair job
 
 
 <center><sub>Done :)</sub></center>
-
-
-<script src="https://utteranc.es/client.js"
-        repo="WonderingGodling/My-Mind-Space"
-        issue-term="title"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
-</script>
