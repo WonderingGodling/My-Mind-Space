@@ -44,7 +44,7 @@ Based on the phylogenetic tree using the 16S rRNA
 
 (Being lazy, might make my own later)
 
-|                ​           | Bacteria       | Archaea        | Eukarya            |
+|            ^.^    ​           | Bacteria       | Archaea        | Eukarya            |
 | :--:                      | : ---:         | : --- :        | :---:              |
 | Histones                  | Naked          | Naked          | Associated         |
 | DNA  Shape                | Circular       | Circular       | Linear             |
