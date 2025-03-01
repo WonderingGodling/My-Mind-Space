@@ -5,7 +5,7 @@
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 
-# <center><span> style="color:#D6B164">Microbiology</span></center>
+# <center><span style="color:#D6B164">Microbiology</span></center>
 <sub> [[Uni/4BM024 Microbiology/Microbiology#week 2 Classification, structure and function of microbes\|Classification, structure and function of microbes]]
 [[Uni/4BM024 Microbiology/Microbiology#Week 3 Bacterial growth and Genetics\|Bacterial growth and Genetics]]
 [[Uni/4BM024 Microbiology/Microbiology#Week 4 Terrestrial Microbiology Part 1\|Terrestrial Microbiology Part 1]]
@@ -626,6 +626,205 @@ Glycolysis is a thing
 Krebs Cycle is also a thing
 Anaerobic less energy
 
+Actual Lesson:
+### Facts- bacterial nutrition & respiration  
+• Cells are primarily composed of the elements H, O, C, N, P and S.  
+• Proteins are the most abundant class of macromolecules in the cell.  
+• Apart from enzymes, some other compounds involved in controlling metabolic  
+as well as chemical reactions of a body are cofactors.  
+• Cofactors are non-protein chemical compounds which are termed helper  
+molecules. There are two types of cofactors viz coenzymes and prosthetic  
+groups.  
+• A nearly universal pathway for the catabolism of glucose is the Embden-  
+Meyerhof-Parnas pathway, also called Glycolysis.  
+• Krebs cycle is also called TCA cycle (tricarboxylic acid cycle) or Citric acid cycle.  
+• Anaerobic respiration transfers less energy than aerobic respiration.
+
+### Need for Nutrients  
+• Growth defined as increase in number of cells  
+• Reproduce by binary fission  
+• In order to grow, bacteria need nutrients to supply energy
+
+### Composition of a Microbial Cell  
+• Water: 70-80% of wet weight of the cell  
+• Macromolecules & their building blocks:  
+• Proteins: ................  
+• Nucleic acids:..........  
+• Lipids:................  
+• Polysaccharides:............  
+• Proteins: Around 55 % of cell dry weight
+
+### Nutritional Requirements  
+• Macronutrients vs. Micronutrients  
+• Macronutrients (CHNOPS) required in large amounts  
+• Essential elements for bacterial growth  
+• Carbon, nitrogen, phosphorus, sulphur, etc.  
+• P, S, K, Mg and Se combined less than 5% of cell dry weight
+
+### Micronutrients/Trace metals  
+• Required in very small amounts  
+• Function as cofactors for enzymes  
+• Iron: cellular respiration  
+• Boron, Chromium, Cobalt, Copper, Manganese, Molybdenum, Nickel,  
+Tungsten, Vanadium, Zinc  
+• Growth factors: mainly organic.  
+• E.g. vitamins which function as coenzymes; Nicotinic acid (Niacin) is  
+a precursor of NAD + ; Riboflavin is a precursor of FAD.
+
+### Types of Bacterial Nutrition  
+• Autotrophic Nutrition  
+• Manufactures organic materials  
+from inorganic raw material  
+• Photoautotrophs  
+• Bacteriochlorophyll (Purple bacteria)  
+• Chlorobium chlorophyll (Green S bacteria)  
+• Carotenoids  
+• Oxygen is not evolved
+
+### Autotrophic nutrition  
+
+#### Oxygenic Photosynthetic Bacteria  
+• They use H 2O as an electron donor and oxygen is produced in the reaction.  
+• They do not possess chloroplasts  
+• Photosynthetic pigments are present in the cytosol.  
+• 6CO 2 + 12H 2O + light energy → C 6H 12O 6 + 6O 2 + 6H 2O  
+• Cyanobacteria (blue-green algae) perform oxygenic photosynthesis.  
+
+#### Anoxygenic Photosynthetic Bacteria  
+• Most of the photosynthetic bacteria are anoxygenic  
+• They do not utilise water as an electron donor, instead, they use H 2S, H 2 or thiosulphate  as reducing agent and hydrogen sources.  
+• Photosynthetic pigment: Bacteriochlorophyll (Purple bacteria)  
+• Chlorobium chlorophyll (Green S bacteria)  
+• Oxygen is not evolved
+
+### Chemoautotrophs  
+• Produce their organic food from inorganic raw materials with the help of energy derived form exergonic  
+chemical reactions. They use this energy for their metabolic needs.  
+1. Sulphur oxidising bacteria e.g. Thiobacillus thioxidans oxidises sulphur to sulphate state:  
+2H2S + O2 → 2S + 2H2O + Energy  
+2. Nitrifying bacteria: e.g. Nitrosomonas and Nitrosococcus obtain energy by oxidising ammonia to nitrite  
+NH4+ + 2O2 → NO2  
+- + 2H2O + Energy  
+Nitrocystis and Nitrobacter oxidises nitrites to nitrates  
+NO2  
+- + O2 → 2NO3- + Energy  
+1. Iron Bacteria: Ferrobacillus obtain energy by oxidising ferrous compounds to ferric forms:  
+4FeCO3 + 6H2O + O2 → 4Fe(OH) 3 + 4CO2 + Energy  
+2. Methanomonas, oxidises methane into CO2 and H2O  
+CH4 + 2O2 → CO2 + 2H2O + Energy  
+3. Carbon monoxide bacterium: Carboxydomonas, oxidises CO to CO2 for obtaining energy  
+2CO + O2 → CO2 + Energy
+
+### Heterotrophic Nutrition
+Rely on others for their nutrition needs as they can’t manufacture their food  
+#### Saprophytes  
+• Feed on dead or decaying matter.  
+• Fungi, bacteria generally come under the category of saprophytes.  
+• Referred to as nature's scavengers because they feed on dead and decaying substances thus,  
+cleaning our earth.  
+• These organisms release enzymes that break down the dead bodies of animals and plant remains,  
+hence working as scavengers.  
+• They also release materials after the breakdown of organic matter that makes the soil fertile and  
+creates humus.  
+#### Parasites  
+• Parasitism is defined as the relationship between different species in which one organism lives on  
+or in the other organism and benefits from it by causing some harm.  
+• e.g. Vibrio cholerae, Clostridium tetani, Mycobacterium tuberculosis, Mycobacterium leprae,  
+Salmonella typhi
+####   Symbiotic  
+• Bacteria that live in a symbiotic relationship with other organisms.  
+• Like rhizobium bacteria associated with root nodules, both the host and the pathogen  
+benefit from the symbiotic interaction.  
+• Plants provide a safe haven for rhizobium bacteria, which assists plants in nitrogen  
+fixation.  
+• Rhizobium bacteria dwell in nodules or on the roots of legumes in the soil.  
+• They create a symbiotic relationship with the legume in the root nodule and benefit  
+from the plant's nutrients.  
+• As a result, nitrogen is produced for the process of nitrogen fixation, also known as  
+biological nitrogen-fixing.
+
+### Bacterial metabolism  
+• Carbon and energy are required for  
+– Cell structure  
+– Synthesis of enzymes, nucleic acids, polysaccharides,  
+phospholipids  
+– Maintenance and repair  
+– Growth and multiplication  
+– Transport  
+– Motility
+
+### High energy compounds  
+• Energy released from redox reactions is transferred  
+to phosphate compounds in the form of high  
+energy phosphate bonds  
+– Adenosine triphosphate (ATP)- ADP Cycle  
+• Main carrier generated during exergonic reactions  
+and used to drive endergonic reactions
+
+### Bacterial Growth Curve  
+• Lag phase, log phase, stationary phase, and death phase  
+• Factors influencing each phase  
+• Nutrition concentration.  
+• Temperature.  
+• pH.  
+• Gas conditions  
+• Water  
+• Osmotic pressure
+
+### Overview of Bacterial Respiration  
+Definition of respiration in bacteria  
+• Respiration is the chemical process by which organic compounds release  
+energy.  
+• The compounds change into different ones by exergonic reactions (Royal  
+Society of Biology).
+
+### Types of Respiration  
+
+#### Aerobic Respiration
+-  Cellular respiration that uses oxygen to produce energy from food
+Glucose + Oxygen → Carbon dioxide + Water + Energy
+
+#### Anaerobic Respiration
+- Cellular respiration does not use oxygen to produce energy
+Fermentation: Glucose → Alcohol + Carbon dioxide + Energy
+
+### Types of Bacterial Respiration  
+
+#### Aerobic: Occurs in the presence of oxygen  
+• Obligate aerobes: Can respire only aerobically e.g. Mycobacterium  
+tuberculosis, Bacillus subtilis.  
+• Facultative aerobes: Respire aerobically under normal conditions but  
+switch over to anaerobic mode of respiration if oxygen becomes deficient  
+e.g. Rhodopseudomonas.  
+
+#### Anaerobes: Occurs without oxygen  
+• Obligate anaerobes: Can respire only anaerobically e.g. Clostridium  
+botulinum.  
+• Facultative anaerobes: Respire anaerobically under normal conditions  
+but switch over to aerobic mode of respiration if oxygen becomes  
+available e.g. Escherichia coli.
+
+### Aerobic Respiration- Glycolysis  
+
+#### Catabolic or Anabolic?  
+• No oxygen required  
+- Although it doesn't require oxygen, hence  
+its purpose in anaerobic respiration, it is also  
+the first step in cellular respiration.  
+- In aerobic conditions, pyruvate enters the  
+citric acid cycle and undergoes oxidative  
+phosphorylation leading to the production of  
+more ATP molecules.  
+- In anaerobic conditions, pyruvate converts  
+to lactate through anaerobic glycolysis.  
+• Occurs in Cytoplasm  
+- Oxidative phosphorylation is a cellular  
+process that harnesses the reduction of  
+oxygen to generate high-energy phosphate  
+bonds in the form of adenosine  
+triphosphate (ATP)
+
+## week 6 Industrial Microbiology And Biotechnology
 
 
 

@@ -313,5 +313,129 @@ Maintaining a healthy lifestyle with regular exercise, a balanced diet, and soci
 ### Case Study  
 A 63-year-old woman presented with a 2-year history of repetitiveness, memory loss, and executive function loss beginning at age 58. This progressed to include word-finding difficulties, visuospatial skill decline, and impaired instrumental activities of daily living. Neuropsychological assessment revealed a Mini-Mental State Examination (MMSE) score of 14/30 at the initial visit, with poor verbal fluency, visuospatial, and executive skills. Brain MRI at age 58 showed mild generalized cortical atrophy. Based on these findings, a clinical diagnosis of early-onset Alzheimer disease (EOAD) was made. Treatment included cholinesterase inhibitors, which initially improved her MMSE score to 18/30. Later, memantine was added due to further cognitive decline (MMSE=13/30). She died at age 63 of pneumonia. A post-mortem examination confirmed the EOAD diagnosis, revealing numerous plaques and tangles, congophilic amyloid  angiopathy, and Lewy Body pathology in the amygdala. Genetic testing, conducted three years before her death, identified a novel PSEN2 mutation (L221T) and an apolipoprotein E (apoE) ε3/4 genotype
 
+# Week 6 Cardiovascular Disease
+
+### CASE STUDY 
+Mr Leon Brown, a 62-year-old male, presented at A&E with chest pain which started when he was running for a bus. Following a medical examination he was found to be overweight (body mass index 28 kg/m2), his blood pressure was 168/103 mmHg, and his total cholesterol levels 240 mg/dL (6.21 mmol/L). His ECG showed some signs of myocardial ischaemia, but no permanent cardiac damage. Mr Brown was diagnosed with stable angina and was offered lifestyle advice and support to help him lower his BP and cholesterol. He was prescribed GTN (to relieve chest pain), ramipril (to lower BP) and atorvastatin (to lower cholesterol). He was booked in for angiogram procedure to visualise the blood flow in the coronary arteries.
+
+### Coronary Circulation  
+- The heart gets blood through coronary arteries (from aorta)
+If flow is reduced you get Angina Pectoris and if it stops you get Myocardial Infarction
+
+Atherosclerosis in coronary arteries reduces flow
+
+#### 3 pathologic stages  
+1. The fatty streak  
+- No symptoms  
+2. Plaque progression  
+- Angina  
+3. Plaque disruption
+ - myocardial infarction
+
+##### The fatty streak  
+Endothelial injury – leads to its dysfunction  
+Physical stressors (E.g. high BP)  
+Chemical stressors  (E.g. smoking or high cholesterol)  
+![](https://i.imgur.com/QgVIQtb.png)
+
+##### Plaque Progression  
+![](https://i.imgur.com/y4A5Wrk.png)
+
+
+### Angina Pectoris
+- Chest pain  
+	- Most common symptom  
+	- Pain: dull, heavy, tight,  squeeze, or ache  
+	- Radiates:  
+		- Chest, arm or jaw  
+- Associated with:  
+	- SOB  
+	- Sweating  
+	- Nausea and vomiting
+
+![](https://i.imgur.com/fIllMJQ.png)
+Both cause [[myocardial ischaemia\|myocardial ischaemia]]
+
+### Diagnosis  
+#### Electrocardiogram - ECG  
+ST segment depression Due to ischaemia  
+His ECG showed some signs of [[myocardial ischaemia\|myocardial ischaemia]], but no permanent cardiac damage.
+
+#### Stress testing -  exercise  
+- Exercise on treadmill or cycle ergometer  
+- HR, BP & ECG monitored  
+- Aim for 85% of max HR  
+- Positive test  
+	- Angina pain develops  
+	- Ischaemic signs on ECG  
+		- ‘ST depression’  
+	- STOP test!
+##### Pharmacological and nuclear imaging
+- Inject a coronary vasodilator  
+	- Ischaemic regions already  maximally vasodilated so as other regions dilate they steal blood from the diseased areas  
+	- Areas that are poorly perfused do  not get as much of the radionucleotide which is injected –  look like a ‘cold spot’ on the image  
+- Inject a sympathomimetic  
+	- Activates adrenergic receptors  
+	- Increase force of contraction (inotropy) and heart rate (chronotropy) – mimics exercise  
+
+### Risk Factors for Developing CAD - Aetiology  
+![](https://i.imgur.com/2Y6FVgp.png)
+
+#### Smoking  
+\>1 pack a day increases the death rate from ischaemic heart disease by 200% through
+-  modification of LDL  
+- Endothelial dysfunction  
+- platelet adhesiveness  
+- Activation of sympathetic NS  
+#### Obesity  
+In the UK 1 in 6 deaths due to CVD are associated with a high body-mass index
+#### High blood pressure  
+5 x greater risk of IHD if BP >165/95 mmHg caused by
+-  wall stress – endothelial damage  
+-  foam cell formation  
+-  retention of LDL in vessel wall  
+
+#### Diabetes Mellitus  
+- Adults with diabetes are more 2-3 times more likely to develop  
+cardiovascular disease and People with diabetes are twice as likely to die from heart disease because of
+-  modification of LDL for macrophage uptake by High glucose
+-  foam cell formation  
+- More prone to thrombosis  
+- Endothelial dysfunction from damage by high blood glucose
+
+### Treatment of CAD  
+Treatment aims to:  
+- Reduce disease progression  
+- Improve myocardial blood flow (oxygen supply)  
+- Reduce myocardial work (oxygen demand)  
+- Match supply and demand
+
+#### Glyceryl Trinitrate (GTN)  
+Formation of nitric oxide  
+- Vascular smooth muscle relaxation  
+- Causes dilation of arteries and veins  
+- Reduces preload (myocardial O2 demand)  
+- Dilate coronary vasculature   
+- Incraese myocardial O2 supply
+
+#### Preventative Treatment: Reduce risk factors  
+- Angiotensin converting enzyme(ACE) inhibitors  
+Enhances vasodilation and diuresis  
+- Beta adrenergic receptors 
+- HMG-CoA reductase inhibitors (Statins)  
+Lower cholesterol levels  
+
+#### Surgical intervention: Angioplasty
+Coronary Artery Bypass Graft (CABG)
+- Blockage >50%  
+- No response to other  treatment  
+- Several arteries affected  
+
+Method  
+- Use a ‘spare’ vessel (E.g. Saphenous (leg) vein)  
+- Internal mammary artery  
+
+
+
 
 <center><sub>Done :)</sub></center>
