@@ -7,6 +7,7 @@
 
 # <center><span style="color:#666000">Agate Prop</span></center>
 
+![](https://i.imgur.com/RPjC0b5.png)
 
 
 
@@ -52,7 +53,7 @@
 | ------- | ------ | ---------------- |
 | unarmed | 3      | 1d4+3 bludgeonig |
 
-### [[Pacseholders's Spells\|Pacseholders's Spells]]
+### [[Agates's Spells\|Agates's Spells]]
 
 | Constitution |   11  |   3  |
 | ------------ | --- | --- |
@@ -61,6 +62,7 @@
 
 Money: 
 Inventory: old school crest on a scalf, https://docs.google.com/document/d/1DP1iJdNnFgXNk43-MeXytUBl7E277Fp6xR-v3QsC-og/edit?tab=t.0#heading=h.mmrkbvkue8vs, 20 darts, chain shirt, sheild
+[[Agate's Sketches\|Agate's Sketches]]
 # Extra
 Resistances: 
 Advantage: 
@@ -72,10 +74,11 @@ Conditions:
 		
 Armor:  Shields and light/ medium armour
 Weapons: : Simple ranged and melee weapons
-Tools:  two artisian tools 
+Tools:  glAssblower, Cooks
 Languages: common
 
 # Notes: 
+[[Attentiveness\|Attentiveness]]
 [[adrenaline rush\|adrenaline rush]]
 [[Geigermin#Radioactive aura\|Radioactive Aura]] 
 [[Geigermin#Glowing skin\|Glowing Skin]]
