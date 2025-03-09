@@ -11,10 +11,10 @@
 
 
 ## General
- Race:  [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Venti/Reborn\|Reborn]] [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Anubis/Githyanki\|Githyanki]]
- Class: [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Anubis/Path of the ascended\|Path of the ascended]] [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Anubis/Mist Walker\|Mist Walker]] 4
+ Race:  [[Skull/Concentrated Brain/Dnd/Terminology/Reborn\|Reborn]] [[Skull/Concentrated Brain/Dnd/Terminology/Githyanki\|Githyanki]]
+ Class: [[Skull/Concentrated Brain/Dnd/Terminology/Path of the ascended\|Path of the ascended]] [[Skull/Concentrated Brain/Dnd/Mine/Mist Walker\|Mist Walker]] 4
  Alignment: True Neutral 
- Background: [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Anubis/Rakdos Cultist\|Rakdos Cultist]]
+ Background: [[Skull/Concentrated Brain/Dnd/Terminology/Rakdos Cultist\|Rakdos Cultist]]
 
 
 ## Stats
@@ -52,11 +52,38 @@
 | ------ | ------ | ------ |
 | Whip   | +3    | 1d4+3 Slashing     |
 
-### [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Anubis/Anubis' Spells\|Anubis' Spells]]
+### Anubis' Spells
 
 | Constitution | 15  | 7   |
 | ------------ | --- | --- |
+
 Mist points: 4/4
+
+[[Skull/Concentrated Brain/Dnd/Terminology/Prestidigitation\|Prestidigitation]] 10 
+[[Skull/Concentrated Brain/Dnd/Terminology/Shocking grasp\|Shocking grasp]] 0 
+[[Skull/Concentrated Brain/Dnd/Terminology/Mage hand\|Mage hand]] 30 
+[[Skull/Concentrated Brain/Dnd/Mine/Fire Bolt\|Fire Bolt]] 120 
+[[Skull/Concentrated Brain/Dnd/Terminology/Vicious Mockery\|Vicious Mockery]] 60 
+[[Skull/Concentrated Brain/Dnd/Terminology/Poison Spray\|Poison Spray]]  10
+
+[[Skull/Concentrated Brain/Dnd/Mine/Magic missile\|Magic missile]] 120
+[[Skull/Concentrated Brain/Dnd/Terminology/Silvery barbs\|Silvery barbs]] 60 R
+[[Skull/Concentrated Brain/Dnd/Terminology/Healing Elixir\|Healing Elixir]] X
+[[Burning Hands \|Burning Hands ]] 15
+[[Dissonant Whispers \|Dissonant Whispers ]] 60
+[[Skull/Concentrated Brain/Dnd/Terminology/Hellish Rebuke\|Hellish Rebuke]] 60 R
+
+
+[[Skull/Concentrated Brain/Dnd/Terminology/Wither and Bloom\|Wither and Bloom]] 60
+[[Skull/Concentrated Brain/Dnd/Terminology/Misty Step\|Misty Step]] 30 B
+[[Skull/Concentrated Brain/Dnd/Terminology/Knock\|Knock]] 60
+[[Skull/Concentrated Brain/Dnd/Terminology/Crown of Madness\|Crown of Madness]] 120
+[[Skull/Concentrated Brain/Dnd/Terminology/Enthrall\|Enthrall]] 60
+[[Skull/Concentrated Brain/Dnd/Terminology/Flaming Sphere\|Flaming Sphere]] 60
+
+[[Skull/Concentrated Brain/Dnd/Terminology/Fear\|Fear]] 30
+[[Skull/Concentrated Brain/Dnd/Terminology/Haste\|Haste]] 30
+[[Skull/Concentrated Brain/Dnd/Terminology/Fireball\|Fireball]] 150
 # Inventory
 
 Money: 10, a mix of Azorius and Boros 1-zino coins
@@ -90,20 +117,20 @@ Rakdos Guild Spells
 	Fire Bolt, Vicious Mockery, Burning Hands, Dissonant Whispers, Hellish Rebuke, Crown of Madness, Enthrall, Flaming Sphere
 
 Githyanki Psionics
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Anubis/Mage hand\|Mage Hand]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Anubis/Githyanki#Psychic Resilience.\|Psychic Resilience]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Venti/Reborn#Deathless Nature\|Deathless nature]]
+	[[Skull/Concentrated Brain/Dnd/Terminology/Mage hand\|Mage hand]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Githyanki#Psychic Resilience.\|Psychic Resilience]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Reborn#Deathless Nature\|Deathless nature]]
 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Anubis/Mist Walker#Mist walk\|Mist walk]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Anubis/Mist Walker#Shroud of mist\|Shroud Of Mist]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Anubis/Mist Walker#Spellcasting\|Spellcasting]]
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Anubis/Mist Walker#Mist breath\|Mist Breath]] 10ft
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Anubis/Mist Walker#Misty path\|Misty path]]
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Anubis/Mist Walker#Path of the ascended\|Path of the ascended]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Anubis/Mist Walker#Mist manipulation\|Mist manipulation]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Anubis/Mist Walker#Mist sight\|Mist sight]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Anubis/Mist Walker#Hand of the mist\|Hand of the mist]]
+[[Skull/Concentrated Brain/Dnd/Mine/Mist Walker#Mist walk\|Mist walk]]
+[[Skull/Concentrated Brain/Dnd/Mine/Mist Walker#Shroud of mist\|Shroud Of Mist]]
+[[Skull/Concentrated Brain/Dnd/Mine/Mist Walker#Spellcasting\|Spellcasting]]
+	[[Skull/Concentrated Brain/Dnd/Mine/Mist Walker#Mist breath\|Mist Breath]] 10ft
+[[Skull/Concentrated Brain/Dnd/Mine/Mist Walker#Misty path\|Misty path]]
+	[[Skull/Concentrated Brain/Dnd/Mine/Mist Walker#Path of the ascended\|Path of the ascended]]
+[[Skull/Concentrated Brain/Dnd/Mine/Mist Walker#Mist manipulation\|Mist manipulation]]
+[[Skull/Concentrated Brain/Dnd/Mine/Mist Walker#Mist sight\|Mist sight]]
+[[Skull/Concentrated Brain/Dnd/Mine/Mist Walker#Hand of the mist\|Hand of the mist]]
 
 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Vital Sacrifice\|Vital Sacrifice]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Anubis/Remarkable Recovery\|Remarkable Recovery]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Vital Sacrifice\|Vital Sacrifice]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Remarkable Recovery\|Remarkable Recovery]]

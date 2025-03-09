@@ -12,10 +12,10 @@
 
 
 ## General
- Race:  [[Geigermin\|Geigermin]]
+ Race:  [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin\|Geigermin]]
  Class: [[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User\|Curse User]] 3
  Alignment: True Neutral
- Background:  [[Valedictorian Backgound\|Valedictorian]] 
+ Background:  [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Valedictorian Backgound\|Valedictorian]] 
 
 
 ## Stats
@@ -53,7 +53,7 @@
 | ------- | ------ | ---------------- |
 | unarmed | 3      | 1d4+3 bludgeonig |
 
-### [[Agates's Spells\|Agates's Spells]]
+### [[Skull/Concentrated Brain/Dnd/Grims Stuff/Agate And Katrina/Agates's Spells\|Agates's Spells]]
 
 | Constitution |   11  |   3  |
 | ------------ | --- | --- |
@@ -62,7 +62,7 @@
 
 Money: 
 Inventory: old school crest on a scalf, https://docs.google.com/document/d/1DP1iJdNnFgXNk43-MeXytUBl7E277Fp6xR-v3QsC-og/edit?tab=t.0#heading=h.mmrkbvkue8vs, 20 darts, chain shirt, sheild
-[[Agate's Sketches\|Agate's Sketches]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Agate And Katrina/Agate's Sketches\|Agate's Sketches]]
 # Extra
 Resistances: 
 Advantage: 
@@ -78,12 +78,12 @@ Tools:  glAssblower, Cooks
 Languages: common
 
 # Notes: 
-[[Attentiveness\|Attentiveness]]
-[[adrenaline rush\|adrenaline rush]]
-[[Geigermin#Radioactive aura\|Radioactive Aura]] 
-[[Geigermin#Glowing skin\|Glowing Skin]]
-[[Geigermin#Melted internals\|Melted Internals]]
-[[Valedictorian Backgound#top of your class\|Top Of Your Class]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Attentiveness\|Attentiveness]]
+[[Skull/Concentrated Brain/Dnd/Terminology/adrenaline rush\|adrenaline rush]]
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Radioactive aura\|Radioactive Aura]] 
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Glowing skin\|Glowing Skin]]
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Melted internals\|Melted Internals]]
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Valedictorian Backgound#top of your class\|Top Of Your Class]]
 Energy: 3
 Martial arts (d4)
 Cursed Energy (3)

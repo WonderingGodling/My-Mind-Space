@@ -12,10 +12,10 @@
 
 
 ## General
- Race:  [[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Simic Hybrid\|Simic Hybrid]]
- Class:  [[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Battle Smith\|Battle Smith]] [[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Artificer\|Artificer]] 2
+ Race:  [[Skull/Concentrated Brain/Dnd/Terminology/Simic Hybrid\|Simic Hybrid]]
+ Class:  [[Skull/Concentrated Brain/Dnd/Terminology/Battle Smith\|Battle Smith]] [[Skull/Concentrated Brain/Dnd/Terminology/Artificer\|Artificer]] 2
  Alignment: Lawful Neutral
- Background: [[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Shipwright\|Shipwright]] 
+ Background: [[Skull/Concentrated Brain/Dnd/Terminology/Shipwright\|Shipwright]] 
 
 ## Stats
 
@@ -55,11 +55,18 @@
 |    light crossbow     |   +3   |   1d8+3 piercing    |
 |    revolver 40/60     |   +3   |                     |
 
-### [[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Raven's Spells\|Raven's Spells]]
+## Spells
 
-| Inteligence |  5  | 13  |
-| :---------: | :-: | :-: |
-### [[Raven's Bodyguard\|Raven's Bodyguard]]
+## Cantrips
+[[Skull/Concentrated Brain/Dnd/Terminology/Mending\|Mending]] X  M
+[[Skull/Concentrated Brain/Dnd/Terminology/Message\|Message]]  120 M
+
+## 1st (2)
+[[Skull/Concentrated Brain/Dnd/Terminology/Alarm\|Alarm]] 30 x M
+[[Detect Magic \|Detect Magic ]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Identify\|Identify]] x M
+[[Skull/Concentrated Brain/Dnd/Terminology/Purify Food And Drink\|Purify Food And Drink]] 10 
+### [[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Raven's Bodyguard\|Raven's Bodyguard]]
 
 # Inventory
 
@@ -82,25 +89,25 @@ Languages: Common, Elven
 
 # Notes: 
 
-[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Shared Bloodline\|Shared Bloodline]]
-	[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Poisonous Skin\|Poisonous Skin]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Shared Bloodline\|Shared Bloodline]]
+	[[Skull/Concentrated Brain/Dnd/Terminology/Poisonous Skin\|Poisonous Skin]]
 
-[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Simic Hybrid#**Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.\|Darkvision]] 60
-[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Simic Hybrid#**Animal Enhancements.** Your body has been altered with animal characteristics. You choose one animal enhancement now and one at 5th level.\|Animal Hybrid]]
-	[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Simic Hybrid#**Underwater Adaptation (1st level).** You can breathe air and water, and you gain a swim speed equal to your walking speed.\|Underwater Adaptation]]
-	[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Simic Hybrid#**Acid Spit (5th level).** As an action, you can spray acid from glands in your mouth, targeting one creature or object you can see within 30 feet of you. The target must make a Dexterity saving throw against a DC of 8 + you proficiency bonus + your Constitution modifier. The target takes 2D10 acid damage if they fail. The damage increases to 3D10 at 11th level and 4D10 at 17th level. You can use this up to your Constitution modifier's worth of times per long rest.\|Acid Spit]] (5th Level)	
+[[Skull/Concentrated Brain/Dnd/Terminology/Simic Hybrid#**Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.\|Darkvision]] 60
+[[Skull/Concentrated Brain/Dnd/Terminology/Simic Hybrid#**Animal Enhancements.** Your body has been altered with animal characteristics. You choose one animal enhancement now and one at 5th level.\|Animal Hybrid]]
+	[[Skull/Concentrated Brain/Dnd/Terminology/Simic Hybrid#**Underwater Adaptation (1st level).** You can breathe air and water, and you gain a swim speed equal to your walking speed.\|Underwater Adaptation]]
+	[[Skull/Concentrated Brain/Dnd/Terminology/Simic Hybrid#**Acid Spit (5th level).** As an action, you can spray acid from glands in your mouth, targeting one creature or object you can see within 30 feet of you. The target must make a Dexterity saving throw against a DC of 8 + you proficiency bonus + your Constitution modifier. The target takes 2D10 acid damage if they fail. The damage increases to 3D10 at 11th level and 4D10 at 17th level. You can use this up to your Constitution modifier's worth of times per long rest.\|Acid Spit]] (5th Level)	
 
-[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Artificer#Magical Tinkering\|Magical Tinkering]]
-[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Artificer#Infuse Item\|infuse Item]]
-	[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Artificer Infusions#\| Returning Weapon]]
-	[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Artificer Infusions#Enhanced Defense\|Enhanced Defence]]
-	[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Artificer Infusions#Enhanced Arcane Focus\|Enhanced Arcane Focus]]
-	[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Artificer Infusions#Armor of Magical Strength\|Armor of Magical Strength]]
-[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Artificer#The Right Tool for the Job\|Artificer#The Right Tool for the Job]]
-[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Battle Smith#Tool Proficiency\|Battle Smith#Tool Proficiency]]
-[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Battle Smith#Battle Smith Spells\|Battle Smith#Battle Smith Spells]]
-[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Battle Smith#Battle Ready\|Battle Smith#Battle Ready]]
-[[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Battle Smith#Steel Defender\|Battle Smith#Steel Defender]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Artificer#Magical Tinkering\|Magical Tinkering]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Artificer#Infuse Item\|infuse Item]]
+	[[Skull/Concentrated Brain/Dnd/Terminology/Artificer Infusions#\| Returning Weapon]]
+	[[Skull/Concentrated Brain/Dnd/Terminology/Artificer Infusions#Enhanced Defense\|Enhanced Defence]]
+	[[Skull/Concentrated Brain/Dnd/Terminology/Artificer Infusions#Enhanced Arcane Focus\|Enhanced Arcane Focus]]
+	[[Skull/Concentrated Brain/Dnd/Terminology/Artificer Infusions#Armor of Magical Strength\|Armor of Magical Strength]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Artificer#The Right Tool for the Job\|Artificer#The Right Tool for the Job]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Battle Smith#Tool Proficiency\|Battle Smith#Tool Proficiency]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Battle Smith#Battle Smith Spells\|Battle Smith#Battle Smith Spells]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Battle Smith#Battle Ready\|Battle Smith#Battle Ready]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Battle Smith#Steel Defender\|Battle Smith#Steel Defender]]
 
 # Characteristics 
 

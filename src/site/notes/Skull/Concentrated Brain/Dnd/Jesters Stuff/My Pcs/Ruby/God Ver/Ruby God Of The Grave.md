@@ -14,9 +14,9 @@
 
 ## General
  Race:  Aasimar
- Class: [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Bloodhunter\|Bloodhunter]] ([[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Ghostslayer\|Ghostslayer]]) 20 [[Fighter\|Fighter]] 2
+ Class: [[Skull/Concentrated Brain/Dnd/Terminology/Bloodhunter\|Bloodhunter]] ([[Skull/Concentrated Brain/Dnd/Terminology/Ghostslayer\|Ghostslayer]]) 20 [[Fighter\|Fighter]] 2
  Alignment: Chaotic Good
- Background: [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Folk Hero\|Folk Hero]]
+ Background: [[Skull/Concentrated Brain/Dnd/Terminology/Folk Hero\|Folk Hero]]
 
 
 ## Stats
@@ -73,9 +73,9 @@ Free
 
 | **Cantrip** | [[Light\|Light]]              |                   |
 | ----------- | ---------------------- | ----------------- |
-| **1st**     | [[thunderwave\|thunderwave]]        | [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Anubis/Burning Hands\|Burning Hands]] |
-| **2nd**     | [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Rime's Binding Ice\|Rime's Binding Ice]] |                   |
-| **3rd**     | [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Counterspell\|Counterspell]]       |                   |
+| **1st**     | [[thunderwave\|thunderwave]]        | [[Skull/Concentrated Brain/Dnd/Terminology/Burning Hands\|Burning Hands]] |
+| **2nd**     | [[Skull/Concentrated Brain/Dnd/Terminology/Rime's Binding Ice\|Rime's Binding Ice]] |                   |
+| **3rd**     | [[Skull/Concentrated Brain/Dnd/Terminology/Counterspell\|Counterspell]]       |                   |
 
 
 # Inventory
@@ -101,68 +101,68 @@ Languages: Common & Celestial
 # Notes: 
 
 [[Skull/Concentrated Brain/Dnd/Terminology/Darkvision\|Darkvision]] 60
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Celestial Resistance\|Celestial Resistance]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Healing Hands\|Healing Hands]] 9d4
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Light Bearer\|Light Bearer]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Celestial Revelation\|Celestial Revelation]]
-    [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Radiant Soul\|Radiant Soul]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Celestial Resistance\|Celestial Resistance]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Healing Hands\|Healing Hands]] 9d4
+[[Skull/Concentrated Brain/Dnd/Terminology/Light Bearer\|Light Bearer]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Celestial Revelation\|Celestial Revelation]]
+    [[Skull/Concentrated Brain/Dnd/Terminology/Radiant Soul\|Radiant Soul]]
 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Rustic Hospitality\|Rustic Hospitality]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Rustic Hospitality\|Rustic Hospitality]]
 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Hunter's Bane\|Hunter's Bane]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Blood Maledict\|Blood Maledict]] 5
-    [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Blood Curse of Binding\|Blood Curse of Binding]]
-    [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Blood Curse of the Marked\|Blood Curse of the Marked]]
-    [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Blood Curse of Exposure\|Blood Curse of Exposure]]
-    [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Blood Curse of the Fallen Puppet\|Blood Curse of the Fallen Puppet]]
-    [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Blood Curse of the Exorcist\|Blood Curse of the Exorcist]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Fighting Style\|Fighting Style]]
-    [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Great Weapon Fighting\|Great Weapon Fighting]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Crimson Rite\|Crimson Rite]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Hunter's Bane\|Hunter's Bane]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Blood Maledict\|Blood Maledict]] 5
+    [[Skull/Concentrated Brain/Dnd/Terminology/Blood Curse of Binding\|Blood Curse of Binding]]
+    [[Skull/Concentrated Brain/Dnd/Terminology/Blood Curse of the Marked\|Blood Curse of the Marked]]
+    [[Skull/Concentrated Brain/Dnd/Terminology/Blood Curse of Exposure\|Blood Curse of Exposure]]
+    [[Skull/Concentrated Brain/Dnd/Terminology/Blood Curse of the Fallen Puppet\|Blood Curse of the Fallen Puppet]]
+    [[Skull/Concentrated Brain/Dnd/Terminology/Blood Curse of the Exorcist\|Blood Curse of the Exorcist]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Fighting Style\|Fighting Style]]
+    [[Skull/Concentrated Brain/Dnd/Terminology/Great Weapon Fighting\|Great Weapon Fighting]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Crimson Rite\|Crimson Rite]]
      Necrotic
      Cold
      Radiance
      Psychic
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Rite Focus\|Rite Focus]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Rite Focus\|Rite Focus]]
         The Grave
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Extra Attack\|Extra Attack]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Brand of Castigation\|Brand of Castigation]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Aether Walk\|Aether Walk]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Revealed Arcana\|Revealed Arcana]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Grim Psychometry\|Grim Psychometry]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Rime's Binding Ice\|Rime's Binding Ice]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Mystic Frenzy\|Mystic Frenzy]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Dark Augmentation\|Dark Augmentation]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Brand of the Sapping Scar\|Brand of the Sapping Scar]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Unsealed Arcana\|Unsealed Arcana]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Counterspell\|Counterspell]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Brand of Sundering\|Brand of Sundering]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Brand of Tethering\|Brand of Tethering]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Hardened Soul\|Hardened Soul]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Rite Revival\|Rite Revival]]
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Blood Curse of the Souleater (Feature)\|Blood Curse of the Souleater (Feature)]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Sanguine Mastery\|Sanguine Mastery]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Extra Attack\|Extra Attack]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Brand of Castigation\|Brand of Castigation]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Aether Walk\|Aether Walk]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Revealed Arcana\|Revealed Arcana]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Grim Psychometry\|Grim Psychometry]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Rime's Binding Ice\|Rime's Binding Ice]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Mystic Frenzy\|Mystic Frenzy]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Dark Augmentation\|Dark Augmentation]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Brand of the Sapping Scar\|Brand of the Sapping Scar]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Unsealed Arcana\|Unsealed Arcana]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Counterspell\|Counterspell]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Brand of Sundering\|Brand of Sundering]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Brand of Tethering\|Brand of Tethering]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Hardened Soul\|Hardened Soul]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Rite Revival\|Rite Revival]]
+	[[Skull/Concentrated Brain/Dnd/Terminology/Blood Curse of the Souleater (Feature)\|Blood Curse of the Souleater (Feature)]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Sanguine Mastery\|Sanguine Mastery]]
 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Blind Fighting\|Blind Fighting]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Second Wind\|Second Wind]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Action Surge\|Action Surge]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Blind Fighting\|Blind Fighting]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Second Wind\|Second Wind]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Action Surge\|Action Surge]]
 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Boon of Irresistible Offense\|Boon of Irresistible Offense]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Boon of Magic Resistance\|Boon of Magic Resistance]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Boon of Recovery\|Boon of Recovery]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Boon of Resilience\|Boon of Resilience]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Boon of the Fire Soul\|Boon of the Fire Soul]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Boon of the Stormborn\|Boon of the Stormborn]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Boon of Fortitude\|Boon of Fortitude]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Boon of Quick Casting\|Boon of Quick Casting]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Boon of Irresistible Offense\|Boon of Irresistible Offense]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Boon of Magic Resistance\|Boon of Magic Resistance]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Boon of Recovery\|Boon of Recovery]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Boon of Resilience\|Boon of Resilience]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Boon of the Fire Soul\|Boon of the Fire Soul]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Boon of the Stormborn\|Boon of the Stormborn]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Boon of Fortitude\|Boon of Fortitude]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Boon of Quick Casting\|Boon of Quick Casting]]
 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Tough\|Tough]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Resilient\|Resilient]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Savage Attacker\|Savage Attacker]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Vital Sacrifice\|Vital Sacrifice]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Slasher\|Slasher]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Tough\|Tough]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Resilient\|Resilient]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Savage Attacker\|Savage Attacker]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Vital Sacrifice\|Vital Sacrifice]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Slasher\|Slasher]]
 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Ruby/God Ver/Six Feet Under\|Six Feet Under]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Six Feet Under\|Six Feet Under]]
 
 
 

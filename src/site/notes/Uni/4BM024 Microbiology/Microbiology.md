@@ -10,7 +10,10 @@
 [[Uni/4BM024 Microbiology/Microbiology#Week 3 Bacterial growth and Genetics\|Bacterial growth and Genetics]]
 [[Uni/4BM024 Microbiology/Microbiology#Week 4 Terrestrial Microbiology Part 1\|Terrestrial Microbiology Part 1]]
 [[Uni/4BM024 Microbiology/Microbiology#Week 4 Terrestrial Microbiology Part 2\|Terrestrial Microbiology Part 2]]
-[[Uni/4BM024 Microbiology/Microbiology#Week 5 Nutrition and Respiration\|Nutrition and Respiration]] </sub>
+[[Uni/4BM024 Microbiology/Microbiology#Week 5 Nutrition and Respiration\|Nutrition and Respiration]] [[Uni/4BM024 Microbiology/Microbiology#week 6 Industrial Microbiology And Biotechnology\|Microbiology And Biotechnology]] 
+[[Uni/4BM024 Microbiology/Microbiology#week 7 Marine Microbiology\|Marine Microbiology]] 
+[[Uni/4BM024 Microbiology/Microbiology#week 8\|Week 8]] 
+[[Uni/4BM024 Microbiology/Microbiology#Definitions\|Definitions]]</sub>
 
 ## week 2 Classification, structure and function of microbes
 
@@ -20,7 +23,7 @@
 
 
 #### Three-Domain System
-Based on the phylogenetic tree using the 16S rRNA
+Proposed by Woese and Fox in 1977 and based on the [[Uni/4BM024 Microbiology/Microbiology#phylogenetic tree\|phylogenetic tree]] using the 16[[Uni/4BM024 Microbiology/Microbiology#Svedberg (S)\|s]]  [[Uni/4BM024 Microbiology/Microbiology#ribosomal RNA (rRNA)\|rRNA]] 
  [[Uni/4BM024 Microbiology/Microbiology#The Bacteria (eubacteria)\|Bacteria]],  [[Uni/4BM024 Microbiology/Microbiology#The Archaea (archaebacteria)\|Archaea]], [[Uni/4BM024 Microbiology/Microbiology#The Eukarya (eukaryotes)\|Eukarya]]
 
 #### Prokaryotes
@@ -31,7 +34,7 @@ Based on the phylogenetic tree using the 16S rRNA
 
 ##### The Archaea (archaebacteria)
 - Live in extreme harsh environments
-- Membranes- ranched fatty acid chains
+- Membranes- branched fatty acid chains
 	- Ether bonded to glycerol
 
 #### Eukaryotes
@@ -41,8 +44,6 @@ Based on the phylogenetic tree using the 16S rRNA
 - Some have cell walls
 - Protists- unicellular
 - Fungi- unicellular or multicellular
-
-(Being lazy, might make my own later)
 
 |       Features    ​        |    Bacteria    |    Archaea     |      Eukarya       |
 |:-------------------------:|:--------------:|:--------------:|:------------------:|
@@ -61,11 +62,11 @@ Based on the phylogenetic tree using the 16S rRNA
 
 
 ### Classification
-| Classical Characteristics |                      Molecular                       |
-|:-------------------------:|:----------------------------------------------------:|
-|        Morphology         |   Compare genomes to estimate taxonomic similarity   |
-|        Physiology         | rRNA  from small ribosomal  subunits  (18=eukaryote) |
-|       Biochemistry        |                                                      |
+| Classical Characteristics |                                         Molecular                                          |
+| :-----------------------: | :----------------------------------------------------------------------------------------: |
+|        Morphology         |                      Compare genomes to estimate taxonomic similarity                      |
+|        Physiology         | rRNA from small ribosomal  subunits  (18=eukaryote) |
+|       Biochemistry        |                                                                                            |
 
 #### Colitis (Clostridium difficile)
 - Gram positive
@@ -107,7 +108,8 @@ Based on the phylogenetic tree using the 16S rRNA
 - Fungi
 - Transmitted via infected skin, the environment, animals
 
-### VIRUSES
+### VIRUSES ![](https://i.imgur.com/icw8AhD.png)
+
 - Not alive
 - Exist in and out of cells
 - Extracellular virus:
@@ -116,10 +118,7 @@ Based on the phylogenetic tree using the 16S rRNA
 - intracellular virus:
 	- Act as nucleic acids making host cells simulate viral components
 
-#### Commonly used word(ending)s
-"Virus": viridae, virinae, virus
-"Single Stranded": ssDNA
-"Double Stranded": dsDNA
+ "viridae", "virinae", and "virus" are common in names for viruses 
 
 #### PANDEMIC VIRUSES
 
@@ -244,14 +243,14 @@ Single layer of peptidoglycan outside plasma membrane
 
 ##### Nucleoid
 - Supercoiled into nucleoid structure with no nuclear membrane (allowing chromosomes to be longer than the cell)
-- Single (haploid) circular chromosome (dsDNA)
+- Single (haploid) circular chromosome ([[Uni/4BM024 Microbiology/Microbiology#dsDNA\|dsDNA]])
 - Encodes all the essential genes
-- Plasmids (dsDNA molecule independent of chromosome)
+- Plasmids ([[Uni/4BM024 Microbiology/Microbiology#dsDNA\|dsDNA]] molecule independent of chromosome)
 
 ##### Ribosomes
 - site of protein synthesis
 - Excluded from the nucleoid
-- Composed primarily of rRNA
+- Composed primarily of  [[Uni/4BM024 Microbiology/Microbiology#ribosomal RNA (rRNA)\|rRNA]] 
 - Site of action of some antibiotics
 
 ##### Inclusion Bodies
@@ -628,77 +627,73 @@ Anaerobic less energy
 
 Actual Lesson:
 ### Facts- bacterial nutrition & respiration  
-• Cells are primarily composed of the elements H, O, C, N, P and S.  
-• Proteins are the most abundant class of macromolecules in the cell.  
-• Apart from enzymes, some other compounds involved in controlling metabolic  
-as well as chemical reactions of a body are cofactors.  
-• Cofactors are non-protein chemical compounds which are termed helper  
-molecules. There are two types of cofactors viz coenzymes and prosthetic  
-groups.  
-• A nearly universal pathway for the catabolism of glucose is the Embden-  
-Meyerhof-Parnas pathway, also called Glycolysis.  
-• Krebs cycle is also called TCA cycle (tricarboxylic acid cycle) or Citric acid cycle.  
-• Anaerobic respiration transfers less energy than aerobic respiration.
+- Cells are primarily composed of the elements H, O, C, N, P and S.  
+- Proteins are the most abundant class of macromolecules in the cell.  
+- Apart from enzymes, some other compounds involved in controlling metabolic as well as chemical reactions of a body are cofactors.  
+- Cofactors are non-protein chemical compounds which are termed helper molecules. There are two types of cofactors viz coenzymes and prosthetic groups.  
+- A nearly universal pathway for the catabolism of glucose is the Embden-Meyerhof-Parnas pathway, also called Glycolysis.  
+- Krebs cycle is also called TCA cycle (tricarboxylic acid cycle) or Citric acid cycle.  
+- Anaerobic respiration transfers less energy than aerobic respiration.
 
 ### Need for Nutrients  
-• Growth defined as increase in number of cells  
-• Reproduce by binary fission  
-• In order to grow, bacteria need nutrients to supply energy
+- Growth defined as increase in number of cells  
+- Reproduce by binary fission  
+- In order to grow, bacteria need nutrients to supply energy
 
 ### Composition of a Microbial Cell  
-• Water: 70-80% of wet weight of the cell  
-• Macromolecules & their building blocks:  
-• Proteins: ................  
-• Nucleic acids:..........  
-• Lipids:................  
-• Polysaccharides:............  
-• Proteins: Around 55 % of cell dry weight
+- Water: 70-80% of wet weight of the cell  
+- Macromolecules & their building blocks:  
+- Proteins: ................  
+- Nucleic acids:..........  
+- Lipids:................  
+- Polysaccharides:............  
+- Proteins: Around 55 % of cell dry weight
 
 ### Nutritional Requirements  
-• Macronutrients vs. Micronutrients  
-• Macronutrients (CHNOPS) required in large amounts  
-• Essential elements for bacterial growth  
-• Carbon, nitrogen, phosphorus, sulphur, etc.  
-• P, S, K, Mg and Se combined less than 5% of cell dry weight
+- Macronutrients vs. Micronutrients  
+- Macronutrients (CHNOPS) required in large amounts  
+- Essential elements for bacterial growth  
+- Carbon, nitrogen, phosphorus, sulphur, etc.  
+- P, S, K, Mg and Se combined less than 5% of cell dry weight
 
 ### Micronutrients/Trace metals  
-• Required in very small amounts  
-• Function as cofactors for enzymes  
-• Iron: cellular respiration  
-• Boron, Chromium, Cobalt, Copper, Manganese, Molybdenum, Nickel,  
+- Required in very small amounts  
+- Function as cofactors for enzymes  
+- Iron: cellular respiration  
+- Boron, Chromium, Cobalt, Copper, Manganese, Molybdenum, Nickel,  
 Tungsten, Vanadium, Zinc  
-• Growth factors: mainly organic.  
-• E.g. vitamins which function as coenzymes; Nicotinic acid (Niacin) is  
+- Growth factors: mainly organic.  
+- E.g. vitamins which function as coenzymes; Nicotinic acid (Niacin) is  
 a precursor of NAD + ; Riboflavin is a precursor of FAD.
 
 ### Types of Bacterial Nutrition  
-• Autotrophic Nutrition  
-• Manufactures organic materials  
+- Autotrophic Nutrition  
+- Manufactures organic materials  
 from inorganic raw material  
-• Photoautotrophs  
-• Bacteriochlorophyll (Purple bacteria)  
-• Chlorobium chlorophyll (Green S bacteria)  
-• Carotenoids  
-• Oxygen is not evolved
+- Photoautotrophs  
+- Bacteriochlorophyll (Purple bacteria)  
+- Chlorobium chlorophyll (Green S bacteria)  
+- Carotenoids  
+- Oxygen is not evolved
 
 ### Autotrophic nutrition  
 
 #### Oxygenic Photosynthetic Bacteria  
-• They use H 2O as an electron donor and oxygen is produced in the reaction.  
-• They do not possess chloroplasts  
-• Photosynthetic pigments are present in the cytosol.  
-• 6CO 2 + 12H 2O + light energy → C 6H 12O 6 + 6O 2 + 6H 2O  
-• Cyanobacteria (blue-green algae) perform oxygenic photosynthesis.  
+- They use H 2O as an electron donor and oxygen is produced in the reaction.  
+- They do not possess chloroplasts  
+- Photosynthetic pigments are present in the cytosol.  
+- 6CO 2 + 12H 2O + light energy → C 6H 12O 6 + 6O 2 + 6H 2O  
+- Cyanobacteria (blue-green algae) perform oxygenic photosynthesis.  
 
 #### Anoxygenic Photosynthetic Bacteria  
-• Most of the photosynthetic bacteria are anoxygenic  
-• They do not utilise water as an electron donor, instead, they use H 2S, H 2 or thiosulphate  as reducing agent and hydrogen sources.  
-• Photosynthetic pigment: Bacteriochlorophyll (Purple bacteria)  
-• Chlorobium chlorophyll (Green S bacteria)  
-• Oxygen is not evolved
+- Most of the photosynthetic bacteria are anoxygenic  
+- They do not utilise water as an electron donor, instead, they use H 2S, H 2 or thiosulphate  as reducing agent and hydrogen sources.  
+- Photosynthetic pigment: Bacteriochlorophyll (Purple bacteria)  
+- Chlorobium chlorophyll (Green S bacteria)  
+- Oxygen is not evolved
 
 ### Chemoautotrophs  
-• Produce their organic food from inorganic raw materials with the help of energy derived form exergonic  
+- Produce their organic food from inorganic raw materials with the help of energy derived form exergonic  
 chemical reactions. They use this energy for their metabolic needs.  
 1. Sulphur oxidising bacteria e.g. Thiobacillus thioxidans oxidises sulphur to sulphate state:  
 2H2S + O2 → 2S + 2H2O + Energy  
@@ -718,64 +713,64 @@ CH4 + 2O2 → CO2 + 2H2O + Energy
 ### Heterotrophic Nutrition
 Rely on others for their nutrition needs as they can’t manufacture their food  
 #### Saprophytes  
-• Feed on dead or decaying matter.  
-• Fungi, bacteria generally come under the category of saprophytes.  
-• Referred to as nature's scavengers because they feed on dead and decaying substances thus,  
+- Feed on dead or decaying matter.  
+- Fungi, bacteria generally come under the category of saprophytes.  
+- Referred to as nature's scavengers because they feed on dead and decaying substances thus,  
 cleaning our earth.  
-• These organisms release enzymes that break down the dead bodies of animals and plant remains,  
+- These organisms release enzymes that break down the dead bodies of animals and plant remains,  
 hence working as scavengers.  
-• They also release materials after the breakdown of organic matter that makes the soil fertile and  
+- They also release materials after the breakdown of organic matter that makes the soil fertile and  
 creates humus.  
 #### Parasites  
-• Parasitism is defined as the relationship between different species in which one organism lives on  
+- Parasitism is defined as the relationship between different species in which one organism lives on  
 or in the other organism and benefits from it by causing some harm.  
-• e.g. Vibrio cholerae, Clostridium tetani, Mycobacterium tuberculosis, Mycobacterium leprae,  
+- e.g. Vibrio cholerae, Clostridium tetani, Mycobacterium tuberculosis, Mycobacterium leprae,  
 Salmonella typhi
 ####   Symbiotic  
-• Bacteria that live in a symbiotic relationship with other organisms.  
-• Like rhizobium bacteria associated with root nodules, both the host and the pathogen  
+- Bacteria that live in a symbiotic relationship with other organisms.  
+- Like rhizobium bacteria associated with root nodules, both the host and the pathogen  
 benefit from the symbiotic interaction.  
-• Plants provide a safe haven for rhizobium bacteria, which assists plants in nitrogen  
+- Plants provide a safe haven for rhizobium bacteria, which assists plants in nitrogen  
 fixation.  
-• Rhizobium bacteria dwell in nodules or on the roots of legumes in the soil.  
-• They create a symbiotic relationship with the legume in the root nodule and benefit  
+- Rhizobium bacteria dwell in nodules or on the roots of legumes in the soil.  
+- They create a symbiotic relationship with the legume in the root nodule and benefit  
 from the plant's nutrients.  
-• As a result, nitrogen is produced for the process of nitrogen fixation, also known as  
+- As a result, nitrogen is produced for the process of nitrogen fixation, also known as  
 biological nitrogen-fixing.
 
 ### Bacterial metabolism  
-• Carbon and energy are required for  
-– Cell structure  
-– Synthesis of enzymes, nucleic acids, polysaccharides,  
+- Carbon and energy are required for  
+- Cell structure  
+- Synthesis of enzymes, nucleic acids, polysaccharides,  
 phospholipids  
-– Maintenance and repair  
-– Growth and multiplication  
-– Transport  
-– Motility
+- Maintenance and repair  
+- Growth and multiplication  
+- Transport  
+- Motility
 
 ### High energy compounds  
-• Energy released from redox reactions is transferred  
+- Energy released from redox reactions is transferred  
 to phosphate compounds in the form of high  
 energy phosphate bonds  
-– Adenosine triphosphate (ATP)- ADP Cycle  
-• Main carrier generated during exergonic reactions  
+- Adenosine triphosphate (ATP)- ADP Cycle  
+- Main carrier generated during exergonic reactions  
 and used to drive endergonic reactions
 
 ### Bacterial Growth Curve  
-• Lag phase, log phase, stationary phase, and death phase  
-• Factors influencing each phase  
-• Nutrition concentration.  
-• Temperature.  
-• pH.  
-• Gas conditions  
-• Water  
-• Osmotic pressure
+- Lag phase, log phase, stationary phase, and death phase  
+- Factors influencing each phase  
+- Nutrition concentration.  
+- Temperature.  
+- pH.  
+- Gas conditions  
+- Water  
+- Osmotic pressure
 
 ### Overview of Bacterial Respiration  
 Definition of respiration in bacteria  
-• Respiration is the chemical process by which organic compounds release  
+- Respiration is the chemical process by which organic compounds release  
 energy.  
-• The compounds change into different ones by exergonic reactions (Royal  
+- The compounds change into different ones by exergonic reactions (Royal  
 Society of Biology).
 
 ### Types of Respiration  
@@ -791,23 +786,23 @@ Fermentation: Glucose → Alcohol + Carbon dioxide + Energy
 ### Types of Bacterial Respiration  
 
 #### Aerobic: Occurs in the presence of oxygen  
-• Obligate aerobes: Can respire only aerobically e.g. Mycobacterium  
+- Obligate aerobes: Can respire only aerobically e.g. Mycobacterium  
 tuberculosis, Bacillus subtilis.  
-• Facultative aerobes: Respire aerobically under normal conditions but  
+- Facultative aerobes: Respire aerobically under normal conditions but  
 switch over to anaerobic mode of respiration if oxygen becomes deficient  
 e.g. Rhodopseudomonas.  
 
 #### Anaerobes: Occurs without oxygen  
-• Obligate anaerobes: Can respire only anaerobically e.g. Clostridium  
+- Obligate anaerobes: Can respire only anaerobically e.g. Clostridium  
 botulinum.  
-• Facultative anaerobes: Respire anaerobically under normal conditions  
+- Facultative anaerobes: Respire anaerobically under normal conditions  
 but switch over to aerobic mode of respiration if oxygen becomes  
 available e.g. Escherichia coli.
 
 ### Aerobic Respiration- Glycolysis  
 
 #### Catabolic or Anabolic?  
-• No oxygen required  
+- No oxygen required  
 - Although it doesn't require oxygen, hence  
 its purpose in anaerobic respiration, it is also  
 the first step in cellular respiration.  
@@ -817,7 +812,7 @@ phosphorylation leading to the production of
 more ATP molecules.  
 - In anaerobic conditions, pyruvate converts  
 to lactate through anaerobic glycolysis.  
-• Occurs in Cytoplasm  
+- Occurs in Cytoplasm  
 - Oxidative phosphorylation is a cellular  
 process that harnesses the reduction of  
 oxygen to generate high-energy phosphate  
@@ -825,6 +820,527 @@ bonds in the form of adenosine
 triphosphate (ATP)
 
 ## week 6 Industrial Microbiology And Biotechnology
+
+
+## week 7 Marine Microbiology
+
+- The marine micro-environment is complex  
+	- A variety of oxygen availabilities  
+	- Food availability  
+	-  A variety of temperatures  
+	- A variety of pressures  
+	- Contains a wide variety of often specialised prokaryotic and eukaryotic organisms
+
+### The marine environment  
+- The marine environment is divided by depth and availability of sunlight  
+- The neuston  
+- The euphotic (photic) zone  
+- The aphotic zone  
+- The benthos (sea floor)- includes the abyssal environment
+
+#### The photic zones  
+- The invisible rain forest of the earth  
+- The neuston  
+- Extends to about 10um below the surface  
+- Contains the highest concentration of microorganisms  
+- A wide variety of autotrophic organisms in
+
+##### The euphotic zone -  
+- 100 - approx. 300m of water column  
+- Depends on proximity to coastal shelf  
+- Main site or primary production  
+- About half of the world photosynthesis is carried out here as sunlight available  
+- The pelagic euphotic zone (open ocean) contains many species of planktonic microorganisms
+
+##### Microbes of the photic zone  
+- Microbial Plankton  
+- Free floating marine photosynthetic and non-photosynthestic bacteria, eukaryotes (protists) and viruses  
+- Grouped depending on approx. size  
+- Micro, Nano, Pico and femto
+- Microbial Plankton  
+- Micro - cyanobacteria, proteobacteria, Dinoflagellates and diatoms  
+- Nano - algae, flagellated protists. Filamentous cyanobacteria  
+- Pico - bacteria and small eukaryotes  
+- Femto - viruses
+- Microbial Plankton  
+- Micro - cyanobacteria, proteobacteria, Dinoflagellates and diatoms  
+- Nano - algae, flagellated protists. Filamentous cyanobacteria  
+- Pico - bacteria and small eukaryotes  
+- Femto - viruses
+
+#### Diatoms  
+- The glass ornaments of the sea  
+- Largest group of algal unicellular protists  
+- Many different species  
+- Found in all marine environments  
+- Consist of an inner box and outer lid of silicon dioxide pierced with holes for gas exchange  
+- Very wide diversity of morphological forms
+- The glass ornaments of the sea  
+- Largest group of algal unicellular protists  
+- Many different species  
+- Found in all marine environments  
+- Consist of an inner box and outer lid of silicon dioxide pierced with holes for gas exchange
+
+#### Dinoflagellates  
+- The fire plants of the ocean  
+- The second largest group of algal protists  
+- Approx.3,400 spp  
+- Unicellular bi-flagellate  
+- Most are marine species and can be photosynthetic and endosymbionts in coral and sponges  
+- Many bioluminescent species
+
+### The role of viruses  
+- Viruses are essential to nutrient cycles  
+- All levels of microbial plankton undergo predation by viruses  
+- Cell lysis breaks down approx. half of planktonic biomass  
+- Essential in acceleration of return of nutrients to system - nitrogen and carbon  
+- Bacteriophages are numerous and exchange genes and control bacterial populations - cyanobacteria - >106 pfu/ml
+
+#### The aphotic zone  
+- Life in the dark  
+- Defined as a place where <1% of sunlight penetrates  
+- Depending on turbidity extends from 200-300 - sea floor  
+- Divided into bathyal (200 - 2000M), abyssal (2000-6000M and hadal (6000M - sea bed) zones  
+- All life here relies on POM and DOM
+
+##### Microbes of the aphotic zone  
+- Life is hard  
+- All microbes are heterotrophic and lithotrophic  
+- Nutrients are very limited and comes from sinking detritus and colonisation of sinking particles  
+- Marine snow - faecal pellets, planktonic tests and diatomaceous debris that flocculates as it sinks  
+- Colonised during its fall and mineralised  
+- <1% of photosynthetically derived material remains once on sea bed
+
+#### Microbial metabolism   
+1. How the organism obtains carbon:  
+- Autotrophic - carbon is obtained from inorganic compounds e.g CO2  
+- Heterotrophic - carbon is obtained from organic compounds e.g. sugars  
+2. How the organism derives their energy:  
+- Chemotrophic - energy is obtained from external chemical compounds  
+- Phototrophic - energy is obtained from light  
+3. How they generate reducing equivalents  
+- Lithotrophic - reducing equivalents (electrons) are obtained from inorganic compounds (H2,NH3, CO, H2S, SO42-, Fe )  
+- Organotrophic - reducing equivalents (electrons) are obtained from organic compounds (e.g. carbohydrates, proteins, lipids)  
+These terms can be combined to describe the organism - e.g. photolithoautotrophs (plants), chemoorganoheterotrophs (animals)
+
+#### The Benthic zone  
+- At rock bottom!  
+- Includes where the water column meets the ocean floor and the sediment on the bottom  
+- Includes barophilic, thermophilic and psychrophilic organisms - complex nutrition  
+- Many examples of symbiotic associations  
+- Sediment is a thriving microbial community
+
+##### Microbes of the benthos  
+- Life under pressure  
+- Most organisms are Barophilic  
+- Can only survive at pressures up to 1100 atm.  
+- No real upper limit reached in the laboratory  
+- Most rely on Chemolithotrophic metabolism  
+- Carbon provided by marine snow for heterotrophs  
+- Hydrothermal vents and cold seeps can provide reduced inorganic power for growth
+
+#### Cold seeps  
+- Life in the cold  
+- Cold seeps are regions were methane or petroleum leek through the ocean floor  
+- Pools of Methane hydrates are produced by Archaea in cages of crystalline water !  
+- Covert acetate to methane that psycrophilic methanogens can use for nutrition.  
+- Many form symbioses with large slow growing animals
+
+## week 8 
+
+### Transmission Entry and colonisation
+
+#### Transmission of pathogens  
+- Transmission occurs via 3 main  
+mechanisms  
+- Contact  
+- Direct, indirect, airborne  
+- Disease vehicles  
+- Medium in which disease can spread  
+- Blood, water, food, soil, air  
+- Vectors - insects  
+- Insects - bites, faeces or from body or mouth parts  
+- Mechanical or Biological  
+- Often reservoirs of disease agents
+- Contact transmission  
+- Direct contact  
+- Skin, mucous membranes, puncture wounds  
+- Human - human or animal - human  
+- Animals - Zoonoses / Zoonosis  
+- animal disease transmitted to humans - Anthrax, Plague  
+- Indirect contact  
+- Fomites - inanimate objects that contribute to  
+transmission  
+- Airborne (droplets)
+- Coughing, sneezing, laughing
+Transmission of pathogens  
+- Human to human transmission is the most  
+effective  
+- The commonest diseases are spread by  
+- The respiratory route  
+- The faecal-oral route  
+- The venereal route  
+- Effectiveness of transmission influenced by  
+- Number of organisms shed  
+- Environmental stability  
+- Infectious dose - linked to relative disease causing potential  
+(virulence), site of infection
+- The more organisms shed the better the  
+chance of transmission occurring  
+- Many mechanisms evolved - Cholera  
+- Stability depends on species and stress  
+- Most resistant to desiccation remain infectious  
+- Mycobacterium tuberculosis  
+- Influenza  
+- Bacilli and the Clostridia - spore formers  
+- Less environmentally resistant pathogens rely  
+on direct transmission & vehicles
+- The infectious dose depends on species,  
+site of infection and host status.  
+- Dose required for disease is highly variable:  
+- Anthrax (Bacillus anthracis) 8000 - 80000 spores  
+- Salmonella enteritidis (salmonellosis) - 1,000,000 cells  
+- Shigella dysinteriae (shigellosis) - 10 cells  
+- Coxiella burnettii (Q fever) - 1 cell  
+- Fransicella tularensis (tularemia) < 1 cell  
+- Infection via respiratory tract much more acute  
+- Also depends on nutrition, genetics, age
+
+#### Entry and exit of pathogens  
+- Once transmitted to a new host the organism  
+must enter and attach, and evade before  
+colonisation and disease is produced  
+- Many portals of entry  
+- Mucous membranes - GI, nasopharynx, eyes, ears, genitals  
+- Broken skin  
+- Glands  
+- Entry sites can also be sites of exit  
+- Secretions  
+- Skin - skin scales, blood
+Entry and exit of pathogens  
+- The skin  
+- Very good barrier to infection  
+- Normal flora - competition and antimicrobials  
+- Dry and low pH  
+- Entry through  
+- Cuts, abrasions, bites, puncture wounds, hair  
+folicles  
+- Burns particularly prone to infection  
+- Also a site of transmission  
+- Disease vehicle - skin scales - 108 scales/day
+- The respiratory tract  
+- Approx. 10,000 viable organisms inhaled/day  
+- Removed by entrapment in mucous and  
+swallowing  
+- Aerodynamic baffle design - Nasal turbinates  
+- Ciliated epithelium - Mid/upper respiratory tree  
+- In the deep lung only clearance achieved by  
+alveolar macrophages
+- To colonise the respiratory tract a pathogen  
+must:  
+- Adhere strongly  
+- Specific adhesins (ligands) that bind to host  
+epithelial cell receptors  
+- Inhibit clearance mechanisms  
+- Muco-ciliary escalator clears particulates  
+- Resist macrophage killing  
+- Mycobacterium tuberculosis
+- To colonise the respiratory tract a pathogen  
+must:  
+- Adhere strongly  
+- Specific adhesins (ligands) that bind to host  
+epithelial cell receptors  
+- Inhibit clearance mechanisms  
+- Muco-ciliary escalator clears particulates  
+- Resist macrophage killing  
+- Mycobacterium tuberculosis
+- Transmission from the respiratory tract  
+- Respiratory pathogens damage respiratory  
+tract  
+- Mucous production  
+- Sneezing  
+- Coughing  
+- Results in microbial contamination of surfaces  
+and infectious aerosol production  
+- Creates fomites
+- The Gastrointestinal (GI) tract  
+- Adherence to host cell receptors is very  
+important  
+- E. coli - adhesins on pili and fimbrae  
+- Invasion of underlying tissues  
+- Shigella dysenteriae - invade immune tissues  
+- Bile and acid resistance  
+- Helicobacter pylori - lives in the stomach  
+- Production of diarrhoea is an advantage  
+- Faecal - oral transmission
+- The gastrointestinal (GI) tract  
+- ‘Food poisoning’ is a consequence of microbial  
+growth in or on foods  
+- Ingestion of large amounts of organisms -  
+colonisation  
+- Ingestion of preformed microbial toxins  
+- Clostridium botulinum - canned foods  
+- Bacillus cereus - rice  
+- Aspergilli - badly stored nuts and pulses
+- Transmission from the GI tract  
+- Occurs in unsanitary conditions  
+- Faecal - oral spread  
+- Hand washing important  
+- Water treatment, sanitation and purification  
+reduced incidence in 1st world  
+- Water borne disease still common in third worlds  
+- The Urinary tract  
+- Two main types of infection  
+- Urinary tract infections (UTI’s)  
+- Sexually transmitted diseases (STD’s)  
+- Pathogens have special adaptations that aid in  
+attachment  
+- Resist flushing action of urine  
+- Posses adhesins that bind to urethral epithelial cells  
+- Neisseria gonorrhoea - pillus adhesins  
+- Invade brakes in the skin and membranes  
+- Treponema pallidium - syphilis
+- The Urinary tract  
+- UTI’s are caused by transmission of enteric  
+organisms to urinary tract  
+- Poor personal hygiene  
+- Catheters  
+- Lead to cystitis, urethritis, kidney infections  
+- Common in hospitals  
+- Women more prone  
+- Escherichia coli (most common in UK)
+- The urinary tract  
+- Pathogens causing STD’s and UTI’s are poorly  
+transmitted  
+- Low environmental resistance and persistence  
+- Rely on direct forms of transmission  
+- Touching  
+- Sexual intercourse  
+- Those that form blisters, growths or puss are  
+transmitted the best!
+- The blood  
+- Type of disease vehicle - new hosts  
+- Spread within the body - within host  
+- Pathogens in the blood can enter and exit a  
+host by parenteral routes  
+- Breaks in skin barrier  
+- Blood sucking insects - Vectors - malaria, plague, typhus  
+- Sharing needles  
+- Contaminated blood products and surgery  
+» iatrogenic infection  
+- Mother to baby - Transplacental transmission
+
+## Microbes as pathogens (Viruses)
+Overview  
+- Some important definitions  
+- What is a virus  
+- General structure of viruses  
+- Replication strategies of viruses  
+- Stages in infection of cells  
+- Effect of viruses on cells  
+- Examples of viral pathogens
+
+What I want you to know:  
+- The structure of a virus  
+- The life cycle of viruses  
+- Entry and exit points of viruses in humans  
+- Consequences of viral infection
+
+Some important definitions  
+- Pathogen  
+- An organism that can cause disease (damage) in a host  
+- Pathogenicity  
+- The ability to cause disease (Damage)  
+- Virulence  
+- A relative measure of disease causing potential  
+- Virulence factor  
+- A pathogen derived substance or structure that contributes to  
+virulence/damage
+
+Introduction  
+- Viruses are not cells:  
+- They do not grow and divide  
+- They do not have cell walls, a nucleus or any other organelles seen in  
+cells  
+- They are incapable of cellular metabolic activity  
+- They must hijack a host cells metabolic and synthetic machinery to  
+make more virus  
+- Therefore, they cannot survive without a host and so are obligate  
+parasites
+
+The Structure of viruses  
+- General structure  
+- Genome (nucleic acid core)  
+- Contains the genetic information as ds/ss - RNA or DNA  
+- Capsid  
+- Protein shell for genome - Gives protection during transmission  
+- Target for host immune response  
+- Made up of protein sub-units called CAPSOMERS
+
+The Structure of viruses  
+- General structure  
+- Envelope (viral membrane)  
+- Not present in all viruses  
+- Contains host membrane components  
+- CSM or nuclear membrane  
+- Contains viral proteins  
+- Viral spikes proteins carrying receptors  
+- May have other proteins between envelope and capsid  
+- Used for entry to cells
+
+The structure of viruses  
+- Shape:  
+- Majority of viruses rod or  
+sphere shaped  
+- Rods are said to have helical  
+symmetry and spheres have  
+icosahedral symmetry  
+- Can be a combination of both  
+and have complex  
+symmetry.
+
+The structure of viruses  
+- Helical capsids.  
+- These are assembled from  
+rings of protomeres  
+- This type of symmetry  
+enables very stable rods to  
+be assembled  
+- Straight and flexible rods  
+formed
+
+The structure of viruses  
+- Icosahedral capsids  
+- An icosahedron has  
+- 20 faces  
+- 30 edges  
+- 12 vertices
+
+The structure of viruses  
+- Icosahedral capsids  
+- Asymmetric capsomeres are  
+arranged in an equilateral  
+triangle  
+- 20 faces on an icosahedron =  
+60 capsomeres
+
+The structure of viruses  
+- Complex viruses  
+- Helical or icosahedral  
+or neither  
+- May possess additional  
+structures  
+- Pox viruses  
+- Small pox  
+- White pox
+
+The structure of viruses  
+A diagrammatic representation of the classification system of viruses. This  
+is partly based on the shape of the virus particle itself. It also considers the  
+type of nucleic acid, strandedness and the presence or absence of a viral  
+envelope
+
+Viruses as pathogens  
+- The main aims of a virus are:  
+- To infect host cells  
+- Make more virus  
+- Infect more cells  
+- Be released  
+- To infect the body virus must first reach a suitable entry site or  
+portal of entry  
+- Virus life cycle begins after it enters a cell
+
+Viruses as pathogens  
+- Portals of entry for viruses  
+- Mucous membranes  
+1. Respiratory tract  
+2. Gastrointestinal tract (GI)  
+3. Urinogenital tract  
+4. Conjunctiva (Eye)  
+- Skin  
+1. Abrasions  
+2. Vectors  
+3. Iatrogenic infection.
+
+Replication strategies  
+- Attachment and Entry - infection of susceptible  
+cells.  
+- Virus must first bind to permissive cells using receptors  
+- Entry is then through:  
+- Direct penetration - naked (non-enveloped) viruses  
+- Fusion with the cell membrane - enveloped viruses  
+- Entry via ENDOCYTOSIS or engulfment- enveloped viruses  
+- Allows uncoating - loss of envelope and capsid
+Replication strategies  
+- Exit of virus from cells  
+- Direct lysis (bursting) of the infected cell  
+- Often naked viruses  
+- Most enteroviruses do this - Polio v  
+- Exit via enzymatic disruption inner cytoplasmic membrane  
+- Budding through/from the cell membrane or nuclear  
+membrane  
+- Enveloped viruses - HIV, HSV, influenza  
+- Both part of lytic life cycle
+Replication strategies  
+- Infection and replication  
+- Replication in susceptible (permissive) cells at site of  
+entry  
+- Overcome local innate defences  
+- Spread from site of inoculation - viraemia  
+- Undergo further replication in target organ  
+- Escape from host in large enough numbers to infect  
+new host
+
+Viruses as pathogens  
+- Consequences of infection  
+- Symptoms of viral infection are not caused by  
+products of the virus - no metabolites!  
+- Symptoms of disease often caused by  
+- Deregulation of cellular function  
+- Direct damage to cells from viral replication  
+- Host immune response to infection
+
+Viruses as pathogens  
+- Consequences of infection  
+- Symptoms of viral infection are not caused by  
+products of the virus - no metabolites!  
+- Symptoms of disease often caused by  
+- Deregulation of cellular function  
+- Direct damage to cells from viral replication  
+- Host immune response to infection
+
+Viruses as pathogens  
+- Recovery from viral infection  
+- Destruction of virus infected cells  
+- Innate and specific immune responses  
+- Immune response directed towards  
+capsid/binding proteins - important viral  
+antigens  
+- Immune response can prevent re-infection
+
+## Definitions
+###### phylogenetic tree
+a diagram that depicts the lines of evolutionary descent of different species, organisms, or genes from a common ancestor.
+###### Svedberg (S) 
+a non-standard unit of time (10^-13 seconds) that measures the [[Uni/4BM024 Microbiology/Microbiology#Sedimentation Rate\|sedimentation rate]] of particles
+###### Sedimentation Rate
+the time it takes for particles to settle at the bottom of a container often in reference to ultracentrifugation
+###### Ribonucleic acid (RNA) 
+a molecule made of ribose nucleotides. The nitrogenous bases for RNA are adenine(a), guanine(g), uracil(u), and cytosine(c). 
+###### ribosomal RNA (rRNA) 
+molecule in cells that forms part of the protein-synthesizing organelle (ribosomes). [[Uni/4BM024 Microbiology/Microbiology#ribosomal RNA (rRNA)\|rRNA]] goes to the cytoplasm to help translate [[Uni/4BM024 Microbiology/Microbiology#messenger RNA (mRNA)\|mRNA]]  into proteins
+###### messenger RNA (mRNA)
+a molecule containimg the instructions for making a protein
+###### ssDNA
+Single stranded DNA
+###### dsDNA
+Double stranded DNA
+
+
+
+
+
+
 
 
 

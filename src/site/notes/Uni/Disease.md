@@ -354,12 +354,12 @@ Chemical stressors  (E.g. smoking or high cholesterol)
 	- Nausea and vomiting
 
 ![](https://i.imgur.com/fIllMJQ.png)
-Both cause [[myocardial ischaemia\|myocardial ischaemia]]
+Both cause [[Uni/myocardial ischaemia\|myocardial ischaemia]]
 
 ### Diagnosis  
 #### Electrocardiogram - ECG  
 ST segment depression Due to ischaemia  
-His ECG showed some signs of [[myocardial ischaemia\|myocardial ischaemia]], but no permanent cardiac damage.
+His ECG showed some signs of [[Uni/myocardial ischaemia\|myocardial ischaemia]], but no permanent cardiac damage.
 
 #### Stress testing -  exercise  
 - Exercise on treadmill or cycle ergometer  
@@ -435,6 +435,174 @@ Method
 - Use a ‘spare’ vessel (E.g. Saphenous (leg) vein)  
 - Internal mammary artery  
 
+
+## week 7 Mental Health
+
+Emily is a 45-year-old woman who has been experiencing symptoms of depression and anxiety for the past few months. She reports feeling sad, hopeless, and irritable most days. Additionally, she has trouble sleeping, lacks energy, and has lost interest in activities she used to enjoy. Emily mentions that her menstrual cycles have become irregular, and she often experiences hot flashes and night sweats. She has no significant medical history other than being perimenopausal. Emily was diagnosed with Perimenopausal Depression.
+
+### perimenopause
+
+Refers to the transitional phase that women experience before reaching menopause. It typically begins several years before menopause, which is the point when a woman stops menstruating entirely.  
+- During perimenopause, hormonal fluctuations occur, leading to various physical and emotional symptoms such as irregular periods, hot flashes and mood swings.  
+- This phase can last for several years, and it marks the gradual decline in ovarian function and hormone production before menopause occurs.  
+- Typically begins from age 40 onwards
+
+### Mental Health Disorders  
+Anxiety disorders:  
+Patients respond to certain objects or situations or objects with fear and dread.  
+Feeling of unease, worry.  
+Show physical signs of anxiety or panic, such as a rapid heartbeat and sweating.  
+Diagnosed if the person's response is not appropriate for the situation, if the  
+person cannot control the response, or if the anxiety interferes with normal  
+functioning.  
+Examples: generalised anxiety disorder; panic disorder; social anxiety disorder,  
+and phobias.  
+
+Mood disorders: 
+Involve persistent feelings of sadness or fluctuations from extreme elation to  
+extreme sadness. Physical symptoms include sleep disturbance, fatigue.  
+Examples: depression, bipolar disorder.
+
+Depresssion  
+Patients with a pre-existing major depressive disorder – prior to perimenopause, are at  
+risk of relapse in the perimenopausal period and may find that anti-depressants that  
+they may have been previously prescribed are perhaps no longer effective, or that a  
+much higher dose is required to have the same effect.  
+
+Anxiety  
+Anxiety symptoms are often a hallmark of perimenopause and are more likely to occur in those with a pre-existing diagnosis or sensitivity towards anxiety.  
+Anxiety symptoms are strongly linked to vasomotor symptoms (hot flashes), with anxiety symptoms preceding the onset of vasomotor symptoms.  
+
+Risk factors;  
+Women with a history of premenstrual syndrome and postnatal depression are at a  
+particular risk Pre-existing depression/anxiety prior to perimenopause;
+
+Anxiety in Depression (in general)  
+- Anxiety is common in the context of depression.  
+- Anxiety symptoms often appear 1 year or 2 years ahead of the onset of major depression, and with increasing age, become a more pronounced feature of major depressive episodes.  
+- High levels of anxiety are associated with higher suicide risk, longer duration of illness and greater likelihood of non-response to treatment
+
+Anxiety in Depression (in general)  
+- Anxiety is common in the context of depression.  
+- Anxiety symptoms often appear 1 year or 2 years ahead of the onset of major depression, and with increasing age, become a more pronounced feature of major depressive episodes.  
+- High levels of anxiety are associated with higher suicide risk, longer duration of illness and greater likelihood of non-response to treatment
+- Approximately 1 in 4 people in the UK will experience a mental health problem each year.  
+- In England, 1 in 6 people report experiencing a common mental health problem (such as anxiety and depression) in any given week  
+- 1 in 100 women will experience depression during perimenopause/menopause  
+- Most women (8 out of 10) experience some symptoms, typically lasting about 4 years after the last period, but continuing for up to 12 years in about 10% of women. Incidence
+- Approximately 1 in 4 people in the UK will experience a mental health problem each year.  
+- In England, 1 in 6 people report experiencing a common mental health problem (such as anxiety and depression) in any given week  
+- 1 in 100 women will experience depression during perimenopause/menopause  
+- Most women (8 out of 10) experience some symptoms, typically lasting about 4 years after the last period, but continuing for up to 12 years in about 10% of women.
+
+#### Symptoms
+
+#### Mechanisms of disease
+- Hormonal Changes: Fluctuations in Oestrogen and progesterone levels during perimenopause are believed to play a significant role in the development of mood disturbances. Oestrogen has known effects on neurotransmitter systems in the brain, such as serotonin, dopamine, and noradrenaline, which are involved in mood regulation. Changes in hormone levels can disrupt the delicate balance of these neurotransmitters, contributing to symptoms of depression and anxiety.  
+- Neuroendocrine Dysregulation: The hormonal changes associated with perimenopause can also impact the functioning of the hypothalamic-pituitary-adrenal (HPA) axis, a key neuroendocrine system involved in the body's stress response. Dysregulation of the HPA axis has been implicated in the pathophysiology of mood disorders, including depression and anxiety.  
+- Neurotransmitter Imbalance: In addition to Oestrogen, other neurotransmitters and neuromodulators, such as gamma-aminobutyric acid (GABA) and glutamate, may also be dysregulated during perimenopause, contributing to mood disturbances. Changes in the levels or activity of these neurotransmitters can affect emotional processing and mood regulation.  
+- Genetic Predisposition: Genetic factors may predispose some individuals to develop depression and anxiety during perimenopause. Family history of mood disorders can increase the risk of experiencing similar symptoms during the menopausal transition.
+
+Monoamine neurotransmitters  
+Serotonin helps regulate sleep, appetite, and mood and inhibits pain. It is thought to play a role in motor, cognitive, and autonomic functions. Some depressed people have reduced serotonin levels. Noradrenaline constricts blood vessels, raising blood pressure. It also seems to help determine motivation and reward. It may trigger anxiety and be involved in some types of depression. Dopamine is essential to movement. It also influences motivation and plays a role in how a person perceives reality. Also plays a role in cognitive function, maternal, and reproductive behaviours.
+
+- Oestrogen, progesterone and testosterone can be highly fluctuant and responsible for many physical and psychological symptoms.  
+- Oestrogen has a role in the modulation of serotonin, and serotonergic pathways are thought to be involved in the neurobiological basis of depression.  
+- When oestrogen levels fluctuate during the perimenopause and menopause, destabilising effects on mood can therefore occur. Neurotransmitter pathways; gamma-aminobutyric acid (GABA), also affected by the menopause and thought to be linked to changes in mood.  
+
+Fluctuating Hormones
+- Oestrogen, progesterone and testosterone can be highly fluctuant and responsible for many physical and psychological symptoms.  
+- Oestrogen has a role in the modulation of serotonin, and serotonergic pathways are thought to be involved in the  neurobiological basis of depression.  
+- When oestrogen levels fluctuate during the perimenopause and menopause, destabilising effects on mood can therefore occur. Neurotransmitter pathways; gamma-aminobutyric acid (GABA), also affected by the menopause and thought to be linked to changes in mood
+
+Affects of reducing levels of Oestrogen
+- Hormonal fluctuations : changes in oestrogen, play a significant role in mood regulation.  
+- Oestrogen, in particular, has an impact on serotonin and other neurotransmitters associated with mood.  
+- Fluctuations in these hormones can disrupt the delicate balance, disruption of leading to mood disturbances.
+
+Affects of reducing levels of Testosterone;  
+- In addition to oestrogen, total and free testosterone levels decline with age, often beginning in the mid reproductive years.  
+- There is evidence that transdermal testosterone therapy gives a meaningful improvement in psychological well-being as well as in the treatment of hypoactive sexual desire disorder.  
+
+Affects of reducing levels of Progesterone;  
+- Progesterone receptors are also found within the brain, and reduced levels of progesterone, although not seen to have a consistent impact on psychological well-being, can have an impact on menopausal symptomology which would otherwise lead to an increase in psychological distress.
+
+Hypothalamic–Pituitary–adrenal axis changes in depression  
+- One of the most consistent biological findings in more severe depression with melancholic features, and associated with changes in the HPA axis, is the increased amount of plasma cortisol.  
+- This is caused by a combination of excessive stress related cortisol release and impaired glucocorticoid receptor- mediated feedback inhibition.  
+- Notably, HPA axis changes are also associated with impaired cognitive function and a failure of HPA axis  normalisation with treatment is associated with poor clinical response and high relapse.
+
+Hypothalamic–Pituitary–adrenal axis  changes in depression  
+- One of the most consistent biological findings in more severe depression with melancholic features, and associated with changes in the HPA axis, is the increased  amount of plasma cortisol.  
+- This is caused by a combination of excessive stress related cortisol release and impaired glucocorticoid receptor- mediated feedback inhibition.  
+- Notably, HPA axis changes are also associated with impaired cognitive function and a failure of HPA axis normalisation with treatment is associated with poor clinical response and high relapse.
+
+Diagnosis of perimenopause
+
+
+In the UK, the diagnosis of perimenopause is typically based on clinical evaluation and assessment of symptoms, as well as consideration of a woman's age and menstrual history:  
+Medical History: Require a detailed medical history, including information about menstrual patterns, symptoms experienced i.e. PMS/PND, and any relevant medical conditions or medications. It's important for women to provide accurate information about their symptoms and menstrual cycles, including the regularity and duration of periods.  
+Physical Examination: A physical examination may be conducted to assess overall health and to rule out other conditions, this is not required if perimenopause is suspected.  
+Laboratory Tests: No specific test to definitively diagnose perimenopause. May need to rule out other underlying conditions.  
+Symptom Assessment: Evaluate the presence and severity of symptoms commonly  
+associated with perimenopause, such as hot flashes, night sweats, mood changes, sleep  
+disturbances, and vaginal dryness. A symptom diary or questionnaire may be used to track symptoms over time.
+
+Diagnosis of perimenopausal depression
+
+Treatment options
+
+- Hormone Replacement Therapy (HRT): HRT is one of the primary treatment options for managing perimenopausal symptoms, including depression and anxiety. It involves the administration of oestrogen and sometimes progesterone to alleviate hormonal imbalances and associated symptoms. However, it's crucial to discuss the risks and benefits of HRT with a healthcare professional, as it may not be suitable for everyone.  
+- Cognitive Behavioural Therapy (CBT): CBT is a type of psychotherapy that focuses on identifying and changing negative thought patterns and behaviours associated with depression and anxiety. It has been shown to be effective in treating perimenopausal mood disorders and can be accessed through the National Health Service (NHS) in the UK.  
+- Lifestyle Modifications: Engaging in regular physical activity, maintaining a healthy diet, getting an adequate amount of sleep, and practicing stress- reduction techniques such as mindfulness and relaxation exercises can help alleviate symptoms of depression and anxiety during perimenopause. Additionally, support groups and counselling services can provide valuable emotional support and coping strategies.
+
+NICE Guidelines  
+
+- Fluctuating oestrogen levels have been shown to contribute to the  development of depressive symptoms and low mood during the  perimenopause. Stabilising oestrogen levels with HRT has been shown to be an effective treatment for mild to moderate depressive symptoms.  
+- The NICE guidelines: HRT should be considered as a treatment for low mood  that arises as a result of the menopause.  
+- Only if the patient is experiencing severe major depressive episodes should  the use of anti-depressants be considered; selective serotonin reuptake  inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs).  
+- HRT, preferably transdermal estradiol (gel or patch) should be offered as the  first-line treatment to women with mild perimenopausal depressive  symptoms.
+
+Acknowledge and Address perimenopausal symptoms  
+- Lifestyle measures and/or hormone replacement  therapy (HRT) alongside relevant
+- Refer for CBT/Mindfulness  
+- Aim for a better well-being and physical and mental  health outcomes for patients with severe mental illness.  
+- Follow up with patient – GP/Therapist
+
+
+
+Psychotherapy – cognitive-behavioural therapy (CBT)  
+- Cognitive therapy is based on the concept that habitual negative thinking patterns leave patients vulnerable to depression in response to specific situations.  
+- Therefore, the patient is taught to challenge the beliefs and assumptions that contribute to depression.  
+- Over time, cognitive therapy has evolved to include behavioural elements; it is now known as ‘cognitive-behavioural therapy.’  
+- Interventions : identify and challenge automatic thoughts, engage in  activities that provide evidence to disprove dysfunctional beliefs, modify core beliefs by reviewing evidence
+
+Psychotherapy – mindfulness-based cognitive therapy (MBCT)  
+- ‘Mindfulness’ describes a greater awareness of what is happening in the present moment.  
+- Mindfulness techniques are a way of connecting with thoughts and feelings, in order that a person can change the way they react to them.  
+- MBCT has been studied in randomised controlled trials, compared against ‘treatment as usual’, which showed that treatment with MBCT reduced the risk of depressive relapse
+
+Psychotherapy – mindfulness-based cognitive therapy (MBCT)  
+- ‘Mindfulness’ describes a greater awareness of what is  happening in the present moment.  
+- Mindfulness techniques are a way of connecting with thoughts and feelings, in order that a person can change the way they react to them.  
+- MBCT has been studied in randomised controlled trials,  compared against ‘treatment as usual’, which showed that  treatment with MBCT reduced the risk of depressive relapse
+
+Antidepressants (Only in more severe cases – MDD)  
+- Antidepressants are the main pharmacological agents used in the treatment of major depressive disorder.  
+- Several classes of antidepressant are available;  selective serotonin reuptake inhibitors (SSRIs) are  generally the most commonly prescribed.  
+- A patient requiring an antidepressant for a first major  depressive episode will generally receive  monotherapy
+
+Antidepressants (Only in more severe  cases – MDD)  
+- Antidepressants are the main pharmacological agents  used in the treatment of major depressive disorder.  
+- Several classes of antidepressant are available;  selective serotonin reuptake inhibitors (SSRIs) are  generally the most commonly prescribed.  
+- A patient requiring an antidepressant for a first major depressive episode will generally receive  monotherapy
+
+- The selective serotonin re-uptake inhibitors (SSRIs) are thought to restore the levels of serotonin in the synaptic cleft by binding at the serotonin re-uptake transporter preventing the re-uptake and subsequent  degradation of serotonin.  
+- This re-uptake blockade leads to the accumulation of serotonin in the synaptic cleft and the concentration of serotonin returns to within the normal range.  
+- This action of SSRIs is thought to contribute to the alleviation of the symptoms of depression
+
+
+# Homosaur
 
 
 
