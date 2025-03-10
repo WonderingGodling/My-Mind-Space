@@ -2,7 +2,10 @@
 {"dg-publish":true,"dg-permalink":"Microbiology stuff","permalink":"/Microbiology stuff/","title":"Microbiology","tags":["Tagless"],"dgShowToc":true,"noteIcon":""}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important} img{
+ float: left;
+}</style>
+
 
 
 # <center><span style="color:#D6B164">Microbiology</span></center>
@@ -12,7 +15,8 @@
 [[Uni/4BM024 Microbiology/Microbiology#Week 4 Terrestrial Microbiology Part 2\|Terrestrial Microbiology Part 2]]
 [[Uni/4BM024 Microbiology/Microbiology#Week 5 Nutrition and Respiration\|Nutrition and Respiration]] [[Uni/4BM024 Microbiology/Microbiology#week 6 Industrial Microbiology And Biotechnology\|Microbiology And Biotechnology]] 
 [[Uni/4BM024 Microbiology/Microbiology#week 7 Marine Microbiology\|Marine Microbiology]] 
-[[Uni/4BM024 Microbiology/Microbiology#week 8\|Week 8]] 
+[[Uni/4BM024 Microbiology/Microbiology#week 8 Transmission Entry and colonisation\|Transmission Entry and colonisation]] 
+[[Uni/4BM024 Microbiology/Microbiology#Week 8 The Structure of viruses\|The Structure of viruses]] 
 [[Uni/4BM024 Microbiology/Microbiology#Definitions\|Definitions]]</sub>
 
 ## week 2 Classification, structure and function of microbes
@@ -155,14 +159,14 @@ Proposed by Woese and Fox in 1977 and based on the [[Uni/4BM024 Microbiology/Mic
 ##### Bacterial Cell Wall Function
 - surrounds plasma membrane
 - Maintains cell shape
--   Protects cell from osmotis lysis and toxisity
+-   Protects cell from osmosis lysis and toxicity
 - Makes some viruses stronger
 - Mycoplasmas and Chlamydia sp. have no cell wall
 - Bacterial cell wall synthesis is targeted by antibiotics
 
 ### Gram Reaction
 Hans Christian Gram (Danish physician) discovered grams in bacterial walls in 1884
-- **Crystal violet** stains cells purple  
+- Crystal violet stains cells purple  
 - Lugol’s iodine forms a complex with Crystal violet  
 - Gram-negative cells lose this complex when exposed to ethanol
 - Gram-positive cells retain purple complex  
@@ -921,7 +925,7 @@ triphosphate (ATP)
 3. How they generate reducing equivalents  
 - Lithotrophic - reducing equivalents (electrons) are obtained from inorganic compounds (H2,NH3, CO, H2S, SO42-, Fe )  
 - Organotrophic - reducing equivalents (electrons) are obtained from organic compounds (e.g. carbohydrates, proteins, lipids)  
-These terms can be combined to describe the organism - e.g. photolithoautotrophs (plants), chemoorganoheterotrophs (animals)
+- These terms can be combined to describe the organism - e.g. photolithoautotrophs (plants), chemoorganoheterotrophs (animals)
 
 #### The Benthic zone  
 - At rock bottom!  
@@ -946,312 +950,205 @@ These terms can be combined to describe the organism - e.g. photolithoautotrophs
 - Covert acetate to methane that psycrophilic methanogens can use for nutrition.  
 - Many form symbioses with large slow growing animals
 
-## week 8 
+## week 8 Transmission Entry and colonisation
+![](https://i.imgur.com/Vm7dxyo.png)
 
-### Transmission Entry and colonisation
-
-#### Transmission of pathogens  
-- Transmission occurs via 3 main  
-mechanisms  
-- Contact  
-- Direct, indirect, airborne  
-- Disease vehicles  
-- Medium in which disease can spread  
-- Blood, water, food, soil, air  
-- Vectors - insects  
-- Insects - bites, faeces or from body or mouth parts  
-- Mechanical or Biological  
-- Often reservoirs of disease agents
-- Contact transmission  
-- Direct contact  
+Transmission occurs via 3 main mechanisms: Direct, indirect, or airborne  
+#### Direct Contact 
 - Skin, mucous membranes, puncture wounds  
 - Human - human or animal - human  
 - Animals - Zoonoses / Zoonosis  
-- animal disease transmitted to humans - Anthrax, Plague  
-- Indirect contact  
-- Fomites - inanimate objects that contribute to  
-transmission  
-- Airborne (droplets)
-- Coughing, sneezing, laughing
-Transmission of pathogens  
-- Human to human transmission is the most  
-effective  
-- The commonest diseases are spread by  
-- The respiratory route  
-- The faecal-oral route  
-- The venereal route  
-- Effectiveness of transmission influenced by  
-- Number of organisms shed  
-- Environmental stability  
-- Infectious dose - linked to relative disease causing potential  
-(virulence), site of infection
-- The more organisms shed the better the  
-chance of transmission occurring  
-- Many mechanisms evolved - Cholera  
-- Stability depends on species and stress  
-- Most resistant to desiccation remain infectious  
-- Mycobacterium tuberculosis  
-- Influenza  
-- Bacilli and the Clostridia - spore formers  
-- Less environmentally resistant pathogens rely  
-on direct transmission & vehicles
-- The infectious dose depends on species,  
-site of infection and host status.  
-- Dose required for disease is highly variable:  
-- Anthrax (Bacillus anthracis) 8000 - 80000 spores  
-- Salmonella enteritidis (salmonellosis) - 1,000,000 cells  
-- Shigella dysinteriae (shigellosis) - 10 cells  
-- Coxiella burnettii (Q fever) - 1 cell  
-- Fransicella tularensis (tularemia) < 1 cell  
-- Infection via respiratory tract much more acute  
-- Also depends on nutrition, genetics, age
+	- animal disease transmitted to humans - Anthrax, Plague  
 
-#### Entry and exit of pathogens  
-- Once transmitted to a new host the organism  
-must enter and attach, and evade before  
-colonisation and disease is produced  
-- Many portals of entry  
-- Mucous membranes - GI, nasopharynx, eyes, ears, genitals  
-- Broken skin  
-- Glands  
-- Entry sites can also be sites of exit  
-- Secretions  
-- Skin - skin scales, blood
-Entry and exit of pathogens  
-- The skin  
+#### Indirect Contact
+- Fomites - inanimate objects that contribute to transmission  
+- Disease vehicles - Blood, water, food, soil, air
+-  Airborne (droplets)
+	- Coughing, sneezing, laughing Transmission of pathogens 
+
+### Vectors - insects  
+Mechanical or Biological. Can be from bites, faeces or from body or mouth parts.   
+Often reservoirs of disease agents
+
+### Human to human transmission   
+- The commonest diseases are spread by  
+	- The respiratory route  
+	- The faecal-oral route  
+	- The venereal route  
+
+- Effectiveness of transmission influenced by  
+	- Number of organisms shed  
+	- Environmental stability  
+	- Infectious dose (ID50)- linked to relative disease causing potential (virulence), site of infection
+
+- The more organisms shed the better the chance of transmission occurring  
+	- Many mechanisms evolved - Cholera  
+
+- Stability depends on species and stress  
+	- Most resistant to desiccation remain infectious  
+		- Mycobacterium tuberculosis  
+		- Influenza  
+		- Bacilli and the Clostridia - spore formers  
+	- Less environmentally resistant pathogens rely on direct transmission & vehicles
+
+- The infectious dose depends on species, site of infection and host status.  
+	- Dose required for disease is highly variable:  
+		- Anthrax (Bacillus anthracis) 8000 - 80000 spores  
+		- Salmonella enteritidis (salmonellosis) - 1,000,000 cells  
+		- Shigella dysinteriae (shigellosis) - 10 cells  
+		- Coxiella burnettii (Q fever) - 1 cell  
+		- Fransicella tularensis (tularemia) < 1 cell  
+	- Infection via respiratory tract much more acute  
+	- Also depends on nutrition, genetics, age
+
+### Entry and exit of pathogens  
+- Once transmitted to a new host the organism must enter and attach, and evade before colonisation and disease is produced  
+	- Many portals of entry  
+		- Mucous membranes - GI, nasopharynx, eyes, ears, genitals  
+		- Broken skin  
+		- Glands  
+	- Entry sites can also be sites of exit  
+		- Secretions  
+		- Skin - skin scales, blooEntry and exit of pathogens 
+#### The skin  
 - Very good barrier to infection  
-- Normal flora - competition and antimicrobials  
-- Dry and low pH  
-- Entry through  
-- Cuts, abrasions, bites, puncture wounds, hair  
-folicles  
-- Burns particularly prone to infection  
-- Also a site of transmission  
-- Disease vehicle - skin scales - 108 scales/day
-- The respiratory tract  
+	- Normal flora - competition and antimicrobials  
+	- Dry and low pH  
+- Entry through: cuts, abrasions, bites, puncture wounds, hair folicles. Burns are particularly prone to infection  
+- Also a disease vehicle (skin scales - 108 scales/day)
+#### The respiratory tract  
 - Approx. 10,000 viable organisms inhaled/day  
-- Removed by entrapment in mucous and  
-swallowing  
-- Aerodynamic baffle design - Nasal turbinates  
-- Ciliated epithelium - Mid/upper respiratory tree  
-- In the deep lung only clearance achieved by  
-alveolar macrophages
-- To colonise the respiratory tract a pathogen  
-must:  
+- Removed by entrapment in mucous and swallowing  
+	- Aerodynamic baffle design - Nasal turbinates  
+	- Ciliated epithelium - Mid/upper respiratory tree  
+- In the deep lung only clearance achieved by alveolar macrophages
+
+To colonise the respiratory tract a pathogen must:  
 - Adhere strongly  
-- Specific adhesins (ligands) that bind to host  
-epithelial cell receptors  
+	- Specific adhesins (ligands) that bind to host epithelial cell receptors  
 - Inhibit clearance mechanisms  
-- Muco-ciliary escalator clears particulates  
+	- Muco-ciliary escalator clears particulates  
 - Resist macrophage killing  
-- Mycobacterium tuberculosis
-- To colonise the respiratory tract a pathogen  
-must:  
-- Adhere strongly  
-- Specific adhesins (ligands) that bind to host  
-epithelial cell receptors  
-- Inhibit clearance mechanisms  
-- Muco-ciliary escalator clears particulates  
-- Resist macrophage killing  
-- Mycobacterium tuberculosis
-- Transmission from the respiratory tract  
-- Respiratory pathogens damage respiratory  
-tract  
-- Mucous production  
-- Sneezing  
-- Coughing  
-- Results in microbial contamination of surfaces  
-and infectious aerosol production  
-- Creates fomites
-- The Gastrointestinal (GI) tract  
-- Adherence to host cell receptors is very  
-important  
-- E. coli - adhesins on pili and fimbrae  
+	- Mycobacterium tuberculosis
+
+##### Transmission from the respiratory tract  
+- Respiratory pathogens damage respiratory tract  
+	- Mucous production  
+	- Sneezing  
+	- Coughing  
+- Results in microbial contamination of surfaces and infectious aerosol production  
+	- Creates fomites
+#### The Gastrointestinal (GI) tract  
+- Adherence to host cell receptors is very important  
+	- E. coli - adhesins on pili and fimbrae  
 - Invasion of underlying tissues  
-- Shigella dysenteriae - invade immune tissues  
+	- Shigella dysenteriae - invade immune tissues  
 - Bile and acid resistance  
-- Helicobacter pylori - lives in the stomach  
+	- Helicobacter pylori - lives in the stomach  
 - Production of diarrhoea is an advantage  
-- Faecal - oral transmission
-- The gastrointestinal (GI) tract  
-- ‘Food poisoning’ is a consequence of microbial  
-growth in or on foods  
-- Ingestion of large amounts of organisms -  
-colonisation  
-- Ingestion of preformed microbial toxins  
-- Clostridium botulinum - canned foods  
-- Bacillus cereus - rice  
-- Aspergilli - badly stored nuts and pulses
-- Transmission from the GI tract  
+	- Faecal - oral transmission 
+- ‘Food poisoning’ is a consequence of microbial growth in or on foods  
+	- Ingestion of large amounts of organisms - colonisation  
+	- Ingestion of preformed microbial toxins  
+		- Clostridium botulinum - canned foods  
+		- Bacillus cereus - rice  
+		- Aspergilli - badly stored nuts and pulses
 - Occurs in unsanitary conditions  
 - Faecal - oral spread  
-- Hand washing important  
-- Water treatment, sanitation and purification  
-reduced incidence in 1st world  
-- Water borne disease still common in third worlds  
-- The Urinary tract  
+	- Hand washing important  
+- Water treatment, sanitation and purification reduced incidence in 1st world  
+	- Water borne disease still common in third worlds  
+#### The Urinary tract  
 - Two main types of infection  
-- Urinary tract infections (UTI’s)  
-- Sexually transmitted diseases (STD’s)  
-- Pathogens have special adaptations that aid in  
-attachment  
-- Resist flushing action of urine  
-- Posses adhesins that bind to urethral epithelial cells  
-- Neisseria gonorrhoea - pillus adhesins  
-- Invade brakes in the skin and membranes  
-- Treponema pallidium - syphilis
-- The Urinary tract  
-- UTI’s are caused by transmission of enteric  
-organisms to urinary tract  
-- Poor personal hygiene  
-- Catheters  
-- Lead to cystitis, urethritis, kidney infections  
-- Common in hospitals  
-- Women more prone  
-- Escherichia coli (most common in UK)
-- The urinary tract  
-- Pathogens causing STD’s and UTI’s are poorly  
-transmitted  
+	- Urinary tract infections (UTI’s)  
+	- Sexually transmitted diseases (STD’s)  
+- Pathogens have special adaptations that aid in attachment  
+	- Resist flushing action of urine  
+	- Posses adhesins that bind to urethral epithelial cells  
+		- Neisseria gonorrhoea - pillus adhesins  
+	- Invade brakes in the skin and membranes  
+		- Treponema pallidium - syphilis
+- UTI’s are caused by transmission of enteric organisms to urinary tract  
+	- Poor personal hygiene  
+	- Catheters  
+	- Lead to cystitis, urethritis, kidney infections  
+	- Common in hospitals  
+	- Women more prone  
+	- Escherichia coli (most common in UK)
+- Pathogens causing STD’s and UTI’s are poorly transmitted  
 - Low environmental resistance and persistence  
 - Rely on direct forms of transmission  
-- Touching  
-- Sexual intercourse  
-- Those that form blisters, growths or puss are  
-transmitted the best!
-- The blood  
+	- Touching  
+	- Sexual intercourse  
+- Those that form blisters, growths or puss are transmitted the best!
+#### The blood  
 - Type of disease vehicle - new hosts  
 - Spread within the body - within host  
-- Pathogens in the blood can enter and exit a  
-host by parenteral routes  
-- Breaks in skin barrier  
-- Blood sucking insects - Vectors - malaria, plague, typhus  
-- Sharing needles  
-- Contaminated blood products and surgery  
-» iatrogenic infection  
+- Pathogens in the blood can enter and exit a host by parenteral routes  
+	- Breaks in skin barrier  
+		- Blood sucking insects - Vectors - malaria, plague, typhus  
+		- Sharing needles  
+		- Contaminated blood products and surgery  
+			- iatrogenic infection  
 - Mother to baby - Transplacental transmission
 
-## Microbes as pathogens (Viruses)
-Overview  
-- Some important definitions  
-- What is a virus  
-- General structure of viruses  
-- Replication strategies of viruses  
-- Stages in infection of cells  
-- Effect of viruses on cells  
-- Examples of viral pathogens
+## Week 8 The Structure of viruses  
 
-What I want you to know:  
-- The structure of a virus  
-- The life cycle of viruses  
-- Entry and exit points of viruses in humans  
-- Consequences of viral infection
 
-Some important definitions  
-- Pathogen  
-- An organism that can cause disease (damage) in a host  
-- Pathogenicity  
-- The ability to cause disease (Damage)  
-- Virulence  
-- A relative measure of disease causing potential  
-- Virulence factor  
-- A pathogen derived substance or structure that contributes to  
-virulence/damage
+Viruses are acellular,  They are obligate parasites. They must hijack a host cells metabolic and synthetic machinery to  survive and make more virus.
 
-Introduction  
-- Viruses are not cells:  
-- They do not grow and divide  
-- They do not have cell walls, a nucleus or any other organelles seen in  
-cells  
-- They are incapable of cellular metabolic activity  
-- They must hijack a host cells metabolic and synthetic machinery to  
-make more virus  
-- Therefore, they cannot survive without a host and so are obligate  
-parasites
 
-The Structure of viruses  
-- General structure  
-- Genome (nucleic acid core)  
-- Contains the genetic information as ds/ss - RNA or DNA  
-- Capsid  
+
+### General structure  
+![](https://i.imgur.com/GhPgOzT.png)
+#### Genome (nucleic acid core)  
+- Contains the genetic information as [[Uni/4BM024 Microbiology/Microbiology#ds\|ds]] /[[Uni/4BM024 Microbiology/Microbiology#ss\|ss]] - RNA or DNA  
+#### Capsid  
 - Protein shell for genome - Gives protection during transmission  
 - Target for host immune response  
 - Made up of protein sub-units called CAPSOMERS
-
-The Structure of viruses  
-- General structure  
-- Envelope (viral membrane)  
+#### Envelope (viral membrane)  
 - Not present in all viruses  
 - Contains host membrane components  
-- CSM or nuclear membrane  
+	- CSM or nuclear membrane  
 - Contains viral proteins  
-- Viral spikes proteins carrying receptors  
+	- Viral spikes proteins carrying receptors  
 - May have other proteins between envelope and capsid  
 - Used for entry to cells
 
-The structure of viruses  
-- Shape:  
-- Majority of viruses rod or  
-sphere shaped  
-- Rods are said to have helical  
-symmetry and spheres have  
-icosahedral symmetry  
-- Can be a combination of both  
-and have complex  
-symmetry.
+### Shape:  
 
-The structure of viruses  
-- Helical capsids.  
-- These are assembled from  
-rings of protomeres  
-- This type of symmetry  
-enables very stable rods to  
-be assembled  
-- Straight and flexible rods  
-formed
+![](https://i.imgur.com/STMiA31.png) 
+- Majority of viruses rod or sphere shaped  
+- Rods are said to have helical symmetry and spheres have icosahedral symmetry  
+- Can be a combination of both and have complex symmetry.
+#### Helical capsids.  
+- These are assembled from rings of protomeres  
+- This type of symmetry enables very stable rods to be assembled  
+- Straight and flexible rods formed
 
-The structure of viruses  
-- Icosahedral capsids  
-- An icosahedron has  
-- 20 faces  
+#### Icosahedral capsids  
+- 20 faces 
+	- Asymmetric capsomeres arranged in an equilateral triangle  (Minimum 60 capsomeres)
 - 30 edges  
 - 12 vertices
 
-The structure of viruses  
-- Icosahedral capsids  
-- Asymmetric capsomeres are  
-arranged in an equilateral  
-triangle  
-- 20 faces on an icosahedron =  
-60 capsomeres
-
-The structure of viruses  
-- Complex viruses  
-- Helical or icosahedral  
-or neither  
-- May possess additional  
-structures  
+#### Complex viruses  
+- Helical or icosahedral or neither  
+- May possess additional structures  
 - Pox viruses  
 - Small pox  
 - White pox
 
-The structure of viruses  
-A diagrammatic representation of the classification system of viruses. This  
-is partly based on the shape of the virus particle itself. It also considers the  
-type of nucleic acid, strandedness and the presence or absence of a viral  
-envelope
-
-Viruses as pathogens  
-- The main aims of a virus are:  
+### The main aims of a virus are:  
 - To infect host cells  
 - Make more virus  
 - Infect more cells  
 - Be released  
-- To infect the body virus must first reach a suitable entry site or  
-portal of entry  
+- To infect the body virus must first reach a suitable entry site or portal of entry  
 - Virus life cycle begins after it enters a cell
 
-Viruses as pathogens  
-- Portals of entry for viruses  
+### Portals of entry for viruses  
 - Mucous membranes  
 1. Respiratory tract  
 2. Gastrointestinal tract (GI)  
@@ -1262,60 +1159,45 @@ Viruses as pathogens
 2. Vectors  
 3. Iatrogenic infection.
 
-Replication strategies  
-- Attachment and Entry - infection of susceptible  
-cells.  
+### Replication strategies  
+#### Attachment and Entry - infection of susceptible  cells.  
 - Virus must first bind to permissive cells using receptors  
 - Entry is then through:  
 - Direct penetration - naked (non-enveloped) viruses  
 - Fusion with the cell membrane - enveloped viruses  
 - Entry via ENDOCYTOSIS or engulfment- enveloped viruses  
-- Allows uncoating - loss of envelope and capsid
-Replication strategies  
-- Exit of virus from cells  
+- Allows uncoating - loss of envelope and capsid Replication strategies  
+#### Exit of virus from cells  
 - Direct lysis (bursting) of the infected cell  
 - Often naked viruses  
 - Most enteroviruses do this - Polio v  
 - Exit via enzymatic disruption inner cytoplasmic membrane  
-- Budding through/from the cell membrane or nuclear  
-membrane  
+- Budding through/from the cell membrane or nuclear membrane  
 - Enveloped viruses - HIV, HSV, influenza  
-- Both part of lytic life cycle
-Replication strategies  
-- Infection and replication  
-- Replication in susceptible (permissive) cells at site of  
-entry  
+- Both part of lytic life cycle Replication strategies  
+#### Infection and replication  
+- Replication in susceptible (permissive) cells at site of  entry  
 - Overcome local innate defences  
 - Spread from site of inoculation - viraemia  
 - Undergo further replication in target organ  
-- Escape from host in large enough numbers to infect  
-new host
+- Escape from host in large enough numbers to infect  new host
 
-Viruses as pathogens  
-- Consequences of infection  
-- Symptoms of viral infection are not caused by  
-products of the virus - no metabolites!  
+#### Consequences of infection  
+- Symptoms of viral infection are not caused by  products of the virus - no metabolites!  
+- Symptoms of disease often caused by  
+- Deregulation of cellular function  
+- Direct damage to cells from viral replication  
+- Host immune response to infection
+- Symptoms of viral infection are not caused by products of the virus - no metabolites! 
 - Symptoms of disease often caused by  
 - Deregulation of cellular function  
 - Direct damage to cells from viral replication  
 - Host immune response to infection
 
-Viruses as pathogens  
-- Consequences of infection  
-- Symptoms of viral infection are not caused by  
-products of the virus - no metabolites!  
-- Symptoms of disease often caused by  
-- Deregulation of cellular function  
-- Direct damage to cells from viral replication  
-- Host immune response to infection
-
-Viruses as pathogens  
-- Recovery from viral infection  
+### Recovery from viral infection  
 - Destruction of virus infected cells  
 - Innate and specific immune responses  
-- Immune response directed towards  
-capsid/binding proteins - important viral  
-antigens  
+- Immune response directed towards  capsid/binding proteins - important viral  antigens  
 - Immune response can prevent re-infection
 
 ## Definitions
@@ -1331,12 +1213,19 @@ a molecule made of ribose nucleotides. The nitrogenous bases for RNA are adenine
 molecule in cells that forms part of the protein-synthesizing organelle (ribosomes). [[Uni/4BM024 Microbiology/Microbiology#ribosomal RNA (rRNA)\|rRNA]] goes to the cytoplasm to help translate [[Uni/4BM024 Microbiology/Microbiology#messenger RNA (mRNA)\|mRNA]]  into proteins
 ###### messenger RNA (mRNA)
 a molecule containimg the instructions for making a protein
-###### ssDNA
-Single stranded DNA
-###### dsDNA
-Double stranded DNA
+###### ss
+Single stranded 
+###### ds
+Double stranded 
 
-
+###### Pathogen  
+An organism that can cause disease (damage) in a host  
+###### Pathogenicity  
+The ability to cause disease (Damage)  
+###### Virulence  
+A relative measure of disease causing potential  
+###### Virulence factor  
+A pathogen derived substance or structure that contributes to virulence/damage
 
 
 
