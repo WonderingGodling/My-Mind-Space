@@ -2,9 +2,11 @@
 {"dg-publish":true,"dg-permalink":"Microbiology stuff","permalink":"/Microbiology stuff/","title":"Microbiology","tags":["Tagless"],"dgShowToc":true,"noteIcon":""}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important} img{
- float: left;
-}</style>
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important} 
+img{
+ float: right;
+}
+</style>
 
 
 
@@ -1145,35 +1147,36 @@ Viruses are acellular,  They are obligate parasites. They must hijack a host cel
 - Make more virus  
 - Infect more cells  
 - Be released  
-- To infect the body virus must first reach a suitable entry site or portal of entry  
-- Virus life cycle begins after it enters a cell
+To infect the body virus must first reach a suitable entry site or portal of entry. Virus life cycle begins after it enters a cell
 
 ### Portals of entry for viruses  
-- Mucous membranes  
+Mucous membranes  
 1. Respiratory tract  
 2. Gastrointestinal tract (GI)  
 3. Urinogenital tract  
 4. Conjunctiva (Eye)  
-- Skin  
-1. Abrasions  
-2. Vectors  
-3. Iatrogenic infection.
+Skin  
+5. Abrasions  
+6. Vectors  
+7. Iatrogenic infection.
+Penetration and uncoating is essential in viral infection of cells as it allows the release of the viral genome and starts the replication cycle
 
+[Virus uncoating]
 ### Replication strategies  
 #### Attachment and Entry - infection of susceptible  cells.  
 - Virus must first bind to permissive cells using receptors  
 - Entry is then through:  
-- Direct penetration - naked (non-enveloped) viruses  
-- Fusion with the cell membrane - enveloped viruses  
-- Entry via ENDOCYTOSIS or engulfment- enveloped viruses  
+	- Direct penetration - naked (non-enveloped) viruses  
+	- Fusion with the cell membrane - enveloped viruses  
+	- Entry via ENDOCYTOSIS or engulfment- enveloped viruses  
 - Allows uncoating - loss of envelope and capsid Replication strategies  
 #### Exit of virus from cells  
 - Direct lysis (bursting) of the infected cell  
-- Often naked viruses  
-- Most enteroviruses do this - Polio v  
-- Exit via enzymatic disruption inner cytoplasmic membrane  
+	- Often naked viruses  
+	- Most enteroviruses do this - Polio v  
+		- Exit via enzymatic disruption inner cytoplasmic membrane  
 - Budding through/from the cell membrane or nuclear membrane  
-- Enveloped viruses - HIV, HSV, influenza  
+	- Enveloped viruses - HIV, HSV, influenza  
 - Both part of lytic life cycle Replication strategies  
 #### Infection and replication  
 - Replication in susceptible (permissive) cells at site of  entry  
@@ -1185,18 +1188,13 @@ Viruses are acellular,  They are obligate parasites. They must hijack a host cel
 #### Consequences of infection  
 - Symptoms of viral infection are not caused by  products of the virus - no metabolites!  
 - Symptoms of disease often caused by  
-- Deregulation of cellular function  
-- Direct damage to cells from viral replication  
-- Host immune response to infection
-- Symptoms of viral infection are not caused by products of the virus - no metabolites! 
-- Symptoms of disease often caused by  
-- Deregulation of cellular function  
-- Direct damage to cells from viral replication  
-- Host immune response to infection
+	- Deregulation of cellular function  
+	- Direct damage to cells from viral replication  
+	- Host immune response to infection
 
 ### Recovery from viral infection  
 - Destruction of virus infected cells  
-- Innate and specific immune responses  
+	- Innate and specific immune responses  
 - Immune response directed towards  capsid/binding proteins - important viral  antigens  
 - Immune response can prevent re-infection
 
@@ -1226,6 +1224,7 @@ The ability to cause disease (Damage)
 A relative measure of disease causing potential  
 ###### Virulence factor  
 A pathogen derived substance or structure that contributes to virulence/damage
+###### virion
 
 
 
