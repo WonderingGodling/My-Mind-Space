@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6
 
 
 
-<h1> <center>Microbiology</center> </h1>
+# <h1> <center>Microbiology</center> </h1>
 
 <sub> [[Uni/4BM024 Microbiology/Microbiology#week 2 Classification, structure and function of microbes\|Classification, structure and function of microbes]]
 [[Uni/4BM024 Microbiology/Microbiology#Week 3 Bacterial growth and Genetics\|Bacterial growth and Genetics]]
