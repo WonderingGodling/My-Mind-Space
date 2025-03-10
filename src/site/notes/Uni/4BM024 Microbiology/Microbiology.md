@@ -6,11 +6,15 @@
 img{
  float: right;
 }
+h1, h2, h3, h4, h5, h6
+{
+    color: #4BF024;
+}
 </style>
 
 
 
-# <center><span style="color:#D6B164">Microbiology</span></center>
+# <h1> <center>Microbiology</center> </h1>
 <sub> [[Uni/4BM024 Microbiology/Microbiology#week 2 Classification, structure and function of microbes\|Classification, structure and function of microbes]]
 [[Uni/4BM024 Microbiology/Microbiology#Week 3 Bacterial growth and Genetics\|Bacterial growth and Genetics]]
 [[Uni/4BM024 Microbiology/Microbiology#Week 4 Terrestrial Microbiology Part 1\|Terrestrial Microbiology Part 1]]
@@ -1161,7 +1165,7 @@ Skin
 7. Iatrogenic infection.
 Penetration and uncoating is essential in viral infection of cells as it allows the release of the viral genome and starts the replication cycle
 
-[Virus uncoating]
+
 ### Replication strategies  
 #### Attachment and Entry - infection of susceptible  cells.  
 - Virus must first bind to permissive cells using receptors  
