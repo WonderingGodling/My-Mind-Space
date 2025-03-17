@@ -1203,6 +1203,8 @@ Penetration and uncoating is essential in viral infection of cells as it allows 
 - Immune response directed towards  capsid/binding proteins - important viral  antigens  
 - Immune response can prevent re-infection
 
+
+
 ## Definitions
 ###### phylogenetic tree
 a diagram that depicts the lines of evolutionary descent of different species, organisms, or genes from a common ancestor.
@@ -1232,7 +1234,197 @@ A pathogen derived substance or structure that contributes to virulence/damage
 ###### virion
 
 
+## Week 9 Bacteria, Fungi and Parasites
 
+Some useful definitions - a reminder  
+- Pathogen  
+	- An organism that can cause disease (damage) in a host  
+- Pathogenicity  
+	- The ability to cause disease (Damage)  
+- Virulence  
+	- A relative measure of disease-causing potential  
+- Virulence factor  
+	- A pathogen derived substance or structure that contributes to virulence/damage
+
+### Bacteria  
+- Unicellular microscopic organisms which vary in  morphology, nutritional requirements & motility  
+- First observed in 1683 using primitive microscope  
+- Evolutionarily ancient  
+- Ubiquitous - largest component of earth biomass  
+- Ecosystem depends upon bacterial activity
+#### Role of bacteria  
+In nature:  
+- Fixation of atmospheric nitrogen to allow plant growth and  degrade organic matter  
+- Rain - DMS  
+- Production of vitamins - B12  
+
+For industry:
+- Enzyme and food production - Yogurt and fermented foods
+
+Negatives:
+- Degradation of industrial material (E.g. Fuels, Plastics, metals)  
+- Food spoilage  (E.g. Disease of crops/ animals/ contamination) 
+- Disease in humans  (E.g. Mild transient/ Deadly persistent)
+
+#### Bacteria and infection  
+Bacterial infections can be broadly divided into 3 types:  
+- Acute infections (Often rapid onset, Severe symptoms, short lived)  
+- Chronic infections (Slow progression, Long lasting)  
+- Latent infections  (Pathogen present and viable but no disease - chronic disease)
+
+#### Bacterial pathogens  
+
+##### Staphylococcus aureus  
+- Gram positive cocci that grows in clumps  
+-  Found in throats of 100% healthy people, faeces of 20% healthy people, skin of 5% healthy people  
+- Transmitted though droplets, sputum, food, dust - skin scales  
+- Produces a very wide variety of illnesses
+###### Conditions caused by Staphylococcus aureus  
+- Food poisoning 4-6 h onset, 24hr duration  
+- Scalded skin syndrome, toxic shock syndrome  
+- Wound and skin infections  
+- Septicaemia, Pneumonia, endocarditis, Osteomyelitis  
+- May be fatal
+##### Streptococcus pyogenes  
+- Gram- positive cocci that grows in ‘chains’  
+- Commensal of the respiratory tract, gastrointestinal  tract, female genital tract, skin  
+- Transmission is through droplet, skin scales, sputum, food, dust.  
+- Produces a variety of illnesses due to action of toxins and other factors it produces.
+###### Conditions caused by Streptococcus pyogenes  
+- Pharyngitis  
+- Scarlet fever  
+- Rheumatic fever  
+- Acute glomerulonephritis  
+- Puerperal fever  
+- Necrotising fasciitis
+
+### Fungi  
+- Eukaryotic organisms  
+- Contain a nucleus  
+- NOT PLANTS - Lack chlorophyll  
+- Provide essential functions in nutrient cycling and degradation of organic matter - Saprophytic  
+- Depend on living or dead organic material for nitrogen source
+
+Fungi are sometimes pathogenic to animals  
+- More that 200,000 species but only 200 are pathogenic  
+- Some only cause disease in the compromised host or when introduced to tissues (Opportunistic/opportunists)  
+- Few are actual pathogens
+
+Fungi are also important in industry  
+- Degradative enzymes   (E.g. Cellulases, Amylases, Ligninases)  
+- Ethanol production  (E.g. Saccharomyces - recreational alcohols) 
+- Food (E.g. Bread, Mycoproteins - Quorn - Fusarium venenatum)
+ 
+
+
+#### Fungal infections in humans  
+- Superficial mycoses  (E.g. Skin, hair, nails or mucous membranes (outermost) ) 
+- Cutaneous mycoses (E.g. Skin, hair, nails - invasive to epidermis)  
+- Subcutaneous mycoses (E.g. Involves the dermis, soft tissues, muscle & bone)  
+- Systemic mycoses (E.g. Lungs and spread to many organs
+##### Superficial and cutaneous mycoses  
+- Caused by deposition of fungal material on surface of the body (E.g. Skin, Hair, Nails)
+- Low virulence organisms (less pathogenic)  
+- Mostly remain confined to the superficial surface  
+- Keratinophytes - degrade keratin
+- Causative organisms are dermatophytes  
+	- Three main genera  
+		- Microsporum  
+		- Trichophyton  
+		- Epidermophyton  
+- Skin to skin contact, fomites 
+- Clinical manifestations referred to as ringworm or tinea  
+- Common in the tropics  
+- Chronic infections in the dermis, soft tissues and bone  
+- Introduction of fungi directly into skin and deeper dermis (E.g. Penetrating wounds - feet)  
+- Chronic inflammatory infection involving lymphatic system (E.g. Develop slowly - May become polymicrobial)
+###### Transmission of subcutaneous and cutaneous mycoses  
+Human to human  
+- Direct contact - Often highly contagious  
+- Indirect - Swimming pools, Jacuzzis, gym  
+Zoonotic  
+- pets or farm animals - Direct or Indirect - Gateposts on farms
+- Transmission of subcutaneous and cutaneous mycoses  
+
+
+### Parasite
+Macroscopic or microscopic eukaryotic organism that is part of a parasitic relationship with a host  
+Can be unicellular or extremely large  
+The parasite may be harmful and be a pathogen depending on host/ pathogen factors, If not harmful - commensal
+
+#### Introduction  
+#### Parasite / host relationships  
+- Facultative  
+	- Free living & parasitic, can survive without a host  
+- Obligate  
+	- Not free living and needs a host to survive  
+- Ectoparasites  
+	- live on the surface of a host  
+- Endoparasites  
+	- live inside the host
+##### Parasite life cycles are often complex  
+- Transmission horizontal or vertical  
+- Have evolved to exploit habits of host spp.  
+- May involve intermediate hosts  
+	- Can be more than one  
+	- Help to extend range of parasite  
+- Final host may be completely unrelated species  
+	- Dicrocoelium dendriticum - Lancet fluke
+
+#### Classification of parasitic organisms  
+- Those that infect humans are divided into 3 groups:  
+	- The Protozoa  
+	- The Helminths  
+	- Arthropods  
+- The groups are subdivided (Describes different morphological characteristics)
+##### Protozoa
+- Amoebae  
+	- move via extending pseudopodia (Entamoeba histolytica)  
+- Flagellates  
+	- move via beating flagella (Trypanosoma species)
+- Ciliates  
+	- Move by beating a covering of hair like cilia (Balantidium coli)  
+- Sporozoa (apicomplexia)  
+	- No obvious method of locomotion. All members are parasites and most intracellular
+##### Helminths  
+- Parasitic round and flat worms  
+	- May be very large  
+	- Often enter through digestive system  
+- Cestodes - tape worms  
+- Nematodes - round worms  
+- Trematodes - flukes
+
+#### Damage to the host by parasites  
+- Direct damage to cells  
+- Tissue damage as the result of blockage  
+	- Blockage of lymph ducts - Elephantiasis  
+- Result of inflammatory response to the parasite  
+	- Induction of allergic reactions hypersensitivity - antigens  
+- Vector of other diseases - malaria mosquito
+
+#### Important parasitic diseases  
+##### Malaria  
+- 300 million cases & over 2 million deaths per year  
+- Africa - kills a child every 30 sec  
+- Caused by protozoa - Plasmodium falciparum, P. vivax, P. ovale, P. malariae o P. Knowlesii  
+	- P. faliciparum most severe  
+- Carried by the female Anopheles mosquito  
+- Infection occurs when a mosquito feeds
+##### Filarial nematodes  
+- Nematodes - roundworms  
+- Large group causing Lymphatic Filariasis:  
+	- Wucheria bancrofti (90%)  
+	- Brugia malayi  
+- Transmission via mosquito  
+- 120 million people infected in 80 countries - 1 billion people at risk - tropics  
+- Most important species to affect the lymphatic system
+- One year development to adult worm  
+- Chronic disease - inflammation of lymph vessels and nodes, impaired circulation  
+- Asymptomatic but have hidden lymphatic pathology & kidney damage  
+- Affect genital and leg area- gross enlargement  
+	- elephantiasis
+#### The Plasmodium Life cycle  
+The Plasmodium life cycle is bi-phasic consisting of asexual replication in the liver (exoerythrocytic) and in the blood (erythrocytic) followed by sexual replication in the mosquito
 
 
 
