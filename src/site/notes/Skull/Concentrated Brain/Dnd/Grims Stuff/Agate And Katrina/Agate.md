@@ -34,15 +34,15 @@
 
 | Skills                | Bonus | Skills                | Bonus |
 | --------------------- | :---: | --------------------- | :---: |
-| Acrobatics (Dex)      |  1     | Medicine (Wis)        |  0     |
-| Animal Handling (Wis) |    2   | Nature (int)          |   5    |
-| Arcana (Int)          |     3  | Perception (Wis)      |   2    |
-| Athletics (Str)       |     -1  | Performance (Char)    |     3  |
-| Deception (Char)      |      3 | Persuasion (Char)     |   3    |
-| History (Int)         |     3  | Religion (Int)        |  5     |
-| Insight (Wis)         |     0  | Sleight of Hand (Dex) | 1      |
-| Intimidation (Char)   |     3  | Stealth (Dex)         |  1     |
-| Investigation (Int)   |    5   | Survival (Wis)        |  2     |
+| Acrobatics (Dex)      |   1   | Medicine (Wis)        |   0   |
+| Animal Handling (Wis) |   2   | Nature (int)          |   5   |
+| Arcana (Int)          |   3   | Perception (Wis)      |   2   |
+| Athletics (Str)       |  -1   | Performance (Char)    |   3   |
+| Deception (Char)      |   3   | Persuasion (Char)     |   3   |
+| History (Int)         |   3   | Religion (Int)        |   5   |
+| Insight (Wis)         |   0   | Sleight of Hand (Dex) |   1   |
+| Intimidation (Char)   |   3   | Stealth (Dex)         |   1   |
+| Investigation (Int)   |   5   | Survival (Wis)        |   2   |
 
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
@@ -55,13 +55,13 @@
 
 ### [[Skull/Concentrated Brain/Dnd/Grims Stuff/Agate And Katrina/Agates's Spells\|Agates's Spells]]
 
-| Constitution |   11  |   3  |
+| Constitution | 13  | 5   |
 | ------------ | --- | --- |
 
 # Inventory
 
-Money: 
-Inventory: old school crest on a scalf, https://docs.google.com/document/d/1DP1iJdNnFgXNk43-MeXytUBl7E277Fp6xR-v3QsC-og/edit?tab=t.0#heading=h.mmrkbvkue8vs, 20 darts, chain shirt, sheild
+Money: 100
+Inventory: old school crest on a scalf, https://docs.google.com/document/d/1DP1iJdNnFgXNk43-MeXytUBl7E277Fp6xR-v3QsC-og/edit?tab=t.0#heading=h.mmrkbvkue8vs, 20 darts, chain shirt, sheild, [[Amulet of the devout\|Amulet of the devout]], Crown
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Agate And Katrina/Agate's Sketches\|Agate's Sketches]]
 # Extra
 Resistances: 

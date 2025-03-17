@@ -71,7 +71,7 @@
 # Inventory
 
 Money: 13 gp
-Inventory: A set of well-loved carpenter's tools, a blank book, 1 ounce of ink, an ink pen, a set of traveler's clothes, theives tools, dungeoneers pack,  woodcavers kit, Backpack, 2 crowbar, hammer, piton (9) ,torch (10), tinderbox, rations (10), waterskin, hempen rope, privateer letter, map (With Outposts), Cartography, Navigators, 8 bullets, gust of wind scroll, Bag Of Holding, 2 Health Pots, [[Chaos Armor\|Chaos Armor]]
+Inventory: A set of well-loved carpenter's tools, a blank book, 1 ounce of ink, an ink pen, a set of traveler's clothes, theives tools, dungeoneers pack,  woodcavers kit, Backpack, 2 crowbar, hammer, piton (9) ,torch (10), tinderbox, rations (10), waterskin, hempen rope, privateer letter, map (With Outposts), Cartography, Navigators, 8 bullets, gust of wind scroll, Bag Of Holding, 2 Health Pots, [[Skull/Concentrated Brain/Dnd/Jaxys Stuff/Raven/Chaos Armor\|Chaos Armor]]
 
 # Extra
 Resistances: 
