@@ -13,7 +13,7 @@
 
 ## General
  Race:  [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin\|Geigermin]]
- Class: [[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User\|Curse User]] 3
+ Class: [[Curse User\|Curse User]] 3
  Alignment: True Neutral
  Background:  [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Valedictorian Backgound\|Valedictorian]] 
 
@@ -22,15 +22,15 @@
 
 |    Speed     | AC  | Bonus |  Initiative   |
 | :----------: | :-: | :---: | :-----------: |
-|      30      |  16   |   2    |               1|
-|   Hit Dice   |   3d8  |  3d8     | Saving Throws |
-|    Health    |  27   | 27      |               |
-|   Strength   |  8   |     -1  |        -1       |
-|  Dexterity   |  12   |    1   |       3      |
-| Constitution |   13  |   1    |        3       |
-| Inteligence  | 16    |    3   |         3      |
-|    Wisdom    |  10   |      0 |          0     |
-|   Charima    |   16  |     3  |           3    |
+|      45      | 16  |   2   |       1       |
+|   Hit Dice   | 3d8 |  3d8  | Saving Throws |
+|    Health    | 27  |  27   |               |
+|   Strength   |  8  |  -1   |      -1       |
+|  Dexterity   | 12  |   1   |       3       |
+| Constitution | 13  |   1   |       3       |
+| Inteligence  | 16  |   3   |       3       |
+|    Wisdom    | 10  |   0   |       0       |
+|   Charima    | 16  |   3   |       3       |
 
 | Skills                | Bonus | Skills                | Bonus |
 | --------------------- | :---: | --------------------- | :---: |
@@ -60,8 +60,9 @@
 
 # Inventory
 
-Money: 100
-Inventory: old school crest on a scalf, https://docs.google.com/document/d/1DP1iJdNnFgXNk43-MeXytUBl7E277Fp6xR-v3QsC-og/edit?tab=t.0#heading=h.mmrkbvkue8vs, 20 darts, chain shirt, sheild, [[Amulet of the devout\|Amulet of the devout]], Crown
+Money: 718.98
+Inventory: old school crest on a scalf, https://docs.google.com/document/d/1DP1iJdNnFgXNk43-MeXytUBl7E277Fp6xR-v3QsC-og/edit?tab=t.0#heading=h.mmrkbvkue8vs, 20 darts, chain shirt, sheild, [[Amulet of the devout\|Amulet of the devout]], Crown, Oil And Powder Paints Of Every Colour, Skates :), Ethereal silver eyeliner, Lingo lipstick, drying rack, camp-cooking stuff (In Lucifer), 2 pots, cooks utensils, wood, ceramic, clay, plastic ,dolls glass, felt, puppets, fabric, Glue, cotton, Art Company Deed, Marketable Plushies!
+
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Agate And Katrina/Agate's Sketches\|Agate's Sketches]]
 # Extra
 Resistances: 
@@ -90,13 +91,14 @@ Cursed Energy (3)
 Cantrips
 Spell Casting
 Curse Type
-	Richer Medium
+	[[Creative Liberty\|Creative Liberty]]
 Curse State
 		Alter ego
 Take control
 Cursed healing
 
-
+Curse Domain
+	[[Spilt Ink\|Spilt Ink]]
 
 
 # Characteristics 

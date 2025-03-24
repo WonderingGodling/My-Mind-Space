@@ -381,7 +381,7 @@ Corys Definitely A Light Player; I Dont Know If Hes A Watcher Though; I Think He
 
 Speech To Text Making An Appearance 
 
-Finally Got My Hands On A Copy Of [[Skull/Concentrated Brain/House Of Leaves/HOL Mega Note\|House Of Leaves]]
+Finally Got My Hands On A Copy Of [[Skull/Concentrated Brain/Media/House Of Leaves/HOL Mega Note\|House Of Leaves]]
 Its A Second Editioni Copy Publishd In 2001 
 
 Count Bin Face Is Active Again
@@ -439,7 +439,7 @@ Hes Literally Just Talking About Himself
 Hes Talking About Plants Now (Which Is His Job)
 
 The More He Speaks The Less I Value His Words
-And So I Keep Reading [[Skull/Concentrated Brain/House Of Leaves/HOL Mega Note\|HOL]] (For Which I have Untranscribed Notes)
+And So I Keep Reading [[Skull/Concentrated Brain/Media/House Of Leaves/HOL Mega Note\|HOL]] (For Which I have Untranscribed Notes)
 
 That Was A Waste Of Time; I'll Try To Update This As Much As Possible Though
 
@@ -1292,6 +1292,19 @@ I Know Thats Not The Case But I Feel Like What Im Experiencing Every Day Probabl
 I Feel Like I Shouldnt Say Any Of This And That Any Response I Get Wouldn't Be Genuine 
 Like If I Suck As Much As I Think I Do Nobody Would Want To Have That Conversation And Im Sorry To Whoever Thats Inconvenienced (It Will Happen Again)
 
+Im Doing A Lot Right Now Like Editing The Website And A Bunch Of Other Bullshit And Im Trying To Stay On Top Of Stuff Now
+
+Printer Works, Its Black And White And Like High Quality But Also Half A Megapixel Or Some Shit
+But IT Works, I Printed Off Random Stuff, Its Best To Have Thiunmgs Havce The Longest Side Match (so Taller Images Should Be Verticle)
+
+Camera Is Just Shit
+
+Got My Second- Thiurd Fiscord Up And Running
+new Wifi On The Seventeenth
+
+I Dont Know What To Do :(
+
+
 
 
 
@@ -1358,7 +1371,6 @@ Like If I Suck As Much As I Think I Do Nobody Would Want To Have That Conversati
 ![](https://i.imgur.com/0hjpdF1.png)
 
 
-[[Skull/Concentrated Brain/Random Thoughts/Less Constant Comment The First\|Next?]]
 
 
 <html>

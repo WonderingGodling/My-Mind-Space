@@ -7,18 +7,7 @@
 ![images/thumb-1920-944979.png](/img/user/images/thumb-1920-944979.png)
 # <center><span style="color:#000000">Im Still Talking</span></center>
 
-
-Im Doing A Lot Right Now Like Editing The Website And A Bunch Of Other Bullshit And Im Trying To Stay On Top Of Stuff Now
-
-Printer Works, Its Black And White And Like High Quality But Also Half A Megapixel Or Some Shit
-But IT Works, I Printed Off Random Stuff, Its Best To Have Thiunmgs Havce The Longest Side Match (so Taller Images Should Be Verticle)
-
-Camera Is Just Shit
-
-Got My Second- Thiurd Fiscord Up And Running
-new Wifi On The Seventeenth
-
-I Dont Know What To Do :(
+In A Documentation Sort Of Mood Right Now, So This Might Return 
 
 
 

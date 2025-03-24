@@ -12,7 +12,7 @@
 
 ## General
  Race:  [[Skull/Concentrated Brain/Dnd/Terminology/Reborn\|Reborn]] [[Skull/Concentrated Brain/Dnd/Terminology/Githyanki\|Githyanki]]
- Class: [[Skull/Concentrated Brain/Dnd/Terminology/Path of the ascended\|Path of the ascended]] [[Skull/Concentrated Brain/Dnd/Mine/Mist Walker\|Mist Walker]] 4
+ Class: [[Skull/Concentrated Brain/Dnd/Terminology/Path of the ascended\|Path of the ascended]] [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Mist Walker\|Mist Walker]] 4
  Alignment: True Neutral 
  Background: [[Skull/Concentrated Brain/Dnd/Terminology/Rakdos Cultist\|Rakdos Cultist]]
 
@@ -62,11 +62,11 @@ Mist points: 4/4
 [[Skull/Concentrated Brain/Dnd/Terminology/Prestidigitation\|Prestidigitation]] 10 
 [[Skull/Concentrated Brain/Dnd/Terminology/Shocking grasp\|Shocking grasp]] 0 
 [[Skull/Concentrated Brain/Dnd/Terminology/Mage hand\|Mage hand]] 30 
-[[Skull/Concentrated Brain/Dnd/Mine/Fire Bolt\|Fire Bolt]] 120 
+[[Skull/Concentrated Brain/Dnd/Terminology/Fire Bolt\|Fire Bolt]] 120 
 [[Skull/Concentrated Brain/Dnd/Terminology/Vicious Mockery\|Vicious Mockery]] 60 
 [[Skull/Concentrated Brain/Dnd/Terminology/Poison Spray\|Poison Spray]]  10
 
-[[Skull/Concentrated Brain/Dnd/Mine/Magic missile\|Magic missile]] 120
+[[Skull/Concentrated Brain/Dnd/Terminology/Magic missile\|Magic missile]] 120
 [[Skull/Concentrated Brain/Dnd/Terminology/Silvery barbs\|Silvery barbs]] 60 R
 [[Skull/Concentrated Brain/Dnd/Terminology/Healing Elixir\|Healing Elixir]] X
 [[Burning Hands \|Burning Hands ]] 15
@@ -121,15 +121,15 @@ Githyanki Psionics
 [[Skull/Concentrated Brain/Dnd/Terminology/Githyanki#Psychic Resilience.\|Psychic Resilience]]
 [[Skull/Concentrated Brain/Dnd/Terminology/Reborn#Deathless Nature\|Deathless nature]]
 
-[[Skull/Concentrated Brain/Dnd/Mine/Mist Walker#Mist walk\|Mist walk]]
-[[Skull/Concentrated Brain/Dnd/Mine/Mist Walker#Shroud of mist\|Shroud Of Mist]]
-[[Skull/Concentrated Brain/Dnd/Mine/Mist Walker#Spellcasting\|Spellcasting]]
-	[[Skull/Concentrated Brain/Dnd/Mine/Mist Walker#Mist breath\|Mist Breath]] 10ft
-[[Skull/Concentrated Brain/Dnd/Mine/Mist Walker#Misty path\|Misty path]]
-	[[Skull/Concentrated Brain/Dnd/Mine/Mist Walker#Path of the ascended\|Path of the ascended]]
-[[Skull/Concentrated Brain/Dnd/Mine/Mist Walker#Mist manipulation\|Mist manipulation]]
-[[Skull/Concentrated Brain/Dnd/Mine/Mist Walker#Mist sight\|Mist sight]]
-[[Skull/Concentrated Brain/Dnd/Mine/Mist Walker#Hand of the mist\|Hand of the mist]]
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Mist Walker#Mist walk\|Mist walk]]
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Mist Walker#Shroud of mist\|Shroud Of Mist]]
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Mist Walker#Spellcasting\|Spellcasting]]
+	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Mist Walker#Mist breath\|Mist Breath]] 10ft
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Mist Walker#Misty path\|Misty path]]
+	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Mist Walker#Path of the ascended\|Path of the ascended]]
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Mist Walker#Mist manipulation\|Mist manipulation]]
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Mist Walker#Mist sight\|Mist sight]]
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Mist Walker#Hand of the mist\|Hand of the mist]]
 
 
 [[Skull/Concentrated Brain/Dnd/Terminology/Vital Sacrifice\|Vital Sacrifice]]

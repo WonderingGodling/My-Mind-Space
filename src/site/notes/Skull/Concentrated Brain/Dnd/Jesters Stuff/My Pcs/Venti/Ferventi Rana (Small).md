@@ -11,9 +11,9 @@
 
 
 ## General
- Race:  [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Race/Elf/Shadar-Kai\|Shadar-Kai]]/[[Skull/Concentrated Brain/Dnd/Terminology/Reborn\|Reborn]]
- Class:  [[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User\|Curse User]] 3
-				 [[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Heavenly pact\|Heavenly pact]]
+ Race:  [[Shadar-Kai\|Shadar-Kai]]/[[Skull/Concentrated Brain/Dnd/Terminology/Reborn\|Reborn]]
+ Class:  [[Curse User\|Curse User]] 3
+				 [[Curse User#Heavenly pact\|Heavenly pact]]
  Curse Points 6/6
  Alignment: Lawful Neutral 
  Background: 
@@ -101,28 +101,28 @@ Notes:
 [[Skull/Concentrated Brain/Dnd/Terminology/Deathless Nature\|Deathless Nature]]
 [[Skull/Concentrated Brain/Dnd/Terminology/Wanderer\|Wanderer]]
 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Spell Casting\|Spell Casting]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User Terminology/Curse User Martial Arts\|martial Arts]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Cursed Energy\|Cursed Energy]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Curse type\|Curse type]] 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Cursed Technique\|Cursed Technique]]: 
+[[Curse User#Spell Casting\|Spell Casting]]
+[[Curse User Martial Arts\|martial Arts]]
+[[Curse User#Cursed Energy\|Cursed Energy]]
+[[Curse User#Curse type\|Curse type]] 
+[[Curse User#Cursed Technique\|Cursed Technique]]: 
 	[[Warning Shot\|Warning Shot]] (reaction) 50ft 3+1
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Cursed state\|curse state]] ([[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Heavenly pact\|Heavenly pact]])
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Give and take\|Give And Take]] (5×2 Free Healing)
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Cursed healing\|Cursed healing]] 
+[[Curse User#Cursed state\|curse state]] ([[Curse User#Heavenly pact\|Heavenly pact]])
+	[[Curse User#Give and take\|Give And Take]] (5×2 Free Healing)
+	[[Curse User#Cursed healing\|Cursed healing]] 
 	
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Extra attack\|Extra attack]]
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Cursed ritual\|Cursed ritual]] 3AC Damage Save Advantage 2
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Domain Expansion\|Domain Expansion]]: 
+	[[Curse User#Extra attack\|Extra attack]]
+	[[Curse User#Cursed ritual\|Cursed ritual]] 3AC Damage Save Advantage 2
+	[[Curse User#Domain Expansion\|Domain Expansion]]: 
 			[[The Voids Embrace\|The Voids Embrace]] (Action) 50ft 8+2
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Soft as paper, sharp as steel\|Soft as paper, sharp as steel]] 
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Cursed movement\|Cursed movement]] (Ignore)
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Improved technique\|Improved Curse Technique]]
+	[[Curse User#Soft as paper, sharp as steel\|Soft as paper, sharp as steel]] 
+	[[Curse User#Cursed movement\|Cursed movement]] (Ignore)
+	[[Curse User#Improved technique\|Improved Curse Technique]]
 		[[Yoink\|Yoink]] (passive) 50+ft 2
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Reverse curse technique\|Reverse Curse Technique]]
+	[[Curse User#Reverse curse technique\|Reverse Curse Technique]]
 		[[Now You Gotta Kiss Me\|Now You Gotta Kiss Me]] (Miss, reaction Strike) 2
 		[[Quid Pro Quo\|Quid Pro Quo]] (Action) 40ft 1⁄3Damage
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Broken but unbound \|Broken but unbound]] 15ft Teleport 5
+	[[Curse User#Broken but unbound \|Broken but unbound]] 15ft Teleport 5
 
 [[Blessing of the Raven Queen \|Blessing of the Raven Queen ]] (2)
 

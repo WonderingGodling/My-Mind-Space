@@ -1236,7 +1236,7 @@ A pathogen derived substance or structure that contributes to virulence/damage
 
 ## Week 9 Bacteria, Fungi and Parasites
 
-Some useful definitions - a reminder  
+Some useful definitions  
 - Pathogen  
 	- An organism that can cause disease (damage) in a host  
 - Pathogenicity  
@@ -1426,7 +1426,185 @@ The parasite may be harmful and be a pathogen depending on host/ pathogen factor
 #### The Plasmodium Life cycle  
 The Plasmodium life cycle is bi-phasic consisting of asexual replication in the liver (exoerythrocytic) and in the blood (erythrocytic) followed by sexual replication in the mosquito
 
+## Week 10 Damage and pathophysiology of microbial disease  
 
+
+
+### Introduction  
+Visible disease is a consequence of host damage  
+Direct interactions: 
+- Production and utilisation of offensive virulence factors  
+	- Microbial toxins - destroy immune cells and tissues promoting spread, transmission and persistence  
+Indirect interactions  
+- Interactions with the host immune responses  
+	- Inflammation, puss formation, kidney malfunctions due to antibody complexes, endotoxic shock - LPS  
+- Work together to produce symptoms
+  
+### Microbial toxins  
+Toxins fall into 2 basic main categories:  
+Exotoxins - secreted from the cell  
+Endotoxins – cell wall associated
+
+#### Exotoxins
+- The A - B toxins  
+- Super antigen toxins  
+- Site specific toxins  
+	- Includes those that work on cell membranes  
+- Degredative enzymes can also be classed as virulence factors - Invasins  
+	- Collagenase  
+	- Hyaluronidase
+##### Bacterial Exotoxins  
+- Soluble, heat labile secondary protein metabolites produced during growth  
+- Have functions in liberation of nutrients from host and immune avoidance  
+- Mostly produced in G +ves  
+- Have localised and systemic effects  
+- Many carried on plasmids or mobile elements  
+- bacteriophage  
+- Targets for vaccine design - toxoids
+##### The AB toxins  
+Protein toxins produced in two parts  
+###### A - is the toxic subunit  
+- Acts intracellularly on a specific mechanism  
+- Many different activities  
+- ADP-ribosylation is a common mechanism  
+###### B - is the protective or binding subunit  
+- Allows entry of A subunit  
+- Allows translocation to the cytosol of cell  
+- Determines cell tropism  
+- Induces endocytosis or forms pores  
+	- Oligomers - pentamers, heptamers
+
+##### Site specific toxins  
+Work at a particular site in the body  
+###### Neurotoxins  
+- Ingested preformed in food or produced at wound sites  
+- Effect neurones of gut to cause vomiting  
+	- S. aureus entrotoxin B, B. cereus emetic toxin  
+- Botx - once ingested causes flaccid paralysis  
+- Tetx - produced by organism in wounds - rigid paralysis  
+###### Enterotoxins  
+- Directly affect fluid secretion or kills cells of GI tract 
+	- Cholera toxin - Choleragen  
+###### Cytotoxins  
+- Generally affect tissue and damage cells directly
+
+#### Endotoxins  
+Exert biological effects by interaction with and over stimulation of the immune system
+- Intrinsic components of the bacterial or fungal cell wall  
+- Lipopolysaccharide (LPS) - Lipid A - Gram - ve’s  
+- lipoteichoic acids - Gram + ves  
+- Zymozan - component of yeast membranes  
+
+
+#### Diphtheria toxin  
+The mode of action of A - B  toxin produced by C. diptheriae.  
+A and B are internalised through endocytosis where  the toxic A portion is released  
+in the cytosol.  
+The A subunit is an enzyme that modifies a protein essential for protein synthesis. This results in protein synthesis being stopped and the cell dies
+
+### Virulence factors  
+#### Membrane damaging toxins  
+Cause lysis by disrupting membrane integrity  
+- Pore forming  
+	- Kills cells by changing osmotic balance  
+	- Leukocidins - pneumococci, staph and strep  
+	- Hemolysins - Streptolysin S and O  
+		- Cause blood cells to burst depending on O2 availability  
+- Phospholipases  
+	- Remove charged portion of membrane phospholipids  
+	- C. perfringens alpha toxin
+
+#### Super antigen toxins  
+Produced by some bacteria and viruses  (such as: S. aureus - Toxic shock syndrome toxin and enterotoxin B)  
+- ‘Short circuit’ the immune system  
+	- Allow non-specific activation of immunity  
+	- Switches on cells that produce chemical messengers  
+		- Cytokines - chemicals that activate or repress immune responses  
+		- Can activate >30% of total T cells to produce cytokines  
+		- Leads to damage of blood vessels, shock and multi-organ failure
+
+### Enzymes used in invasion  
+#### Invasins promote spread  
+- Degredative enzymes used often used in nutrition  
+- Increase severity of disease by allowing penetration to deeper tissues  
+- Kill cells directly, destroy structure of tissue, destroy clotts  
+- Group A Streptococcus pyogenes - Necrotising fasciitis  
+	- Extensive destruction of subcutaneous fat and muscle 
+	- Production of Hyaluronidase  
+	- Streptokinase produced that prevents blood clotting  
+	- Net effect is massive and rapid destruction of whole soft  tissue areas.
+- Invasins promote spread  
+- Degredative enzymes used often used in nutrition  
+- Increase severity of disease by allowing penetration to deeper tissues  
+- Kill cells directly, destroy structure of tissue, destroy clotts  
+- Group A Streptococcus pyogenes - Necrotising fasciitis  
+	- Extensive destruction of subcutaneous fat and muscle  
+	- Production of Hyaluronidase  
+	- Streptokinase produced that prevents blood clotting  
+	- Net effect is massive and rapid destruction of whole soft tissue areas.
+
+### Non-secreted toxic components  
+#### Endotoxin  
+Intrinsic factor found only in G - ve bacteria  
+- Forms a large component of the outer membrane  
+	- Lipopolysaccahride - LPS  
+- Contains Lipid A which anchors the LPS in to the outer menbrane  
+	- Lipid A is the toxic moiety  
+- Plays a major role in G -ve bacterial disease  
+	- Endotoxic shock  
+	- Endotoxaemia  
+	- 1 ng introduced intravenously = temp > 1 deg C
+
+#### toxins can  
+- Interfer with cellular processes  (Increase cAMP, stop protein synthesis)  
+- Cause lysis (Form pores or disrupt membranes)  
+- Hyper activation of processes (Super antigens, cAMP levels causing fluid imbalances)  
+- Effect neurones at synapses (Tetanus and botulinum toxin)
+
+### The role of toxins in disease  
+#### Gangrene  
+Causative agent - Clostridium perfringens  
+- G +ve anaerobic rod  
+- Infects deep wounds - post operative infections  
+	- Very common before antibiotics  
+- Produces a variety of secreted factors  
+	- α - toxin - phospholipase C - hydrolyses phospholipids  
+		- Detergent like  (liquidises fat)
+	- β - toxin - haemolysin  
+	- Collagenase  
+- Colonises areas of no blood flow  
+	- Very difficult to treat - defences, drug delivery  
+	- smells bad - production of volatile amines
+#### Tetanus  
+Systemic intoxication caused by Clostridium tetani  
+- Gram + ve anaerobic rod  
+- Contaminates deep wounds where O2 conc is very low  
+- Produces Tetanospasmin  
+	- Secreted during growth  
+	- Diffuses into neuromuscular synapses  
+	- Blocks release of inhibitory neurotransmitters - glycine  
+	- Induces continuous stimulation and contraction of muscules  
+	- Causes a RIDGID PARALYSIS  
+	- Contraction of respiratory system leads to death
+#### Botulism  
+Systemic intoxication caused by Clostridium  botulinum  
+- Gram +ve anaerobic rod  
+- Germination of spores and growth in foods liberates botulinum toxin  
+	- Damaged canned goods, honey, hazelnut yogurt?  
+- On ingestion diffuses to neuromuscular synapses  
+	- Blocks release of stimulatory neurotransmitter - acetylcholine  
+	- Induces a FLACCID PARALYSIS  
+	- Death occurs through respiratory / cardiac failure  
+	- May be used medically or in cosmetic surgery
+
+#### Cholera  
+Toxigenic disease caused by enterotoxin produced by Vibrio cholerae  
+- Gram -ve Comma shaped organism found in faecally contaminated water  
+	- Non-invasive colonisation of the intestinal mucosa  
+	- Cholera toxin secreted and enters cells (A-B toxin)  
+	- Effects c-AMP to cause massive efflux of fluid and electrolytes  
+	- Leads to fatal dehydration  
+	- Fluids and electrolytes need replacing for recovery
 
 
 

@@ -47,7 +47,7 @@
 | ------- | ------ | ----------------- |
 | Unarmed | 5      | 1d6+5 Bludgeoning |
 
-### [[Pacseholders's Spells\|Pacseholders's Spells]]
+### [[Katrina's Spells\|Katrina's Spells]]
 
 | Constitution |  16   |   8  |
 | ------------ | --- | --- |
@@ -86,7 +86,7 @@ Cursed Energy (3)
 Cantrips
 Spell Casting
 Curse Type
-	Union Ceremony
+	[[Union Ceremony\|Union Ceremony]]
 Raw Energy
 Curse State
 		Alter ego
@@ -95,9 +95,9 @@ Cursed healing
 Extra Attack
 Cursed ritual
 domain expansion
-	Hostile Take Over
+	[[Hostile Take Over\|Hostile Take Over]]
 Raw Technique
-	Dormant Genes
+	[[Dormant Genes\|Dormant Genes]]
 Cursed movement
 
 
