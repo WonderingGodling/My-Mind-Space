@@ -1,0 +1,71 @@
+---
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/grims-stuff/agate-and-katrina/agate-s-creations/","tags":["Tagless"],"noteIcon":""}
+---
+
+## Rough
+### Drawn
+The Courtyard, With Camera Angles
+The Popular Kids
+Weretiger 
+"Curse Radiator?"
+Jagot The Owlbear, Big Teeth,  Glowing Green, Three Eyes
+
+# In Progress
+### Drawn
+Displacer Beast
+Second Session Adventure
+Vault Door (13)
+
+
+
+
+
+# Detailed:
+### Plush
+Cyn
+Jetty
+Agate
+### Drawn
+#### Ceatures
+"world Eater" Cloud Cat (Familiar) ^^
+Giant Spiders! Trio
+Gnoll
+Perfect Picture Of An Awful Hag
+Wererat- Suspicious Behaviour In Red, Expected In Green
+"Bearwere"
+Werewolf
+Security Guard & Teacher
+Cyn, Multiple Perspectives
+Jetty, Multiple Perspectives
+Eye Curse Bitch  
+#### Things
+
+##### Equipment
+Cynthias Scrap Gun (8)
+ darts
+ chain shirt
+ sheild
+ [[Amulet of the devout\|Amulet of the devout]]
+ Crown
+Skates :)
+Ethereal silver eyeliner
+Lingo lipstick
+
+##### Misc
+Jettys Dried Shirt
+Amantia's (Queens Cat's) Notebook full of doodles and notes
+Jukebox
+Gramaphone
+drying rack
+camp-cooking stuff 
+pots
+cooks utensils
+Art Company Deed
+Marketable Plushies!
+#### Events
+Jettys Fountain Suicide
+Jetty Hanging Herself
+First Session Adventure
+
+#### Art Supplies
+ Oil And Powder Paints Of Every Colour, wood, ceramic, clay, plastic ,dolls glass, felt, puppets, fabric, Glue, cotton, 
