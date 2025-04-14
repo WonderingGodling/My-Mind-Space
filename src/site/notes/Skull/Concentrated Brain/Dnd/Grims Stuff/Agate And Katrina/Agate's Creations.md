@@ -15,6 +15,8 @@ Jagot The Owlbear, Big Teeth,  Glowing Green, Three Eyes
 Displacer Beast
 Second Session Adventure
 Vault Door (13)
+Shopping Adventure
+Blood Moon Night
 
 
 
@@ -38,6 +40,10 @@ Security Guard & Teacher
 Cyn, Multiple Perspectives
 Jetty, Multiple Perspectives
 Eye Curse Bitch  
+Grey Vampire Woman
+Big Vampire Lady
+Demon Jetty
+
 #### Things
 
 ##### Equipment

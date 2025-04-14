@@ -14,28 +14,28 @@
 
 ## Stats
 
-|    Speed     |  AC  | Bonus |  Initiative   |
-| :----------: | :--: | :---: | :-----------: |
-|      30      |  16  |   4   |       1       |
-|   Hit Dice   | 10d8 | 10d8  | Saving Throws |
-|    Health    | 140  |  140  |               |
-|   Strength   |  13  |   1   |       1       |
-|  Dexterity   |  12  |   1   |       5       |
-| Constitution |  19  |   4   |       7       |
-| Inteligence  |  10  |   0   |       0       |
-|    Wisdom    |  8   |  -1   |      -1       |
-|   Charima    |  16  |   3   |       3       |
+|    Speed     |  AC   | Bonus |  Initiative   |
+| :----------: | :---: | :---: | :-----------: |
+|      30      |  16   |   4   |       1       |
+|   Hit Dice   | 12d10 | 12d10 | Saving Throws |
+|    Health    |  140  |  140  |               |
+|   Strength   |  13   |   1   |       1       |
+|  Dexterity   |  12   |   1   |       5       |
+| Constitution |  21   |   5   |       9       |
+| Inteligence  |  10   |   0   |       0       |
+|    Wisdom    |   8   |  -1   |      -1       |
+|   Charima    |  17   |   4   |       4       |
 
 | Skills                | Bonus | Skills                | Bonus |
 | --------------------- | :---: | --------------------- | :---: |
 | Acrobatics (Dex)      |   5    | Medicine (Wis)        |   -1    |
 | Animal Handling (Wis) |     -1  | Nature (int)          |   0    |
 | Arcana (Int)          |      0 | Perception (Wis)      |      -1 |
-| Athletics (Str)       |    5   | Performance (Char)    |    3   |
-| Deception (Char)      |     3  | Persuasion (Char)     |     7  |
+| Athletics (Str)       |    5   | Performance (Char)    |    4   |
+| Deception (Char)      |     4  | Persuasion (Char)     |     8  |
 | History (Int)         |    0   | Religion (Int)        | 0      |
 | Insight (Wis)         |     -1  | Sleight of Hand (Dex) |  1     |
-| Intimidation (Char)   |     3  | Stealth (Dex)         | 1      |
+| Intimidation (Char)   |     4  | Stealth (Dex)         | 1      |
 | Investigation (Int)   |     0 | Survival (Wis)        |    -1  |
 
 | Death Saves  |     |     |     |
@@ -45,17 +45,19 @@
 
 | Attack  | To-Hit | Damage            |
 | ------- | ------ | ----------------- |
-| Unarmed | 5      | 1d6+5 Bludgeoning |
+| Unarmed | 5      | 1d6+5 BPoison |
 
 ### [[Katrina's Spells\|Katrina's Spells]]
 
-| Constitution |  16   |   8  |
+| Constitution |  17   |   9  |
 | ------------ | --- | --- |
 
 # Inventory
 
 Money: 
-Inventory: old school crest on a scalf, https://docs.google.com/document/d/1DP1iJdNnFgXNk43-MeXytUBl7E277Fp6xR-v3QsC-og/edit?tab=t.0#heading=h.mmrkbvkue8vs, 20 darts, chain shirt, shield
+Inventory: old school crest on a scalf, 20 darts, chain shirt, shield [[Skull/Concentrated Brain/Dnd/Grims Stuff/Agate And Katrina/Kats grimoire\|Kats grimoire]]
+
+Unspecified curse tool
 # Extra
 Resistances: 
 Advantage: 
@@ -79,25 +81,20 @@ Adrenaline Rush
 [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Glowing skin\|Geigermin#Glowing skin]]
 [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Melted internals\|Geigermin#Melted internals]]
 
-Energy: 10
-	Raw: 5
-Martial arts (d4)
-Cursed Energy (3)
+Energy: 12
+Martial arts (d8)
 Cantrips
 Spell Casting
-Curse Type
+Curse technique
 	[[Union Ceremony\|Union Ceremony]]
-Raw Energy
-Curse State
-		Alter ego
+Cursed movement (Costs 3)
 Take control
-Cursed healing
+Improved Technique
+	[[Dormant Genes\|Dormant Genes]]
 Extra Attack
-Cursed ritual
 domain expansion
 	[[Hostile Take Over\|Hostile Take Over]]
-Raw Technique
-	[[Dormant Genes\|Dormant Genes]]
+
 Cursed movement
 
 

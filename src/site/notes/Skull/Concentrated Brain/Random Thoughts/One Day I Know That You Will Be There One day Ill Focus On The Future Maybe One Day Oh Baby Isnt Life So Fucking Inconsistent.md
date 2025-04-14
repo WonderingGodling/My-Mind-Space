@@ -44,7 +44,7 @@ There Was Water That Was Being Handed Out But Wilbur Told The Bar To Also Keep H
 Because [[Branches/People\|People]] Kept Fucking Dying Lovejoy Left The Stage Dfor A Bit So That [[Branches/People\|People]] Felt Less Pressure To Be Super Hyped An Energetic In The Middle Of The Crowd And Thus More Encouraged To Walk To The Back Of The Room And Get Drinks Or Step Outside So That They Can Breathe
 All In All Though I Dont Think The Bodies Made The Concert Any Worse
 Everytime I Saw Someone Leave The Crowd I Felt The Room Get Colder
-Human [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] Temperature Is Such A Weird Concept
+Human [[Skull/Concentrated Brain/Venting Or Something/Body\|Skull/Concentrated Brain/Venting Or Something/Body]] Temperature Is Such A Weird Concept
 
 [Lovejoy](https://packaged-media.redd.it/4bb1o5n7z1pb1/pb/m2-res_640p.mp4?m=DASHPlaylist.mpd&v=1&e=1695092400&s=55ba5a7fba56b023acf1441bc6a6ddfe4ff4b1d4#t=0)
 

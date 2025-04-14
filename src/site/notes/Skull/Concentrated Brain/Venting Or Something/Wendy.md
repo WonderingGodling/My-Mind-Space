@@ -176,7 +176,7 @@ I Dissociated In And Out Of My Death And Missed The Premier But This Is So Good
 
 Short Version: Remembered One Of My Friends Knows Someone With An Armpit Fetish And Im Wondering How You Know You Have An Armpit Fetish 
 Like What Steps Do You Have To Take To Know Its Specifically That 
-I Just Feel Like "[[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] Part" Is Too Specific 
+I Just Feel Like "[[Skull/Concentrated Brain/Venting Or Something/Body\|Skull/Concentrated Brain/Venting Or Something/Body]] Part" Is Too Specific 
 I Figured It Out! 
 Watching Someone Change In The Gym And Youre Staring At Them For Ages 
 Then You Go "Im Only Staring At Their Armpits...." 
@@ -332,7 +332,7 @@ Does Jesus Song Just Mean Christmas Song?
 OVER THE RAINBOW
 Why Do We Bother
 
-Im Trying To Cook But My [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] Is A Few Actions Before My Brain So I Haven't Technically Started 
+Im Trying To Cook But My [[Skull/Concentrated Brain/Venting Or Something/Body\|Skull/Concentrated Brain/Venting Or Something/Body]] Is A Few Actions Before My Brain So I Haven't Technically Started 
 
 Eating Breakfast Out Of A Mug
 
@@ -357,7 +357,7 @@ I Have Literally No Expectations Whatsoever So I Cant Really Be Let Down I Guess
 I Feel Like Utter And Complete Shit
 I Want To Drink A Monster Because That Usually Helps But Then Theres Just Gonna Be More Of....This
 
-I Think The Worst Part About Being Raped To Death Is That while Your Name, Face And Family Are All Across The News There Will Be countless Police Officers, Investigators/Detectives, Forensics, Mortuars and So Many Other Pepole Poking Around You Insides Like; Really? This Is So Not The Time For That! I Think Id Least Want [[Branches/People\|People]] Touching My Dead [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] If The Cause Of My Death Was Someone Touching My Live [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]]
+I Think The Worst Part About Being Raped To Death Is That while Your Name, Face And Family Are All Across The News There Will Be countless Police Officers, Investigators/Detectives, Forensics, Mortuars and So Many Other Pepole Poking Around You Insides Like; Really? This Is So Not The Time For That! I Think Id Least Want [[Branches/People\|People]] Touching My Dead [[Skull/Concentrated Brain/Venting Or Something/Body\|Skull/Concentrated Brain/Venting Or Something/Body]] If The Cause Of My Death Was Someone Touching My Live [[Skull/Concentrated Brain/Venting Or Something/Body\|Skull/Concentrated Brain/Venting Or Something/Body]]
 
 Theres A Chunk Of My Stuff Missing From This Page
 
@@ -445,7 +445,7 @@ Watch Icp Win US Presidency
 
 Cleaning Up The Vault
 
-I Always Feel Like I Shouldnt Be In This [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] But Recently Ive Felt That My [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] Doesn't Belong With [[Explicitly Showcased/Me/Me\|Me]] In It
+I Always Feel Like I Shouldnt Be In This [[Skull/Concentrated Brain/Venting Or Something/Body\|Skull/Concentrated Brain/Venting Or Something/Body]] But Recently Ive Felt That My [[Skull/Concentrated Brain/Venting Or Something/Body\|Skull/Concentrated Brain/Venting Or Something/Body]] Doesn't Belong With [[Explicitly Showcased/Me/Me\|Me]] In It
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:0WVvjWYXyV_tcp5kf631Jw/729147951762505728/v2" data-did="945d63eecd58b6a0bd44d5f12bb9abce89656c19" ><a href="https://www.tumblr.com/shencomix/739174739386515456">https://www.tumblr.com/shencomix/739174739386515456</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
@@ -545,7 +545,7 @@ Rotting Works Surprisingly Well For That Actually; Prolonged Uncookery And Suffe
 Maybe If I Was The Hunt Id Feel Better; I Can Definitely See How A Light Hunter Would Be Able To Thrive (Although Why A Light Watcher Isnt Frankly Escapes [[Explicitly Showcased/Me/Me\|Me]])
 
 Every Time I See A Picture Of Myself The Best I Can Do To Describe My Attitude Towards It Is Stranger; I Feel Like When Im In An Image Or A Video The Thing That Is [[Explicitly Showcased/Me/Me\|Me]] Is Wrong
-I Know Thats Some Form Of [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] Dysmorphia Or Whatever And I Also Know That I Dont Really Care Enough About It To Do Anything
+I Know Thats Some Form Of [[Skull/Concentrated Brain/Venting Or Something/Body\|Skull/Concentrated Brain/Venting Or Something/Body]] Dysmorphia Or Whatever And I Also Know That I Dont Really Care Enough About It To Do Anything
 I Guess Its Just That I Would Find Most Of My Life To Be Easier If I Weren'tAble To Be Perceived
 Really Wish The SEP Existed So [[Branches/People\|People]] Would Just Let [[Explicitly Showcased/Me/Me\|Me]] Be 
 

@@ -10,7 +10,7 @@
 
 ## Thunder Dome
 
-[[Skull/Concentrated Brain/Dnd/Mine/Gods/Meta Gods/LIfe And Death/Yin (Deus Immortales)\|Yin]]  And [[Skull/Concentrated Brain/Dnd/Mine/Gods/Meta Gods/LIfe And Death/Yout (Momentus Mori)\|Yout]]  (The Meta Gods Of Life And Death) Have Been Tasked With Putting Together And Maintaining A Gladitorial Spectacle With The Given Candidates As The Main Focus
+[[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Gods/Meta Gods/LIfe And Death/Yin (Deus Immortales)\|Yin]]  And [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Gods/Meta Gods/LIfe And Death/Yout (Momentus Mori)\|Yout]]  (The Meta Gods Of Life And Death) Have Been Tasked With Putting Together And Maintaining A Gladitorial Spectacle With The Given Candidates As The Main Focus
 
 Fights Get Harder With Each Challenge And The Style Of The Fight Changes With Each Difficulty
 Per-player Milestone Leveling, Level Decreases When Player Dies, Fight Doesnt Change

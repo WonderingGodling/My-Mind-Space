@@ -20,17 +20,17 @@
 
 ## Stats
 
-|    Speed     | AC  | Bonus |  Initiative   |
-| :----------: | :-: | :---: | :-----------: |
-|      45      | 16  |   2   |       1       |
-|   Hit Dice   | 3d8 |  3d8  | Saving Throws |
-|    Health    | 27  |  27   |               |
-|   Strength   |  8  |  -1   |      -1       |
-|  Dexterity   | 12  |   1   |       3       |
-| Constitution | 13  |   1   |       3       |
-| Inteligence  | 16  |   3   |       3       |
-|    Wisdom    | 10  |   0   |       0       |
-|   Charima    | 16  |   3   |       3       |
+|    Speed     |  AC  | Bonus |  Initiative   |
+| :----------: | :--: | :---: | :-----------: |
+|      45      |  16  |   2   |       1       |
+|   Hit Dice   | 4d10 | 4d10  | Saving Throws |
+|    Health    |  44  |  44   |               |
+|   Strength   |  8   |  -1   |      -1       |
+|  Dexterity   |  12  |   1   |       3       |
+| Constitution |  13  |   1   |       3       |
+| Inteligence  |  16  |   3   |       3       |
+|    Wisdom    |  10  |   0   |       0       |
+|   Charima    |  20  |   5   |       5       |
 
 | Skills                | Bonus | Skills                | Bonus |
 | --------------------- | :---: | --------------------- | :---: |
@@ -51,7 +51,7 @@
 
 | Attack  | To-Hit | Damage           |
 | ------- | ------ | ---------------- |
-| unarmed | 3      | 1d4+3 bludgeonig |
+| unarmed | 3      | 1d4+3 Poison |
 
 ### [[Skull/Concentrated Brain/Dnd/Grims Stuff/Agate And Katrina/Agates's Spells\|Agates's Spells]]
 
@@ -61,15 +61,18 @@
 # Inventory
 
 Money: 718.98
-Inventory: old school crest on a scalf, https://docs.google.com/document/d/1DP1iJdNnFgXNk43-MeXytUBl7E277Fp6xR-v3QsC-og/edit?tab=t.0#heading=h.mmrkbvkue8vs, 20 darts, chain shirt, sheild, [[Amulet of the devout\|Amulet of the devout]], Crown, Oil And Powder Paints Of Every Colour, Skates :), Ethereal silver eyeliner, Lingo lipstick, drying rack, camp-cooking stuff (In Lucifer), 2 pots, cooks utensils, wood, ceramic, clay, plastic ,dolls glass, felt, puppets, fabric, Glue, cotton, Art Company Deed, Marketable Plushies!
+Inventory: old school crest on a scalf, Sketchbook https://docs.google.com/document/d/1DP1iJdNnFgXNk43-MeXytUBl7E277Fp6xR-v3QsC-og/edit?tab=t.0#heading=h.mmrkbvkue8vs, 20 darts, chain shirt, sheild, [[Amulet of the devout\|Amulet of the devout]], Crown, Oil And Powder Paints Of Every Colour, Skates :), Ethereal silver eyeliner, Lingo lipstick, drying rack, camp-cooking stuff (In Lucifer), 2 pots, cooks utensils, wood, ceramic, clay, plastic ,dolls glass, felt, puppets, fabric, Glue, cotton, Art Company Deed, Marketable Plushies!
 
-[[Skull/Concentrated Brain/Dnd/Grims Stuff/Agate And Katrina/Agate's Sketches\|Agate's Sketches]]
+Unidentified Curse Tool
+
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Agate And Katrina/Agate's Creations\|Agate's Creations]]
 # Extra
 Resistances: 
 Advantage: 
 Vulnerabilities: 
 Conditions: 
-  
+  See invisible creatures and objects as if they were visible
+  Learn 1 language of your choice until the makeup is removed
 
 # Proficiencies
 		
@@ -84,16 +87,20 @@ Languages: common
 [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Radioactive aura\|Radioactive Aura]] 
 [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Glowing skin\|Glowing Skin]]
 [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Melted internals\|Melted Internals]]
+pick and choose: you have learned to use your mutation in order to sustain your body even through critical injuries, you regain temp hp equal to your proficensy bonus every turn, you can also attach any limb to yourself when their is a suitable stub
+
 [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Valedictorian Backgound#top of your class\|Top Of Your Class]]
 Energy: 3
 Martial arts (d4)
-Cursed Energy (3)
+Cursed Energy (4)
 Cantrips
 Spell Casting
 Curse Type
+	[Malevolent spirit](https://docs.google.com/document/d/15yfCNIHEe7JSPldOGmjGmpZJSU3vuZr90nhzwO_6TOs/edit?usp=sharing)
+		Spiritual enhancements 
+Curse Technique
 	[[Creative Liberty\|Creative Liberty]]
-Curse State
-		Alter ego
+Cursed Movement
 Take control
 Cursed healing
 

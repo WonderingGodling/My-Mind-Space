@@ -11,7 +11,7 @@ Devour
 You Gain And The Host Loses Max Health Equal To The Hosts Missing Hp Until The Host Is Unconscious 
 
 Sacrifice
-The Host Feels Bad For Damage Youve Taken And Offers Its Health To heal You. This Is Free If The Host Dealt The Damage 
+The Host Feels Bad For Damage Youve Taken And Offers Its Health To Heal You. This Is Free If The Host Dealt The Damage 
 
 Fawn
 The Host Considers That The Only Way To Leave Alive Is To Appease You. It Is Now Charmed And Can Be Commanded As Long As You Or Your Allies Aren't Hostile Towards It
