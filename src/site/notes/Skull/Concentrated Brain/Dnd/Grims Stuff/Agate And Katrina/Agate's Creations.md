@@ -23,6 +23,10 @@ Blood Moon Night
 
 
 # Detailed:
+## Pottered
+Bone Bowl (3)
+Bone Spoon
+Bone Ladle 
 ### Plush
 Cyn
 Jetty
@@ -43,6 +47,8 @@ Eye Curse Bitch
 Grey Vampire Woman
 Big Vampire Lady
 Demon Jetty
+Skellies
+Zombies
 
 #### Things
 
@@ -57,6 +63,7 @@ Skates :)
 Ethereal silver eyeliner
 Lingo lipstick
 
+
 ##### Misc
 Jettys Dried Shirt
 Amantia's (Queens Cat's) Notebook full of doodles and notes
@@ -68,10 +75,12 @@ pots
 cooks utensils
 Art Company Deed
 Marketable Plushies!
+bullet mold
+15 silver bullets
 #### Events
 Jettys Fountain Suicide
 Jetty Hanging Herself
-First Session Adventure
+Theres A Drawing Of Agate Right Now (Next To The Cauldron) And An Arrow Pointing To Her Saying "MICROWAVE!!"
 
 #### Art Supplies
  Oil And Powder Paints Of Every Colour, wood, ceramic, clay, plastic ,dolls glass, felt, puppets, fabric, Glue, cotton, 

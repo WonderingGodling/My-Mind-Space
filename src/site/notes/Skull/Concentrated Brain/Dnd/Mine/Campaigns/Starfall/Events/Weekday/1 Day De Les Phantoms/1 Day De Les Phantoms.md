@@ -48,6 +48,3 @@
 			- Magic Resistance
 
 
-- Found By Tobias (Lvl Highest PC+2) After Loop 0
-	- (At Least One Group → All Of Them)
-	- Tobias Duplicates Next Loop If Killed

@@ -24,5 +24,7 @@
 -   Girl Cursed Dies On The Morn Unless Given Dragons Tears (Quest Item)
     
 -   First Prince Lancelot Searches For Dragons Eggs
+
+- Three Kobolds
     
 

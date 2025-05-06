@@ -36,3 +36,7 @@ Cratey
 -   Item Book Of Greed (Will Consume Midius)
 - Item Book Of Loss (Gives A Level From The Class Of The Target)
 - Death [Weapon] Can Be Used To Store And Deflect Damage
+
+- Found By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Tobias (Mimic)\|Tobi]] (Lvl Highest PC+2) After Loop 0
+	- (At Least One Group → All Of Them)
+	- Tobias Duplicates Next Loop If Killed

@@ -6,13 +6,16 @@
 # Moon Day
 Time: Sunset
 The Party Goes To The Moon Day Celebration At [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Lei\|Lei]]
-If A Member Of Group 3 (A Vantas) Interacts With A Party Member They Get A Bendy Sword Tatoo
+If A Member Of Group S (A Vantas) Interacts With A Party Member They Get A Bendy Sword Tattoo On Their Shoulder Blade
+
+Vantias Steal And Hide Peters Pipes
+- More Vantias Missions
 
 - Mostly Lunarian (Common) Attendees
 	- A Couple Exotic Shopkeeps
-		- Generic Shopkeep Sheet 1
+		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Generic Rogue Shopkeep Sheet\|Generic Rogue Shopkeep Sheet]]
 		- Generic Shopkeep Sheet 2
-- Transportation Arrangement Following Festival
+- Transportation Arrangement Following Festival To Any Nearby Or Capital Cities (Train/Carriage Escort)
 
 ## North (Main Stage)
 ### Optional Combat Arena
@@ -20,13 +23,19 @@ If A Member Of Group 3 (A Vantas) Interacts With A Party Member They Get A Bendy
 ### Music 
 - Performed By Bards
     - Lead By Pan-Pipes Peter
-        - Loses His Pipes After The Performance
+        - His Pipes Get Stolen After The Performance
     - Rest Of The Band Is Made Up Of Dwarves, Humans And Aasimar (TWins, Humans With Halos)
+- After The First Loop The Music Is Managed By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Clarent\|Clarent]]
 ### Replacement
+Announced By Hunter Because Who Knows Where Lancelot Is
 - The Queen Couldnt Make It So Theyre Doing A Talent Show
 	- Show Of Strength
+		- Reward
 	- Show Of Skill
+		- Reward
 	- Show Of Wonder
+		- Reward
+- Everyone Gets A Moment With Lancelot
 
 ## East
 ### "Historical" Paintings
@@ -49,11 +58,28 @@ If A Member Of Group 3 (A Vantas) Interacts With A Party Member They Get A Bendy
 - Friendship Test
 	- Put An Item That Links You In A Box
 	- Red Light Or Green Light
+## Petting Zoo And Botanical Garden Pocket Dimension
+2 Gold Per Head
+Ran By Kelannar Dargona High Lvl Who Warns Against Going Near The Plants
+If She Dies All The Creatures Are Let Out
+- [Acid Bird](https://www.dandwiki.com/wiki/Acid_Bird_(5e_Creature))
+- [Black Slime](https://www.dandwiki.com/wiki/Black_Slime_(5e_Creature)) (Cleans Stuff)
+- [Fiend Spider](https://www.dandwiki.com/wiki/Fiend_Spider_(5e_Creature))
+- [Minigoblin](https://www.dandwiki.com/wiki/Minigoblin_(5e_Creature))
+- [Silent Spider](https://www.dandwiki.com/wiki/Silent_Spider_(5e_Creature))
+- [Skull Beast](https://www.dandwiki.com/wiki/Skull_Beast_(5e_Creature))
+- [Slug Cat](https://www.dandwiki.com/wiki/Slugcat_(5e_Creature))
+- [Spider Dragon](https://www.dandwiki.com/wiki/Spider_Dragon_(5e_Creature))
+- [Blink Dog](https://www.aidedd.org/dnd/monstres.php?vo=blink-dog)
+- [Bear Dog](https://www.dandwiki.com/wiki/Bear_Dog_(5e_Creature))
+- [Beaver](https://www.dandwiki.com/wiki/Beaver_(5e_Creature))
+-  
+
 
 ## South
 ### Puzzles
 - Puzzles
-	- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/wordle\|wordle]] 
+	-[ wordle](https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjITTE/edit?gid=364337137#gid=364337137)
 	- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Crossword\|Crossword]] ×3 (WIP)
 	- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Cryptic\|Cryptic]] ×4 (WIP)
 	- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Oodle\|Oodle]] 
