@@ -10,21 +10,21 @@
 
 [Slay The Princess ](https://www.google.com/search?q=slay+the+princess+quotes&oq=slay+the+princess+quotes&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMg0ICRAAGIYDGIAEGIoFMg0IChAAGIYDGIAEGIoFMg0ICxAAGIYDGIAEGIoFMgoIDBAAGIAEGKIEMgoIDRAAGIAEGKIEMgoIDhAAGIAEGKIE0gEINDQ0NGowajSoAg6wAgE&client=ms-android-ee-uk-revc&sourceid=chrome-mobile&ie=UTF-8)
 [Homestuck](https://www.google.com/search?q=homestuck+quotes&oq=honestuck+quotes&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCQgCEAAYDRiABDIJCAMQABgNGIAEMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhgeMggIChAAGBYYHjIICAsQABgWGB4yCAgMEAAYFhgeMggIDRAAGBYYHjIICA4QABgWGB7SAQg1NTI0ajBqNKgCDrACAQ&client=ms-android-ee-uk-revc&sourceid=chrome-mobile&ie=UTF-8)
-[[Jugemu\|Jugemu]]
-[[Rat Desire\|Rat Desire]] 
-[[Brennan Monologues\|Brennan Monologues]] 
+[[Skull/Spam/Jugemu\|Jugemu]]
+[[Skull/Spam/Rat Desire\|Rat Desire]] 
+[[Skull/Spam/Brennan Monologues\|Brennan Monologues]] 
 Magnus Archives Stuff
-[[Rubicks\|Rubicks]]
-[[Magpie Number Rhyme\|Magpie Number Rhyme]] 
-[[Blood Types\|Blood Types]] 
-[[States Of Matter\|States Of Matter]]
-[[The Plagues\|The Plagues]]
+[[Skull/Spam/Rubicks\|Rubicks]]
+[[Skull/Spam/Magpie Number Rhyme\|Magpie Number Rhyme]] 
+[[Skull/Spam/Blood Types\|Blood Types]] 
+[[Skull/Spam/States Of Matter\|States Of Matter]]
+[[Skull/Spam/The Plagues\|The Plagues]]
 the nsu rant
 Egyptian Gods
-[[Bible Order\|Bible Order]]
-[[The Missle\|The Missle]]
+[[Skull/Spam/Bible Order\|Bible Order]]
+[[Skull/Spam/The Missle\|The Missle]]
 [[Skull/Concentrated Brain/Poetry Apparently/Ladies And Gentlemen\|Ladies And Gentlemen]]
-[[AND YOU CAN QUOTE ME ON THAT\|AND YOU CAN QUOTE ME ON THAT]]
+[[Skull/Spam/AND YOU CAN QUOTE ME ON THAT\|AND YOU CAN QUOTE ME ON THAT]]
 
 
 

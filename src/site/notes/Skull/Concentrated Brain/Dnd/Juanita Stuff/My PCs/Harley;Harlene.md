@@ -12,7 +12,7 @@
 
 ## General
  Race:  Changeling
- Class:  [[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Rogue\|Rogue]] 3
+ Class:  [[Skull/Concentrated Brain/Dnd/Terminology/Rogue\|Rogue]] 3
 ​    ​‍​    ​‍​    ​‍​    [[​‍Soulknife\|​‍Soulknife]] 
  Alignment: True Neutral
  Background: Entertainer
@@ -58,12 +58,12 @@
 | Soulknife 2 (60ft) | +5     | 1d4+5 Psychic |
 
 spell save DC: 13
-[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Dissonant Whispers\|Dissonant Whispers]], [[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Misty Step\|Misty Step]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Dissonant Whispers\|Dissonant Whispers]], [[Skull/Concentrated Brain/Dnd/Terminology/Misty Step\|Misty Step]]
 # Inventory
 
 Money: 95gp
 Tokens 12
-Inventory:  Flute, a costume, [[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Coiling Grasp Tattoo\|Coiling Grasp Tattoo]], Leather armor, thieves' tools
+Inventory:  Flute, a costume, [[Skull/Concentrated Brain/Dnd/Terminology/Coiling Grasp Tattoo\|Coiling Grasp Tattoo]], Leather armor, thieves' tools
 
 backpack,, bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, a waterskin, 50 feet of hempen rope, Blanket, Mirrror, A Lot Of Alcohol
 
@@ -85,17 +85,17 @@ Languages: Common, Elvish, Thieves' Cant
 
 
 # Notes: 
-[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Shapechanger\|Shapechanger]]
-[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Unsettling Visage\|Unsettling Visage]]
-[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Divergent Persona\|Divergent Persona]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Shapechanger\|Shapechanger]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Unsettling Visage\|Unsettling Visage]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Divergent Persona\|Divergent Persona]]
 
-[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Expertise\|Expertise]]
-[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Sneak Attack\|Sneak Attack]]
-[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Thieves' Cant\|Thieves' Cant]]
-[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Cunning Action\|Cunning Action]]
-[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Psionic Power\|Psionic Power]]
-[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Psychic Blades\|Psychic Blades]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Expertise\|Expertise]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Sneak Attack\|Sneak Attack]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Thieves' Cant\|Thieves' Cant]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Cunning Action\|Cunning Action]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Psionic Power\|Psionic Power]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Psychic Blades\|Psychic Blades]]
 
-[[Skull/Concentrated Brain/Dnd/Juanita Stuff/My PCs/Fey Touched\|Fey Touched]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Fey Touched\|Fey Touched]]
 
 # Characteristics 

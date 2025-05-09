@@ -50,9 +50,30 @@
 
 | Attack         | To-Hit | Damage            |
 | -------------- | ------ | ----------------- |
-| [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Jane Doe/Kusarigama\|Kusarigama]] | 1d6    | Slashing/peircing |
+| [[Skull/Concentrated Brain/Dnd/Terminology/Kusarigama\|Kusarigama]] | 1d6    | Slashing/peircing |
 
-### [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Jane Doe/Jane's Spells\|Jane's Spells]]
+### Jane's Spells
+[[Skull/Concentrated Brain/Dnd/Terminology/Word Of Radiance\|Word Of Radiance]] 5ft
+[[Skull/Concentrated Brain/Dnd/Terminology/Toll The Dead\|Toll The Dead]] 60ft
+[[Skull/Concentrated Brain/Dnd/Terminology/Thaumaturgy\|Thaumaturgy]] 30ft
+
+4/4
+[[Skull/Concentrated Brain/Dnd/Terminology/Bane\|Bane]] 30ft M C
+[[Skull/Concentrated Brain/Dnd/Terminology/Bless\|Bless]] 30ft M C
+[[Skull/Concentrated Brain/Dnd/Terminology/Command\|Command]] 60ft
+[[Skull/Concentrated Brain/Dnd/Terminology/Create or Destroy Water\|Create or Destroy Water]] 30ft M
+[[Skull/Concentrated Brain/Dnd/Terminology/Cure Wounds\|Cure Wounds]] Touch 
+[[Skull/Concentrated Brain/Dnd/Terminology/Sanctuary\|Sanctuary]] B 30ft M
+[[Skull/Concentrated Brain/Dnd/Terminology/Guiding Bolt\|Guiding Bolt]] 120ft
+[[Guiding Hand \|Guiding Hand ]] X 5ft C
+[[Skull/Concentrated Brain/Dnd/Terminology/Healing Word\|Healing Word]] B 60ft
+[[Skull/Concentrated Brain/Dnd/Terminology/Inflict Wounds\|Inflict Wounds]] Touch
+[[Skull/Concentrated Brain/Dnd/Terminology/Shield of Faith\|Shield of Faith]] B 60ft M
+[[Skull/Concentrated Brain/Dnd/Terminology/Heroism\|Heroism]] Touch C
+
+1/2
+[[Skull/Concentrated Brain/Dnd/Terminology/Spiritual Weapon\|Spiritual Weapon]] B 60ft
+[[Skull/Concentrated Brain/Dnd/Terminology/Prayer of Healing\|Prayer of Healing]] x 10ft v
 
 | Wis|    13 |    5 |
 | ------------ | --- | --- |
@@ -78,13 +99,13 @@ Languages: Common, Deepspeech, Undercommon, Celestial
 
 # Notes: 
 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Jane Doe/Arcane charm\|Arcane charm]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Arcane charm\|Arcane charm]]
 
 [[Skull/Concentrated Brain/Dnd/Terminology/Darkvision\|Darkvision]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Jane Doe/Telepathy\|Telepathy]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Jane Doe/Devour Brain\|Devour Brain]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Jane Doe/Psionic Abilities\|Psionic Abilities]]
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Daemon/Magic Resistance\|Magic Resistance]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Telepathy\|Telepathy]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Devour Brain\|Devour Brain]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Psionic Abilities\|Psionic Abilities]]
+	[[Skull/Concentrated Brain/Dnd/Terminology/Magic Resistance\|Magic Resistance]]
 
 Ritual Casting
 Divine Domain
@@ -95,8 +116,8 @@ Channel Divinity (1)
   Balm of Peace (2d6 + your Wisdom modifier)
 Harness Divine Power (1)
 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Jane Doe/Gift of the Gem Dragon\|Gift of the Gem Dragon]] (2) DC13 2d8 10ft
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Jane Doe/Lucky\|Lucky]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Gift of the Gem Dragon\|Gift of the Gem Dragon]] (2) DC13 2d8 10ft
+[[Skull/Concentrated Brain/Dnd/Terminology/Lucky\|Lucky]]
 
 
 # Characteristics 
