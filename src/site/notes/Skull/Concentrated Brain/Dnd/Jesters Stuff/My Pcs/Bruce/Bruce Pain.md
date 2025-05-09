@@ -11,12 +11,12 @@
 
 
 ## General
- Race:  [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Bruce/Shifter\|Shifter]]
- Class:  [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Bruce/Monk\|Monk]] 1, [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Bruce/Brawler\|Brawler]] 3
+ Race:  [[Skull/Concentrated Brain/Dnd/Terminology/Shifter\|Shifter]]
+ Class:  [[Skull/Concentrated Brain/Dnd/Terminology/Monk\|Monk]] 1, [[Skull/Concentrated Brain/Dnd/Terminology/Brawler\|Brawler]] 3
 ​    ​‍​    ​‍Fisticuffs: 2d6
 ​    ​‍​    ​‍Style Points: 3
  Alignment: Lawful Good
- Background: [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Bruce/Giant Foundling\|Giant Foundling]]
+ Background: [[Skull/Concentrated Brain/Dnd/Terminology/Giant Foundling\|Giant Foundling]]
 
 
 ## Stats
@@ -87,25 +87,25 @@ Languages: Giant, Common, Dwarvish, Orcish
 
 # Notes: 
 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Bruce/Monk#Unarmored Defense\|Unarmoured Defence ]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Bruce/Monk#Martial Arts\|Martial Arts]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Bruce/Strike of the Giants\|Strike of the Giants]] 2/rest
+[[Skull/Concentrated Brain/Dnd/Terminology/Monk#Unarmored Defense\|Unarmoured Defence ]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Monk#Martial Arts\|Martial Arts]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Strike of the Giants\|Strike of the Giants]] 2/rest
 ​    ​‍​    ​‍Storm Strike, 1d6 DC10
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Bruce/Blindsight\|Blindsight]] 15ft
+[[Skull/Concentrated Brain/Dnd/Terminology/Blindsight\|Blindsight]] 15ft
 [[Skull/Concentrated Brain/Dnd/Terminology/Keen Senses\|Keen Senses]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Bruce/Shifter#Shifting.\|Shifting]] 2/rest
+[[Skull/Concentrated Brain/Dnd/Terminology/Shifter#Shifting.\|Shifting]] 2/rest
 ​    ​‍​    ​‍Beasthide 1d6, +1AC
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Bruce/Brawler#Fisticuffs\|Fisticuffs]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Bruce/Brawler#Style\|Style]]
-​​    ​‍​    [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Bruce/Brawler#Headbutt\|Headbutt]] (Con Save Stun)
-     ​‍​   [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Bruce/Brawler#Chokehold\|Chokehold]] (Grapple)
-    ​‍​    [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Bruce/Brawler#Down but not out\|Down but not out]] (0hp, Strike + Prone)
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Bruce/Brawler#Street Smart\|Street Smart]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Bruce/Brawler#Adrenaline rush\|Adrenaline Rush]] Reactioni
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Bruce/Brawler#Fighting style\|Fighting Style]]
-    ​‍​    [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Bruce/Brawler#Street fighter\|Street Fighter]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Bruce/Brawler#Brass is better than bone\|Brass is better than bone]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Bruce/Brawler#Sly shot\|Sly shot ]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Fisticuffs\|Fisticuffs]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Style\|Style]]
+​​    ​‍​    [[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Headbutt\|Headbutt]] (Con Save Stun)
+     ​‍​   [[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Chokehold\|Chokehold]] (Grapple)
+    ​‍​    [[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Down but not out\|Down but not out]] (0hp, Strike + Prone)
+[[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Street Smart\|Street Smart]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Adrenaline rush\|Adrenaline Rush]] Reactioni
+[[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Fighting style\|Fighting Style]]
+    ​‍​    [[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Street fighter\|Street Fighter]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Brass is better than bone\|Brass is better than bone]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Sly shot\|Sly shot ]]
 
 Skill Expert
 

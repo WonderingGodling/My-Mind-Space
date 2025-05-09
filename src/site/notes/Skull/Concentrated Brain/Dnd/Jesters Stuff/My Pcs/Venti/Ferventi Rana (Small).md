@@ -11,9 +11,9 @@
 
 
 ## General
- Race:  [[Skull/Concentrated Brain/Dnd/Mechanics/Race/Elf/Shadar-Kai\|Shadar-Kai]]/[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Venti/Reborn\|Reborn]]
- Class:  [[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User\|Curse User]] 3
-				 [[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Heavenly pact\|Heavenly pact]]
+ Race:  [[Shadar-Kai\|Shadar-Kai]]/[[Skull/Concentrated Brain/Dnd/Terminology/Reborn\|Reborn]]
+ Class:  [[Curse User\|Curse User]] 3
+				 [[Curse User#Heavenly pact\|Heavenly pact]]
  Curse Points 6/6
  Alignment: Lawful Neutral 
  Background: 
@@ -80,7 +80,7 @@ Herbalism Kit, Poisoners Kit, Land And Water Vehicles =8
 |  Hit Modifier  |      |
 # Inventory 
 Money: 
-Inventory: Ring Mail, [[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Venti/1 In The Chamber\|1 In The Chamber]], 5 Rations
+Inventory: Ring Mail, [[1 In The Chamber\|1 In The Chamber]], 5 Rations
 
 # Extra
 Resistances: 
@@ -98,31 +98,31 @@ Languages: Common, Celestial
 
 Notes: 
 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Venti/Deathless Nature\|Deathless Nature]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Venti/Wanderer\|Wanderer]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Deathless Nature\|Deathless Nature]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Wanderer\|Wanderer]]
 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Spell Casting\|Spell Casting]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User Terminology/Curse User Martial Arts\|martial Arts]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Cursed Energy\|Cursed Energy]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Curse type\|Curse type]] 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Cursed Technique\|Cursed Technique]]: 
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Venti/Warning Shot\|Warning Shot]] (reaction) 50ft 3+1
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Cursed state\|curse state]] ([[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Heavenly pact\|Heavenly pact]])
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Give and take\|Give And Take]] (5×2 Free Healing)
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Cursed healing\|Cursed healing]] 
+[[Curse User#Spell Casting\|Spell Casting]]
+[[Curse User Martial Arts\|martial Arts]]
+[[Curse User#Cursed Energy\|Cursed Energy]]
+[[Curse User#Curse type\|Curse type]] 
+[[Curse User#Cursed Technique\|Cursed Technique]]: 
+	[[Warning Shot\|Warning Shot]] (reaction) 50ft 3+1
+[[Curse User#Cursed state\|curse state]] ([[Curse User#Heavenly pact\|Heavenly pact]])
+	[[Curse User#Give and take\|Give And Take]] (5×2 Free Healing)
+	[[Curse User#Cursed healing\|Cursed healing]] 
 	
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Extra attack\|Extra attack]]
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Cursed ritual\|Cursed ritual]] 3AC Damage Save Advantage 2
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Domain Expansion\|Domain Expansion]]: 
-			[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Venti/The Voids Embrace\|The Voids Embrace]] (Action) 50ft 8+2
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Soft as paper, sharp as steel\|Soft as paper, sharp as steel]] 
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Cursed movement\|Cursed movement]] (Ignore)
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Improved technique\|Improved Curse Technique]]
-		[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Venti/Yoink\|Yoink]] (passive) 50+ft 2
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Reverse curse technique\|Reverse Curse Technique]]
-		[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Venti/Now You Gotta Kiss Me\|Now You Gotta Kiss Me]] (Miss, reaction Strike) 2
-		[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Venti/Quid Pro Quo\|Quid Pro Quo]] (Action) 40ft 1⁄3Damage
-	[[Skull/Concentrated Brain/Dnd/Jesters Stuff/JestersClasses/Curse User/Curse User#Broken but unbound \|Broken but unbound]] 15ft Teleport 5
+	[[Curse User#Extra attack\|Extra attack]]
+	[[Curse User#Cursed ritual\|Cursed ritual]] 3AC Damage Save Advantage 2
+	[[Curse User#Domain Expansion\|Domain Expansion]]: 
+			[[The Voids Embrace\|The Voids Embrace]] (Action) 50ft 8+2
+	[[Curse User#Soft as paper, sharp as steel\|Soft as paper, sharp as steel]] 
+	[[Curse User#Cursed movement\|Cursed movement]] (Ignore)
+	[[Curse User#Improved technique\|Improved Curse Technique]]
+		[[Yoink\|Yoink]] (passive) 50+ft 2
+	[[Curse User#Reverse curse technique\|Reverse Curse Technique]]
+		[[Now You Gotta Kiss Me\|Now You Gotta Kiss Me]] (Miss, reaction Strike) 2
+		[[Quid Pro Quo\|Quid Pro Quo]] (Action) 40ft 1⁄3Damage
+	[[Curse User#Broken but unbound \|Broken but unbound]] 15ft Teleport 5
 
 [[Blessing of the Raven Queen \|Blessing of the Raven Queen ]] (2)
 
@@ -153,7 +153,73 @@ Born After Their Older Brother Had Already Passed, Ferventi Grew Up Under A Lot 
 
 Its Not Like Anyhting Was Ever Perfect, They Always Felt Like They Were One Push Away From The Edge, One Insignificant Expectation Away From Losing Her Mind But That Never Happened. No, Instead The Gods Remembered That They Had Given Her A Gift. Its More Like A Consolation Prize.
 
+## # <center><span style="color:#000000">Curses</span></center>
 
+
+## <center><span style="color:#CC550D">Cursed tool: 1 in the chamber </span></center>
+
+A Tattered Shell Of What You Can Imagine Was Once A Revolver But Is Now Some Metallic Shell Riddled With Holes And Deliberate Looking Scratches. Its A Miracle This Piece Of Junk Can Hold Itself Together. If You Use It You Better Hope The Explosion Comes From The Part Pointing Away From You.
+
+Action
+2d8 cursed damage
+This weapon is broken and cannot be used other then with its cursed ability 
+Cursed ability:costs 1 cursed energy  roll a d6 on a 6  you fire the revolver and it will critical the opponent
+Give Someone The Gun And If They Beat Their Own AC They Get Shot, If They Dont: I Get Shot
+
+---
+
+## <center><span style="color:#CC550D">Now You Gotta Kiss Me</span></center>
+
+Having Missed Ferventi (Obviously In An Attempt To Flirt) The Attacker Is Now Infatuated With Her
+
+Reverse technique:
+Costs 2 cursed energy 
+Reaction strike (prerequisite: creature has to miss a attack on you )
+After a creature misses a attack you may strike back with a unarmed strike, on a hit  you charm the creature for three rounds or until you attack them, as well as this they will listen to basic commands as if under the effect of the suggestion spell 
+
+---
+## <center><span style="color:#CC550D">Quid Pro Quo</span></center>
+
+You Scratch My Back; I'll Scratch Yours Also Works When Both Parties Have Claws. Being No Stanger To Being Stabbed In The Back, Venti Had Her Eye On This One And Has Counted Their Transgressions, Until The Fires Of Hell Can Bring Forth Retribution Part Of It Will Be Hand Delivered By Yours Truly.
+
+Improved reverse technique:
+Action
+Consumed ⅓ of the damage you wish to use 
+During a fight pick one creature, you now may tally how much  damage they do to you throughout the fight, at any point during it you can consume ⅓ of that damage as curse energy then fire back all of it at a enemy, the attack is unable to miss unless a technique is used 
+(i.e if you are hurt for 15 dmg overall then you consume 5 cursed energy then deal 15dmg to them)
+
+---
+## <center><span style="color:#000000">The Voids Embrace</span></center>
+
+
+The Rapid Expansion And Escape Of Ferventi Rana's Emotions Created A Blanket Of Chaos Ending All Feeling Within The Domain. Exposure To The Void Causes Emotions To Spiral As One Tries To Gain Control Of Them. Escaping The Void Leaves One Longing For Its Embrace And Temporarily Unable To Properly Function Without It.
+
+Action 
+Consumes 8 cursed energy, costs 2  energy to maintain  
+Causes the frightened effect as well as stunning for a turn after the domain closes
+For two turns after the domain closes a user who was caught in it can’t use any cursed energy they also have disadvantage on physical strike 
+Rewritten
+drain curse points, turn invisible
+
+---
+## <center><span style="color:#892102">Warning Shot</span></center>
+
+When Ferventi's Adrenaline Gets Too High They Lash Out Both Physically And Emotionally, Striking Their Opponent With A Personalised Curse. The Pain Of The Curse Settling In Subsides As Their Senses Are Filled With A Manifestation Of Their Greatest Fear. It Overwhelms Them Until She Lets Them Go And The Curse Energy Drains Out.
+
+Reaction 
+Consume 3 cursed energy and perform a reaction strike pouring cursed energy into your weapon/fist on an unsuccessful hit (+5) the opponent sees the attack form into their greatest fear causing them to take 2d8 curse damage and  go into the frightened status and abandoning whatever their current motivation was
+Consume a extra 1 energy every turn you wish for this effect to stay active
+If Known: At The End incapacitated, can’t move, and can speak only falteringly.
+
+---
+## <center><span style="color:#CC550D">Yoink</span></center>
+The Sempra Distant Begin To Feel Their Heart Get Pulled Towards The Creature Theyve Been Stalking. They Dont Know Why Theyve Been Staying So Far Away But For Some Reason This Thing Wants Them. Ferventi Grows Impatient. Ferventi Needs More.
+
+Improved technique:
+Passive ability 
+Consumes 2 cursed energy when you want to toggle it on, lasts until you dismiss it or are incapacitated 
+Prerequisite: have to be 40ft away 
+While a creature of your choice is 40ft away you can drain hp away from them  equal to the creatures con modifier 
 
 
 
