@@ -20,8 +20,6 @@ If Youre My [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Sunshin
 And This Is For You [[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|Honey]]
 
 Also Some [[Branches/People\|People]] Wanted To Deliver Some Messages To A Bunch Of Internet Strangers So.... [[Explicitly Showcased/From Others/Relay 1\|Relay 1]] [[Explicitly Showcased/From Others/Relay 2\|Relay 2]]
-
-Currently  **[[Explicitly Showcased/Home Page I Guess/Testing Stuff\|Testing Stuff]]**
   
 ‫‬‭‮‪‫‬‭‮҉   ‫‬‭‮҉‫‬‭‮‪‫‬‭‮҉ [[Explicitly Showcased/My General Outlook On This\|My General Outlook On This]]
  
@@ -36,7 +34,7 @@ I Dont Want This Specific Page To Get Crowded So Im Going To Stop Talking Here
 
 
 
-<!-- Elfsight Cookie Consent | Untitled Cookie Consent --> <script src="https://static.elfsight.com/platform/platform.js" async></script> <div class="elfsight-app-20ee6467-81a6-47ba-81bd-de95c689049f" data-elfsight-app-lazy></div>
+<script src="https://static.elfsight.com/platform/platform.js" async></script> <div class="elfsight-app-20ee6467-81a6-47ba-81bd-de95c689049f" data-elfsight-app-lazy></div>
 ###### You Got To The End 
 <sup>Well Done</sup> 
 ![Pasted image 20230824220645.png](/img/user/images/Pasted%20image%2020230824220645.png)
