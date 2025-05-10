@@ -48,6 +48,14 @@
 | Unarmed | 5      | 1d6+5 BPoison |
 
 ### [[Katrina's Spells\|Katrina's Spells]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Spells/Primal Savagery\|Primal Savagery]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Eldritch Blast\|Eldritch Blast]]
+
+[[Skull/Concentrated Brain/Dnd/Terminology/Spells/Hex\|Hex]]
+
+[[Skull/Concentrated Brain/Dnd/Terminology/Spells/Mind Thrust\|Mind Thrust]]
+
+[[Skull/Concentrated Brain/Dnd/Terminology/Spells/Spirit Shroud\|Spirit Shroud]]
 
 | Constitution |  17   |   9  |
 | ------------ | --- | --- |
@@ -77,25 +85,54 @@ endurance master
 last stand
 Adrenaline Rush
 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Radioactive aura\|Geigermin#Radioactive aura]] 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Glowing skin\|Geigermin#Glowing skin]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Melted internals\|Geigermin#Melted internals]]
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Radioactive aura\|Radioactive aura]] 
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Glowing skin\|Glowing skin]]
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Melted internals\|Melted internals]]
 
 Energy: 12
 Martial arts (d8)
 Cantrips
 Spell Casting
 Curse technique
-	[[Union Ceremony\|Union Ceremony]]
+	[[#Union Ceremony| Union Ceremony]]
 Cursed movement (Costs 3)
 Take control
 Improved Technique
-	[[Dormant Genes\|Dormant Genes]]
+	[[#Dormant Genes]]
 Extra Attack
 domain expansion
-	[[Hostile Take Over\|Hostile Take Over]]
+	[[#Domain Expansion: Hostile Take Over|Hostile Take Over]]
 
 Cursed movement
+
+##### Union Ceremony: 
+Happily Ever After
+When You Come Into Contact With Something Your Being Burrows Into It. The Being Becomes A Disposable Host For As Long As It Has Feelings Towards You, Allowing You To Manipulate It For Your Benefit. +1 Con Per Host, Hosts Curse Energy Can Power These
+
+Devour
+You Gain And The Host Loses Max Health Equal To The Hosts Missing Hp Until The Host Is Unconscious 
+
+Sacrifice
+The Host Feels Bad For Damage Youve Taken And Offers Its Health To Heal You. This Is Free If The Host Dealt The Damage 
+
+Fawn
+The Host Considers That The Only Way To Leave Alive Is To Appease You. It Is Now Charmed And Can Be Commanded As Long As You Or Your Allies Aren't Hostile Towards It
+
+Tithe
+To Show Its Appreciation The Host Gives Up Some Of Its Earthly Possessions
+
+Protozoa
+If The Host Is A Monster Or Evil Aligned Creature Not Under Stronger Rule Its Alligiance Switches Or It Is Absorbed. You Gain Its Skills And Knowledge
+
+###### Dormant Genes: 
+Lets Hope Death Skips A Generation 
+
+You Target A creature In Sight As Something Within It Longs To Be With You, Causing An Explosion Of Energy From Its Abdomen. The New Host Takes Damage And You Gain Half Their Current Combat Stats, Speed And Energy
+
+##### Domain Expansion: Hostile Take Over
+I Want You To Be In Good Company 
+
+All Hosts In The Domain Become Perminant And Transform Into The Curse, Operating As A Hivemind During The Domains Activation. When The Domain Closes They Can Choose To Keep The Form Or Escape It. Wisdom Save To Discern The Real Katrina
 
 
 

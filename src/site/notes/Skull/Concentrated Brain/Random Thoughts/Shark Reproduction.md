@@ -13,7 +13,7 @@ Well Two Cool Shark Facts
 2.  the blacktip shark can reproduce asexually
 
 First Off
-Obligitory [[Skull/Concentrated Brain/Random Facts/Sharks/Sharks\|Sharks]] Are Pretty Cool [[Template/Comment\|Comment]]
+Obligitory [[Skull/Concentrated Brain/Random Facts/Sharks/Sharks\|Sharks]] Are Pretty Cool [[Comment\|Comment]]
 Because They Are Awesome
 I Dont Want Both  Apenis And A Vagina, In Fact, I Want Neither Because I Think Both Absolutely Suck But I Do Love The Idea Of A Person Having Both Fully Functoinal
 You DOnt Usually get That In Humans Sadly And I Think Thats A Waste Of Portential

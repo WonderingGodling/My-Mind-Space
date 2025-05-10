@@ -968,7 +968,7 @@ Roo Was So Toxic Today
 If Anything Comes Up Regarding Wednesday 164·2024· Then We Can Assume That Was That
 
 
-![[ee8ab112d9056a7a920a93dc3558e2d9.mp4\|ee8ab112d9056a7a920a93dc3558e2d9.mp4]]
+![[ee8ab112d9056a7a920a93dc3558e2d9.mp4]]
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/OBzZ0jb" data-context="false" ><a href="//imgur.com/a/OBzZ0jb">mood</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
@@ -1480,7 +1480,7 @@ Maybe Ill Start Including Every Interaction We Have
 I Mean Other Than I Was In Her Room On Saturday I Think Youre All Caught Up For The Month
 ‍
 For Anyone Who Wants To See The Huge, Unforgivable Mess I Made In The Kitchen
-![[20231212_000310.jpg\|20231212_000310.jpg]]
+![20231212_000310.jpg](/img/user/images/20231212_000310.jpg)
 <sub>That Has Food In It By The Way
 I Didnt Trust My Mother To Not Let Us Starve So I Made Enough To Eat TomorrowAs Well</sub>
 
