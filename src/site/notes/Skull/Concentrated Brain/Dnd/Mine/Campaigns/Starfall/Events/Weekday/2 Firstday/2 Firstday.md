@@ -15,13 +15,13 @@
 ## Night
 - Royal Disputes
 	- Prince 
-- Sweeny Todd
+- Sweeny Todd Thing 
 - Other Adventurer(s) In The Same Boat
 - Scientists Want To Examine Stars
 
--   Ominous Chanting From Nearby Ruins (Piscologists Leader Remembers)
+-   Ominous Chanting From Nearby Ruins (Some Piscologists Remember)
     
--   Girl Cursed Dies On The Morn Unless Given Dragons Tears (Quest Item)
+-   [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Zealianne\|Zealianne]] Cursed Dies On The Morn Unless Given Dragons Tears (Quest Item)
     
 -   First Prince Lancelot Searches For Dragons Eggs
 
