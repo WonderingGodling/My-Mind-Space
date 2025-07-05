@@ -7,7 +7,7 @@
 
 # <center><span style="color:#911911">The Harbinger</span></center>
 
-Avatar Of The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/The Church Of Reckfullness\|The Church Of Reckfullness]]
+Avatar Of The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Church Of Reckfullness\|The Church Of Reckfullness]]
 Has No Stats
 
 

@@ -4,15 +4,11 @@
 
 # Firstday
 
-## Day
+### [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Roque\|Roque]] (Roo)
+
+
+
 -   Midius Gets A Wish, Liquid Gold Fountain
-
-
-    
-
-  
-
-## Night
 - Royal Disputes
 	- Prince 
 - Sweeny Todd Thing 

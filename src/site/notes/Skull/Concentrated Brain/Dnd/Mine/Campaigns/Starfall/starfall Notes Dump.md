@@ -19,7 +19,7 @@ Homestuck NPCs
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Neutral/Blakewell\|Blakewell]] ✘
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hunter\|Hunter]] ✘
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Neutral/Droste\|Droste]] ✘
-[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/The  Harbinger\|The  Harbinger]] ✘, apostle Of [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/The Church Of Reckfullness\|The Church Of Reckfullness]]✘
+[[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Gods/UnterGod/The  Harbinger\|The  Harbinger]] ✘, apostle Of [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Church Of Reckfullness\|The Church Of Reckfullness]]✘
 	Fake Harbinger ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Thievin Steven\|Thievin Steven]]) At The Dungeon 
  [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Clarent\|Clarent]] 
 Way More Dragons
@@ -65,6 +65,18 @@ Business Review
 Someobe Alwats Drinking Drugged Coffe
 Queen Death Alt Ending
 Someone Important Who Knows Rumours About The Parties
+Bag Of Holding Sale
+Mimic Town
+Egg And Cress
+[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/waterside Down\|WATERSIDE DOWN]]
+[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Roque\|Roque]]
+[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]]
+[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Biedenbach\|BiedenBach]]
+[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]]
+Apprentice Occultist
+Dragon Long Neck
+
+
 
 
 

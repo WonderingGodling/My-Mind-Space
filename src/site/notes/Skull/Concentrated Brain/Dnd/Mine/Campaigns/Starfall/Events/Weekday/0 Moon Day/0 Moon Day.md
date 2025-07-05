@@ -64,12 +64,12 @@ Outside Rooms Have Cats
 - Parlour, No Exits
 - Games room, Two Exits
 	- Puzzles
-		- [ wordle](https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjITTE/edit?gid=364337137#gid=364337137)
 		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Crossword\|Crossword]] ×3 (WIP)
 		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Cryptic\|Cryptic]] ×4 (WIP)
-		- [Countdown ](https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjITTE/edit?gid=962370092#gid=962370092)
-			- Words 
 		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Cryptogram\|Cryptogram]]
+	- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Oodle\|Oodle]] 
+	- [Countdown ](https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjITTE/edit?gid=962370092#gid=962370092) 
+		- Numbers
 - Store Room, No Exits
 - Garage, "No Exits"
 - Music Room, Two Exits
@@ -155,20 +155,20 @@ Vantias Steal And Hide Peters Pipes
 
 ### Music 
 - Performed By Bards
-    - Lead By Pan-Pipes Peter
+    - Lead By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Pan-Pipes Peter\|Pan-Pipes Peter]]
         - His Pipes Get Stolen After The Performance
-    - Rest Of The Band Is Made Up Of Dwarves, Humans And Aasimar (TWins, Humans With Halos)
+    - Rest Of The Band Is Made Up Of Dwarves (Paul, Gene, Ace) And Aasimar TWins (Vinnie, Eric)
 - After The First Loop The Music Is Managed By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Clarent\|Clarent]]
 ### Replacement
-Announced By Hunter Because Who Knows Where Lancelot Is
-- The Queen Couldnt Make It So Theyre Doing A Talent Show
+Announced By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hunter\|Hunter]] Because Who Knows Where [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Lancelot\|Lancelot]] Is
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/The Queen\|The Queen]] Couldnt Make It So Theyre Doing A Talent Show
 	- Show Of Strength
 		- Reward
 	- Show Of Skill
 		- Reward
 	- Show Of Wonder
 		- Reward
-- Everyone Gets A Moment With Lancelot
+- Everyone Gets A Moment With [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Lancelot\|Lancelot]]
 
 ## East
 ### "Historical" Paintings
@@ -191,9 +191,14 @@ Announced By Hunter Because Who Knows Where Lancelot Is
 - Friendship Test
 	- Put An Item That Links You In A Box
 	- Red Light Or Green Light
+### Balloon Darts
+### Whack-a-mole
+free
+
+
 ## Petting Zoo And Botanical Garden Pocket Dimension
 2 Gold Per Head
-Ran By Kelannar Dargona High Lvl Who Warns Against Going Near The Plants
+Ran By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Kelannar\|Kelannar]] Dargona High Lvl Who Warns Against Going Near The Plants
 If She Dies All The Creatures Are Let Out
 - [Acid Bird](https://www.dandwiki.com/wiki/Acid_Bird_(5e_Creature))
 - [Black Slime](https://www.dandwiki.com/wiki/Black_Slime_(5e_Creature)) (Cleans Stuff)
@@ -212,14 +217,14 @@ If She Dies All The Creatures Are Let Out
 ## South
 ### Puzzles
 - Puzzles
-	- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Oodle\|Oodle]] 
 	- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Sudoku\|Sudoku]] 
 	- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Kenken\|Kenken]] 
 	- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Zuzu\|Zuzu]] 
 	- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Chess\|Chess]] 
 	- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Minesweeper\|Minesweeper]]
-	- [Countdown ](https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjITTE/edit?gid=962370092#gid=962370092) 
-		- Numbers
+	- [Countdown ](https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjITTE/edit?gid=962370092#gid=962370092)
+		- Words 
+- [ wordle](https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjITTE/edit?gid=364337137#gid=364337137)
 	- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Nonogram\|Nonogram]] (WIP)
 	- Escape room
 		- Pitch black Room (Black Doorframe)
@@ -254,6 +259,7 @@ If She Dies All The Creatures Are Let Out
     -  Collapsing Door To Nowhere As An Exit
         - Pocket Dimension Suitcase
             - House And Storage And Stuff
+### Qute's Stand
 
 ## West
 ### **Intergalactic Subway**
@@ -265,11 +271,26 @@ If She Dies All The Creatures Are Let Out
         - Bin One: Green, Screams
         - Bin Two: Red, Recycling
         - Bin Three: Grey, Rubbish
-        
+      
+### Sera's Stand
 
+### Fri's Lil Shop Of Waters
+Tea Shop With Open Jars Of what Looks Like Various Herbs And Powders
+Honor System
+	Breaking Honor  System Gives 1 Related And 1 Random Curse
+#### 20 Gold Tea (Price Increases Every Time), Effects Last For The Loop
+Blue- +10 Speed
+Sleepy Time With Honey- Advantage Against Being Put To Sleep
+Carrot Tea- Darkvision 20ft
+Mixed Fruits- +1 To Lowest Stat
+#### 100 Gold Tea
+Pep In Your Step- Extra Reaction
+Lucky Sip- Inspiration
+Golden Shower- Nothing
+Free Spirit- One Death Save
 ### A few (SMALL) quests 
 
-10 Bronze Each
+10 Copper Each
 - [ ] Half-Priced Cracked Ice
 - [ ] Miles And Miles Of Carpet Tiles
 - [ ] TVs 
@@ -281,3 +302,8 @@ If She Dies All The Creatures Are Let Out
 - [ ] Picture Frames
 - [ ] Leather Goods
 - [ ] (At A Push) Trevor Francis Tracksuits From A Mush In Shepards Bush
+
+###### Misc
+Without Influence Qutes Makes 350 Silver Max (Check Her Pricing)
+Without Influence Sera Makes 7 Gold Max (Check Her Pricing)
+	Eating Seras Food Will Give Temporary +3 To Wisdom The First Time Its Eaten

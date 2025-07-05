@@ -9,8 +9,11 @@
 
 
 Hatchet Town (Casual Cannibalism)
-On Moon Day Its Covered In A Dense Fog That Swallows Sound
+	Makes Its Prospects From Tourism, Hunting And Baking (when Possible)
+Military District AC
 
+
+On Moon Day Its Covered In A Dense Fog That Swallows Sound
 ## Hatchet Town Hideout Rooms
 - Nook, No Exits
 - Stage, Four Exits 

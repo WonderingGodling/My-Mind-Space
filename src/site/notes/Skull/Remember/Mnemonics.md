@@ -1,0 +1,80 @@
+---
+{"dg-publish":true,"permalink":"/skull/remember/mnemonics/","tags":["Tagless"],"noteIcon":""}
+---
+
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
+
+
+# <center><span style="color:#000000"></span></center>
+
+
+
+
+
+### Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere
+
+The Straight Mans Testicles Exploded
+
+### Morgan–Keenan (MK) system 
+#### Original
+<span style="color:rgb(75, 236, 19)">O</span>h <span style="color:rgb(75, 236, 19)">B</span>e <span style="color:rgb(75, 236, 19)">A</span> <span style="color:rgb(75, 236, 19)">F</span>ine <span style="color:rgb(75, 236, 19)">G</span>irl, <span style="color:rgb(75, 236, 19)">K</span>iss <span style="color:rgb(75, 236, 19)">M</span>e <span style="color:rgb(75, 236, 19)">R</span>ight <span style="color:rgb(75, 236, 19)">N</span>ow, <span style="color:rgb(75, 236, 19)">S</span>weetheart
+#### Revised
+<span style="color:rgb(75, 236, 19)">O</span>ld, <span style="color:rgb(75, 236, 19)">B</span>ald, <span style="color:rgb(75, 236, 19)">A</span>nd <span style="color:rgb(75, 236, 19)">F</span>at <span style="color:rgb(75, 236, 19)">G</span>enerals <span style="color:rgb(75, 236, 19)">K</span>iss <span style="color:rgb(75, 236, 19)">M</span>ore <span style="color:rgb(75, 236, 19)">L</span>adies <span style="color:rgb(75, 236, 19)">T</span>han <span style="color:rgb(75, 236, 19)">Y</span>ou
+
+### Taxa
+Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species
+Dear Kevin Please Come Over For Gay Sex
+
+### Camel Humps (Dromedary Vs Bactrian)
+D in Dromedary has one hump; B in Bactrian has two
+
+### poison ivy
+Leaves of three, leave it be.
+Hairy vine, no friend of mine.
+
+### Caloric reflex test 
+- COWS: Cold Opposite Warm Same
+
+### DNA base pairs
+<span style="color:rgb(75, 236, 19)">T</span>igers <span style="color:rgb(75, 236, 19)">A</span>re <span style="color:rgb(75, 236, 19)">G</span>reat <span style="color:rgb(75, 236, 19)">C</span>ats
+
+### Antibodies 
+Ig_
+<span style="color:rgb(75, 236, 19)">GAMED</span>
+### six most common elements in organisms
+<span style="color:rgb(75, 236, 19)">N</span>itrogen, <span style="color:rgb(75, 236, 19)">C</span>arbon, <span style="color:rgb(75, 236, 19)">H</span>ydrogen, # <span style="color:rgb(75, 236, 19)">O</span>xygen, <span style="color:rgb(75, 236, 19)">P</span>hosphorus, <span style="color:rgb(75, 236, 19)">S</span>ulfur
+<center><sub>Done :)</sub></center>
+
+### The countries of South America in order of largest to smallest by area: 
+Brazil, Argentina, Peru, Colombia, Bolivia, Venezuela, Chile, Paraguay, Ecuador, Guyana, Uruguay, Suriname
+Boring, Average Politics Can Become Very Corrupt. People Everywhere Get Used Sometimes
+### The countries of Central America from North to South: 
+Belize, Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica, Panama
+    Big Gorillas Eat Hotdogs, Not Cold Pizza[16]
+### The Lesser Antilles in the Caribbean Sea including the eight independent nations and eight larger island territories  in order generally from northwest to southeast:
+(excluding the "ABC" islands of Aruba, Bonaire, and Curaçao), British And US Virgin Islands, Anguilla, St. Martin/Sint Maarten, St. Barthelemy, St. Kitts & Nevis, Antigua and Barbuda, Montserrat, Guadeloupe, Dominica, Martinique, St. Lucia, St. Vincent and the Grenadines, Barbados, Grenada, Trinidad and Tobago.
+BUt Angry SaM's StuBborn KNights ABandon Money to Guard Dominant Marines and SteaL SteVe's Barrels of Green Tobacco
+
+   ### The Great Lakes in order of largest to smallest: 
+   Superior, Huron, Michigan, Erie, Ontario
+Super Heroes Must Eat Oats
+### The principal factors affecting climate: 
+LABDOWA
+ Latitude, Altitude, Build, Distance from the sea, Ocean currents, Wind, Aspect
+### The countries bordering Germany (clockwise from top): 
+Denmark, Poland, Czechia, Austria, Switzerland, France, Luxembourg, Belgium, Netherlands.
+Do Polish Checks Always Say "France Look Back Now"!
+###    The traditional six counties of Northern Ireland 
+FAT LAD
+Fermanagh, Antrim, Tyrone, Londonderry, Armagh, and Down. .
+### The northernmost countries of the African continent, from west to east: 
+ Most African Tourists Like Elephants.
+    Morocco, Algeria, Tunisia, Libya, Egypt.
+    
+### The southernmost provinces of Canada: 
+British Columbia, Alberta, Saskatchewan, Manitoba, Ontario, Quebec, Newfoundland.
+BASMOQN, 
+        pronounced "Baz-Mock-Win"
+###     Geological periods: 
+Precambrian, Cambrian, Ordovician, Silurian, Devonian, Carboniferous, Permian, Triassic, Jurassic, Cretaceous; Paleocene, Eocene, Oligocene, Miocene, Pliocene, Pleistocene, Recent (Holocene)
+Pregnant Camels Often Sit Down Carefully, Perhaps Their Joints Creak? Possibly Early Oiling Might Prevent Permanent Rheumatism
