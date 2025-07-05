@@ -21,7 +21,7 @@ Add Spell Effwects To Some Interactables
 Stairs Turn Into Razor Blade Slide
 Borrowed:
 - My personal favorite is a illusionary wall of fire the players need to get through. So the players walk into the room and usually make a few perception rolls. I tell them they notice the fire doesn't seem to be giving off heat or smoke. They assume it is an illusion and cast detect magic to confirm. They sense the presence of illusion. So at this point they usually try to walk right through. The trick is the illusion magic is masking the heat and smoke and it's a real fire they just walked into. Always bring a 10 foot pole.
-- At the entrance of the dungeon, there's a big burly muscly guy ( minotaur, [[Thievin Steven\|Thievin Steven]]) who tells the party that weapons are not allowed inside, and they need to leave their weapons with him. If they refuse to hand over their weapons, he'll issue vague threats, like "okay, you can take the weapons in if you really want to, but don't say I didn't warn you..."
+- At the entrance of the dungeon, there's a big burly muscly guy ( minotaur, [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Thievin Steven\|Thievin Steven]]) who tells the party that weapons are not allowed inside, and they need to leave their weapons with him. If they refuse to hand over their weapons, he'll issue vague threats, like "okay, you can take the weapons in if you really want to, but don't say I didn't warn you..."
 	- If the party does hand over their weapons, when they exit the dungeon, the man is gone.
 	- He's just a thief.
 

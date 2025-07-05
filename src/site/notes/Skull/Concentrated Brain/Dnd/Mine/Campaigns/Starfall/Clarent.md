@@ -19,15 +19,15 @@
 
 ## Stats
 
-|    Speed     | AC  | Bonus |  Initiative   |
-| :----------: | :-: | :---: | :-----------: |
-|      40      |  26   |   9    |     11          |
-|   Hit Dice   |  30d8   |  30d8    | Saving Throws |
-|    Health    |  240   |  240     |               |
-| Constitution |  10   |  0     |    0          |
-| Inteligence  | 20    |   5    |         5      |
-|    Wisdom    |   8 |     -1  |       -1       |
-|   Charima    |  32  |     11  |     20          |
+|    Speed     |  AC  | Bonus |  Initiative   |
+| :----------: | :--: | :---: | :-----------: |
+|      40      |  21  |   9   |      11       |
+|   Hit Dice   | 30d8 | 30d8  | Saving Throws |
+|    Health    | 240  |  240  |               |
+| Constitution |  10  |   0   |       0       |
+| Inteligence  |  20  |   5   |       5       |
+|    Wisdom    |  8   |  -1   |      -1       |
+|   Charima    |  32  |  11   |      20       |
 
 | Skills                | Bonus | Skills                | Bonus |
 | --------------------- | :---: | --------------------- | :---: |

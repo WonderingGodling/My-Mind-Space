@@ -293,7 +293,7 @@ On the morning of iniciation the initiator will make his way to your house (or o
 
 # Places Of Worship In Piscology
 
-There are many Churches Of Piscology (or CoPs) spread internationally, with very few cthings in common. The entrance is always arched with a silvery, polished marble and there is always a house-sized fish utopia in the middle as Humongous Richard wouled have wished. However the styl;e of architecture, the size and even the purpose of the CoPs cannot be garunteed to fit your purpose. If in a scenario where your local CoP does not support your needs or (Dick forbid turn on you for a reason not backed by the true meaning of piscology) your best hope is to go running to another CoP and hoping that they will be able to help you in your endevours.
+There are many Churches Of Piscology (or CoPs) spread internationally, with very few things in common. The entrance is always arched with a silvery, polished marble and there is always a house-sized fish utopia in the middle as Humongous Richard wouled have wished. However the style of architecture, the size and even the purpose of the CoPs cannot be guaranteed to fit your purpose. If in a scenario where your local CoP does not support your needs or (Dick forbid turn on you for a reason not backed by the true meaning of piscology) your best hope is to go running to another CoP and hoping that they will be able to help you in your endevours.
 
   
 

@@ -11,7 +11,7 @@
 
 
 ## General
- Class: Rogue 14
+ Class: Rogue 20
  Alignment: True Neutral
  Background: 
 
