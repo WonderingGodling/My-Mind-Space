@@ -19,7 +19,11 @@ Cratey
 	- cave In
 	- Minor (Non-Damaging) Earthquake
 
--   Dungeon Found (Effected By Players),
+- Found By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Tobias (Mimic)\|Tobi]] (Lvl Highest PC+2) After Loop 0
+	- (At Least One Group → All Of Them)
+	- Tobias Duplicates Next Loop If Killed
+
+-   [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Dungeon\|Dungeon]] Found (Effected By Players),
 -   Lock: Four Riddles Four Lives
 	- Tobias Uses All Of Them
 	- Riddles:
@@ -37,6 +41,3 @@ Cratey
 - Item Book Of Loss (Gives A Level From The Class Of The Target)
 - Death [Weapon] Can Be Used To Store And Deflect Damage
 
-- Found By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Tobias (Mimic)\|Tobi]] (Lvl Highest PC+2) After Loop 0
-	- (At Least One Group → All Of Them)
-	- Tobias Duplicates Next Loop If Killed

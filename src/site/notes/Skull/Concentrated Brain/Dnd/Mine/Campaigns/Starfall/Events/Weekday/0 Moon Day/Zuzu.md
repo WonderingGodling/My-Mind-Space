@@ -3,8 +3,7 @@
 ---
 
 
-<!--⚠️Imgur upload failed, check dev console-->
-<!--⚠️Imgur upload failed, check dev console-->![WhatsApp Image 2025-04-09 at 19.44.41 (2).jpeg](/img/user/images/WhatsApp%20Image%202025-04-09%20at%2019.44.41%20(2).jpeg)
+![WhatsApp Image 2025-04-09 at 19.44.41 (2).jpeg](/img/user/images/WhatsApp%20Image%202025-04-09%20at%2019.44.41%20(2).jpeg)
 
 ![WhatsApp Image 2025-04-09 at 19.44.41 (4).jpeg](/img/user/images/WhatsApp%20Image%202025-04-09%20at%2019.44.41%20(4).jpeg)
 
