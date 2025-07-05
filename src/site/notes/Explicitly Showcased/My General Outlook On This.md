@@ -21,13 +21,13 @@ Also Planning On Adding A Guestbook Or Something
 # Post Launch
 
 At The Moment Not Everything Can Be Accessed  
-For Example [[This\|This]] Is The Only Way To See That Note  
+For Example This Is The Only Way To See That Note  
 But Maybe Over Time Thatll Change (That Has Changed Cheers)  
 Who Knows
 
 Oh And Also There Are Some Note Links That Exist But Lead Nowhere  
 Thats Because I Dont Want To Publish Everything Online (Story Idea Spoilers, Backend Connecters And Other Stuff) So Those Might Just Stay Broken  
-Also On My End Ive Got Little Icons Next To Filess And Stuff And There Isnt A Simple Way To Treansfer Those To The [[Website\|Website]] Which Is A Pain In The Ass
+Also On My End Ive Got Little Icons Next To Filess And Stuff And There Isnt A Simple Way To Treansfer Those To The [[Explicitly Showcased/Home Page I Guess/Home Page\|Website]] Which Is A Pain In The Ass
 
 # Zoochosis
 

@@ -14,28 +14,28 @@
 
 ## Stats
 
-|    Speed     |  AC  | Bonus |  Initiative   |
-| :----------: | :--: | :---: | :-----------: |
-|      30      |  16  |   4   |       1       |
-|   Hit Dice   | 10d8 | 10d8  | Saving Throws |
-|    Health    | 140  |  140  |               |
-|   Strength   |  13  |   1   |       1       |
-|  Dexterity   |  12  |   1   |       5       |
-| Constitution |  19  |   4   |       7       |
-| Inteligence  |  10  |   0   |       0       |
-|    Wisdom    |  8   |  -1   |      -1       |
-|   Charima    |  16  |   3   |       3       |
+|    Speed     |  AC   | Bonus |  Initiative   |
+| :----------: | :---: | :---: | :-----------: |
+|      30      |  16   |   4   |       1       |
+|   Hit Dice   | 12d10 | 12d10 | Saving Throws |
+|    Health    |  140  |  140  |               |
+|   Strength   |  13   |   1   |       1       |
+|  Dexterity   |  12   |   1   |       5       |
+| Constitution |  21   |   5   |       9       |
+| Inteligence  |  10   |   0   |       0       |
+|    Wisdom    |   8   |  -1   |      -1       |
+|   Charima    |  17   |   4   |       4       |
 
 | Skills                | Bonus | Skills                | Bonus |
 | --------------------- | :---: | --------------------- | :---: |
 | Acrobatics (Dex)      |   5    | Medicine (Wis)        |   -1    |
 | Animal Handling (Wis) |     -1  | Nature (int)          |   0    |
 | Arcana (Int)          |      0 | Perception (Wis)      |      -1 |
-| Athletics (Str)       |    5   | Performance (Char)    |    3   |
-| Deception (Char)      |     3  | Persuasion (Char)     |     7  |
+| Athletics (Str)       |    5   | Performance (Char)    |    4   |
+| Deception (Char)      |     4  | Persuasion (Char)     |     8  |
 | History (Int)         |    0   | Religion (Int)        | 0      |
 | Insight (Wis)         |     -1  | Sleight of Hand (Dex) |  1     |
-| Intimidation (Char)   |     3  | Stealth (Dex)         | 1      |
+| Intimidation (Char)   |     4  | Stealth (Dex)         | 1      |
 | Investigation (Int)   |     0 | Survival (Wis)        |    -1  |
 
 | Death Saves  |     |     |     |
@@ -45,17 +45,27 @@
 
 | Attack  | To-Hit | Damage            |
 | ------- | ------ | ----------------- |
-| Unarmed | 5      | 1d6+5 Bludgeoning |
+| Unarmed | 5      | 1d6+5 BPoison |
 
 ### [[Katrina's Spells\|Katrina's Spells]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Spells/Primal Savagery\|Primal Savagery]]
+[[Skull/Concentrated Brain/Dnd/Terminology/Eldritch Blast\|Eldritch Blast]]
 
-| Constitution |  16   |   8  |
+[[Skull/Concentrated Brain/Dnd/Terminology/Spells/Hex\|Hex]]
+
+[[Skull/Concentrated Brain/Dnd/Terminology/Spells/Mind Thrust\|Mind Thrust]]
+
+[[Skull/Concentrated Brain/Dnd/Terminology/Spells/Spirit Shroud\|Spirit Shroud]]
+
+| Constitution |  17   |   9  |
 | ------------ | --- | --- |
 
 # Inventory
 
 Money: 
-Inventory: old school crest on a scalf, https://docs.google.com/document/d/1DP1iJdNnFgXNk43-MeXytUBl7E277Fp6xR-v3QsC-og/edit?tab=t.0#heading=h.mmrkbvkue8vs, 20 darts, chain shirt, shield
+Inventory: old school crest on a scalf, 20 darts, chain shirt, shield [[Skull/Concentrated Brain/Dnd/Grims Stuff/Agate And Katrina/Kats grimoire\|Kats grimoire]]
+
+Unspecified curse tool
 # Extra
 Resistances: 
 Advantage: 
@@ -75,30 +85,54 @@ endurance master
 last stand
 Adrenaline Rush
 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Radioactive aura\|Geigermin#Radioactive aura]] 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Glowing skin\|Geigermin#Glowing skin]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Melted internals\|Geigermin#Melted internals]]
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Radioactive aura\|Radioactive aura]] 
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Glowing skin\|Glowing skin]]
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Melted internals\|Melted internals]]
 
-Energy: 10
-	Raw: 5
-Martial arts (d4)
-Cursed Energy (3)
+Energy: 12
+Martial arts (d8)
 Cantrips
 Spell Casting
-Curse Type
-	[[Union Ceremony\|Union Ceremony]]
-Raw Energy
-Curse State
-		Alter ego
+Curse technique
+	[[#Union Ceremony| Union Ceremony]]
+Cursed movement (Costs 3)
 Take control
-Cursed healing
+Improved Technique
+	[[#Dormant Genes]]
 Extra Attack
-Cursed ritual
 domain expansion
-	[[Hostile Take Over\|Hostile Take Over]]
-Raw Technique
-	[[Dormant Genes\|Dormant Genes]]
+	[[#Domain Expansion: Hostile Take Over|Hostile Take Over]]
+
 Cursed movement
+
+##### Union Ceremony: 
+Happily Ever After
+When You Come Into Contact With Something Your Being Burrows Into It. The Being Becomes A Disposable Host For As Long As It Has Feelings Towards You, Allowing You To Manipulate It For Your Benefit. +1 Con Per Host, Hosts Curse Energy Can Power These
+
+Devour
+You Gain And The Host Loses Max Health Equal To The Hosts Missing Hp Until The Host Is Unconscious 
+
+Sacrifice
+The Host Feels Bad For Damage Youve Taken And Offers Its Health To Heal You. This Is Free If The Host Dealt The Damage 
+
+Fawn
+The Host Considers That The Only Way To Leave Alive Is To Appease You. It Is Now Charmed And Can Be Commanded As Long As You Or Your Allies Aren't Hostile Towards It
+
+Tithe
+To Show Its Appreciation The Host Gives Up Some Of Its Earthly Possessions
+
+Protozoa
+If The Host Is A Monster Or Evil Aligned Creature Not Under Stronger Rule Its Alligiance Switches Or It Is Absorbed. You Gain Its Skills And Knowledge
+
+###### Dormant Genes: 
+Lets Hope Death Skips A Generation 
+
+You Target A creature In Sight As Something Within It Longs To Be With You, Causing An Explosion Of Energy From Its Abdomen. The New Host Takes Damage And You Gain Half Their Current Combat Stats, Speed And Energy
+
+##### Domain Expansion: Hostile Take Over
+I Want You To Be In Good Company 
+
+All Hosts In The Domain Become Perminant And Transform Into The Curse, Operating As A Hivemind During The Domains Activation. When The Domain Closes They Can Choose To Keep The Form Or Escape It. Wisdom Save To Discern The Real Katrina
 
 
 
