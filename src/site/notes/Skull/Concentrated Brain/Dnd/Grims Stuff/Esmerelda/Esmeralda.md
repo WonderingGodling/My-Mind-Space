@@ -82,7 +82,7 @@ Conditions: Cant Be Put To Sleep
 Armor: Light armor Weapons: Simple weapons, martial weapons Tools: Dragonchess Languages: common, celestial, Draconic
 
 # Notes: 
-[[#Reliable Dancers]] 
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Reliable Dancers\|Reliable Dancers]] 
 [[#Spellcasting]] 
 	[[#Spellcasting Components]] 	
 [[#Magical Dance]] 
