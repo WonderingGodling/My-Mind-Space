@@ -5,10 +5,11 @@
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 
-# <center><span style="color:#323456"> </span></center>
+# <center><span style="color:#32A456">Esmeralda</span></center>
 
 
-
+<!--⚠️Imgur upload failed, check dev console-->
+![Pasted image 20250709224717.png](/img/user/images/Pasted%20image%2020250709224717.png)
 
 ## General
  Race:  Old God
@@ -53,11 +54,28 @@
 |    Boot-Dagger    |  +16      |   1d4+24 Piercing     |
 |     Arcane Blade   |   +17     |    1d12+24 Slashing    |
 
-### Esmeralda's Spells]]
+### Esmeralda's Spells
 
-| Constitution |     |     |
+| Constitution | 24  | 16  |
 | ------------ | --- | --- |
-
+#### Cantrips:
+Shocking Grasp
+Lightning Lure
+Prestidigitation
+Booming Blade
+Mold Earth
+Message
+Green-Flame Blade
+Toll the Dead
+Spare the Dying
+Word of Radiance
+#### Smites
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Solar Smite\|Solar Smite]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Planar Smite\|Planar Smite]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Icy Smite\|Icy Smite]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Acidic Smite\|Acidic Smite]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Fiery Smite\|Fiery Smite]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Decaying Smite\|Decaying Smite]]
 ### Own Biggest Fan
 Level One:  Arcane Blade Can  Consume Anything
 Level Two: 
@@ -75,38 +93,51 @@ Resistances: radiant damage
 Advantage: 
 Vulnerabilities: 
 Conditions: Cant Be Put To Sleep
-  
+10ft Blindsight
 
 # Proficiencies
 		
 Armor: Light armor Weapons: Simple weapons, martial weapons Tools: Dragonchess Languages: common, celestial, Draconic
 
 # Notes: 
-[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Reliable Dancers\|Reliable Dancers]] 
-[[#Spellcasting]] 
-	[[#Spellcasting Components]] 	
-[[#Magical Dance]] 
-[[#Blade Dance]] 
-[[#Arcane Blade]] 
-[[#Arcane Smite]] 
-[[#Dance of the Warrior]] 
-[[#Instinctive Blades]] 
-[[#Arcane Assault]] 
-[[#Magic Charge]] 
-[[#Magical Channelling]] 
-[[#Cat's Grace]]
-[[#Combos]] 
-[[#Improved Arcane Assault]] 
-[[#Careful Step]]
-[[#Increased Agility]]
-[[#Superior Critical]] 
-[[#Magical Cut]]
-[[#Unstoppable Pursuer]] 
-[[#Arcane Reflection]] 
-[[#Dance Master]]
-Boon Of The Warmage https://www.dandwiki.com/wiki/Boon_of_the_Warmage_(5e_Epic_Boon)
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Position of Privilege\|Position of Privilege]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Divine burst\|Divine burst]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Celestial resistance\|Celestial resistance]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Glimmer of divinity\|Glimmer of divinity]]
 
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Reliable Dancers\|Reliable Dancers]] 
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Spellcasting\|Spellcasting]] 
+	[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Spellcasting Components\|Spellcasting Components]] 	
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Magical Dance\|Magical Dance]] 
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Blade Dance\|Blade Dance]] 
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Arcane Blade\|Arcane Blade]] 
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Arcane Smite\|Arcane Smite]] 
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Dance of the Warrior\|Dance of the Warrior]] 
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Instinctive Blades\|Instinctive Blades]] 
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Arcane Assault\|Arcane Assault]] 
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Magic Charge\|Magic Charge]] 
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Magical Channelling\|Magical Channelling]] 
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Cat's Grace\|Cat's Grace]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Combos\|Combos]] 
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Improved Arcane Assault\|Improved Arcane Assault]] 
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Careful Step\|Careful Step]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Increased Agility\|Increased Agility]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Superior Critical\|Superior Critical]] 
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Magical Cut\|Magical Cut]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Unstoppable Pursuer\|Unstoppable Pursuer]] 
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Arcane Reflection\|Arcane Reflection]] 
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Dance Master\|Dance Master]]
+[Boon Of The Warmage](https://www.dandwiki.com/wiki/Boon_of_the_Warmage_(5e_Epic_Boon)) 
+
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Restless Dance\|Restless Dance]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Evasive Step\|Evasive Step]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Step Of The Blind Waltz\|Step Of The Blind Waltz]]
+
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Blade Of Sharpening\|Blade Of Sharpening]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#blade Of The Conjurer\|Blade Of The Conjurer]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Blade Of Torpor\|Blade Of Torpor]]
 # Characteristics 
+62 Years Old (Looks In Her Mid 30s), Three Foot Tall, Unnatural Looking White Skin, Dark Grey Hair That Has Been Blackening As She Got Older, Maroon Eyes That Seem To Shift Into Red When She Gets Mad At Someone Or Something, 
 
 # Backstory
 Goes By Gem To Those Closest To Her (Esmeralda -> Emerald -> Gem)
@@ -131,7 +162,9 @@ the god of Prolonged clapping
 6. I Was Reincarnated In A Rich Family! So Much Theatre Opportunity!
 	1. We All Just Thought I Was A Hot 60 Year Old
 		1. Rich People Get A Head Start In Being Healthy So It Made Sense But This Makes More Sense
-
+Often Recruits Vassals To Do Stuff For Her Or Just Provide Company During Travels, Theyre Spread Out Because She Will Often Leave Them Behind (On The Asssumption That They Can Still Serve Her Well From Afar)
+Asexual
+Agender
 
 # References
 
@@ -144,13 +177,13 @@ Starting at 1st level, gain proficiency in Performance. If you already have prof
 
 At 1st level, you gain the ability to cast spells through your mystical dance.
 
-Cantrips
+##### Cantrips
 
 At 1st level, you learn one cantrip from the sorcerer's spell list. You learn additional cantrips as increase in level, as shown on the class table, which you select from this list or from the sorcerer's spell list.
 
 In addition, when you gain a level in this class, you can choose one of the cantrips you know and replace it with another cantrip from the sorcerer's list.
 
-Spellcasting Ability
+##### Spellcasting Ability
 
 Charisma is your spellcasting ability for your arcane blade dancer spells, since you cast a spell through a set of very specific set of arcane dance moves. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a arcane blade dancer spell you cast and when making an attack roll with one.
 
@@ -158,7 +191,7 @@ Spell save DC = 8 + your proficiency bonus + your Charisma modifier
 
 Spell attack modifier = your proficiency bonus + your Charisma modifier
 
-Spellcasting Components
+##### Spellcasting Components
 
 Your dance is your only component required for your Arcane Blade spell. For that reason, all your spells have only Somatic as their component, even if they originally have other component. You can't cast Arcane Blade spells if you are unable to move.
 
@@ -166,13 +199,13 @@ Your dance is your only component required for your Arcane Blade spell. For that
 
 At 1st level, you learn to infuse your magic into your movement and weapons.
 
-Blade Dance
+##### Blade Dance
 
 While not wearing armor, your AC equals your spell save DC. If you're wielding a weapon in one hand and no other weapon, your AC increases by 2.
 
 In addition, at 3rd level and again at 6th, and 14th levels, you can choose one dancing technique, from the Dance Techniques list.
 
-Arcane Blade
+##### Arcane Blade
 
 You can use a ritual to use the sheer power of your magic to summon a sword made of pure arcane power. Your arcane blade can take the form of any simple or martial melee weapon you are proficient with. The weapon hovers in the air within 5 feet of you.
 
@@ -220,23 +253,23 @@ Starting at 9th level, you can attack with fluidity and grace. Whenever you hit 
 
 You can spend your combo points to perform combo maneuvers, shown below.
 
-Gracious Movement
+##### Gracious Movement
 
 You can spend 1 combo point to take the Dash or Disengage actions as a bonus action.
 
-Deep Wound
+##### Deep Wound
 
 You can spend 1 combo point when you hit a creature to cause additional damage equal to your Charisma modifier. This maneuver doesn't recover combo points.
 
-Blade Flourish
+##### Blade Flourish
 
 You can spend 1 combo point as a bonus action to make one additional attack with the Arcane Blade. On a hit, the target must succeed on a Dexterity saving throw, or you hit it again. Only the first attack recovers a combo point. If you reduce a target to 0 hit points with this maneuver, you recover 3 combo points.
 
-Reactive Blade
+##### Reactive Blade
 
 You can spend 1 combo point to regain the use of your reaction.
 
-Increased Movement
+##### Increased Movement
 
 You can spend any amount of combo points to increase your movement speed by 10 feet per point spent.
 
@@ -274,25 +307,25 @@ In addition, at the start of your turn if you have 0 combo points, you gain 1 co
 
 Those who seek to learn the warrior's dance follow the path of combat. These arcane blade dancers use magic as weapon, but secondary to their prowess with the swords. They use the dance steps not only to weave magic, but as a way of fighting in an unpredictable manner.
 
-Instinctive Blades
+#### Instinctive Blades
 
 Starting at 3rd level, you can sense your enemies even without seeing them. You no longer suffer disadvantage on your attack rolls due to not being able to see your target.
 
 In addition, whenever you use a smite, the magical energy lingers on the creature, giving you advantage on your next attack roll against that creature.
 
-Magic Charge
+#### Magic Charge
 
 Starting at 7th level, you can charge against your enemies with mighty rage. As an action, you can teleport to a place you can see within 20 feet. When you teleport using your action, you can make an attack or cast a cantrip as a bonus action.
 
 In addition, for each 10 feet you teleport before making the attack, you can deal additional damage equal to 2d8 force damage with the attack or cantrip.
 
-Careful Step
+#### Careful Step
 
 At 10th level, you can quickly dodge the attacks of your opponents. You can use your reaction to impose disadvantage on a opportunity attack against you.
 
 In addition, you have advantage on Charisma (Persuasion) and Charisma (Intimidation) checks against any target you smite or charge towards in combat.
 
-Unstoppable Pursuer
+#### Unstoppable Pursuer
 
 When you reach the 14th level, you can point towards a creature you can see and use your reaction to mark it. For 1 minute, you can use your action to teleport to a point you can see within 5 feet of that creature, at cost of your movement. If you do so, you can make an attack as a bonus action. Doing so triggers the additional damage of your Magical Charge.
 
@@ -300,47 +333,47 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 ### Arcane Smites
 
-Solar Smite
+#### Solar Smite
 
 When you hit a creature with this smite, the creature needs to succeed on a Dexterity saving throw or take 2d8 radiant damage and become blinded until the end of its next turn.
 
-Earth Smite
+#### Earth Smite
 
 When you hit a creature with this smite, the creature needs to succeed on a Strength saving throw or be knocked prone on a failed save and takes 2d8 bludgeoning damage.
 
-Planar Smite
+#### Planar Smite
 
 When you hit a creature with this smite, the creature needs to succeed on a Charisma saving throw or the creature is banished back to its plane, or to a harmless demi-plane if the creature is on its native plane, until the end of its next turn, when it reappears in the same or nearest unoccupied space.
 
-Poisonous Smite
+#### Poisonous Smite
 
 When you hit a creature with this smite, the creature needs to succeed on a Constitution saving throw or the creature takes 3d4 poison damage and is poisoned until the end of its next turn.
 
-Wind Smite
+#### Wind Smite
 
 When you hit a creature with this smite, the creature needs to succeed on a Strength saving throw or the creature takes additional 2d6 bludgeoning damage and is pushed back 10 feet.
 
-Icy Smite
+#### Icy Smite
 
 When you hit a creature with this smite, the creature needs to succeed on a Constitution saving throw or the creature is covered in ice, being imprisoned. The creature takes 2d6 cold damage on a failed save and the target is restrained until the end of your next turn.
 
-Thunderous Smite
+#### Thunderous Smite
 
 When you hit a creature with this smite, the creature needs to succeed on a Constitution saving throw or take 3d4 thunder damage and be stunned until the end of your next turn.
 
-Lighting Smite
+#### Lighting Smite
 
 When you hit a creature with this smite, the creature needs to succeed on a Dexterity saving throw or the creature is electrocuted, taking 2d8 lighting damage and the creature can't take reactions until the end of your next turn.
 
-Acidic Smite
+#### Acidic Smite
 
 When you hit a creature with this smite, the creature needs to succeed on a Dexterity saving throw or a magical energy starts to corrode its flesh. The creature takes 2d4 acid damage on a failed save and 1d4 on the start of each of its turns for 1 round.
 
-Fiery Smite
+#### Fiery Smite
 
 When you hit a creature with this smite, the creature needs to succeed on a Dexterity saving throw or all creatures within 5 feet (excluding you) take 3d6 fire damage.
 
-Decaying Smite
+#### Decaying Smite
 
 When you hit a creature with this smite, the creature needs to succeed on a Constitution saving throw or take 3d6 necrotic damage. A creature reduced to 0 hit points with this smite rises as a zombie under your control for 1 minute, as if you had raised it with the _animate undead_ spell.
 
@@ -348,68 +381,77 @@ When you hit a creature with this smite, the creature needs to succeed on a Cons
 
 #### Blade Powers
 
-Blade of Sharpening
+##### Blade of Sharpening
 
 You have +1 to attack and damage rolls with your Arcane Blade.
 
-Blade of the Archer
+##### Blade of the Archer
 
 You can shape your Arcane Blade as a ranged weapon and bond with ranged weapons.
 
-Blade of the Conjurer
+##### Blade of the Conjurer
 
 You can add your Dexterity modifier to damage rolls of cantrips when wielding the Arcane Blade.
 
-Blade of Torpor
+##### Blade of Torpor
 
 Once on each of your turns when you hit a creature with your Arcane Blade, you can reduce that creature’s speed by 10 feet until the end of your next turn.
 
-Blade of the Ram
+##### Blade of the Ram
 
 When you hit a creature with your Arcane Blade, you can push the creature up to 10 feet away from you in a straight line.
 
-Blade of the Hunter
+##### Blade of the Hunter
 
 When you hit a creature with your Arcane Blade, you can cast _hunter's mark_ as a bonus action. Once you cast this spell, you can't do it again until you finish a long rest.
 
 #### Dance Techniques
 
-Evasive Step
+##### Evasive Step
 
 While not wearing armor, you gain +1 to your AC.
 
-Gracious Movement
+##### Gracious Movement
 
 While not wearing armor, you gain proficiency in the Persuasion and Performance skills. In addition, you can use your Dexterity, instead of Charisma, for checks with the Performance skill.
 
-Flowing With the Weave
+##### Flowing With the Weave
 
 While not wearing armor, you can cast _detect magic_ at will. When you cast detect magic using this ability, you sense the weave instead of seeing the glow, and can detect the magical auras without relying on sight.
 
-Restless Dance
+##### Restless Dance
 
 While not wearing armor, you don't need to sleep, and can't be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity. You can keep your armor active during such an awake rest.
 
-Step of the Blind Waltz
+###### Step of the Blind Waltz
 
 While not wearing armor, you gain blindsight up to 10 feet.
 
-Dance of the Magical Absorption
+##### Dance of the Magical Absorption
 
 While not wearing armor, you can absorb the magic contained inside a suit of armor. You can have the magic of only one armor at the same time, and absorbing another will make you lose the first one.
 
 Doing so requires attunement, even if the armor normally doesnt. You must spend 1 hour touching the armor to absorb its power. If you lose the power of the absorbed magical armor, the armor recover it at the same time.
 
-Dance of Terror and Awe
+##### Dance of Terror and Awe
 
 While not wearing armor, you can replace an attack to try to charm or frighten a creature. Choose a target able to see you within 30 feet. That creature must succeed on a saving throw against your spell save DC, or is either charmed or frightened (your choice) until the end of your next turn. The charmed creature has its movement speed reduced to 0 and doesn't take actions for the duration, admiring you in awe or cowering in fear.
 
 Once a creature succeeds on the saving throw against this effect, it is immune to it for the next 24 hours.
 
-Dance of Comprehension
+##### Dance of Comprehension
 
 While not wearing armor, you can cast _comprehend languages_ at will
 
-Dance of Vigor
+##### Dance of Vigor
 
 While not wearing armor, You can cast False Life on yourself at will as a 1st-level spell, without expending a spell slot or material components.
+
+### Glimmer of divinity
+you gain three cleric cantrips, charisma is your spellcasting modifier for them 
+### Celestial resistance
+you are resistant to radiant damage and deal damage equal to your charisma modifier to any creature or structure that deals radiant damage to you 
+### Divine burst
+you gain a channel divinity from a cleric domain of your choice (this domain would of been your prior one) you may use this channel divinity once per long rest but once you do so you gain two stacks of exhaustion 
+### Position of Privilege 
+Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to.
