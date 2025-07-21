@@ -165,6 +165,9 @@ the god of Prolonged clapping
 Often Recruits Vassals To Do Stuff For Her Or Just Provide Company During Travels, Theyre Spread Out Because She Will Often Leave Them Behind (On The Asssumption That They Can Still Serve Her Well From Afar)
 Asexual
 Agender
+Cannot Remember The Names Of Citrus Fruits
+Left Handed But Does Sports Right Handed
+Refuses To Have Or Even Use Phones
 
 # References
 
