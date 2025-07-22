@@ -49,10 +49,10 @@
 | Death Fails |     |     |     |
 ### Attacks
 
-| Attack | To-Hit | Damage |
-| ------ | ------ | ------ |
-|    Boot-Dagger    |  +16      |   1d4+24 Piercing     |
-|     Arcane Blade   |   +17     |    1d12+24 Slashing    |
+| Attack       | To-Hit | Damage           |
+| ------------ | ------ | ---------------- |
+| Arcane Blade | +17    | 1d12+24 Slashing |
+| Boot-Dagger  | +16    | 1d4+24 Piercing  |
 
 ### Esmeralda's Spells
 
@@ -86,7 +86,7 @@ Level Five: If There's An Audience, Dance Perfectly
 # Inventory
 
 Money: 160+
-Inventory: explorers pack, a longbow and 20 arrows
+Inventory: explorers pack, a longbow and 20 arrows, Three Teacups, A Pocket Wizard
 # Extra
 Immunities: 
 Resistances: radiant damage
@@ -136,6 +136,41 @@ Armor: Light armor Weapons: Simple weapons, martial weapons Tools: Dragonchess L
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Blade Of Sharpening\|Blade Of Sharpening]]
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#blade Of The Conjurer\|Blade Of The Conjurer]]
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Blade Of Torpor\|Blade Of Torpor]]
+
+# Arcane Blade Properties
+| Attack       | To-Hit | Damage           |
+| ------------ | ------ | ---------------- |
+| Arcane Blade | +17    | 1d12+24 Slashing |
+Hovers In The Air 5 Ft Away From Me
+Change Form During Rest
+Appear And Disappear As A Bonus Action
+Can Absorb The Properties Of Any Item Over A Long Rest
+Attack Twice AS An Action Then Spell Once
+Crit On 19
+Cant Have Disadvantage
+On Miss Deal 6 Force Damage
+-10 Speed On Hit
+
+Consumables:
+- Oil (20)
+- Food (50)
+- Water (50)
+- Tinder (15)
+- Ink (4)
+- Perfume (100)
+- Incense (14)
+Tools:
+- Most Of A Diplomat's Pack (Chest, lamp, a vial of perfume, ink Pen, sealing wax, and soap.
+- Teapot
+- Paper
+- Most Of A Burglar's Pack (Backpack, bell, candle, crowbar, hammer, piton, hooded lantern)
+- Most Of A Dungeoneer's Pack (Backpack, crowbar, hammer, piton, torch) 
+- Most Of An Entertainer's Pack  (Backpack, bedroll)
+- Most Of An Explorer's Pack  (Backpack, bedroll, mess kit,)
+- Most Of A Priest's Pack  (Backpack, blanket, alms box, a censer)
+- Most Of A Scholar's Pack  (Backpack, book of lore, ink pen, small knife.)
+
+
 # Characteristics 
 62 Years Old (Looks In Her Mid 30s), Three Foot Tall, Unnatural Looking White Skin, Dark Grey Hair That Has Been Blackening As She Got Older, Maroon Eyes That Seem To Shift Into Red When She Gets Mad At Someone Or Something, 
 
