@@ -15,69 +15,58 @@
  Class:  Curse User 3
 	 Curse Points 3
  Alignment: Chaotic Neutral 
- Background: cursed child
+ Background: [[#cursed child]]
 
 
 ## Stats
 
-|    Speed     |  AC  | Bonus |  Initiative   |
-| :----------: | :--: | :---: | :-----------: |
-|      5       |  17  |  +5   |      +9       |
-|   Hit Dice   | 13d8 | 13d8  | Saving Throws |
-|    Health    |  52  |  52   |               |
-|   Strength   |  8   |  -1   |               |
-|  Dexterity   |  20  |  +5   |      +10      |
-| Constitution |  1   |  -8   |               |
-| Inteligence  |  12  |  +1   |               |
-|    Wisdom    |  18  |  +4   |               |
-|   Charima    |  15  |  +2   |               |
+|    Speed     | AC  | Bonus |  Initiative   |
+| :----------: | :-: | :---: | :-----------: |
+|      15      |   16  | 2      |    1           |
+|   Hit Dice   |  3d10   | 3d10      | Saving Throws |
+|    Health    |   21  |    21   |               |
+|   Strength   |   10  |    0   |        0       |
+|  Dexterity   |   12  |    1   |         2      |
+| Constitution |    x |    -3   |         -1      |
+| Inteligence  |    13 |    1   |          1     |
+|    Wisdom    |   15  |    2   |          2     |
+|   Charima    |   17  |    3   |          3     |
 
 | Skills                | Bonus | Skills                | Bonus |
-| --------------------- |:-----:| --------------------- |:-----:|
-| Acrobatics (Dex)      |  10   | Medicine (Wis)        |   4   |
-| Animal Handling (Wis) |   4   | Nature (Int)          |   1   |
-| Arcana (Int)          |   1   | Perception (Wis)      |   9   |
-| Athletics (Str)       |   4   | Performance (Char)    |   2   |
-| Craftsmanship (Dex)   |   5   | Persuasion (Char)     |   7   |
-| Communion (Cha)       |   2   | Presentation (Char)   |   2   |
-| Culture (Int)         |   1   | Religion (Int)        |   1   |
-| Deception (Char)      |   2   | Science (Int)         |   1   |
-| Grip (Str)            |  -1   | Seduction (Char)      |   2   |
-| History (Int)         |   6   | Sleight of Hand (Dex) |   5   |
-| Insight (Wis)         |   9   | Stealth (Dex)         |   5   |
-| Intimidation (Char)   |   2   | Strategy (Int)        |   1   |
-| Investigation (Int)   |   6   | Street Smarts (Wis)   |   4   |
-| Lifting (Str)         |  -1   | Survival (Wis)        |   4   |
-| Medicine (Wis)        |   4   | Trivia (Int)          |   1   |
+| --------------------- | :---: | --------------------- | :---: |
+| Acrobatics (Dex)      |    2   | Medicine (Wis)        | 2      |
+| Animal Handling (Wis) |    4   | Nature (int)          |  3     |
+| Arcana (Int)          |    1   | Perception (Wis)      |   4    |
+| Athletics (Str)       |    0   | Performance (Char)    |   3    |
+| Deception (Char)      |    3   | Persuasion (Char)     |   5A    |
+| History (Int)         |    1   | Religion (Int)        |     3  |
+| Insight (Wis)         |    2   | Sleight of Hand (Dex) |     2  |
+| Intimidation (Char)   |    3A   | Stealth (Dex)         |    2   |
+| Investigation (Int)   |     3  | Survival (Wis)        |     4  |
 
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
-| Death Failes |     |     |     |
+| Death Fails |     |     |     |
 ### Attacks
 
-| Attack         | To-Hit | Damage                |
-| -------------- | ------ | --------------------- |
-| Darts (20)     | +10    | 1d4 (Piercing) +10    |
-| Unarmed Strike | +10    | 1d8 (Bludgeoning) +10 |
-| Curse Energy   |        |                       |
+| Attack | To-Hit | Damage |
+| ------ | ------ | ------ |
+|        |        |        |
 
- ### Spells
+### Spells
 
-
-| Spell Modifier | Wisdom |
-|:--------------:|:------:|
-|    Spell DC    |   5    |
-|  Hit Modifier  |   -3   |
+| Constitution |     |     |
+| ------------ | --- | --- |
 
 Mage Hand
 Mold Earth
 
 # Inventory 
-Money: 3000gp
-Inventory: Chain Shirt, darts, sheild, Clothes, a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, a waterskin, 50 feet of hempen rope, [[1 In The Chamber\|1 In The Chamber]]
+Money: 
+Inventory: pin that has your family sigil on it, Backpack, bedroll, mess kit, tinderbox, torch (10),rations (10), waterskin, hempen rope
 
 # Extra
-Resistances: 
+Resistances: Necrotic
 Advantage: Against Charm
 Vulnerabilities: not Force, Poison, Psychic, Thunder
 Conditions: Cant Be Slept
@@ -86,12 +75,11 @@ Conditions: Cant Be Slept
 # Proficiencies
 		
 Armor: Shields and light armour
-Weapons: Simple ranged and melee weapons
-Tool Proficiencies: Gaming Set, Theives Tools
+Weapons: Simple ranged and melee weapons, curse tools
+Tool Proficiencies: Brewer's supplies
 Languages: Common, Celestial
 
 Notes: 
-
 
 [[Blessing of the Raven Queen \|Blessing of the Raven Queen ]](5)
 [[Skull/Concentrated Brain/Dnd/Terminology/Darkvision\|Darkvision]]
@@ -99,55 +87,66 @@ Notes:
 [[Skull/Concentrated Brain/Dnd/Terminology/Trance\|Trance]]
 [[Skull/Concentrated Brain/Dnd/Terminology/Keen Senses\|Keen Senses]]
 [[Skull/Concentrated Brain/Dnd/Terminology/Necrotic Resistance\|Necrotic Resistance]]
+[[#one of a great line]]
+[[#inherited technique]]
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Ear to the Ground\|Ear to the Ground]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Telekinetic\|Telekinetic]] (Strength Dc 17)
+Curse type Heavenly restriction: broken body
+Cursed movement (15ft Movement)
+Cursed body
+	You become unable to either use your legs
+You are able to use curse techniques without performing hand signs or talking The range your techniques can reach is doubled (if it would normally be touch it gains 40ft of range) You gain a simple domain You are able to perform two techniques at once
 
-### Spell List
 
+cynical, Determined, Reserved, Totally Not Depressed, Sense Of Justice, 
 
-| 1st (4) | Shield (Reaction)       | Magic Weapon (Concentration) |
-| ------- | ----------------------- | ---------------------------- |
-| 2nd (3) | Misty Step              |                              |
-| 3rd (3) |                         |                              |
-| 4th (3) |                         |                              |
-| 5th (3) | Far Step(Concentration) |                              |
-| 6th (2) |                         |                              |
-| 7th (1) |                         |                              |
+Why Do The Good Always Suffer When We Are Powerless Against It? Do The Gods Give Life Because Its Fun To Take Away? 
 
-cynical, Determined, Sense Of Justice, Knows Theyre In A Game
+loves: Cats, Board Games, Eclipses Are Beautiful, And Scented Candles, Being In Less Pain At Any Given Moment, being Appreciated
 
-Why Do The Good Always Suffer When We Are Powerless Against It? Do The Gods Give Life Because Its Fun To Take Away?
-
-loves Cats And Board Games, Eclipses Are Beautiful, 
-
-Hates People More Than Curses, Will Do Anything For The "Right" Reason
+Hates People More Than Curses But Kills Curses As An Outlet, Will Do Anything For The "Right" Reason, Gets Pushed Into Most Things By Her Parents
 
 Backstory
-Born After Their Older Brother Had Already Passed, Ferventi Grew Up Under A Lot Of Pressure To Be Perfect. Pressure That She Felt Couldnt Be Lived Up To But Had To Be Confronted Nonetheless. Her Parents Were Nice Enough, Their Mom Was A Fishmonger And Their Dad Was A Magic Circle Inspector. She Didnt Have The Most Lavish Life Growing Up But It Was Better Than Average. The Fish Business Is Still Strong But Their Father Has Retired Somewhat Recently, He Wasnt Forced To Or Anything, He Just No Longer Has The Heart To Keep Up The Inspection Business. Its Been A While Since Venti Left Home And Though The Family Arent Necessarily On Speaking Terms With Each Other There Will Still Be The Odd Letter Finding Her Every Now And Then, She Tries To Right Back But Its Hard.
+Born After Their Eldest Brother Had Already Passed, Ferventi Grew Up Under A Lot Of Pressure To Be Perfect. Pressure That She Felt Couldnt Be Lived Up To But Had To Be Confronted Nonetheless. Her Parents Were Nice Enough I Guess, Her Mom Was The Donor Of The Rana Bloodline, Their Dad Was A Magic Inspector. With Both Her Parents In Different Magic Worlds, She Didnt Get The Most Attention Growing Up But It Was Better Than Average As Far As She Knew. Her Father Has Retired Somewhat Recently, He Wasnt Forced To Or Anything, He Just No Longer Has The Heart To Keep Up The Inspection Business. 
 
-Its Not Like Anyhting Was Ever Perfect, They Always Felt Like They Were One Push Away From The Edge, One Insignificant Expectation Away From Losing Her Mind But That Never Happened. No, Instead The Gods Remembered That They Had Given Her A Gift. Its More Like A Consolation Prize.
+Its Been A While Since Venti Left Home Under Her Familys "suggestion" And Though Most Of The Immediate Family Arent Necessarily On Speaking Terms With Each Other There Will Still Be The Odd Letter Finding Her Every Now And Then, She Tries To Wright Back But Its Hard.
+
+Its Not Like Anything Was Ever Perfect, They Always Felt Like They Were One Push Away From The Edge, One Insignificant Expectation Away From Losing Her Mind But That Never Happened. No, Instead The Gods Remembered That They Had Given Her A Gift. Its More Like A Consolation Prize.
 
 
-## # <center><span style="color:#FFFFFF">Curses</span></center>
+# <center><span  style="color:#FFFFFF"> Curses</span></center>
+
+## <center><span style="color:#CC550D">Cursed tool: 1 in the chamber </span></center>
+
+A Tattered Shell Of What You Can Imagine Was Once A Revolver But Is Now Some Metallic Shell Riddled With Holes And Deliberate Looking Scratches. Its A Miracle This Piece Of Junk Can Hold Itself Together. If You Use It You Better Hope The Explosion Comes From The Part Pointing Away From You.
+
+Action
+2d8 cursed damage
+This weapon is broken and cannot be used other then with its cursed ability. It Floats Within 5 Ft Of Its User
+Cursed ability: costs 1 cursed energy  roll a d6 on a 6  you fire the revolver and it will critical the opponent
+Give Someone The Gun And If They Beat Their Own AC They Get Shot, If They Dont: I Get Shot
 
 ---
+### <center><span style="color:#CC453D"> Chastise</span></center>
+passive inherited technique: curse nullification 
+
+when a curse technique attempts to effect you: roll a d20 and add your proficiency  bonus on a roll of 10 or above you nullify the Curse
+
+if a creature is aware of your technique and how it works then you only need to roll a 6 or above
 ### <center><span style="color:#CC550D"> Wisdom, Wished Or Warranted</span></center>
-Passive
-Three Ghostly Manifestations That Can Only Be Perceived By Curse Users Haunt Ferventi
-These Spectres Can Interact (More Efficiently Than Ferventi) With Their Respective Mediums And Act Up To 100ft Away From Her
+Passive Curse Technique
+Three Ghostly Manifestations That Can Only Be Perceived By Curse Users Haunt Ferventi. These Spectres Can Interact (More Efficiently Than Ferventi) With Their Respective Mediums And Act Up To 100ft Away From Her.
+The Wisdoms Work Omnidirectionally.
 
 #### <center><span style="color:#CC550D">The Curse Of Sight</span></center>
-An Apparition Matching The Visage Of Venti With Fires Replacing Her Eyes 
-Can Blind
+The Wisdom Of Sight Is An Apparition Matching The Visage Of Venti With Fires Replacing Her Eyes. Incapable Of Experiencing Other Senses, Sight Is Well Attuned To Noticing Small Visual Details On Behalf Of Venti And The Other Wisdoms.
+This Wisdom Can: Read Different Languages, Can See Through Cover, Can See Curse Auras, Can Cause Blindness, And Can See Through Invisibility And Illusions As An Action (Active Perception Check)
 
 #### <center><span style="color:#CC550D">Falling On Deaf Ears</span></center>
-An Apparition Matching The Visage Of Venti With Her Ears Bleeding
-Can Deafen
-
+The Wisdom Of Hearing Is An Apparition Matching The Visage Of Venti With Her Ears Bleeding. Incapable Of Experiencing Other Senses, Sight Is Well Attuned To Noticing Small Audible Details On Behalf Of Venti And The Other Wisdoms
+This Wisdom Can: Can Hear Different Languages, Has Tremor Sense For 15 Ft, Can Read Curses Minds, Has Advantage Against Auditory Illusions, Can Cause Deafness, And Can Erase Peoples' Auditory Memory For Up To Ten Minutes Ago (Active Deception Check)
 #### <center><span style="color:#CC550D">I Must Scream</span></center>
-An Apparition Matching The Visage Of Venti With An X'ed Out Mouth 
-Can Mute
+The Wisdom Of Speech Is An Apparition Matching The Visage Of Venti With An X'ed Out Mouth. Incapable Of Experiencing Other Senses, Sight Is Well Attuned To Relaying Small Verbal Details On Behalf Of Venti And The Other Wisdoms 
+This Wisdom Can: Can Speak Different Languages, Can Cause Muteness, Can Speak In Someone's Mind within 10ft, Can Speak To Anything With Curse Energy, Can Mimic Sounds/Songs/Voices, Temporarily Mind Control People (Active Persuasion/Intimidation Check), And Has Blindsight 15ft
 
 #### <center><span style="color:#CC550D"> Warning Shot</span></center>
 Sub Technique
@@ -157,15 +156,9 @@ Reaction
 Consume 3 cursed energy As a reaction strike. Each Spectre Manifests In Order To Attack The Assailant on an unsuccessful hit (+5) the opponent sees the attack form into their greatest fear causing them to take 2d8 curse damage and go into the frightened status and abandoning whatever their current motivation was
 On A Successful Hit Deal 2d12 curse damage
 
-### <center><span style="color:#CC453D"> Chastise</span></center>
-inherited technique: curse nullification 
-(passive)
-
-when a curse technique attempts to effect you then you roll a d20 and add your proficiency  bonus on a roll of 10 or above you nullify the effect 
-
-if a creature is aware of your technique and how it works then you only need to roll a 6 or above
 
 ---
+# Yet To Work On
 ### <center><span style="color:#CC550D">Yoink</span></center>
 The Sempra Distant Begin To Feel Their Heart Get Pulled Towards The Creature Theyve Been Stalking. They Dont Know Why Theyve Been Staying So Far Away But For Some Reason This Thing Wants Them. Ferventi Grows Impatient. Ferventi Needs More.
 
@@ -215,7 +208,19 @@ drain curse points, turn invisible
 
 
 
+## cursed child
+you were born into a family of curse users whos technique is well known and has been passed down from parent to child for hunderands of years, this can give big expectations of you but this also allowed you to get a better education compared to most
+Skill Proficiencies: religion, nature and investigation
+Tool Proficiencies: none
+Equipment: a pin that has your family sigil on it
+languages: 3 languages of your choice
+## one of a great line
+You gain the inherited technique feat
+You have advantage on intimidation checks against Curses and curse users
+You have advantage on Persuasion checks against curse user
 
+## inherited technique 
+you gain a curse technqiue that is inherited from a member of your family, this technique is normally passive but can be active, if you are not a curse user you can only use this technique a amount of times per long rest equal to double your pro bonus, at level 5 you develop a improved technique as well as a reverse technique these can be used the same as your standard technique , at level 10 you develop a domain expansion that can be used once per long rest, at level 15 you develop your imaginery technique, at level 20 you develop a perfect technique
 
 <center><sub>Done :)</sub></center>
 
