@@ -105,6 +105,8 @@ loves: Cats, Board Games, Eclipses Are Beautiful, And Scented Candles, Being In 
 
 Hates People More Than Curses But Kills Curses As An Outlet, Will Do Anything For The "Right" Reason, Gets Pushed Into Most Things By Her Parents
 
+Always Gets Told She Looks Like A Rana, That She Has The Same Hair As Her Mother And That Her Unnaturally Pointed Ears Always Make It Easy To Remember Which One She Is. She Never Gets Told That Her Eyes Have The Same Sparkle That Her Siblings Get Complimented On Or That Her Skin Having Darkened Over The Years Looks Nice In Contrast To The Rest Of The Family.
+
 Backstory
 Born After Their Eldest Brother Had Already Passed, Ferventi Grew Up Under A Lot Of Pressure To Be Perfect. Pressure That She Felt Couldnt Be Lived Up To But Had To Be Confronted Nonetheless. Her Parents Were Nice Enough I Guess, Her Mom Was The Donor Of The Rana Bloodline, Their Dad Was A Magic Inspector. With Both Her Parents In Different Magic Worlds, She Didnt Get The Most Attention Growing Up But It Was Better Than Average As Far As She Knew. Her Father Has Retired Somewhat Recently, He Wasnt Forced To Or Anything, He Just No Longer Has The Heart To Keep Up The Inspection Business. 
 
