@@ -68,7 +68,7 @@ Inventory: pin that has your family sigil on it, Backpack, bedroll, mess kit, ti
 # Extra
 Resistances: Necrotic
 Advantage: Against Charm
-Vulnerabilities: not Force, Poison, Psychic, Thunder
+Vulnerabilities:
 Conditions: Cant Be Slept
   
 
@@ -77,7 +77,9 @@ Conditions: Cant Be Slept
 Armor: Shields and light armour
 Weapons: Simple ranged and melee weapons, curse tools
 Tool Proficiencies: Brewer's supplies
-Languages: Common, Celestial
+Tools: Brewer's supplies
+Languages: English, Latin
+	Wisdome Languages: Germanic
 
 Notes: 
 
@@ -108,9 +110,11 @@ Hates People More Than Curses But Kills Curses As An Outlet, Will Do Anything Fo
 Always Gets Told She Looks Like A Rana, That She Has The Same Hair As Her Mother And That Her Unnaturally Pointed Ears Always Make It Easy To Remember Which One She Is. She Never Gets Told That Her Eyes Have The Same Sparkle That Her Siblings Get Complimented On Or That Her Skin Having Darkened Over The Years Looks Nice In Contrast To The Rest Of The Family.
 
 Backstory
-Born After Their Eldest Brother Had Already Passed, Ferventi Grew Up Under A Lot Of Pressure To Be Perfect. Pressure That She Felt Couldnt Be Lived Up To But Had To Be Confronted Nonetheless. Her Parents Were Nice Enough I Guess, Her Mom Was The Donor Of The Rana Bloodline, Their Dad Was A Magic Inspector. With Both Her Parents In Different Magic Worlds, She Didnt Get The Most Attention Growing Up But It Was Better Than Average As Far As She Knew. Her Father Has Retired Somewhat Recently, He Wasnt Forced To Or Anything, He Just No Longer Has The Heart To Keep Up The Inspection Business. 
+Born In Western England, After Their Eldest Brother Had Already Passed, Ferventi Grew Up Under A Lot Of Pressure To Be Perfect. Pressure That She Felt Couldnt Be Lived Up To But Had To Be Confronted Nonetheless. Her Parents Were Nice Enough I Guess, Her Mom Was The Donor Of The Rana Bloodline, Their Dad Was A Magic Inspector. With Both Her Parents In Different Magic Worlds, She Didnt Get The Most Attention Growing Up But It Was Better Than Average As Far As She Knew. Her Father Has Retired Somewhat Recently, He Wasnt Forced To Or Anything, He Just No Longer Has The Heart To Keep Up The Inspection Business. 
 
-Its Been A While Since Venti Left Home Under Her Familys "suggestion" And Though Most Of The Immediate Family Arent Necessarily On Speaking Terms With Each Other There Will Still Be The Odd Letter Finding Her Every Now And Then, She Tries To Wright Back But Its Hard.
+Its Been A While Since Venti Left Home Under Her Family's "suggestion" And Though Most Of The Immediate Family Arent Necessarily On Speaking Terms With Each Other There Will Still Be The Odd Letter Finding Her Every Now And Then, She Tries To Write Back But Its Hard.
+
+Over The Past Few Years Shes Been Trying To Get Used To The Effects Her Curses Have On Her Life, Trying To Understand The World Shes Forced To Live In. The Blissful Ignorance Of Youth Isnt Something That Shes Able To Enjoy Thus She Hopes That Once Shes A Teenage Things Will Be Different.
 
 Its Not Like Anything Was Ever Perfect, They Always Felt Like They Were One Push Away From The Edge, One Insignificant Expectation Away From Losing Her Mind But That Never Happened. No, Instead The Gods Remembered That They Had Given Her A Gift. Its More Like A Consolation Prize.
 
@@ -123,7 +127,7 @@ A Tattered Shell Of What You Can Imagine Was Once A Revolver But Is Now Some Met
 
 Action
 2d8 cursed damage
-This weapon is broken and cannot be used other then with its cursed ability. It Floats Within 5 Ft Of Its User
+This Revolver Is Broken And Doesnt Work Without Curse Energy. It Floats Within 5 Ft Of Its User
 Cursed ability: costs 1 cursed energy  roll a d6 on a 6  you fire the revolver and it will critical the opponent
 Give Someone The Gun And If They Beat Their Own AC They Get Shot, If They Dont: I Get Shot
 
@@ -134,6 +138,7 @@ passive inherited technique: curse nullification
 when a curse technique attempts to effect you: roll a d20 and add your proficiency  bonus on a roll of 10 or above you nullify the Curse
 
 if a creature is aware of your technique and how it works then you only need to roll a 6 or above
+
 ### <center><span style="color:#CC550D"> Wisdom, Wished Or Warranted</span></center>
 Passive Curse Technique
 Three Ghostly Manifestations That Can Only Be Perceived By Curse Users Haunt Ferventi. These Spectres Can Interact (More Efficiently Than Ferventi) With Their Respective Mediums And Act Up To 100ft Away From Her.
@@ -146,6 +151,7 @@ This Wisdom Can: Read Different Languages, Can See Through Cover, Can See Curse 
 #### <center><span style="color:#CC550D">Falling On Deaf Ears</span></center>
 The Wisdom Of Hearing Is An Apparition Matching The Visage Of Venti With Her Ears Bleeding. Incapable Of Experiencing Other Senses, Sight Is Well Attuned To Noticing Small Audible Details On Behalf Of Venti And The Other Wisdoms
 This Wisdom Can: Can Hear Different Languages, Has Tremor Sense For 15 Ft, Can Read Curses Minds, Has Advantage Against Auditory Illusions, Can Cause Deafness, And Can Erase Peoples' Auditory Memory For Up To Ten Minutes Ago (Active Deception Check)
+
 #### <center><span style="color:#CC550D">I Must Scream</span></center>
 The Wisdom Of Speech Is An Apparition Matching The Visage Of Venti With An X'ed Out Mouth. Incapable Of Experiencing Other Senses, Sight Is Well Attuned To Relaying Small Verbal Details On Behalf Of Venti And The Other Wisdoms 
 This Wisdom Can: Can Speak Different Languages, Can Cause Muteness, Can Speak In Someone's Mind within 10ft, Can Speak To Anything With Curse Energy, Can Mimic Sounds/Songs/Voices, Temporarily Mind Control People (Active Persuasion/Intimidation Check), And Has Blindsight 15ft
