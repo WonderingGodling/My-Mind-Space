@@ -114,7 +114,7 @@ Born In Western England, After Their Eldest Brother Had Already Passed, Ferventi
 
 Its Been A While Since Venti Left Home Under Her Family's "suggestion" And Though Most Of The Immediate Family Arent Necessarily On Speaking Terms With Each Other There Will Still Be The Odd Letter Finding Her Every Now And Then, She Tries To Write Back But Its Hard.
 
-Over The Past Few Years Shes Been Trying To Get Used To The Effects Her Curses Have On Her Life, Trying To Understand The World Shes Forced To Live In. The Blissful Ignorance Of Youth Isnt Something That Shes Able To Enjoy Thus She Hopes That Once Shes A Teenage Things Will Be Different.
+Over The Past Few Years Shes Been Trying To Get Used To The Effects Her Curses Have On Her Life, Trying To Understand The World Shes Forced To Live In. The Blissful Ignorance Of Youth Isnt Something That Shes Able To Enjoy Thus She Hopes That Once Shes An Adult, Things Will Be Different.
 
 Its Not Like Anything Was Ever Perfect, They Always Felt Like They Were One Push Away From The Edge, One Insignificant Expectation Away From Losing Her Mind But That Never Happened. No, Instead The Gods Remembered That They Had Given Her A Gift. Its More Like A Consolation Prize.
 
