@@ -141,6 +141,7 @@ Armor: Light armor Weapons: Simple weapons, martial weapons Tools: Dragonchess L
 | Attack       | To-Hit | Damage           |
 | ------------ | ------ | ---------------- |
 | Arcane Blade | +17    | 1d12+24 Slashing |
+
 Hovers In The Air 5 Ft Away From Me
 Change Form During Rest
 Appear And Disappear As A Bonus Action
@@ -175,34 +176,34 @@ Tools:
 62 Years Old (Looks In Her Mid 30s), Three Foot Tall, Unnatural Looking White Skin, Dark Grey Hair That Has Been Blackening As She Got Older, Maroon Eyes That Seem To Shift Into Red When She Gets Mad At Someone Or Something, 
 
 # Backstory
-Goes By Gem To Those Closest To Her (Esmeralda -> Emerald -> Gem)
-Grew Up In Vanhan  Loving Dance
-Had A Pet Bird Called Dib Whom They Originally Started Adventuring With, Now Has A Crow Called Zim And His Crow Crew 
-	Dib Wasnt An Adventuring Sort Of Bird, Hes Back At Home
-Loves Adventuring With Everyone
-Being A Hero Is Nice, Being Stylish Is Better
-Big Dress
-Boot Knife
-Big Saw Weapon (slashing)  When She First Started Using It Shed Bump Into It More Times Than Shed Like
-Tried Tightrope Walking Once And Got Stuck Upside Down
-Hates Cereal, Reminds Her Of Her Fathers Best Friend, Pesant Phil, And His Backstory Is Like Really Sad
-Fucking Loves Tea, Tea Is Good Anywhere, In Fact She Always Has Tea Leaves On Her
-Hosts Tea Parties For The People Who Are Important To Us
-the god of Prolonged clapping
-1. The Idea That Someone Cares To Stand Out In Supporting You
-2. Too Focused In Celebration To Notice That Everyone Else Hates Them
-3. The Few Seconds Of Blissful Ignorance
-4. I Could Know Why They Were Clapping But Like Second Hand
-5. There Are Still A Bunch Of Well Known Holy Relics Just Nobody Knows They Were Mine
-6. I Was Reincarnated In A Rich Family! So Much Theatre Opportunity!
-	1. We All Just Thought I Was A Hot 60 Year Old
-		1. Rich People Get A Head Start In Being Healthy So It Made Sense But This Makes More Sense
-Often Recruits Vassals To Do Stuff For Her Or Just Provide Company During Travels, Theyre Spread Out Because She Will Often Leave Them Behind (On The Asssumption That They Can Still Serve Her Well From Afar)
-Asexual
-Agender
-Cannot Remember The Names Of Citrus Fruits
-Left Handed But Does Sports Right Handed
-Refuses To Have Or Even Use Phones
+- Goes By Gem To Those Closest To Her (Esmeralda -> Emerald -> Gem)
+- Grew Up In Vanhan  Loving Dance
+- Had A Pet Bird Called Dib Whom They Originally Started Adventuring With, Now Has A Crow Called Zim And His Crow Crew 
+	- Dib Wasnt An Adventuring Sort Of Bird, Hes Back At Home
+- Loves Adventuring With Everyone
+- Being A Hero Is Nice, Being Stylish Is Better
+- Big Dress
+- Boot Knife
+- Big Saw Weapon (slashing)  When She First Started Using It Shed Bump Into It More Times Than Shed Like
+- Tried Tightrope Walking Once And Got Stuck Upside Down
+- Hates Cereal, Reminds Her Of Her Fathers Best Friend, Pesant Phil, And His Backstory Is Like Really Sad
+- Fucking Loves Tea, Tea Is Good Anywhere, In Fact She Always Has Tea Leaves On Her
+- Hosts Tea Parties For The People Who Are Important To Us
+- the god of Prolonged clapping
+- The Idea That Someone Cares To Stand Out In Supporting You
+- Too Focused In Celebration To Notice That Everyone Else Hates Them
+- The Few Seconds Of Blissful Ignorance
+- I Could Know Why They Were Clapping But Like Second Hand
+- There Are Still A Bunch Of Well Known Holy Relics Just Nobody Knows They Were Mine
+- I Was Reincarnated In A Rich Family! So Much Theatre Opportunity!
+	- We All Just Thought I Was A Hot 60 Year Old
+		- Rich People Get A Head Start In Being Healthy So It Made Sense But This Makes More Sense
+- Often Recruits Vassals To Do Stuff For Her Or Just Provide Company During Travels, Theyre Spread Out Because She Will Often Leave Them Behind (On The Asssumption That They Can Still Serve Her Well From Afar)
+- Asexual
+- Agender
+- Cannot Remember The Names Of Citrus Fruits
+- Left Handed But Does Sports Right Handed
+- Refuses To Have Or Even Use Phones
 
 # References
 
