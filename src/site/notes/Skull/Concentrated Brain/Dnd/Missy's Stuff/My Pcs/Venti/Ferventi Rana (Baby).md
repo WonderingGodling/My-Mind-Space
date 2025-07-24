@@ -40,7 +40,7 @@
 | Athletics (Str)       |    0   | Performance (Char)    |   3    |
 | Deception (Char)      |    3   | Persuasion (Char)     |   5A    |
 | History (Int)         |    1   | Religion (Int)        |     3  |
-| Insight (Wis)         |    2   | Sleight of Hand (Dex) |     2  |
+| Insight (Wis)         |    4   | Sleight of Hand (Dex) |     2  |
 | Intimidation (Char)   |    3A   | Stealth (Dex)         |    2   |
 | Investigation (Int)   |     3  | Survival (Wis)        |     4  |
 
@@ -63,7 +63,7 @@ Mold Earth
 
 # Inventory 
 Money: 
-Inventory: pin that has your family sigil on it, Backpack, bedroll, mess kit, tinderbox, torch (10),rations (10), waterskin, hempen rope
+Inventory: pin that has your family sigil on it, Backpack, bedroll, mess kit, tinderbox, torch (10),rations (10), waterskin, hempen rope, A Palm Sized Eyeball Dipped In Gold
 
 # Extra
 Resistances: Necrotic
@@ -78,12 +78,12 @@ Armor: Shields and light armour
 Weapons: Simple ranged and melee weapons, curse tools
 Tool Proficiencies: Brewer's supplies
 Tools: Brewer's supplies
-Languages: English, Latin
+Languages: English, Celestial
 	Wisdome Languages: Germanic
 
 Notes: 
 
-[[Blessing of the Raven Queen \|Blessing of the Raven Queen ]](5)
+[[Blessing of the Raven Queen \|Blessing of the Raven Queen ]]
 [[Skull/Concentrated Brain/Dnd/Terminology/Darkvision\|Darkvision]]
 [[Skull/Concentrated Brain/Dnd/Terminology/Fey Ancestry\|Fey Ancestry]]
 [[Skull/Concentrated Brain/Dnd/Terminology/Trance\|Trance]]
