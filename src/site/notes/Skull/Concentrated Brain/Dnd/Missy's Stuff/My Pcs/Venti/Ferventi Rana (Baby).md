@@ -34,13 +34,13 @@
 
 | Skills                | Bonus | Skills                | Bonus |
 | --------------------- | :---: | --------------------- | :---: |
-| Acrobatics (Dex)      |    2   | Medicine (Wis)        | 2      |
+| Acrobatics (Dex)      |    2   | Medicine (Wis)        | 4      |
 | Animal Handling (Wis) |    4   | Nature (int)          |  3     |
 | Arcana (Int)          |    1   | Perception (Wis)      |   4    |
 | Athletics (Str)       |    0   | Performance (Char)    |   3    |
 | Deception (Char)      |    3   | Persuasion (Char)     |   5A    |
 | History (Int)         |    1   | Religion (Int)        |     3  |
-| Insight (Wis)         |    4   | Sleight of Hand (Dex) |     2  |
+| Insight (Wis)         |    2   | Sleight of Hand (Dex) |     2  |
 | Intimidation (Char)   |    3A   | Stealth (Dex)         |    2   |
 | Investigation (Int)   |     3  | Survival (Wis)        |     4  |
 
