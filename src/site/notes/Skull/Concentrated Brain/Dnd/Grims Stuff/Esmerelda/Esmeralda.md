@@ -20,29 +20,29 @@
 
 ## Stats
 
-|    Speed     | AC  | Bonus |  Initiative   |
-| :----------: | :-: | :---: | :-----------: |
-|      30      |   27  |   6   |     8          |
-|   Hit Dice   |    20d10 |    20d10   | Saving Throws |
-|    Health    | 220    |   220    |               |
-|   Strength   |  8   |     -1  |      -1         |
-|  Dexterity   |    27 |    8   |      14       |
-| Constitution |    12 |     1  |        1       |
-| Inteligence  | 10    |     0  |       0        |
-|    Wisdom    |   14  |     2  |       2        |
-|   Charima    |   30  |    10   |        16       |
+|    Speed     |  AC   | Bonus |  Initiative   |
+| :----------: | :---: | :---: | :-----------: |
+|      30      |  29   |   6   |       8       |
+|   Hit Dice   | 20d10 | 20d10 | Saving Throws |
+|    Health    |  220  |  220  |               |
+|   Strength   |   8   |  -1   |      0     |
+|  Dexterity   |  28   |   9   |      17       |
+| Constitution |  12   |   1   |       2       |
+| Intelligence  |  10   |   0   |       1       |
+|    Wisdom    |  14   |   2   |       3       |
+|   Charisma    |  30   |  10   |      17       |
 
 | Skills                | Bonus | Skills                | Bonus |
 | --------------------- | :---: | --------------------- | :---: |
-| Acrobatics (Dex)      | 8      | Medicine (Wis)        |   2    |
-| Animal Handling (Wis) |    2   | Nature (int)          |     0  |
-| Arcana (Int)          |   0    | Perception (Wis)      | 2      |
-| Athletics (Str)       |  -1     | Performance (Char)    |   22    |
-| Deception (Char)      |   16    | Persuasion (Char)     |    22   |
-| History (Int)         |     6  | Religion (Int)        |    0  |
-| Insight (Wis)         |    2   | Sleight of Hand (Dex) |     8  |
-| Intimidation (Char)   |    16   | Stealth (Dex)         |    8   |
-| Investigation (Int)   |  0     | Survival (Wis)        |  2     |
+| Acrobatics (Dex)      |   15   | Medicine (Wis)        |   2   |
+| Animal Handling (Wis) |   2   | Nature (int)          |   0   |
+| Arcana (Int)          |   0   | Perception (Wis)      |   2   |
+| Athletics (Str)       |  -1   | Performance (Char)    |  22   |
+| Deception (Char)      |  16   | Persuasion (Char)     |  22   |
+| History (Int)         |   6   | Religion (Int)        |   0   |
+| Insight (Wis)         |   2   | Sleight of Hand (Dex) |   9   |
+| Intimidation (Char)   |  16   | Stealth (Dex)         |   9   |
+| Investigation (Int)   |   0   | Survival (Wis)        |   2   |
 
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
@@ -51,12 +51,12 @@
 
 | Attack       | To-Hit | Damage           |
 | ------------ | ------ | ---------------- |
-| Arcane Blade | +17    | 1d12+24 Slashing |
-| Boot-Dagger  | +16    | 1d4+24 Piercing  |
+| Arcane Blade | +16    | 1d12+25 Slashing |
+| Boot-Dagger  | +16    | 1d4+25 Piercing  |
 
 ### Esmeralda's Spells
 
-| Constitution | 24  | 16  |
+| Charisma | 24  | 16  |
 | ------------ | --- | --- |
 #### Cantrips:
 Shocking Grasp
@@ -79,14 +79,14 @@ Word of Radiance
 ### Own Biggest Fan
 Level One:  Arcane Blade Can  Consume Anything
 Level Two: 
-Level Three: 
+Level Three: Advantage On All Saves
 Level Four: Can Traverse Different Planes
 Level Five: If There's An Audience, Dance Perfectly
 
 # Inventory
 
 Money: 160+
-Inventory: explorers pack, a longbow and 20 arrows, Three Teacups, A Pocket Wizard
+Inventory: Arcane Blade, Three Teacups, A Pocket Wizard
 # Extra
 Immunities: 
 Resistances: radiant damage
@@ -94,10 +94,14 @@ Advantage:
 Vulnerabilities: 
 Conditions: Cant Be Put To Sleep
 10ft Blindsight
+60ft Truesight
 
 # Proficiencies
 		
-Armor: Light armor Weapons: Simple weapons, martial weapons Tools: Dragonchess Languages: common, celestial, Draconic
+Armor: Light armor 
+Weapons: Simple weapons, martial weapons 
+Tools: Dragonchess 
+Languages: common, celestial, Draconic
 
 # Notes: 
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Position of Privilege\|Position of Privilege]]
@@ -127,16 +131,22 @@ Armor: Light armor Weapons: Simple weapons, martial weapons Tools: Dragonchess L
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Unstoppable Pursuer\|Unstoppable Pursuer]] 
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Arcane Reflection\|Arcane Reflection]] 
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Dance Master\|Dance Master]]
-[Boon Of The Warmage](https://www.dandwiki.com/wiki/Boon_of_the_Warmage_(5e_Epic_Boon)) 
-
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Restless Dance\|Restless Dance]]
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Evasive Step\|Evasive Step]]
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Step Of The Blind Waltz\|Step Of The Blind Waltz]]
-
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Blade Of Sharpening\|Blade Of Sharpening]]
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#blade Of The Conjurer\|Blade Of The Conjurer]]
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Blade Of Torpor\|Blade Of Torpor]]
 
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Boon of Truesight\|Esmeralda#Boon of Truesight]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Boon of the Warmage\|Esmeralda#Boon of the Warmage]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Blessing of Protection\|Esmeralda#Blessing of Protection]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Slasher\|Slasher]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Mounted Combatant\|Mounted Combatant]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Mage Slayer\|Mage Slayer]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Performer (UA)\|Performer (UA)]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Acrobat UA\|Acrobat UA]]
+[[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#\|Esmeralda#]]
 # Arcane Blade Properties
 | Attack       | To-Hit | Damage           |
 | ------------ | ------ | ---------------- |
@@ -150,7 +160,7 @@ Attack Twice AS An Action Then Spell Once
 Crit On 19
 Cant Have Disadvantage
 On Miss Deal 6 Force Damage
--10 Speed On Hit
+-20 Speed On Hit
 
 Consumables:
 - Oil (20)
@@ -159,17 +169,65 @@ Consumables:
 - Tinder (15)
 - Ink (4)
 - Perfume (100)
+- Parchment (10)
+- Chalk (4)
+- Paper (10)
 - Incense (14)
+- Bullets (20)
+- Gunpowder (3)
 Tools:
-- Most Of A Diplomat's Pack (Chest, lamp, a vial of perfume, ink Pen, sealing wax, and soap.
+- Chest
+- Arcane Focus
+- lamp
+- Glass Bottle
+- ink Pen
+- sealing wax
+- Shovel
+- soap
 - Teapot
 - Paper
-- Most Of A Burglar's Pack (Backpack, bell, candle, crowbar, hammer, piton, hooded lantern)
-- Most Of A Dungeoneer's Pack (Backpack, crowbar, hammer, piton, torch) 
-- Most Of An Entertainer's Pack  (Backpack, bedroll)
-- Most Of An Explorer's Pack  (Backpack, bedroll, mess kit,)
-- Most Of A Priest's Pack  (Backpack, blanket, alms box, a censer)
-- Most Of A Scholar's Pack  (Backpack, book of lore, ink pen, small knife.)
+- Backpack
+- bell
+- candle 
+- crowbar
+- hammer
+- piton
+- Signal Whistle
+- Hooded lantern
+- Backpack
+- crowbar
+- hammer
+- piton
+- Spyglass
+- Whetstone
+- torch
+- Backpack bedroll
+- Backpack, bedroll
+- mess kit
+- Ram, Portable
+- Backpack
+- blanket
+- alms box
+- a censer
+- Lock
+- Backpack
+- book of lore
+- Miner's Pick
+- ink pen
+- small knife
+- Component Pouch
+- Grappling Hook
+- Mess Kit
+- Magnifying Glass
+- Manacles
+- Hammer
+- Hourglass
+- Ladder (5ft)
+- Tack
+- Harness
+- Ram
+- Horse Armour
+- Drawn Vehicles
 
 
 # Characteristics 
@@ -206,7 +264,42 @@ Tools:
 - Refuses To Have Or Even Use Phones
 
 # References
+### Acrobat UA
+- Increase your Dexterity score by 1, to a maximum of 20.
+- You gain proficiency in the Acrobatics skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+- As a bonus action, you can make a DC 15 Dexterity (Acrobatics) check. If you succeed, difficult terrain doesn’t cost you extra movement until the end of the current turn.
 
+### Performer (UA)
+- Increase your Charisma score by 1, to a maximum of 20.
+- You gain proficiency in the Performance skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
+- While performing, you can try to distract one humanoid you can see who can see and hear you. Make a Charisma (Performance) check contested by the humanoid's Wisdom (Insight) check. If your check succeeds, you grab the humanoid's attention enough that it makes Wisdom (Perception) and Intelligence (Investigation) checks with disadvantage until you stop performing.
+### Mage Slayer
+- When a creature within 5 feet of you casts a spell, you can use your reaction to make a melee weapon attack against that creature.
+- When you damage a creature that is concentrating on a spell, that creature has disadvantage on the saving throw it makes to maintain its concentration
+- You have advantage on saving throws against spells cast by creatures within 5 feet of you.
+### Mounted Combatant
+- You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount.
+- You can force an attack targeted at your mount to target you instead.
+- If your mount is subjected to an effect that allows it to make Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+### Slasher
+- Increase your Strength or Dexterity by 1, to a maximum of 20.
+- Once per turn when you hit a creature with an attack that deals slashing damage, you can reduce the speed of the target by 10 feet until the start of your next turn.
+- When you score a critical hit that deals slashing damage to a creature, you grievously wound it. Until the start of your next turn, the target has disadvantage on all attack rolls.
+### Blessing of Protection
+
+You gain a +1 bonus to AC and saving throws.
+### Boon of Truesight
+
+You have truesight out to a range of 60 feet.
+
+### Boon of Undetectability
+
+You gain a +10 bonus to Dexterity (Stealth) checks, and you can't be detected or targeted by divination magic, including scrying sensors.
+### Boon of the Warmage
+
+- You may add your spellcasting ability modifier instead of strength or dexterity to attack rolls made with weapons.
+- You may add your spellcasting ability modifier to damage rolls of weapon attacks in addition to your strength or dexterity modifier.
+- Your hitpoint maximum increases by an amount equal to your character level, and increases by an additional 1 each time you gain a level.
 
 #### Reliable Dancers
 
