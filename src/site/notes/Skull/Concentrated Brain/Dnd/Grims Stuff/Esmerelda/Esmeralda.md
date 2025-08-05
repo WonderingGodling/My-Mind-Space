@@ -306,13 +306,13 @@ Tools:
 		- Gets Younger Over Time, Currently Looks Late 30s
 - Often Recruits Vassals To Do Stuff For Her Or Just Provide Company During Travels
 	- They Dont Get Paid
-	-  Theyre Spread Out Because She Will Often Leave Them Behind (On The Asssumption That They Can Still Serve Her Well From Afar)
+	-  Theyre Spread Out Because She Will Often Leave Them Behind (On The Assumption That They Can Still Serve Her Well From Afar)
 - Asexual
 - Agender
-- Cannot Remember The Names Of Citrus Fruits
+- Cannot Remember The Names Of Citrus Fruits (Including The Orange One)
 - Left Handed But Does Sports Right Handed
 - Refuses To Have Or Even Use Phones
-	- Is Also The Case With A Lot Of Things That She Deem's "Not A Her Thing"
+	- Is Also The Case With A Lot Of Things That She Deems "Not A Her Thing"
 
 # References
 ### Acrobat UA
