@@ -76,17 +76,26 @@ Word of Radiance
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Acidic Smite\|Acidic Smite]]
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Fiery Smite\|Fiery Smite]]
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Decaying Smite\|Decaying Smite]]
-### Own Biggest Fan
-Level One:  Arcane Blade Can  Consume Anything
-Level Two: 
-Level Three: Advantage On All Saves
-Level Four: Can Traverse Different Planes
-Level Five: If There's An Audience, Dance Perfectly
+
+### Closing Number
+An Impossible Rubicks-Style Cube, Four Squares Across, Four Squares High, And Four Squares Deep. The With Every Colour On It. Each Side Is Numbered And If Completed Corresponds To One Of The Levels (There Seems To Be More Than Six Sides To The Cube But)
+#### Side One (Green): 
+This Side Allows An Item Can Be Consumed And Its Properties Transfered To Something That Is Uniquely Esmerelda's
+#### Side Two (Teal): 
+This Side Causes A Stage To Be Placed Somewhere Of Gems Choice With Her On It, Places Chairs Somewhere Facing The Stage With People Of Your Choice On It
+#### Side Three (Magenta): 
+Something About This Side Makes People Who Look At It Feel Weird, Gem Gets Advantage On All Saves For Having Unleashed It
+#### Side Four (Pink): 
+When Used Correctly This Side Lets Gem Traverse Between Different Planes Safely, Shaping Reality Around Her
+#### Side Five (Black): 
+Like A Beacon, This Side Forces Creatures To Only Pay Attention To Gem
+#### Side Six (Gold): 
+Being Mostly Complete The Show **Must** Go On. Gem Delivers A Perfect Performance (Unless Roll A One Succeed To Some Degree)
 
 # Inventory
 
 Money: 160+
-Inventory: Arcane Blade, Three Teacups, A Pocket Wizard
+Inventory: Fan-Knife, Arcane Blade, Three Teacups, A Pocket Wizard, https://dnd5e.wikidot.com/wondrous-items:gurts-greataxe, https://dnd5e.wikidot.com/wondrous-items:magicians-judge., https://dnd5e.wikidot.com/wondrous-items:ravens-slumber
 # Extra
 Immunities: 
 Resistances: radiant damage
@@ -100,7 +109,7 @@ Conditions: Cant Be Put To Sleep
 		
 Armor: Light armor 
 Weapons: Simple weapons, martial weapons 
-Tools: Dragonchess 
+Tools: Dragonchess, Piano
 Languages: common, celestial, Draconic
 
 # Notes: 
