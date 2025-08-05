@@ -5,7 +5,7 @@
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 
-# <center><span style="color:#32A456">Esmeralda</span></center>
+# <center><span style="color:#32A456">Esmeralda Cyn</span></center>
 
 
 <!--⚠️Imgur upload failed, check dev console-->
@@ -150,9 +150,10 @@ Languages: common, celestial, Draconic
 # Arcane Blade Properties
 | Attack       | To-Hit | Damage           |
 | ------------ | ------ | ---------------- |
-| Arcane Blade | +17    | 1d12+24 Slashing |
+| Arcane Blade | +16    | 1d12+25(16+9) Slashing |
 
-Hovers In The Air 5 Ft Away From Me
+Class Bonuses:
+Hovers In The Air 5-10 Ft Away From Me
 Change Form During Rest
 Appear And Disappear As A Bonus Action
 Can Absorb The Properties Of Any Item Over A Long Rest
@@ -162,6 +163,37 @@ Cant Have Disadvantage
 On Miss Deal 6 Force Damage
 -20 Speed On Hit
 
+Misc:
+Stringable
+Shreddable
+Rideable
+Ammunition (range 150/600)
+Finesse
+Light
+Loading
+Range 
+Reach
+Special
+Thrown (range 30/120)
+Two-Handed
+Versatile (1d10)
+Improvised Weapons
+Silvered Weapons
+Special Weapons
+Flamable
+Edible
+Drinkible
+Markable
+Inky
+Aromatic
+Explosive
+Container
+Shatterable
+Meltable
+Climbable
+Wearable
+
+## Blade's Additions
 Consumables:
 - Oil (20)
 - Food (50)
@@ -235,33 +267,52 @@ Tools:
 
 # Backstory
 - Goes By Gem To Those Closest To Her (Esmeralda -> Emerald -> Gem)
-- Grew Up In Vanhan  Loving Dance
-- Had A Pet Bird Called Dib Whom They Originally Started Adventuring With, Now Has A Crow Called Zim And His Crow Crew 
-	- Dib Wasnt An Adventuring Sort Of Bird, Hes Back At Home
+	- Goes By Lady Cyn To Her Vassals, Workers And Other Members Of The Public
+		- <b>Will</b> Hit A Stranger If They Deem It Necessary
+		- Its Common Knowledge That Lady Cyn Is Easy To Upset But That She Would Never Do Anything She Thinks Is Unnecessary So When She Is Violent People Default To Being On Her Side
+- Grew Up In Vanhan Loving The Theatre, The Performances Her Parents Used To Organise For Her (Both To Watch And To Be In), And Most Of All Dance
+	- Vanhan Is Her Home And The Best Place In Yonder No Contest
+- Had A Pet Canary Called Nimn Whom They Originally Started Adventuring With, Now Has A Crow Called Zim And His Crow Crew
+	- Misses Nimn's Singing But Is Glad Hes Safe At Home
+		- Wasnt An Adventuring Sort Of Bird
+	- Zim Is A Delight And Is Very Active
+	- The Crow Crew Is Huge And Follows Zim's Orders Even If They Dont Always Do The Best Job
 - Loves Adventuring With Everyone
-- Being A Hero Is Nice, Being Stylish Is Better
-- Big Dress
-- Boot Knife
-- Big Saw Weapon (slashing)  When She First Started Using It Shed Bump Into It More Times Than Shed Like
+- Thinks Being A Hero Is Nice, Being Stylish Is Better
+	- Its Not About The Fame And Attention (She Gets More Than Enough Of That), Its About Doing Good And Doing It Well
+- Wears Big Dresses
+	- Currently Wearing A Black And White One-Piece
+- Keeps A Fan Up Her Sleeve That Doubles As A Knife For When The Floating Sword Doesnt Scare People Off
+- Big Bladed Weapon, Can Change Its Form/Appearance  
+	- When She First Started Using It Shed Bump Into It More Times Than Shed Like
+	- She Also Used To Hide It More Until She Was Practiced Enough, Now She Almost Never Puts It Away
 - Tried Tightrope Walking Once And Got Stuck Upside Down
-- Hates Cereal, Reminds Her Of Her Fathers Best Friend, Pesant Phil, And His Backstory Is Like Really Sad
-- Fucking Loves Tea, Tea Is Good Anywhere, In Fact She Always Has Tea Leaves On Her
+- Hates Cereal, Reminds Her Of Her Fathers Best Friend, Peasant Phil, And His Backstory Is Like Really Sad
+	- Hes Like Okay Now But Poor Phil
+- Fucking Loves Tea, Tea Is Good Anywhere, In Fact She Always Has Tea Leaves On Her And Usually Has Some Ready In The Blade
 - Hosts Tea Parties For The People Who Are Important To Us
-- the god of Prolonged clapping
-- The Idea That Someone Cares To Stand Out In Supporting You
-- Too Focused In Celebration To Notice That Everyone Else Hates Them
-- The Few Seconds Of Blissful Ignorance
-- I Could Know Why They Were Clapping But Like Second Hand
-- There Are Still A Bunch Of Well Known Holy Relics Just Nobody Knows They Were Mine
-- I Was Reincarnated In A Rich Family! So Much Theatre Opportunity!
-	- We All Just Thought I Was A Hot 60 Year Old
+	- Invitation Only But Anybody Can Be Invited
+	- Hostility Gets You Blacklisted
+	- Youre Not Allowed To Talk About Business Stuff
+- Found Out Shes the god of Prolonged clapping
+	- The Idea That Someone Cares To Stand Out In Supporting You
+	- Too Focused In Celebration To Notice That Everyone Else Hates Them
+	- The Few Seconds Of Blissful Ignorance
+	- Can Know Why And Where Someone Was Clapping But Like Second Hand
+	- There Are Still A Bunch Of Well Known Holy Relics Just Nobody Knows They Were Hers And She Doesnt Remember What They Were
+	- Was Reincarnated In A Rich Family! So Much Theatre Opportunity!
+	- Everyone Just Thought I Was A Hot 60 Year Old
 		- Rich People Get A Head Start In Being Healthy So It Made Sense But This Makes More Sense
-- Often Recruits Vassals To Do Stuff For Her Or Just Provide Company During Travels, Theyre Spread Out Because She Will Often Leave Them Behind (On The Asssumption That They Can Still Serve Her Well From Afar)
+		- Gets Younger Over Time, Currently Looks Late 30s
+- Often Recruits Vassals To Do Stuff For Her Or Just Provide Company During Travels
+	- They Dont Get Paid
+	-  Theyre Spread Out Because She Will Often Leave Them Behind (On The Asssumption That They Can Still Serve Her Well From Afar)
 - Asexual
 - Agender
 - Cannot Remember The Names Of Citrus Fruits
 - Left Handed But Does Sports Right Handed
 - Refuses To Have Or Even Use Phones
+	- Is Also The Case With A Lot Of Things That She Deem's "Not A Her Thing"
 
 # References
 ### Acrobat UA
