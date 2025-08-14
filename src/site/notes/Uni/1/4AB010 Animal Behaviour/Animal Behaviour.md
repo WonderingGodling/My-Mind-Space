@@ -7,6 +7,24 @@
 
 # <center><span style="color:#0000A7">Animal Behaviour</span></center>
 
+animal behavior notes
+
+what did skinner define as all descernable processes....
+
+tim burgen
+
+starlings
+
+which animal species uses sonar
+
+what are the main organs in snakes which detect heat
+
+which of the following denotypes is heterozygous
+
+communication
+
+averages
+
 "So Why Does My Cat Purr?"
 - What triggers your cat to purr?  
 - What is going on inside the cat that makes it purr?

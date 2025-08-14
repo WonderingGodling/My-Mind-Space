@@ -58,27 +58,35 @@ More Awake Characters
 Add Orcish, Dwarvish, Abyssal, Draconic. Infernal, Elvish
 - [ ] Undercover Cop
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Pat Springleaf\|Pat Springleaf]]
-Let Nothing Be Implied
-Optionally Take Their Weapons
-NPC Poem
-Towns' Claim To Fame
-Business Reviews
-Queen Death Alt Ending
-Someone Important Who Knows Rumours About The Parties
-	Karma's Boss' Boss
-Bag Of Holding Sale
-Mimic Town
-Egg And Cress 
-[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/waterside Down\|WATERSIDE DOWN]]
-[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Roque\|Roque]]
-[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]]
-[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Biedenbach\|BiedenBach]]
-[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]]
+- [ ] Let Nothing Be Implied
+- [ ] Optionally Take Their Weapons
+- [ ] NPC Poem
+- [ ] Towns' Claim To Fame
+- [ ] Business Reviews
+- [ ] Queen Death Alt Ending
+- [ ] Someone Important Who Knows Rumours About The Parties
+	- [ ] Karma's Boss' Boss
+- [ ] Bag Of Holding Sale
+- [ ] Mimic Town
+- [ ] Egg And Cress 
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/waterside Down\|WATERSIDE DOWN]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Roque\|Roque]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Biedenbach\|BiedenBach]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]]
 - [x] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Apprentice Occultist Sheet\|Apprentice Occultist Sheet]]
-Dragon Long Neck 
-Give [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Clarent\|Clarent]] More To Do
-More Wrighth!
-
+- [ ] Dragon Long Neck 
+- [ ] Give [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Clarent\|Clarent]] More To Do
+- [ ] More Wrighth!
+- [ ] Fire Water Gun
+- [x] Hell Map  [completion:: 2025-07-29]
+- [ ] Church Map
+- [ ] Brothel Map
+- [ ] House Map
+- [ ] Statue Of A Horned Paladin With His Sword Embedded In The Floor
+	- [ ] Is Dragon Defence
+- [ ] Ghost Somewhere
+- [ ] Robots
 
 
 
