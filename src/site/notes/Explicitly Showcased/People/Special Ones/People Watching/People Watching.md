@@ -39,7 +39,21 @@ I Never Mentioned That One Guy In My Maths Lecture Whi Was Dipping His Lilipop I
 
 There's A Woman At Maccies In Such A Bridesmaid Dress Its Unreal But Shes By Herself Pecking A t Fries
 
+Girls Talking About How Much They Suck At The Tests Here Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] (I Dont Know); I <b>Do</b> Know That One Of Them Has To Redo Maths
 
+Adam Wants To Make Fun Of That One Girl
+Because Reasons 
+
+Going To Bed Sad Because What I Want To Do Is Play Bg3 But I Jjust Came Out Of A Dnd Sesh Where Everyone Kinda Feels Shitty So I Feel Like It Would Be In Pour Tase To Fuck Off And-- 
+It Would Be In *Poor Taste* To Fuck Off And Then Play A Dnd Inspired Videogame Until The Sun Comes Up
+
+Also If Vie Doesnt Hate Me, Id Love To See How She Talks To The People He Does Hate Because I Am Dying Every Day Out Here And I Feel Like Theyre Praying For Me To Become A Better Person, But, Everytime They Look At Me Im Just More Of A Wretched Facade Of Human Emotions, Slowly Crumbling Into The Nothingness That Radiates Out Of Me
+And Im Stuck Like This.
+
+I Mean It Doesnt Help That I Feel Like Everyone Else Is Barely Tollerating Me, Except My Cow (Who Does Seem To Genuinely Enjoy Talking To Me But Still Kinda Hates The Rest Of My Existance) And A Few Other People Who I Feel Like Theyre Just Indifferent
+Who Can Blame Them Though
+Should Change My Name To Marmite
+Or Just Kill Myself (A Very Funny Joke) To Get Out Of Everyones Way
 
 
 
