@@ -21,13 +21,20 @@
 		- http://dndroll.wikidot.com/creatures:mind-flayer Leveled Up To 13
 		- Harmless Unless Provokec
 ### [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]] (Group 1)
+Lots Of Cats
 - King Calling Poeple In To Their Palace And They Dont Come Out
 	- Nothing Bad Happens
 - "Hear Ye! Last Weeks Miss Hollywood Has Been Voided!"
 	- Most Of The Contestants Found Cheating
 		- No Evidence Against The Winner
+- Restaurant
+	- No People In It
+	- Fire
+		- Small One, Started By Candles
+	- There Is A Cloud That Own It And Can Be Heard Crying In The Back
+		- It Doesnt Know Why Poeple Havent Been Coming In Recently
+			- Another Restaurant That Also Sells Lemon-Based Cuisine
 
- 
 
 ### Lytescomia, [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Naga\|naga]]
 - If In The Party Will Be Approached By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/4 Atal/Panda\|Panda]] To fight The Invading Goblin Army If Not Today Everyone Is Dead
