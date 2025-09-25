@@ -11,19 +11,20 @@ I Forgot That This Matters To Some [[Branches/People\|People]] And Not Everyone 
 
 # Names
 
-| Names You Might Know [[Explicitly Showcased/Me/Me\|Me]] By                       |                                   Variations                                   |
-| ---------------------------------------------------- | :----------------------------------------------------------------------------: |
-| <span style="color:#00FFFF">Wondering Godling</span> |      <span style="color:#00DDDD">Godling, Wonder, Wonderling, God</span>       |
-| <span style="color:#00FFFF">Frigay</span>            |                     <span style="color:#00DDDD">Fri</span>                     |
-| <span style="color:#00FFFF">Scarlet</span>           |                 <span style="color:#00CCCC">Scarl, Red</span>                  |
-| <span style="color:#00FFFF">Hazel</span>             |                    <span style="color:#00DDDD">Haze</span>                     |
-| <span style="color:#00FFFF">Natalie</span>           |                     <span style="color:#00CCCC">Nat</span>                     |
-| <span style="color:#00FFFF">David</span>             |                    <span style="color:#00DDDD">Dave</span>                     |
+| Names You Might Know [[Explicitly Showcased/Me/Me\|Me]] By                       |                             Variations                              |
+| ---------------------------------------------------- | :-----------------------------------------------------------------: |
+| <span style="color:#00FFFF">Wondering Godling</span> | <span style="color:#00DDDD">Godling, Wonder, Wonderling, God</span> |
+| <span style="color:#00FFFF">Frigay</span>            |               <span style="color:#00DDDD">Fri</span>                |
+| <span style="color:#00FFFF">Scarlet</span>           |            <span style="color:#00CCCC">Scarl, Red</span>            |
+| <span style="color:#00FFFF">Hazel</span>             |               <span style="color:#00DDDD">Haze</span>               |
+| <span style="color:#00FFFF">Natalie</span>           |               <span style="color:#00CCCC">Nat</span>                |
+| <span style="color:#00FFFF">David</span>             |               <span style="color:#00DDDD">Dave</span>               |
+| <span style="color:#00FFFF">Celeste</span>           |               <span style="color:#00FFFF">Cel</span>                |
 Recently Accepting Any Shade Of Red
 
 # [Pronouns (Any/All)](https://en.pronouns.page/@WonderingGodling)
 
-
+https://neopronounlist.carrd.co/
 
 
 

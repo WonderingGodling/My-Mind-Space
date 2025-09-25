@@ -13,7 +13,7 @@
 ## General
  Race:  Changeling
  Class:  [[Skull/Concentrated Brain/Dnd/Terminology/Rogue\|Rogue]] 3
-​    ​‍​    ​‍​    ​‍​    [[Skull/Concentrated Brain/Dnd/Terminology/​‍Soulknife\|​‍Soulknife]] 
+​    ​‍​    ​‍​    ​‍​    [[​‍Soulknife\|​‍Soulknife]] 
  Alignment: True Neutral
  Background: Entertainer
 
