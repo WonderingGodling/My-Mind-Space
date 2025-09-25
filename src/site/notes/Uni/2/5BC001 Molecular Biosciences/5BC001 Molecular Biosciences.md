@@ -46,6 +46,7 @@ Primase has no self-correcting mechanism but can initiate polymerization... intr
 DNA Pol.
 
 ### Origin of replication
+![](https://i.imgur.com/xkaYAWC.png)
 
 
 
