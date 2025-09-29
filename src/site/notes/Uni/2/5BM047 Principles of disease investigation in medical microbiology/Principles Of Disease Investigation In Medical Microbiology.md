@@ -10,12 +10,61 @@
 ## Week 1: Summary
 Report: introduction, materials and methods, results, discussion and conclusion (References) 1000 words
 
+## Introduction to Medical  Microbiology
 
+### Role of NHS microbiology laboratory  
+Responsible for:
+- Diagnostic support relating to infection
+- Information to support treatment choice/ patient management  
+- Gram result (debridement or bloodstream infection)  
+- Antibiotic susceptibility (how to treat)
+- More interpretation in Micro than other disciplines – for the BMS
 
+Diagnostic workflow: 
+Sample  → Collection → Receipt → Processing → Interpretation → Report
 
+### Reference laboratories  
+Decrease cost, provide specialist work, increase patient capacity, and provide equipment/ resources
+### UKHSA  (United Kingdom Health Security Agency)
+Known for:
+- Surveilling trends, outbreaks, epidemics  
+- Epidemiology
+- Sharing information like briefing notes/weekly reports/PSAs
+- Contact tracing  
+- Guide health protection programmes e.g. vaccination  
+- Pandemic preparedness
+### How samples are processed in the laboratory
+- Hospital, GP, prison, and community clinics provide/collect samples 
+- Specimen is then barcoded, quality checked, then goes through the LIMS (laboratory information management system) to signal that it has been received 
+- Processing can be manual or automatic
+- The results are then sent to Site Specific Groups (whomever it concerns)
+- Further tests are then requested  
 
+### Microbiology diagnostics/ investigations
+Random stuff:
+- Safety  
+- SOPs – standard operating procedures  
+- Training and competency assessments
 
+Bacteriology  
+E.g: Blood cultures, Urines, Swabs, TB
+- Microscopy  
+- Culture  
+- Identification  
+- Antibiotic susceptibility testing
 
+Virology  
+- Serology  
+- Molecular
+
+Mycology  
+- Microscopy  
+- Culture  
+- Identification
+
+Parasitology  
+- microscopy  
+- identification
 
 
 
