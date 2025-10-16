@@ -17,14 +17,13 @@ A Church That Believes In The God Of Sacrifice And Concord And In Decreasing Suf
 ### The God Of Sacrifice And Concord
 The God Of Sacrifice And Concord Is The Only Force Defending Against All Of The Peoples' Misfortunes. He Abhors Suffering, Wanting To Maintain The Balance Between The Enjoyable And Painful Parts Of Life Which Has Been Shifting More And More Towards Painful Because Of The Sins Of Those Who Have Forgotten The Churches Teachings. 
 The Church Mainly Worships The God Of Sacrifice And Concord Through Easing His Burdens. Practices Like The Violet Vacation.
-
-## The Taboos Of The C Of V
-The Biggest Taboo In The Church Is Perversion. Increasing The Average Corruption In The World Is Antithetical To The Church Doctrines, The Best Retribution A Defiler Can Hope For Is To Be Exiled For Eternity.
-
 ## The Social Organisation And Initiations Of The C Of V
 To Be A Member Of The Church Of Violets One Must Maintain The Virtues They Hold Dear Above All But The Disruption Of Malice. There Are No Prerequisite Qualifications For Undergoing The Cyanosis Ritual; But Breaking Tenet Following The Ritual Inexorably Results In The Sacrifice And Concord Of The Blue Blood. 
 
 Events Following The Cyanosis Ritual Are Governed By Feeling. Though It Isn't Unusual For The Faction To Have A Welcome Party.
+
+## The Taboos Of The C Of V
+The Biggest Taboo In The Church Is Perversion. Increasing The Average Corruption In The World Is Antithetical To The Church Doctrines, The ... Retribution A Defiler Can Hope For Is To Be Exiled For Eternity.
 
 ## Places Of Worship In The C Of V
 "The Fields", And Temples
