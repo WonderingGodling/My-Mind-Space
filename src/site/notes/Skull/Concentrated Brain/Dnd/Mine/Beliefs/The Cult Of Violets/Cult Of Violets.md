@@ -13,10 +13,10 @@
 
 	
 # Beliefs
-A Cult That Believes In Inflicting Small Amounts Of Pain To Lower The Maximum Suffering Possible For An Individual To Experience
+A Cult That Believes In The God Of  Inflicting Small Amounts Of Pain To Lower The Maximum Suffering Possible For An Individual To Experience
 
 ## Church Goal:
-The True Profit Of The Church Would Be Entirely Selfless And Become The New God Of Sacrifice Alongside The God Of Doom
+The True Prophet Of The Church Would Be Entirely Selfless And Become The New God Of Sacrifice Alongside The God Of Doom
 ## Controversial?
 They Believe In A Breathing God 
 ### The God Of Doom
