@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/sessions/loop-0/day-0/","tags":["Tagless"],"noteIcon":""}
 ---
 
+
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 
@@ -13,7 +14,7 @@
 
 
 ## S
-Fun Facts: Aris Presses Flowers, Karma Injects Assassinated Peoples Blood
+Fun Facts: [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Aris\|Aris]] Presses Flowers, [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Karma]] Injects Assassinated Peoples Blood
 
 Karma Tosses Gold Coin Into Well, No Noise, It Just Goes Poof
 Harbinger Leads Them To The Hideout
@@ -59,8 +60,16 @@ Aris And Sena Converse About The General Situation
 Karma Gets Found By Tavernis And Takes Her To The Inn
 
 
+## Group 1
+Qutes Keeps Quaterstaff
+Whack-A-Mole Guy, long Beard
 
-
+Sen Goes To Qutes
+	Qutes Reads Their Mind
+	She Tries To Steal Money From Sera
+		Doesnt Because Shes Got None On Her
+	Sees Sera In A Manor Eating All The Grapes She Can Imagine
++5 Silver For Qutes
 
 
 
