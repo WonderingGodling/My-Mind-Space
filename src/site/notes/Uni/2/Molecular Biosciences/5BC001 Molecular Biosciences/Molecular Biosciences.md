@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"molecular bio","permalink":"/molecular bio/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"dg-permalink":"molecular biosciences","permalink":"/molecular biosciences/","tags":["Tagless"],"noteIcon":""}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -53,7 +53,7 @@ DNA becomes temporarily positively supercoiled when it is being replicated or tr
 
 Circlular DNA Coiling ![Pasted image 20251023052303.png](/img/user/images/Pasted%20image%2020251023052303.png)
 Linear DNA Coiling ![Pasted image 20251023052317.png](/img/user/images/Pasted%20image%2020251023052317.png)
-<sub>The twist is the number of helical turns in the DNA and the writhe is the number of times the double helix crosses over on itself (these are the supercoils) </Sub>
+<sub>The twist is the number of helical turns in the DNA and the writhe is the number of times the double helix crosses over on itself (these are the supercoils) </sub>
 
 ### 1957: Meselson–Stahl experiment
 Confirmation that DNA is semi-conservative
