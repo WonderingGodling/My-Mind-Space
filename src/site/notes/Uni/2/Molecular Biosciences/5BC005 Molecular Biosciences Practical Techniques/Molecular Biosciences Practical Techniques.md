@@ -67,6 +67,10 @@ Enzymes are not stable and degrade with time
 They should be kept on ice at all times and stored @ -20OC.
 By reducing the units of enzyme used or time incubated DNA can be partially digested.
 
+EcoRI Cuts Once
+SalI Cuts Twice
+NcoI Cuts Thrice
+
 ## DNA ligase
 catalyses the formation of a phosphodiester bond between the 3’-hydroxyl group at the end of one double stranded DNA chain and the 5’-phosphoryl group at the end of another.
 To ensure the best chance of a successful ligation reaction we add more insert (SPINT2) than Vector (pCDNA3.1)
@@ -87,6 +91,7 @@ Primer written: 5'  3'
 SPINT2 Is Also Called HFG Activator Inhibitor Type 2 (HAI-2)
 Hepatocyte growth factor (HFG)
 MET   (AKA: HGF receptor)
+**Kunitz-type protease inhibitor 2** is an [enzyme inhibitor](https://en.wikipedia.org/wiki/Enzyme_inhibitor "Enzyme inhibitor") that in humans is encoded by the _SPINT2_ [gene](https://en.wikipedia.org/wiki/Gene "Gene").[[5\|5]](https://en.wikipedia.org/wiki/SPINT2#cite_note-pmid9115294-5)[[6\|6]](https://en.wikipedia.org/wiki/SPINT2#cite_note-pmid9346890-6)[[7\|7]](https://en.wikipedia.org/wiki/SPINT2#cite_note-entrez-7) SPINT2 is a [transmembrane protein](https://en.wikipedia.org/wiki/Transmembrane_protein "Transmembrane protein") with two extracellular [Kunitz domains](https://en.wikipedia.org/wiki/Kunitz_domain "Kunitz domain") to inhibit [serine proteases](https://en.wikipedia.org/wiki/Serine_protease "Serine protease"). This gene is a presumed [tumor suppressor](https://en.wikipedia.org/wiki/Tumor_suppressor_gene "Tumor suppressor gene") by inhibiting HGF activator which prevents the formation of active [hepatocyte growth factor](https://en.wikipedia.org/wiki/Hepatocyte_growth_factor "Hepatocyte growth factor"). [Mutations](https://en.wikipedia.org/wiki/Mutation "Mutation") in SPINT2 could result in [congenital sodium diarrhea](https://en.wikipedia.org/w/index.php?title=Congenital_sodium_diarrhea&action=edit&redlink=1 "Congenital sodium diarrhea (page does not exist)") (CSD).
 
 ## Transformation
 Genetic alteration of a cell following uptake and expression of exogenous genetic material (plasmids).
@@ -101,6 +106,90 @@ Methods of transformation:
 
 Host Cell must be sensitive to the antibiotic
 The vector carrying Antibiotic resistant gene confers resistant to the host cell
+
+Preparation of calcium competent E.coli.  
+Day 1  
+Set up an overnight culture of E.coli  
+Day 2  
+1. Inoculate 20 ml of Luria broth with 0.75 ml of the O/N E.coli culture.  
+2. Incubate, with aeration, for 90-100 minutes at 37°C (to an OD~O.6).  
+3. Spin down the cells at 10 K for 30 seconds.  
+4. Wash the cells in 5 ml of 5 mM NaCl and spin down at 10K for 5 minutes at 4°C.  
+5. Resuspend the cells in 2 ml of 100 mM CaCl2 and incubate on ice for at least 20  
+minutes.  
+6. Spin the cells down at 10 K for 5 minutes at 4°C.  
+7. Resuspend the cells in 1 ml of 100 mM CaC12
+
+
+1.2a: Historic mini-prep protocol Solutions  
+Solution GTE:               50 mM glucose, 25 mM Tris/HCl (pH 8.0), 10 mM EDTA  
+Solution SDS/NaOH: 0.2 M NAOH, 1 % (w/v) SDS (sodium dodecyl sulphate)  
+Solution KAc:                5 M Potassium Acetate (60 ml), Glacial acetic acid (11.5 ml),  
+H2O (28.5 ml).  
+
+## Expression of cloned genes in human cells
+Cellular localisation [images]
+Effect on Cell physiology
+## Moles, Daltons and Constants
+A Mole is the amount of a substance that contains the same number of elementary entities (atoms, molecules etc.) as 12g of Carbon.
+
+Atomic Mass of Carbon= 12Da (The accepted unit of molecular Mass is the Dalton (Da or kDa)
+1Mol of Carbon= 12g
+
+The number of Carbon atoms in 1Mol (12g) is:  6.022 X1023 
+This is the Avogadro constant: N<sub>A</sub> or L  
+N<sub>A</sub> is the number if units of a substance per Mole.  
+6.022 X1023 mol-1
+
+((x/1.5)<sup>6</sup>)10<sup>-9</sup>ng
+A/ng = Molecules/ng### Calculations
+
+Atomic Mass of Carbon= 12  
+1Mol of Carbon= 12g  
+6.022 X1023 atoms in 12g= 1mol  
+
+Atomic Mass of Sodium= 22.99  
+1Mol of Sodium= 22.99g  
+6.022 X1023 atoms in 22.99g= 1mol
+
+Atomic Mass of Sodium= 22.99  
+Atomic Mass of Oxygen= 16  
+Atomic Mass of hydrogen= 1.01  
+Atomic Mass of sodium Hydroxide= 40.00  
+1Mol of Sodium Hydroxide= 40.00g  
+6.022 X1023 Molecules in 40.00g
+
+The Molecular Mass of dsDNA  
+1 Base pair approx. Average Mass:  
+650Da  
+1500bp (1.5kb) X650=975,000 Da  
+=0.975X106 Da  
+1X106 Da  
+1mol= 1X106g =1000kg  
+6.022X1023 Molecules in 1000kg  
+6.022X1020 Molecules in 1kg (1000g)  
+6.022X1017 Molecules in 1g  
+6.022X1014 Molecules in 1mg (0.001g)  
+6.022X1011 Molecules in 1ug (0.000001g)  
+602,200,000,000  
+(6.022X1023/1X1012=6.022X1011)
+
+#### How many molecules of pBS are there in 100ng?
+ 1.5kb= 1X106 Da
+(3/1.5=2)
+ 1 pBS molecule has a mass of (3/1.5)= 2X106 Da
+1mole of pBS= 2X106g
+2X106g= 6.02X1023molecules
+1ug= 1X10-6g
+So: 2X106g= 2X106 X 1X106= 2X1012ug
+2X1012ug= 6.02X1023molecules
+So: 6.02X1023/2X1012= 3X1011 molecules of pBS/ug
+1000ng in 1ug: 3X1011/1000=3X108 molecules of pBS in 1ng
+
+1ng= 1X10-9g  
+So: 2X106g= 2X106 X 1X109= 2X1015ng
+
+6.02X1023/2X1015=3X108 (1ng) X100= 3X1010 (100ng)
 
 ### Scoring successful Transformants (pcDNA3.1 control)
 
@@ -214,67 +303,71 @@ successful transformation
 1 in 4.2X107 Successfully transformed
 (4.2X107 = 42 million)
 
-## Moles, Daltons and Constants
-A Mole is the amount of a substance that contains the same number of elementary entities (atoms, molecules etc.) as 12g of Carbon.
+1.7: Questions:  
+Week 1  
+Restriction digest of plasmids to prepare gene (insert) and expression  
+vector for ligation.  
+Formative Questions:  
+Q1: What is the recognition sequence of the enzymes Xho1 and HindIII  
+Q2: Would the restriction reaction work at a) 4OC or b) 95OC  
+Week 2  
+TRANSFORMATION OF E. COLI  
+Q3: Why is it necessary to incubate the transformed bacterial cells in media that does  
+not contain any antibiotics before plating them onto growth media containing the  
+antibiotic ampicillin?  
+Q4: Calculate the number of molecules of pcDNA3.1 in 50ng (Show your workings)  
+-Analysis of agarose gel electrophoresis patterns (Dry-Lab book figure)  
+Week 3  
+Gel electrophoresis of restriction digests  
+-Determine the size of your restriction fragments (calibration graph not  
+required).  
+P35/10  
+10kb BAC  
++  
+35kB insert=  
+45,000bp  
+A  
+m  
+p
 
-Atomic Mass of Carbon= 12Da (The accepted unit of molecular Mass is the Dalton (Da or kDa)
-1Mol of Carbon= 12g
+Q5: what do the bands you see represent?  
+Q6: What does the TBE do?  
+Q7: How does ethidium bromide work?  
+Q8: Express the transformation frequency for each batch as:  
+- transformants per μg of DNA.  
+- transforming molecules of DNA as a fraction of the number of molecules of input  
+DNA.  
+Q9:  
+a) Which plate has the most/ least colonies?  
+b) Why is this?/ is this what you expected?  
+c) Does the number of colonies obtained on your ligation plate correlate well to the  
+amount of DNA used in the transformation?  
+Week 4  
+Isolation of plasmid DNA from a culture of E. Coli cells (minipreps)  
+Q10: What is the function of the GTE?  
+Q11: What is the function of the SDS/NaOH?  
+Q12: What is the function of the potassium acetate?  
+Q13: What is the function of the isopropanol?  
+Week 5  
+Gel electrophoresis of cloned DNA restriction digests  
+Q14: describe what you see in each of the three digestion lanes, what do they  
+represent? Was your sub-cloning experiment successful? Include a fully labeled  
+figure (a calibration curve is not required).
 
-The number of Carbon atoms in 1Mol (12g) is:  6.022 X1023 
-This is the Avogadro constant: N<sub>A</sub> or L  
-N<sub>A</sub> is the number if units of a substance per Mole.  
-6.022 X1023 mol-1
-### Calculations
-Atomic Mass of Carbon= 12  
-1Mol of Carbon= 12g  
-6.022 X1023 atoms in 12g= 1mol  
 
-Atomic Mass of Sodium= 22.99  
-1Mol of Sodium= 22.99g  
-6.022 X1023 atoms in 22.99g= 1mol
-
-Atomic Mass of Sodium= 22.99  
-Atomic Mass of Oxygen= 16  
-Atomic Mass of hydrogen= 1.01  
-Atomic Mass of sodium Hydroxide= 40.00  
-1Mol of Sodium Hydroxide= 40.00g  
-6.022 X1023 Molecules in 40.00g
-
-The Molecular Mass of dsDNA  
-1 Base pair approx. Average Mass:  
-650Da  
-1500bp (1.5kb) X650=975,000 Da  
-=0.975X106 Da  
-1X106 Da  
-1mol= 1X106g =1000kg  
-6.022X1023 Molecules in 1000kg  
-6.022X1020 Molecules in 1kg (1000g)  
-6.022X1017 Molecules in 1g  
-6.022X1014 Molecules in 1mg (0.001g)  
-6.022X1011 Molecules in 1ug (0.000001g)  
-602,200,000,000  
-(6.022X1023/1X1012=6.022X1011)
-
-#### How many molecules of pBS are there in 100ng?
- 1.5kb= 1X106 Da
-(3/1.5=2)
- 1 pBS molecule has a mass of (3/1.5)= 2X106 Da
-1mole of pBS= 2X106g
-2X106g= 6.02X1023molecules
-1ug= 1X10-6g
-So: 2X106g= 2X106 X 1X106= 2X1012ug
-2X1012ug= 6.02X1023molecules
-So: 6.02X1023/2X1012= 3X1011 molecules of pBS/ug
-1000ng in 1ug: 3X1011/1000=3X108 molecules of pBS in 1ng
-
-1ng= 1X10-9g  
-So: 2X106g= 2X106 X 1X109= 2X1015ng
-
-6.02X1023/2X1015=3X108 (1ng) X100= 3X1010 (100ng)
-
-## Expression of cloned genes in human cells
-Cellular localisation [images]
-Effect on Cell physiology
+## Lost in translation
+Plasmid small
+Expression Vector
+	p- Promoter
+Differences Between Vectors
+((x/1.5)<sup>6</sup>)10<sup>-9</sup>ng
+A/ng = Molecules/ng
+"complementary cOhesvive Pairs"
+Incubate Constriction At 4°C  To Provide Time For Hydrogen Bonding 
+	ATP Provides Energy Not Heat
+	Call Wall And DNA Are Negatively Charged
+	CaCl<sub>2</sub><sup>2+</sup> Makes The Bacteria "Chemically Competent"
+Beta Lactinase Degrades Ampicillin
 
 ## Mark
 ### Tumor suppressor activity and epigenetic inactivation of hepatocyte growth factor activator inhibitor type 2/SPINT2 in papillary and clear cell renal cell carcinoma
@@ -336,25 +429,8 @@ HAI-2/SPINT2 is a Kunitz-type serine protease inhibitor that has a broad inhibit
 
 We found that restoration of _HAI-2/SPINT2_ expression had a variety of effects on RCC cell lines including suppression of _in vitro_ colony formation, inhibition of anchorage-independent growth, and reduced cell motility. Tumor formation and metastasis is a complex multistep process that requires the acquisition of a variety of properties (e.g., proliferation, invasion, angiogenesis, and antiapoptosis) that are associated with MET activation (51–54). We note that the biological effects of transfecting RCC cells with _HAI-2/SPINT2_ were most pronounced when endogenous HAI-2/SPINT2 was silenced, suggesting that the observed effects were specific consequences of _HAI-2/SPINT2_ overexpression. We have initiated preliminary investigations of the mechanisms of HAI-2/SPINT2 tumor suppression. Interestingly, we found that increased cell motility, associated with _HAI-2/SPINT2_ silencing, was abrogated by treatment with ERK/MAPK and phospholipase C-γ inhibitors, but not by inhibition of atypical PKC. The apparent partial inhibition of cell motility may be an indicator that HAI-2/SPINT2 inhibits a number of different signaling pathways (although we cannot exclude the possibility that the partial inhibition is an experimental artifact resulting from the relatively short half lives of the inhibitory compounds used). These findings provide a basis for further investigations into HAI-2/SPINT2 function and its dependence on specific downstream signaling pathways.
 
-RCC is curable if detected at an early stage. However, up to 40% of patients with RCC present with locally advanced or metastatic disease that is difficult to treat with chemotherapy or radiotherapy. A major aim of human cancer genetics is to develop novel therapeutic agents based on a detailed knowledge of cancer molecular biology. Such agents could then be administered in individualized treatment regimens. Thus, response to treatment with an epidermal growth factor receptor (EGFR) kinase inhibitor (gefitinib) in lung cancer patients was associated with the presence of somatic EGFR mutations in the lung cancer (55, 56), Intriguingly, bikunin has been investigated as a treatment for ovarian carcinoma. Thus, overexpression of _HAI-2/SPINT2_ in an ovarian cancer cell line suppressed invasion and peritoneal carcinomatosis (30), and once-daily oral _HAI-2/SPINT2_ therapy reduced tumor load in a nude mouse model and in human ovarian cancer (57). In addition, a combination of _HAI-2/SPINT2_ and paclitaxel produced more profound effects on tumor growth (58). We note that conditioned media from HAI-2/SPINT2–expressing cells inhibited cell motility. Thus, our findings suggest that administration of HAI-2/SPINT2, and/or inhibitors of MET signaling (59), might provide novel therapeutic approaches to treating advanced RCC with HAI-2/SPINT2 inactivation.</span>
+RCC is curable if detected at an early stage. However, up to 40% of patients with RCC present with locally advanced or metastatic disease that is difficult to treat with chemotherapy or radiotherapy. A major aim of human cancer genetics is to develop novel therapeutic agents based on a detailed knowledge of cancer molecular biology. Such agents could then be administered in individualized treatment regimens. Thus, response to treatment with an epidermal growth factor receptor (EGFR) kinase inhibitor (gefitinib) in lung cancer patients was associated with the presence of somatic EGFR mutations in the lung cancer (55, 56), Intriguingly, bikunin has been investigated as a treatment for ovarian carcinoma. Thus, overexpression of _HAI-2/SPINT2_ in an ovarian cancer cell line suppressed invasion and peritoneal carcinomatosis (30), and once-daily oral _HAI-2/SPINT2_ therapy reduced tumor load in a nude mouse model and in human ovarian cancer (57). In addition, a combination of _HAI-2/SPINT2_ and paclitaxel produced more profound effects on tumor growth (58). We note that conditioned media from HAI-2/SPINT2–expressing cells inhibited cell motility. Thus, our findings suggest that administration of HAI-2/SPINT2, and/or inhibitors of MET signaling (59), might provide novel therapeutic approaches to treating advanced RCC with HAI-2/SPINT2 inactivation.
 
-
-## Lost in translation
-Plasmid small
-Expression Vector
-	p- Promoter
-Differences Between Vectors
-((x/1.5)<sup>6</sup>)10<sup>-9</sup>ng
-A/ng = Molecules/ng
-"complementary cOhesvive Pairs"
-Incubate Constriction At 4°C  To Provide Time For Hydrogen Bonding 
-	ATP Provides Energy Not Heat
-	Call Wall And DNA Are Negatively Charged
-	CaCl<sub>2</sub><sup>2+</sup> Makes The Bacteria "Chemically Competent"
-Beta Lactinase Degrades Ampicillin
-Eco Cuts Once
-SaI Cuts Twice
-NCO Cuts Thrice
 
 ## Extra Research
 ## Misc
@@ -442,78 +518,22 @@ minutes.
 6. Spin the cells down at 10 K for 5 minutes at 4°C.  
 7. Resuspend the cells in 1 ml of 100 mM CaC12
 
-20  
-1.2a:Historic mini-prep protocol Solutions  
-Solution GTE: 50 mM glucose, 25 mM Tris/HCl (pH 8.0), 10 mM EDTA  
+
+1.2a: Historic mini-prep protocol Solutions  
+Solution GTE:               50 mM glucose, 25 mM Tris/HCl (pH 8.0), 10 mM EDTA  
 Solution SDS/NaOH: 0.2 M NAOH, 1 % (w/v) SDS (sodium dodecyl sulphate)  
-Solution KAc: 5 M Potassium Acetate (60 ml), Glacial acetic acid (11.5 ml),  
+Solution KAc:                5 M Potassium Acetate (60 ml), Glacial acetic acid (11.5 ml),  
 H2O (28.5 ml).  
+
 1.2b: Ion exchange column miniprep protocol (Qiagen)
 
-21
-
-22  
 1.3: pcDNA3.1 plasmid map
 
-23  
 1.4: pBluescript plasmid map
 
-24  
 1.5 ThermoScientific 1Kb DNA Ladder
 
-25  
 1.6 p35/10 BAC  
-1.7: Questions:  
-Week 1  
-Restriction digest of plasmids to prepare gene (insert) and expression  
-vector for ligation.  
-Formative Questions:  
-Q1: What is the recognition sequence of the enzymes Xho1 and HindIII  
-Q2: Would the restriction reaction work at a) 4OC or b) 95OC  
-Week 2  
-TRANSFORMATION OF E. COLI  
-Q3: Why is it necessary to incubate the transformed bacterial cells in media that does  
-not contain any antibiotics before plating them onto growth media containing the  
-antibiotic ampicillin?  
-Q4: Calculate the number of molecules of pcDNA3.1 in 50ng (Show your workings)  
--Analysis of agarose gel electrophoresis patterns (Dry-Lab book figure)  
-Week 3  
-Gel electrophoresis of restriction digests  
--Determine the size of your restriction fragments (calibration graph not  
-required).  
-P35/10  
-10kb BAC  
-+  
-35kB insert=  
-45,000bp  
-A  
-m  
-p
-
-26  
-Q5: what do the bands you see represent?  
-Q6: What does the TBE do?  
-Q7: How does ethidium bromide work?  
-Q8: Express the transformation frequency for each batch as:  
-- transformants per μg of DNA.  
-- transforming molecules of DNA as a fraction of the number of molecules of input  
-DNA.  
-Q9:  
-a) Which plate has the most/ least colonies?  
-b) Why is this?/ is this what you expected?  
-c) Does the number of colonies obtained on your ligation plate correlate well to the  
-amount of DNA used in the transformation?  
-Week 4  
-Isolation of plasmid DNA from a culture of E. Coli cells (minipreps)  
-Q10: What is the function of the GTE?  
-Q11: What is the function of the SDS/NaOH?  
-Q12: What is the function of the potassium acetate?  
-Q13: What is the function of the isopropanol?  
-Week 5  
-Gel electrophoresis of cloned DNA restriction digests  
-Q14: describe what you see in each of the three digestion lanes, what do they  
-represent? Was your sub-cloning experiment successful? Include a fully labeled  
-figure (a calibration curve is not required).
 
 
 ## Assessment  
@@ -1022,10 +1042,8 @@ Week 6
 Test!  
 The test will last for 1 hour 30 min.
 
-19  
 
 ## SPINT2
-**Kunitz-type protease inhibitor 2** is an [enzyme inhibitor](https://en.wikipedia.org/wiki/Enzyme_inhibitor "Enzyme inhibitor") that in humans is encoded by the _SPINT2_ [gene](https://en.wikipedia.org/wiki/Gene "Gene").[[5\|5]](https://en.wikipedia.org/wiki/SPINT2#cite_note-pmid9115294-5)[[6\|6]](https://en.wikipedia.org/wiki/SPINT2#cite_note-pmid9346890-6)[[7\|7]](https://en.wikipedia.org/wiki/SPINT2#cite_note-entrez-7) SPINT2 is a [transmembrane protein](https://en.wikipedia.org/wiki/Transmembrane_protein "Transmembrane protein") with two extracellular [Kunitz domains](https://en.wikipedia.org/wiki/Kunitz_domain "Kunitz domain") to inhibit [serine proteases](https://en.wikipedia.org/wiki/Serine_protease "Serine protease"). This gene is a presumed [tumor suppressor](https://en.wikipedia.org/wiki/Tumor_suppressor_gene "Tumor suppressor gene") by inhibiting HGF activator which prevents the formation of active [hepatocyte growth factor](https://en.wikipedia.org/wiki/Hepatocyte_growth_factor "Hepatocyte growth factor"). [Mutations](https://en.wikipedia.org/wiki/Mutation "Mutation") in SPINT2 could result in [congenital sodium diarrhea](https://en.wikipedia.org/w/index.php?title=Congenital_sodium_diarrhea&action=edit&redlink=1 "Congenital sodium diarrhea (page does not exist)") (CSD).
 
 Available structures
 PDB	Ortholog search: PDBe RCSB
