@@ -19,7 +19,7 @@ I Forgot That This Matters To Some [[Branches/People\|People]] And Not Everyone 
 | <span style="color:#00FFFF">Hazel</span>                     |               <span style="color:#00DDDD">Haze</span>                |
 | <span style="color:#00FFFF">Natalie</span>                   |             <span style="color:#00CCCC">Nat, Nate</span>             |
 | <span style="color:#00FFFF">David</span>                     |               <span style="color:#00DDDD">Dave</span>                |
-| <span style="color:#00FFFF">Celeste</span>                   |                <span style="color:#00FFFF">Cel</span>                |
+| <span style="color:#00FFFF">Celeste</span>                   |                <span style="color:#00CCCC">Cel</span>                |
 | <span style="color:#00FFFF">Mo'thia</span>                   |               <span style="color:#00CCCC">Thia</span>                |
 | <span style="color:#00FFFF">Miscellaneous Short Ones:</span> |      <span style="color:#00CCCC">Finch, Ino, Demi, Bella</span>      |
 
