@@ -43,6 +43,7 @@
 1: Hold Bone Up To Face And Say "Do Not Let Me Down" Then Throw The Bone Towards A Spot Within 60ft. As The Bone Flies It Disappears. Wherever The Bone Lands Three Invisible, Mindless, Shapeless, Medium Forces Manifest To Perform Simple Tasks For The Hour.
 
 Servants: AC 10, 1 hit point, and a Strength of 2, and it can’t attack.
+
 After The Ritual: Servants Can Be Mentally Commanded During A Bonus Action But Can Only Move 15ft. They Will Perform The Task To The Best Of Their Ability Then Wait For The Next Command
 As a bonus action, you can mentally command the servant to move up to 15 feet and 
 
@@ -58,40 +59,27 @@ While Within 100ft They Can Be Communicated With Telepathically Or Deliver 'Touc
 
 
 #### Shield of Faith
-Casting Time: 2 rounds
-Range: 60 feet
 Components: V, S, M (a small parchment with a bit of holy text written on it)
 Duration: Concentration, up to 10 minutes
 
-Round One: Draw Pattern Across Chest With Chalk, Outline Skeleton "Protection, Protection Pro......tection"
-Round Two: Bones Start To Rise Out Of THe Ground And Slowly Float Towards The Target
+1: Draw Pattern Across Chest With Chalk, Outline Skeleton "Protection, Protection Pro......tection"
+2: Bones Start To Rise Out Of The Ground And Slowly Float Towards The Target (If Target Is Someone Within 60ft: Point "Of Course You Need My Help"), Then A Bell Noise Sounds As The Ritual Ends
 
-A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
+After The Ritual: The Bones Create A Small Shield That Orbits The Target  Of The Ritual (+2 AC) Which Degrades Over Ten Minutes
+
 #### Inflict Wounds
-Range: Touch
-Components: V, S, M
-Duration: Instantaneous
-
-1: Bite Thumb, Place Hand In Component Pouch, Pull Out Bat Teeth
-2: "This Might Hurt A Bit"
-
-
-Make a melee spell attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage.
-
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
+1: Bite Thumb, Place Hand In Component Pouch, Pull Out Some Bat Teeth, A Hand Full Of Dust And A Flower Petal
+2: "This Might Hurt A Bit" Then Crush The Components By Hand
+The Next Creature Touched Suffers Necrosis Taking 3d10 Necrotic Damage
+More Time Put Into This Ritual Necrotises The Creature More (1d10)
 
 #### Acid Stream
-Casting Time: 2 Rounds
-Range: Self (30-foot line)
-Components: V, S, M (a bit of rotten food)
-Duration: Concentration, up to 1 minute
+1: Mortar And Pestle A Heart Into Paste, Add Spit
+2: Use As Lipstick (Not Necessary, There Is Just A Lot Of Downtime Right Here), "Styx Calls Your Name", Pour The Mixture Onto The Floor, The Mixture Keeps Pouring Until It Floods Across A Five-By-Thirty ft Area For A Minute
 
-Round One: Mortar And Pestle A Heart Into Paste, Add Spit
-Round Two: Use As Lipstick (Not Necessary, Just A Lot Of Downtime Right Here), "Styx Calls Your Name", Pour The Mixture Onto The Floor
+After The Ritual: Each Creature Caught In The Flood Must Be Dexterous Enough To Not Succumb To The Styx, If They Do They Must Remove Its Remnants From Either Themselves Or Their Companion To Stop It From Eating Away From Them (3d4 Acid At The Start Of Its Turn)
 
-A stream of acid emanates from you in a line 30 feet long and 5 feet wide in a direction you choose. Each creature in the line must succeed on a Dexterity saving throw or be covered in acid for the spell’s duration or until a creature uses its action to scrape or wash the acid off itself or another creature. A creature covered in the acid takes 3d4 acid damage at the start of each of its turns.
-
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d4 for each slot level above 1st.
+More Time Spent On The Ritual Empowers The Styx (1d4)
 
 # Characteristics 
 
