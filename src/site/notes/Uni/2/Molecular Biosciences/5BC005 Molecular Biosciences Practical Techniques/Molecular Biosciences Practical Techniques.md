@@ -5,7 +5,7 @@
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 
-# <center><span style="color:#000000">Molecular Biosciences Practical Techniques</span></center>
+# <center><span style="color:#AAAAAA">Molecular Biosciences Practical Techniques</span></center>
 
 ![[Practical 1 PCR 2024.docx]]
 
@@ -19,31 +19,34 @@ OPR (Open Reading Frame) And CDS (Coding DNA Sequence) Are The Same Thing
 Types of Vectors:
 - Cloning Vectors 
 	- isolate and amplify DNA
-	- ![Pasted image 20251109222050.png](/img/user/images/Pasted%20image%2020251109222050.png)
+	![Pasted image 20251109222050.png](/img/user/images/Pasted%20image%2020251109222050.png)
+	![pBluescript_II_SK(+).png](/img/user/images/pBluescript_II_SK(+).png)
 - Expression Vectors
 	- isolate and amplify DNA
 	- express foreign DNA (gene) in host organism/cell (DNA RNA Protein)
-	- ![Pasted image 20251109220241.png](/img/user/images/Pasted%20image%2020251109220241.png)
-
-
+![Pasted image 20251109220241.png](/img/user/images/Pasted%20image%2020251109220241.png)
+![pcDNA3.1(-).png](/img/user/images/pcDNA3.1(-).png)
+pcDNA+ MCS Is In A Different Order
 
 Other Vectors:
 - Bacteriophage
 - Bacterial Artificail Chromosome (BAC)
+![Pasted image 20251113001917.png](/img/user/images/Pasted%20image%2020251113001917.png)
 - Yeast Artificial Chromosome (YAC)
 
+## Gene Cloning
 ### Plasmid 
  dsDNA molecule capable of independent replication within a host organism (Bacteria).  
 
 All plasmids contain:
 - Origin of replication (ori)
 - Charicteristic gene (Like amp<sup>r</sup>)
-
+ 
 #### Plasmid Modifications
 ##### Multiple cloning site
 A small sequence (~30-80bp) of DNA containing recognition sites for a number of common restriction enzymes (must be unique to the cloning site)
 
-pBluescript II Mcs:
+ pBluescript II Mcs:
 Kpn1-XhoI-ClaI-HindIII-EcoRV-EcoRI-PstI-BamHI-XbaI--NotI-BstxI-SacI
 
 ##### screening system System
@@ -51,7 +54,7 @@ Kpn1-XhoI-ClaI-HindIII-EcoRV-EcoRI-PstI-BamHI-XbaI--NotI-BstxI-SacI
 The b-galactosidase gene, LacZ, metabolizes Xgal    Producing a blue product
 Insertion of foreign DNA into the MCS destroys the LacZ gene    no blue product
 
-## Gene Cloning
+
 
 ## Restriction Enzymes
 Found naturally in bacteria- protect against infection from bacteriophages
@@ -142,7 +145,8 @@ N<sub>A</sub> is the number if units of a substance per Mole.
 6.022 X1023 mol-1
 
 ((x/1.5)<sup>6</sup>)10<sup>-9</sup>ng
-A/ng = Molecules/ng### Calculations
+A/ng = Molecules/ng
+### Calculations
 
 Atomic Mass of Carbon= 12  
 1Mol of Carbon= 12g  
@@ -303,7 +307,7 @@ successful transformation
 1 in 4.2X107 Successfully transformed
 (4.2X107 = 42 million)
 
-1.7: Questions:  
+## Questions:  
 Week 1  
 Restriction digest of plasmids to prepare gene (insert) and expression  
 vector for ligation.  
@@ -434,6 +438,8 @@ RCC is curable if detected at an early stage. However, up to 40% of patients wit
 
 ## Extra Research
 ## Misc
+![pBluescript_II_SK(+).png](/img/user/images/pBluescript_II_SK(+).png)
+![pcDNA3.1(-).png](/img/user/images/pcDNA3.1(-).png)
 ![Pasted image 20251109213326.png](/img/user/images/Pasted%20image%2020251109213326.png)
 ![Pasted image 20251109213332.png](/img/user/images/Pasted%20image%2020251109213332.png)
 ![Pasted image 20251113002319.png](/img/user/images/Pasted%20image%2020251113002319.png)

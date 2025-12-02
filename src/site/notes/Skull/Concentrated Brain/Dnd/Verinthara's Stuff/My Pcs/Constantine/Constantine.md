@@ -17,19 +17,27 @@
 - Tulip 
 - Serenity 
 - The Lovely One 
-- Oh No Maddy Bill Aberystwyth Ale Ian Fakename McPersonson Zenith Perq Mothia
+- Oh No 
+- Maddy 
+- Bill 
+- Aberystwyth 
+- Ale Ian 
+- Fakename McPersonson 
+- Zenith 
+- Perq 
+- Mothia
 
 ## Constantine's Rituals
 
 | Wisdom | 13  | +5  |
 | ------ | --- | --- |
 
-[[#1st level]]
-	[[#Unseen Servant]]
-	[[#Find Familiar]]
-	[[#Shield Of Faith]]
-	[[#Inflict Wounds]]
-	[[#Acid Stream]]
+[[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/My Pcs/Constantine/Constantine#1st level\|1st Level]]
+	[[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/My Pcs/Constantine/Constantine#Unseen Servant\|Unseen Servant]]
+	[[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/My Pcs/Constantine/Constantine#Find Familiar\|Find Familiar]]
+	[[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/My Pcs/Constantine/Constantine#Shield Of Faith\|Shield Of Faith]]
+	[[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/My Pcs/Constantine/Constantine#Inflict Wounds\|Inflict Wounds]]
+	[[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/My Pcs/Constantine/Constantine#Acid Stream\|Acid Stream]]
 ### 1st Level
 #### Unseen Servant
 1: Hold Bone Up To Face And Say "Do Not Let Me Down" Then Throw The Bone Towards A Spot Within 60ft. As The Bone Flies It Disappears. Wherever The Bone Lands Three Invisible, Mindless, Shapeless, Medium Forces Manifest To Perform Simple Tasks For The Hour.
@@ -39,11 +47,6 @@ After The Ritual: Servants Can Be Mentally Commanded During A Bonus Action But C
 As a bonus action, you can mentally command the servant to move up to 15 feet and 
 
 #### Find Familiar
-Casting Time: 1 round
-Range: 10 feet
-Components: V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)
-Duration: Instantaneous
-
 1: Create A Smiling Face Made Out Of 10 gp Worth Of Scentful, Flammable Material And Set It Ablaze. In Unison With the Now Screaming Face "The World Is Full Of The Unexpected, The Cold And The Dark." Slight Pause "There Must Be Others Who See This Truth"
 The Kindle Burns Out And Three Creatures Of Less That 1cr Emerges As A Celestial/Fae/Fiend
 Then Out Of The Ashes: Familliar
@@ -60,18 +63,17 @@ Range: 60 feet
 Components: V, S, M (a small parchment with a bit of holy text written on it)
 Duration: Concentration, up to 10 minutes
 
-Round One: Draw Pattern Across Chest With [MAterial] , Outline Skeleton "Protection, Protection Pro......tection"
-Round Two: Bones Start To Rise Out Of Te Ground And Slowly Float Towards The Target
+Round One: Draw Pattern Across Chest With Chalk, Outline Skeleton "Protection, Protection Pro......tection"
+Round Two: Bones Start To Rise Out Of THe Ground And Slowly Float Towards The Target
 
 A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 #### Inflict Wounds
-Casting Time: 2  Round
 Range: Touch
 Components: V, S, M
 Duration: Instantaneous
 
-Round One: Bite Thumb, Place Hand In Component Pouch, Pull Out Bat Teeth
-Round Two: "This Might Hurt A Bit"
+1: Bite Thumb, Place Hand In Component Pouch, Pull Out Bat Teeth
+2: "This Might Hurt A Bit"
 
 
 Make a melee spell attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage.
@@ -97,6 +99,8 @@ Blood Red Lipstick
 Whenever Fae Cast A Spell Fae Count The Seconds (Timing Is The Hardest Part For Faer)
 Will Kill People But Not Because Fae Enjoy It, Thats Dumb
 Calls All Their Undead Lazarus
+Constantine Is Not Evil, Fae're Not Nice But Thats More Out Of Necessity 
+Some Of Faer Spells Use Chalk And Fae Hate It, Fae Are Trying To Find A Chalk Replacement
 
 Used To Be The Apprentice Of A Famous Litch But They Have Been Soul Gemed So Fae Are Now The Apprentice Of Some Other Necromancer (Because They Were Threatened Into It)
 
