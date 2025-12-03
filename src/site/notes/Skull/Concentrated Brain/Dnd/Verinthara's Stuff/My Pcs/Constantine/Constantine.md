@@ -6,6 +6,7 @@
 
 
 # <center><span style="color:#005426">Constantine </span></center>
+![Pasted image 20251202185710.png](/img/user/images/Pasted%20image%2020251202185710.png)
 
 ### Constantine Names: 
 - Barter 
@@ -93,3 +94,5 @@ Some Of Faer Spells Use Chalk And Fae Hate It, Fae Are Trying To Find A Chalk Re
 Used To Be The Apprentice Of A Famous Litch But They Have Been Soul Gemed So Fae Are Now The Apprentice Of Some Other Necromancer (Because They Were Threatened Into It)
 
 # Notes: 
+Bonus Lazarus
+![Pasted image 20251202185723.png](/img/user/images/Pasted%20image%2020251202185723.png)

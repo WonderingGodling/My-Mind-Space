@@ -243,17 +243,15 @@ Strand exchange is facilitated by a protein called RecA in E. coli and Rad51 in 
 - Weakened immune system  
 - Radiosensitive- High risk of lymphoma and leukemia
 
-<span style="color:rgb(75, 236, 19)">##·T~~ranscription¶  
-The·central·dogma··¶  
-The·control·of·transcription·and·RNA··¶  
-polymerase··¶  
-#####·These·Are·All·Pictures·For·No·Reason¶  
+## Transcription
+The control of transcription and RNA Polymerase  
+##### These·Are·All·Pictures·For·No·Reason¶  
 ![](https://i.imgur.com/8Uddv6Q.png)¶  
 ![](https://i.imgur.com/czFTeon.png)¶  
 ![](https://i.imgur.com/HE4r8Fz.png)¶  
 ¶  
-###·Prokaryotic·RNA·polymerase¶  
-#####·These·Are·Also·Pictures·For·No·Reason¶  
+### Prokaryotic·RNA·polymerase¶  
+##### These·Are·Also·Pictures·For·No·Reason¶  
 ![](https://i.imgur.com/YaeBlaL.png)¶  
 ![](https://i.imgur.com/08tPnAS.png)¶  
 ![](https://i.imgur.com/o2ZsJSS.png)¶  
@@ -274,7 +272,7 @@ polymerase··¶
 ![](https://i.imgur.com/y5i0zfr.png)¶  
 ![](https://i.imgur.com/vRpZPlF.png)¶  
 ![](https://i.imgur.com/rs4QgHr.png)¶  
-##·Translation¶  
+## ·Translation¶  
 Template·Directed·Protien·Synthesis¶  
 ![](https://i.imgur.com/1byN93e.png)¶  
 ![](https://i.imgur.com/NFrQod5.png)¶  
@@ -290,52 +288,7 @@ Template·Directed·Protien·Synthesis¶
 ![](https://i.imgur.com/VwLarfi.png)¶  
 ![](https://i.imgur.com/6DQIxhM.png)¶  
 ![](https://i.imgur.com/oLxZblA.png)¶~~##·T~~ranscription¶  
-The·central·dogma··¶  
-The·control·of·transcription·and·RNA··¶  
-polymerase··¶  
-#####·These·Are·All·Pictures·For·No·Reason¶  
-![](https://i.imgur.com/8Uddv6Q.png)¶  
-![](https://i.imgur.com/czFTeon.png)¶  
-![](https://i.imgur.com/HE4r8Fz.png)¶  
-¶  
-###·Prokaryotic·RNA·polymerase¶  
-#####·These·Are·Also·Pictures·For·No·Reason¶  
-![](https://i.imgur.com/YaeBlaL.png)¶  
-![](https://i.imgur.com/08tPnAS.png)¶  
-![](https://i.imgur.com/o2ZsJSS.png)¶  
-![](https://i.imgur.com/W3fNXWY.png)¶  
-![](https://i.imgur.com/Uy3b3G0.png)¶  
-![](https://i.imgur.com/yRdEeVJ.png)¶  
-![](https://i.imgur.com/OulQFkF.png)¶  
-![](https://i.imgur.com/I0ZI6Nm.png)¶  
-![](https://i.imgur.com/Pckvkuf.png)¶  
-![](https://i.imgur.com/mCMRNI2.png)¶  
-![](https://i.imgur.com/ap9ssiF.png)¶  
-![](https://i.imgur.com/EcmHMy6.png)¶  
-![](https://i.imgur.com/k65ereM.png)¶  
-![](https://i.imgur.com/KVXS0VS.png)¶  
-![](https://i.imgur.com/XZOodTW.png)¶  
-![](https://i.imgur.com/7xlW5qh.png)¶  
-![](https://i.imgur.com/sV67sST.png)¶  
-![](https://i.imgur.com/y5i0zfr.png)¶  
-![](https://i.imgur.com/vRpZPlF.png)¶  
-![](https://i.imgur.com/rs4QgHr.png)¶  
-##·Translation¶  
-Template·Directed·Protien·Synthesis¶  
-![](https://i.imgur.com/1byN93e.png)¶  
-![](https://i.imgur.com/NFrQod5.png)¶  
-![](https://i.imgur.com/X365bk4.png)¶  
-![](https://i.imgur.com/bfivhpz.png)¶  
-![](https://i.imgur.com/7tEhpBK.png)¶  
-![](https://i.imgur.com/d2WT13p.png)¶  
-![](https://i.imgur.com/oJ6V5nI.png)¶  
-![](https://i.imgur.com/IMGfjLB.png)¶  
-![](https://i.imgur.com/rAcGgFH.png)¶  
-![](https://i.imgur.com/89LsZK8.png)¶  
-![](https://i.imgur.com/TOsHxzy.png)¶  
-![](https://i.imgur.com/VwLarfi.png)¶  
-![](https://i.imgur.com/6DQIxhM.png)¶  
-![](https://i.imgur.com/oLxZblA.png)¶~~</span>
+
 ## Tutorial analysis of transcription
 
 ### Introduction  
@@ -405,42 +358,629 @@ Template·Directed·Protien·Synthesis¶
 Catabolism- Large molecule to small molecule for energy
 Anabolism- Small molecule to large molecule using energy
 ![Pasted image 20251009135448.png](/img/user/images/Pasted%20image%2020251009135448.png)
-![Pasted image 20251009140520.png](/img/user/images/Pasted%20image%2020251009140520.png)
+![Pasted image 20251127002812.png](/img/user/images/Pasted%20image%2020251127002812.png)
 ![Pasted image 20251009135509.png](/img/user/images/Pasted%20image%2020251009135509.png)
+### TCA,  Krebbs or Citric Acid Cycle
 ![Pasted image 20251009135518.png](/img/user/images/Pasted%20image%2020251009135518.png)
 ![Pasted image 20251009135542.png](/img/user/images/Pasted%20image%2020251009135542.png)
-### Idk What "This" Is
+### Idk What "This" Is But Here Is Why Its Important
+The focus is energy production through ATP  
+The bonds between adenosine and phosphates are highly strained bonds  
+So are a form of chemical potential energy
 
-![Pasted image 20251009135610.png](/img/user/images/Pasted%20image%2020251009135610.png)
+![Pasted image 20251127002329.png](/img/user/images/Pasted%20image%2020251127002329.png)
 
-## Mitochondria
-![Pasted image 20251009135757.png](/img/user/images/Pasted%20image%2020251009135757.png)
+### Mitochondria
+• About the size of a bacterial cell (2 m)
+• Aerobic respiration takes place to extract energy synthesising ATP 
+• Tricarboxylic acid cycle (TCA) occurs here
+![Pasted image 20251127002346.png](/img/user/images/Pasted%20image%2020251127002346.png)
+### The Electron Transport Chain
 ![Pasted image 20251009135919.png](/img/user/images/Pasted%20image%2020251009135919.png)
-![Pasted image 20251009140537.png](/img/user/images/Pasted%20image%2020251009140537.png)
-![Pasted image 20251009140721.png](/img/user/images/Pasted%20image%2020251009140721.png)
-![Pasted image 20251009140730.png](/img/user/images/Pasted%20image%2020251009140730.png)
-![Pasted image 20251009140804.png](/img/user/images/Pasted%20image%2020251009140804.png)
-![Pasted image 20251009140814.png](/img/user/images/Pasted%20image%2020251009140814.png)![Pasted image 20251009140827.png](/img/user/images/Pasted%20image%2020251009140827.png)
-![Pasted image 20251009140839.png](/img/user/images/Pasted%20image%2020251009140839.png)
-![Pasted image 20251009140853.png](/img/user/images/Pasted%20image%2020251009140853.png)
-![Pasted image 20251009140947.png](/img/user/images/Pasted%20image%2020251009140947.png)
-![Pasted image 20251009141003.png](/img/user/images/Pasted%20image%2020251009141003.png)
-![Pasted image 20251009141018.png](/img/user/images/Pasted%20image%2020251009141018.png)
-![Pasted image 20251009141027.png](/img/user/images/Pasted%20image%2020251009141027.png)![Pasted image 20251009141042.png](/img/user/images/Pasted%20image%2020251009141042.png)
-![Pasted image 20251009141058.png](/img/user/images/Pasted%20image%2020251009141058.png)
-![Pasted image 20251009141111.png](/img/user/images/Pasted%20image%2020251009141111.png)
-![Pasted image 20251009141123.png](/img/user/images/Pasted%20image%2020251009141123.png)
-![Pasted image 20251009141135.png](/img/user/images/Pasted%20image%2020251009141135.png)
-![Pasted image 20251009141148.png](/img/user/images/Pasted%20image%2020251009141148.png)
-![Pasted image 20251009141202.png](/img/user/images/Pasted%20image%2020251009141202.png)
-![Pasted image 20251009141213.png](/img/user/images/Pasted%20image%2020251009141213.png)
+### Metabolic states
+The integration of metabolism is revealed by looking at the processes that predominate when the organism is in extremis  
+For metabolism these are the:  
+•The fed state (0-4 hours after eating)  
+•The fasted state (4-12 hours after  eating)  
+•The starved state (12 hours and onwards without eating)
+![Pasted image 20251127002709.png](/img/user/images/Pasted%20image%2020251127002709.png)
+
+![Pasted image 20251127002742.png](/img/user/images/Pasted%20image%2020251127002742.png)
+### Energy Storage  
+• Carbohydrate = 4 calories/g, 
+- Protein = 4 calories/g,  
+• Fat = 9 calories/g
+![Pasted image 20251127002859.png](/img/user/images/Pasted%20image%2020251127002859.png)
+![Pasted image 20251127002915.png](/img/user/images/Pasted%20image%2020251127002915.png)• Carbohydrate = Stored as glycogen in the liver and muscle  
+• Fat = Stored as triacylglycerol in the adipose tissue (small oil droplets)  
+• Fat has more energy but is less efficient/readily used. NB: Heart primarily used beta-oxidation of  
+fatty acids for energy as the O2 supply is high
+### Metabolism of Lipids
+![Pasted image 20251127003003.png](/img/user/images/Pasted%20image%2020251127003003.png)• A family of compounds that includes  
+• Triglycerides (fats & oils)  
+• Fats: lipids that are solid at room temperature  
+• Oils: lipids that are liquid at room temperature  
+• Phospholipids  
+• Sterols (cholesterol).
+### Structure of fatty acids
+ Lipids exist primarily as fatty acids  
+ Have different lengths but same basic structure
+![Pasted image 20251127003140.png](/img/user/images/Pasted%20image%2020251127003140.png)
+### Types of fatty acids
+![Pasted image 20251127003200.png](/img/user/images/Pasted%20image%2020251127003200.png)
+### Triglycerides
+• Fatty acids are rarely free  molecules  
+• Fatty acids are primarily stored  as fuel molecules In combination  with Glycerol  
+• A triglyceride is formed when  one glycerol molecule joins with  three fatty acids to produce a triglyceride and water
+![Pasted image 20251127003249.png](/img/user/images/Pasted%20image%2020251127003249.png)
+![Pasted image 20251127003300.png](/img/user/images/Pasted%20image%2020251127003300.png)
+Triacylglycerols (Fats) are non-soluble in H2O because they are non-polar
+### Metabolism of dietary fat
+• Triglycerides and cholesterol from the diet gets emulsified by bile acids in the intestine to form micelles  
+• Bile acids are themselves made from cholesterol
+![Pasted image 20251127003337.png](/img/user/images/Pasted%20image%2020251127003337.png)
+• Once absorbed to the intestinal mucosa cells the fatty acids and monoacylglcerol are combined to re-form triacylglycerols and packaged into chylomicrons (lipoproteins)
+![Pasted image 20251127003401.png](/img/user/images/Pasted%20image%2020251127003401.png)• While circulating in blood, chylomicrons exchange components with high-density  
+lipoproteins (HDL). The HDL donates apolipoprotein C-II (APOC2) and  
+apolipoprotein E (APOE) to the nascent chylomicron and, thus, converts it to a  
+mature chylomicron  
+• Upon arrival in adipose tissue and muscle cells, lipoprotein lipase cleaves the  
+triacylgycerols to free fatty acids and glycerol  
+• Fatty acids are taken up by these tissues and glycerol is transported to liver or  
+kidneys
+  
+• Re-esterification occurs whenever fatty acids are needed in other parts of the body
+![Pasted image 20251127003436.png](/img/user/images/Pasted%20image%2020251127003436.png)
+• Insulin and glucagon play key roles in lipid metabolism
+#### Insulin  
+• Reduces blood glucose levels  
+• Increase liver glycogen synthesis  
+• Increases glycolysis  
+• Increase glucose uptake in  peripheral tissues  
+• Increase amino acid uptake and  protein synthesis  
+• inhibits protein breakdown  
+• Increases lipogenesis  
+• inhibits lipolysis  
+#### Glucagon  
+• Stimulates glycogen breakdown  
+• Stimulates gluconeogenesis  
+• Stimulates protein breakdown  
+• Inhibits lipogenesis  
+• Activates lipolysis and ketone  synthesis
+### Adipose tissue depot
+Subcutaneous fat  
+• is formed from the mesoderm.  
+• Required for fat storage and  insulation than visceral fat  
+• Now known to have many secreted  adipokines  
+ Viscera Fat  
+• Endocrine organ which releases  adipokines
+![Pasted image 20251127003540.png](/img/user/images/Pasted%20image%2020251127003540.png)
+### Fat cells and  endocrinology
+• Fat cells are part of the endocrine  system  
+• Hormones are chemical messengers  released from one tissue, carried in the circulation & producing a specific,  receptor-mediated change in another tissue
+![Pasted image 20251127003636.png](/img/user/images/Pasted%20image%2020251127003636.png)
+### Adipose derived hormones
+• Leptin and adiponectin  
+• Leptin (increased in obesity, central and  
+peripheral effects; causes negative  
+outcomes)  
+• Adiponectin (decreased in obesity  
+therefore you lose the beneficial effects  
+you would normally see).
+![Pasted image 20251127003700.png](/img/user/images/Pasted%20image%2020251127003700.png)
+### Adiponectin
+ 244 amino acid protein with several  
+domains.  
+• Secretion is caused by and correlates  
+with insulin levels  
+• Adiponectin is REDUCED with obesity  
+and promotes INSULIN SENSITIVITY.  
+• Thought to promote glucose uptake (in  
+muscle) and inhibit gluconeogenesis  
+(liver) whilst promoting fatty acid  
+oxidation (in both). Similar,  
+complementary (and often additive)  
+effects to leptin.
+![Pasted image 20251127003731.png](/img/user/images/Pasted%20image%2020251127003731.png)
+### Leptin
+16kDa (166 amino acids) protein  
+• Important roles in METABOLISM and FEEDING  
+• A random mouse mutation of the leptin gene  (Jackson labs in the 50s) was massively obese  
+• acts on tyrosine kinase receptors in the  hypothalamus with many physiological,  
+anorectic effects  
+• Increased in obesity with central and  peripheral effects.. obese people are less  
+sensitive to leptin and therefore have less of a  satiety signal
+![Pasted image 20251127003802.png](/img/user/images/Pasted%20image%2020251127003802.png)
+### Other adipose hormones
+• Resistin – 118 aa cys-rich secreted protein.  
+Correlates with obesity. Possible role in T2DM  
+• Visfatin – enzyme in high levels in obesity and  
+visceral fat. Possibly insulin-sensitising.  
+• Chemokines – Many are also adipokines
+![Pasted image 20251127003831.png](/img/user/images/Pasted%20image%2020251127003831.png)
+
+## Glycogenesis and Glycogenolysis
+![Pasted image 20251127003912.png](/img/user/images/Pasted%20image%2020251127003912.png)
+![Pasted image 20251127003924.png](/img/user/images/Pasted%20image%2020251127003924.png)
+![Pasted image 20251127003942.png](/img/user/images/Pasted%20image%2020251127003942.png)
+![Pasted image 20251127003954.png](/img/user/images/Pasted%20image%2020251127003954.png)
+![Pasted image 20251127004053.png](/img/user/images/Pasted%20image%2020251127004053.png)
+### Glycogenesis
+![Pasted image 20251127004013.png](/img/user/images/Pasted%20image%2020251127004013.png)
+![Pasted image 20251127004117.png](/img/user/images/Pasted%20image%2020251127004117.png)
+
+### Glycogenolysis
+![Pasted image 20251127004039.png](/img/user/images/Pasted%20image%2020251127004039.png)
 
 
-## DNA Replication And Repair
+## Mutation and Disease
+• A permanent change in DNA sequence.
+• Results in a functional change in a gene product.
+• The gene product is usually a protein.
+• To be effective, mutations must alter protein
+encoding or control regions.
+• SOME gene products are non-coding RNAs,
+mutations can also affect these.
+• Genes can be mutated by many different
+mechanisms, ranging from single base substitution
+to a large-scale chromosomal disruption.
+### Not all genes code for proteins: Non-coding RNAs
+Small nuclear RNA (snRNA) : Reglulate pre-mRNA splicing  
+Small nucleolar RNA (snoRNA): Regulating RNA biogenesis  
+Ribonuclease P (RNase P) : A Ribozyme (enzyme) active digests pre tRNA to mature tRNA  
+RNase MRP : A Ribozyme (enzyme) rRNA processing, mDNA replication  
+Telomerase RNA component (TERC): Adds telomere ends (in conjunction with a protein)  
+Long noncoding RNA (long ncRNA): Gene expression regulation  
+MicroRNA (miRNA) : Regulation of gene expression by mRNA degradation  
+Vault RNAs (vRNA) : contained inside Vaults (large protein structures!)Drug metabolism
+### The consequence of mutations
+Mutations occurring in the germ cells are heritable,  
+and may lead to a genetic disease in the offspring
+• Mutations occurring in the somatic or body cells are not  
+inherited.  
+• Mutations which interfere with normal cell differentiation  
+and/or proliferation can lead to tumour formation.  
+• Defence against tumour formation:  
+Accumulation of mutations contributes to cell senescence  
+or death
+Accumulation of mutations contributes to cell senescence or death
+![Pasted image 20251127004334.png](/img/user/images/Pasted%20image%2020251127004334.png)
+• Accumulation of mutations contributes to cell senescence or death
+### The effect of a mutagenic hit to the DNA on a cell
+Several options:  
+• DNA repair systems detect and repair the  
+damage to that cell: the mutation is not  
+passed on to daughter cells  
+• The cell cannot function and dies: again, the  
+mutation is not passed on  
+• The mutation is not detected (or can’t be  
+repaired by the cell), the cell replicates, and  
+the mutation is passed on to daughter cells
+![Pasted image 20251127004407.png](/img/user/images/Pasted%20image%2020251127004407.png)
+Mutation rate : 1 in 30 million nucleotides  
+(Xue Y et al. (2009) Human Y chromosome base substitution mutation rate  
+measured by direct sequencing in a deep-rooting pedigree. Current Biology 19,  
+1453–1457)  
+3164.7million bp per human genome  
+(The human genome project)  
+<2% of genome codes for protein (aprox. 63 million nucleotides)  
+(The human genome project)  
+Therefore: 105 base changes per cell division  
+Therefore: aprox. 2 coding base changes per cell division.  
+Many of these will be silent.
 
+### Types of mutation
+Gross Mutations:
+Gain or loss of whole chromosomes:
+45X: Turner’s Syndrome
+Trisomy 18(47XY +18) : Edwards Syndrome
+Patau's –Syndrome:
+trisomy 13
+(47XY +13)
+### Meiosis
+![Pasted image 20251127004503.png](/img/user/images/Pasted%20image%2020251127004503.png)
+![Pasted image 20251127004530.png](/img/user/images/Pasted%20image%2020251127004530.png)
+![Pasted image 20251127004511.png](/img/user/images/Pasted%20image%2020251127004511.png)
+#### Outcomes of Nondisjunction
+![Pasted image 20251127004552.png](/img/user/images/Pasted%20image%2020251127004552.png)
+### Edwards Syndrome  
+• Frequency: 1/5000-1/10,000 births.  
+• 1 year survival: 8.8%, Median survival 14.5 days.  
+• Oldest survivors 27 years.  
+• All organ systems affected.  
+• High mortality due to cardiac, renal and CNS malformations.  
+• Approximately 80% of cases occur in females.
 
+Chromosome 18 has very few genes  
+Known Genes: only 243  
+(Chromosome 1 has 2029 protein-coding genes)
 
+#### Other trisomy syndromes
+• Trisomy 21: Down’s syndrome  
+• Chromosome 21: only 235 protein coding genes.  
+• Trisomy 13: Patau's syndrome  
+• Chromosome 13: only 324 protein coding genes.
 
+### X Nondisjunction during spermatogenesis
+![Pasted image 20251127004702.png](/img/user/images/Pasted%20image%2020251127004702.png)
+#### Outcomes of Nondisjunction
+![Pasted image 20251127004724.png](/img/user/images/Pasted%20image%2020251127004724.png)
+
+### Klinefelter's syndrome: 47, XXY  
+1942:Harry Klinefelter and colleagues  
+identified 9 men with:  
+• Enlarged breasts.  
+• Sparse facial & body hair.  
+• Small, firm, infertile testes.  
+late 1950's : XXY trisomy identified as  
+cause  
+1970’s: Common , 1/1000 live births
+![Pasted image 20251127004744.png](/img/user/images/Pasted%20image%2020251127004744.png)
+
+### SRY: Sex-determining Region Y Gene  
+In Females one X chromosome is condensed, preventing most genes being expressed.  
+BUT, some regions are relaxed and genes are expressed
+### Types of mutation  
+Small scale and single base (point) mutations:
+• A point mutation changes a single DNA base
+• Base substitutions
+– transition: purine (A or G) -> purine
+pyrimidine (C or T) -> pyrimidine
+T->C C->T A->G G->A
+– transversion: purine -> pyrimidine
+pyrimidine-> purine
+T->G T->A C->G C->A
+A->T A->C G->T G->C
+
+Gross Mutations: Translocations
+![Pasted image 20251127004836.png](/img/user/images/Pasted%20image%2020251127004836.png)
+#### How do chromosomal translocations occur
+Translocations occur as a consequence of inappropriate crossing oveR
+![Pasted image 20251127005301.png](/img/user/images/Pasted%20image%2020251127005301.png)
+##### Consequences of translocation in inherited disease
+• Often, balanced translocations have no phenotype  
+• Some balanced translocations disrupt single genes:
+![Pasted image 20251127005405.png](/img/user/images/Pasted%20image%2020251127005405.png)
+• Reading frame of both genes destroyed or  
+• Fusion protein produced or/and  
+• Transcription enhancers in inappropriate location
+• Incorrect promoters/ enhancers change the level of gene regulation
+Unbalanced translocations can result in an extra copy of many genes
+![Pasted image 20251127005457.png](/img/user/images/Pasted%20image%2020251127005457.png)
+### What causes mutations
+![Pasted image 20251127005704.png](/img/user/images/Pasted%20image%2020251127005704.png)
+Chemical mutagens: Deamination (induced by HNO2, nitrous acid)
+![Pasted image 20251127005729.png](/img/user/images/Pasted%20image%2020251127005729.png)
+![Pasted image 20251127005800.png](/img/user/images/Pasted%20image%2020251127005800.png)
+Chemical mutagens: Alkylating agents  
+add an alkyl group (CH3-, CH3CH2-) to a base, causing  
+base substitutions or strand breakage
+![Pasted image 20251127005942.png](/img/user/images/Pasted%20image%2020251127005942.png)
+![Pasted image 20251127005957.png](/img/user/images/Pasted%20image%2020251127005957.png)
+
+DNA POL has 3’-5’ exonuclease activity: This removes inappropriately paired bases:
+![Pasted image 20251127010024.png](/img/user/images/Pasted%20image%2020251127010024.png)
+![Pasted image 20251127010034.png](/img/user/images/Pasted%20image%2020251127010034.png)
+
+#### Mechanisms of mutation: C ->  T at CpG
+• High frequency of C-> T transitions in the genome, especially at CpG  
+dinucleotides:  
+– C-G to T-A transition mutations account for 30-40% of  
+all point mutations  
+• Cytosines at CpG are frequently methylated; spontaneous deamination of 5-  
+methyl-cytosine to thymine  
+• Mutation rate at CpG is 8.5 times that of other dinucleotides  
+– frequent nonsense mutation is CGA -> TGA, R -> X
+![Pasted image 20251127005903.png](/img/user/images/Pasted%20image%2020251127005903.png)
+
+### Point Mutation sub-types:
+• Missense mutation: replaces one amino acid with  
+another (Non-synonymous).  
+### The Genetic code
+![Pasted image 20251127010136.png](/img/user/images/Pasted%20image%2020251127010136.png)
+Third base-pair wobble / Degenerative bases  
+Often a missense @ the 3rd base in a codon does not change amino acid.  
+(Synonymous change  
+AKA: Silent polymorphism)
+
+### Frameshift Mutations
+Insertion or deletion of 1 or 2 (not 3) base pairs
+This can lead to either a truncated protein, or loss of the aberrant  
+transcript through a surveillance process called “nonsense mediated decay”  
+The part of protein C-terminal to the site of the mutation is changed extensively
+
+### Non-Frameshift insertions or deletions
+nsertion or deletion of 3 bases or bases in multiples of 3 only affect the area of the  
+protein coded for by that region.
+### Nonsense Mutations
+eplace a codon specifying an amino acid with a stop  
+codon (“X”)  
+genome has TAA, TAG and TGA as stop codons
+![Pasted image 20251127010256.png](/img/user/images/Pasted%20image%2020251127010256.png)
+Nonsense-mediated decay often prevents the formation of truncated proteins by degrading  
+Nonsense mRNA.
+#### Nonsense-mediated decay
+NMD prevents the synthesis of truncated proteins from transcripts containing errors  
+In particular frameshift/ nonsense mutations.
+
+• Missense, nonsnese and frameshift mutations can affect the  
+coding portions of the genes.  
+• Other point mutations/ insertions/deletions can affect the  
+control regions (promoters/ Enhancers)  
+or intron/exon splicing junctions.
+
+### Mutation nomenclature: examples of CFTR mutations  
+(cystic fibrosis transmembrane conductance regulator)
+![Pasted image 20251127010447.png](/img/user/images/Pasted%20image%2020251127010447.png)
+### Disease causing point mutations (and small insertion/deletions):
+#### Cystic fibrosis
+Autosomal recessive disease - incidence: 1 in 2000-3000  
+• Predominantly Caucausian populations.  
+• Carrier frequency 1 in 22-28  
+• Monogeneic disease (mutations in 1 gene)  
+• Gene: CFTR (cystic fibrosis transmembrane conductance regulator)  
+• Protein: A regulated epithelial Chloride channel (influences other ion channels)
+![Pasted image 20251127010528.png](/img/user/images/Pasted%20image%2020251127010528.png)
+Cystic Fibrosis Transmembrane Conductance Regulator (CFTR)
+CFTR is the main chloride channel in epithelia of various tissues.  
+epithelia perform diverse functions:  
+1) water or volume-absorbing (airways and intestinal tract)  
+2) salt-absorbing (sweat duct, lung)  
+3) water or volume-secretory (pancreas, lung)  
+all processes involve chloride ion transport.  
+disruption of this transport in cystic fibrosis leads to multiple effects  
+Protein: CFTR (cystic fibrosis transmembrane  
+conductance regulator)
+![Pasted image 20251127010607.png](/img/user/images/Pasted%20image%2020251127010607.png)
+##### Heterogeneity of DNA mutations: cystic fibrosis
+• The occurrence of different mutations within the  
+same gene  
+• May have very different effects on the function of the  
+encoded protein  
+• Often a “spectrum” of severity, from very severe to  
+relatively mild, giving a variation in the clinical  
+phenotype  
+– may allow a “genotype-phenotype correlation” to be made:  
+relates the type of mutation to the disease severity or  
+prognosis  
+– eg. the different mutations in the cystic fibrosis  
+transmembrane conductance regulator (CFTR) protein
+
+## The Cell Cycle
+The only way to make a new cell is to  
+duplicate a cell that already exists:
+![Pasted image 20251127010725.png](/img/user/images/Pasted%20image%2020251127010725.png)
+• A cell reproduces by performing an orderly sequence of events in which it  
+duplicates its contents and then divides in two.  
+• Fundamentally important in this process is the successful passing on of its  
+genetic information to the next generation of cells:
+![Pasted image 20251127010852.png](/img/user/images/Pasted%20image%2020251127010852.png)
+In addition to genome duplication cells also have to duplicate everything else (organelles  
+and macromolecules)
+The cell cycle must:  
+1) Duplicate accurately all the DNA in chromosomes:  
+S-phase (DNA Synthesis-phase)  
+2) Segregate the chromosomes accurately into two daughter cells:  
+M-phase (Mitosis-phase)
+![Pasted image 20251127011004.png](/img/user/images/Pasted%20image%2020251127011004.png)
+![Pasted image 20251127011057.png](/img/user/images/Pasted%20image%2020251127011057.png)
+#### The Eukaryotic cell cycle is divided into Four Phases:
+• Most cells require more time to grow and replicate organelles and double their mass than  
+they require to replicate their chromosomes.  
+• The cell cycle has 2 GAP-PHASES:  
+These allow sufficient time for cells to grow  
+AND the points at which cells monitor their  
+Internal and external environment  
+• G1 phase is the main point at which the cell  
+monitors external conditions.  
+• If conditions are unfavorable the cell will not  
+enter S-Phase. Instead they enter a phase called  
+G0 or Quiescence.  
+• Many cells remain in G0- Quiescent for  
+many years (doing their correct job in a tissue)  
+Once the cell cycle progresses past a commitment point (The restriction point) DNA  
+replication cannot be stopped  
+• G2 Phase is the main point at which the cell monitors for errors in DNA replication
+![Pasted image 20251127011131.png](/img/user/images/Pasted%20image%2020251127011131.png)
+• Normal, mammalian somatic cells can only divide for a finite number of times:
+Mutations in a single gene may be sufficient to induce premature senescence or  
+apoptosis
+How can we tell what phase of the cell cycle a cell is in?  
+When cells are observed by microscopy v. few are seen in mitosis or cytokinesis
+Determine S-Phase cells by incorporation of Thymidine Base-analogue: Bromo-deoxyuridine
+Fix gut cells and apply an anti-BrdU  
+Antibody to visualize cells  
+replicating their DNA (Green).  
+(All cells are counterstained red)
+Fluorescence-activated cell sorting (FACS) or Flow cytometry
+![Pasted image 20251127011250.png](/img/user/images/Pasted%20image%2020251127011250.png)
+you can apply BrdU to cells in culture for a short perioud of time (a pulse-label)  
+And follow the BrdU through cell cycle compared to total DNA to measure the time it  
+takes for cells to complete a full cell cycle.
+#### How is the cell cycle controlled?
+A connected series of biochemical switches:  
+Each initiates a specific cell cycle event.  
+1) Switches are generally binary: ON/OFF  
+• Once switched: irreversible  
+• (what would happen if DNA replication started but did not  
+finish!)  
+2) Very reliable- a lot of back-up mechanisms/redundancy in the  
+system  
+3) Very adaptable- can be modified to suit specific cell types or  
+respond to specific signals.
+#### The cell cycle control system triggers cell cycle progression at 3 major regulatory transitions (CHECKPOINTS)
+The cell cycle control system triggers cell cycle progression at  
+3 major regulatory transitions (CHECKPOINTS)
+![Pasted image 20251127011421.png](/img/user/images/Pasted%20image%2020251127011421.png)
+#### Central to Cell cycle is controlled is the combinations of two  
+protein types:
+![Pasted image 20251127011436.png](/img/user/images/Pasted%20image%2020251127011436.png)
+Cyclin-dependent kinases (CDK) are inactive until they bind to an appropriate partner cyclin:
+CDK protein levels remain constant within a cell.  
+Cyclin levels vary in concentration (cycle) with different phases of the cell cycle.
+##### The cell cycle control system is regulated by the activation of  Cyclin-dependent kinases
+![Pasted image 20251127011529.png](/img/user/images/Pasted%20image%2020251127011529.png)
+![Pasted image 20251127011541.png](/img/user/images/Pasted%20image%2020251127011541.png)
+
+### Mitogens, receptors and cellular signaling
+#### Control of (G0)G1/S-phase transition
+Cells in G0 do not express any cyclins (CDKs are present but inactive).  
+Mitogens stimulate cell division by inducing the expression of Cyclin D and Cyclin E
+Mitogens are proteins secreted from other cells  
+(usually neighboring cells) there are >50 known mitogens:  
+Examples:  
+Platelet-derived growth factor (PDGF):  
+wound healing, stimulates many different cell types to  
+divide.  
+Epidermal Growth Factor (EGF):  
+Stimulates many different cell types to divide.  
+Erythropoietin:  
+Stimulates red blood cell precursor division.
+Growth inhibitory molecules inhibit the activity of  
+mitogens  
+E.G.:  
+Transforming Growth Factor Beta (TGFb)  
+Blocks cell cycle in G1 OR induced Apoptosis.
+![Pasted image 20251127011722.png](/img/user/images/Pasted%20image%2020251127011722.png)
+#### Mitogens bind to cell surface receptors:
+![Pasted image 20251127011743.png](/img/user/images/Pasted%20image%2020251127011743.png)
+#### Mitogens bind to Receptor Tyrosine Kinases (RTKs)
+![Pasted image 20251127011817.png](/img/user/images/Pasted%20image%2020251127011817.png)
+RTKs phosphorylate specific tyrosine amino acids on themselves (autophosphorylation)
+Mitogens are ligands for Receptor Tyrosine Kinases (RTKs)  
+Once bound they cause dimerization of the receptor components , bringing the kinase  
+domains together, allowing auto-phosphorylation (AKA: cross-phorylation) at multiple  
+tyrosine sites:
+![Pasted image 20251127011842.png](/img/user/images/Pasted%20image%2020251127011842.png)
+Phosphorylated RTK change conformation, allowing the binding of intracellular  
+signaling proteins:
+![Pasted image 20251127011904.png](/img/user/images/Pasted%20image%2020251127011904.png)
+The intracellular signaling proteins that bind  
+to TRK such as EGFR contain SH2 domains  
+(Src homology region)  
+SH2 domains allow these proteins to bind.
+#### Binding of SH2 domain adaptor proteins to activated RTK activates the RAS GTPase
+Q. What is RAS  
+A: A monomeric GTPase  
+RAS is active when it is bound to Guanosine triphosphate (GTP)  
+RAS is Inactive when it is bound to Guanosine diphosphate (GDP)  
+RAS is activated by Guanine nucleotide exchange factors (GEFs)  
+GEFs exchange GDP for GTP!  
+(GEFs are activated by binding to SH2 adaptor proteins!)![Pasted image 20251127011956.png](/img/user/images/Pasted%20image%2020251127011956.png)
+![Pasted image 20251127012015.png](/img/user/images/Pasted%20image%2020251127012015.png)
+1: binding of Ligand (EGF) to receptor (EGFR) causes a conformational change and auto  
+phosphorylation.  
+2: A SH2 domain-containing adaptor protein (eg. Growth factor receptor-bound protein 2  
+(GRB2)) can bind to the activated receptor. This then bind and activate a Guanine nucleotide  
+exchange factor (GEF).  
+3: The activated GEF replaces a GDP for a GTP in RAS, RAS is now activated and can continue  
+the signaling cascade.
+![Pasted image 20251127012035.png](/img/user/images/Pasted%20image%2020251127012035.png)
+![Pasted image 20251127012047.png](/img/user/images/Pasted%20image%2020251127012047.png)
+![Pasted image 20251127012057.png](/img/user/images/Pasted%20image%2020251127012057.png)
+### G1 to S-phase switchCyclins, CDKs, pRB and E2F
+Once the cyclin D gene is switched on, cyclin D protein accumulates and binds to CDK4 and CDK6
+![Pasted image 20251127012126.png](/img/user/images/Pasted%20image%2020251127012126.png)
+The main target for cyclinD/CDK4/6 is the Retinoblastoma protein (pRb):  
+pRB is found in the nucleus bound to a transcription factor called E2F  
+pRB inhibits E2F from binding to the promoter of its target genes
+![Pasted image 20251127012144.png](/img/user/images/Pasted%20image%2020251127012144.png)
+![Pasted image 20251127012150.png](/img/user/images/Pasted%20image%2020251127012150.png)
+E2F switches on genes that are needed to proceeded from G1 to S-phase.  
+Before it can do this it must escape from pRB:![Pasted image 20251127012258.png](/img/user/images/Pasted%20image%2020251127012258.png)
+![Pasted image 20251127012306.png](/img/user/images/Pasted%20image%2020251127012306.png)
+Active cyclin D-CDK4/6 inhibits RB resulting release of E2F transcription factor  
+E2F binds to the promoter of Cyclin E and Cycin A  
+Active cyclin E-CDK2 further inhibits RB releasing even more E2F, resulting in the expression of  
+more Cyclin A:  
+Entry into S=-phase
+![Pasted image 20251127012327.png](/img/user/images/Pasted%20image%2020251127012327.png)
+Q. How is cyclin E degraded in S-phase?  
+A. i) E2F induces the expression of a cyclin/CDK inhibitor: p27  
+ii) cyclin E is targeted for protesomal degerdation by ubiquitination
+Induction of p27 by E2F inhibits cyclin D and cyclin E activity resulting in reduced Cyclin E  
+Expression:
+![Pasted image 20251127012353.png](/img/user/images/Pasted%20image%2020251127012353.png)
+![Pasted image 20251127012401.png](/img/user/images/Pasted%20image%2020251127012401.png)
+To ensure rapid removal of cyclin E at S-phase a complex of 3 proteins target it for destruction  
+by the proteasome  
+Skip1  
+Cul1 (Cullin)  
+F-box  
+Collectively, these are known as the SCF complex
+![Pasted image 20251127012434.png](/img/user/images/Pasted%20image%2020251127012434.png)
+Proteasomes are found in the cytoplasm and nucleus  
+They degrade proteins with polyubiquitin tails:
+![Pasted image 20251127012448.png](/img/user/images/Pasted%20image%2020251127012448.png)
+### S-Phase
+2 Key problems to overcome:  
+• Replication must occur with extreme accuracy  
+• Every nucleotide must be replicated only once  
+DNA replication occurs at origins of replication:
+#### Timing of DNA replication in S-phase
+![Pasted image 20251127012517.png](/img/user/images/Pasted%20image%2020251127012517.png)
+#### The prereplicative complex (pre-RC)
+![Pasted image 20251127012552.png](/img/user/images/Pasted%20image%2020251127012552.png)
+#### The replication origin is ready to fire!  
+(Before it can Cyclin A must accumulate)
+![Pasted image 20251127012617.png](/img/user/images/Pasted%20image%2020251127012617.png)
+![Pasted image 20251127012626.png](/img/user/images/Pasted%20image%2020251127012626.png)
+#### Mitosis
+![Pasted image 20251127012649.png](/img/user/images/Pasted%20image%2020251127012649.png)
+#### The activity of Cyclin B-Cdk 1 regulates Mitosis
+![Pasted image 20251127012708.png](/img/user/images/Pasted%20image%2020251127012708.png)
+P300 is a coactivator of transcription at the cyclin B gene  
+Cyclin D-CDK inhibits p300  
+Cyclin A-CDK activates p300  
+As the cell cycle progresses increasing levels of cyclin A results in an up-regulation of cyclin B  
+from the middle of S-phase.
+Cyclin B-cdk1 requires activating:  
+• Cdk activating kinase (CAK) phospohrylates cdk1 to activate it  
+• But an overriding inhibitory phosphorylation is laid down by Wee1  
+• The activity of a phosphatase, cdc25 activates cyclin B-cdk1 (cdc25 is initially activated by  
+Cyclin A-cdk).  
+• Once cyclin B-cdk1 is active it induces a +ve feedback loop to further activate cdc25 and  
+inactivate wee1
+![Pasted image 20251127012742.png](/img/user/images/Pasted%20image%2020251127012742.png)
+#### The activity of Cyclin B-Cdk 1 regulates Mitosis
+Cyclin B-cdk1 induces:  
+Chromosome condensation  
+Mitotic spindle formation  
+Breakdown of the nuclear envelope  
+Rearrangement of actin cytoskeleton and Golgi apparatus  
+Each of these processes is triggered by cyclin B-cdk1  
+phosphorylation of a specific proteins involved in the  
+process.  
+Many of these proteins have yet to be identified
+At Anaphase, cyclin B (and all other cyclins) is degraded by the anaphase promoting  
+complex (AKA the cyclosome)(APC/C)
+APC/C is a ubiquitin ligase:  
+• Cyclin B-cdk activates CdC20  
+• Cdc20 activates APC/C  
+• APC/C targets all cyclins for destruction:  
+APC/C is a ubiquitin ligase:  
+• APC/C targets securin for destruction  
+• This leads to the activation of seperase  
+• Seperase is an enzyme that cuts cohesin/Kleisin  
+• That keeps sister chromosomes together during early mitosis
+APC/C remains active in the new daughter cells  
+Until, following mitogenic stimuli G1 cyclins accumulate and inactivate it
+### The cell cycle machinery and cancer
+The cell cycle control system functions as a network of Biochemical switches:
+![Pasted image 20251127012943.png](/img/user/images/Pasted%20image%2020251127012943.png)
+If DNA is damaged the double-strand break is recognized by ATM/ATR proteins  
+This results in activation of p53:
+![Pasted image 20251127013001.png](/img/user/images/Pasted%20image%2020251127013001.png)
+If DNA damage is very severe p53 switches on apoptosis inducing proteins
+![Pasted image 20251127013030.png](/img/user/images/Pasted%20image%2020251127013030.png)
+Receptor amplification results in auto-activation  
+And permanent G1 cyclin-cdk activity :
+![Pasted image 20251127013049.png](/img/user/images/Pasted%20image%2020251127013049.png)
+ow do receptor gene amplifications occur?  
+1) Aneuploidy : incorrect number of chromosomes)  
+2) Translocation: places a strong promoter in front of  
+receptor gene
+![Pasted image 20251127013117.png](/img/user/images/Pasted%20image%2020251127013117.png)
 
 
 
