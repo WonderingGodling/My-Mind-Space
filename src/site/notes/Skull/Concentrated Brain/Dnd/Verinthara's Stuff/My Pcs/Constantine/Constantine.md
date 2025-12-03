@@ -50,7 +50,7 @@ As a bonus action, you can mentally command the servant to move up to 15 feet an
 
 #### Find Familiar
 1: Create A Smiling Face Made Out Of 10 gp Worth Of Scentful, Flammable Material And Set It Ablaze. In Unison With the Now Screaming Face "The World Is Full Of The Unexpected, The Cold And The Dark." Slight Pause "There Must Be Others Who See This Truth"
-The Kindle Burns Out And Three Creatures Of Less That 1cr Emerges As A Celestial/Fae/Fiend
+The Kindle Burns Out And Three (Fresh) Corpses Of Creatures Of Less That 1cr Emerges As A Celestial/Fae/Fiend
 Then Out Of The Ashes: Familliar
 
 After The Ritual: The Familiars Act Independently But Obey Commands. While Having Their Own Combat Initiative They Cannot Attack.
