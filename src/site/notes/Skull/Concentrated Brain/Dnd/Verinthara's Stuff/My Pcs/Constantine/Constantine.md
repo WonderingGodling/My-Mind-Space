@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/verinthara-s-stuff/my-pcs/constantine/constantine/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"dg-permalink":"Constantine","permalink":"/Constantine/","title":"Connie","tags":["Tagless"],"dgShowToc":true,"noteIcon":""}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -90,8 +90,9 @@ More Time Spent On The Ritual Empowers The Styx (1d4)
 # Characteristics 
 Enter My Character: Sporting An Alligator Backpack And A Large, Light Coat, Stained Red With A Cape Like The Size Of Texas Or Just Rhode Island. Matching The Cape With Blood Red Lipstick And Eyes That Stare Daggers On The Best Of Days.
 Silvered Hair, Some Strands Are More Reminiscent Of Ash, Would Contract With Faer Dark Skin If It Weren't Covered In A Light Layer Of Some Dusty Substance (Probably Chalk—Witches Love Chalk) Oh Shoot Spoiler, This Bitch Is A Witch, A Spooky Scary One 
-As Fae Stand Now, Fae're Holding An Ivory Coin....
+As Fae Stand Now, Faer Right Hand Is In Faer Coat Pocket And The Left Is Holding An Ivory Coin....
 
+Connie Is Not Depressed Fae're Just Like That
 Whenever Fae Cast A Spell Fae Count The Seconds (Timing Is The Hardest Part For Faer)
 Will Kill People But Not Because Fae Enjoy It, That's Dumb
 Calls All Their Undead Lazarus
@@ -106,6 +107,10 @@ If Fae Have To Be Social Instinct Will Dictate Hostility
 Wears Brass Knuckles Because They Are Worried That Otherwise Punching Someone Will Break Their Hand (The Fact That They Look Cool Is A Happy Accident)
 Has Skeleton Grabby Arm
 Component Pouch Acts Like Meat Freezer
+Cracks Their Joints A Lot
+Used To Doing Everything By Faerself So Is Good In/With Nature
+7ft Tall
+
 
 Used To Be The Apprentice Of A (Locally) Famous Litch That Fae Hunted Down And Became The Apprentice Of, Sadly They Have Since Been Soul Gemed So Fae Are Now Supposed To Be The Apprentice Of Some Other Necromancer (Because They Were Threatened Into It And Didnt Want Madam-Chainsaw To Be Left Alone)
 Supportive Wicca Ghost Girlfriend
