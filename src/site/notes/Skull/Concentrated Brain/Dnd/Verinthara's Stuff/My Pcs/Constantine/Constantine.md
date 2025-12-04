@@ -6,6 +6,7 @@
 
 
 # <center><span style="color:#005426">Constantine </span></center>
+Connie
 ![Pasted image 20251202185710.png](/img/user/images/Pasted%20image%2020251202185710.png)
 
 ### Constantine Names: 
@@ -103,8 +104,10 @@ Cares For Their Lazari (Plural Of Lazarus) And Shows That Through Constantly Put
 Plays With The Ivory Coin A Lot, Knowing That Its Impossible To Lose It Makes It The Only Things That Is Truly Safe
 If Fae Have To Be Social Instinct Will Dictate Hostility
 Wears Brass Knuckles Because They Are Worried That Otherwise Punching Someone Will Break Their Hand (The Fact That They Look Cool Is A Happy Accident)
+Has Skeleton Grabby Arm
+Component Pouch Acts Like Meat Freezer
 
-Used To Be The Apprentice Of A Famous Litch But They Have Been Soul Gemed So Fae Are Now The Apprentice Of Some Other Necromancer (Because They Were Threatened Into It)
+Used To Be The Apprentice Of A (Locally) Famous Litch That Fae Hunted Down And Became The Apprentice Of, Sadly They Have Since Been Soul Gemed So Fae Are Now Supposed To Be The Apprentice Of Some Other Necromancer (Because They Were Threatened Into It And Didnt Want Madam-Chainsaw To Be Left Alone)
 Supportive Wicca Ghost Girlfriend
 	Doesnt Agree With Constantine's World Domination Kick But Is Happy Fae Have A Hobby
 

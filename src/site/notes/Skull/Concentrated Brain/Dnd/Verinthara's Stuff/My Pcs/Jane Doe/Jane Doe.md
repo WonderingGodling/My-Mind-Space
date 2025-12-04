@@ -72,7 +72,7 @@
 [[Skull/Concentrated Brain/Dnd/Terminology/Heroism\|Heroism]] Touch C
 
 1/2
-[[Skull/Concentrated Brain/Dnd/Terminology/Spiritual Weapon\|Spiritual Weapon]] B 60ft
+[[Spiritual Weapon\|Spiritual Weapon]] B 60ft
 [[Skull/Concentrated Brain/Dnd/Terminology/Prayer of Healing\|Prayer of Healing]] x 10ft v
 
 | Wis|    13 |    5 |

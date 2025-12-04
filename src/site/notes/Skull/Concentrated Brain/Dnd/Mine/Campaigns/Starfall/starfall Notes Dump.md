@@ -140,11 +140,79 @@ Write more about [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location
 		- [ ] Nat 1, Incapacitated, Face-To-Face With A Head Of A Church, In A Church, Just A Good Malice Opportunity, Wants To Eat Person
 		- [ ] Wisdom And Strength Swap
 	- [ ] Can Take Consumable Abilities
-	- [ ]  [[The Fruitless Sky\|The Fruitless Sky]]
+- [ ] [[The Fruitless Sky\|The Fruitless Sky]]
 		- [ ] Tamers
-	- [ ] Khan Doorman Sheet
-	- [ ] Short Debrief Note From Lisa To Other Scientists
-	- [ ] Goblin Astronomy Stuff
+- [ ] Khan Doorman Sheet
+- [ ] Short Debrief Note From Lisa To Other Scientists
+- [ ] Goblin Astronomy Stuff
+- [ ] Tea Tourist Merch In Hollywood
+	- [ ] Cheap Disposable Tea (Sets)
+	- [ ] Rare (Kinda Expensive) Tea Sets
+- [ ] Nearby Dragon Hoard
+	- [ ] Little (Silent) Creature Steals Stuff For Dragon Friend
+- [ ] Secret Key Riddles Puzzle
+- [ ] Write More About Qutes' "Hometown"
+- [ ] Dragon That Hoards Ex Adventures
+- [ ] Illusionist Working With Monsters To Lure The Party Into Death
+- [ ] Various Atmospheres/Skies/Climates
+- [ ] Evil Dragon
+	- [ ] Smoke Coming From Lair
+		- [ ] Not Because He Is There But Because Dragons Burn Things Sometimes
+- [ ] Old Hero Goes Crazy After A Few Loops
+	- [ ] (Just Copy Level Clear)
+	- [ ] Stays One Level Abocve Highest Level Player
+- [ ] Town On Fire
+	- [ ] Fire Is Deadly But Buildings Dont Burn
+- [ ] Man With Two Wives In Different Cities (Consentualy)
+	- [ ] Need Help Traveling
+- [ ] Child Adventuring Programmes
+- [ ] Less Societal Expectation To Have Children
+	- [ ] Smaller Families
+	- [ ] More Driven Lives (On Average)
+	- [ ] Adoption Is Popular
+- [ ] Heroic Or Just Death
+	- [ ] Less Fence-Sitting
+- [ ] Human Child Approaches Party
+	- [ ] Needs One Gold To Heal Parents (Actually A Little Less)
+	- [ ] Wants To Be A Ranger When He Grows Up
+- [ ] Woman Who Is Destined To Lose Her Hand
+- [ ] Mesmerelda
+	- [ ] Woman Who Hypotises People (Lawfuyl Good)
+- [ ] Blood Magic Stuff
+- [ ] Displacer Beast Mother And Cub
+- [ ] Exorcism/Occult Items
+- [ ] Dragon That Hoards Names
+- [ ] Hell Army Recruitment
+	- [ ] Until Death
+	- [ ] Free Food
+- [ ] Fakeout Heist
+	- [ ] Break Into High Security Place With Low Value Item
+- [ ] Spells With Triggee Phrases
+	- [ ] If Hear " " Then " "
+- [ ] Judgy Duck
+- [ ] Dragon That Deals In Telemetry
+- [ ] Reverse Ice (Fire Cubes)
+- [ ] Agressive, Secluded Old Man Serves Gross Food DC 18 Con Save
+	- [ ] Food Gives Temporary And Perminant Stat Boost If You Eat It Twice In A Row
+- [ ] Swordsman With No Sword Skills
+	- [ ] Can Be Taught For Reward And Fame
+- [ ] Spirit In Sword That Allows It To Cut Intangible Things And Bypass An Objects Slashing Immunity
+- [ ] Flying Cat That Keeps Stealing A Village's Food
+- [ ] Vermillions Poisoned Coffee Shop
+- [ ] Horse Head Statue
+	- [ ] Everyone Has To Balance It Up
+- [ ] Evil-Murderer-Guy That Gets The Group To Work For Him But Is Really Nice
+- [ ] Competing Shops That All Sell The Same Thing And Have Synonymous Names
+- [ ] Furniture Flipped Over And Superglued ToFloor
+- [ ] Wand Of Sp Eak To Animals
+- [ ] Ring Of Safety
+- [ ] Kym is wholly good and Aris is wholly evil
+	- [ ] they are the EXACT SAME GIRL split into two people
+		- [ ] prophesied that she would be born with magic far far far to unstable for her to control
+			- [ ] for safety of not only the kid and those around her a ritual was performed to split her in two
+				- [ ] two beings with less magic easier to control
+				- [ ] they didn’t know what exactly it would do but what else
+		- [ ] then after they were both dropped off at different dragon dens to keep them separated and also if it ritual failed and they were still unstable
 
 
 
