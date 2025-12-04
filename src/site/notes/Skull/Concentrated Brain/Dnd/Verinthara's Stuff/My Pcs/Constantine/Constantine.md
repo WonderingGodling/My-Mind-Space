@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"dg-permalink":"Constantine","permalink":"/Constantine/","title":"Connie","tags":["Tagless"],"dgShowToc":true,"noteIcon":""}
+{"dg-publish":true,"dg-permalink":"Constantine","permalink":"/Constantine/","title":"Connie","tags":["Tagless"],"dgShowToc":true,"noteIcon":"[[skull-svgrepo-com.svg]]"}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
-
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
+img{
+ float: right;
+}
+</style>
 
 # <center><span style="color:#005426">Constantine </span></center>
 Connie
@@ -30,7 +33,7 @@ Connie
 - Mothia
 
 ## Constantine's Rituals
-
+	
 | Wisdom | 13  | +5  |
 | ------ | --- | --- |
 
@@ -114,7 +117,7 @@ Used To Doing Everything By Faerself So Is Good In/With Nature
 
 Used To Be The Apprentice Of A (Locally) Famous Litch That Fae Hunted Down And Became The Apprentice Of, Sadly They Have Since Been Soul Gemed So Fae Are Now Supposed To Be The Apprentice Of Some Other Necromancer (Because They Were Threatened Into It And Didnt Want Madam-Chainsaw To Be Left Alone)
 Supportive Wicca Ghost Girlfriend
-	Doesnt Agree With Constantine's World Domination Kick But Is Happy Fae Have A Hobby
+​ ​‍​ ​‍​ ​‍​ ​‍Doesnt Agree With Constantine's World Domination Kick But Is Happy Fae Have A Hobby
 
 # Notes: 
 Bonus Lazarus
