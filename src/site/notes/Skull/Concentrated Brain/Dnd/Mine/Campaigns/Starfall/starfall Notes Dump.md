@@ -24,12 +24,11 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 
 - [ ] Recreate Puzzles As Spreadsheet 
 - [ ] Add More Cats And Other Animals
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Three Kobolds\|Three Kobolds]] ✘
 - [ ] Hot Npcs
 - [ ] Homestuck NPCs
  - [ ] **Go All Out For NPC Icons**
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Lightning Throw NPC\|Lightning Throw NPC]]
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Crazy King\|Crazy King]]  (Level 2), Treason, Queen Starting War
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/King Freud (Crazy King)\|King Freud (Crazy King)]]  "Treason", Queen Starting War, ExperimentS Perdormed On Him, He Was That Class Beforehand
 - [ ] [[Level 30 Warlock \|Level 30 Warlock ]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Queen\|Queen]] Level 20, Isnt A Fan Of The Gods But Can Only Disparage Heretics, Has Exclusive (Just For Her) News That Lady Death Has Moved On
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Neutral/Blakewell\|Blakewell]]
@@ -54,9 +53,9 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [x] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/High Rogue Shopkeep Sheet\|High Rogue Shopkeep Sheet]]  [completion:: 2025-07-20]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Church Vantias/Vantias\|Vantias]] 
 - [x] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town\|Hatchet Town]]  [completion:: 2025-07-20]
-Groups Of People Anonymously Giving Group S Information
+- [ ] Groups Of People Anonymously Giving Group S Information
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Farty Fuqueballs Jr Jr (Jay)\|Farty Fuqueballs Jr Jr (Jay)]]
-Write more about [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Cambrighton\|Cambrighton]] and [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Aerynthalas\|Aerynthalas]] (Local Dragon)
+- [ ] Write more about [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Cambrighton\|Cambrighton]] and [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Aerynthalas\|Aerynthalas]] (Local Dragon)
 - [ ] Write more about [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/The Underground\|The Underground]]
 - [ ] Wrighth!
 - [ ] Someone Slowly Getting Stronger Trying To Kill [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Kelannar\|Kelannar]]
@@ -72,7 +71,9 @@ Write more about [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Mixyrius\|Mixyrius]]
 	- [ ] Dies (Accident) If Not Helped
 - [ ] The God Of Rest, Short And Eternal
-- [ ] Add Orcish, Dwarvish, Abyssal, Draconic. Infernal, Elvish
+- [ ] Add A Lot Of: Gnomish, Goblin, Halfling
+	- [ ] Include: Orcish, Dwarvish, Abyssal, Draconic. Infernal, Elvish, Giant
+		- [ ] Sprinkle In Some: Celestial, Deep Speech, Primordial, Sylvan, Undercommon
 - [ ] Undercover Cop
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Pat Springleaf\|Pat Springleaf]]
 - [ ] Let Nothing Be Implied
@@ -85,10 +86,10 @@ Write more about [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location
 - [ ] Someone Important Who Knows Rumours About The Parties
 	- [ ] Karma's Boss' Boss
 - [ ] Bag Of Holding Sale
-	- [ ] Day 2 Any Major City
+	- [ ] Day 3 Any Major City
 - [ ] Mimic Town
 - [ ] Egg And Cress Sandwhich Joke
-- [ ] The Last Magic Weapon
+	- [ ] The Last Magic Weapon
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/waterside Down\|WATERSIDE DOWN]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Roque\|Roque]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]]
@@ -141,9 +142,9 @@ Write more about [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location
 		- [ ] Wisdom And Strength Swap
 	- [ ] Can Take Consumable Abilities
 - [ ] [[The Fruitless Sky\|The Fruitless Sky]]
-		- [ ] Tamers
-- [ ] Khan Doorman Sheet
-- [ ] Short Debrief Note From Lisa To Other Scientists
+	- [ ] Tamers
+	- [ ] Khan Doorman Sheet
+	- [ ] Short Debrief Note From Lisa To Other Scientists
 - [ ] Goblin Astronomy Stuff
 - [ ] Tea Tourist Merch In Hollywood
 	- [ ] Cheap Disposable Tea (Sets)
@@ -151,6 +152,8 @@ Write more about [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location
 - [ ] Nearby Dragon Hoard
 	- [ ] Little (Silent) Creature Steals Stuff For Dragon Friend
 - [ ] Secret Key Riddles Puzzle
+	- [ ] Solve Hidden Riddles To Get Parts Of A Key
+	- [ ] Bow, Shoulder, Blade, Cut (Put In A Liquid And It Comes Out The Right Shape)
 - [ ] Write More About Qutes' "Hometown"
 - [ ] Dragon That Hoards Ex Adventures
 - [ ] Illusionist Working With Monsters To Lure The Party Into Death
@@ -213,6 +216,15 @@ Write more about [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location
 				- [ ] two beings with less magic easier to control
 				- [ ] they didn’t know what exactly it would do but what else
 		- [ ] then after they were both dropped off at different dragon dens to keep them separated and also if it ritual failed and they were still unstable
+- [ ] Quest Where The Thing They Need To Deliver Is Their Reward
+	- [ ] They Dont Know That
+	- [ ] Its Like A Trust Thing
+	- [ ] Takes Longer Than A Week To Deliver To The Right Place Regularly  But Optimally Can Be Delivered Almost Immediately
+		- [ ] If They Do It Right They Get A Follow-Up Quest That Is More Rewarding (Materialistically And Personally)
+- [ ] Cyclopse
+- [ ] lolthian
+- [ ] 
+
 
 
 
