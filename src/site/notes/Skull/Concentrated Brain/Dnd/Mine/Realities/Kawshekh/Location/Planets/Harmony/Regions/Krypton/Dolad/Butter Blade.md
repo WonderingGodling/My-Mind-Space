@@ -10,6 +10,7 @@
 
 
 # <center><span style="color:#D9E989">Butter Blade</span></center>
+![Pasted image 20251206202900.png](/img/user/images/Pasted%20image%2020251206202900.png)
 Its A Really Sharp, Slippery, Stylish <s>Shard</s> Sword Made Out Of Some Yellowy Substance...Lets Just Hope Its Butter :)
 
 
