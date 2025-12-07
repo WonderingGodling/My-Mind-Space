@@ -11,7 +11,7 @@
 
 You Ever Get Those Days Where Existinng Causes Burnout? 
 I Feel Like Ive Done So Much Today But Ive Done Absoulutely [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] 
-And I Was Kinda Looking Forward To This [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Party/Party\|Party]] Tomorrow But Im Not Going Bbecause I Have A Comedy Show Im Going To Instead
+And I Was Kinda Looking Forward To This [[Branches/Group 1\|Group 1]] Tomorrow But Im Not Going Bbecause I Have A Comedy Show Im Going To Instead
 
 ETA: I Did Show Up To The End, Saw Some Old Friends
 
