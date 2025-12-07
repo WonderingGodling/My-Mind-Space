@@ -8,12 +8,90 @@
 # <center><span style="color:#000000">Hatchet Town </span></center>
 
 
-Hatchet Town (Casual Cannibalism)
-	Makes Its Prospects From Tourism, Hunting And Baking (when Possible)
+A Town Known For Casual Cannibalism
+	But It Makes Its Prospects From Tourism, Hunting And Baking (when Possible)
 Military District AC
+Home Of The Organisation Known As [[The Fruitless Sky\|The Fruitless Sky]] (Who Know About The Resets)
+
+Usually Beautiful Sunset
+Surprisingly Little Foliage
+	Possibly Removed On Purpose
+
+The Cannibalism Has Been A Thing In Recent History
+	They Started Eating People Condemned To Death 
+	They Dont Make A Big Thing Out Of It Outside Of Tourism
+
+8 Silver Jewels Under A Trap Door Under The Outside Stage
 
 
-On Moon Day Its Covered In A Dense Fog That Swallows Sound
+## Moon Day
+
+On Moon Day Its Covered In A Dense Fog, Seeping Out From Every Nook And Cranny Towards The Well 
+The Fog Swallows Light And Sound, Things That Fall In Seemingly Vanish
+Crows Can Be Heard In The Distance
+
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/The Harbinger\|The Harbinger]] Is There  And Is Reluctant To Help Anybody
+
+Players On Different Sides Of Fountain
+	Can Go Around The Town Doing Whatever
+		Most Shops Are Open But Low On Supply And Whatnot
+
+Old Inn (The Local Tavern) Has A Young Man Called Trill
+	Oned By Tavernis (Trils Father) And Trillian (Trills Mother) (Who Is Currently Out Of Town)
+	Stocked With Expensive Potions And Cheep Bread
+	Ro0ms Are 3 Silver
+
+Theres A House With: 2 Rations, Half A Cooked Bird, A Loaf Of Bread
+	
+Can Notice People Keep Flooding In To A Specific Building ([[#The Hatchet Town Hideout]])
+	Cant Enter Hideout Without Password (The Biggest Shadows Under The Brightest Stars)
+	Doorman (Khan)
+	Inside Everyone Is Wearing Wine-Red Hoodless Cloaks Which You Need In Order To Participate
+		There Are VIP Cloaks  (Red, Gold Hourglass Embroidered On It)
+		Can Get Cloaks From The Locker Room If They Have A Key
+			Can *Find* Cloaks In The Store Room, Shop, Stolen From Laundry/Lost And Found, 
+	Only The Outside Door Is Painted
+
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton\|Linton]] Giving Speech On A Stage (Surrounded By Freeze Writes)
+- Opening Speech
+	- "Thank You All For Coming Tonight! [Pauses For Applause] Yes, Yes We've All Waited So Very Long For This Momentous Occasion And Im Sure All Of You Would Love To Get Straight Out There And Do Your Thing. (Ive Heard That Some Of You Already Have). But We Do Unfortunately Have Rules That We Need To Follow So If It Shimmers With All In Attendance Lets Get To The Itinerary...."
+		- "Faith"
+	- "Lets See....The Town Has Been Secured The East Wing Has Been Checked For Goblins And Is Clear. Parlence Has Been Spread. Reminder That If You See The Cult Of The Wicked You Are To Avoid Them. This Should Be Common Knowledge But People Keep Asking Me Where They Fit Into The Plan. We Are On....What Are We On"
+		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor\|Advisor]] Hold Up Right Amount Of Fingers
+	- "We Are On [Number] Which So Far Means Nothing" [Improv From Here, Say It Mopstly Seems Like Admin Stuff And Ask If The Group Wants To Stay To Till The End]
+- "Throwing To The Floor Real Quick" And Someone From The Congregation Shouts Out
+	- "If We Fail-"
+		- "Dont. And If You Do? Dont."
+	- "What Does [Loop #] Mean For Us"
+		- "It Means Weve Just Gotten Started. Go All Out Have No Fear. Be REady To Die"
+	- No More Questions This Loop
+- "If It Shimmers Then Meeting Is Adjourned" He Holds Up His Hand
+- Call And Response: "If It Shimmers/Clouds...", "Faith"/"Fear"
+- Everyone Disperses Except For....
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor\|Fruitless Sky Advisor]]
+Cant Talk 
+Mouth Is Full Of Inky Blackness That Spills Out If She Tries To Talk
+ If Theyre Found Out: Escape Room
+- Escape Room (Initiation If Theyre Found Out)
+	- Timer Till Death
+	- Can Just Leave
+
+Magic Detection Around The Doorway To And Out The Lab
+Lisa (Astronomer For The Fruitless Sky)
+	Writing (Poorly) About The Starts In A Dark Blue Notebook
+	Doing Experiments
+	Writing Letters To The People Who Couldnt Make It To This Hideout With Equally Bad Handwritting
+Lots Of Random Since Equipment Spread Out, Monitors Temperatures, Densities, Responsiveness To Different Magic Forms
+Segments Of Monster Corpses Spread Around
+	Some Hooked Into/Between Devices
+Goblins Seem To Know About The Astronomy Stuff Better Than The Fruitless Sky Do
+	Theyre Trying To Catch Up And Predict The Goblins Next Move
+No Goblins Have Been Tamed
+
+
+
+
+
 ## Hatchet Town Hideout Rooms
 - Nook, No Exits
 - Stage, Four Exits 
