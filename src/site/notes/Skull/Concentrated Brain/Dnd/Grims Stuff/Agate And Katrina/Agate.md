@@ -12,10 +12,10 @@
 
 
 ## General
- Race:  [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin\|Geigermin]]
+ Race:  [[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/Geigermin\|Geigermin]]
  Class: [[Curse User\|Curse User]] 3
  Alignment: True Neutral
- Background:  [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Valedictorian Backgound\|Valedictorian]] 
+ Background:  [[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/Valedictorian Backgound\|Valedictorian]] 
 
 
 ## Stats
@@ -84,12 +84,12 @@ Languages: common
 # Notes: 
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Attentiveness\|Attentiveness]]
 [[Skull/Concentrated Brain/Dnd/Terminology/adrenaline rush\|adrenaline rush]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Radioactive aura\|Radioactive Aura]] 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Glowing skin\|Glowing Skin]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Melted internals\|Melted Internals]]
+[[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/Geigermin#Radioactive aura\|Radioactive Aura]] 
+[[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/Geigermin#Glowing skin\|Glowing Skin]]
+[[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/Geigermin#Melted internals\|Melted Internals]]
 pick and choose: you have learned to use your mutation in order to sustain your body even through critical injuries, you regain temp hp equal to your proficensy bonus every turn, you can also attach any limb to yourself when their is a suitable stub
 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Valedictorian Backgound#top of your class\|Top Of Your Class]]
+[[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/Valedictorian Backgound#top of your class\|Top Of Your Class]]
 Energy: 3
 Martial arts (d4)
 Cursed Energy (4)

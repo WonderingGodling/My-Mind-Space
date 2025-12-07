@@ -4,16 +4,13 @@
 
 # Atal
 
-## Day
+
 -   Athens Flooding
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Quests/Constant Quests/Lost Instrument\|Lost Instrument]]
-    
+    - Town In Gahenna Starts Being Overrrun By Living Statues
 
   
-
-## Night
-
-If With [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/4 Atal/Panda\|Panda]] On This Night They Will Try To Force You To Go To The War And Will Also Try To Convince You To Kill All Of The Monsters!
+If With [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/4 Atal/Panda\|Panda]] They Will Try To Force You To Go To The War And Will Also Try To Convince You To Kill All Of The Monsters!
 	By Joining The Battle [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/4 Atal/Panda\|Panda]] Will Level Up From 5 To 7
 	If All Of The Monsters Are Killed [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/4 Atal/Panda\|Panda]] Gets The Ability To Remember And Grow And Can Be Found Soloing The Events If 
 ### Monster War In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Aviresh/Phigdilk\|Phigdilk]]

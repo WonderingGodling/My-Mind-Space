@@ -34,7 +34,7 @@ Players On Different Sides Of Fountain
 - "If It Shimmers Then Meeting Is Adjourned" He Holds Up His Hand
 - Call And Response: "If It Shimmers/Clouds...", "Faith"/"Fear"
 - Everyone Disperses Except For....
-
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor\|Fruitless Sky Advisor]]
 Cant Talk 
 Mouth Is Full Of Inky Blackness That Spills Out If She Tries To Talk
  If Theyre Found Out: Escape Room

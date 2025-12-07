@@ -9,9 +9,9 @@
 
 
 Just Walked Passed A Homeless Guy With a Cat Which Is Honestly Genuis  
-His Cat Was This Absolutely Adorable Little Bicolour And Of Course Nobody wants Them To Starve Or Anything So Give The Man Some Money So The Kitty Can Be Happy!
+His Cat Was This Absolutely Adorable Little Bicolour And Of Course Nobody wants Them To Starve Or Anything So Give The Man Some Money So The Kitty Can Be [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Drugs/Emotion-Vial/Happy/Happy\|Happy]]!
 
-Theres A Person In Front Of [[Explicitly Showcased/Me/Me\|Me]] Who Has A Bright Pink Backpack And Is Standing Next To Someone Whos Jumper Is That Exact Shade Of Pink
+Theres A Person In Front Of [[Explicitly Showcased/Me/Me\|Me]] Who Has A Bright [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Pink/pink\|pink]] Backpack And Is Standing Next To Someone Whos Jumper Is That Exact Shade Of [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Pink/pink\|pink]]
 It Had A Kuromi Badge!!
 
 Two [[Branches/People\|People]] On My Train Just Shout-Sang "Naked Twister"  
@@ -26,9 +26,9 @@ I Was Sitting On The Floor Trying To Listen To Shit And A Group Of Girls Started
 
 
 I Just Heard Someone Piss Out About A Litre Of Liquid 
-Rare Case Of Me Using The Public Bathroom
+Rare Case Of [[Explicitly Showcased/Me/Me\|Me]] Using The Public Bathroom
 I Go In, Pee, Leave same Guy Continuously Pissing
-Hope He's Okay
+Hope He's [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]
 
 
 The Woman Who Lives Across The Road Just Turned The Corner (Walking Onto The Street), Lifted The Lid Of Our Bin,  Got In Her Car And Drove Away
@@ -39,7 +39,21 @@ I Never Mentioned That One Guy In My Maths Lecture Whi Was Dipping His Lilipop I
 
 There's A Woman At Maccies In Such A Bridesmaid Dress Its Unreal But Shes By Herself Pecking A t Fries
 
+Girls Talking About How Much They Suck At The Tests Here Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] (I Dont Know); I <b>Do</b> Know That One Of Them Has To Redo Maths
 
+Adam Wants To Make Fun Of That One Girl
+Because Reasons 
+
+Going To Bed [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Drugs/Emotion-Vial/Sad/Sad\|Sad]] Because What I Want To Do Is Play Bg3 But I Jjust Came Out Of A [[Branches/Dnd\|Dnd]] Sesh Where Everyone Kinda Feels Shitty So I Feel Like It Would Be In Pour Tase To Fuck Off And-- 
+It Would Be In *Poor Taste* To Fuck Off And Then Play A [[Branches/Dnd\|Dnd]] Inspired Videogame Until The Sun Comes Up
+
+Also If [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Moirail]] Doesnt Hate [[Explicitly Showcased/Me/Me\|Me]], Id Love To See How She Talks To The [[Branches/People\|People]] He Does Hate Because I Am Dying Every Day Out Here And I Feel Like Theyre Praying For [[Explicitly Showcased/Me/Me\|Me]] To Become A Better Person, But, Everytime They Look At [[Explicitly Showcased/Me/Me\|Me]] Im Just More Of A Wretched Facade Of Human Emotions, Slowly Crumbling Into The Nothingness That Radiates Out Of [[Explicitly Showcased/Me/Me\|Me]]
+And Im Stuck Like This.
+
+I Mean It Doesnt Help That I Feel Like Everyone Else Is Barely Tollerating [[Explicitly Showcased/Me/Me\|Me]], Except My Cow (Who Does Seem To Genuinely Enjoy Talking To [[Explicitly Showcased/Me/Me\|Me]] But Still Kinda Hates The [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Rest/Rest\|Rest]] Of My Existance) And A Few Other [[Branches/People\|People]] Who I Feel Like Theyre Just Indifferent
+Who Can Blame Them Though
+Should Change My Name To Marmite
+Or Just Kill Myself (A Very Funny Joke) To Get Out Of Everyones Way
 
 
 
