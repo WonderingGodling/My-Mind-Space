@@ -626,7 +626,7 @@ Needles
 ![](https://i.imgur.com/W1Wnbrl.png)
 Still Dont Know How I Did That
 
-Done Nothing All Day
+Done [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] All Day
 Missed Some Stuff Out- I Need To be Better At This
 
 Father Called
@@ -694,7 +694,7 @@ Ive Also Been Enjoying The McMaster's Guide To Homicide <b>Murder Your Employer<
 Headacheee
 
 Watched All The Doctor Who
-Rogue Felt Like A Classic
+[[Skull/Concentrated Brain/Dnd/Terminology/Rogue\|Rogue]] Felt Like A Classic
 And The Doctor Got Another Souvinir
 
 Kettle Threw My Power Out
@@ -702,7 +702,7 @@ Kettle Threw My Power Out
 Playing More Ring Of Pain
 Thats Going Not So Well
 
-Roo Was So Toxic Today
+[[Explicitly Showcased/People/Special Ones/Roo/Roo\|Roo]] Was So Toxic Today
 If Anything Comes Up Regarding Wednesday 164·2024· Then We Can Assume That Was That
 
 
@@ -969,6 +969,25 @@ also qa isnt working an d i cant be arsed to type so lower case (lowercase?) for
 vie responded! then nothing but thats to be expected
 assuming hes busy and staying distracted
 
+In A Documentation Sort Of Mood Right Now, So This Might Return 
+Hahaha
+
+Scheduling Thing https://www.when2meet.com/
+
+Really Been Struggling To Do Anything Recently And Its Been Driving [[Explicitly Showcased/Me/Me\|Me]] [[Skull/Spam/Crazy\|Crazy]]
+The Goal At The Moment Is To Do Some Revision 
+Also Imma Listen To The Sinners Soundtrack Later If I [[Explicitly Showcased/People/Dont Forget/Dont Forget\|Dont Forget]]
+Also Bee Struggling To Talk To [[Branches/People\|People]] And I Feel Bad About That :(
+
+Also Decided To Centre Line This
+Nope Cant Figure Out How To Not Break Everything ^^
+Also Hoping To At Some Point Re-Oranise All These Links
+Itll Be Less Labyrinthian But Itll Also Be More Usable
+
+I Picked Poor Robin Clean. I Picked Poor Robin Clean 
+I Picked His Head. I Picked His Feet. I Woulda Picked His [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] But It Wasnt Fit To Eat
+On Loop
+
 bbeen staeving in this room for like an hour and i hhave another one coming; this laptop isnt going to last until the end of the lesson
 ! speak of the devil: 10%
 it was just 20
@@ -999,6 +1018,10 @@ Why Are So Many Pictures Gone???
 Also Its August
 226·25
 Fixing My Shit
+
+Cow Is Soo Cute And Funny
+
+Gonna Add [[Skull/Concentrated Brain/Random Thoughts/Tweet\|Tweets]] One Second
 
 
 

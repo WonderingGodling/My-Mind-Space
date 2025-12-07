@@ -56,7 +56,10 @@ He Passed Out Multiple Times, Fished At One AM And Wanted To Sort Our Chests Int
 Corys Definitely A Light Player; I Dont Know If Hes A Watcher Though; I Think Hes A Spiral Or Maybe The Web (Do Spiders Need To Manipulate <b>[[Branches/People\|People]]</b> Or Can They Have Fun With It?)
 
 
-
+i have gained a new child
+  
+![Image](https://media.discordapp.net/attachments/1074997897923395606/1412837479685292032/PXL_20250903_173027766.MV.jpg?ex=68bbb930&is=68ba67b0&hm=c5f03a89d0c06c2096e2cb225dfe1e8865566b138223300e987f5ef33779eb0f&=&format=webp&width=237&height=315)
+also pictured: the result of me entirely losing the will to continue to fight the losing battle that is keeping my room clean
 
 
 
