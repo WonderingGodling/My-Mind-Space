@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/terminology/fey-touched/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/terminology/fey-touched/","tags":["Tagless"]}
 ---
 
 Your exposure to the Feywild's magic has changed you, granting you the following benefits:

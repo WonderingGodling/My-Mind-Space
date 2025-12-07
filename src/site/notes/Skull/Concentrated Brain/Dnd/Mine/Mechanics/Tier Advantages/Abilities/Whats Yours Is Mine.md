@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/mechanics/tier-advantages/abilities/whats-yours-is-mine/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/mechanics/tier-advantages/abilities/whats-yours-is-mine/","tags":["Tagless"]}
 ---
 
 

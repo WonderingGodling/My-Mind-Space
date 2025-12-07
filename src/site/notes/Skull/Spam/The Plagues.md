@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/spam/the-plagues/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/spam/the-plagues/","tags":["Tagless"]}
 ---
 
 I send a pestilence and plague

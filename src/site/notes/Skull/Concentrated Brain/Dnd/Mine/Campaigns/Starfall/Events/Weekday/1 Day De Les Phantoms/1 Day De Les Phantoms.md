@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/1-day-de-les-phantoms/1-day-de-les-phantoms/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/1-day-de-les-phantoms/1-day-de-les-phantoms/","tags":["Tagless"]}
 ---
 
 # 1 Day De Les Phantoms

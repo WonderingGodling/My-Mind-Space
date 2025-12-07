@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/terminology/coiling-grasp-tattoo/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/terminology/coiling-grasp-tattoo/","tags":["Tagless"]}
 ---
 
 Produced by a special needle, this magic tattoo has long intertwining designs.

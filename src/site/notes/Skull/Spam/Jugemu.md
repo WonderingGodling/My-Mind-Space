@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/spam/jugemu/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/spam/jugemu/","tags":["Tagless"]}
 ---
 
 Jugemu Jugemu (寿限無 寿限無)

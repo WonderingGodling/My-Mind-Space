@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/grims-stuff/attentiveness/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/grims-stuff/attentiveness/","tags":["Tagless"]}
 ---
 
 # Attentiveness- Quinn

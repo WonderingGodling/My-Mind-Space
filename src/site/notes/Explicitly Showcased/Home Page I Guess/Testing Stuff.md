@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/testing-stuff/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/testing-stuff/","tags":["Tagless"]}
 ---
 
 

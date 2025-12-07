@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/branches/kawshekh-campaign/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/branches/kawshekh-campaign/","tags":["Tagless"]}
 ---
 
 

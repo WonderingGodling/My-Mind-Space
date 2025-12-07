@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/1/4-bm-017-biomedical-basis-of-disease/dumb-fuck-off-powerpoint/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/uni/1/4-bm-017-biomedical-basis-of-disease/dumb-fuck-off-powerpoint/","tags":["Tagless"]}
 ---
 
 

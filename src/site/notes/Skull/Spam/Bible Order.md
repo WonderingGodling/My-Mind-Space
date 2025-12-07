@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/spam/bible-order/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/spam/bible-order/","tags":["Tagless"]}
 ---
 
 Old Testament

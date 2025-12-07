@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/spam/the-language-of-flowers/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/spam/the-language-of-flowers/","tags":["Tagless"]}
 ---
 
 

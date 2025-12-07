@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Honey","permalink":"/Honey/","title":"Honey","hideInGraph":true,"tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"dg-permalink":"Honey","permalink":"/Honey/","title":"Honey","hideInGraph":true,"tags":["Tagless"]}
 ---
 
 ![desktop-wallpaper-best-honey-in-high-quality-honey-backgrounds-honey-bee.jpg](/img/user/images/desktop-wallpaper-best-honey-in-high-quality-honey-backgrounds-honey-bee.jpg)
