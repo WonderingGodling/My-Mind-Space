@@ -14,7 +14,7 @@
 
 
 ## S
-Fun Facts: [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Aris\|Aris]] Presses Flowers, [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Karma]] Injects Assassinated Peoples Blood
+Fun Facts: [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Aris]] Presses Flowers, [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma]] Injects Assassinated Peoples Blood
 
 Karma Tosses Gold Coin Into Well, No Noise, It Just Goes Poof
 Harbinger Leads Them To The Hideout
