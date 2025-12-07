@@ -85,9 +85,9 @@ endurance master
 last stand
 Adrenaline Rush
 
-[[Skull/Concentrated Brain/Dnd/Missy's Stuff/Geigermin#Radioactive aura\|Radioactive aura]] 
-[[Skull/Concentrated Brain/Dnd/Missy's Stuff/Geigermin#Glowing skin\|Glowing skin]]
-[[Skull/Concentrated Brain/Dnd/Missy's Stuff/Geigermin#Melted internals\|Melted internals]]
+[[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/Geigermin#Radioactive aura\|Radioactive aura]] 
+[[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/Geigermin#Glowing skin\|Glowing skin]]
+[[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/Geigermin#Melted internals\|Melted internals]]
 
 Energy: 12
 Martial arts (d8)
