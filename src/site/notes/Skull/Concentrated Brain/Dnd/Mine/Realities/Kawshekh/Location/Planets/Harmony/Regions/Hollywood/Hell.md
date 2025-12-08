@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/hollywood/hell/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/hollywood/hell/","tags":["Tagless"]}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -28,7 +28,7 @@ Known For Its Good Times And Bad People Or Perhaps Its Good Times **With** Bad P
 
 ### Day 1
 Very Busy Streets As People Try To Get Back To Their Homes Or To Work Or Whatever
-- King (Zeliaphus) Calling Poeple In To Their Palace And They Dont Come Out
+- [[Zeliaphus\|Zeliaphus]] (Hell's Supreme) Calling Poeple In To Their Palace And They Dont Come Out
 	- Nothing Bad Happens
 - "Hear Ye! Last Weeks Miss Hollywood Has Been Voided!"
 	- Most Of The Contestants Found Cheating
@@ -49,6 +49,18 @@ Very Busy Streets As People Try To Get Back To Their Homes Or To Work Or Whateve
 - Metal Armour Is Low Price
 - Inn A Silver A Night
 
+### Day 2
+- Emil Is Having Someone Cheap Come And Add Protection Spells TO Her Place
+	- Black Carvings On The Handle, Decorated With Stars And Swirls
+	- Keep Door Locked -> When Touch Door If (Owner Open) (Not Owner Zap) 
+		- Fault Points:
+		- Door= Oared, Draw, Dore
+		- Owner = Knower
+		- Not= Knot
+			- Door Opens If You Are "The Knower"
+			- Get Electrocuted If You Tie Or Fuck Emil
+	- "Usually More Expensive"
+	- "As Long As You People Dont Go In I Dont Care"
 
 
 

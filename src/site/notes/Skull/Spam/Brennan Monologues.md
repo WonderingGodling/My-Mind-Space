@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/spam/brennan-monologues/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/spam/brennan-monologues/","tags":["Tagless"]}
 ---
 
 In the same way your heart feels and your mind thinks, you, mortal beings, are the instrument by which the universe cares. If you choose to care, then the universe cares. If you don't, then it doesn't.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/spam/magpie-number-rhyme/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/spam/magpie-number-rhyme/","tags":["Tagless"]}
 ---
 
 One for sorrow,

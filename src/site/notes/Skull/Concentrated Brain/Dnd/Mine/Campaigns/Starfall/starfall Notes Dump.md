@@ -155,6 +155,8 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Solve Hidden Riddles To Get Parts Of A Key
 	- [ ] Bow, Shoulder, Blade, Cut (Put In A Liquid And It Comes Out The Right Shape)
 - [ ] Write More About Qutes' "Hometown"
+	- [ ] 1. they have some semi famous candy producers there and it was one of the few things that made her happy when she first arrived hence why she obsessed around it so much to learn how to basically master a form of focused magic to just create candy
+	- [ ] oh and want the town to have a animal mascot
 - [ ] Dragon That Hoards Ex Adventures
 - [ ] Illusionist Working With Monsters To Lure The Party Into Death
 - [ ] Various Atmospheres/Skies/Climates
@@ -168,6 +170,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Fire Is Deadly But Buildings Dont Burn
 - [ ] Man With Two Wives In Different Cities (Consentualy)
 	- [ ] Need Help Traveling
+	- [ ] Calls Everyone "Prince(ss)"
 - [ ] Child Adventuring Programmes
 - [ ] Less Societal Expectation To Have Children
 	- [ ] Smaller Families
@@ -226,6 +229,14 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Wright Doesnt Reset Ever
 - [ ] Bees Festival Food +20 Temp Health
 - [ ] Write Stuff About Unicorns
+- [ ] Imprisonment
+	- [ ] Thunderstorm
+		- [ ] Can Only See When Thunder Flashes
+	- [ ] Arms Chained To Wall
+	- [ ] Metal Mouth Guard Preventing Speech
+	- [ ] Door And Chains And Stuff Only There When They Are
+		- [ ] Resets On Moon Day
+- [ ] Qutes to lose one of her arms at so point
 
 
 

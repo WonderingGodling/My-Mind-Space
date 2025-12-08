@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/spam/and-you-can-quote-me-on-that/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/spam/and-you-can-quote-me-on-that/","tags":["Tagless"]}
 ---
 
 In the void you're either food for Alioth or you work for her. 
