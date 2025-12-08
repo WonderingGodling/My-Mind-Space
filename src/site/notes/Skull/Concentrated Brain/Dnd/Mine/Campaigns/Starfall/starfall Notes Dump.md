@@ -57,7 +57,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Farty Fuqueballs Jr Jr (Jay)\|Farty Fuqueballs Jr Jr (Jay)]]
 - [ ] Write more about [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Cambrighton\|Cambrighton]] and [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Aerynthalas\|Aerynthalas]] (Local Dragon)
 - [ ] Write more about [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/The Underground\|The Underground]]
-- [ ] Wrighth!
+- [ ] [[Misc For Now/Wrighth Index\|Wrighth Index]]!
 - [ ] Someone Slowly Getting Stronger Trying To Kill [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Kelannar\|Kelannar]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Sylinser\|Sylinser]]
 - [ ] More "Awake" Characters
