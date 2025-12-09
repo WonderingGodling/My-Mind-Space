@@ -20,6 +20,16 @@
 
 ![Sera.png](/img/user/images/Sera.png)
 
+
+owns and runs some famous restaurant but no one know because they'd think it's weird
+some weird headless guy who has a different body every week makes the best food in the region
+Best Chef In Hollywood
+Popup Restaurant
+
+
+
+
+
 ##### Bee Vision Rules
 Takes 1 Minute Of Focused Arcana Condensing To Change Sense Methods
 

@@ -57,7 +57,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Farty Fuqueballs Jr Jr (Jay)\|Farty Fuqueballs Jr Jr (Jay)]]
 - [ ] Write more about [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Cambrighton\|Cambrighton]] and [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Aerynthalas\|Aerynthalas]] (Local Dragon)
 - [ ] Write more about [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/The Underground\|The Underground]]
-- [ ] [[Misc For Now/Wrighth Index\|Wrighth Index]]!
+- [ ] [[Wrighth Stuff/Wrighth Index\|Wrighth]]
 - [ ] Someone Slowly Getting Stronger Trying To Kill [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Kelannar\|Kelannar]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Sylinser\|Sylinser]]
 - [ ] More "Awake" Characters
@@ -106,6 +106,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] House Map
 - [ ] Statue Of A Horned Paladin With His Sword Embedded In The Floor
 	- [ ] Is Dragon Defence
+		- [ ] Dragon Defence Statue Hostile To Grims Characters
 - [ ] Ghost Somewhere
 - [ ] Robots
 - [ ] Tea Tourist Merch In Hollywood
@@ -237,6 +238,15 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Door And Chains And Stuff Only There When They Are
 		- [ ] Resets On Moon Day
 - [ ] Qutes to lose one of her arms at so point
+- [ ] Fight Where Guy Can Hit For A Lot Of D4 Attacks And Has One Huge Attack That Cant Kill
+- [ ] Dungeon With Three Paths (Two Locked By Puzzles)
+	- [ ] AnsWers Are AT The End Of Previous Path
+- [ ] Make Comic Mischief Illegal Somewhere
+- [ ] Rose Garden
+- [ ] New Song Playing Somewhere 
+	- [ ] (The Same Every Time)
+- [ ] Reasons For Moon Day
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Stories Behind The Stars\|Stories Behind The Stars]]
 
 
 

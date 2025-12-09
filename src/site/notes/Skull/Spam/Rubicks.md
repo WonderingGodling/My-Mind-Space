@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/spam/rubicks/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/skull/spam/rubicks/","tags":["Tagless"]}
 ---
 
 the rubiks cube has been solved faster and faster every year since it came out, and it wont be long before they can solve it in negative time, enabling people to travel back in time using the rubiks cube, the maker of the rubiks cube Mattel intends to use that to travel back in time to when they manufactured them, and the ones they have already sold, they will take those from the past, bring them into the present so they can sell them at 100% profit, the problem with this is its great for capitalism but that additional weight of all those rubiks cubes will shatter the earths mantle, causing the Yellowstone volcano, to super volcano erupt, which is going to send the entire world into a volcanic winter that could last a century or more, so our solution is were gonna create the robuks cube which is a lightweight alternative to the rubiks cube, that lighter weight might not shatter the earths mantle and we can solve it faster, we can travel back in time before Mattel, get the rubiks cubes, go back to the Jurassic era put them in space and they will replace the meteor

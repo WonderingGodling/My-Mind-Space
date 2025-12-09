@@ -16,7 +16,13 @@
 
 
 
+Kymsira was born with wild magic in her veins. a rare, unstable power that surged out of her even as an infant. Lights would flicker around her. Objects would float, then explode. People were afraid. So, someone left her high in the mountains, far from cities and any civilization.  Wrapped in violet cloth, she was placed near the lair of an ancient amethyst dragon named Aerynthalas. It wasn’t a death sentence. It was a gamble. that the dragon would understand her when no one else could. And He did.
 
+ Aerynthalas is a dragon that is strange but wise. He studies the multiverse, magic, and the mind. When Aerynthalas found the baby crackling with unpredictable arcane energy, he didn’t destroy her. He was intrigued. To him, wild magic wasn’t chaos. It was a puzzle. A window into something deeper. He took her into his lair, a shining cave filled with crystals that hummed with power and psionic echoes. He shielded her from the world, and from herself, until she could learn to control it. 
+
+Kymira grew up not among drow, but among floating gems and ancient thoughts. She learned to be calm. Focus. How to think before casting. And how to ride the storm inside her instead of letting it break her. Still, the magic was always wild. Beautiful. Dangerous. As she learned to hone her magic Aerynthalas gifted her the powers of his people. The gift of flight and his acid breath, this was a display of accepting her as his daughter. 
+
+At the dawn of her 18th birthday Aerynthalas advised her she should leave the lair to experience mortal life. Telling her that, while her life span is longer, she is still mortal and should have the memories of one. But he told her when she was ready to come back he would be waiting there with open wings. So, armed with her knowledge and a single purple dragon scale she set off to experience the world. Now Kym works as a simple tavern maiden. Waiting for some grand adventure that she can tell the tales of to Aerynthalas when she finally sees him again
 
 
 ###### Weakness Modifiers

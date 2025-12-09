@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/fucking-kill-me/cell-fractionation-practical-report/","tags":["Tagless"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/uni/fucking-kill-me/cell-fractionation-practical-report/","tags":["Tagless"]}
 ---
 
 
