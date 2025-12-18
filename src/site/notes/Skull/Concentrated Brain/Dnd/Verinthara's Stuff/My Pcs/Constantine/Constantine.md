@@ -79,14 +79,14 @@ After The Ritual: The Bones Create A Small Shield That Orbits The Target  Of The
 #### Inflict Wounds
 1: Bite Thumb, The Sound Of Broken Bones Reverberates Throughout The [Area] Place Hand In Component Pouch, Pull Out Some Bat Teeth, A Hand Full Of Dust And A Flower Petal
 2: "This Might Hurt A Bit" Then Crush The Components By Hand
-The Next Creature Touched Suffers Necrosis Taking 3d10 Necrotic Damage
+The Next Creature Touched Suffers Necrosis Taking 4d10 Necrotic Damage
 More Time Put Into This Ritual Necrotises The Creature More (1d10)
 
 #### Acid Stream
 1: Mortar And Pestle A Heart Into Paste, Add Spit
 2: Use As Lipstick (Not Necessary, There Is Just A Lot Of Downtime Right Here), "Styx Calls Your Name", Pour The Mixture Onto The Floor, The Mixture Keeps Pouring  And As The Stream Grows Screams And Wails Seep Out More And More Until It Floods Across A Five-By-Thirty ft Area For A Minute And The Sounds Stop Dead
 
-After The Ritual: Each Creature Caught In The Flood Must Be Dexterous Enough To Not Succumb To The Styx, If They Do They Must Remove Its Remnants From Either Themselves Or Their Companion To Stop It From Eating Away From Them (3d4 Acid At The Start Of Its Turn)
+After The Ritual: Each Creature Caught In The Flood Must Be Dexterous Enough To Not Succumb To The Styx, If They Do They Must Remove Its Remnants From Either Themselves Or Their Companion To Stop It From Eating Away From Them (4d4 Acid At The Start Of Its Turn)
 
 More Time Spent On The Ritual Empowers The Styx (1d4)
 
