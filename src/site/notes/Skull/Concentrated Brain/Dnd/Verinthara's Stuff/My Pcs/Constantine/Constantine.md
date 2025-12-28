@@ -92,7 +92,7 @@ More Time Spent On The Ritual Empowers The Styx (1d4)
 
 # Characteristics 
 Enter My Character: Sporting An Alligator Backpack And A Large, Light Coat, Stained Red With A Cape Like The Size Of Texas Or Just Rhode Island. Matching The Cape With Blood Red Lipstick And Eyes That Stare Daggers On The Best Of Days.
-Silvered Hair, Some Strands Are More Reminiscent Of Ash, Would Contract With Faer Dark Skin If It Weren't Covered In A Light Layer Of Some Dusty Substance (Probably Chalk—Witches Love Chalk) Oh Shoot Spoiler, This Bitch Is A Witch, A Spooky Scary One 
+Silvered Hair, Some Strands Are More Reminiscent Of Ash, Would Contrast With Faer Dark Skin If It Weren't Covered In A Light Layer Of Some Dusty Substance (Probably Chalk—Witches Love Chalk) Oh Shoot Spoiler, This Bitch Is A Witch, A Spooky Scary One 
 As Fae Stand Now, Faer Right Hand Is In Faer Coat Pocket And The Left Is Holding An Ivory Coin....
 
 Connie Is Not Depressed Fae're Just Like That
@@ -123,3 +123,57 @@ Supportive Wicca Ghost Girlfriend
 Bonus Lazarus
 ![Pasted image 20251202185723.png](/img/user/images/Pasted%20image%2020251202185723.png)
 the bones of werebeasts, they are inherently resistant to damage so the bonedust would scrap off without damaging the actual structure in the same way drawing with chalk would do
+
+### Description
+
+#### Hair 
+- Long And Messy
+- Silvered Hair
+	- Some Strands Are More Ashy
+![Pasted image 20251228175833.png](/img/user/images/Pasted%20image%2020251228175833.png)
+- Doesnt Cover Faer Eyes
+#### Face:
+- Blood Red Lipstick 
+- Might Be Incapable Of Smiling
+- Small Crack Under Left Eye
+- Looks "Normal"
+##### Eyes:
+- Blood Red	
+- Stare Daggers
+- Mostly Emotes Through Faer Eyes
+![Pasted image 20251228174809.png](/img/user/images/Pasted%20image%2020251228174809.png)
+![Pasted image 20251228180326.png](/img/user/images/Pasted%20image%2020251228180326.png)
+![Pasted image 20251228180701.png](/img/user/images/Pasted%20image%2020251228180701.png)
+
+#### body:
+- 8ft Tall
+- Proportionately Long Arms And Legs
+	- Skinny
+![Pasted image 20251228182725.png](/img/user/images/Pasted%20image%2020251228182725.png)
+- Very Dark Skin
+- Decomposed Flesh And Bones
+	- Spread Throughout The Upper Body
+	- No Organs
+![Pasted image 20251228181653.png](/img/user/images/Pasted%20image%2020251228181653.png)
+![Pasted image 20251228181706.png](/img/user/images/Pasted%20image%2020251228181706.png)
+All The References I Can Find Are Split Down The Middle
+- Wings Made Out Of Ghosts
+- No Breasts Because No Chest
+- Horse Cock 
+- Bottom Heavy 
+
+#### clothing:
+- Alligator Backpack On The Floor By Faer Feet
+- No Shirt
+- No Shoes
+- Knee-Length Skirt
+- Bone Crown
+
+#### extra: 
+- Flipping An Ivory Coin With A Skull On One Side
+- Brass Knuckles With Vampire Teeth
+
+#### pose:
+- One Hand On A Table
+- One Foot On A Chair
+	- Like Theyre Ready To Climb Over The Table Angrily

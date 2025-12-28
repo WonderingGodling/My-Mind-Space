@@ -247,6 +247,36 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] (The Same Every Time)
 - [ ] Reasons For Moon Day
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Stories Behind The Stars\|Stories Behind The Stars]]
+- [ ] Branching Paths Quest
+	- [ ] Wrong Paths Lead You Back To A Previous Branch
+	- [ ] Maybe Add Snakes As A Snakes And Ladders Joke
+- [ ] Magic Item Lets You Cast Twop Spells At Once 
+	- [ ] First Spell Is Cast That Turn
+	- [ ] Second Spell Is Cast Next Turn
+- [ ] Seperate Soul Summoning And Soul Messaging Artifacts
+- [ ] Male (Gay) Demon And Demon Royal Guards
+- [ ] Hivemind
+	- [ ] Villain 
+	- [ ] Gains Powers Of People It Minds
+- [ ] Teleporter Whos Too Chill And A Little Annoying
+- [ ] Really Brutal, Hard Fight Thats Not Real
+	- [ ] Some Telepath They Piss Off Trying To Mind Kill Them
+	- [ ] They Can Do Impossible Shit
+- [ ] Possession
+- [ ] Pyramid Scheme
+- [ ] Someone Brings A Gun To A Fist Fight
+- [ ] Punishment Pit
+	- [ ] Discarded Needles Knives And Stuff
+- [ ] Parachute Umbrella
+- [ ] Hatchet Town Stuff
+- [ ] Surrounding Stuff
+- [ ] Day One Stuff
+- [ ] Evuil Stuff
+- [ ] Whwere to Send Them Direction Wise
+- [ ] "Hot Singles In Your Area" News Add
+	- [ ] Fire Elemental Dating Group
+- [ ] Mimicry Stuff
+- [ ] Anti Teleport Stuff
 
 
 
