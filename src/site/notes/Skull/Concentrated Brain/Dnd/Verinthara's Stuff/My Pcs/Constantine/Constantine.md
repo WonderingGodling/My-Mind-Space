@@ -11,7 +11,9 @@ img{
 # <center><span style="color:#005426">Constantine </span></center>
 Connie
 ![Pasted image 20251202185710.png](/img/user/images/Pasted%20image%2020251202185710.png)
-
+Bonus Lazarus
+![Pasted image 20251202185723.png](/img/user/images/Pasted%20image%2020251202185723.png)
+Bonus Lazarus
 ### Constantine Names: 
 - Barter 
 - Lola-Pop 
@@ -119,9 +121,7 @@ Used To Be The Apprentice Of A (Locally) Famous Litch That Fae Hunted Down And B
 Supportive Wicca Ghost Girlfriend
 ​ ​‍​ ​‍​ ​‍​ ​‍Doesnt Agree With Constantine's World Domination Kick But Is Happy Fae Have A Hobby
 
-# Notes: 
-Bonus Lazarus
-![Pasted image 20251202185723.png](/img/user/images/Pasted%20image%2020251202185723.png)
+# Notes
 the bones of werebeasts, they are inherently resistant to damage so the bonedust would scrap off without damaging the actual structure in the same way drawing with chalk would do
 
 ### Description
