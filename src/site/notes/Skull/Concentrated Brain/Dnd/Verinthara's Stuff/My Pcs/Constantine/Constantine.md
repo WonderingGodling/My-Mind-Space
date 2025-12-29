@@ -206,7 +206,7 @@ More Comfortable With Less Flesh But Likes Being More Than Bones
 	- On Bar Counter Next To Faer Foot
 - Brass Knuckles With Vampire Fangs Sticking Out Of Them
 - Broken Skull In A Blood Pool Nearby
-- Floating Glass Of Wine Being Poured Behind Her
+- Floating Glass Of Wine Being Poured Behind Her 
 
 #### pose:
 - Stepping Onto The Bar Counter To Shout At Everyone
