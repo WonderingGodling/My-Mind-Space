@@ -130,6 +130,8 @@ the bones of werebeasts, they are inherently resistant to damage so the bonedust
 - Long And Messy
 - Silvered Hair
 	- Some Strands Are More Ashy
+![Pasted image 20251229185231.png](/img/user/images/Pasted%20image%2020251229185231.png)
+![Pasted image 20251229185223.png](/img/user/images/Pasted%20image%2020251229185223.png)
 ![Pasted image 20251228175833.png](/img/user/images/Pasted%20image%2020251228175833.png)
 - Doesnt Cover Faer Eyes
 #### Face:
@@ -137,9 +139,18 @@ the bones of werebeasts, they are inherently resistant to damage so the bonedust
 - Might Be Incapable Of Smiling
 - Small Crack Under Left Eye
 - Looks "Normal"
+Rough Shape:
+![Pasted image 20251229185255.png](/img/user/images/Pasted%20image%2020251229185255.png) ![Pasted image 20251229185302.png](/img/user/images/Pasted%20image%2020251229185302.png)
+
+
+Teeth:
+![Pasted image 20251229184738.png](/img/user/images/Pasted%20image%2020251229184738.png)
+![Pasted image 20251229184731.png](/img/user/images/Pasted%20image%2020251229184731.png)
+
 ##### Eyes:
 - Blood Red	
 - Stare Daggers
+	- Angry Eyes
 - Mostly Emotes Through Faer Eyes
 ![Pasted image 20251228174809.png](/img/user/images/Pasted%20image%2020251228174809.png)
 ![Pasted image 20251228180326.png](/img/user/images/Pasted%20image%2020251228180326.png)
@@ -149,6 +160,8 @@ the bones of werebeasts, they are inherently resistant to damage so the bonedust
 - 8ft Tall
 - Proportionately Long Arms And Legs
 	- Skinny
+	- Bottom Heavy
+![Pasted image 20251229185200.png](/img/user/images/Pasted%20image%2020251229185200.png)
 ![Pasted image 20251228182725.png](/img/user/images/Pasted%20image%2020251228182725.png)
 - Very Dark Skin
 - Decomposed Flesh And Bones
@@ -156,24 +169,40 @@ the bones of werebeasts, they are inherently resistant to damage so the bonedust
 	- No Organs
 ![Pasted image 20251228181653.png](/img/user/images/Pasted%20image%2020251228181653.png)
 ![Pasted image 20251228181706.png](/img/user/images/Pasted%20image%2020251228181706.png)
+![Pasted image 20251229185329.png](/img/user/images/Pasted%20image%2020251229185329.png)
 All The References I Can Find Are Split Down The Middle
 - Wings Made Out Of Ghosts
 - No Breasts Because No Chest
 - Horse Cock 
+	- Thick And Goes To Just Above Her Knee
+![Pasted image 20251229185414.png](/img/user/images/Pasted%20image%2020251229185414.png)
 - Bottom Heavy 
+- Fingers Taper Into Black Claws 
+
 
 #### clothing:
 - Alligator Backpack On The Floor By Faer Feet
 - No Shirt
 - No Shoes
 - Knee-Length Skirt
+	- Falred
+	- Black 
+	- Repeating Skull PPattern
+		- Dark Red (White Stained By Dried Blood)
+![Pasted image 20251229185436.png](/img/user/images/Pasted%20image%2020251229185436.png) ![Pasted image 20251229185447.png](/img/user/images/Pasted%20image%2020251229185447.png)
+
 - Bone Crown
+- Socks Soaked In Blood
 
 #### extra: 
-- Flipping An Ivory Coin With A Skull On One Side
+-  Ivory Coin With A Skull On One Side Facing Up
+	- On Bar Counter
 - Brass Knuckles With Vampire Teeth
+- Skull In A Blood Pool Nearby
+- Floating Drink Being Poured By Her Hea
 
 #### pose:
-- One Hand On A Table
-- One Foot On A Chair
-	- Like Theyre Ready To Climb Over The Table Angrily
+- Stepping Onto The Bar Counter To Shout At Everyone People
+	- Outside Leg Up So You Can See Faer Upper Leg/Thigh And The Skirts ridge Is Higher Then Their Penis
+![Pasted image 20251229185042.png](/img/user/images/Pasted%20image%2020251229185042.png)
+![Pasted image 20251229185034.png](/img/user/images/Pasted%20image%2020251229185034.png)
