@@ -130,9 +130,9 @@ the bones of werebeasts, they are inherently resistant to damage so the bonedust
 ![Pasted image 20251229185231.png](/img/user/images/Pasted%20image%2020251229185231.png)
 ![Pasted image 20251229185223.png](/img/user/images/Pasted%20image%2020251229185223.png)
 ![Pasted image 20251228175833.png](/img/user/images/Pasted%20image%2020251228175833.png)
-- Doesnt Cover Faer Eyes
+Doesnt Cover Faer Eyes
 #### Face:
-- Blood Red Lipstick 
+- Wears Blood As Lipstick To Match Faer Eyes (#d00009)
 - Might Be Incapable Of Smiling
 - Small Crack Under Left Eye
 - Looks "Normal"
@@ -146,16 +146,19 @@ Teeth:
 
 ##### Eyes:
 - Blood Red	
+	- Slightly Glowy
 - Stare Daggers
 	- Angry Eyes
 - Mostly Emotes Through Faer Eyes
+- Vertical Slit Eyes
+- Eye Bags
 ![Pasted image 20251228174809.png](/img/user/images/Pasted%20image%2020251228174809.png)
 ![Pasted image 20251228180326.png](/img/user/images/Pasted%20image%2020251228180326.png)
 ![Pasted image 20251228180701.png](/img/user/images/Pasted%20image%2020251228180701.png)
 
 #### body:
 - 8ft Tall
-- Proportionately Long Arms And Legs
+- Disproportionately Long Arms And Legs
 	- Skinny
 	- Bottom Heavy
 ![Pasted image 20251229185200.png](/img/user/images/Pasted%20image%2020251229185200.png)
@@ -168,38 +171,45 @@ Teeth:
 ![Pasted image 20251228181706.png](/img/user/images/Pasted%20image%2020251228181706.png)
 ![Pasted image 20251229185329.png](/img/user/images/Pasted%20image%2020251229185329.png)
 All The References I Can Find Are Split Down The Middle
+More Comfortable With Less Flesh But Likes Being More Than Bones
 - Wings Made Out Of Ghosts
+![Pasted image 20251229220343.png](/img/user/images/Pasted%20image%2020251229220343.png)
+![Pasted image 20251229220825.png](/img/user/images/Pasted%20image%2020251229220825.png)
+![Pasted image 20251229222210.png](/img/user/images/Pasted%20image%2020251229222210.png)
 - No Breasts Because No Chest
 - Horse Cock 
 	- Thick And Goes To Just Above Her Knee
 ![Pasted image 20251229185414.png](/img/user/images/Pasted%20image%2020251229185414.png)
+![Pasted image 20251229231551.png](/img/user/images/Pasted%20image%2020251229231551.png)
 - Bottom Heavy 
 - Fingers Taper Into Black Claws 
 
 
 #### clothing:
-- Alligator Backpack On The Floor By Faer Feet
 - No Shirt
 - No Shoes
+	- Yes Socks
+		- Calf-High
+		- Gap Between Socks And Skirt
 - Knee-Length Skirt
-	- Falred
+	- Flared
 	- Black 
-	- Repeating Skull PPattern
+	- Repeating Skull Pattern Along The Bottom
 		- Dark Red (White Stained By Dried Blood)
 ![Pasted image 20251229185436.png](/img/user/images/Pasted%20image%2020251229185436.png) ![Pasted image 20251229185447.png](/img/user/images/Pasted%20image%2020251229185447.png)
-
 - Bone Crown
+![Pasted image 20251229224326.png](/img/user/images/Pasted%20image%2020251229224326.png)
 - Socks Soaked In Blood
 
 #### extra: 
 -  Ivory Coin With A Skull On One Side Facing Up
-	- On Bar Counter
-- Brass Knuckles With Vampire Teeth
-- Skull In A Blood Pool Nearby
-- Floating Drink Being Poured By Her Hea
+	- On Bar Counter Next To Faer Foot
+- Brass Knuckles With Vampire Fangs Sticking Out Of Them
+- Broken Skull In A Blood Pool Nearby
+- Floating Glass Of Wine Being Poured Behind Her
 
 #### pose:
-- Stepping Onto The Bar Counter To Shout At Everyone People
+- Stepping Onto The Bar Counter To Shout At Everyone
 	- Outside Leg Up So You Can See Faer Upper Leg/Thigh And The Skirts ridge Is Higher Then Their Penis
 ![Pasted image 20251229185042.png](/img/user/images/Pasted%20image%2020251229185042.png)
 ![Pasted image 20251229185034.png](/img/user/images/Pasted%20image%2020251229185034.png)
