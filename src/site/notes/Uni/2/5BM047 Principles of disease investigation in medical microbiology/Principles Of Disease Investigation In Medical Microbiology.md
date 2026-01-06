@@ -86,9 +86,9 @@ Fungi are responsible for 1.5 million annual fatalities and have infected 1/3 of
 - Most are multicellular & filamentous.
 - A few are single cellular (yeasts)
 - Are divided into three major groups
-	✓ Multicellular filamentous moulds.
-	✓ Macroscopic filamentous fungi such as Mushrooms
-	✓ Single celled microscopic yeasts.
+	- Multicellular filamentous moulds.
+	- Macroscopic filamentous fungi such as Mushrooms
+	- Single celled microscopic yeasts.
 
 ### Fungal cell wall structure
 Most fungal cell wall comprises of polysaccharides (chitin, β-glucan, mannan), lipid-phosphate- protein, protease and melanin.
@@ -106,11 +106,11 @@ Most fungal cell wall comprises of polysaccharides (chitin, β-glucan, mannan), 
 
 #### Virulence
 - A complex interplay between fungal virulence factors and host defence factors will determine whether a fungal infection will cause a disease.
-o Infection also depends on inoculum size and the immunity of the host
-o Ability to adhere to host cells.
-o Produce capsules that allow them to resist phagocytosis.
-o Ability to acquire iron from red blood cells as in Candida albicans.
-o Ability to damage host cells by secreting enzymes such as keratinase, elastase, collagenase Ability to resist killing by phagocytes as in dimorphic fungi.  
+	- Infection also depends on inoculum size and the immunity of the host
+	- Ability to adhere to host cells.
+	- Produce capsules that allow them to resist phagocytosis.
+	- Ability to acquire iron from red blood cells as in Candida albicans.
+	- Ability to damage host cells by secreting enzymes such as keratinase, elastase, collagenase Ability to resist killing by phagocytes as in dimorphic fungi.  
 - Ability to secrete mycotoxins.  
 - Exhibiting thermal dimorphism.  
 - Ability to block the cell-mediated immune defences of the host.
@@ -126,10 +126,8 @@ o Ability to damage host cells by secreting enzymes such as keratinase, elastase
 - Mycelium - this is the web or mat-like structure of hyphae Impact of moulds on human health
 - Symptoms may be mild or severe
 - Symptoms include congestion, coughing, wheezing, shortness of breath (asthma-like symptoms or asthma), watering or sore eyes, skin irritation or headaches.
-- Some types of moulds release mycotoxins e.g Aflatoxins, which can be
-absorbed by the skin or inhaled into the lungs.
-- Long-term exposure to mycotoxins can result in pulmonary fibrosis, various
-cancers, kidney damage etc
+- Some types of moulds release mycotoxins e.g Aflatoxins, which can be absorbed by the skin or inhaled into the lungs.
+- Long-term exposure to mycotoxins can result in pulmonary fibrosis, various cancers, kidney damage etc
 
 ### Mushrooms or toadstools
 - Grow by producing a mycelium below ground.
@@ -142,33 +140,29 @@ cancers, kidney damage etc
 - Facultative anaerobes.
 - Reproduce either asexually (most common) or sexually.
 - Asexual reproduction is through budding or binary fission.
-- Sometimes yeast cells can form chains together resembling true hyphae but these
-are called pseudohyphae
+- Sometimes yeast cells can form chains together resembling true hyphae but these are called pseudohyphae
 - Yeasts such as Saccharomyces play an important role in the production of bread and in brewing alcohol.
-- Yeasts are also one of the most widely used model organisms for genetic studies, eg in
-cancer research.
-- Yeast like Candida sp. are opportunistic pathogens and cause infections such as candidiasis and thrush.
-Yeasts colonies resemble bacterial colonies in appearance and in consistency.
+- Yeasts are also one of the most widely used model organisms for genetic studies, eg in cancer research.
+- Yeast like Candida sp. are opportunistic pathogens and cause infections such as candidiasis and thrush. Yeasts colonies resemble bacterial colonies in appearance and in consistency.
 - Yeast can be identified in the lab by their ability to assimilate and ferment various carbon sources and to utilize nitrate as a source of nitrogen.
 
 ### Dimorphic fungi
-- These are fungi which exhibit a filamentous mycelial morphology (saprophytic phase)
-when grown at room temperature 27ᴼC, but have a typical yeast morphology (parasitic
-phase) inside the body and when grown at 37ᴼC in the laboratory (e.g. Histoplasmosis).
+These are fungi which exhibit a filamentous mycelial morphology (saprophytic phase)
+when grown at room temperature 27ᴼC, but have a typical yeast morphology (parasitic phase) inside the body and when grown at 37ᴼC in the laboratory (e.g. Histoplasmosis).
 
 ### Terms used in colonial morphology of yeast and filamentous fungi
 ![Pasted image 20251109235604.png](/img/user/images/Pasted%20image%2020251109235604.png)
 
 ### Fungal infection (mycoses)
-✓ Superficial mycoses infection is limited to the outer surface of hair shafts, skin shafts and nails e.g. Tinea versicolor, Black Piedra, White Piedra
-✓ Cutaneous mycoses - Is the most common fungal infection.
-o It extends deeper into the epidermis, and can include invasive hair and nail disease e.g
-Dermatophytosis
-✓ Subcutaneous mycoses- these are caused by saprophytic fungi which are unable to penetrate the skin.
-o Often introduced into the subcutaneous tissue by a puncture wound that has been contaminated with soil e.g. Chromoblastomamycoses
-o Nodules > Become ulcer > Protrude out of skin > Pus Containing drainage
-✓ Systemic (deep) mycoses due to primary pathogens originate primarily in the lungs and may spread to many organ systems e.g Blastomycosis
-✓ Opportunistic mycoses due to opportunistic pathogens are infections of patients with immune deficiencies
+- Superficial mycoses infection is limited to the outer surface of hair shafts, skin shafts and nails e.g. Tinea versicolor, Black Piedra, White Piedra
+- Cutaneous mycoses - Is the most common fungal infection.
+- It extends deeper into the epidermis, and can include invasive hair and nail disease e.g
+#### Dermatophytosis
+- Subcutaneous mycoses- these are caused by saprophytic fungi which are unable to penetrate the skin.
+	- Often introduced into the subcutaneous tissue by a puncture wound that has been contaminated with soil e.g. Chromoblastomamycoses
+	- Nodules > Become ulcer > Protrude out of skin > Pus Containing drainage
+- Systemic (deep) mycoses due to primary pathogens originate primarily in the lungs and may spread to many organ systems e.g Blastomycosis
+- Opportunistic mycoses due to opportunistic pathogens are infections of patients with immune deficiencies
 
 ### Diagnosis of fungal infections
 - Microscopy using lactophenol cotton blue (LCB) wet mount preparation.
@@ -183,8 +177,7 @@ o Nodules > Become ulcer > Protrude out of skin > Pus Containing drainage
 ### Treatment of fungal infections
 #### Polyenes
 - Include Amphotericin B, Nystatin and Natamycin
-- These bind directly to the ergosterol in fungal cell membrane causing leakage and
-cell death
+- These bind directly to the ergosterol in fungal cell membrane causing leakage and cell death
 - Can also bind to cholesterol of mammalian cell but at a lower affinity
 - Toxic at higher therapeutic concentrations
 - Have poor gut absorption
@@ -249,8 +242,7 @@ cell death
 - Sometimes are seen can live as mucosal commensal
 #### C. parapsilosis
 - Can produce both yeast & pseudohyphae in culture
-- These are commonly associated with septicemia in neonates, catheter associated
-candidaemia,
+- These are commonly associated with septicemia in neonates, catheter associated candidaemia
 - Niche: skin & environment
 #### C. krusei  
 - Can grow as a yeast & pseudohyphae  
@@ -281,10 +273,8 @@ Infections occur in predisposed individuals
 #### Nail infection 
 ##### Paronychia and Onychomycosis
 ###### Paronychia
-nail inflammation that may result from trauma,
-irritation or infection.
-- It usually develops when Candida enters broken skin near the
-cuticle and nail fold
+nail inflammation that may result from trauma, irritation or infection.
+- It usually develops when Candida enters broken skin near the cuticle and nail fold
 - Risk factors include nail biting/cuticle, working with water
 ###### Onychomycosis
 fungal infection of the nail unit.
@@ -292,14 +282,14 @@ fungal infection of the nail unit.
 - Fungal nail infections are frequent in the adult population
 
 ##### Diagnosis and treatment
-Sample type
+###### Sample type
 - Scraping or Clippings
 - Microscopy and culture 1 to 5 days
-Treatment
+###### Treatment
 - Paronychia - Topical creams (home remedies)
 - Onychomycosis - topical creams of imidazole or terbinafine for 1-3 weeks
-✓ Oral treatment with Itraconazole or terbinafine is 80% more effective
-✓ Treatment takes long because of slow growth of the nail
+- Oral treatment with Itraconazole or terbinafine is 80% more effective
+- Treatment takes long because of slow growth of the nail
 
 #### Tinea pedis - interdigital candidiasis
 - Frequent in people who wear closed shoes regularly, sweat heavily, walk barefoot in infested areas
@@ -308,8 +298,7 @@ Treatment: Miconazole, Terbinafine
 
 ### Mucosal Candida infections
 #### Mucosal candidiasis
-- Main aetiological agent is C.albicans but C. glabrata is also a cause which are usually
-resident flora of the vaginal area.
+- Main aetiological agent is C.albicans but C. glabrata is also a cause which are usually resident flora of the vaginal area.
 - Caused by an imbalance of pH, hormones in the genital area
 - Risk factors include - Pregnancy, diabetes, poor hygiene
 - It is frequently recurring
