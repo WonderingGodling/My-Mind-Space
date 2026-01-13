@@ -32,7 +32,7 @@ able to pull out lolipops whenever she wants
 new family to has staged that she is a product of the reincarnation church and it just went a bit weird and thats why she doesn't actually know much about the world (her way of explaining why it seems she has been here for a year or two) so she normally goes to each church of them she finds and leaves a offering mostly just to keep her lie going but also as a 'your cool have this'
 
 Okay First Question Is How Much Will She Actually Know About The Church
-Knows more than a surface level Information About [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/The Church Of Second Chances\|The Church Of Second Chances]]
+Knows more than a surface level Information About [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Church Of Second Chances\|The Church Of Second Chances]]
 she could give trivia but not all that much compared to a cleric
 
 Other Than Genocide Cube Explicitly Having Dragged Her There, Theres No Reason Why She Couldnt Have Been Reincarnated

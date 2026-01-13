@@ -5,26 +5,64 @@
 
 # Group S
 Time: Sunset
-In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town\|Hatchet Town]], Stumble Upon An Organisation (The Fruitless Sky) That Knows About The Resets
-Dense Fog Seeping Out From Every Nook And Cranny, Reaches The Well And Spouts Up
-	The Fog Eats Loud Noise Or Bright Lights
-	A Few Crow Calls Heard In The Distance
-[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/The Harbinger\|The Harbinger]] Is There 
-Players On Different Sides Of Fountain
-	Can Go Around The Town Doing Whatever
-		Most Shops Are Open But Low On Supply And Whatnot
-	Can Notice People Keep Flooding Into This Building ([[#The Hatchet Town Hideout]])
-		Cant Enter Building Without Password (The Biggest Shadows Under The Brightest Stars)
-	Inside Everyone Is Wearing Wine-Red Hoodless Cloaks Which You Need In Order To Participate
-		Can Get Cloaks From The Locker Room If They Have A Key
-			Can *Find* Cloaks In The Store Room, Shop, Stolen From Laundry/Lost And Found, 
-[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton\|Linton]] Giving Speech
-- Opening Speech
-	- "Thank You All For Coming Tonight! [Pauses For Applause] Yes, Yes We've All Waited So Very Long For This Momentous Occasion And Im Sure All Of You Would Love To Get Straight Out There And Do Your Thing. (Ive Heard That Some Of You Already Have). But We Do Unfortunately Have Rules That We Need To Follow So If It Shimmers With All In Attendance Lets Get To The Itinerary...."
-		- "Faith"
-	- "Lets See....The Town Has Been Secured The East Wing Has Been Checked For Goblins And Is Clear. Parlence Has Been Spread. Reminder That If You See The Cult Of The Wicked You Are To Avoid Them. This Should Be Common Knowledge But People Keep Asking Me Where They Fit Into The Plan. We Are On....What Are We On"
-		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor\|Advisor]] Hold Up Right Amount Of Fingers
-	- "We Are On [Number] Which So Far Means Nothing" [Improv From Here, Say It Mopstly Seems Like Admin Stuff And Ask If The Group Wants To Stay To Till The End]
+- Dense Fog Seeping Out From Every Nook And Cranny, Reaches The Well And Spouts Up
+	- The Fog Eats Loud Noise Or Bright Lights
+	- Well Water Inflicts Poison And Short-Term Memory Loss
+	- A Few Crow Calls Heard In The Distance
+Karma, Sena, Aris In Hatchet Town
+- Karma Tosses Coin Into Well
+	- No Noise, Just Goes Poof
+- Harbinger Leads Them To The Hideout
+- Karma Tries To Trick The Doorman ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Khan Doorman\|Khan]]) And Fails
+	- Being Watched By Someone
+- Eventually Shoots Then Charms [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Khan Doorman\|Khan]] 
+	- Khan Becomes Friendly And Suggestable
+		- Lets Them In
+	- Khan Goes Off To Get <span style="color:rgb(75, 236, 19)">VIP Cloaks</span>
+- Karma Says She's A Hunter Khan Responds "Are You One Of The Tamers?"
+- Khan Panics When Told About The Fog "Being Weakened"
+- Spawned A Cloak Room
+- Aris Says She Lost Her Cloak
+- Sena Tells Khan To Get Her A Cloak
+- People Start Leaving
+- Sena Opens The Door Into The Cloak Room, Mostly Empty
+	- Last Guy In The Cloak Room Meran (Self Important)
+- Sena Demands Someone Gets Her A Cloak
+	- Fails Intimidation Check And Gets Gusted To The Floor
+- Karma Fails To Talk Meran Down
+- Another Gust Of Wind Knocks Everyone But Karma And Meran Over
+	- Khan Had To Get The Third Cloak Special
+- They Leave And Reinvestigate The Well
+- Then They Start Killing Each Other While Harbinger Watches
+- They Team Up On Aris, Knock Her Out And Force Her Into The Well
+- Aris Passes Out For Ten Minutes
+- They Argue For A While
+- Aris Finds A Building (The Local Inn) With A Person (Trill) Looking After His Dads Place
+Back In The Hideout
+- Theres A Girl (Lisa) Writing About Stars In A Notebook For The Fruitless Sky
+	- Tells KArma Not To Touch Anytthing Because Its All Sensitive And/Or Dangerous
+	- Mentions Of Goblins Stuff And Hints Towards The Goblins Knowing The Star Stuff
+- Aris Finds A Trap Door In The Outside Stage With 8 Silver Jewels Under It
+- Karma Tries To Kill Linton
+- Linton Gets Stuck On A Write
+	- Advisor Helps Out
+- Karma Gets Knocked Out By An Eldritch Blast
+- Karma Gets Stripped Of Her Cloak And Dumped Outside
+	- Harbinger Watches All Of This
+- Aris And Sena Converse About The General Situation
+- Owner Of The Inn (Tavernis) Finds Karma And Takes Her In
+
+
+
+
+
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton\|Linton]] Giving Speech
+	- Opening Speech
+		- "Thank You All For Coming Tonight! [Pauses For Applause] Yes, Yes We've All Waited So Very Long For This Momentous Occasion And Im Sure All Of You Would Love To Get Straight Out There And Do Your Thing. (Ive Heard That Some Of You Already Have). But We Do Unfortunately Have Rules That We Need To Follow So If It Shimmers With All In Attendance Lets Get To The Itinerary...."
+			- "Faith"
+		- "Lets See....The Town Has Been Secured The East Wing Has Been Checked For Goblins And Is Clear. Parlence Has Been Spread. Reminder That If You See The Cult Of The Wicked You Are To Avoid Them. This Should Be Common Knowledge But People Keep Asking Me Where They Fit Into The Plan. We Are On....What Are We On"
+			- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor\|Advisor]] Hold Up Right Amount Of Fingers
+		- "We Are On [Number] Which So Far Means Nothing" [Improv From Here, Say It Mopstly Seems Like Admin Stuff And Ask If The Group Wants To Stay To Till The End]
 - "Throwing To The Floor Real Quick" And Someone From The Congregation Shouts Out
 	- "If We Fail-"
 		- "Dont. And If You Do? Dont."
@@ -33,14 +71,21 @@ Players On Different Sides Of Fountain
 	- No More Questions This Loop
 - "If It Shimmers Then Meeting Is Adjourned" He Holds Up His Hand
 - Call And Response: "If It Shimmers/Clouds...", "Faith"/"Fear"
-- Everyone Disperses Except For....
-[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor\|Fruitless Sky Advisor]]
-Cant Talk 
-Mouth Is Full Of Inky Blackness That Spills Out If She Tries To Talk
+- Everyone Disperses Except For.... [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor\|Fruitless Sky Advisor]]
+
  If Theyre Found Out: Escape Room
 - Escape Room (Initiation If Theyre Found Out)
 	- Timer Till Death
-	- Can Just Leave
+	- Just Wait It Out
+
+- Tamers
+
+- A Girl (Lisa) Writing About Stars In A Notebook For The Fruitless Sky
+- Lisa Has Bad Handwritting
+- Wants People To Not Touch Anytthing Because Its All Sensitive And/Or Dangerous
+- Magic Detection By The Lab Doors
+- Passively Studying Monster Corpse Stuff
+	- Mentions Of Goblins Stuff And Hints Towards The Goblins Knowing The Star Stuff
 
 [Minigames]
 [Key Item]
@@ -48,14 +93,14 @@ Mouth Is Full Of Inky Blackness That Spills Out If She Tries To Talk
 
 Lil Assistant [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Mezs'tae\|Mezs'tae]] 
 
-Cloaks- Full HP (Cooldown), Cant Have Negative Modiers In The Hideout, Disadvantage On Deception If Both Parties Are Wearing The Cloak
 Books That Increase Int By Two For The Night
 Rewards For Permanent Evil And Proof Of Fucking Up The Main Groups
+
 
 ## The Hatchet Town Hideout
 Bigger On The Inside And Different Each Loop (Depending On Actions Taken)
 ### Hatchet Town Hideout Rooms
-Outside Rooms Have Cats
+
 - Nook, No Exits
 - Stage, Four Exits 
 	- "On Touch Freeze" Wrighth Surrounding The Perimeter Of The Stage Except The The Back By The Curtain
@@ -131,8 +176,7 @@ Outside Rooms Have Cats
 - Tomb, None
 - Walk In Closet
 -  Escape Room (Initiation If Theyre Found Out)
-	- Timer Till Death
-	- Can Just Leave
+
 
 # Other Groups
 Time: Sunset

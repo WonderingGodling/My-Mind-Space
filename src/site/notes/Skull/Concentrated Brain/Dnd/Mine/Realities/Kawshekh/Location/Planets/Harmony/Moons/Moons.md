@@ -12,10 +12,14 @@
 
 
 
-
+Rouge (Clockwise) And Ciel (Anticlockwise) Are Both Full Moons And Overlap On Moon Day
+One Of The Reasons Moon Day Is So Cool
+It Looks Like Daytime And The Moons Are Out!
 ## Ciel
+Clockwise
 
 ## Rouge
+Anticlockwise
 
 
 

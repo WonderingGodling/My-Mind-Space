@@ -990,11 +990,26 @@ Cow Is Soo Cute And Funny
 Gonna Add [[Skull/Concentrated Brain/Random Thoughts/Tweet\|Tweets]] One Second
 
 
+Evolved To-Do List:
+- [ ] Evolve Antid Twice, Get Fanatasism
+- [ ] Pacifist Run
+- [ ] Sharkin → Ent → Fanatasism 
+- [ ] Purchase All Cities
+- [ ] 99 Supercoliders
+- [ ] Shrromi → Trolls → Fanatasism → Internet
+- [ ] 200 Morale
+- [x] Seize All Cities
+- [ ] Re-Do Acievements On Higher Challege DIfficulites
 
 
+OkAy Thia Stop Procrastinating
+Uni Work Time
+The Fact That Khechara Hasnt Marked Anything :)
 
+Hopelessly Hopeful
+Soul Eater Soundtrack
 
-
+Literaly Doing Nothing :)
 
 
 

@@ -14,19 +14,19 @@
 
 
 ## S
-Fun Facts: [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Aris]] Presses Flowers, [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma]] Injects Assassinated Peoples Blood
+Fun Facts: [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Aris\|Aris]] Presses Flowers, [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]] Injects Assassinated Peoples Blood
 
 Karma Tosses Gold Coin Into Well, No Noise, It Just Goes Poof
 Harbinger Leads Them To The Hideout
 Karma Tries To Trick The Doorman (Khan), Fails, (Is Being Watched By Someone)
-	Eventually Shoots Then Charms The Doorman, Gets Let In By The Doorman
+	Eventually Shoots Then Charms The Doorman, Becomes Friendly And Suggestable Gets Let In By The Doorman
 Reception, Lots Of Chairs, People Wearing Cloaks And Chatting
 Khan Goes Off To Get <span style="color:rgb(75, 236, 19)">VIP Cloaks</span> (Red, Gold Hourglass Embroidered On It)
 Karma Says She's A Hunter Khan Responds "Are You One Of The Tamers?"
 Khan Panics When Told About The Fog "Being Weakened"
 Spawned 2 Cloak Rooms (East And West), Conference Room Prespawned (North)
 Aris Says She Lost Her Cloak
-Sena Tells Khan To Get Her A Cl0oak
+Sena Tells Khan To Get Her A Cloak
 People Start Leaving
 Sena Opens The Door Into The Cloak Room, Mostly Empty
 	Demands Someone (Meran, Self Important) Gets Her A Cloak
@@ -34,7 +34,6 @@ Sena Opens The Door Into The Cloak Room, Mostly Empty
 	Karma Fails To Talk Meran Down
 	Another Gust Of Wind Knocks Everyone But Karma And Meran Over
 Khan Had To Get The Third Cloak Special
-The Doors Arent Painted
 They Leave And Reinvestigate The Well, Then Start Killing Each Other While Harbinger Watches, They Team Up On Aris, Knock Her Out And Force Her Into The Well
 Aris Passes Out For Ten Minutes
 They Argue For A While

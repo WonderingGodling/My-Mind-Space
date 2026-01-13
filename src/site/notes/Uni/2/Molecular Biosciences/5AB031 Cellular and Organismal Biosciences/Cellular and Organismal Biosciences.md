@@ -9,11 +9,11 @@
 </style>
 
 
-# <center><span style="color:#FEDCBA"></span></center>
+# <center><span style="color:#A0DF6A">Cellular and Organismal Biosciences</span></center>
 
 
-The Plant Extracellular Matrix
-Introduction
+## The Plant Extracellular Matrix
+### Introduction
 - All plant species are covered by the plant cell wall
 that forms a single continuous extracellular matrix
 (ECM) throughout the body of the plant (See Figure 1)
@@ -296,15 +296,15 @@ which suggest their involvement in cell-cell recognition
 and communication events.
 Mannose containing
 polysaccharides
---GlucomannansGlucomannans – Major hemicellulosic– Major hemicellulosic
+--GlucomannansGlucomannans     - Major hemicellulosic    - Major hemicellulosic
 component of secondary gymnosperm cell walls.component of secondary gymnosperm cell walls.
 Component of angiosperm secondary cell walls.Component of angiosperm secondary cell walls.
-- GalactomannansGalactomannans – Storage polysaccharide– Storage polysaccharide
+- GalactomannansGalactomannans     - Storage polysaccharide    - Storage polysaccharide
 in angiosperm seed endosperm.in angiosperm seed endosperm.
-- GlucuronomannansGlucuronomannans – Found in small– Found in small
+- GlucuronomannansGlucuronomannans     - Found in small    - Found in small
 amounts in wide range of cell walls. Function(s)amounts in wide range of cell walls. Function(s)
 unclear.unclear.
--- Pure mannansPure mannans – Only found in cell walls of– Only found in cell walls of
+-- Pure mannansPure mannans     - Only found in cell walls of    - Only found in cell walls of
 seed endosperms and cotyledons. Able to formseed endosperms and cotyledons. Able to form
 very hard,crystalline structures e.g. Date seeds.very hard,crystalline structures e.g. Date seeds.
 -Mannose is a cell wall constituent found
@@ -332,10 +332,10 @@ Pi = pith, fi = fibre, co = cortex, ep = epidermis.
 (Handford, Baldwin(Handford, Baldwin et alet al, 2003), 2003)
 PhD student:
 Chen Wen
-• Ranks sixth in terms of global pulse crop production.
-• Food crop in developing countries.
-• Animal feeding in industrialised area.
-• High protein (20-41%) content.
+- Ranks sixth in terms of global pulse crop production.
+- Food crop in developing countries.
+- Animal feeding in industrialised area.
+- High protein (20-41%) content.
 The agronomic importance of Vicia
 faba.
 China is the largest producer
@@ -392,7 +392,7 @@ Amorphophallus konjac
 - Nutraceutical
 No claim Health claim Drug claim
 “Let food be thy medicine and medicine be thy food.”
-– Hippocrates (400 B.C.)
+    - Hippocrates (400 B.C.)
 Use of konjac as functional food in
 Traditional Chinese Medicine (TCM)
 - First recorded as a disease-curing herb in Shen Nong’s
@@ -425,7 +425,7 @@ KGM
 Growth cycle
 (All images by courtesy of Chua F.Y.)
 Dormant corm (with offsets)
-(October – March) Anthesis (April)
+(October     - March) Anthesis (April)
 Corm with shoot
 emergence (April-May)
 Fully developed leaves
@@ -462,7 +462,7 @@ Journal of Ethnopharmacology 128, p 268-278.
 Chua M; Chan K; Hocking T.J; Williams P.A; Perry C.J. and Baldwin T.C.
 (2012). Methodologies for the extraction and analysis of konjac glucomannan
 from corms of Amorphophallus konjac K.Koch. Carbohydrate Polymers 87,
-p. 2202 – 2210.
+p. 2202     - 2210.
 Chua M; Hocking T.J; Chan K. and Baldwin T.C. (2013) Developmental regulation
 of glucomannan deposition in corms of Amorphophallus konjac. American
 Journal of Botany 100, p 337 - 345
@@ -491,7 +491,7 @@ receptors.
 molecules
 Structure of ECM:
 - Fibers: collagen and elastin, which provide strength and flexibility.
-- Proteoglycans: protein – saccharide complexes.
+- Proteoglycans: protein     - saccharide complexes.
 - Adhesive glycoproteins: ‘glue’ cells and ECM, e.g. fibronectin and laminin.
 Connective Tissues
 A histological classification:
@@ -536,7 +536,7 @@ Lys and Pro residues.
 - A lack of vitamin C prevents hydroxylation
 -> impaired fibril formation (scurvy).
 - Processed pro-peptides assemble in to
-triple – helical pro-collagen.
+triple     - helical pro-collagen.
 - Golgi: Disulphide bonds form btwn the N-
 and C- termini of procollagen.
 -After exocytosis, N- and C-termini are
@@ -644,27 +644,27 @@ Gram positive Cell Wall
 &
 Outer Membrane
 Walls and Envelopes
-• ENVELOPE
-• ALL structures that ENVELOP the cytoplasm
-• cell membrane
-• cell wall
-• WALL
-• ALL structures external to the cell membrane
-• Shape and “Rigidity”
-• Interaction with environment
-• Surface properties of Cells and Colonies
-• Broad Divisions
-• Gram positive
-• Gram negative
-• Others
-• Mycoplasmas - no cell walls
-• Archea (Archebacteria) - pseudo-peptidoglycan
-• Mycobacteria - waxy outer membrane lipids
-• Morphology
-• Naked Eye
-• Cells too small - colonies visible
-• Colonial morphology depends on cell surface
-• Gram Negative Cells
+- ENVELOPE
+- ALL structures that ENVELOP the cytoplasm
+- cell membrane
+- cell wall
+- WALL
+- ALL structures external to the cell membrane
+- Shape and “Rigidity”
+- Interaction with environment
+- Surface properties of Cells and Colonies
+- Broad Divisions
+- Gram positive
+- Gram negative
+- Others
+- Mycoplasmas - no cell walls
+- Archea (Archebacteria) - pseudo-peptidoglycan
+- Mycobacteria - waxy outer membrane lipids
+- Morphology
+- Naked Eye
+- Cells too small - colonies visible
+- Colonial morphology depends on cell surface
+- Gram Negative Cells
 a) Smooth Colony surface, even or uniform distribution
 in broth
 b) Rough Colony surface, clumped or granular
@@ -675,67 +675,67 @@ Rough colonies of gram negative bacteria
 Smooth colonies of
 gram negative
 bacteria
-• Smooth strains
-• complete lipopolysaccharide (LPS)
-• highly virulent
-• resist phagocytosis - hydrophilic surface
-• resist hydrophobic antibiotics
-• Rough strains
-• incomplete lipopolysaccharide (LPS)
-• non virulent
-• hydrophobic surface phagocytosed
-• sensitive to antibiotics
+- Smooth strains
+- complete lipopolysaccharide (LPS)
+- highly virulent
+- resist phagocytosis - hydrophilic surface
+- resist hydrophobic antibiotics
+- Rough strains
+- incomplete lipopolysaccharide (LPS)
+- non virulent
+- hydrophobic surface phagocytosed
+- sensitive to antibiotics
 Microscopic characterisation
-• Light Microscopy
-• Gram stain & Cell wall Stain - No detail
-• Scanning Electron Microscopy
-• High magnification surface detail
-• Transmission Electron Microscopy
-• Internal structure
+- Light Microscopy
+- Gram stain & Cell wall Stain - No detail
+- Scanning Electron Microscopy
+- High magnification surface detail
+- Transmission Electron Microscopy
+- Internal structure
 Farra, W.E. et al. 1995 Infectious Diseases CD. Mosby InternationalGram stain
-• From TEM
-• Gram Positive
+- From TEM
+- Gram Positive
 Thick cell wall, single layer +/- banding
-• Gram negative
+- Gram negative
 Thin cell wall, triple layer structure
-• Further detail from Chemical analysis
+- Further detail from Chemical analysis
 Brock Microbiology of Microorganisms 1997 Prentice-Hall
-• Wall component Gram positive Gram negative Fungal
-• Peptidoglycan + + + -
-• Teichoic acid + + - -
-• Teichuronic acid +/- - -
-• Chitin - - + +
-• Mannan & glucan - - +
-• Protein + + + +
-• Lipopolysaccharide - + + -
-• Lipid + + + +
-• Capsule +/- +/- +/-
-• Fimbriae +/- +/- +/-
-• Flagella +/- +/- +/-
-• Thickness 20 - 50 nm 10 - 20 nm
+- Wall component Gram positive Gram negative Fungal
+- Peptidoglycan + + + -
+- Teichoic acid + + - -
+- Teichuronic acid +/- - -
+- Chitin - - + +
+- Mannan & glucan - - +
+- Protein + + + +
+- Lipopolysaccharide - + + -
+- Lipid + + + +
+- Capsule +/- +/- +/-
+- Fimbriae +/- +/- +/-
+- Flagella +/- +/- +/-
+- Thickness 20 - 50 nm 10 - 20 nm
 Gram Positive Cell Envelope
 Pelczar et al 1993 Microbiology: Concepts and Applications McGraw-Hill
 Lipo-teichoic acid
 Gram Positive Cell Envelope
-• Peptidoglycan (Murien - Mucopeptide)
-• Unique to prokaryotes
-• Shape and rigidity of cell
-• 50% to 80% of wall dry weight
-• Heteropolysaccharide “backbone” with tetra-
+- Peptidoglycan (Murien - Mucopeptide)
+- Unique to prokaryotes
+- Shape and rigidity of cell
+- 50% to 80% of wall dry weight
+- Heteropolysaccharide “backbone” with tetra-
 peptide side chains
-• “Backbone” chain from amino-sugars
-• Basic repeating unit
-• Linear 40 to 50 repeat units
-• 500 for autolysin -ve mutants
+- “Backbone” chain from amino-sugars
+- Basic repeating unit
+- Linear 40 to 50 repeat units
+- 500 for autolysin -ve mutants
 Gram Positive Cell Envelope
-• Peptidoglycan
-• Peptide side chains
-• penta-peptide during synthesis
-• terminal D-Ala lost when cross linked
-• 30% - 40% cross link - strength / rigidity
-• Cross link indirect
-• penta-glycine bridge
-• 70% - 60% covalent links other wall
+- Peptidoglycan
+- Peptide side chains
+- penta-peptide during synthesis
+- terminal D-Ala lost when cross linked
+- 30% - 40% cross link - strength / rigidity
+- Cross link indirect
+- penta-glycine bridge
+- 70% - 60% covalent links other wall
 components
 H2
 H2
@@ -749,22 +749,22 @@ have 2 NH2 groups
 ß-1,4 glycosidic bond
 penicillin
 lysozyme
-• Teichoic acid - ONLY in Gram +ve
-• Glycan and lipoglycan polymers
-• phosphate diester bonds in basic repeating
+- Teichoic acid - ONLY in Gram +ve
+- Glycan and lipoglycan polymers
+- phosphate diester bonds in basic repeating
 unit
-• 50% of cell wall dry weight
-• Covalently linked to peptide side chain
-• Lipoteichoic acid
-• Hydrophobic bond to cell membrane
-• Very Strong -ve charge
-• Attract & control Mg2+ and Ca2+ to CM
+- 50% of cell wall dry weight
+- Covalently linked to peptide side chain
+- Lipoteichoic acid
+- Hydrophobic bond to cell membrane
+- Very Strong -ve charge
+- Attract & control Mg2+ and Ca2+ to CM
 n = 20 - 30
 Function of Teichoic Acids
-• Temperature sensitive teichoic acid mutant of
+- Temperature sensitive teichoic acid mutant of
 Bacillus sp.
-• At 20OC teichoic acid formed normally
-• At 42OC teichoic acid synth blocked
+- At 20OC teichoic acid formed normally
+- At 42OC teichoic acid synth blocked
 Teichoic acid contributes to shape
 20OC 42OC
 Function of Teichoic Acids
@@ -772,14 +772,14 @@ Low Mg2+
 Non-septate filament
 High Mg2+
 Rod
-•XS teichoic acid (in response to Mg depletion)
-•Rods grow but do not form cross walls
-• Teichuronic acid
-• Similar to teichoic acid but NO phosphate
-• Only when medium low on phosphate
-• Releases phosphate for essential roles
-• Function as for teichoic acid
-• Both also serve as surface antigens and phage receptors
+-XS teichoic acid (in response to Mg depletion)
+-Rods grow but do not form cross walls
+- Teichuronic acid
+- Similar to teichoic acid but NO phosphate
+- Only when medium low on phosphate
+- Releases phosphate for essential roles
+- Function as for teichoic acid
+- Both also serve as surface antigens and phage receptors
 Gram negative Cell Wall
 &
 Outer Membrane
@@ -794,9 +794,9 @@ Glutamic acid is a di-carboxylic amino acid.
 It contains 2 COOH groups.
 DAP is a di-amino amino acid.
 It contains 2 NH2 groups.
-• Bayer’s Points of Attachment
-• 200 to 400 per cell surface
-• Translocation of wall / envelope components
+- Bayer’s Points of Attachment
+- 200 to 400 per cell surface
+- Translocation of wall / envelope components
 Gram -ve Outer Membrane
 Outer Membrane Peptidoglycan
 Cytoplasm
@@ -804,17 +804,17 @@ Periplasmic space
 Cell membrane Points of
 attachment
 Gram -ve Outer Membrane
-• Composition
-• Protein 56%
-• Phospholipid 24%
-• Lipopolysaccharide 21%
-• Composition
-• Outer leaflet
-• Protein 42%
-• Lipopolysaccharide 59%
-• Inner leaflet
-• Protein 47%
-• Phospholipid 53%
+- Composition
+- Protein 56%
+- Phospholipid 24%
+- Lipopolysaccharide 21%
+- Composition
+- Outer leaflet
+- Protein 42%
+- Lipopolysaccharide 59%
+- Inner leaflet
+- Protein 47%
+- Phospholipid 53%
 Inner leaflet
 Outer
 leaflet
@@ -830,151 +830,151 @@ polysacch
 aride
 chain
 Gram -ve Outer Membrane
-• Lipopolysaccharide: Function
-• Structural
-• removal = cell wall destruction / cell lysis
-• Receptor
-• O-antigen chain: immunoglobulins
-• phage binding
-• Toxin
-• Lipid-A: potent endotoxin
-• Neisseria meningitidis “meningococcal
+- Lipopolysaccharide: Function
+- Structural
+- removal = cell wall destruction / cell lysis
+- Receptor
+- O-antigen chain: immunoglobulins
+- phage binding
+- Toxin
+- Lipid-A: potent endotoxin
+- Neisseria meningitidis “meningococcal
 meningitis” LPS in blood stream systemic
 shock, lethal in 8 to 12 hours
 Gram -ve Outer Membrane
-• Phospholipids
-• similar distribution to cell membrane PLs
-• Phosphatidylethanolamine (PE) most common
-• PLs translocate between cell and outer membranes
-• Translocation is bi-directional and nonspecific
+- Phospholipids
+- similar distribution to cell membrane PLs
+- Phosphatidylethanolamine (PE) most common
+- PLs translocate between cell and outer membranes
+- Translocation is bi-directional and nonspecific
 5 min
 PS = PhosphatidylserinePS
 PE
 CO2
 Gram -ve Outer Membrane
-• OUTER MEMBRANE PROTEINS
-• Concentration.
-• 12 fg.m-2 (cf RBC 4 fg.m-2) NB 1 fg = 1x10-15g
-• Enzymes
-• Proteases, phospholipases, hydrophobic alk phosphatases
-• Proteases, phospholipases, hydrophilic alk phosphatases
+- OUTER MEMBRANE PROTEINS
+- Concentration.
+- 12 fg.m-2 (cf RBC 4 fg.m-2) NB 1 fg = 1x10-15g
+- Enzymes
+- Proteases, phospholipases, hydrophobic alk phosphatases
+- Proteases, phospholipases, hydrophilic alk phosphatases
 β-
 lactamase
-• Specific Transport Proteins (STP)
-• Multifunctional, Molecular masses _ 26KD to 83KD
-• Name Mol Wt. Function/Receptor
-• Tsx 26 Nucleoside, T6 bacteriophage, Col-K
-• Lam B 47 Maltose,Dextrose,-, K10
-• Btu B 60 Vit. B12, Col E, BF23
-• Prot 40 ? Phosphate in Pseudomonas
-• Prot 40 ? Magnesium in Pseudomonas
-• OUTER MEMBRANE PROTEINS
-• Specific Transport Proteins (STP)
-• Multifunctional, Molecular masses _ 26KD to 83KD
-• Name Mol Wt. Function/Receptor
-• Fhu 78 Fe3+-Ferrichrome,Albomycin,T5,T1,Col-M 080
-• Fep 80 Fe3+-enterochelin, Col-B
-• Fep B* Fe3+-enterochelin* Periplasmic
-• Fep C* Fe3+-enterochelin* Inner membrane
-• Fep D* 33.8 Fe3+-enterochelin* Inner memb hydrophobic
-• Fep G* 35.0 Fe3+-enterochelin* Inner memb hydrophobic
-• Fec 80 Fe3+-citrate
+- Specific Transport Proteins (STP)
+- Multifunctional, Molecular masses _ 26KD to 83KD
+- Name Mol Wt. Function/Receptor
+- Tsx 26 Nucleoside, T6 bacteriophage, Col-K
+- Lam B 47 Maltose,Dextrose,-, K10
+- Btu B 60 Vit. B12, Col E, BF23
+- Prot 40 ? Phosphate in Pseudomonas
+- Prot 40 ? Magnesium in Pseudomonas
+- OUTER MEMBRANE PROTEINS
+- Specific Transport Proteins (STP)
+- Multifunctional, Molecular masses _ 26KD to 83KD
+- Name Mol Wt. Function/Receptor
+- Fhu 78 Fe3+-Ferrichrome,Albomycin,T5,T1,Col-M 080
+- Fep 80 Fe3+-enterochelin, Col-B
+- Fep B* Fe3+-enterochelin* Periplasmic
+- Fep C* Fe3+-enterochelin* Inner membrane
+- Fep D* 33.8 Fe3+-enterochelin* Inner memb hydrophobic
+- Fep G* 35.0 Fe3+-enterochelin* Inner memb hydrophobic
+- Fec 80 Fe3+-citrate
 Gram -ve Outer Membrane
-• OUTER MEMBRANE PROTEINS (Omp’s)
-• Structural Proteins
-• OmpA
-• 105 per cell
-• Receptor for phages K3 & TuII
-• OmpA negative mutants no conjugation
-• Lipoprotein (lpp)
-• Small, 7.5 kD only 55 amino acids
-• 2.5 x 105 per cell bound, 2.5 x 105 per cell “free”
-• Major type Braun’s lpp
-• Anchors outer membrane to peptidoglycan
+- OUTER MEMBRANE PROTEINS (Omp’s)
+- Structural Proteins
+- OmpA
+- 105 per cell
+- Receptor for phages K3 & TuII
+- OmpA negative mutants no conjugation
+- Lipoprotein (lpp)
+- Small, 7.5 kD only 55 amino acids
+- 2.5 x 105 per cell bound, 2.5 x 105 per cell “free”
+- Major type Braun’s lpp
+- Anchors outer membrane to peptidoglycan
 Gram -ve Outer Membrane
-• OUTER MEMBRANE PROTEINS
+- OUTER MEMBRANE PROTEINS
 (Omp’s)
-• Structural Proteins
-• Lipoprotein (lpp)
-• Terminal Cysteine with fatty acid
+- Structural Proteins
+- Lipoprotein (lpp)
+- Terminal Cysteine with fatty acid
 plus diglyceride
-• Hydrophobic bond to outer
+- Hydrophobic bond to outer
 membrane
 Gram -ve Outer Membrane
-• Opposite end peptide bond via
+- Opposite end peptide bond via
 lysine to terminal D-Ala of
 peptidoglycan side chain
-• Deficiency of lpp
-• OM unstable. Vesicles detach
-• Meningococcal septicaemia
-• OUTER MEMBRANE PROTEINS (Omp’s)
-• PORINS
-• Non-specific diffusion of hydrophilic molecules
-• Trimeric - single sub-units nonfunctional
-• Each pore 1.2 to 1.3 nm
-• Exclusion limit 600 to 700 Daltons e.g. OmpC
-• Or 8 kD to 10 kD e. g. OmpF
+- Deficiency of lpp
+- OM unstable. Vesicles detach
+- Meningococcal septicaemia
+- OUTER MEMBRANE PROTEINS (Omp’s)
+- PORINS
+- Non-specific diffusion of hydrophilic molecules
+- Trimeric - single sub-units nonfunctional
+- Each pore 1.2 to 1.3 nm
+- Exclusion limit 600 to 700 Daltons e.g. OmpC
+- Or 8 kD to 10 kD e. g. OmpF
 Gram -ve Outer Membrane
 Hollow Beta
 Barrel
 Only active as
 trimer
 Gram -ve Outer Membrane
-• OUTER MEMBRANE PROTEINS (Omp’s)
-• PORINS
-• Enteric organisms (E. coli, Proteus, Salmonella)
-• Mainly smaller pores sizes (Omp C)
-• Non-enterics (Pseudomonas, Caulobacter, Hydromonas)
-• Mainly larger pores sizes (OmpF)
-• Enteric environment harsh* but nutrient rich
-• *bile salts, low molecular weight fatty acids
-• Aquatic environment nutrient depleted
-• Exploit larger range of nutrients
+- OUTER MEMBRANE PROTEINS (Omp’s)
+- PORINS
+- Enteric organisms (E. coli, Proteus, Salmonella)
+- Mainly smaller pores sizes (Omp C)
+- Non-enterics (Pseudomonas, Caulobacter, Hydromonas)
+- Mainly larger pores sizes (OmpF)
+- Enteric environment harsh* but nutrient rich
+- *bile salts, low molecular weight fatty acids
+- Aquatic environment nutrient depleted
+- Exploit larger range of nutrients
 Gram -ve Outer Membrane
-• OUTER MEMBRANE PROTEINS (Omp’s)
-• PORINS
-• Ratio of Large to Small pore PORINS
-• Depends on osmotic conditions
-• Controlled by cytoplasmic protein - OmpR
-• OmpR = (Outer membrane protein Regulator) IT IS
+- OUTER MEMBRANE PROTEINS (Omp’s)
+- PORINS
+- Ratio of Large to Small pore PORINS
+- Depends on osmotic conditions
+- Controlled by cytoplasmic protein - OmpR
+- OmpR = (Outer membrane protein Regulator) IT IS
 NOT an outer membrane protein
-• Phophorylated form of OmpR controls the
+- Phophorylated form of OmpR controls the
 expression of the OmpC and OmpF genes
-• Phosphorylation of OmpR is performed by EnvZ
-• EnvZ an integral cell membrane protein
-• EnvZ phosphorylation of OmpR influenced by
+- Phosphorylation of OmpR is performed by EnvZ
+- EnvZ an integral cell membrane protein
+- EnvZ phosphorylation of OmpR influenced by
 osmotic pressure in cell
 
 Myosins
-• large family of motor proteins that move
+- large family of motor proteins that move
 along actin filaments, while hydrolyzing
 ATP
 Learning Outcomes
-• Myosin Family of proteins:
-• Myosin I
-• Myosin II
-• Myosin V
-• Role of myosins in cell motility
-• Interaction of Actin & Myosin in
+- Myosin Family of proteins:
+- Myosin I
+- Myosin II
+- Myosin V
+- Role of myosins in cell motility
+- Interaction of Actin & Myosin in
 Skeletal Muscle Contraction
-• Three parts: head, neck, tail
-• Head binds actin
-• Tail binds other structures
-• Head hydrolyses ATP &
+- Three parts: head, neck, tail
+- Head binds actin
+- Tail binds other structures
+- Head hydrolyses ATP &
 moves along actin
-• Many types of myosin
+- Many types of myosin
 Myosin family
 Non-muscle myosin II
-• used by cells other than muscle
-• With actin, forms contractile bundles: cleave mitotic
+- used by cells other than muscle
+- With actin, forms contractile bundles: cleave mitotic
 cells in two
 Non-muscle myosin II
 Role in cellular locomotion?
-• Contraction observed at rear of cell
-• May pull the cell body forward
+- Contraction observed at rear of cell
+- May pull the cell body forward
 Role in cellular
 locomotion?
-• Myosin V Molecular Motor
+- Myosin V Molecular Motor
 Skeletal Muscle: Actin & Myosin
 Myofibril
 nuclei
@@ -984,39 +984,39 @@ EM close-up of sarcomere
 The Sliding Filament Model of
 Muscle Contraction
 Muscle Myosin: thick filaments
-Muscle myosin• tail binds other myosin tails
-• forms a push-me-pull-you structure
-• can ‘haul in’ the actin microfilaments
-• Filament: 400 individual myosin molecules
-• half molecules have head facing one direction, other half,
+Muscle myosin- tail binds other myosin tails
+- forms a push-me-pull-you structure
+- can ‘haul in’ the actin microfilaments
+- Filament: 400 individual myosin molecules
+- half molecules have head facing one direction, other half,
 opposite direction
 Tropomyosin:
-•covers active sites on g actin molecules
+-covers active sites on g actin molecules
 Troponin:
-•regulates tropomyosin
+-regulates tropomyosin
 Three subunits: Troponin C, Troponin I, Troponin M
-• Troponin C: binds calcium, bound to other two subunits
-• Troponin I: keeps tropomyosin over myosin binding sites
+- Troponin C: binds calcium, bound to other two subunits
+- Troponin I: keeps tropomyosin over myosin binding sites
 on G actin (inhibits actin/myosin binding)
-• Troponin M: anchors three subunits to tropomyosin
+- Troponin M: anchors three subunits to tropomyosin
 Muscle Actin: thin filaments
 So:
-• Tropomyosin (TM) ‘blocks the track’
-• Troponin (TN) is the lever moving it in/out of the way
+- Tropomyosin (TM) ‘blocks the track’
+- Troponin (TN) is the lever moving it in/out of the way
 Cross-Bridge
 Cycling in
 Skeletal Muscle
-• Sliding Filament Theory in Animated
+- Sliding Filament Theory in Animated
 Form
 Sliding Filament Theory: Short Version:
 Sliding Filament Theory: Long Version
 Learning Outcomes
-• Myosin Family of proteins:
-• Myosin I
-• Myosin II
-• Myosin V
-• Role of myosins in cell motility
-• Interaction of Actin & Myosin in
+- Myosin Family of proteins:
+- Myosin I
+- Myosin II
+- Myosin V
+- Role of myosins in cell motility
+- Interaction of Actin & Myosin in
 Skeletal Muscle Contraction
 
 Actin
@@ -1024,229 +1024,229 @@ Textbooks:
 1. Alberts et al. Molecular Biology of the Cell
 2. Lodish et al. Molecular Cell Biology
 Learning Outcomes
-• Actin-containing cellular structures
-• Microfilaments
-• Actin filament structure
-• Actin binding proteins
-• Actin branching
-• Regulation of the formation of the
+- Actin-containing cellular structures
+- Microfilaments
+- Actin filament structure
+- Actin binding proteins
+- Actin branching
+- Regulation of the formation of the
 cytoskeleton
-• Highly conserved
+- Highly conserved
 protein
-• Up to 5% of cellular
+- Up to 5% of cellular
 protein
-• Polymerises =
+- Polymerises =
 filaments
-• Extend throughout
+- Extend throughout
 cell to form a mesh
 Actin
 Actin structures
 Filopodia:
-• long thin transient processes
-• extend out from cell surface
-• Bundles of parallel actin filaments cross-linked within filopodia by small actin-
+- long thin transient processes
+- extend out from cell surface
+- Bundles of parallel actin filaments cross-linked within filopodia by small actin-
 binding protein fascin
-• provide stiffness within filopodia
+- provide stiffness within filopodia
 Microvilli:
-• shorter, more numerous
-• Tightly bundled actin filaments
-• cross-linking proteins fimbrin & villin bind actin filaments together within
+- shorter, more numerous
+- Tightly bundled actin filaments
+- cross-linking proteins fimbrin & villin bind actin filaments together within
 microvilli
 Lamellipodia:
-• thin but broad projections at edge of mobile cell
-• dynamic structures, constantly changing shape. contain extensively branched
+- thin but broad projections at edge of mobile cell
+- dynamic structures, constantly changing shape. contain extensively branched
 actin filaments,
-• Forward extension by growth of actin filaments adjacent to plasma membrane at
+- Forward extension by growth of actin filaments adjacent to plasma membrane at
 leading edge of moving cell
 Actin structures
 e.g. What drives an amoeba’s movement?
-• Gel-sol transition due to changes in actin
-• Actin polymerisation (filamentous, F) makes gel
-• Depolymerisation (globular, G) allows flow (sol)
-• Actin stains strongly
+- Gel-sol transition due to changes in actin
+- Actin polymerisation (filamentous, F) makes gel
+- Depolymerisation (globular, G) allows flow (sol)
+- Actin stains strongly
 at front of cell
-• =lammelipodium
+- =lammelipodium
 Fluorescent labeling:
-• shows localization of
+- shows localization of
 proteins which
 generate forward
 movement
 Microfilaments
-• Monomers = G-actin (globular)
-• Polymer = F-actin (filamentous)
-• Will spontaneously polymerise but helped
+- Monomers = G-actin (globular)
+- Polymer = F-actin (filamentous)
+- Will spontaneously polymerise but helped
 by ‘seeds’
-• Critical concentration at which this occurs
+- Critical concentration at which this occurs
 Actin monomer:
-• subdomains 1-4
+- subdomains 1-4
 Binds:
-• ATP & Mg2+, within cleft between
+- ATP & Mg2+, within cleft between
 subdomains 2 & 4
 Actin:
-• Hydrolyzes bound ATP
-• ATP -> ADP + Pi, releasing Pi.
-• can exchange bound ADP for
+- Hydrolyzes bound ATP
+- ATP -> ADP + Pi, releasing Pi.
+- can exchange bound ADP for
 ATP.
-• conformation of actin is different
-• depends on whether ATP or ADP
+- conformation of actin is different
+- depends on whether ATP or ADP
 is bound or not
-• G-actin (globular actin)
-• F-actin (filamentous actin)
+- G-actin (globular actin)
+- F-actin (filamentous actin)
 Actin filament has polarity
-• ATP binding clefts point to one end of filament = (-) end
-• = pointed end
-• be visualised in EM by decoration with globular heads cleaved
+- ATP binding clefts point to one end of filament = (-) end
+- = pointed end
+- be visualised in EM by decoration with globular heads cleaved
 off myosin by proteases
-• Bound myosin heads look like arrowheads
-• = (+) end
-• = barbed end
+- Bound myosin heads look like arrowheads
+- = (+) end
+- = barbed end
 Treadmilling
 Actin filaments may undergo treadmilling:
-• filament length remains approximately constant
+- filament length remains approximately constant
 Actin monomers:
-• added at the (+) end
-• dissociate from the (—) end
+- added at the (+) end
+- dissociate from the (—) end
 How is the actin cytoskeleton
 made & remodelled?
-• polarity of microfilaments is important.
+- polarity of microfilaments is important.
 Proteins control (de)polymerisation and
 these, in turn, are controlled by other
 proteins.
 One end grows faster than other
-• + end grows faster than– end
-• critical concentration at which
-polymerisation occurs is greater for – end
-• Actin filaments may form bundles via cross-linking
+- + end grows faster than    - end
+- critical concentration at which
+polymerisation occurs is greater for     - end
+- Actin filaments may form bundles via cross-linking
 proteins
-• Dimeric or have two actin-binding domains
-• Length determines networks & interlinking with other
+- Dimeric or have two actin-binding domains
+- Length determines networks & interlinking with other
 proteins e.g. myosin
 Cytochalasins (from fungi):
-• bind to (+) end of F-actin
-• block subunit addition.
-• Depolymerization at the (—) end may cause loss of
+- bind to (+) end of F-actin
+- block subunit addition.
+- Depolymerization at the (—) end may cause loss of
 filament.
 Phalloidin (from Amanita mushroom):
-• binds along sides of actin filaments
-• stabilizes them
-• fluorescent Phalloidin often used to visualize actin
+- binds along sides of actin filaments
+- stabilizes them
+- fluorescent Phalloidin often used to visualize actin
 filaments by fluorescence microscopy
 Toxins shown to affect Actin polymerisation:
 Profilin:
-• promotes ADP/ATP exchange
+- promotes ADP/ATP exchange
 by G-actin
-• ATP-bound G-actin can
+- ATP-bound G-actin can
 polymerize at leading edge
 advancing cell
 Arp2/3:
-• binds to sides of actin filaments
-• Nucleates growth of new
+- binds to sides of actin filaments
+- Nucleates growth of new
 filaments within lamellipodia
 Capping protein:
-• adds to plus ends of actin
+- adds to plus ends of actin
 filaments shortly after they are
 nucleated
-• keeps actin filaments at leading
+- keeps actin filaments at leading
 edge short & highly branched
 Associated Proteins
 Myosin I:
-• binds to plasma membrane
-• may pull membrane forward as it
+- binds to plasma membrane
+- may pull membrane forward as it
 walks along actin filaments toward
 plus end
 Cofilin:
-• severs actin filaments
-• provides new plus ends for
+- severs actin filaments
+- provides new plus ends for
 nucleation of filament growth
-• helps to keep actin filament
+- helps to keep actin filament
 branches short within
 lamellipodium
-• promotes depolymerization of actin
+- promotes depolymerization of actin
 filaments further back from the
 leading edge within lamellipodium
-• Can sever actin filaments, providing
+- Can sever actin filaments, providing
 new (+) ends for nucleation of actin
 filament growth
 Capping proteins:
-• bind at ends of actin filaments
-• If they bind at (+) or (—) end, may stabilize filament or promote
+- bind at ends of actin filaments
+- If they bind at (+) or (—) end, may stabilize filament or promote
 disassembly
-• e.g. Tropomodulins = (—) end capping proteins that stabilize actin
+- e.g. Tropomodulins = (—) end capping proteins that stabilize actin
 filaments
 Capping Proteins & Actin
 Filamin:
-• V-shaped cross-linking
+- V-shaped cross-linking
 protein
-• causes actin filaments
+- causes actin filaments
 to associate in loose
 networks
-• gives cytosol a gel-like
+- gives cytosol a gel-like
 consistency
 Spectrin:
-• actin-binding protein
-• forms cytoskeletal
+- actin-binding protein
+- forms cytoskeletal
 network in erythrocytes
 & some other cells
 Overview of actin-binding proteins
 Branching out
 Dimer of Arp2 & Arp3:
-• binds to side of
+- binds to side of
 microfilament
 Arp2/3:
-• mimics F-actin
-• seeds another filament
-• combined with existing
+- mimics F-actin
+- seeds another filament
+- combined with existing
 filaments, there is a push
 on cell membrane
 Arp2/3
 Formins:
-• nucleate formation of unbranched actin filaments
-• located adjacent to the plasma membrane
-• Nucleated actin filaments have plus ends
-• actin monomers added to anchored formin
+- nucleate formation of unbranched actin filaments
+- located adjacent to the plasma membrane
+- Nucleated actin filaments have plus ends
+- actin monomers added to anchored formin
 Integrins:
-• cell surface
+- cell surface
 receptors
-• α & β: single-pass
+- α & β: single-pass
 transmembrane
 protein
-• mediate adhesion of
+- mediate adhesion of
 cells to extracellular
 matrix as well as to
 other cells
 Cytosolic domains:
-• link integrins to
+- link integrins to
 elements of
 cytoskeleton e.g.
 actin filaments.
-• Use to move around in infected cell
-• Use for transmission to other cells.
-• Move by growth of actin tails
+- Use to move around in infected cell
+- Use for transmission to other cells.
+- Move by growth of actin tails
 Listeria:
-• bacterial cell-surface protein activates Arp2/3 complex
+- bacterial cell-surface protein activates Arp2/3 complex
 Salmonella:
-• encodes actin-binding proteins
-• directly nucleate actin filament growth
+- encodes actin-binding proteins
+- directly nucleate actin filament growth
 Pathogens using actin to move in host cells
 Complicated process:
 Signal-activated kinases:
-• convert membrane phosphatidylinositol to PIP2
+- convert membrane phosphatidylinositol to PIP2
 (phosphatidylinositol-4,5-bisphosphate)
 Regulated formation & cleavage of PIP2 :
-• can affect concentration of profilin
+- can affect concentration of profilin
 PIP2 binds profilin:
-• prevents profilin-actin interaction.
-• Signal-activated PIP2 hydrolysis releases profilin,
-• May promote actin polymerization adjacent to plasma
+- prevents profilin-actin interaction.
+- Signal-activated PIP2 hydrolysis releases profilin,
+- May promote actin polymerization adjacent to plasma
 membrane.
 Regulation of Assembly of Actin Cytoskeleton
 Learning Outcomes
-• Actin-containing cellular structures
-• Microfilaments
-• Actin filament structure
-• Actin binding proteins
-• Actin branching
-• Regulation of the formation of the
+- Actin-containing cellular structures
+- Microfilaments
+- Actin filament structure
+- Actin binding proteins
+- Actin branching
+- Regulation of the formation of the
 cytoskeleton
 
 THE PLANT GOLGI APPARATUS
@@ -1367,7 +1367,7 @@ Models for transport of proteins etc. through the Golgi to
 the cell surface
 - It is known that newly made proteins, lipids etc are
 made in the ER and delivered to the cis face of the Golgi.
-They exit, fully processed, at the opposite end – the
+They exit, fully processed, at the opposite end     - the
 trans face.
 - But how do they traverse the Golgi stack? This
 question that has puzzled cell biologists since the 1960s!
@@ -1552,11 +1552,11 @@ Where?
 10
 mins
 Mesosome functions
-• in cell division:
-– may be involved in cell wall formation
-– site of phospholipid synthesis
-– site for attachment of DNA (chromosome) during replication
-– Not a site of respiratory enzymes!
+- in cell division:
+    - may be involved in cell wall formation
+    - site of phospholipid synthesis
+    - site for attachment of DNA (chromosome) during replication
+    - Not a site of respiratory enzymes!
 Magnetosomes
 Magnetosome formation by TEM.
 Whole cells of M. gryphiswaldense strains (A), (B), C), (D) (E).
@@ -1579,12 +1579,12 @@ diagram, corresponding to some depth within the water column or sediment.
 http://tidepool.st.usm.edu/pix/prochloron.gif.
 Achromatium spp
 Gas vesicle membrane
-• Structure
-– Non-unit membrane
-– Protein only (Gvp)
-– C.3.5% of total cell
+- Structure
+    - Non-unit membrane
+    - Protein only (Gvp)
+    - C.3.5% of total cell
 protein in Microcystis
-– Freely permeable to
+    - Freely permeable to
 gases, the partial
 pressure of gases in the
 vesicle is in equilibrium
@@ -1627,17 +1627,17 @@ With the aid of organic matter , clay prtcls may aggregate
 into ‘crumbs’ that help improve soil aeration and
 infiltration of water.
 Figure 1 (Source: Taiz and Zeigler, 2002)Figure 1 (Source: Taiz and Zeigler, 2002)
-• Classification (NOTE: 1,000 m = 1 mm)
-• Fine particles
-– Clay (less than 2 m);
-– Silt (2 m - 64 m)
-• Sand grade particles
-– Fine sand (64 m – 125 m)
-– Medium sand (125 m – 500 m)
-– Coarse sand (500 m – 2,000 m)
-• Granules (2 – 4 mm)
-• Pebbles (4 – 64 mm)
-• Then cobbles and boulders
+- Classification (NOTE: 1,000 m = 1 mm)
+- Fine particles
+    - Clay (less than 2 m);
+    - Silt (2 m - 64 m)
+- Sand grade particles
+    - Fine sand (64 m     - 125 m)
+    - Medium sand (125 m     - 500 m)
+    - Coarse sand (500 m     - 2,000 m)
+- Granules (2     - 4 mm)
+- Pebbles (4     - 64 mm)
+- Then cobbles and boulders
 Particle size
 - When a soil is heavily watered the water percolates
 downward by gravity through the spaces btwn the soil
@@ -2062,106 +2062,106 @@ Animal Reproduction and
 Development
 Learning Outcomes
 Types of reproduction:
-•Asexual
-•Sexual
-•Hermaphrotidism
-•Parthenogenesis
+-Asexual
+-Sexual
+-Hermaphrotidism
+-Parthenogenesis
 Types of fertilization
-•External
-•Internal
-•Oviparous Animals
-•Viviparous Animals
-•Mammalian Sexual Reproduction
+-External
+-Internal
+-Oviparous Animals
+-Viviparous Animals
+-Mammalian Sexual Reproduction
 Asexual Reproduction
-• Aquatic invertebrates, some terrestrial annelids & insects
-• Cells of adult develop into new offspring
-• = clonal reproduction
+- Aquatic invertebrates, some terrestrial annelids & insects
+- Cells of adult develop into new offspring
+- = clonal reproduction
 Fission:
 Parent separates into 2
 or more offspring of similar size
 Fragmentation:
-• Pieces separate from the body of parent
-• Develop into new individual
+- Pieces separate from the body of parent
+- Develop into new individual
 Budding:
-• New individual grows &
+- New individual grows &
 develops
 from body of parent
-• May break free
-• May remain attached
+- May break free
+- May remain attached
 Sexual Reproduction
 Haploid sperm & eggs produced by
 meiosis:
-• Join together at fertilization to
+- Join together at fertilization to
 form diploid offspring
 Advantages:
-• Genetic diversity amongst
+- Genetic diversity amongst
 offspring
-• Increases chances of survival in
+- Increases chances of survival in
 changing environments
-• Allows offspring to adapt to
+- Allows offspring to adapt to
 different ecological niches
 Disadvantages:
-• Energy expenditure: mate
+- Energy expenditure: mate
 selection, gamete production
 Hermaphroditism
 Earthworm: Simultaneous
 hermaphroditism
-• Produce both eggs &
+- Produce both eggs &
 sperm at same time
-• Mate with another
+- Mate with another
 individual to exchange
 Clown Fish: Sequential hermaphroditism
-• Initial sex = male
-• When dominant female dies,
-• non-dominant male turns into female
-• New male replaces previous male
-• an unfertilized egg develops
+- Initial sex = male
+- When dominant female dies,
+- non-dominant male turns into female
+- New male replaces previous male
+- an unfertilized egg develops
 e.g.honey bees
-• drones = males produced parthenogeneticaly
-• female workers + queens form from fertilized eggs
+- drones = males produced parthenogeneticaly
+- female workers + queens form from fertilized eggs
 Queen Worker (female) Drone (male)
 Parthenogenesis
 Internal vs. External Fertilization
 External fertilization:
-• almost exclusively in
+- almost exclusively in
 moist habitats
-• environmental cue &
+- environmental cue &
 pheromones trigger
 simultaneous release of
 gametes
-• vertebrates exhibit
+- vertebrates exhibit
 courtship behaviors
-• Value of this?
+- Value of this?
 Internal fertilization:
-• requires sophisticated
+- requires sophisticated
 reproductive systems &
 behaviors
-• Terrestrial & aquatic
+- Terrestrial & aquatic
 habitats
-• produce fewer zygotes,
+- produce fewer zygotes,
 but more parental
 protection
 Internal Fertilization
 Oviparous:
-• lay eggs
-• e.g. insects, spiders, monotremes
+- lay eggs
+- e.g. insects, spiders, monotremes
 Ovoviviparous:
-• retain fertilized eggs in body
-• live birth from eggs
-• e.g. some fish lizards, snakes,
+- retain fertilized eggs in body
+- live birth from eggs
+- e.g. some fish lizards, snakes,
 invertebrates
 Viviparous:
-• live placental birth
+- live placental birth
 Metatherians (marsupial mammals):
-• do have”placenta”
-• Different from eutherians
+- do have”placenta”
+- Different from eutherians
 Lemon shark giving birth
 Developing chick
 Shell/extra-embryonic membranes:
-•Protection from mechanical shock
-•Gas exchange
-•Disposal of uric acid
-•Nutrient source
+-Protection from mechanical shock
+-Gas exchange
+-Disposal of uric acid
+-Nutrient source
 54h old embryo
 Reproductive System of the Human Male
 Male Reproductive
@@ -2172,10 +2172,10 @@ https://www.nhs.uk/video/pages/menstrualcycleanimation.aspx
 Formation of the zygote & early post-fertilization events
 1. A blastocoel forms within
 the morula:
-• blastula
+- blastula
 Sea urchin development
 2. Gastrulation:
-• rearranges blastula to
+- rearranges blastula to
 form three-layered
 embryo with primitive
 gut
@@ -2186,73 +2186,73 @@ Human foetal development
 Hormonal induction of labor
 Learning Outcomes
 Types of reproduction:
-•Asexual
-•Sexual
-•Hermaphrotidism
-•Parthenogenesis
+-Asexual
+-Sexual
+-Hermaphrotidism
+-Parthenogenesis
 Types of fertilization
-•External
-•Internal
-•Oviparous Animals
-•Viviparous Animals
-•Mammalian Sexual Reproduction
+-External
+-Internal
+-Oviparous Animals
+-Viviparous Animals
+-Mammalian Sexual Reproduction
 
 Animal Osmoregulation & Excretion
 Learning Outcomes
-• Osmolarity
-• Aquatic Animals
-• Terrestrial Animals
-• Nitrogenous Waster
-• Excretory Processes
-• Adaptations to environments
-• Hormonal Regulation
-•Ocean area
+- Osmolarity
+- Aquatic Animals
+- Terrestrial Animals
+- Nitrogenous Waster
+- Excretory Processes
+- Adaptations to environments
+- Hormonal Regulation
+-Ocean area
 71%
-•Freshwater
+-Freshwater
 area 1%
-•Freshwater
+-Freshwater
 volume 0.01%
 of total water
 The ‘blue’ planet
 Oceans and Seas
-• constant salt
+- constant salt
 concentration
-• about 3.5g salts/
+- about 3.5g salts/
 100mls
 Seawater:
-• osmotic activity 2x
+- osmotic activity 2x
 human blood
-• ca. 1000mosm (milli-
+- ca. 1000mosm (milli-
 osmoles)
 Rivers, lakes and puddles.
 Freshwater:
-• more dilute than
+- more dilute than
 cellular fluid
-• evaporation can
+- evaporation can
 concentrate/dry up any
 small bodies of water
 Brackish water:
-• where rivers meet sea
+- where rivers meet sea
 in estuaries
-• Flow of water from a region of high concentration
+- Flow of water from a region of high concentration
 through a selectively permeable (cell) membrane
 to region of lower water concentration.
-• Osmoregulation regulates solute concentrations
+- Osmoregulation regulates solute concentrations
 & balances gain/loss of water
-• Relative concentrations of water & solutes
+- Relative concentrations of water & solutes
 maintained within narrow limits
-• Excretion gets rid of nitrogenous metabolites &
+- Excretion gets rid of nitrogenous metabolites &
 other waste products
 Osmosis
 Osmolarity
 Osmolarity:
-• the solute concentration of solution
-• determines movement of water across a
+- the solute concentration of solution
+- determines movement of water across a
 selectively permeable membrane
 Iso-osmotic:
-• movement of water equal in both directions
+- movement of water equal in both directions
 If two solutions differ in osmolarity:
-• net flow of water is from hypoosmotic to
+- net flow of water is from hypoosmotic to
 hyperosmotic solution
 Selectively permeable
 membrane
@@ -2263,27 +2263,27 @@ Solutes
 The earliest animal osmoregulatory
 organelle = the Contractile Vacuole
 Paramecium:
-• 2 vacuoles with
+- 2 vacuoles with
 feeder canals
 (ampullae)
-• fill & empty into
+- fill & empty into
 main vacuoles
 alternately
 Osmotic Challenges
 Osmoconformers
-• some marine animals
-• Iso-osmotic with surroundings
-• do not regulate their osmolarity
+- some marine animals
+- Iso-osmotic with surroundings
+- do not regulate their osmolarity
 Osmoregulators:
-• expend energy to control water uptake &
+- expend energy to control water uptake &
 loss
-• in hyper-osmotic/hypo-osmotic
+- in hyper-osmotic/hypo-osmotic
 environment
 Most animals = stenohaline
-• cannot tolerate substantial changes in
+- cannot tolerate substantial changes in
 external osmolarity
 Euryhaline animals:
-• can survive large fluctuations in external
+- can survive large fluctuations in external
 osmolarity, e.g. Salmon
 Excretion
 of salt ions
@@ -2301,30 +2301,30 @@ Gain of water
 and salt ions from
 drinking seawater
 Most invertebrates:
-• osmoconformers
+- osmoconformers
 Most vertebrates/some
 invertebrates:
-• osmoregulators
+- osmoregulators
 Marine bony fishes:
-• hypo-osmotic to sea
+- hypo-osmotic to sea
 water
-• lose water by
+- lose water by
 osmosis
-• gain salt by diffusion
+- gain salt by diffusion
 & from food
-• balance water loss by
+- balance water loss by
 drinking seawater &
 excreting salts
 Marine Animals
 Freshwater Animals
-• constantly take in water
+- constantly take in water
 by osmosis from
 hypoosmotic environment
-• lose salts by diffusion &
+- lose salts by diffusion &
 maintain water balance by
 excreting large amounts
 of dilute urine
-• Salts lost by diffusion
+- Salts lost by diffusion
 replaced in foods & by
 uptake across the gills
 Uptake of water and
@@ -2341,7 +2341,7 @@ Excretion of large
 amounts of water in
 dilute urine from kidneys
 Animals in Temporary Waters
-• Some aquatic invertebrates in temporary ponds lose almost all
+- Some aquatic invertebrates in temporary ponds lose almost all
 body water & survive in a dormant state = anhydrobiosis
 (a) Hydrated
 tardigrade
@@ -2351,18 +2351,18 @@ tardigrade
 100 m
 Land
 Animals
-• Drink & eat
+- Drink & eat
 moist foods
-• use metabolic
+- use metabolic
 water
 Desert animals:
-• get major
+- get major
 water savings
 from
 anatomical
 features &
 behaviors
-• e.g. nocturnal
+- e.g. nocturnal
 life style
 Water
 gain
@@ -2414,52 +2414,52 @@ Amino groups
 Nitrogenous
 Waste
 Ammonia:
-• need lots of water for
+- need lots of water for
 excretion
-• released across
+- released across
 whole body surface
 or through gills of
 fish
 Uric Acid:
-•Insects, land snails, many reptiles, birds,
-•excrete uric acid
-•largely insoluble in water
-•can be secreted as a paste with little water loss
-•more energetically expensive to produce than urea
+-Insects, land snails, many reptiles, birds,
+-excrete uric acid
+-largely insoluble in water
+-can be secreted as a paste with little water loss
+-more energetically expensive to produce than urea
 Salt solution:
-• Sea birds/reptiles/amphibians
-• Salt removed from blood by active
+- Sea birds/reptiles/amphibians
+- Salt removed from blood by active
 transport
-• Secreted as a concentrated salt
+- Secreted as a concentrated salt
 solution
-• Drips from nostrils Urea:
-•Mammals/most adult
+- Drips from nostrils Urea:
+-Mammals/most adult
 amphibians converts ammonia
 to less toxic urea in liver
-•Carried to kidneys: excreted
-•energetically expensive
-•requires less water than
+-Carried to kidneys: excreted
+-energetically expensive
+-requires less water than
 ammonia
 Excretory Processes
-• Produce urine by refining a filtrate derived
+- Produce urine by refining a filtrate derived
 from body fluids
 Key functions of most excretory systems:
-• Filtration: pressure-filtering of body fluids
-• Reabsorption: reclaiming valuable solutes
-• Secretion: adding toxins and other solutes
+- Filtration: pressure-filtering of body fluids
+- Reabsorption: reclaiming valuable solutes
+- Secretion: adding toxins and other solutes
 from the body fluids to the filtrate
-• Excretion: removing the filtrate from the
+- Excretion: removing the filtrate from the
 system
 Metanephridia
-• Each segment of earthworm has a pair of
+- Each segment of earthworm has a pair of
 Metanephridia
-• tubules that collect coelomic fluid & produce dilute
+- tubules that collect coelomic fluid & produce dilute
 urine for excretion
 Malpighian Tubules
 Insects/other terrestrial arthropods:
-• Malpighian tubules remove nitrogenous wastes from hemolymph
+- Malpighian tubules remove nitrogenous wastes from hemolymph
 & function in osmoregulation
-• Insects: relatively dry waste matter, an important adaptation to
+- Insects: relatively dry waste matter, an important adaptation to
 terrestrial life
 The Mammalian Excretory system
 Afferent arteriole
@@ -2501,13 +2501,13 @@ CORTEX
 Filtrate
 Loop of
 Henle
-H2O K<sup>+</sup>HCO3–
+H2O K<sup>+</sup>HCO3    -
 H+ NH3
 Proximal tubule
 NaCl Nutrients
 Distal tubule
 K<sup>+</sup> H+
-HCO3–
+HCO3    -
 H2O
 H2O
 NaCl
@@ -2521,39 +2521,39 @@ NaCl
 Adaptations of Vertebrate Kidney to Diverse
 Environments
 Mammals:
-• Juxtamedullary nephron contributes to water
+- Juxtamedullary nephron contributes to water
 conservation in terrestrial animals
-• dry environments: long loops of Henle
-• fresh water: short loops
+- dry environments: long loops of Henle
+- fresh water: short loops
 Birds:
-• shorter loops of Henle
-• excrete uric acid
+- shorter loops of Henle
+- excrete uric acid
 Reptiles:
-• cortical nephrons
-• excrete uric acid
+- cortical nephrons
+- excrete uric acid
 Hormonal Regulation
 Mammals:
-• Control the volume & osmolarity of urine
-• South American vampire bat:
-• can produce either very dilute or very
-• concentrated urine
-• allows the bats to reduce body weight
+- Control the volume & osmolarity of urine
+- South American vampire bat:
+- can produce either very dilute or very
+- concentrated urine
+- allows the bats to reduce body weight
 rapidly or digest large amounts of protein
 while conserving water
 Antidiuretic hormone (ADH):
-•increases water reabsorption in
+-increases water reabsorption in
 distal tubules &collecting ducts
 of kidney
-•Increase in osmolarity triggers
+-Increase in osmolarity triggers
 release of ADH
-•helps conserve water
+-helps conserve water
 Renin-angiotensin-aldosterone system:
-• Salt intake too high: blood pressure/body
+- Salt intake too high: blood pressure/body
 fluid too high
-• Renin secretion inhibited
-• No angiotensin or aldosterone produced
-• Lowers bp
-• Allows sodium to be lost in urine by slowing
+- Renin secretion inhibited
+- No angiotensin or aldosterone produced
+- Lowers bp
+- Allows sodium to be lost in urine by slowing
 reuptake in kidneys
 Animal
 Freshwater
@@ -2602,169 +2602,169 @@ concentrated
 than body
 fluids
 Learning Outcomes
-• Osmolarity
-• Aquatic Animals
-• Terrestrial Animals
-• Nitrogenous Waster
-• Excretory Processes
-• Adaptations to environments
-• Hormonal Regulation
+- Osmolarity
+- Aquatic Animals
+- Terrestrial Animals
+- Nitrogenous Waster
+- Excretory Processes
+- Adaptations to environments
+- Hormonal Regulation
 
-Plant – Animal Interactions
+Plant     - Animal Interactions
 Seed Dispersal
 Life cycle of a plant
-• Seed dispersal is at the end of
+- Seed dispersal is at the end of
 the cycle
-• Plant has been pollinated
-• Ovary develops into a fruit
-• Many plants develop multiple
+- Plant has been pollinated
+- Ovary develops into a fruit
+- Many plants develop multiple
 seeds for increased
 reproductive success
 Focus on these 2 sections
 Why do seeds disperse?
-• Increased chance of survival
-• Less competition than if germinates next to parent plant
-• Possible movement to more favourable growth environments.
+- Increased chance of survival
+- Less competition than if germinates next to parent plant
+- Possible movement to more favourable growth environments.
 Dispersers and Non-Dispersers
-• Plants need to determine whether the benefits of seed dispersal
-outweigh the costs – and to what extent
-• Specialisation must increase dispersal success whether
+- Plants need to determine whether the benefits of seed dispersal
+outweigh the costs     - and to what extent
+- Specialisation must increase dispersal success whether
 morphological, physiological or behavioural
 Different types of seeds
-• High levels of energy
+- High levels of energy
 required
-• Must still be connected to
+- Must still be connected to
 parent plant in order to
 develop (cut flowers don’t
 produce seeds)
-• Plant needs to gather energy
+- Plant needs to gather energy
 from food & water whilst
 seeds are developing
 Different types of fruit
-• Fruits are packaging for seeds
-• Can be soft and fleshy, dry and woody or
+- Fruits are packaging for seeds
+- Can be soft and fleshy, dry and woody or
 papery
-• Berry - Seeds are embedded in the flesh
-• Drupe - A fruit with juicy flesh and seeds
+- Berry - Seeds are embedded in the flesh
+- Drupe - A fruit with juicy flesh and seeds
 inside
-• Pepo - Berry with a hard, thick rind
-• Pome - a fruit consisting of a fleshy
+- Pepo - Berry with a hard, thick rind
+- Pome - a fruit consisting of a fleshy
 enlarged receptacle and a tough central
 core containing the seeds
-• Hesperidium - a fruit with sectioned pulp
+- Hesperidium - a fruit with sectioned pulp
 inside a separable rind
 When to eat
-• Fruits change in colour to signal that they are ripe and ready to eat
-• Evolution in order to see fruit colours
-• Sir David talking about fruits - Video
+- Fruits change in colour to signal that they are ripe and ready to eat
+- Evolution in order to see fruit colours
+- Sir David talking about fruits - Video
 Syndromes
-• Technical term encompassing different methods of dispersal
-• Seed dispersal syndromes – often in gymnosperms (produce ‘naked’
+- Technical term encompassing different methods of dispersal
+- Seed dispersal syndromes     - often in gymnosperms (produce ‘naked’
 seeds)
-• Plant pollinator syndromes – often in angiosperms (previous lecture)
+- Plant pollinator syndromes     - often in angiosperms (previous lecture)
 Meet the Chory’s
-• Chory – technical term for seed dispersal
-• Preceded by term that relates to method of dispersal i.e. hydrochory
-• Sir David talking about seed dispersal - Video
+- Chory     - technical term for seed dispersal
+- Preceded by term that relates to method of dispersal i.e. hydrochory
+- Sir David talking about seed dispersal - Video
 Meet the chory’s
-• Allochory – the passive dispersal of seeds by external means i.e.
+- Allochory     - the passive dispersal of seeds by external means i.e.
 dispersal via animals or wind
-• Autochory – dispersing seeds by the plant’s own means i.e. explosion
+- Autochory     - dispersing seeds by the plant’s own means i.e. explosion
 (ballochory) or dropping to the ground (barochory).
 Meet the chory’s
-Zoochory – seed dispersal by animals
-• Hooked fruits
-• Sticky fruits and seeds
-• Fleshy fruits
-• Edible fruits
-• Endozoochory – seeds eaten and pass through digestive tract
-• Epizoochory/Ectozoochory – seeds or spores accidentally attached to
+Zoochory     - seed dispersal by animals
+- Hooked fruits
+- Sticky fruits and seeds
+- Fleshy fruits
+- Edible fruits
+- Endozoochory     - seeds eaten and pass through digestive tract
+- Epizoochory/Ectozoochory     - seeds or spores accidentally attached to
 the animals body and become detached later
-• Synzoochory – seeds or spores intentionally carried (usually in the
+- Synzoochory     - seeds or spores intentionally carried (usually in the
 mouth) to be eaten later.
 Endozoochory
-• Animals ingest seeds and excrete them
-• Some seeds are enclosed in fleshy edible fruits – ideal food source for
+- Animals ingest seeds and excrete them
+- Some seeds are enclosed in fleshy edible fruits     - ideal food source for
 frugivores
-• Fruit isn’t well chewed – seed ingested whole
-• Pulp is digested and seeds excreted – with fertiliser!
-• Seed needs protection from digestion such as a coating
+- Fruit isn’t well chewed     - seed ingested whole
+- Pulp is digested and seeds excreted     - with fertiliser!
+- Seed needs protection from digestion such as a coating
 Endozoochory
-• Coevolved mutualistic relationship
-• Plants may advertise food resource using colour
-• Some studies have found increased advantage in germination
-• Video – endo and ectozoochory
-• Number of seeds in droppings can be quite a lot!
-• In a study on seeds found in droppings of 11 parrot species in
+- Coevolved mutualistic relationship
+- Plants may advertise food resource using colour
+- Some studies have found increased advantage in germination
+- Video     - endo and ectozoochory
+- Number of seeds in droppings can be quite a lot!
+- In a study on seeds found in droppings of 11 parrot species in
 Ecuador, Peru, Brazil, Chile and Argentina
-• Intact seeds found
-• Numbers ranged usually from 1-60
-• In one dropping from a Lear’s Macaw Anodoryhnchus leari –
+- Intact seeds found
+- Numbers ranged usually from 1-60
+- In one dropping from a Lear’s Macaw Anodoryhnchus leari     -
 almost 500 seeds from blue column cactus Pilosocereus
 pachycladus.
 Parasitism Through Endozoochory
-• Video
-• Seed dispersal through birds is ornithichory.
+- Video
+- Seed dispersal through birds is ornithichory.
 Benefits of Endozoochory
-• Distance seeds are carried
-• Large bodied animals travel the furthest
-• Less competition with parents and sibling plants
-• Better light conditions
-• Avoidance of predators
-• Opportunity to colonise new habitats
-• Higher germination rates – digestion removes physical layers or any
+- Distance seeds are carried
+- Large bodied animals travel the furthest
+- Less competition with parents and sibling plants
+- Better light conditions
+- Avoidance of predators
+- Opportunity to colonise new habitats
+- Higher germination rates     - digestion removes physical layers or any
 chemical compounds that inhibit seed germination
 Challenges of Endozoochory
-• Reliance on external influences for dispersal
-• Reliance on seeds survival through eating (teeth grinding) and
+- Reliance on external influences for dispersal
+- Reliance on seeds survival through eating (teeth grinding) and
 digestion (chemicals)
 Endozoochory in Ruminants
-• Spitting of seeds whilst chewing the cud
-• Cud – stage of rumination process. Semi
+- Spitting of seeds whilst chewing the cud
+- Cud     - stage of rumination process. Semi
 degraded and bought back up for 2nd chewing
-• 21 species of ruminants found to aid seed
+- 21 species of ruminants found to aid seed
 dispersal
-• Most plants consumed are shrubs or trees –
+- Most plants consumed are shrubs or trees     -
 fleshy or dry fruits not commonly dispersed
 by defecation.
 Jays and Oaks
-• Oaks have a poor ability to reproduce – 1st acorn production can
+- Oaks have a poor ability to reproduce     - 1st acorn production can
 take up to 20 years
-• Many will drop and rot or be eaten and damaged during the
+- Many will drop and rot or be eaten and damaged during the
 process
-• Any that drop and germinate will be overshadowed by parent
-• Jays Garrulus glandarius are known as the ‘chattering acorn
+- Any that drop and germinate will be overshadowed by parent
+- Jays Garrulus glandarius are known as the ‘chattering acorn
 gatherer’
-• Can carry up to 6 at a time – only chooses the best available (no
+- Can carry up to 6 at a time     - only chooses the best available (no
 parasites). Can plant over 7000 in 4 weeks
-• Buries acorns separately at the base of bushes near to grassland –
+- Buries acorns separately at the base of bushes near to grassland     -
 hoping to jog memory in the future of where it was buried
-• Those that aren’t eaten will germinate
-• Jays may then eat the cotyledons – first leaves full of stored
+- Those that aren’t eaten will germinate
+- Jays may then eat the cotyledons     - first leaves full of stored
 energy below ground
-• Jays pull up oak to eat cotyledons- oak can survive this attack due
+- Jays pull up oak to eat cotyledons- oak can survive this attack due
 to long tap root.
 Ectozoochory
-• Caught on fur
-• Underfoot
-• Video
-• Burrlike seeds and fruits, or those diaspores provided with spines, hooks,
+- Caught on fur
+- Underfoot
+- Video
+- Burrlike seeds and fruits, or those diaspores provided with spines, hooks,
 claws, bristles, barbs, grapples, and prickles, are genuine hitchhikers,
 clinging to their carriers.
-• A somewhat different principle is employed by the so-called trample burrs,
+- A somewhat different principle is employed by the so-called trample burrs,
 said to lodge themselves between the hooves of large grazing mammals.
 Examples are mule grab (Proboscidea) and the African grapple plant
 (Harpagophytum).
 Diplochory
-• Secondary seed dispersal
-• Happens when a predator devours another animal that has eaten the
+- Secondary seed dispersal
+- Happens when a predator devours another animal that has eaten the
 seeds, such as birds of prey that feed on small seed-eating lizards.
-• Dung beetles
-• Disperse seeds in faeces of
+- Dung beetles
+- Disperse seeds in faeces of
 collected dung
-• Seed deception - video
+- Seed deception - video
 Diploendozoochory
-• Where a primary disperser
+- Where a primary disperser
 (an animal that ate a seed)
 along with the seeds it is
 carrying is eaten by a
@@ -2772,74 +2772,74 @@ predator that then carries
 the seed further before
 depositing it.
 Caliochory
-• Dispersal by birds – but not
+- Dispersal by birds     - but not
 through endozoochory
-• When birds create nests
-• Often use plant material or mud
-• Can move long distances to nest
+- When birds create nests
+- Often use plant material or mud
+- Can move long distances to nest
 where seeds may drop to the
 ground.
 Chiropterochory
-• Frugivorous bats
-• Eat fleshy fruits
-• Usually defecates within 20 minutes in flight
-• Important role in regeneration of forests – more efficient than birds and
+- Frugivorous bats
+- Eat fleshy fruits
+- Usually defecates within 20 minutes in flight
+- Important role in regeneration of forests     - more efficient than birds and
 mammals at seed dispersal
-• Also known to have fern spores in faecal pellets
-• Fern spore dispersal associated with anemochory – wind dispersal
-• Bats are also important in pollination – passing on pollen whilst feeding on
+- Also known to have fern spores in faecal pellets
+- Fern spore dispersal associated with anemochory     - wind dispersal
+- Bats are also important in pollination     - passing on pollen whilst feeding on
 nectar
-• Video
+- Video
 Malachochory
-• Molluscs – mainly terrestrial snails
-• Slugs and snails able to eat small seeds
-• Research shows some damage to seeds during digestive process is
+- Molluscs     - mainly terrestrial snails
+- Slugs and snails able to eat small seeds
+- Research shows some damage to seeds during digestive process is
 common.
 Ichthyochory
-• Seed dispersal via fish
-• Aquatic plants/mangrove
+- Seed dispersal via fish
+- Aquatic plants/mangrove
 species/flooded forest
-• Seeds can travel up to 5km from
+- Seeds can travel up to 5km from
 parent plant
-• Poorly studied field – not known
+- Poorly studied field     - not known
 whether this is by ‘chance’ or
 intentional feeding regimes in
 some areas
-• 200 known species of fruit-
+- 200 known species of fruit-
 eating fish.
 Saurochory
-• Reptiles - snakes, lizards, crocodiles and
+- Reptiles - snakes, lizards, crocodiles and
 alligators
-• Mainly carnivorous diet
-• Low germination found from studies
-• Can also be dispersed via epizoochory
-• Seeds attached to the snouts of green
+- Mainly carnivorous diet
+- Low germination found from studies
+- Can also be dispersed via epizoochory
+- Seeds attached to the snouts of green
 iguana (Iguana iguana) found more
 effective for germination than being
 consumed and excreted.
 Mymrecochory
-• Seed dispersal by ants – mutualistic
+- Seed dispersal by ants     - mutualistic
 relationship
-• Some seeds covered by an elaisome which
-attracts ants – rich in lipids and proteins
-• Ants carry seeds into colonies and feed
+- Some seeds covered by an elaisome which
+attracts ants     - rich in lipids and proteins
+- Ants carry seeds into colonies and feed
 elaisome to their larvae
-• Rest of seed is discarded in underground
+- Rest of seed is discarded in underground
 chamber
-• Relationship found in up to 23,000 flowering
+- Relationship found in up to 23,000 flowering
 plant species
 Seed Mimicry
-• Stick and leaf insects have low
+- Stick and leaf insects have low
 motility
-• Can be difficult to expand
+- Can be difficult to expand
 populations
-• Some stick and leaf insect eggs
+- Some stick and leaf insect eggs
 have a similar appearance to the
-elaisome which attracts the ant –
+elaisome which attracts the ant     -
 capitulum
-• Insects drop or flick their eggs and
+- Insects drop or flick their eggs and
 wait for the ants to take them away
-• Keeps eggs safe from predators
+- Keeps eggs safe from predators
 and other above-ground threats.
 Can you tell the difference? Left: Stick and
 leaf insect eggs [From Robertson, J. A.,
@@ -2848,120 +2848,120 @@ Ant-dispersed seeds © P.Gomez,
 W.Stuppy, H.Morales, G.Hoyle,
 E.Vaes/RBG Kew.
 Synzoochory
-• Seed caching animals – often birds
-• Collect food over winter
-• Commonly birds carrying seeds or diaspores in their beak
-• The European mistle thrush, Turdus viscivorus, deposits the
+- Seed caching animals     - often birds
+- Collect food over winter
+- Commonly birds carrying seeds or diaspores in their beak
+- The European mistle thrush, Turdus viscivorus, deposits the
 viscid seeds of European mistletoe (Viscum album) on
 potential host plants when, after a meal of the berries, it
 whets its bill on branches or simply regurgitates the seeds
-• Birds caching seeds in holes of trees – sometimes forgotten
-• Caches can be stolen from by rodents – can aid in dispersal
-• In Germany an average jay may transport about 4,600 acorns
+- Birds caching seeds in holes of trees     - sometimes forgotten
+- Caches can be stolen from by rodents     - can aid in dispersal
+- In Germany an average jay may transport about 4,600 acorns
 per season, over distances of up to 4 km (2.5 miles)
-• Is this seed dispersal or seed predation?
+- Is this seed dispersal or seed predation?
 Anthropochory
-• Inadvertent dispersal by humans
-• On clothes/shoes – same as animals
+- Inadvertent dispersal by humans
+- On clothes/shoes     - same as animals
 Hemerochory
-• Most widespread and intense variety of seed spreading – agriculture
-(conscious spreading – ethelochory)
-• Create optimum conditions for growth
-• Transport means dispersal can be global
-• Unintentional dispersal via transport - agochory
-• Can cause invasive species problems
-• Seed bombing/guerrilla gardening – pros and cons.
+- Most widespread and intense variety of seed spreading     - agriculture
+(conscious spreading     - ethelochory)
+- Create optimum conditions for growth
+- Transport means dispersal can be global
+- Unintentional dispersal via transport - agochory
+- Can cause invasive species problems
+- Seed bombing/guerrilla gardening     - pros and cons.
 Threats to seed dispersal
-• Declining populations, fragmentation, habitat loss, invasive species
-• Video – habitat fragmentation.
+- Declining populations, fragmentation, habitat loss, invasive species
+- Video     - habitat fragmentation.
 Summary
-• Seed dispersal has clear ecological benefits
-• Both plants and animals benefit
-• Often mutualistic relationships
-• Plant engineering in many different forms
-• Animal behaviour in many different forms.
+- Seed dispersal has clear ecological benefits
+- Both plants and animals benefit
+- Often mutualistic relationships
+- Plant engineering in many different forms
+- Animal behaviour in many different forms.
 Reading
-• Any search of ‘____chory’ will bring up lots of related reading – often
+- Any search of ‘____chory’ will bring up lots of related reading     - often
 journal articles
-• Textbooks – only little bits in recommended reading
+- Textbooks     - only little bits in recommended reading
 
 Bacterial Osmoregulation
  Cellular and
 Organismal Biosciences
 Abiotic factors affecting growth of
 Microorganisms
-• Water Activity (aw)
-• Temperature
-• pH
-• Ultra-Violet Radiation
-• Pressure
+- Water Activity (aw)
+- Temperature
+- pH
+- Ultra-Violet Radiation
+- Pressure
 Water Activity aw
-• Water Activity aw
-• Measure of the “free” water available for
-metabolic reactions – scale 0 - 1
-• Water of solvation - not available
-• Water involved in keeping solutes in solution.
-• Concentrated solutions
-• Have a HIGH concentration of solute
-• Therefore a lot of water of solvation
-• Therefore not much free water
-• Water activity of concentrated solutions is LOW
+- Water Activity aw
+- Measure of the “free” water available for
+metabolic reactions     - scale 0 - 1
+- Water of solvation - not available
+- Water involved in keeping solutes in solution.
+- Concentrated solutions
+- Have a HIGH concentration of solute
+- Therefore a lot of water of solvation
+- Therefore not much free water
+- Water activity of concentrated solutions is LOW
 Water Activity aw
-• Pure water has aw of 1.00
-• Nutrient Broth & Nutrient Agar = 0.999 - 0.995
+- Pure water has aw of 1.00
+- Nutrient Broth & Nutrient Agar = 0.999 - 0.995
 Water Activity Ranges aw
-• Bacteria
-• 0.999 <- 0.86 (0.755)
-• Halobacter, Natronobacterium
-• Salt crystal inclusions 0.76 - 0.75
-• Fungi & Yeasts
-• 0.999 <- 0.70 (0.63)
-• Polypaecilum pisce 0.99-0.70 (0.96 - 0.91)
-• Basipetospora halophila 0.99 - 0.70 (0.89 –
+- Bacteria
+- 0.999 <- 0.86 (0.755)
+- Halobacter, Natronobacterium
+- Salt crystal inclusions 0.76 - 0.75
+- Fungi & Yeasts
+- 0.999 <- 0.70 (0.63)
+- Polypaecilum pisce 0.99-0.70 (0.96 - 0.91)
+- Basipetospora halophila 0.99 - 0.70 (0.89     -
 0.86)
 Terminology
-• Halophile
-• Salt loving must have low aw for optimum
+- Halophile
+- Salt loving must have low aw for optimum
 growth.
-• Halotolerant
-• Grows best at high aw can tolerate low aw
-• Osmophile
-• As Halophile but solute is organic
-• Osmotolerant
-• As Halotolerant but solute is organic
-• Xerophile
-• Very dry conditions
+- Halotolerant
+- Grows best at high aw can tolerate low aw
+- Osmophile
+- As Halophile but solute is organic
+- Osmotolerant
+- As Halotolerant but solute is organic
+- Xerophile
+- Very dry conditions
 Isotonic - 0.85% NaCl - blood plasma
-Hypotonic – high internal [solute]
-• H20 -> enters cell -> cell rupture
-• Internal [solute] falls
-• Internal pressure rises
-• Internal aw rises
-• Bacteria, fungi, plants - cell wall
-• Mechanical strength protect cell
+Hypotonic     - high internal [solute]
+- H20 -> enters cell -> cell rupture
+- Internal [solute] falls
+- Internal pressure rises
+- Internal aw rises
+- Bacteria, fungi, plants - cell wall
+- Mechanical strength protect cell
 Solute concentrations & effect on cell
 Animal cell
 Bacterial/Plant
 cell
 Solute concentrations & effect on cell
-• Hypertonic - high external solute conc
-• H2O →  leaves cell → cell shrinks
+- Hypertonic - high external solute conc
+- H2O →  leaves cell → cell shrinks
 (plasmolysis)
-• Internal [solute] rises
-• internal pressure falls
-• internal aw falls
-• Cell wall of no help
-• Metabolic dysfunction & cell death
+- Internal [solute] rises
+- internal pressure falls
+- internal aw falls
+- Cell wall of no help
+- Metabolic dysfunction & cell death
 Animal cell
 Bacterial/Plant
 cell
-• Plasmolysis
+- Plasmolysis
 Solute concentrations & effect on cell
 Cell wall
 Cytoplasm
 Cell membrane
-•Cell volume decreases - cytoplasm shrinks
-•Hypertonic medium - water leaves the cell
+-Cell volume decreases - cytoplasm shrinks
+-Hypertonic medium - water leaves the cell
 Hypertonic environment
 Seawater / salt lakes / salterns
 Sugary drinks
@@ -2969,60 +2969,60 @@ IV Drips and Injections
 How do organisms adapt to high
 solute environments?
 Need to prevent water loss:
-• Accumulation of compatible solutes
+- Accumulation of compatible solutes
 (Osmotica)
-• Forms a dormant resting stage - spores
-• Modify cell membrane composition
+- Forms a dormant resting stage - spores
+- Modify cell membrane composition
 Preventing water loss
-• Accumulation of compatible solutes
+- Accumulation of compatible solutes
 (Osmotica)
-• Osmotica
-• Solutes not toxic at high concentrations
-• Lower internal cell aw
-• Prevents water loss
-• Uptake from environment or synthesis
-• Solute depends on micro-organism
-• Heterotrophic bacteria
-• Amino acids and derivatives: glutamic acid & proline;
+- Osmotica
+- Solutes not toxic at high concentrations
+- Lower internal cell aw
+- Prevents water loss
+- Uptake from environment or synthesis
+- Solute depends on micro-organism
+- Heterotrophic bacteria
+- Amino acids and derivatives: glutamic acid & proline;
 betaine, trimethylamine
-• Halophilic bacteria
-• K<sup>+</sup> and Na+ ions, betaine (Archaea use salt-in/salt-out)
-• Cyanobacteria
-• Sugars (sucrose and trehalose), sugar alcohols
+- Halophilic bacteria
+- K<sup>+</sup> and Na<sup>+</sup> ions, betaine (Archaea use salt-in/salt-out)
+- Cyanobacteria
+- Sugars (sucrose and trehalose), sugar alcohols
 (glucosyl-glycerol) betaine
-• Eukaryotic: Yeasts, fungi
-• Sugar alcohols (glycerol, mannitol, arabitol), sugars
+- Eukaryotic: Yeasts, fungi
+- Sugar alcohols (glycerol, mannitol, arabitol), sugars
 (trehalose)
-• Eukaryotic: Algae
-• Sugars (sucrose, glucose, fructose, raffinose) glycerol
+- Eukaryotic: Algae
+- Sugars (sucrose, glucose, fructose, raffinose) glycerol
 Compatible solutes
 Synthesis, import & release of
 compatible solutes
-• Salt-in/out response
-• Accumulate compatible solutes via
+- Salt-in/out response
+- Accumulate compatible solutes via
 either synthesis or import
-• Hypo-osmotic conditions, the cells
+- Hypo-osmotic conditions, the cells
 rapidly jettison, in a nonspecific
 fashion, organic and inorganic
 compounds via mechanosensitive
 channels (Msc) to counter water
 influx
-• An aquaporin is a water-
+- An aquaporin is a water-
 conduction channel (e.g., AqpZ)
-• 40 – 50 ATP molecules to
+- 40     - 50 ATP molecules to
 synthesise a compatible solute
 molecule
-• 2 ATP molecules to import a
+- 2 ATP molecules to import a
 compatible solute
-Annu. Rev. Microbiol. 2019. 73:313–34
+Annu. Rev. Microbiol. 2019. 73:313    -34
 Compatible solutes & environment
-• Trehalose
+- Trehalose
 Compatible solute example
-• Disaccharide
-• α-D-glucopyranosyl-(1->1)-α-D-glucopyranoside
-• Powerful protection against drying
-• Dried yeast Saccharomyces cerevisiae
-• Protects against high temperature
+- Disaccharide
+- α-D-glucopyranosyl-(1->1)-α-D-glucopyranoside
+- Powerful protection against drying
+- Dried yeast Saccharomyces cerevisiae
+- Protects against high temperature
 Effect of drying on enzyme activity
 over time at different temperatures
 70oC
@@ -3047,30 +3047,30 @@ Anacystis nidulans
 Anabaena cylindrica
 Spore Formation - drying
 Membrane modifications
-• Low aw and microbial membranes
-• 1 Deleya halophila
-• Compatible solute is K<sup>+</sup> : high concentration
-• Fatty acid side chains of membrane
+- Low aw and microbial membranes
+- 1 Deleya halophila
+- Compatible solute is K<sup>+</sup> : high concentration
+- Fatty acid side chains of membrane
 phospholipids become less flexible
-• Increased saturation
-• Reduces membrane fluidity and helps retain
+- Increased saturation
+- Reduces membrane fluidity and helps retain
 high K<sup>+</sup> levels in the cytoplasm.
-• 2. Dunaliella salina
-• Chloroplast thylakoid membrane
+- 2. Dunaliella salina
+- Chloroplast thylakoid membrane
 phospholipids
-• Compatible solute is glycerol
-• Energy required for production
-• More efficient photosynthesis
-• More efficient photosynthesis more glycerol
+- Compatible solute is glycerol
+- Energy required for production
+- More efficient photosynthesis
+- More efficient photosynthesis more glycerol
 Membrane modifications
 Bacterial Osmoregulation
-• Water activity influences growth
-• Microorganisms can adapt to
+- Water activity influences growth
+- Microorganisms can adapt to
 osmotic stress
-• using osmotica (compatible solutes)
-• physiological adaptations
-• Spores
-• Membrane changes
+- using osmotica (compatible solutes)
+- physiological adaptations
+- Spores
+- Membrane changes
 Recommended Reading
 
 Microbial growth: Bacterial cell division
@@ -3078,24 +3078,24 @@ Microbial growth: Bacterial cell division
 Cellular and Organismal Biosciences
 Lecture contributes to Learning Outcomes 1 and 3
 Overview
-• Introduction – definitions
-• Replication of the bacterial chromosome
+- Introduction     - definitions
+- Replication of the bacterial chromosome
 and partitioning
-• Septation and cytokinesis (division)
-– Z ring
-– Cell wall synthesis
-• Summary and further reading
+- Septation and cytokinesis (division)
+    - Z ring
+    - Cell wall synthesis
+- Summary and further reading
 Introduction
-• Growth
-– the terms refers to a steady, balanced increase in all
+- Growth
+    - the terms refers to a steady, balanced increase in all
 the components of the cell, leading to an increase in
 cell size and usually followed by cell division
-• Vegetative cell cycle
-– the sequence of events which occur when normal
+- Vegetative cell cycle
+    - the sequence of events which occur when normal
 vegetative cell, newly formed by cell division, grows
 and divides
-• Differentiation
-– events initiated by transcriptional and translational
+- Differentiation
+    - events initiated by transcriptional and translational
 changes in the cell cycle leading to the formation of a
 new type of cell e.g. spore or a modified cell e.g. cyst
 Measuring & plotting microbial growth
@@ -3103,15 +3103,15 @@ Typical Growth Curve of bacteria in batch culture (covered in 4BM024)
 Madigan, Michael, T. et al. Brock Biology of Microorganisms, Global Edition. Available from: Bookshelf Online - Ref, (16th Edition). Pearson International Content, 2021.
 Introduction
 Introduction
-• Prokaryotes - Bacteria
-– Divide by a process of binary fission
-• Asexual – 2 genetically identical daughter cells
-– Do not have a nucleus – single super-coiled circular
-chromosome – nucleoid
-• Copied during division
-– During division (cytokinesis) a number of other events
+- Prokaryotes - Bacteria
+    - Divide by a process of binary fission
+- Asexual     - 2 genetically identical daughter cells
+    - Do not have a nucleus     - single super-coiled circular
+chromosome     - nucleoid
+- Copied during division
+    - During division (cytokinesis) a number of other events
 must take place
-• Cell wall synthesis, septation and separatation
+- Cell wall synthesis, septation and separatation
 Bacterial growth and division
 One Generation
 Time taken is
@@ -3139,6 +3139,7 @@ Willey, Joanne, et al. Prescott's Microbiology ISE. Available from: Bookshelf On
 Caulobacter Life Cycle.
 Stalked cells attached to a
 substrate undergo
+
 asymmetric binary fission,
 producing a stalked and a
 flagellated swarmer cell.
@@ -3150,16 +3151,16 @@ Only stalked cells can
 divide. Willey, Joanne, et al. Prescott's Microbiology ISE. Available from: Bookshelf Online - Ref, (12th Edition).
 McGraw-Hill Higher Education (International), 2022.
 Cell cycle
-• 4 events must occur
+- 4 events must occur
 before a cell can
 divide
-– There must be a
+    - There must be a
 reproductive signal
-– Replication of DNA
-– The replicated DNA must be
+    - Replication of DNA
+    - The replicated DNA must be
 distributed to each of the
 two new cells - Partitioning
-– The cell membrane
+    - The cell membrane
 and cell wall must
 grow to separate
 the two new cells
@@ -3195,18 +3196,18 @@ Division proteins
 and septum
 precursors
 Septation
-The general cell cycle in E. coli – time between division
+The general cell cycle in E. coli     - time between division
 may be shorter
 Time (mins)
 DNA replication
-• No nucleus –
+- No nucleus     -
 condensed DNA in
 nucleoid
-• Single circular
+- Single circular
 chromosome
-• Replication = 40 mins
+- Replication = 40 mins
 at 37oC
-• Replication is
+- Replication is
 Bi-directional and
 semi-conservative
 DNA replication
@@ -3215,23 +3216,23 @@ For details on DNA replication refer to lectures in
 https://www.youtube.com/watch?v=jmWuju1S9_E
 (5 min clip)
 DNA replication
-• Each chromosome has;
-– Origin of replication (Ori C) – where
+- Each chromosome has;
+    - Origin of replication (Ori C)     - where
 replication begins
-– Terminus – where replication finishes
-– Orientated to each pole of the cell in newly
+    - Terminus     - where replication finishes
+    - Orientated to each pole of the cell in newly
 formed cells
 DNA replication
-• Early in the growth cycle of the cell when
+- Early in the growth cycle of the cell when
 initiation mass reached - terminus and origin
 migrate to the mid cell
-• Replisome is formed at the origin
-– Proteins and enzymes for DNA synthesis collect
+- Replisome is formed at the origin
+    - Proteins and enzymes for DNA synthesis collect
 together
-• DNA replication proceeds in both
+- DNA replication proceeds in both
 directions
-– DNA thought to spool through replisome
-– New origins form and move to opposite ends of cell
+    - DNA thought to spool through replisome
+    - New origins form and move to opposite ends of cell
 DNA replication
 Being the
 gentleman he
@@ -3246,57 +3247,57 @@ going to be more
 expensive than he
 first thought
 DNA replication
-• In a slow growing culture (30oC) DNA
-replication and division – 60 mins
-• In a fast growing culture (37oC) division - 20
+- In a slow growing culture (30oC) DNA
+replication and division     - 60 mins
+- In a fast growing culture (37oC) division - 20
 mins
-– DNA replication always takes 40 mins??
-• Over comes this by having more than one Ori C
+    - DNA replication always takes 40 mins??
+- Over comes this by having more than one Ori C
 and by starting DNA replication early
-– DNA synthesis is continuous
+    - DNA synthesis is continuous
 DNA partitioning
-• Mechanism of partitioning still being defined
-• Studied in model organisms: B subtilis & C. crescentus
-• Various active biological protein systems that drive sister
+- Mechanism of partitioning still being defined
+- Studied in model organisms: B subtilis & C. crescentus
+- Various active biological protein systems that drive sister
 chromosomes apart
-• SMCs (structural maintenance of the chromosome) proteins
-• Par system
-• Entropic de-mixing
-• spontaneous move apart by mixed circular polymers
-• “Genome in a box” approaches to study this process
-• Microfluidic device with Mbp long genome then add back proteins
+- SMCs (structural maintenance of the chromosome) proteins
+- Par system
+- Entropic de-mixing
+- spontaneous move apart by mixed circular polymers
+- “Genome in a box” approaches to study this process
+- Microfluidic device with Mbp long genome then add back proteins
 to study their role
-• Further insight needed & may lead to first synthetic cell
+- Further insight needed & may lead to first synthetic cell
 DNA partitioning in C. crescentus
 The ParAB/parS Partitioning System of Caulobacter crescentus. ParB
 binds parS sites on the daughter chromosomes. A gradient of ParA
 proteins directs the partition complex of ParB/parS to the opposite pole of
 the cell in a relay mechanism.
 Septation and cytokinesis
-• In cytokinesis cell elongation and
+- In cytokinesis cell elongation and
 septum formation must occur
 Requires:
-• Termination of DNA replication
-• A number of regulatory and
+- Termination of DNA replication
+- A number of regulatory and
 functional proteins
-– Septum formation and constriction
-– New cell wall synthesis
-– Final cytokinesis to give two daughter
+    - Septum formation and constriction
+    - New cell wall synthesis
+    - Final cytokinesis to give two daughter
 cells
 https://youtu.be/IzKoIp08Pa4?si=aSpozP3kMJEf
 h70r
 Septation and cytokinesis
-• Septation occurs through formation of the Z
+- Septation occurs through formation of the Z
 ring - divides cell by constriction
-– Formed from FtsZ – tubulin homologue
-– Attaches to the plasma membrane and cell
+    - Formed from FtsZ     - tubulin homologue
+    - Attaches to the plasma membrane and cell
 wall
-– Constriction forms the septum
-– Must be formed for division to occur
-– Z ring formation regulated and occurs only in
+    - Constriction forms the septum
+    - Must be formed for division to occur
+    - Z ring formation regulated and occurs only in
 the centre due to MinC,D,E proteins -
 antagonistic
-– Depolymerisation of Z ring = constriction of
+    - Depolymerisation of Z ring = constriction of
 cell
 Mechanisms to Establish the Site of
 Septum Formation. The Min system (blue)
@@ -3325,16 +3326,16 @@ to ensure that septum
 constriction follows
 replication.
 Septation and cytokinesis
-• Requires the break down and rebuilding of the peptidoglycan cell
+- Requires the break down and rebuilding of the peptidoglycan cell
 wall
-• Site of cell wall synthesis differs between morphological
+- Site of cell wall synthesis differs between morphological
 types
-– G +ve cocci – one or few growth zones along centre
-– G –ve rods – Synthesis occurs at site of septation and along cell length
+    - G +ve cocci     - one or few growth zones along centre
+    - G     -ve rods     - Synthesis occurs at site of septation and along cell length
 Areas of cell wall synthesis in cocci and rod shaped bacterial species
 Peptidoglycan extension
-• Occurs in 3 stages utilising 3 different enzyme systems
-• Allows synthesis without any gaps (autolysis)
+- Occurs in 3 stages utilising 3 different enzyme systems
+- Allows synthesis without any gaps (autolysis)
 1. Autolysins - break the glycosidic bonds between
 the peptidoglycan monomers and break peptide
 cross-bridges- create small holes in cell wall
@@ -3351,30 +3352,30 @@ carrier molecule
 Penicillin target
 (Penicillin Binding Proteins)
 Summary
-• Number of events must occur for growth and
+- Number of events must occur for growth and
 division in bacterial cells
-– Chromosome replication and partitioning, Z ring formation
-and septation and cell wall synthesis – cytokinesis
-• Chromosome replication is bidirectional and semi-
-conservative – enzyme systems in replisome.
-• Septation requires Z ring formation – complex protein
+    - Chromosome replication and partitioning, Z ring formation
+and septation and cell wall synthesis     - cytokinesis
+- Chromosome replication is bidirectional and semi-
+conservative     - enzyme systems in replisome.
+- Septation requires Z ring formation     - complex protein
 and enzyme system
-• New cell wall is produced and inserted to allow
-cytokinesis – autolysins, transglycosidases,
+- New cell wall is produced and inserted to allow
+cytokinesis     - autolysins, transglycosidases,
 transpeptidases.
 
 Bacterial Temperature Stress
 Growth Temperature
-• Growth will only occur where water
+- Growth will only occur where water
 exists as a liquid
-• 0oC to 100oC
-• ice to steam
-• Exceptions
-• ~ - 5oC
-• Polar sea bed
-• +300oC
-• Deep sea thermal vents
-• Extremophiles in hot water – YouTube
+- 0oC to 100oC
+- ice to steam
+- Exceptions
+- ~ - 5oC
+- Polar sea bed
+- +300oC
+- Deep sea thermal vents
+- Extremophiles in hot water     - YouTube
 Polar Sea Floor
 Submarine Hydrothermal Vents
 Black smokers, the hottest
@@ -3386,15 +3387,15 @@ other minerals spews out of
 cracks in the earth's crust
 Other hot environments
 Effect of Temperature on Growth
-• Microbes cannot moderate their
+- Microbes cannot moderate their
 internal temperature
-• Temperature affects rates of:-
-• Chemical reactions
-• Rate increases 3 to 4 times for every 10oC rise in
+- Temperature affects rates of:-
+- Chemical reactions
+- Rate increases 3 to 4 times for every 10oC rise in
 temperature.
-• Enzyme reactions and Growth rate
-• Too low or too high temperature inhibits rates.
-• Due to effect of temperature on structure of
+- Enzyme reactions and Growth rate
+- Too low or too high temperature inhibits rates.
+- Due to effect of temperature on structure of
 macromolecules
 ORGANISM GROUP TEMPERATURE LIMIT OC
 Fish 38
@@ -3451,25 +3452,25 @@ Hyperthermophiles
 60 89 105
 Effect of High Temperatures on Micro-
 organisms
-• High is a relative term
-• 30°C is HIGH for psychrophiles but LOW for
+- High is a relative term
+- 30°C is HIGH for psychrophiles but LOW for
 thermophiles
-• 70 °C is HIGH for mesophiles but LOW for
+- 70 °C is HIGH for mesophiles but LOW for
 hyperthermophiles
-• High is a temperature significantly
+- High is a temperature significantly
 above the Optimum of an organism.
-• Most examples in textbooks refer to
+- Most examples in textbooks refer to
 mesophiles
 Effect of Temperature
-• Depends on
-• Actual temperature
-• Time of exposure to the temperature
-• Nature or state of the microorganism
-• 70°C for 10 min
-• Lethal for vegetative cells, but not
+- Depends on
+- Actual temperature
+- Time of exposure to the temperature
+- Nature or state of the microorganism
+- 70°C for 10 min
+- Lethal for vegetative cells, but not
 endospores
-• 100 ° C for 120 min
-• Lethal for most endospores
+- 100 ° C for 120 min
+- Lethal for most endospores
 Wet heat more effective than dry heat
 on microbial kill
 Temperature Ti m e for 1 0 0 % kill
@@ -3479,11 +3480,11 @@ oven) 120O C 8 hours
 D r y heat (hot air
 oven) 160O C 2 hours
 Thermal Death of Bacteria
-• Bacterial population exposed to
+- Bacterial population exposed to
 lethal temperature will die.
-• Numbers decrease exponentially
+- Numbers decrease exponentially
 with duration of exposure.
-• The higher the temperature the less
+- The higher the temperature the less
 time taken to kill the population.
 Thermal death
 106 cfu/ml
@@ -3535,49 +3536,49 @@ Decimal Reduction Time (D)
 Log viable cells/ml
 2 4
 Dexposure time (minutes)
-• Time taken for
+- Time taken for
 population to decrease
 by a factor of 10
-• From log10 8.0 to log10
+- From log10 8.0 to log10
 7.0
-• 1.3 min to 1.8 min
-• D= 0.5 min.
-• Every 0.5 min the
+- 1.3 min to 1.8 min
+- D= 0.5 min.
+- Every 0.5 min the
 population decreases by
 a factor of 10.
-• Targets - several possibilities
-• Proteins
-• loss of quarternary, tertiary and secondary
+- Targets - several possibilities
+- Proteins
+- loss of quarternary, tertiary and secondary
 structure - denaturation
-• Cell walls
-• peptidoglycan, lipopolysaccharide and teichoic
+- Cell walls
+- peptidoglycan, lipopolysaccharide and teichoic
 acids heat resistant
-• DNA / RNA
-• Denaturation reversible
-• Cell membranes
-• membrane lipids melt and lose function, loss of
+- DNA / RNA
+- Denaturation reversible
+- Cell membranes
+- membrane lipids melt and lose function, loss of
 essential metabolites
 Effect of temperature on cell
-• Fluidity of Phospholipid membranes
-fatty acid side chains of the• Determined by
+- Fluidity of Phospholipid membranes
+fatty acid side chains of the- Determined by
 phospholipids
-• The fluidity of the fatty
+- The fluidity of the fatty
 acid is influenced by
-• 1 Saturation
-• 2 Chain length
-• 3 Branching
-• 4 Cyclicization
+- 1 Saturation
+- 2 Chain length
+- 3 Branching
+- 4 Cyclicization
 Effect of temperature on cell
 membrane
 Properties of bacterial fatty acids from
 Psychrophiles and Thermophiles
 Psychrophiles
 low
-•
-• 1 Saturation
-• 2 Chain length
-• 3 Branching
-• 4 Cyclicization
+-
+- 1 Saturation
+- 2 Chain length
+- 3 Branching
+- 4 Cyclicization
 short
 low
 low
@@ -3586,10 +3587,10 @@ high
 long
 high
 high
-• Mesophiles use these properties to adapt to
+- Mesophiles use these properties to adapt to
 moderate changes in temperature
-• For example
-• Saturated fatty acids form more hydrophobic
+- For example
+- Saturated fatty acids form more hydrophobic
 domains leading to a more stable membrane
 that resists melting at high temperature.
 Changes in bacterial membrane fatty acids in
@@ -3645,84 +3646,84 @@ temperature
 Time (h)
 Temp reduced Temp increased
 Adaptation to high temperature
-• Non phospholipid membranes
-• Hyperthermophiles - Archaea
-• Major membrane lipid is a C40 biphytanyl
+- Non phospholipid membranes
+- Hyperthermophiles - Archaea
+- Major membrane lipid is a C40 biphytanyl
 polymer that forms a lipid monolayer
 membrane.
-• See Brock Section 17.12
+- See Brock Section 17.12
 Archaeal cell membrane -
 highly adapted
 Archaeal cell membrane
 Bacterial cell membrane
 Archaeal cell membrane
-• Archaea have L-glycerol
-• Bacteria have D-glycerol
-• Ether linkage of side-chain to glycerol
-• Bacteria have Ester linkage
-• Side-chain consists of repeating isoprene
+- Archaea have L-glycerol
+- Bacteria have D-glycerol
+- Ether linkage of side-chain to glycerol
+- Bacteria have Ester linkage
+- Side-chain consists of repeating isoprene
 units (5C), Phytanyl (20C), Biphytanyl (40C)
-• Bacterial consists of fatty acids (16-18C)
-• Archaea have branching side chains
-• Bacterial are non-branching
+- Bacterial consists of fatty acids (16-18C)
+- Archaea have branching side chains
+- Bacterial are non-branching
 Effect of temperature on proteins
-• Mesophilic proteins
-• 50OC-60OC
-• disruption of non covalent associations
+- Mesophilic proteins
+- 50OC-60OC
+- disruption of non covalent associations
 resulting in breakdown into subunits
-• denaturation begins
-• 80OC and over
-• irreversible denaturation
-• breaking of disulphide bonds
-• deamination of glutamine and asparagine side
+- denaturation begins
+- 80OC and over
+- irreversible denaturation
+- breaking of disulphide bonds
+- deamination of glutamine and asparagine side
 chains
-• hydrolysis of peptide bonds
+- hydrolysis of peptide bonds
 Effect of temperature on proteins
-• Thermostable proteins
-• >100OC for several days, in dilute buffer.
-• None of the changes seen with mesophilic
+- Thermostable proteins
+- >100OC for several days, in dilute buffer.
+- None of the changes seen with mesophilic
 proteins occur - WHY?
-• Primary structures are slightly different
-• Amino acid sequences show 95% to 85%
+- Primary structures are slightly different
+- Amino acid sequences show 95% to 85%
 homology with equivalent mesophilic
 proteins.
-• These small differences allow proteins to
+- These small differences allow proteins to
 fold into more thermostable forms
 Thermostable Proteins
-• Adaptations include:
-• longer alpha helix regions
-• triple stranded beta sheets
-• increased ionic interactions between amino acid
+- Adaptations include:
+- longer alpha helix regions
+- triple stranded beta sheets
+- increased ionic interactions between amino acid
 side chains (H & non-covalent bonds)
-• larger quantities of aa like proline
-• tighter folding
-• due to more hydrophobic core
-• reduces surface area to volume ratio.
+- larger quantities of aa like proline
+- tighter folding
+- due to more hydrophobic core
+- reduces surface area to volume ratio.
 Not ALL proteins from Thermophiles are
 thermostable
-• High turnover rate
-• Protein synthesis is very fast to replace
+- High turnover rate
+- Protein synthesis is very fast to replace
 damaged protein
-• Chaperones help refold damaged proteins
-• DNA has higher melting point
-• Polymerases are heatstable
-• e.g. Taq polymerase
+- Chaperones help refold damaged proteins
+- DNA has higher melting point
+- Polymerases are heatstable
+- e.g. Taq polymerase
 Chaperones
-• a.k.a. Heat shock
+- a.k.a. Heat shock
 proteins
-• DnaK, DnaJ, Grp E, GroEL, GroES
-• Recognise unfolded proteins
-• Prevent or reverse incorrect
+- DnaK, DnaJ, Grp E, GroEL, GroES
+- Recognise unfolded proteins
+- Prevent or reverse incorrect
 folding
-• ↑ when cells exposed to high
+- ↑ when cells exposed to high
 temp
-• Also protect against other
+- Also protect against other
 stresses
-• Taq Polymerase
-• Polymerase Chain Reaction (PCR)
-• Temperature cycles from 63OC to 95OC
-• Most commonly used polymerase
-• $500,000,000
+- Taq Polymerase
+- Polymerase Chain Reaction (PCR)
+- Temperature cycles from 63OC to 95OC
+- Most commonly used polymerase
+- $500,000,000
 Thermus aquaticus
 Ext emophiles
 Thermus aquaticus Polymerase Chain Reaction (PCR)
@@ -3748,263 +3749,263 @@ Produces enzyme used to make
 perfume, lactic acid
 Converts cellulose into ethanol
 Effects of Freezing
-• What happens when you freeze a
+- What happens when you freeze a
 solution?
-• Water freezes forming ice crystals
-• As water turns to ice concentration of cell
+- Water freezes forming ice crystals
+- As water turns to ice concentration of cell
 contents rises
-• What happens to the Aw?
-• The Aw falls
-• What happens in cells?
-• Ice expands volume ruptures cell
-• Creates shear forces that disrupt the cell
-• Cell death due to combination of
+- What happens to the Aw?
+- The Aw falls
+- What happens in cells?
+- Ice expands volume ruptures cell
+- Creates shear forces that disrupt the cell
+- Cell death due to combination of
 mechanical damage and low Aw.
 Cold Osmotic Shock (COS)
-• Dilute cell suspension from isotonic medium at
+- Dilute cell suspension from isotonic medium at
 37OC into 100 volumes of ice cold hypotonic
 diluent.
-• e.g. 1.0 ml of broth culture at 37OC added to 99.0 ml
+- e.g. 1.0 ml of broth culture at 37OC added to 99.0 ml
 sterile distilled water at 0OC.
-• Rapid loss of viability: 99.999% in 5 to 10 minutes.
+- Rapid loss of viability: 99.999% in 5 to 10 minutes.
 Protection against loss of viability
-• Use of cryoprotectants
-• Examples include:Glycerol, skimmed milk, DMSO
-• Hydrate in solutions & weaken crystallization
-• Enter cell and balance osmotic pressure &
-• Relieve shrinkage & swelling damage during
+- Use of cryoprotectants
+- Examples include:Glycerol, skimmed milk, DMSO
+- Hydrate in solutions & weaken crystallization
+- Enter cell and balance osmotic pressure &
+- Relieve shrinkage & swelling damage during
 freezing & thawing.
 
 Cold Environment
-• Thermal inactivation of enzymes faster than
+- Thermal inactivation of enzymes faster than
 rates of activation
-• Inadequate O2 supply to meet metabolic
+- Inadequate O2 supply to meet metabolic
 demands
-• Different temperature effects on
+- Different temperature effects on
 interdependent metabolic reactions
 (“reaction uncoupling”)
-• Membrane structure alterations
-• Freezing
+- Membrane structure alterations
+- Freezing
 Freezing
-• Drastic reduction in gas diffusion
-– liquid water vs. solid water
-• Drastic reduction in enzyme function
-– Reduced molecular mobility
-• Structural disruption of enzymes
-• Mechanical disruption of cell membranes
-• Osmotic dehydration due to freezing of
+- Drastic reduction in gas diffusion
+    - liquid water vs. solid water
+- Drastic reduction in enzyme function
+    - Reduced molecular mobility
+- Structural disruption of enzymes
+- Mechanical disruption of cell membranes
+- Osmotic dehydration due to freezing of
 extracellular water
-– Most important factor
+    - Most important factor
 Ectotherms in Cold Environments
 1. Regional heterothermy:
-• different temperatures
+- different temperatures
 in different parts of body
 (e.g., tuna, sharks)
-• Counter-current
+- Counter-current
 exchange through rete
 mirabilia
 2. Supercooling:
-• water in body cooled to below freezing
-• No ice formation at bottom of large water
+- water in body cooled to below freezing
+- No ice formation at bottom of large water
 bodies
-• Example: deep water fish of Hebron Fjord
-• super-cool (-1.5 °C)
-• Lack of nucleating agents prevent freezing
-• Enhanced by addition of solutes to aqueous
+- Example: deep water fish of Hebron Fjord
+- super-cool (-1.5 °C)
+- Lack of nucleating agents prevent freezing
+- Enhanced by addition of solutes to aqueous
 solution
-•  [solutes],  freezing point
+- ↑ [solutes], ↓ freezing point
 Freezing point depression e.g. insects:
-• Produce high levels of glycerol
-• Lowers freezing point
-• Willow gallfly larvae can supercool to –60 °C
-3. Anti-freeze in blood:
-• Surface dwelling fish of Hebron Fjord produce
+- Produce high levels of glycerol
+- Lowers freezing point
+- Willow gallfly larvae can supercool to     -60 °C
+1. Anti-freeze in blood:
+- Surface dwelling fish of Hebron Fjord produce
 glycoproteins & polypeptides
 Ectotherms in Cold Environments
 Ectotherms in Cold Environments
 4. Freeze tolerance: formation of ice in extracellular fluid:
-• Antifreeze inside cells
-• Cells maintained by anaerobic metabolism
-• Allows shallow hibernation in frogs (Benefits?)
-• Examples: wood-frog & spring peepers use glucose as antifreeze
+- Antifreeze inside cells
+- Cells maintained by anaerobic metabolism
+- Allows shallow hibernation in frogs (Benefits?)
+- Examples: wood-frog & spring peepers use glucose as antifreeze
 Many freeze tolerant organisms have ice-nucleating agents:
-• Promotes ice-crystal formation in extracellular fluid
-• Draws water out of cells,  intracellular concentrations &  freezing point
-• Helps prevent crystal formation inside cells
-• Prevents mechanical damage
-• Fat, round body
-• Short Legs
-• Small ears
-• Small SA to Volume Ratio
-• Why?
+- Promotes ice-crystal formation in extracellular fluid
+- Draws water out of cells, ↑  intracellular concentrations & ↓ freezing point
+- Helps prevent crystal formation inside cells
+- Prevents mechanical damage
+- Fat, round body
+- Short Legs
+- Small ears
+- Small SA to Volume Ratio
+- Why?
 Body shape
 Endothermic Mechanisms of
 Thermoregulation
-• Thermogenesis
-• Insulation
-• Migration & Modification of microclimate
-• Hibernation &Torpor
-• Alterations in Body Size & Metabolism
-• Appendages
-• Regional heterothermy, coloration,
+- Thermogenesis
+- Insulation
+- Migration & Modification of microclimate
+- Hibernation &Torpor
+- Alterations in Body Size & Metabolism
+- Appendages
+- Regional heterothermy, coloration,
 counter-current heat exchange
 Endotherms in Cold Environments
 5. Thermogenesis:
-• Shivering:
-• brief contractions of antagonistic muscle groups produces heat
+- Shivering:
+- brief contractions of antagonistic muscle groups produces heat
 without motion
-• Non-shivering thermogenesis:
-• fat metabolized to produce heat; regulated by sympathetic nervous
+- Non-shivering thermogenesis:
+- fat metabolized to produce heat; regulated by sympathetic nervous
 system
 6. Insulation:
-• Hair, feathers;
-• Pilomotor control
-• Shedding/moulting allows seasonal changes
-• Blubber
-• Metabolically inactive
-• Vasoconstriction reduces heat loss
-7. Migration: seasonal long distance movements (e.g.,
+- Hair, feathers;
+- Pilomotor control
+- Shedding/moulting allows seasonal changes
+- Blubber
+- Metabolically inactive
+- Vasoconstriction reduces heat loss
+1. Migration: seasonal long distance movements (e.g.,
 gray whale)
-• Spend summer at polar ice caps eating krill
-• Store energy as blubber
-• Spend winter in tropics; females bear & nurse young
-8. Torpor: adaptive hypothermia (e.g. chickadees)
-• Fat stores accumulated during day supply energy for
+- Spend summer at polar ice caps eating krill
+- Store energy as blubber
+- Spend winter in tropics; females bear & nurse young
+1. Torpor: adaptive hypothermia (e.g. chickadees)
+- Fat stores accumulated during day supply energy for
 cold nights
-• Stored fat not enough to survive night without torpor
+- Stored fat not enough to survive night without torpor
 Endotherms in Cold Environments
 Hypothermia
-• Animal turns down
+- Animal turns down
 metabolism -> cooling
-• Wake from hypothermia
+- Wake from hypothermia
 occassionally during
 hibernation
-• Can thermoregulate if
+- Can thermoregulate if
 temperatures fall to levels
 too low
-• Prepare: fat storage
-• Mammals
-• Rare in birds but some
+- Prepare: fat storage
+- Mammals
+- Rare in birds but some
 examples
 Controlled hypothermia
 Temp decreases but not to
 ambient temperature:
-• Black-capped Chickadee:
+- Black-capped Chickadee:
 temperature decrease by 7oC
-• Conserves up to 25% of
+- Conserves up to 25% of
 energy
-• Bear: temperatures decrease
+- Bear: temperatures decrease
 to 31-33oC
-• Not “true” hibernation
-• = winter sleep
+- Not “true” hibernation
+- = winter sleep
 Temperature Regulation in Cold Environments…A
 cooler look!
-Option 1 – Controlled Hypothermia (Dormancy or
+Option 1     - Controlled Hypothermia (Dormancy or
 Torpor):
 Hibernation: In winter
-• Animal lowers body temperature a significant amount:
-• temperature remains at lower level for several days
-• Some animals store energy as body fat to survive
+- Animal lowers body temperature a significant amount:
+- temperature remains at lower level for several days
+- Some animals store energy as body fat to survive
 hibernation period, others store food
-• Animals wake up periodically.
-• Those that store food do eat food during periods of
+- Animals wake up periodically.
+- Those that store food do eat food during periods of
 wakefulness.
-• Smaller mammals: longer periods at low body temperature
-• Males enter hibernation earlier than females & terminate
+- Smaller mammals: longer periods at low body temperature
+- Males enter hibernation earlier than females & terminate
 hibernation earlier than females
 Winter Sleep:
-• Some Carnivora, e.g.
+- Some Carnivora, e.g.
 Bears, raccoons, badgers
-• Body temperature only
+- Body temperature only
 decreased by 5-6 C
-• animals store large
+- animals store large
 amounts of body fat so
 can maintain higher
 metabolic rates during
 winter & live off fat stores
 Daily Torpor
-• significant decrease in body
+- significant decrease in body
 temperature for part of day
-• decrease occurs during normal
+- decrease occurs during normal
 sleep time
-• may occur on consecutive days
-• Decrease in T not as great as in
+- may occur on consecutive days
+- Decrease in T not as great as in
 hibernators
-• usually to about 15 C
+- usually to about 15 C
 Thermoregulation in Cold Environments
-Hibernation – Estivation – Daily torpor Cycle
-• A means to escape the
+Hibernation     - Estivation     - Daily torpor Cycle
+- A means to escape the
 demands of homeothermy
-– Torpor
-– Controlled hypothermia
-• Body temperature falls to
+    - Torpor
+    - Controlled hypothermia
+- Body temperature falls to
 close to approximate
 ambient temperatures
-• During winter ->
+- During winter ->
 hibernation
-• During summer -> estivation
-• During certain part of day ->
+- During summer -> estivation
+- During certain part of day ->
 daily torpor
 Option 2 - Body Size and Metabolism:
-• Bergmann’s Rule –mammals from colder climates tend to be
+- Bergmann’s Rule     -mammals from colder climates tend to be
 larger than similar/same species from warmer climates
-• Surface to Volume ratios
-• Body mass may change seasonally
-• Consequences of long thin shape
+- Surface to Volume ratios
+- Body mass may change seasonally
+- Consequences of long thin shape
 Arctic Fox Fennec Fox
 Thermoregulation in Cold Environments
 Option 3 - Insulation Changes:
-• Increase in thickness of fur
-• Increase in thickness of subcutaneous fat layer
-• Increase in insulation decreases Lower Critical Temperature
-• Upper Critical Temperature may also be lowered
+- Increase in thickness of fur
+- Increase in thickness of subcutaneous fat layer
+- Increase in insulation decreases Lower Critical Temperature
+- Upper Critical Temperature may also be lowered
 e.g. Arctic fox:
-• LCT of –40C in winter; decreased need for food in a cold
+- LCT of     -40C in winter; decreased need for food in a cold
 environment
 Thermoregulation in Cold Environments
 Arctic Fox (summer)Arctic Fox (winter)
-Option 4 – Appendages:
-• Allen’s Rule – Appendages of mammals in colder environments
+Option 4     - Appendages:
+- Allen’s Rule     - Appendages of mammals in colder environments
 are shorter than those of animals of same species found in
 warmer climates
-• Regional Heterothermy & Countercurrent heat exchange:
-• Found in nose, legs, tails, ears, flipper of marine mammals
+- Regional Heterothermy & Countercurrent heat exchange:
+- Found in nose, legs, tails, ears, flipper of marine mammals
 Thermoregulation in Cold Environments
-Option 5 – Coloration:
-• Gloger’s rule: species in warm and humid areas are more
+Option 5     - Coloration:
+- Gloger’s rule: species in warm and humid areas are more
 heavily pigmented than those in cool and dry areas
-• Color change in some mammals
-• White coloration in many arctic mammals; a thermal
+- Color change in some mammals
+- White coloration in many arctic mammals; a thermal
 advantage?
 Thermoregulation in Cold Environments
 Arctic Fox (summer)Arctic Fox (winter)
 Option 6 - Modification of
 Microclimates:
-• Nest building
-• Huddling behavior
-• Both conserve body heat by
+- Nest building
+- Huddling behavior
+- Both conserve body heat by
 increasing insulation
 Option 7 - An Increase in
 Thermogenic Capacity:
-• Non-shivering Thermogenesis
-• Brown Fat: rich in mitochondria
-• Stimulated by Norepinephrine
-• Heat production rather than ATP
+- Non-shivering Thermogenesis
+- Brown Fat: rich in mitochondria
+- Stimulated by Norepinephrine
+- Heat production rather than ATP
 production
 Thermoregulation in Cold Environments
 Cold Environment: links
-• Life in the Freezer Clips
-• Dormouse Hibernation
-• Hibernation & Torpor
-• Snow Leopards
-• Arctic Fox Hunting in Winter
+- Life in the Freezer Clips
+- Dormouse Hibernation
+- Hibernation & Torpor
+- Snow Leopards
+- Arctic Fox Hunting in Winter
 Learning Outcomes
-• What is “heat” & “temperature”?
-• Types of Thermoregulation
-• Metabolism
-• Importance of body shape/colouration
-• Hot environments: adaptations
-• Cold environments: adaptations
+- What is “heat” & “temperature”?
+- Types of Thermoregulation
+- Metabolism
+- Importance of body shape/colouration
+- Hot environments: adaptations
+- Cold environments: adaptations
 
 Thermoregulation
 Arctic Fox
@@ -4015,44 +4016,44 @@ Desert Hare
 European
 Hare
 Learning Outcomes
-• What is “heat” & “temperature”?
-• Types of Thermoregulation
-• Metabolism
-• Importance of body shape/colouration
-• Hot environments: adaptations
-• Cold environments: adaptations
+- What is “heat” & “temperature”?
+- Types of Thermoregulation
+- Metabolism
+- Importance of body shape/colouration
+- Hot environments: adaptations
+- Cold environments: adaptations
 Temperature & Heat
 Temperature:
-• measure of intensity
+- measure of intensity
 of molecular
 movement within an
 object
 Heat:
-• form of energy due to
-• motion of atoms
+- form of energy due to
+- motion of atoms
 forming object
-• amount of heat
+- amount of heat
 depends on size of
 object as well as
 temperature
 Heat:
-• moves by conduction or
+- moves by conduction or
 convection
-• from high to low temperatures
-• transfer of heat raises
+- from high to low temperatures
+- transfer of heat raises
 temperature of object receiving
 heat & vice versa
 Thermal equilibrium:
-• temperatures are same
+- temperatures are same
 Heat transfer between animals & the environment
 Thermoregulation
 Homeotherms use :
-• Environment
-• Vascular & metabolic
+- Environment
+- Vascular & metabolic
 adaptations
-• Shivering & sweating
+- Shivering & sweating
 Cold-blooded animals:
-• change environmental exposure
+- change environmental exposure
 Mechanisms of thermoregulation
 Climate Ectotherm Endotherm
 Hot Localized Vasodilation
@@ -4072,82 +4073,82 @@ Insulation
 Migration
 Torpor
 Controlling body temperature
-• Animals with large surface area compared to their
+- Animals with large surface area compared to their
 volume will lose heat faster than animals with small
 surface area
 Poikilothermy - Ectothermy
-• Most common
-• all invertebrates
-• many vertebrates
-• animal’s body temperature
+- Most common
+- all invertebrates
+- many vertebrates
+- animal’s body temperature
 varies with environment
 Terrestrial animals:
-• can adjust body temperature
+- can adjust body temperature
 with behaviour (basking in sun,
 resting underground etc.)
 Eurythermal:
-• function over wide range of
+- function over wide range of
 temp
 Stenothermal:
-• function over narrow range of
+- function over narrow range of
 temp
 Metabolic Rate:
-• Rate that an animal consumes
+- Rate that an animal consumes
 chemical energy
-• heat energy released, O2
+- heat energy released, O2
 consumed, or CO2 produced
 Basal Metabolic Rate (BMR):
-• Metabolic rate at rest with no
+- Metabolic rate at rest with no
 temperature stress or digestion
 occurring
 Basic functioning of vital organs:
-• liver (27%), brain (19%), muscles
+- liver (27%), brain (19%), muscles
 (18%), kidneys (10%), heart (7%)
 Thermoregulation
 Thermoneutral zone:
-• range of ambient
+- range of ambient
 temperatures where BMR
 maintained
 Lower critical temperature:
-• animal must increase
+- animal must increase
 metabolic heat production
 to maintain temperature
 Upper critical temperature:
-• animal must use
+- animal must use
 evaporative heat loss to
 maintain temperature
 Lower lethal temperature:
-• heat loss to environment >
+- heat loss to environment >
 metabolic heat production
 Upper lethal temperature:
-• heat gain from environment >  evaporative cooling
+- heat gain from environment >  evaporative cooling
 Metabolic rate &
 Thermoregulation
 Regulating Body Temperature in Humans
 Ectotherm vs Endotherm
-• Thin, long body
-• Long Legs
-• Large ears
-• Large SA to Volume Ratio
-• Why?
+- Thin, long body
+- Long Legs
+- Large ears
+- Large SA to Volume Ratio
+- Why?
 Body shape: Hot Environments
 Heat production
-• Metabolism
-• Shivering
-• Non-shivering
+- Metabolism
+- Shivering
+- Non-shivering
 thermogenesis:
 brown fat
 Mammals & birds in hot
 environments
-• Behavioral defenses
-• Insulation
-• Body reactions, e.g.
+- Behavioral defenses
+- Insulation
+- Body reactions, e.g.
 panting, increased resp.
 rate
-• Regional heterothermy
-• Countercurrent
+- Regional heterothermy
+- Countercurrent
 exchange
-• Evaporation: costly
+- Evaporation: costly
 ->
 loss of water: ultimate
 line of defense
@@ -4158,73 +4159,73 @@ body temperature
 Require
 “evaporative
 cooling”:
-• Sweating
-• Panting
-• Saliva
+- Sweating
+- Panting
+- Saliva
 Spreading, e.g.
 Cat
-•Allow body temperature to increase
-• animal becomes hyperthermic
-•uses controlled hyperthermia
+-Allow body temperature to increase
+- animal becomes hyperthermic
+-uses controlled hyperthermia
 e.g. Camel:
-•Thick fur on top of body: shade
-•Thin fur elsewhere: easy heat loss
-•Large surface area to volume
+-Thick fur on top of body: shade
+-Thin fur elsewhere: easy heat loss
+-Large surface area to volume
 ratio: maximises heat loss
-•Can go for a long time without water: lose
+-Can go for a long time without water: lose
 little through urination sweating
-•Can tolerate body temperatures up to 42°C.
-•Slit-like nostrils & two rows of eyelashes:
+-Can tolerate body temperatures up to 42°C.
+-Slit-like nostrils & two rows of eyelashes:
 keep the sand out
 What mechanisms are there to cool the
 body down?
 Sweating:
-• Evaporation of water
+- Evaporation of water
 from surface of skin to
 cool body
-• Electrolytes also lost in
+- Electrolytes also lost in
 sweat
 Panting
-• Rapid, shallow breathing
-• Evaporates water from upper
+- Rapid, shallow breathing
+- Evaporates water from upper
 respiratory tract
-• Used by many carnivores &
+- Used by many carnivores &
 ungulates
-• Panting animals do not lose
+- Panting animals do not lose
 electrolytes
 Endothermy in Insects
-• At rest, not enough heat produced
+- At rest, not enough heat produced
 to warm up insect
-• Heat usually produced by flight
+- Heat usually produced by flight
 muscles
-• Higher temperature, more efficient
+- Higher temperature, more efficient
 flying -> more energy & heat
 produced
 Temporal & spatial heterothermy:
-• Endothermy when active only
-– thorax muscles
-– control blood circulation from
+- Endothermy when active only
+    - thorax muscles
+    - control blood circulation from
 thorax to abdomen
-– varying degree of body
+    - varying degree of body
 insulation
-– controlling muscle activity
+    - controlling muscle activity
 e.g: bumble bee:
-• flight muscles used for shivering
-• warm themselves before able to fly
+- flight muscles used for shivering
+- warm themselves before able to fly
 (sun exposure & shivering)
-• flight maintains warmth
+- flight maintains warmth
 Warm-bodied fishes
-• Larger predator sharks &
+- Larger predator sharks &
 tunas have muscles which
 with a higher temperature
 than body
-• Need to swim vigorously in
+- Need to swim vigorously in
 order to catch fast prey
 Have:
-– higher metabolic rate in
+    - higher metabolic rate in
 these muscles -> heat
 production
-– in order not to lose it
+    - in order not to lose it
 through blood circulation ->
 counter-current mechanism
 

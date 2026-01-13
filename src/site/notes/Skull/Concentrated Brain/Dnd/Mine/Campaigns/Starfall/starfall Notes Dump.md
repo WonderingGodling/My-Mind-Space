@@ -28,21 +28,42 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Homestuck NPCs
  - [ ] **Go All Out For NPC Icons**
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Lightning Throw NPC\|Lightning Throw NPC]]
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/King Freud (Crazy King)\|King Freud (Crazy King)]]  "Treason", Queen Starting War, ExperimentS Perdormed On Him, He Was That Class Beforehand
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Athens/Kaskurt\|Kaskurt]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/King Freud (Crazy King)\|King Freud (Crazy King)]]  
+	- [ ] "Treason"
+		- [ ] Queen Starting War
+	- [ ] Experimens Performed On Him
+	- [ ] He Was That Class Beforehand
+				- []. [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]]
 - [ ] [[Level 30 Warlock \|Level 30 Warlock ]]
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Queen\|Queen]] Level 20, Isnt A Fan Of The Gods But Can Only Disparage Heretics, Has Exclusive (Just For Her) News That Lady Death Has Moved On
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Ifumi\|Ifumi]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Queen\|Queen]] Level 20, 
+	- [ ] Isnt A Fan Of The Gods But Can Only Disparage Heretics
+	- [ ] Has Exclusive (Just For Her) News That The Avatar Of The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Church Of The Next/Church Of The Next\|Church Of The Next]]Has Moved On
+		- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Knuts/Lei\|Lei]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Neutral/Blakewell\|Blakewell]]
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Lei\|Lei]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hunter\|Hunter]] 
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Lei\|Lei]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Neutral/Droste\|Droste]] 
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Lei\|Lei]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Gods/UnterGod/The  Harbinger\|The  Harbinger]] , apostle Of [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Church Of Reckfullness\|The Church Of Reckfullness]]✘
-	- [ ] Fake Harbinger ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Thievin Steven\|Thievin Steven]]) At The Dungeon 
+	- [ ] Fake Harbinger ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Thievin Steven\|Thievin Steven]]) 
+		- [ ] At The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Dungeon\|Dungeon]]
 - [ ] Way More Dragons
 - [ ] Default Sheets
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Old Fisherman\|Old Fisherman]] (Highhish Level)
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Branson/Fission Chipz\|Fission Chipz]]
 - [ ] Original Arcane Rifleman Looking For Her Book
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Laurence\|Laurence (She/Her)]]
-- [ ] Thing That Brought Missy's Character There (Evil) 
-	- [ ] [[Scrap Lich \|Scrap Lich ]]
+- [ ] Thing That Directed Qutes And Karma There (Evil) 
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Blood Lich\|Blood Lich]] 
+		- [ ] Been Weakened For Generations
+			- [ ] Half Burried, Unable To Move, Can Speak If Uncovered
+		- [ ] NEeded The Product Of War To Gain And Grant Power
+		- [ ] Makes Lich Stronger But Can Get Warlock Levels
+		- [ ] Perma-Death
+		- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Torogiya/Nazareck\|Nazareck]] Outskirts (Some Unmarked Grave In The Wasteland)
 - [ ] Someone With Time Travel Skates 
 - [ ] Ninja Girl 
 - [ ] Make Someones Icon Scott Pilgrim
@@ -54,7 +75,11 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Church Vantias/Vantias\|Vantias]] 
 - [x] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town\|Hatchet Town]]  [completion:: 2025-07-20]
 - [ ] Groups Of People Anonymously Giving Group S Information
+	- [ ] Letters
+	- [ ] Not [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]]
+	- [ ] If Anything Big Happens They Get A Breif Explanation Of The Previous Session
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Farty Fuqueballs Jr Jr (Jay)\|Farty Fuqueballs Jr Jr (Jay)]]
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Natheas\|Natheas]]
 - [ ] Write more about [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Cambrighton\|Cambrighton]] and [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Aerynthalas\|Aerynthalas]] (Local Dragon)
 - [ ] Write more about [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/The Underground\|The Underground]]
 - [ ] [[Wrighth Stuff/Wrighth Index\|Wrighth]]
@@ -66,8 +91,9 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [x] Set Up Mistresses Stall  [completion:: 2025-07-20]
 - [ ] Add Guy Hunting Bees Bees First Body
 	- [ ]  [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/2 Firstday/Master Bane\|Master Bane]] 
-	- [ ] Mid Range Sniper Killed Bee At The End Of Day Two
-- [ ] Guy Going From [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Lei\|Lei]] To North Satellia To Get Meteorite Fragment (Just A Rock Collector)
+	- [ ] Super-Long-Range Sniper Killed Bee At The End Of Day Two
+	- [ ] Body Will Repeat Those Two Days And Can Be Taken Over
+- [ ] Guy Going From [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Lei\|Lei]] To North [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Satellia\|Satellia]] To Get Meteorite Fragment (Just A Rock Collector)
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Mixyrius\|Mixyrius]]
 	- [ ] Dies (Accident) If Not Helped
 - [ ] The God Of Rest, Short And Eternal
@@ -76,6 +102,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 		- [ ] Sprinkle In Some: Celestial, Deep Speech, Primordial, Sylvan, Undercommon
 - [ ] Undercover Cop
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Pat Springleaf\|Pat Springleaf]]
+	- [ ] "Helps" Group S 
 - [ ] Let Nothing Be Implied
 - [ ] Optionally Take Their Weapons For The Festivals
 - [ ] NPC Poem
@@ -85,21 +112,25 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Queen Death Alt Ending
 - [ ] Someone Important Who Knows Rumours About The Parties
 	- [ ] Karma's Boss' Boss
-- [ ] Bag Of Holding Sale
-	- [ ] Day 3 Any Major City
+- [ ] Pouch Of Holding Sale
+	- [ ] Bag Of Holding With Abtrarily Decreased Function
+	- [ ] Day 3 Every Major City
+	- [ ] Seller Gets Rich
 - [ ] Mimic Town
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]]
 - [ ] Egg And Cress Sandwhich Joke
 	- [ ] The Last Magic Weapon
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/waterside Down\|WATERSIDE DOWN]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Roque\|Roque]]
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Biedenbach\|BiedenBach]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]]
 - [x] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Apprentice Occultist Sheet\|Apprentice Occultist Sheet]]
-- [ ] Dragon, Very Long Neck 
+- [ ] Dragon, Two Very Long Necks
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]]
 - [ ] Give [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Clarent\|Clarent]] More To Do
 - [ ] More Wrighth!
 - [ ] Fire "Water Gun"
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Knuts/Lei\|Lei]]
 - [x] Hell Map  [completion:: 2025-07-29]
 - [ ] Church Map
 - [ ] Brothel Map
@@ -107,8 +138,11 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Statue Of A Horned Paladin With His Sword Embedded In The Floor
 	- [ ] Is Dragon Defence
 		- [ ] Dragon Defence Statue Hostile To Grims Characters
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Knuts/Lei\|Lei]]
 - [ ] Ghost Somewhere
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gahenna/Gahenna\|Gahenna]]
 - [ ] Robots
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Phrygia/Phrygia\|Phrygia]]
 - [ ] Tea Tourist Merch In Hollywood
 	- [ ] Cheap Disposable Tea (Sets)
 	- [ ] Rare (Kinda Expensive) Tea Sets`
@@ -142,7 +176,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 		- [ ] Nat 1, Incapacitated, Face-To-Face With A Head Of A Church, In A Church, Just A Good Malice Opportunity, Wants To Eat Person
 		- [ ] Wisdom And Strength Swap
 	- [ ] Can Take Consumable Abilities
-- [ ] [[The Fruitless Sky\|The Fruitless Sky]]
+- [ ] The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Fruitless Sky\|Fruitless Sky]]
 	- [ ] Tamers
 	- [ ] Khan Doorman Sheet
 	- [ ] Short Debrief Note From Lisa To Other Scientists
@@ -195,7 +229,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Fakeout Heist
 	- [ ] Break Into High Security Place With Low Value Item
 - [ ] Spells With Triggee Phrases
-	- [ ] If Hear " " Then " "
+	- [ ] If Hear/Heard " " Then " "
 - [ ] Judgy Duck
 - [ ] Dragon That Deals In Telemetry
 - [ ] Reverse Ice (Fire Cubes)
@@ -250,7 +284,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Branching Paths Quest
 	- [ ] Wrong Paths Lead You Back To A Previous Branch
 	- [ ] Maybe Add Snakes As A Snakes And Ladders Joke
-- [ ] Magic Item Lets You Cast Twop Spells At Once 
+- [ ] Magic Item Lets You Cast Two Spells At Once 
 	- [ ] First Spell Is Cast That Turn
 	- [ ] Second Spell Is Cast Next Turn
 - [ ] Seperate Soul Summoning And Soul Messaging Artifacts
@@ -276,7 +310,39 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] "Hot Singles In Your Area" News Add
 	- [ ] Fire Elemental Dating Group
 - [ ] Mimicry Stuff
-- [ ] Anti Teleport Stuff
+- [ ] Soup Lake
+- [ ] Carrie Moment
+	- [ ] Party Gets Invited Somewhere Big And get Blood Dumped On Them
+- [ ] Guy Pretending To Be A Budding God That Keeps Offering Them Fake Power To Do Their Bidding
+- [ ] Level Clear Guy Villian Name: Antonio "The-Lonely-Oh" Baldonio Leader Of Malvolio (Gang Of Townkolio)
+- [ ] Unsolvabe Riddle With 100g Reward
+	- [ ] Decoy Riddle
+- [ ] Gambling/Casino Stuff
+- [ ] 412 Year-Old Avatar
+- [ ] Air, Earth, Fire, Water Bison
+- [ ] Church Of Second Chances Life Spells
+	- [ ] Free High Level Spells
+		- [ ] Heal Cantrips And Whatever
+- [ ] Damage Threshold Enemy
+- [ ] Assassination/Hit Missions
+- [ ] Guy That Turns Silver Into Slightly More Silver
+- [ ] Hell Beauty Competition Winner Would Become Queen Consort Till Death Or Revolution
+	- [ ] Demons Are Upset That The Beauty Competition Was On The Same Day As Moon Day Because It Is Untraditional
+- [ ] Escape room
+- [ ] 2 Kids, Kacey And Jr Killed Their Parents
+	- [ ] If Find Them Early Enough There Is An Option To Babysit Them
+		- [ ] Bonus Option (Hidden) To Break Them Out Of The Loop
+- [ ] Girl Makes Boyfriend Robot Body
+	- [ ] (Wake This Weird And Creepy)
+- [ ] Older Sister Who Really Loves Her Younger Brother
+	- [ ] Be Gross But Not Sexual
+- [ ] Original Version Of Karma Bleeds Out In The Inn And Gets Replaced By Current One
+	- [ ] Having Died Broke Some Reality Shield
+- [ ] Karma Gets Good Groups Session 2 Description
+- [ ] Orb Of Annihilation
+- [ ] Demons
+- [ ] Celestials
+- [ ] Lost Divine Artefact For Cult
 
 
 

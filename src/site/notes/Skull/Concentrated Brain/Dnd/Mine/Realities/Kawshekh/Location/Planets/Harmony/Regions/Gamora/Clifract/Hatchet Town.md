@@ -5,8 +5,8 @@
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 
-# <center><span style="color:#000000">Hatchet Town </span></center>
-
+# <center><span style="color:#600000">Hatchet Town </span></center>
+To Eat Their Own
 
 A Town Known For Casual Cannibalism
 	But It Makes Its Prospects From Tourism, Hunting And Baking (when Possible)
@@ -26,20 +26,33 @@ The Cannibalism Has Been A Thing In Recent History
 
 ## Moon Day
 
-On Moon Day Its Covered In A Dense Fog, Seeping Out From Every Nook And Cranny Towards The Well 
-The Fog Swallows Light And Sound, Things That Fall In Seemingly Vanish
-Crows Can Be Heard In The Distance
+- Dense Fog Seeping Out From Every Nook And Cranny, Reaches The Well And Spouts Up
+	- The Fog Eats Loud Noise Or Bright Lights
+	- Well Water Inflicts Poison And Short-Term Memory Loss
+	- A Few Crow Calls Heard In The Distance
 
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/The Harbinger\|The Harbinger]] Is There  And Is Reluctant To Help Anybody
 
-Players On Different Sides Of Fountain
-	Can Go Around The Town Doing Whatever
-		Most Shops Are Open But Low On Supply And Whatnot
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/The Harbinger\|The Harbinger]] Is There 
+- Players On Different Sides Of Fountain
+	- Can Go Around The Town Doing Whatever
+		- Most Shops Are Open But Low On Supply And Whatnot
+	- Can Notice People Keep Flooding Into This Building ([[#The Hatchet Town Hideout]])
+		- Cant Enter Building Without Password 
+			- The Biggest Shadows Under The Brightest Stars
+			- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Khan Doorman\|Khan Doorman]]
+				- Gay
+	- Only Painted Door Is The Front Door
+		- The Rest Are Exposed Wood
+	- Inside Everyone Is Wearing Wine-Red Hoodless Cloaks Which You Need In Order To Participate
+		- Can Get Cloaks From The Cloak Room If They Have A Key
+			- Last Guy In The Cloak Room Meran
+			- Can *Find* Cloaks In The Store Room, Shop, Stolen From Laundry/Lost And Found,
+				- Hidden <span style="color:rgb(75, 236, 19)">VIP Cloak</span> Room
+					- <span style="color:rgb(75, 236, 19)">VIP Cloaks</span> Are Red With A Gold Hourglass Embroidered On It
+		- Lots Of Chairs In The Reception
+	- Cloak Room (east) And Conference Room (North) Prespawned
 
-Old Inn (The Local Tavern) Has A Young Man Called Trill
-	Oned By Tavernis (Trils Father) And Trillian (Trills Mother) (Who Is Currently Out Of Town)
-	Stocked With Expensive Potions And Cheep Bread
-	Ro0ms Are 3 Silver
 
 Theres A House With: 2 Rations, Half A Cooked Bird, A Loaf Of Bread
 	
@@ -91,10 +104,31 @@ No Goblins Have Been Tamed
 
 
 
-
-## Hatchet Town Hideout Rooms
+### Olde Inn
+Aris Finds A Building (The Local Inn) With A Person (Trill) Looking After His Dads Place
+	Has Potions, Has Bread
+	Lets Her Into The Tavern
+Old Inn (The Local Tavern) Has A Young Man Called Trill
+	Oned By Tavernis (Trils Father) And Trillian (Trills Mother) (Who Is Currently Out Of Town)
+	Stocked With Expensive Potions And Cheep Bread
+	Ro0ms Are 3 Silver
+- Local Inn
+	- Owned By
+	- Manned By Trill (30 Year-Old Son)
+		- 2 Gold Health Potions
+		- 1 Bronze Bread
+## Hatchet Town Hideout 
+The Doors Arent Painted
+Reception, Lots Of Chairs, People Wearing Cloaks And Chatting
+Cloak Room (East & West), Conference Room North)
+Outside Rooms Have Cats
+###### VIP Cloaks
+(Red, Gold Hourglass Embroidered On It)
+Full HP (Cooldown), Cant Have Negative Modiers In The Hideout, Disadvantage On Deception If Both Parties Are Wearing The Cloak
+### Rooms
 - Nook, No Exits
 - Stage, Four Exits 
+	- "On Touch Freeze" Wrighth Surrounding The Perimeter Of The Stage Except The The Back By The Curtain
 - Foiundation/Underground, No Exits
 - Spare Room, One Exit
 - Parlour, No Exits
@@ -168,8 +202,7 @@ No Goblins Have Been Tamed
 - Tomb, None
 - Walk In Closet
 -  Escape Room (Initiation If Theyre Found Out)
-	- Timer Till Death
-	- Can Just Leave
+	
 
 
 
