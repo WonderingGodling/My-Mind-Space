@@ -6,9 +6,14 @@
 
 
 # <center><span style="color:#FFA09C">Hell</span></center>
+https://watabou.github.io/city-generator/?size=34&seed=2022110150010&name=Hell&population=40358&citadel=1&urban_castle=1&plaza=0&temple=0&walls=1&shantytown=0&coast=0&river=1&greens=0&hub=1
 Known For Its Good Times And Bad People Or Perhaps Its Good Times **With** Bad People
+Pop: 40k
+Imports: Vegetables And Magicks
+Exports: Metals, Rocks, And Fuels
 
-- Hot Demons, Imps And Feinds
+
+- Hot Demons, Teiflings And Feinds
 - Demon Council
 - Brothel
 - Lots Of White Birds
@@ -23,9 +28,27 @@ Known For Its Good Times And Bad People Or Perhaps Its Good Times **With** Bad P
 	- Ibises
 	- Eurasian spoonbill
 	- American white pelican
-- Statue Of A Horned Paladin With His Sword Embedded In The Floor
-	- Is Dragon Defence
 
+
+## Map
+### Battle Map
+![Hell Map But Smaller For Obsidian.webp](/img/user/images/Hell%20Map%20But%20Smaller%20For%20Obsidian.webp)
+### Town Map
+![hell.png](/img/user/images/hell.png)
+
+## Roads
+East: 
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Military road\|Military Road]]
+
+North: 
+ - [[Crystal Road\|Crystal Road]] 1 & 2
+ - [[Flame Track\|Flame Track]]
+West:
+- [[Frozen Road\|Frozen Road]]
+South: 
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Military road\|Military Road]]
+
+## Days
 ### Day 1
 Very Busy Streets As People Try To Get Back To Their Homes Or To Work Or Whatever
 - [[Zeliaphus\|Zeliaphus]] (Hell's Supreme) Calling Poeple In To Their Palace And They Dont Come Out

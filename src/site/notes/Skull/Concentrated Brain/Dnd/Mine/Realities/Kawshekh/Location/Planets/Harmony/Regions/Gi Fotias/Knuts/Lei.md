@@ -13,7 +13,9 @@
 
 
 
-
+- [ ] Statue Of A Horned Paladin With His Sword Embedded In The Floor
+	- [ ] Is Dragon Defence
+		- [ ] Dragon Defence Statue Hostile To Characters With Dragon Blood
 
 
 

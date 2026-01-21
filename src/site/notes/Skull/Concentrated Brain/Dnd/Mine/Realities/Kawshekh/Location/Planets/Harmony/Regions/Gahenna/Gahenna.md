@@ -11,8 +11,10 @@
 
 
 
-
-
+No Ice Within City Limits
+City Was Built There Since It Was A Reprieve From The Cold
+- [ ] 1. they have some semi famous candy producers there and it was one of the few things that made her happy when she first arrived hence why she obsessed around it so much to learn how to basically master a form of focused magic to just create candy
+	- [ ] oh and want the town to have a animal mascot
 
 
 

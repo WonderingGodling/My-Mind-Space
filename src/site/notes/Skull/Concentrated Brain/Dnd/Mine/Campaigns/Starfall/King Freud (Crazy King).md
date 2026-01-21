@@ -10,9 +10,9 @@
 
 # <center><span style="color:#323456"> King Freud</span></center>
 
+![e9ccac8eafc3128412d5fa4f733e5dbd.jpg](/img/user/images/e9ccac8eafc3128412d5fa4f733e5dbd.jpg)
 
-
-
+[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]]
 ## General
  Race:  [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Starfall Specific Race/Failed Experiment\|Failed Experiment]]
  Class: https://www.dandwiki.com/wiki/Blood_Ravager_(5e_Class) 21
@@ -80,6 +80,8 @@ you can sense The Direction Of  any creature with an open wound within 40ft of y
 Attacks made from behind a creature have advantage on attack and damage rolls and creatures cannot make attacks of opportunity against you.
 any creature that stands within 20 ft of you gains the frightened ailment for as long as they're in that range.
 
-
-# Characteristics 
+- [ ] "Treason"
+- [ ] Queen Starting War
+	- [ ] Experimens Performed On Him
+	- [ ] He Was That Class Beforehand
 

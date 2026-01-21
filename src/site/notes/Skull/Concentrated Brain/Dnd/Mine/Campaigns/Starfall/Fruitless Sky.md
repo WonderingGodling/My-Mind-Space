@@ -14,7 +14,9 @@
 Knows About The Resets
 
 
-
+- [ ] Tamers
+- [ ] Khan Doorman Sheet
+- [ ] Short Debrief Note From Lisa To Other Scientists
 
 
 

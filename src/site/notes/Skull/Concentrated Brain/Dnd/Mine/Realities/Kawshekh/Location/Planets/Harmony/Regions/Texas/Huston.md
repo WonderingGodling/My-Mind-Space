@@ -8,8 +8,9 @@
 # <center><span style="color:#000000"></span></center>
 
 
-
-
+Lots Of Water Infrastuvture
+- Statue Of A Horned Paladin With His Sword Embedded In The Floor
+	- Looks Like The One In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Knuts/Lei\|Lei]]
 
 
 

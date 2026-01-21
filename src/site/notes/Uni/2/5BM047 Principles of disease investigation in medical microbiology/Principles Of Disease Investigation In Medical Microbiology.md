@@ -68,15 +68,11 @@ Parasitology
 ## The Fungi that kills you
 
 ### Fungi classification
-- Fungi are eukaryotic organisms including microorganisms such as yeasts, moulds and mushrooms
-- Classified in their own kingdom.
-- Fungi are not animals, plants, or bacteria but they have complex eukaryotic cells like animals and plants.
-- Fungi can occur as yeasts, moulds, or as a combination of both forms
-(dimorphic fungi).
-- ~300 species of the estimated 3.5 - 5.1 million fungal species are linked to human fungal diseases.
+- Fungi are A Kingdom Of eukaryotic organisms 
+- ~300 species of the estimated 3.5 - 5.1 million fungal diseases are linked to human fungal diseases.
 
 ### Fungi as disease causing agents
-Fungi are responsible for 1.5 million annual fatalities and have infected 1/3 of the human population
+Fungi responsible for 1.5 million annual fatalities and have infected 1/3 of the human population
 - Fungi are responsible for more human infections compared to TB, malaria or HIV
 - Fungi are are capable of causing superficial, cutaneous, subcutaneous, systemic or allergic diseases
 
@@ -91,7 +87,7 @@ Fungi are responsible for 1.5 million annual fatalities and have infected 1/3 of
 	- Single celled microscopic yeasts.
 
 ### Fungal cell wall structure
-Most fungal cell wall comprises of polysaccharides (chitin, β-glucan, mannan), lipid-phosphate- protein, protease and melanin.
+Most fungal cell wall comprises of polysaccharides (chitin, β-glucan, mannan), lipid-phosphate-protein, protease and melanin.
 - Chitin is a polysaccharide composed of long chain of n- acetylglucosamine.
 - Plasma membrane contains ergosterol similar to cholesterol in mammalian cells
 - Ergosterol and β-glucan are common site of action of many antifungal drugs such as amphotericin B and azole compounds.
@@ -101,7 +97,7 @@ Most fungal cell wall comprises of polysaccharides (chitin, β-glucan, mannan), 
 ### Fungal pathogenesis
 - Most fungi are saprophytic or parasitic to plants and are adapted to their natural environment.
 - Other fungi such as Candida sp. and Malassezia sp. have adapted to human environment and exist as commensals
-- Infection in humans is a chance event, occurring only when conditions are favourable.
+- Infection in humans is a chance event
 - Human primary pathogenic fungi include dimorphic fungi causing systemic mycoses and dermatophytes causing superficial infections.
 
 #### Virulence
@@ -147,11 +143,15 @@ Most fungal cell wall comprises of polysaccharides (chitin, β-glucan, mannan), 
 - Yeast can be identified in the lab by their ability to assimilate and ferment various carbon sources and to utilize nitrate as a source of nitrogen.
 
 ### Dimorphic fungi
-These are fungi which exhibit a filamentous mycelial morphology (saprophytic phase)
-when grown at room temperature 27ᴼC, but have a typical yeast morphology (parasitic phase) inside the body and when grown at 37ᴼC in the laboratory (e.g. Histoplasmosis).
+These are fungi which exhibit a filamentous mycelial morphology (saprophytic phase) when grown at room temperature 27ᴼC, but have a typical yeast morphology (parasitic phase) inside the body and when grown at 37ᴼC in the laboratory (e.g. Histoplasmosis).
 
 ### Terms used in colonial morphology of yeast and filamentous fungi
 ![Pasted image 20251109235604.png](/img/user/images/Pasted%20image%2020251109235604.png)
+
+|     |     |
+| --- | --- |
+|     |     |
+
 
 ### Fungal infection (mycoses)
 - Superficial mycoses infection is limited to the outer surface of hair shafts, skin shafts and nails e.g. Tinea versicolor, Black Piedra, White Piedra
@@ -375,9 +375,9 @@ treatment
 #### Symptoms of bloodstream infections
 - Fever (>38.3ºC), chills, rigors
 - BSI = Bacteria/Fungi in blood plus clinical signs and symptoms of pathogen invasion and toxin production
-- Full-blown sepsis can develop if not treated quickly Sepsis
-- Is defined as a life threatening condition caused by a dysregulated host response to an infection.
-	- Body’s early response to injury or infection
+- Full-blown sepsis can develop if not treated quickly 
+	- a life threatening condition caused by a dysregulated host response to an infection.
+		- Body’s early response to injury or infection
 - At least two of the following symptoms:
 	- Body temp above/below normal (<36°C/ >38.3°C)
 	- Heart rate >90 beats per minute
