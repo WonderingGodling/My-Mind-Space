@@ -189,15 +189,15 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Rare (Kinda Expensive) Tea Sets
 - [ ] Nearby Dragon Hoard
 	- [ ] Little (Silent) Creature Steals Stuff For Dragon Friend
-- [ ] Secret Key Riddles Puzzle
-	- [ ] Solve Hidden Riddles To Get Parts Of A Key
-	- [ ] Bow, Shoulder, Blade, Cut (Put In A Liquid And It Comes Out The Right Shape)
 - [ ] Write More About Qutes' "Hometown" [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gahenna/Gahenna\|Gahenna]]
 - [ ] Dragon That Hoards Ex Adventures
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Merlington\|Merlington]]
 - [ ] Illusionist Working With Monsters To Lure The Party Into Death
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Omihami/Sawakasato\|Sawakasato]]
 - [ ] Various Atmospheres/Skies/Climates
+- [ ] Secret Key Riddles Puzzle
+	- [ ] Solve Hidden Riddles To Get Parts Of A Key
+	- [ ] Bow, Shoulder, Blade, Cut (Put In A Liquid And It Comes Out The Right Shape)
 - [ ] Evil Dragon
 	- [ ] Smoke Coming From Lair
 		- [ ] Not Because He Is There But Because Dragons Burn Things Sometimes
@@ -349,10 +349,10 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Soup Lake
 	- [ ] Uncharted
 	- [ ] Near [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Blech/Aciid/Aciid\|Aciid]]
-- [ ] Carrie Moment
-	- [ ] Party Gets Invited Somewhere Big And get Blood Dumped On Them
 - [ ] Guy Pretending To Be A Budding God That Keeps Offering Them Fake Power To Do Their Bidding
 - [ ] Unsolvabe Riddle With 100g Reward
+	- [ ] Carrie Moment
+		- [ ] Party Gets Invited Somewhere Big And get Blood Dumped On Them
 	- [ ] Decoy Riddle
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Shepards Bush\|Shepards Bush]]
 - [ ] Gambling/Casino Stuff
@@ -452,8 +452,18 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Debt Collectors
 	- [ ] One In Kent That Wont Remember You When Time Resets But Will Remember How Much Money He Owes You
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Shooter Side Quest\|Shooter Side Quest]]
-
-
+- [ ] Avatar Of The Crush 
+	- [ ] Representation Of Mental Health, Specifically Depression And Demotivating (The Feeling Of Carrying Too Much Emotional Weight)
+	- [ ] The Crushed Church Exists Without Places Of Worship Or A Spreading Doctrine
+- [ ] Kent Border Paperwork
+- [ ] One King Or Queen That Has Literally No Protection
+- [ ] Next Era Theme: 
+	- [ ] Things Of Importance: Gods, Biopunk, Magic
+	- [ ] Global Anarchism 
+	- [ ] Current Money Becomes A Part Of You And Can Take Over 
+	- [ ] "Common" (High Fantasy) Races Are Rare
+	- [ ] Monsters Are More Common
+- [ ] Some "Monsters" Can Be Born With Or Gain Sentience
 
 
 

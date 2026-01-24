@@ -10,7 +10,7 @@
 
 
 # <center><span style="color:#122430">Twin Sticks</span></center>
-
+![Sprite-0002.png](/img/user/images/Sprite-0002.png)
 
 Two Long Metal Wands Reminiscent Of Knitting Needles
 

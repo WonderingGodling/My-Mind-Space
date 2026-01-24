@@ -19,6 +19,7 @@ Hexagon One
 Hexagon Two
 [[Boars Pass\|Boars Pass]] Junction →
 Hexagon Three
+
 Hexagon Four
 [[Frozen way\|Frozen way]] Junction →
 Hexagon Five

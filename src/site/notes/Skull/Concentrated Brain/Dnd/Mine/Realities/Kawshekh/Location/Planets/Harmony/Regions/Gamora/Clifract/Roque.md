@@ -6,9 +6,23 @@
 
 
 # <center><span style="color:#000000"></span></center>
+https://watabou.github.io/city-generator?size=41&seed=1558364949&name=Roque&citadel=1&urban_castle=1&plaza=1&temple=1&walls=1&shantytown=1&coast=1&river=1&greens=1&hub=1&sea=1.8
+Has Possibly The Best Salt In The World And Possibly The Fewest Ghost Sightings
+Pop: 8k
+Imports: Minerals, Tools And Fireworks
+Exports: Vegetables, Fish And Leather
 
+- AMphibian/ Reptilian Humanoid Races, Smaller Fantasy Humanoids
+- Shamans
+	- Elder Who Isnt Wise Everyone Just Wants To Here His Opinion
+- Theatre
+- Love Fishing As A Passtime So There Are Plenty Of Fishing Boats
+	- The Fish Isnt Really Used For Food Or Trading As Better Fish Can Easily Be Sourved From [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Broketon\|Broketon]]
+- Salt-Water River Fish
+- Leathery Animals
 
-
+![Roque.jpg](/img/user/images/Roque.jpg)
+![roque.png](/img/user/images/roque.png)
 
 
 
