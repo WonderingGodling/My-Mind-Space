@@ -10,31 +10,51 @@
 
 - Easiest "Beginner" Crazy Dungeon That Resets
 -  Has Its Own Self Contained Narrative
-- Somewhere South
-	- Not Near Any City
-- Only Frequented By Northern Kingdoms Because Southern Ones Have More Compassion
+- Grease
+	- North Of [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Suirx/Thelthaxi\|Thelthaxi]]
+- Only Frequented By Northern Kingdoms 
+	- Southern Ones Have More Compassion For The Skeletons
+		- Once A Group Has "Finished" The Dungeon They Are Unlikely To Return
+		- Any You Ask About The 
+		- Dungeon Will Pretend It Is The Best, Most Difficult Dungeon Ever
 - Is Promoted In Southern Regions As A Way Of Showing That Adventuring Isnt All Guts And Glory But Can Also Be Making Hard Decisions
 - No Traps No Tricks Very Long
 - High Ceilings
 
-
+### The Summit
 ![Skeleton Dungeon Outside.jpg](/img/user/images/Skeleton%20Dungeon%20Outside.jpg)
+- Empty Door Frame With Wrighth on It
+	- "One Way View" A Wall Of Darkness From The Outside
+		- Won, weigh/whey, 
+- The Walls Are Made Out Of [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Pegmatite\|Pegmatite]]
+	- The Walls Shimmer Like Gemstones If You Cast Light On Them
+### Antechamber
 ![Skeleton Dungeon 1.jpg](/img/user/images/Skeleton%20Dungeon%201.jpg)
-### Antichamber
-One Lone Skeleton
-	Half Health, Half Speed
-	Comes Back To Life Every Minute
-![Pasted image 20260119010814.png](/img/user/images/Pasted%20image%2020260119010814.png)
+- The White (Quartz) Floor
+- Torches Unlit
+- There Is  Notebook Full Of Abstract Drawings Made By Lone Skelly
+	- They All Use Various Shades Of Grey And Are More Focused on The Textures And Densities of The Drawings Than The Fullness Of Pages
 
+- One Lone Skeleton
+	- Half Health, Half Speed
+	- Comes Back To Life Every Minute
+	- The Bones Make A Loud Clicking  Noise As They Go Back In Their Socket
+![Pasted image 20260119010814.png](/img/user/images/Pasted%20image%2020260119010814.png)
+Languages: Orcish (Native), Dwarvish, Abyssal, Infernal
+Used To Be The Owner Of The Only Quarry In Grease
+## The First Layer
 ![Skeleton Dungeon 2 1.jpg](/img/user/images/Skeleton%20Dungeon%202%201.jpg)
 - If You Fall Off Plank In Room 4: 3d6 Bludgeoning
-- Gets Stuck In Hidden Room 3 On Floor Three Until Someone Gets You Out
+	- Gets Stuck In Hidden Room 3 On Floor Three Until Someone Gets You Out
 - Skeleton Thats Extremely Physically Strong But Is Sad About Being Bald
 	- Wears A Beanie
 	- Room 2
+	- Probably The Hardest Fight
+	- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Adamantine Skelly\|Adam]]
 - Room With Torn Tapestry Describing The First Skeleton Getting Cursed By Another Skeleton (In Purple Robes)
 	- Room 4, On The Wall
 	- Two Other Tapestry Scraps Throughout The Dungeon
+## Midfloor
 ![Skeleton Dungeon 3 1.jpg](/img/user/images/Skeleton%20Dungeon%203%201.jpg)
 - Skeleton That Keeps Throwing Up Into The Water
 	- Acid Breath Weapon
@@ -45,6 +65,7 @@ One Lone Skeleton
 	- Room 2
 - Other Tapestry
 	- Soaked On The Floor In Room 8
+## Communal Floor
 ![Skeleton Dungeon 4.jpg](/img/user/images/Skeleton%20Dungeon%204.jpg)
 - Skeleton That Sits On A Stool Alone
 	- Room 2
@@ -65,14 +86,16 @@ One Lone Skeleton
 	- Room 6
 - Other Other Tapestry
 	- Room 9
+## The Depth
 ![Skeleton Dungeon Finale.jpg](/img/user/images/Skeleton%20Dungeon%20Finale.jpg)
 -  Shattered Skeletons Throughout The Hallways Up To The Main Floor
 - Stuck Door (DC 18 Strength Check) That Slams Back Shut If Nobody Holds It
 	- 10ft Drop Into The Water To Skip The Door
 - The Boss At The End Of The Dungeon Is Already Dead
 	- Two Smaller Versions Of The Same Monster (Its Babies) Are Dead Beside It
-	- There Is A Chain Bound Skeleton And How You Treat Him Derermines An Invisible Mark You Get
 	- There Is No Loot, No Secret Passage, No Excuses
+- There Is A Chain Bound Skeleton And How You Treat Him (Unprompted) Determines An Invisible Mark You Get
+	- Ally, Enemy, Oddity
 - Bottomless Pit
 	- If Someone Falls In They Have To Be Fished Out
 		- There Are People In Nearby City That Are Used To Fishing Poeple Out Of The Pit
