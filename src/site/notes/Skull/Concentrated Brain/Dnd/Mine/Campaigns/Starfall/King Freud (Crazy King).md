@@ -81,7 +81,7 @@ Attacks made from behind a creature have advantage on attack and damage rolls an
 any creature that stands within 20 ft of you gains the frightened ailment for as long as they're in that range.
 
 - [ ] "Treason"
-- [ ] Queen Starting War
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Queen\|Queen]] Starting War
 	- [ ] Experimens Performed On Him
-	- [ ] He Was That Class Beforehand
+	- [ ] He Was That [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Class/Class\|Class]] Beforehand
 

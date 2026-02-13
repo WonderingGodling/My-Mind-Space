@@ -11,17 +11,17 @@ To Eat Their Own
 A Town Known For Casual Cannibalism
 	But It Makes Its Prospects From Tourism, Hunting And Baking (when Possible)
 Military District AC
-Home Of The Organisation Known As [[The Fruitless Sky\|The Fruitless Sky]] (Who Know About The Resets)
+[[Explicitly Showcased/Home Page I Guess/Home Page\|Home Page]] Of The Organisation Known As [[The Fruitless Sky\|The Fruitless Sky]] (Who Know About The Resets)
 
 Usually Beautiful Sunset
 Surprisingly Little Foliage
 	Possibly Removed On Purpose
 
 The Cannibalism Has Been A Thing In Recent History
-	They Started Eating People Condemned To Death 
+	They Started Eating [[Branches/People\|People]] Condemned To Death 
 	They Dont Make A Big Thing Out Of It Outside Of Tourism
 
-8 Silver Jewels Under A Trap Door Under The Outside Stage
+8 Silver [[Jewels\|Jewels]] Under A Trap Door Under The Outside Stage
 
 
 ## Moon Day
@@ -37,30 +37,30 @@ The Cannibalism Has Been A Thing In Recent History
 - Players On Different Sides Of Fountain
 	- Can Go Around The Town Doing Whatever
 		- Most Shops Are Open But Low On Supply And Whatnot
-	- Can Notice People Keep Flooding Into This Building ([[#The Hatchet Town Hideout]])
+	- Can Notice [[Branches/People\|People]] Keep Flooding Into This Building ([[#The Hatchet Town Hideout]])
 		- Cant Enter Building Without Password 
-			- The Biggest Shadows Under The Brightest Stars
+			- The Biggest Shadows Under The Brightest [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]]
 			- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Khan Doorman\|Khan Doorman]]
 				- Gay
 	- Only Painted Door Is The Front Door
-		- The Rest Are Exposed Wood
-	- Inside Everyone Is Wearing Wine-Red Hoodless Cloaks Which You Need In Order To Participate
+		- The [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Rest/Rest\|Rest]] Are Exposed Wood
+	- Inside Everyone Is Wearing Wine-[[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Red/Red\|Red]] Hoodless Cloaks Which You Need In Order To Participate
 		- Can Get Cloaks From The Cloak Room If They Have A Key
 			- Last Guy In The Cloak Room Meran
 			- Can *Find* Cloaks In The Store Room, Shop, Stolen From Laundry/Lost And Found,
 				- Hidden <span style="color:rgb(75, 236, 19)">VIP Cloak</span> Room
-					- <span style="color:rgb(75, 236, 19)">VIP Cloaks</span> Are Red With A Gold Hourglass Embroidered On It
+					- <span style="color:rgb(75, 236, 19)">VIP Cloaks</span> Are [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Red/Red\|Red]] With A Gold Hourglass Embroidered On It
 		- Lots Of Chairs In The Reception
 	- Cloak Room (east) And Conference Room (North) Prespawned
 
 
 Theres A House With: 2 Rations, Half A Cooked Bird, A Loaf Of Bread
 	
-Can Notice People Keep Flooding In To A Specific Building ([[#The Hatchet Town Hideout]])
-	Cant Enter Hideout Without Password (The Biggest Shadows Under The Brightest Stars)
+Can Notice [[Branches/People\|People]] Keep Flooding In To A Specific Building ([[#The Hatchet Town Hideout]])
+	Cant Enter Hideout Without Password (The Biggest Shadows Under The Brightest [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]])
 	Doorman (Khan)
-	Inside Everyone Is Wearing Wine-Red Hoodless Cloaks Which You Need In Order To Participate
-		There Are VIP Cloaks  (Red, Gold Hourglass Embroidered On It)
+	Inside Everyone Is Wearing Wine-[[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Red/Red\|Red]] Hoodless Cloaks Which You Need In Order To Participate
+		There Are VIP Cloaks  ([[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Red/Red\|Red]], Gold Hourglass Embroidered On It)
 		Can Get Cloaks From The Locker Room If They Have A Key
 			Can *Find* Cloaks In The Store Room, Shop, Stolen From Laundry/Lost And Found, 
 	Only The Outside Door Is Painted
@@ -69,17 +69,17 @@ Can Notice People Keep Flooding In To A Specific Building ([[#The Hatchet Town H
 - Opening Speech
 	- "Thank You All For Coming Tonight! [Pauses For Applause] Yes, Yes We've All Waited So Very Long For This Momentous Occasion And Im Sure All Of You Would Love To Get Straight Out There And Do Your Thing. (Ive Heard That Some Of You Already Have). But We Do Unfortunately Have Rules That We Need To Follow So If It Shimmers With All In Attendance Lets Get To The Itinerary...."
 		- "Faith"
-	- "Lets See....The Town Has Been Secured The East Wing Has Been Checked For Goblins And Is Clear. Parlence Has Been Spread. Reminder That If You See The Cult Of The Wicked You Are To Avoid Them. This Should Be Common Knowledge But People Keep Asking Me Where They Fit Into The Plan. We Are On....What Are We On"
+	- "Lets See....The Town Has Been Secured The East Wing Has Been Checked For Goblins And Is Clear. Parlence Has Been Spread. Reminder That If You See The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]] You Are To Avoid Them. This Should Be Common Knowledge But [[Branches/People\|People]] Keep Asking [[Explicitly Showcased/Me/Me\|Me]] Where They Fit Into The Plan. We Are On....What Are We On"
 		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor\|Advisor]] Hold Up Right Amount Of Fingers
-	- "We Are On [Number] Which So Far Means Nothing" [Improv From Here, Say It Mopstly Seems Like Admin Stuff And Ask If The Group Wants To Stay To Till The End]
+	- "We Are On [Number] Which So Far Means [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]" [Improv From Here, Say It Mopstly Seems Like Admin Stuff And Ask If The Group Wants To Stay To Till The End]
 - "Throwing To The Floor Real Quick" And Someone From The Congregation Shouts Out
 	- "If We Fail-"
 		- "Dont. And If You Do? Dont."
 	- "What Does [Loop #] Mean For Us"
-		- "It Means Weve Just Gotten Started. Go All Out Have No Fear. Be REady To Die"
+		- "It Means Weve Just Gotten Started. Go All Out Have No [[Skull/Concentrated Brain/Dnd/Terminology/Fear\|Fear]]. Be REady To Die"
 	- No More Questions This Loop
 - "If It Shimmers Then Meeting Is Adjourned" He Holds Up His Hand
-- Call And Response: "If It Shimmers/Clouds...", "Faith"/"Fear"
+- Call And Response: "If It Shimmers/Clouds...", "Faith"/"[[Skull/Concentrated Brain/Dnd/Terminology/Fear\|Fear]]"
 - Everyone Disperses Except For....
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor\|Fruitless Sky Advisor]]
 Cant Talk 
@@ -89,15 +89,15 @@ Mouth Is Full Of Inky Blackness That Spills Out If She Tries To Talk
 	- Timer Till Death
 	- Can Just Leave
 
-Magic Detection Around The Doorway To And Out The Lab
-Lisa (Astronomer For The Fruitless Sky)
-	Writing (Poorly) About The Starts In A Dark Blue Notebook
+[[Skull/Concentrated Brain/Dnd/Mine/Mechanics/MAgic/Magic\|Magic]] Detection Around The Doorway To And Out The Lab
+Lisa (Astronomer For The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Fruitless Sky\|Fruitless Sky]])
+	Writing (Poorly) About The Starts In A Dark [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Blue/Blue\|Blue]] Notebook
 	Doing Experiments
-	Writing Letters To The People Who Couldnt Make It To This Hideout With Equally Bad Handwritting
-Lots Of Random Since Equipment Spread Out, Monitors Temperatures, Densities, Responsiveness To Different Magic Forms
+	Writing Letters To The [[Branches/People\|People]] Who Couldnt Make It To This Hideout With Equally Bad Handwritting
+Lots Of Random Since Equipment Spread Out, Monitors Temperatures, Densities, Responsiveness To Different [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/MAgic/Magic\|Magic]] Forms
 Segments Of Monster Corpses Spread Around
 	Some Hooked Into/Between Devices
-Goblins Seem To Know About The Astronomy Stuff Better Than The Fruitless Sky Do
+Goblins Seem To Know About The Astronomy Stuff Better Than The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Fruitless Sky\|Fruitless Sky]] Do
 	Theyre Trying To Catch Up And Predict The Goblins Next Move
 No Goblins Have Been Tamed
 
@@ -105,7 +105,7 @@ No Goblins Have Been Tamed
 
 
 ### Olde Inn
-Aris Finds A Building (The Local Inn) With A Person (Trill) Looking After His Dads Place
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Aris\|Aris]] Finds A Building (The Local Inn) With A Person (Trill) Looking After His Dads Place
 	Has Potions, Has Bread
 	Lets Her Into The Tavern
 Old Inn (The Local Tavern) Has A Young Man Called Trill
@@ -119,21 +119,21 @@ Old Inn (The Local Tavern) Has A Young Man Called Trill
 		- 1 Bronze Bread
 ## Hatchet Town Hideout 
 The Doors Arent Painted
-Reception, Lots Of Chairs, People Wearing Cloaks And Chatting
+Reception, Lots Of Chairs, [[Branches/People\|People]] Wearing Cloaks And Chatting
 Cloak Room (East & West), Conference Room North)
 Outside Rooms Have Cats
 ###### VIP Cloaks
-(Red, Gold Hourglass Embroidered On It)
+([[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Red/Red\|Red]], Gold Hourglass Embroidered On It)
 Full HP (Cooldown), Cant Have Negative Modiers In The Hideout, Disadvantage On Deception If Both Parties Are Wearing The Cloak
 ### Rooms
 - Nook, No Exits
 - Stage, Four Exits 
-	- "On Touch Freeze" Wrighth Surrounding The Perimeter Of The Stage Except The The Back By The Curtain
+	- "On Touch Freeze" [[Branches/Wrighth\|Wrighth]] Surrounding The Perimeter Of The Stage Except The The Back By The Curtain
 - Foiundation/Underground, No Exits
 - Spare Room, One Exit
 - Parlour, No Exits
 - Games room, Two Exits
-	- Puzzles
+	- [[Skull/Concentrated Brain/Riddles/Riddles\|Riddles]]
 		- [ wordle](https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjITTE/edit?gid=364337137#gid=364337137)
 		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Crossword\|Crossword]] ×3 (WIP)
 		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Cryptic\|Cryptic]] ×4 (WIP)

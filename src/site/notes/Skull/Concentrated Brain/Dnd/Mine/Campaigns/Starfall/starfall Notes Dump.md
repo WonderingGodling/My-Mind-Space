@@ -41,7 +41,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Add More Cats And Other Animals
 - [ ] Hot Npcs
 - [ ] [[Branches/Homestuck\|Homestuck]] NPCs
- - [ ] **Go All Out For NPC Icons**
+ - [ ] **Go All Out For [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Campaign/Starfall/template/NPC\|NPC]] Icons**
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Lightning Throw NPC\|Lightning Throw NPC]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Athens/Kaskurt\|Kaskurt]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/King Freud (Crazy King)\|King Freud (Crazy King)]]  
@@ -65,7 +65,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Default Sheets
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Old Fisherman\|Old Fisherman]] (Highhish Level)
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Branson/Fission Chipz\|Fission Chipz]]
-- [ ] Original Arcane Rifleman Looking For Her Book
+- [ ] Original Arcane Rifleman Looking For Her [[Template/Book\|Book]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Laurence\|Laurence (She/Her)]]
 - [ ] Thing That Directed [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Qutes\|Qutes]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]] There (Evil) 
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Blood Lich\|Blood Lich]] 
@@ -82,7 +82,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Groups Of [[Branches/People\|People]] Anonymously Giving Group S Information
 	- [ ] Letters
 	- [ ] Not [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]]
-	- [ ] If Anything Big Happens They Get A Breif Explanation Of The Previous Session
+	- [ ] If Anything Big Happens They Get A Breif Explanation Of The Previous [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Campaign/Starfall/template/Session\|Session]]
 	- [ ] Works For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]]'s Boss' Boss
 		- [ ] (Ssnake)
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Farty Fuqueballs Jr Jr (Jay)\|Farty Fuqueballs Jr Jr (Jay)]]
@@ -110,7 +110,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] "Helps" Group S 
 - [ ] Let [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] Be Implied
 - [ ] Optionally Take Their Weapons For The Festivals
-- [ ] NPC Poem
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Campaign/Starfall/template/NPC\|NPC]] Poem
 	- [ ] More Poems?
 - [ ] Towns' Claims To Fame
 - [ ] Business Reviews
@@ -120,7 +120,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 		- [ ] (Ssnake)
 - [ ] Pouch Of Holding Sale
 	- [ ] Bag Of Holding With Abtrarily Decreased Function
-	- [ ] Day 2 Every Major City
+	- [ ] Day 2 Every Major [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Campaign/Starfall/template/City\|City]]
 	- [ ] Sellers Gets Rich
 		- [ ] Small Magus Order (The Seventh Snake)
 			- [ ] Snake Tattoo All Up Their Arms
@@ -151,7 +151,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gahenna/Gahenna\|Gahenna]]
 - [ ] Robots
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Phrygia/Phrygia\|Phrygia]]
-- [ ] Tea Tourist Merch In Hollywood
+- [ ] Tea Tourist Merch In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hollywood\|Hollywood]]
 	- [ ] Cheap Disposable Tea (Sets)
 	- [ ] Rare (Kinda Expensive) Tea Sets`
 - [ ] Nearby Dragon Hoard
@@ -161,6 +161,8 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] How/Why [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Haru\|Haru]] Was Saved From The Disaster
 - [ ] Retired Ghost Busters
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Cult Of Violets/Cult Of Violets\|Cult Of Violets]]
+- [ ] [[Hearts Of The Damned\|Hearts Of The Damned]] Religeon
+- [ ] Crushed Survivors Religion
 - [ ] Spirit Dragon
 	- [ ] With Kyms Dragon
 	- [ ] Used To Work With Old Churches
@@ -186,7 +188,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Can Take Consumable Abilities
 - [ ] The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Fruitless Sky\|Fruitless Sky]]
 - [ ] Goblin Astronomy Stuff
-- [ ] Tea Tourist Merch In Hollywood
+- [ ] Tea Tourist Merch In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hollywood\|Hollywood]]
 	- [ ] Cheap Disposable Tea (Sets)
 	- [ ] Rare (Kinda Expensive) Tea Sets
 - [ ] Nearby Dragon Hoard
@@ -194,22 +196,22 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Write More About [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Qutes\|Qutes]]' "Hometown" [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gahenna/Gahenna\|Gahenna]]
 - [ ] Dragon That Hoards Ex Adventures
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Merlington\|Merlington]]
-- [ ] Illusionist Working With Monsters To Lure The Party Into Death
+- [ ] Illusionist Working With Monsters To Lure The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Campaign/Starfall/Characters/PC/Party/Party\|Party]] Into Death
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Omihami/Sawakasato\|Sawakasato]]
 - [ ] Various Atmospheres/Skies/Climates
-- [ ] Secret Key [[Skull/Concentrated Brain/Riddles/Riddles\|Puzzles]] [[Skull/Concentrated Brain/Riddles/Riddles\|Puzzles]]
-	- [ ] Solve Hidden [[Skull/Concentrated Brain/Riddles/Riddles\|Riddles]] To Get Parts Of A Key
+- [ ] Secret [[Skull/Concentrated Brain/Dnd/Characters/CHaracters Who Have Nothing/Pancake And Relay/The Memory Of Pancake And Relay/Characters/Key/Key\|Key]] [[Skull/Concentrated Brain/Riddles/Riddles\|Puzzles]] [[Skull/Concentrated Brain/Riddles/Riddles\|Puzzles]]
+	- [ ] Solve Hidden [[Skull/Concentrated Brain/Riddles/Riddles\|Riddles]] To Get Parts Of A [[Skull/Concentrated Brain/Dnd/Characters/CHaracters Who Have Nothing/Pancake And Relay/The Memory Of Pancake And Relay/Characters/Key/Key\|Key]]
 	- [ ] Bow, Shoulder, Blade, Cut (Put In A Liquid And It Comes Out The Right Shape)
 - [ ] Evil Dragon
 	- [ ] Smoke Coming From Lair
-		- [ ] Not Because He Is There But Because Dragons Burn Things Sometimes
+		- [ ] Not Because He Is There But Because Dragons [[Skull/Concentrated Brain/Projects/Hamilton/Burn\|Burn]] Things Sometimes
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Na-Ni/Pirkra\|Pirkra]]
 - [ ] Old Hero (Tari) Goes [[Skull/Spam/Crazy\|Crazy]] After 5 Loops
 	- [ ] (Just Copy Level Clear)
 	- [ ] Stays One Level Abocve Highest Level Player
 	- [ ] Level Clear Guy Villian Name: Antonio "The-Lonely-Oh" Baldonio Leader Of Malvolio (Gang Of Townkolio)
 - [ ] Town On [[Skull/Spam/Fire\|Fire]]
-	- [ ] [[Skull/Spam/Fire\|Fire]] Is Still Deadly But Buildings Dont Burn
+	- [ ] [[Skull/Spam/Fire\|Fire]] Is Still Deadly But Buildings Dont [[Skull/Concentrated Brain/Projects/Hamilton/Burn\|Burn]]
 		- [ ] [[Branches/People\|People]] Who Live There Have Gotten Used To It
 		- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Infernis/Seasal\|Seasal]]
 - [ ] Man With Two Wives In Different Cities (Consentualy)
@@ -224,8 +226,8 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Adoption Is Popular
 - [ ] Heroic Or Just Death
 	- [ ] Less Fence-Sitting
-- [ ] Human Child Approaches Party
-	- [ ] Needs One Gold To Heal Parents (Actually A Little Less)
+- [ ] Human Child Approaches [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Campaign/Starfall/Characters/PC/Party/Party\|Party]]
+	- [ ] Needs One Gold To Heal [[Skull/Concentrated Brain/Dnd/Characters/CHaracters Who Have Nothing/Pancake And Relay/The Memory Of Pancake And Relay/Characters/Key/Parents/Parents\|Parents]] (Actually A Little Less)
 	- [ ] Wants To Be A Ranger When He Grows Up
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Bingtondore\|Bingtondore]]
 - [ ] Woman Who Is Destined To Lose Her Hand
@@ -278,7 +280,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 		- [ ] prophesied that she would be born with [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/MAgic/Magic\|Magic]] far far far to unstable for her to control
 			- [ ] for safety of not only the kid and those around her a ritual was performed to split her in two
 				- [ ] two beings with less [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/MAgic/Magic\|Magic]] easier to control
-				- [ ] they didn’t know what exactly it would do but what else
+				- [ ] they didn’t know [[WHAT\|WHAT]] exactly it would do but [[WHAT\|WHAT]] else
 		- [ ] then after they were both dropped off at different dragon dens to keep them separated and also if it ritual failed and they were still unstable
 - [ ] Quest Where The Thing They Need To Deliver Is Their Reward
 	- [ ] They Dont Know That
@@ -316,26 +318,35 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Branching Paths Quest
 	- [ ] Wrong Paths Lead You Back To A Previous Branch
 	- [ ] Maybe Add Snakes As A Snakes And Ladders Joke
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/MAgic/Magic\|Magic]] Item Lets You Cast Two Spells At Once 
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/MAgic/Magic\|Magic]] Item Lets You Cast Two Spells At Once [[Spell Booked\|Spell Booked]]
 	- [ ] First Spell Is Cast That Turn
 	- [ ] Second Spell Is Cast Next Turn
 - [ ] Seperate Soul Summoning And Soul Messaging Artifacts
 - [ ] Male (Gay) Demon And Demon Royal Guards
+	- [ ] Write This Sheet
 - [ ] Hivemind
 	- [ ] Villain 
 	- [ ] Gains Powers Of [[Branches/People\|People]] It Minds
+	- [ ] Grease Somewhere
+	- [ ] Doesnt Start Until Provoked
+		- [ ] Provocation Is 
+		- [ ] Forgotten But Hivemindedness Stays
+			- [ ] If Someone Who Can [[Skull/Remember/Remember\|Remember]] Is Hive-Minded Then Everyone Rememebrs
 - [ ] Teleporter Whos Too Chill And A Little Annoying
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Rantiethi/Grirk\|Grirk]]
 - [ ] Really Brutal, Hard Fight Thats Not Real
 	- [ ] Some Telepath They Piss Off Trying To Mind Kill Them
 	- [ ] They Can Do Impossible Shit
-- [ ] Possession
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Phrygia/Yoluch\|Yoluch]]
+- [ ] Possession Shit
 - [ ] Pyramid Scheme
 - [ ] Someone Brings A Gun To A Fist Fight
+	- [ ] [natheas.png](/img/user/images/natheas.png)
 - [ ] Punishment Pit
 	- [ ] Discarded Needles Knives And Stuff
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Na-Ni/Theod\|Theod]]
 - [ ] Parachute Umbrella
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/MAgic/Magic\|Magic]] Item On SAle
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town\|Hatchet Town]] Stuff
 	- [ ] Surrounding Stuff
 - [ ] Day One Stuff
@@ -344,36 +355,43 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] "Hot Singles In Your Area" News Add
 	- [ ] [[Skull/Spam/Fire\|Fire]] Elemental Dating Group
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]]
+	- [ ] Day 3
+		- [ ] Can Find A Devil To Join You For The Day
+			- [ ] Write Her Sheet
 - [ ] Mimicry Stuff
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Cilnar\|Cilnar]]
 - [ ] Soup Lake
 	- [ ] Uncharted
 	- [ ] Near [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Blech/Aciid/Aciid\|Aciid]]
 - [ ] Guy Pretending To Be A Budding God That Keeps Offering Them Fake Power To Do Their Bidding
-- [ ] Unsolvabe [[Skull/Concentrated Brain/Riddles/Riddles\|Riddle]] With 100g Reward
-	- [ ] Carrie Moment
-		- [ ] Party Gets Invited Somewhere Big And get Blood Dumped On Them
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]] Somewhere
+- [ ] Carrie Moment
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Campaign/Starfall/Characters/PC/Party/Party\|Party]] Gets Invited Somewhere Big And get Blood Dumped On Them
+- [ ] Unsolvabe [[Skull/Concentrated Brain/Riddles/Riddles\|Riddle]] With 10 PLat Reward
 	- [ ] Decoy [[Skull/Concentrated Brain/Riddles/Riddles\|Riddle]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Chronosburgh/Satellia/Shepards Bush\|Shepards Bush]]
 - [ ] Gambling/Casino Stuff
-- [ ] 412 Year-Old Avatar
-- [ ] Air, Earth, [[Skull/Spam/Fire\|Fire]], Water Bison
+- [ ] 412 Year-Old Avatar Of The Damned
+- [ ] Earth WInd And [[Skull/Spam/Fire\|Fire]] Creatures
+	- [ ] Air, Earth, [[Skull/Spam/Fire\|Fire]], Water Bison
+	- [ ] Sky Tuna
 - [ ] Church Of Second Chances' Life Spells
 	- [ ] Free High Level Spells
 		- [ ] Heal Cantrips And Whatever
 - [ ] Damage Threshold Enemy
+	- [ ] Needs To Take At Least Number Amount Of Damage For Any Of It To Register
 - [ ] Assassination/Hit Missions
 - [ ] Guy That Turns Silver Into Slightly More Silver
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Earth Wind Fire/Neer\|Neer]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]] Beauty Competition Winner Would Become [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Queen\|Queen]] Consort Till Death Or Revolution
 	- [ ] Demons Are Upset That The Beauty Competition Was On The Same Day As Moon Day Because It Is Untraditional
 - [ ] Escape room
-- [ ] 2 Kids, Kacey And Jr Killed Their Parents
+- [ ] 2 Kids, Kacey And Jr (Casey) Killed Their [[Skull/Concentrated Brain/Dnd/Characters/CHaracters Who Have Nothing/Pancake And Relay/The Memory Of Pancake And Relay/Characters/Key/Parents/Parents\|Parents]]
 	- [ ] If Find Them Early Enough There Is An Option To Babysit Them
-		- [ ] Bonus Option (Hidden) To Break Them Out Of The Loop
+		- [ ] Bonus Option (Hidden) To Break Them Out Of The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Campaign/Starfall/Events/Loop/Loop\|Loop]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Athens/Lite N Inn\|Lite N Inn]]
 - [ ] Girl Makes Boyfriend Robot [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]]
-	- [ ] (Wake This Weird And Creepy)
+	- [ ] (Make This Weird And Creepy)
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Omihami/Sawakasato\|Sawakasato]]
 - [ ] Older Sister Who Really Loves Her Younger Brother
 	- [ ] Be Gross But Not Sexual
@@ -381,8 +399,9 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Infernis/Axel\|Axel]]
 - [ ] Original [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Version/Version\|Version]] Of [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]] Bleeds Out In The Inn And Gets Replaced By Current One
 	- [ ] Having Died Broke Some Reality [[Skull/Concentrated Brain/Dnd/Terminology/Shield\|Shield]]
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]] Gets Good Groups Session 2 Description
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]] Gets Good Groups [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Campaign/Starfall/template/Session\|Session]] 2 Description
 - [ ] Orb Of Annihilation
+	- [ ] Phygrias Leader Owns And May Let The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Campaign/Starfall/Characters/PC/Party/Party\|Party]] Borrow If On A Quest For Her
 - [ ] Demons
 - [ ] Celestials
 - [ ] Lost Divine Artefact For [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Cult\|Cult]]
@@ -391,9 +410,10 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Trade Route Timings
 - [ ] Army Transfer
 	- [ ] Like 100 Soldiers On A Road Somewhere
+	- [ ] SW -> N Infernal On Day 8
 - [ ] Also Im Naming My Major Roads
 	- [ ] Gonna Have The Connecting Cities In My Notes
-- [ ] Cars
+- [ ] Car [[Skull/Concentrated Brain/Dnd/Mine/Realities/Stratus Saepta/templates/Locations\|Locations]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Blech/Aciid/Aciid\|Aciid]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Branson/Waterside Up\|Waterside Up]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Clitburry/Stapseazion\|Stapseazion]]
@@ -419,21 +439,12 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Undead Lumberjack Who Has An Axe n His Head
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Lytescomia/Torkneth\|Torkneth]]
 - [ ] Payment Receptacles That Have A [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/MAgic/Magic\|Magic]] [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Green/Green\|Green]] Fill Line
-- [ ] Character Called Silvia (Sil). E
-	- [ ] Normal Guy But Cant Stay Dead
+- [ ] Character Called [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Silvia (Sil). E\|Silvia (Sil). E]]
 - [ ] "The Name's Nick. Phoenix"
 	- [ ] Lawyer Who Never Loses Because He Plants Evidence And Stuff
-- [ ] Questline That Lets You Out Of The Loop (True End): Ends With Defeating The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Queen\|Queen]] In The Name Of The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Moons\|Moons]]
+- [ ] Questline That Lets You Out Of The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Campaign/Starfall/Events/Loop/Loop\|Loop]] ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/True End\|True End]]): Ends With Defeating The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Queen\|Queen]] In The Name Of The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Moons\|Moons]]
 - [ ] Write About: [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Lei (moon)\|Lei (moon)]], [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Rouge\|Rouge]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Ciel\|Ciel]]
-- [ ] Eras: 
-	- [ ] The [[Branches/Gods\|Gods]] Age (When The [[Branches/Gods\|Gods]] Were Everything)
-	- [ ] Pre [[Branches/Starfall\|Starfall]] 
-		- [ ] Timeless ([[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]? Seeminly Infinite Length, Fucks Up Historians)
-		- [ ]  Fogotten (After The Timeless Age The God' Influence Morphs The World
-		- [ ]  [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] Is Known About This Time (Hense The Name)
-	- [ ] Revival (Before The [[Branches/Gods\|Gods]] Returned But After Their Powers Settled In The World (Kinda Realistic Urban Fantasy Vibes)) 
-	- [ ] [[Branches/Starfall\|Starfall]] (The Sky Came Down For Generations, More Forgotten Realmsy, Where Most Old Tales Come From, after-effect of The Revival)
-	- [ ] Post [[Branches/Starfall\|Starfall]] (Now)
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Eras\|Eras]]
 - [ ] Relook At Calander
 - [ ] Group Of Armed Teens On [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Military road\|Military road]] At [[Vent Lane\|Vent Lane]] Junction On Day 2
 	- [ ] Very Threatening But Wont Do Anything
@@ -445,79 +456,87 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] More Moon Festival Stuff
 - [ ] Town Imports And Exports
 - [ ] Missys Doc
+	- [ ] https://docs.google.com/document/d/1tXLoWsc_8z61a-UfeZkfqz24dFC3u2OKPy-BBP2iNfI/edit?tab=t.0
+	- [ ] https://docs.google.com/document/d/1ff1dgizIXJzeN4oHbJqyPXEG5U_NMHHLvTP5wuV2CIo/edit?tab=t.0
+	- [ ] https://docs.google.com/document/d/12EKV0TtJ3vNJSahZoRyM75eOTN08epQdbxjs7vVQpAA/edit?tab=t.0
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Sera\|Sera]]
 - [ ] Take And Leave System
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Naga\|Naga]] Has A Pocket Dimention System That "Exotic Or Monsterous" [[Branches/People\|People]] Can Use In Times Of Need
 - [ ] Write Stuff Up North
 - [ ] Sword With Modifier Equal To Negative Strength
+	- [ ] Mental Strength Dungeon Reward
 - [ ] More (Less Important) Dungeons
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Skeleton Dungeon\|Skeleton Dungeon]] 
+	- [ ] Teleporting Amnesia Maze Dungeon
+	- [ ] Mental Strenght Test Dungeon
+		- [ ] Makes You Lose A Lot And See If You Can Still Get To The End
+			- [ ] If You Die You Get SEnt Back To The Begining
 - [ ] Proxy Wars
 - [ ] Booby Trapped House
 	- [ ] [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] Special In It
+	- [ ] Somewhere North
 - [ ] Gambler
 - [ ] cat Who Transforms Into A Woman
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Felis\|Felis]]
 - [ ] Align A Few [Sanguinated](https://docs.google.com/document/d/1NqB8k34TY_7taP0mZoVHINo9DKhz4n88AlHWSN5-eg8/edit?tab=t.0) To [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Blood Lich\|Blood Lich]]
 - [ ] Debt Collectors
-	- [ ] One In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]] That Wont [[Remember\|Remember]] You When Time Resets But Will [[Remember\|Remember]] How Much Money He Owes You
+	- [ ] One In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]] That Wont [[Remember\|Remember]] You When Time Resets But Will [[Remember\|Remember]] How Much Money You Owe Him
+	- [ ] One In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Torogiya/Rekx\|Rekx]] 
+	- [ ] Lair Debt Collection Agency That Provides Support Globaly
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Shooter Side Quest\|Shooter Side Quest]]
-- [ ] Avatar Of The Crush 
-	- [ ] Representation Of Mental Health, Specifically Depression And Demotivating (The Feeling Of Carrying Too Much Emotional Weight)
-	- [ ] The Crushed Church Exists Without Places Of Worship Or A Spreading Doctrine
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Avatar Of The Crush\|Avatar Of The Crush]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]] Border Paperwork
 - [ ] One King Or [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Queen\|Queen]] That Has Literally No Protection
-- [ ] Next Era Theme: 
-	- [ ] Things Of Importance: [[Branches/Gods\|Gods]], Biopunk, [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/MAgic/Magic\|Magic]]
-	- [ ] Global Anarchism 
-	- [ ] Current Money Becomes A Part Of You And Can Take Over 
-	- [ ] "Common" (High Fantasy) Races Are Rare
-	- [ ] Monsters Are More Common
 - [ ] Some "Monsters" Can Be Born With ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/KAijin\|KAijin]]) Or Gain Sentience
 - [ ] News Articles
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|hell]] Thruple Doorway Has Passphrase To Turn Off Secret Alarm
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|hell]] Thruple Doorway Has Passphrase To Turn Off Secret [[Skull/Concentrated Brain/Dnd/Terminology/Alarm\|Alarm]]
 	- [ ] "Honeys Im Home"
 - [ ] Write About The Soul Artifacts
 	- [ ] In Grease
 		- [ ] Soul Control Artifact That Is Still Owned By It's Church
-- [ ] Qutez Wakes Up On the Side Of The Road One Day Out From Sangwoo
-- [ ] Write Sangwoo
+			- [ ] Can Move Undead To A Specified [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Location\|Location]]
+- [ ] Qutez Wakes Up On the Side Of The Road One Day Out From [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Sangwoo\|Sangwoo]]
+- [ ] Write [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Sangwoo\|Sangwoo]]
 	- [ ] Dragons, Dragonborns, Kobalds,  Orcs
-- [ ] Blood Weapon Does Not Dissappear On Rest If Made With Celestial Vial
+- [ ] Blood Weapon Does Not Dissappear On [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Rest/Rest\|Rest]] If Made With Celestial Vial
 - [x] Add Horse Speed Slightly Faster Than Carriage Speed
 - [ ] Write News Articles
-- [ ] High Hell Security For A Couple Days
+- [ ] High [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]] Security For A Couple Days
 	- [ ] A Guard Or Two In Neighboring Cities
 - [ ] Large Encounters
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hell Morgue Escape Quest\|Hell Morgue Escape Quest]] For Jetty Reset
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hell Morgue Escape Quest\|Hell Morgue Escape Quest]] For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]] Reset
 - [ ] Toy Bear That Watches You
 - [ ] Hospitals Do Not Exist
 	- [ ] Regular Infections Are Consumed By The Avatar Of Pestilence And Any Disease That Cannot Be Treated By Their Presence Would Be Too Much For A Hospital
 	- [ ] Doctors And Nurses Do Still Exist But They Do House Calls
-- [ ] If Qutes Uses The Demon killing Weapon They Still Come Back On A Loop And She Earns Rubys Eyre
-- [ ] Giant Pumpkins With A Chance To Be Evil And Eat People
+- [ ] If [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Qutes\|Qutes]] Uses The Demon killing Weapon They Still Come Back On A [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Campaign/Starfall/Events/Loop/Loop\|Loop]] And She Earns Rubys Eyre
+- [ ] Giant Pumpkins With A Chance To Be Evil And Eat [[Branches/People\|People]]
 	- [ ] Fermented Are Popular With Huge Monsters
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Starfall Reset Rules\|Resets]] Are Based On Soul Versus Self
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/KAijin\|KAijin]]
 - [ ] Curses And condemnations
 - [ ] 16-Year-Old Widow [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Ms Yuri\|Ms Yuri]]
-- [ ] Wrighth
+- [ ] [[Branches/Wrighth\|Wrighth]]
 	- [ ] If One Or More Are To Step Within This Write They Will Then Cease To Exist And Then The Write Will Shoot Many Harmless Fireworks Outwards
 		- [ ] Cease = Seis = 6
 		- [ ] Six Two Exist 
 			- [ ] If The Person That Made That Stands On It They Grow Taller
-		- [ ] Fire- Rife, Fry
+		- [ ] [[Skull/Spam/Fire\|Fire]]- Rife, Fry
 - [ ] Write Animals And Plants
 - [ ] Devil Deal For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]]s Birth
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/cosmia crime family\|cosmia crime family]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/prexa\|prexa]] And goings ons
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Regalia tomo\|Regalia tomo]] a drow assassin
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Stories Behind The Stars\|Stories Behind The Stars]]
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Jewels (Currency)\|Jewels (Currency)]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Jewels (Currency)\|Jewels (Currency)]]
+- [ ] Cult Of The Wicked Devil Associations
+- [ ] Jetty MOnk Stuff
 
 
 
 
 - [ ] Trains 
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Subway Dungeon\|Subway Dungeon]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Subway Dungeons\|Subway Dungeons]]
 
 
 Sew More Seeds For:

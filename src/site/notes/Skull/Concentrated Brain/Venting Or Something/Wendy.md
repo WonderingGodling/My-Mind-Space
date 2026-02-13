@@ -1215,9 +1215,6 @@ My Mothers Trying To Tell [[Explicitly Showcased/Me/Me\|Me]] That Imposter Syndr
 My Mother Wanted To Watch A Movie Then My Brother Started A Conversation 
 When It Ended I Asked Her To Rewind And When She Did She Called My Brother Back :/
 
-My [[Skull/Concentrated Brain/Venting Or Something/Wendy\|Mother]] Was Talking About How He Hasnt Eaten And My Cousin Said He Hasnt Either
-"[My Aunt]! You Haven't Been Feeding Your Child‽‽" My [[Skull/Concentrated Brain/Venting Or Something/Wendy\|Mother]] In Christ You Only Got Out Of Bed Three Hours Ago You Burn Hypocrisy Like Coal!
-
 
 <center><sub> Why Do I Bother With Her </sub></center>
  ‍​ 

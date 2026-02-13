@@ -6,9 +6,11 @@
 
 
 # <center><span style="color:#000000"></span></center>
-![Pasted image 20251204003218.png](/img/user/images/Pasted%20image%2020251204003218.png)
-![Pasted image 20251204003235.png](/img/user/images/Pasted%20image%2020251204003235.png)
+![Karma Other.png](/img/user/images/Karma%20Other.png)
+![Karma.png](/img/user/images/Karma.png)
+![Karma Token.png](/img/user/images/Karma%20Token.png)
 
+![Karma Other Token.png](/img/user/images/Karma%20Other%20Token.png)
 https://docs.google.com/document/d/1cX0aEyIfw-UwqpVdj5GcNwjbxiZg2NejDc6BrlVvros/edit?usp=sharing
 
 

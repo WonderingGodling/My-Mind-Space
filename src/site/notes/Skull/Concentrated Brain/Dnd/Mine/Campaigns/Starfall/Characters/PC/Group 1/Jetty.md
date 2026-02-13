@@ -9,7 +9,9 @@
 </style>
 
 
-# <center><span style="color:#FEDCBA"></span></center>
+# <center><span style="color:#FEDCBA">Jettrenya nirill revona Cosmia</span></center>
+
+[the life and death of jetty cosmia](https://docs.google.com/document/d/1tXLoWsc_8z61a-UfeZkfqz24dFC3u2OKPy-BBP2iNfI/edit?tab=t.0)
 
 ## You Wont Believe What This Cost Me
 ₐ꜀ₜᵤₐₗₗᵧ ᵢ ₖₑₚₜ ₜₕₑ ₗₑ₉
@@ -21,7 +23,9 @@ There Is Still A Harsh Divide Between The Human And Demon Parts Of Your Body Des
 
 The More Infrequently This Happens The More It Hurts
 
-
+- [ ] Devil Deal For Jettys Birth
+	- [ ] causes jetty to have demon blood
+	- [ ] Wanted In City With Museum
 
 
 

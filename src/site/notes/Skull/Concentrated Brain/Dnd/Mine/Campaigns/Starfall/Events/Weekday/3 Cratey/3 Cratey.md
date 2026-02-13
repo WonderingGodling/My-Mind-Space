@@ -23,7 +23,7 @@ Cratey
 	- (At Least One Group → All Of Them)
 	- Tobias Duplicates Next Loop If Killed
 
--   [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Dungeon\|Dungeon]] Found (Effected By Players),
+-   [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Crazy Dungeon\|Crazy Dungeon]] Found (Effected By Players),
 -   Lock: Four Riddles Four Lives
 	- Tobias Uses All Of Them
 	- Riddles:

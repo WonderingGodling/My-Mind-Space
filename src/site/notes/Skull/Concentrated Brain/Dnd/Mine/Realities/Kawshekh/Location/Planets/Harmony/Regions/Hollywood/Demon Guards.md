@@ -8,18 +8,47 @@
 }
 </style>
 
-
-# <center><span style="color:#FEDCBA"></span></center>
-
+# <center><span style="color:#323456"> </span></center>
 
 
 
 
+## Stats
 
+|    Speed     |  AC   | Bonus |  Initiative   |
+| :----------: | :---: | :---: | :-----------: |
+|      30      |  17   |   4   |       3       |
+|   Hit Dice   | 10d10 | 10d10 | Saving Throws |
+|    Health    |  120  |  120  |               |
+|   Strength   |  20   |   5   |       9       |
+|  Dexterity   |  17   |   3   |       7       |
+| Constitution |  15   |   2   |       2       |
+| Inteligence  |  10   |   0   |       0       |
+|    Wisdom    |  12   |   1   |       1       |
+|   Charima    |  13   |   1   |       1       |
 
+https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjITTE/edit?gid=572524224#gid=572524224&range=F17
 
+| Persuasion (Char)   | 1 A |
+| ------------------- | :-: |
+| Intimidation (Char) |  9  |
 
+| Death Saves  |     |     |     |
+| ------------ | --- | --- | --- |
+| Death Fails |     |     |     |
+### Attacks
 
+| Attack            | To-Hit | Damage           |
+| ----------------- | ------ | ---------------- |
+| Demon Guard Sword | 9      | 1d10+11 Slashing |
 
+Extra Attack
 
-<center><sub>Done :)</sub></center>
+[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Demon Guard Sword\|Demon Guard Sword]]
+Chain Mail
+
+Immune To Fire
+immunity to disease, frightened, And Charmed
+resistance to poison
+
+30 feet of darkvision. 

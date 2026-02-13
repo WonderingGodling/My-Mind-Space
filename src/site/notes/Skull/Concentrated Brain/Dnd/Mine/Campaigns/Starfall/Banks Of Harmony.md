@@ -18,7 +18,7 @@
 		- [ ] Floor Made Out Of Unbreakable Glass With Deep Black Jewel Liquid Underneath
 	- [ ] Money Is A Natural Resource 
 	- [ ] Trading Is Maintained Through Ease (Jewels Look Pretty But Have Less Personal Value Than The Thing Youre Buying)
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Jewels (Currency)\|Jewels (Currency)]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Jewels (Currency)\|Jewels (Currency)]]
 	- [ ] Hollywood Classically Dont Trust Banks
 		- [ ] Residents Who Do Travel Out Of Province
 	- [ ] Crime Organisations Have Two Banks

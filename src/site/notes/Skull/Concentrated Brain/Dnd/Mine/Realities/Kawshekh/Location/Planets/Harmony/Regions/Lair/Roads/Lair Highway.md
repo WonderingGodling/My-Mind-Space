@@ -15,13 +15,13 @@
 
 ### Capital Centric Convergance
 #### Sangwoo Convergance
-North Aka "Bridge Walk":  Ithvanalon River Bridge -> NNE Crossroads → Theluna Fork Bridge → Iunylath Ar Bridge → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Charmillli/Anoress\|Anoress]] → draunyesesi River Bridge → Wassadhel River Bridge → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Mytheas/Canwichbou\|Canwichbou]] → NNW Crossroads -> Sangwoo
+North [[Explicitly Showcased/Me/Aka\|Aka]] "Bridge Walk":  Ithvanalon River Bridge -> NNE Crossroads → Theluna Fork Bridge → Iunylath Ar Bridge → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Charmillli/Anoress\|Anoress]] → draunyesesi River Bridge → Wassadhel River Bridge → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Mytheas/Canwichbou\|Canwichbou]] → NNW Crossroads -> [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Sangwoo\|Sangwoo]]
 
-North East: NNE Crossroads → Theluna Fork Bridge → Iunylath Ar Bridge → draunyesesi River Bridge → Sshanse Fork Bridge → Dodbrolive → Soroughwark → Towcesbury River-> NENW Crossroads → Burlowbury Convergance → Tetfordbury → Meethasa River Bridge → Olterming → Sangwoo
+North East: NNE Crossroads → Theluna Fork Bridge → Iunylath Ar Bridge → draunyesesi River Bridge → Sshanse Fork Bridge → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Mytheas/Dodbrolive\|Dodbrolive]] → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Soroughwark\|Soroughwark]] → Towcesbury River-> NENW Crossroads → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Burlowbury\|Burlowbury]] Convergance → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Tetfordbury\|Tetfordbury]] → Meethasa River Bridge → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Olterming\|Olterming]] → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Sangwoo\|Sangwoo]]
 
-East: Fillun Aren → Mytheas → Shemlulil → Sangwoo
+East: [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Charmillli/Fillun Aren\|Fillun Aren]] → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Mytheas/Mytheas\|Mytheas]] → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Shemlulil\|Shemlulil]] → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Sangwoo\|Sangwoo]]
 
-South East: Sangwoo → Shemlulil → Mytheas → Fillun Aren
+South East: [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Sangwoo\|Sangwoo]] → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Shemlulil\|Shemlulil]] → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Mytheas/Mytheas\|Mytheas]] → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Charmillli/Fillun Aren\|Fillun Aren]]
  
 
 

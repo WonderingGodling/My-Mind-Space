@@ -14,375 +14,146 @@
 
 ## The Plant Extracellular Matrix
 ### Introduction
-- All plant species are covered by the plant cell wall
-that forms a single continuous extracellular matrix
-(ECM) throughout the body of the plant (See Figure 1)
-- The structure/composition of this ECM has clear
-agronomic/economic importance in relation to the
-food, textile and timber/paper industries.
-Figure 1: Hibiscus rosa-sinensis stigmatic papillae.
-(Baldwin(Baldwin et al,et al, unpublished).unpublished).
-- The plant ECM consists of a number of major
-interactive molecular components which interact with
-both intrinsic and extrinsic proteins of the plasma
-membrane and these in turn interact directly or
-indirectly with the actin filaments and microtubules of
-the cortical cytoskeleton.
-- All these elements together constitute the plant cell
-surface and it is this CELL SURFACE that is at the
-heart of many key events in plant growth and
-development.
-- The structure and function of the plant ECM has
-important implications for cell signalling and
-communications, the rate and direction of cell growth, and
-the organisation of cellular events at the tissue level.
-- Therefore, only by analysing the synthesis, architecture
-and interactions between the component parts of this
-structure can we hope to understand its role in the
-aforementioned processes in agronomically important
-species.
-The structure of the plant ECM
-- Plant cells deposit their cell walls as a series of
-layers.
-(a) Middle lamella: Earliest formed layer located at the
-centre of a double wall formed by two adjacent cells.
-This is derived from the cell plate laid down at cell division.
-This layer of the ECM is extremely pectin-rich.
-(See Figures 2).
-Figure 2: Cell plate formation.
-(Brett and Waldron, 1996).(Brett and Waldron, 1996).
-1μm
-(b) Primary cell wall: Once the cell plate is complete and
-the middle lamella has been formed, the daughter cells
-proceed to deposit what is termed the primary cell wall.
-This is deposited continuosly whilst a cell is increasing
-in volume and is 0.1 - 1.0μmthick.
-(c) Secondary cell wall: Most plant cells only possess a
-middle lamella and a primary cell wall, but certain
-specialised cells such as sclerenchyma cells (eg: stone
-cells) proceed to lay down a third layer after the cell has
-ceased to grow termed the secondary cell wall is often
-to strengthen and rigidify the cell and is lignin-rich.
-(See figures 3, 4 & 5).
-Secondary thickening in xylem elements
-Secondary cell wall model showing lignin phenolics
-filling in spaces between cellulose microfibrils
-to make a rigid, impermeable wall.
-Figure 3:
-(Brett and Waldron, 1996)(Brett and Waldron, 1996)
-Figure 4: Line drawing of Pyrus communis sclereid
-(stone cell) example of cell type which possesses a
-secondary cell wall.
-(Brett and Waldron, 1996).(Brett and Waldron, 1996).
-Figure 5: Cell wall architecture compared with
-the structure of plywood.
-- It is important to note that the composition of the
-cell walls in different plant species and within different
-tissues and organs of an individual species differ widely
-(See figure 6)
-- Since the primary cell wall is the most important
-layer of the ECM in relation to plant/growth and
-development I shall limit the remainder of this lecture to
-a discussion of this structure.
-Figure 6 : Relative proportions of the components within the
-cell walls (a) fruit & veg (b) cereal endosperm (C) cereal bran
-(Brett & Waldron, 1996)
-The Primary cell wall
+- All plant species are covered by the plant cell wall that forms a single continuous extracellular matrix throughout the body of the plant 
+- The structure/composition of this extracellular matrix has clear agronomic/economic importance in relation to the food, textile and timber/paper industries.
+- The plant extracellular matrix consists of a number of major interactive molecular components which interact with both intrinsic and extrinsic proteins of the plasma membrane and these in turn interact directly or indirectly with the actin filaments and microtubules of the cortical cytoskeleton.
+- All these elements together constitute the plant cell surface and it is this CELL SURFACE that is at the heart of many key events in plant growth and development.
+- The structure and function of the plant extracellular matrix impacts cell signalling and communications, the rate and direction of cell growth, and the organisation of cellular events at the tissue level.
+- Therefore, only by analysing the synthesis, architecture and interactions between the component parts of this structure can we hope to understand its  role in the aforementioned processes in agronomically important species.
+
+### The structure of the plant extracellular matrix
+- Plant cells deposit their cell walls as a series of layers.
+	- Middle lamella: Earliest formed layer located at the centre of a double wall formed by two adjacent cells. This is derived from the cell plate laid down at cell division. This layer of the extracellular matrix is extremely pectin-rich.
+- Primary cell wall: Once the cell plate is complete and the middle lamella has been formed, the daughter cells proceed to deposit what is termed the primary cell wall. This is deposited continuosly whilst a cell is increasing in volume and is 0.1 - 1.0μmthick.
+ - Secondary cell wall: Most plant cells only possess a middle lamella and a primary cell wall, but certain specialised cells such as sclerenchyma cells (eg: stone cells) proceed to lay down a third layer after the cell has ceased to grow termed the secondary cell wall is often to strengthen and rigidify the cell and is lignin-rich.
+
+### Secondary thickening in xylem elements
+Secondary cell wall model showing lignin phenolics filling in spaces between cellulose microfibrils to make a rigid, impermeable wall.
+
+#### the structure of plywood.
+- It is important to note that the composition of the cell walls in different plant species and within different tissues and organs of an individual species differ widely
+- Since the primary cell wall is the most important layer of the extracellular matrix in relation to plant/growth and development I shall limit the remainder of this lecture to a discussion of this structure.
+
+### The Primary cell wall
 Cellulose: (β 1, 4- Glucan)
-Hemicelluloses: xylan, glucomannan, mannan,
-galactomannan, xyloglucan and arabinogalactan.
-Pectins: Rhamnogalactan I, arabinan, galactan,
-arabinogalactan I, homogalacturonan.
-Proteins:
-(I) Structural proteins
-Arabinogalactan-proteins, proline-rich proteins,
-glycine-rich proteins, extensins and solanaceous lectins.
-(ii) Enzymes Which function to modify the structure of
-specific cell wall components.
-THE STRUCTURE OF THE PRIMARY CELL WALL
-- The primary cell wall of the majority of plant
-species consists of three major interactive components:
-(a) The cellulose/xyloglucan network (scaffolding)
-(b) The pectin/hemicellulose network (matrix)
-(C) The structural protein network (matrix)
-(See figure 7)
-Figure 7: Scale model of onion primary cell wall
-(McCann and Roberts, 1991)
-Polysaccharide Components of the
-Primary Cell Wall
-Structure and function of cellulose
-- Cellulose, an unbranched β 1,4-glucan in a linear
-form, is the major component of the primary cell wall
-and comprises 20-30% of the walls’ dry weight.
-- The chains of cellulose self associate into
-structures termed microfibrils that have a diameter
-5-15 nm and are elliptical in cross-section.
-- Cellulose is a component of all higher plant cell
-walls, but the “matrix” components (pectins,
-hemicelluloses and proteins) differ widely between
-(graminaceous monocots) and (dicots+non gram. monocots).
-- The matrix components of the former are
-characterised by low levels of pectin, xyloglucan and
-structural protein, and high levels of arabinoxylans
-and β-1-3, 1-4-glucans. The reverse is true of dicots+
-non-graminaceous monocots.
-Proposed functions
-- Binds to the hemicellulose xyloglucan to form the
-cellulose/xyloglucan network of the primary cell wall that
-forms the ‘scaffolding’ of the wall, around which the
-‘matrix’ polysaccharides and structural proteins are
-deposited (See figure 8).
-Figure 8: EM replica of cellulose/XG in onion primary cell wall
-(McCann(McCann et alet al, 1990), 1990)
-200 nm
-Hemicellulose
-- Hemicellulose is the term used to describe all
-non-cellulosic polysaccharides other than pectin.
-- Xyloglucan is the most abundant hemicellulose
-in dicots and non-graminaceous monocots.
-- The backbone of xyloglucan is identical to cellulose,
-but attached to 70-80% of the glucose residues are side
-chains, mostly of xylose residues linked to glucose.
+- Hemicelluloses: xylan, glucomannan, mannan, galactomannan, xyloglucan and arabinogalactan.
+- Pectins: Rhamnogalactan I, arabinan, galactan, arabinogalactan I, homogalacturonan.
+- Proteins:
+	- Structural proteins: Arabinogalactan-proteins, proline-rich proteins, glycine-rich proteins, extensins and solanaceous lectins.
+	- Enzymes Which function to modify the structure of specific cell wall components.
+#### THE STRUCTURE OF THE PRIMARY CELL WALL
+The primary cell wall of the majority of plant species consists of three major interactive components:
+- The cellulose/xyloglucan network (scaffolding)
+- The pectin/hemicellulose network (matrix)
+- The structural protein network (matrix)
+
+#### Polysaccharide Components of the Primary Cell Wall
+##### Structure and function of cellulose
+- Cellulose, an unbranched β 1,4-glucan in a linear form, is the major component of the primary cell wall and comprises 20-30% of the walls’ dry weight.
+- The chains of cellulose self associate into structures termed microfibrils that have a diameter 5-15 nm and are elliptical in cross-section.
+- Cellulose is a component of all higher plant cell walls, but the “matrix” components (pectins, hemicelluloses and proteins) differ widely between (graminaceous monocots) and (dicots+non gram. monocots).
+- The matrix components of the former are characterised by low levels of pectin, xyloglucan and structural protein, and high levels of arabinoxylans and β-1-3, 1-4-glucans. The reverse is true of dicots+ non-graminaceous monocots. Proposed functions
+- Binds to the hemicellulose xyloglucan to form the cellulose/xyloglucan network of the primary cell wall that  forms the ‘scaffolding’ of the wall, around which the ‘matrix’ polysaccharides and structural proteins are deposited 
+
+###### Hemicellulose
+- Hemicellulose is the term used to describe all non-cellulosic polysaccharides other than pectin.
+- Xyloglucan is the most abundant hemicellulose in dicots and non-graminaceous monocots.
+- The backbone of xyloglucan is identical to cellulose, but attached to 70-80% of the glucose residues are side chains, mostly of xylose residues linked to glucose.
 Proposed function:
-- Purified xyloglucans associate strongly in vitro with
-purified cellulose. In the wall it seems that they stick to
-microfibrils by hydrogen bonding between the cellulose
-molecules to form the cellulose/XG network. (See figure 9).
-Figure 9: Xyloglucan binding to cellulose.
-(Brett and Waldron, 1996)
-Pectins
-- Pectins are a heterogenous, branched and highly
-hydrated group of polysaccharides rich in D-galacturonic
-acid.
-- Pectins are often described as ‘block’ polymers since
-they consist of ‘smooth’ blocks of contigous unbranched
-α-D- galacturonic acid residues punctuated by the
-occasional rhamnose, with intervening homoGal blocks
-sometimes not.
-Pectins also contain so-called ‘hairy’ blocks that contain
-numerous other sugars (See figure 10).
-Figure 10: Simplified structure of Pectin
-(Brett and Waldron, 1996)
-Proposed functions
-- Dicot pectins are known to form rigid insoluble
-gels in the presence of Ca 2+ . Pectins are thought to
-function to cement adjacent cells together (abundant in
-middle lamella) since the use of pectinolytic enzymes
-and chelating agents causes rapid release of single cells
-from many soft plant tissues.
-STRUCTURAL PROTEIN COMPONENTS
-OF THE PRIMARY CELL WALL
-N.B. In the literature you can find a variety of terminology
-used for the various ‘classes’ of cell wall proteins, which
-are all much of a muchness so don’t worry!
-Glycine-rich proteins (GRPs)
-(1) Rich in glycine can contain up to 70%.
-(2) Repeat motif of Gly-X where X is most often Glycine!
-(3) Two broad classes of GRPs:
-(a) Cell wall-associated and developmentally regulated
-(young leaves and stems, after wounding, young xylem
-secondary cell walls).
-(b) Cytoplasmically regulated by a variety of stress
-conditions.
+- Purified xyloglucans associate strongly in vitro with purified cellulose. In the wall it seems that they stick to microfibrils by hydrogen bonding between the cellulose molecules to form the cellulose/XG network. 
+###### Pectins
+- Pectins are a heterogenous, branched and highly hydrated group of polysaccharides rich in D-galacturonic acid.
+- Pectins are often described as ‘block’ polymers since they consist of ‘smooth’ blocks of contigous unbranched α-D- galacturonic acid residues punctuated by the occasional rhamnose, with intervening homoGal blocks sometimes not.
+Pectins also contain so-called ‘hairy’ blocks that contain numerous other sugars )
+Proposed functions:
+- Dicot pectins are known to form rigid insoluble gels in the presence of Ca 2+ . Pectins are thought to function to cement adjacent cells together (abundant in middle lamella) since the use of pectinolytic enzymes and chelating agents causes rapid release of single cells from many soft plant tissues.
+#### STRUCTURAL PROTEIN COMPONENTS OF THE PRIMARY CELL WALL
+##### Glycine-rich proteins (GRPs)
+- Rich in glycine can contain up to 70%.
+- Repeat motif of Gly-X where X is most often Glycine!
+- Two broad classes of GRPs:
+	- Cell wall-associated and developmentally regulated (young leaves and stems, after wounding, young xylem secondary cell walls).
+	- Cytoplasmically regulated by a variety of stress conditions.
 Putative function:
-- There is strong evidence that GRPs act as the
-scaffold for the deposition of lignin in the xylem.
-Extensins
-- First cell wall associated protein to be discovered
-(1960) Dr. D. Lamport.
-- Abundant in dicot primary cell walls and are
-charcterised by the following features:
-(1) Rich in hydoxyproline and serine and some
-combination of valine, tryrosine, lysine and histidine.
-(2) They usually contain multiple repeats of the a.a.
-Motif Ser (Hyp)4.
-(3) Most of the hydroxyproline residues are glycosylated
-with one to four arabinose residues, and some serines
-are glycosylated with a single galactose unit.
-(4) Basic proteins pI = 10 with a rod-like appearance when
-viewed on TEM (polyproline II helix).
-(5) Encoded by multigene family.
-(6) Accumulates in tissues in response to:
-Wounding, pathogens, ethylene, oligosaccharides elicitors.
+- There is strong evidence that GRPs act as the scaffold for the deposition of lignin in the xylem.
+##### Extensins 
+First cell wall associated protein to be discovered (1960) Dr. D. Lamport.
+Abundant in dicot primary cell walls and are charcterised by the following features:
+- Rich in hydoxyproline and serine and some combination of valine, tryrosine, lysine and histidine.
+- They usually contain multiple repeats of the a.a. Motif Ser (Hyp)4.
+- Most of the hydroxyproline residues are glycosylated with one to four arabinose residues, and some serines are glycosylated with a single galactose unit.
+- Basic proteins pI = 10 with a rod-like appearance when viewed on TEM (polyproline II helix).
+- Encoded by multigene family.
+- Accumulates in tissues in response to:
+	- Wounding, pathogens, ethylene, oligosaccharides elicitors.
 Proposed function:
-(a) Contribution to the control of cell wall expansion - high
-levels of extensin cause decrease in cell growth, similar
-role to collagen in animal tissues (rigidify wall).
-(b) Resistance to pathogenic attack - Stimuli increase its
-levels. Charge on extensin may interact with surface of
-pathogens and cause them to agglutinate.
-(See figures 11 - 18 Antirrhinum slides)
-Figure 11: Schematic diagram of pistil
-(Baldwin)(Baldwin)
-Figure 12Figure 12
-(Baldwin)(Baldwin)
-Figure 13Figure 13
-(Baldwin)(Baldwin)
-1 = leaf mRNA, 2 = pistil mRNA.1 = leaf mRNA, 2 = pistil mRNA.
-Figure 14:Figure 14: Ptl1Ptl1 organ Northern.organ Northern.
-1 = root1 = root
-2 = stem2 = stem
-3 = leaves3 = leaves
-4 = ovaries4 = ovaries
-5 = pistils/sepals5 = pistils/sepals
-6 = anthers6 = anthers
-7 = flower tubes7 = flower tubes
-8 = flower lobes8 = flower lobes
-9 = d-2 pistils9 = d-2 pistils
-10 = pistils at A.10 = pistils at A.
-(Baldwin)(Baldwin)
-Figure 15: DNA and deduced amino acid sequence ofFigure 15: DNA and deduced amino acid sequence of Ptl1Ptl1 cDNA. The putativecDNA. The putative
-signal sequence is depicted in bold. The putative N-glycosylation sequencessignal sequence is depicted in bold. The putative N-glycosylation sequences
-are underlined, and the polyadenylation signals are boxed. The proline-richare underlined, and the polyadenylation signals are boxed. The proline-rich
-amino acid motifs are indicated by thick lines.amino acid motifs are indicated by thick lines.
-Figure 16: Alignment of the deduced amino acid sequence ofFigure 16: Alignment of the deduced amino acid sequence of Ptl1Ptl1 cDNAcDNA
-(top line of sequence) to the deduced amino acid sequence of a(top line of sequence) to the deduced amino acid sequence of a
-Chlamydomonas reinhartiiChlamydomonas reinhartii zygote wall hydroxyproline - rich glycoproteinzygote wall hydroxyproline - rich glycoprotein
-(bottom line of sequence) 47% similarity. (Baldwin)(bottom line of sequence) 47% similarity. (Baldwin)
-Figure 17: Internal structure of an Antirrhinum majus flower
-(Baldwin)(Baldwin)
-Figure 18: In situ hybridisation of Antirrhinum
-style with Ptl1 RNA probe
-(Baldwin)(Baldwin)
-Proline-rich proteins (PRPs)
-(1) Rich in proline.
-(2) Repeat sequences of a.a. motif : pro-pro-x-y-z
-(3) The second proline in this sequence is often modified
-to hydroxyproline.
-(4) Fall into two broad classes ie. those that are
-components of ‘normal’ cell walls and those that are plant
-nodulins and constitute part of the nodule cell wall.
-(5) Encoded by a multigene family and expressed in a cell
-specific manner.
+- Contribution to the control of cell wall expansion - high levels of extensin cause decrease in cell growth, similar role to collagen in animal tissues (rigidify wall).
+- Resistance to pathogenic attack - Stimuli increase its levels. Charge on extensin may interact with surface of pathogens and cause them to agglutinate.
+##### Proline-rich proteins (PRPs)
+- Rich in proline.
+- Repeat sequences of a.a. motif : pro-pro-x-y-z
+- The second proline in this sequence is often modified to hydroxyproline.
+- Fall into two broad classes ie. those that are components of ‘normal’ cell walls and those that are plant nodulins and constitute part of the nodule cell wall.
+- Encoded by a multigene family and expressed in a cell specific manner.
 Putative functions:
 - Pollen guidence
 - Early nodulins (ENODS)
 Solanaceous lectins
-- Lectins are carbohydrate-binding proteins of
-diverse origin. The Solanaceous lectins represent
+- Lectins are carbohydrate-binding proteins of diverse origin. The Solanaceous lectins represent
 a unique class of plant lectins which:
-(1) Are restricted to occurrence in Solanaceous
-species. (Tomato, potato, tobacco and P ?)
-(2) Their ability to agglutinate oligomers of N-
-acetylglucosamine.
-(3) Their predominantly extracellular location, and their
-unusual amino acid and carbohydrate composition in
-which hydroxyproline and arabinose are major
-constituents.
-Function: Thought to be involved in cell-cell
-communication.
+- Are restricted to occurrence in Solanaceous species. (Tomato, potato, tobacco and P ?)
+- Their ability to agglutinate oligomers of N-acetylglucosamine.
+- Their predominantly extracellular location, and their unusual amino acid and carbohydrate composition in which hydroxyproline and arabinose are major constituents.
+Function: Thought to be involved in cell-cell communication.
 Arabinogalactan-proteins (AGPs)
-- The AGPs constitute a multigene family of highly
-gylcosylated proteins most of which are members of the
-superfamily of plant hydroxyproline-rich glycoproteins.
+- The AGPs constitute a multigene family of highly gylcosylated proteins most of which are members of the superfamily of plant hydroxyproline-rich glycoproteins.
 - AGPs were originally defined as having the following
 characteristics:
-(a) Diagnostically precipitated by β-glucosyl Yariv reagent.
-(b) Possession of an acidic isoelectric point.
-(C) Containing 2-10% protein by weight.
-(d) Carbohydrate moiety of arabinose and galactose in
-the form of a type II arabino-3, 6 galactan with terminal
-residues often consisting of α- arabinofuranoside and
-minor amounts of uronic acids.
-(e) Core proteins most often rich in hydroxyproline,
-alanine, serine, threonine and glycine.
-- Associated with cell wall, plasma membrane and
-intercellular spaces in both lower and higher plants.
+- Diagnostically precipitated by β-glucosyl Yariv reagent.
+- Possession of an acidic isoelectric point.
+- Containing 2-10% protein by weight.
+- Carbohydrate moiety of arabinose and galactose in the form of a type II arabino-3, 6 galactan with terminal residues often consisting of α- arabinofuranoside and minor amounts of uronic acids.
+- Core proteins most often rich in hydroxyproline, alanine, serine, threonine and glycine.
+- Associated with cell wall, plasma membrane and intercellular spaces in both lower and higher plants.
 Role(s):
-- Despite no definitive role as yet being assigned
-to AGPs, in recent years they have been shown to be
-associated with a number of developmental processes
-which suggest their involvement in cell-cell recognition
-and communication events.
-Mannose containing
-polysaccharides
---GlucomannansGlucomannans     - Major hemicellulosic    - Major hemicellulosic
-component of secondary gymnosperm cell walls.component of secondary gymnosperm cell walls.
-Component of angiosperm secondary cell walls.Component of angiosperm secondary cell walls.
-- GalactomannansGalactomannans     - Storage polysaccharide    - Storage polysaccharide
-in angiosperm seed endosperm.in angiosperm seed endosperm.
-- GlucuronomannansGlucuronomannans     - Found in small    - Found in small
-amounts in wide range of cell walls. Function(s)amounts in wide range of cell walls. Function(s)
-unclear.unclear.
--- Pure mannansPure mannans     - Only found in cell walls of    - Only found in cell walls of
-seed endosperms and cotyledons. Able to formseed endosperms and cotyledons. Able to form
-very hard,crystalline structures e.g. Date seeds.very hard,crystalline structures e.g. Date seeds.
--Mannose is a cell wall constituent found
-in a wide variety of non-cellulosic
-polysaccharides, several of which are of
-agronomic importance.
-- In Arabidopsis thaliana, mannose
-constitutes 4-9% of the neutral sugars
-present in the leaf tissue (Reiter et al,
-1997), but the biological function(s) of
-these mannose-containing
-polysaccharides is as yet unknown.
-a b c
-Figure 19: Anti-mannan ab labellingFigure 19: Anti-mannan ab labelling Arabidopsis thalianaArabidopsis thaliana inflorescenceinflorescence
-meristem sections. (a) Anti-mannan labelling (green). (b) Calcofluor white stainmeristem sections. (a) Anti-mannan labelling (green). (b) Calcofluor white stain
-(red). (c) Merged image, in which walls with little mannan appear red whereas(red). (c) Merged image, in which walls with little mannan appear red whereas
-walls with a high mannan content appear green, with intermediate levels inwalls with a high mannan content appear green, with intermediate levels in
-yellow. (Scale bar 100yellow. (Scale bar 100μμm)m)
-pi
-fi
-ep
-co
-Pi = pith, fi = fibre, co = cortex, ep = epidermis.
-100μ m
-(Handford, Baldwin(Handford, Baldwin et alet al, 2003), 2003)
-PhD student:
-Chen Wen
+- Despite no definitive role as yet being assigned to AGPs, in recent years they have been shown to be associated with a number of developmental processes which suggest their involvement in cell-cell recognition and communication  vents.
+#### Mannose containing polysaccharides
+Glucomannans 
+- Major hemicellulosic    
+- component of secondary gymnosperm cell walls
+- Component of angiosperm secondary cell walls.
+
+Galactomann
+- Storage polysaccharide 
+- in angiosperm seed endosperm.
+Glucuronomannans     
+- Found in small amounts in wide range of cell walls. 
+- Function(s) unclear.
+- Pure mannansPure mannans     - Only found in cell walls of    - Only found in cell walls of seed endosperms and cotyledons. Able to formseed endosperms and cotyledons. Able to form very hard,crystalline structures e.g. Date seeds.very hard,crystalline structures e.g. Date seeds.
+- Mannose is a cell wall constituent found in a wide variety of non-cellulosic polysaccharides, several of which are of agronomic importance.
+- In Arabidopsis thaliana, mannose constitutes 4-9% of the neutral sugars present in the leaf tissue (Reiter et al, 1997), but the biological function(s) of these mannose-containing polysaccharides is as yet unknown.
+
+
 - Ranks sixth in terms of global pulse crop production.
 - Food crop in developing countries.
 - Animal feeding in industrialised area.
 - High protein (20-41%) content.
-The agronomic importance of Vicia
-faba.
+The agronomic importance of Vicia faba.
 China is the largest producer
-Europe: Italy,
-Spain,
-United Kingdom,
-Czechoslovakia,
-Portugal,
-France,
-Greece,
-Germany.
+Europe: Italy, Spain, United Kingdom, Czechoslovakia, Portugal, France, Greece, Germany.
 Distribution of Faba bean
-Region of origin: red Region of cultivation: green
-Growth Curves
-and selected
-developmental
-stages
-d-4 d-3 d-2 d-1 Anthesis
-Faba bean pistil (Chen, Stoddard & Baldwin, 2006)
-Mannan deposition in faba bean pistils
-(Chen, Stoddard & Baldwin, 2006)
-Mannan deposition in faba bean pistil cell walls
-at the transmission electron microscope level.
-(Chen, Stoddard & Baldwin, 2006)
-Publications: Chen Wen
-Chen W; Stoddard F.L. and Baldwin T.C. (2006). Developmental regulation of
-mannan, arabinogalactan-protein and pectic epitopes in pistils of Vicia faba (faba bean).
-International Journal of Plant Sciences, 167, p. 919-932.
-Chen W. and Baldwin T.C. (2007). An improved method for the fixation, embedding
-and immunofluorescence labeling of resin-embedded plant tissue. Plant Molecular
-Biology Reporter, 25, p. 25-37.
-Chen, W; Stoddard F and Baldwin T.C. (2011). Variable pressure scanning electron
-microscopy of Vicia faba stigmatic papillae. Microscopy and Analysis, 25 (7), p. 21-22.
-PhD student:
-Melinda Chua Fui Yee
+Region of origin: red Region of cultivation: green Growth Curves and selected developmental stages
+
 Amorphophallus konjac
 - Araceae family
 - Colloquial names: konjac, devil's tongue, elephant’s foot
 - ~170 species, located mainly in Asia and Africa
-- Common source of dietary fibre in many Asian/SE Asian countries
-e.g. Malaysia, China, Thailand, Vietnam and Japan
+- Common source of dietary fibre in many Asian/SE Asian countries e.g. Malaysia, China, Thailand, Vietnam and Japan
 - The source of dietary fibre i.e. konjac glucomannan (KGM)
-located in corm tissue
+located in corn tissue
 Source of KGM
 (All images by courtesy of Chua F.Y.)
-Offsets attached to the mother tuber
-can be severed and replanted to
+Offsets attached to the mother tuber can be severed and replanted to
 produce a new plant
 Corm with weight of ~350g
 Food Medicine
@@ -395,20 +166,13 @@ No claim Health claim Drug claim
     - Hippocrates (400 B.C.)
 Use of konjac as functional food in
 Traditional Chinese Medicine (TCM)
-- First recorded as a disease-curing herb in Shen Nong’s
-Materia Medica (Western Han Dynasty, 206 B.C.- 08 A.D.)
-- Use for detoxification, germ-suppression, phlegm
-liquefaction and treatment of asthma in TCM (Chinese
-Konjac Association)
-- Traditional use as a functional food by processing fresh
-tuber or dried material into a curd, noodles, tofu, sweets
-and other food products
+- First recorded as a disease-curing herb in Shen Nong’s Materia Medica (Western Han Dynasty, 206 B.C.- 08 A.D.)
+- Use for detoxification, germ-suppression, phlegm liquefaction and treatment of asthma in TCM (Chinese Konjac Association)
+- Traditional use as a functional food by processing fresh tuber or dried material into a curd, noodles, tofu, sweets and other food products
 Recent studies of the pharmacological
 and biomedical uses of KGM
-- Regulation of lipid metabolism, reduction of blood lipids
-and cholesterol (Vuksan et al., 1999)
-- Reduction of blood glucose and improvement of diet for
-diabetics (Vuksan et al., 2000, 2001)
+- Regulation of lipid metabolism, reduction of blood lipids and cholesterol (Vuksan et al., 1999)
+- Reduction of blood glucose and improvement of diet for diabetics (Vuksan et al., 2000, 2001)
 - Relief of constipation (Chen et al., 2006)
 - Promotion of satiety (Keithley and Swanson, 2005)
 University of Wolverhampton and Yunnan Agricultural University
@@ -416,8 +180,7 @@ Collaborative Research Programme on A. konjac
 In YAU: Good Agricultural Practice (GAP) studies
 - Collection of konjac cultivars
 - Field cultivation and determination of GAP
-- Factors affecting corm yield and KGM content and composition
-In UoW: Good Laboratory Practice (GLP) studies
+- Factors affecting corm yield and KGM content and composition In UoW: Good Laboratory Practice (GLP) studies
 - Controlled cultivation of konjac cultivars from Yunnan
 - Development and comparison of extraction and analytical methods for
 KGM
@@ -426,122 +189,73 @@ Growth cycle
 (All images by courtesy of Chua F.Y.)
 Dormant corm (with offsets)
 (October     - March) Anthesis (April)
-Corm with shoot
-emergence (April-May)
+Corm with shoot emergence (April-May)
 Fully developed leaves
 (June-September)
 Emergence of leaves
 (May)
-Vegetative
-development
-after a longer
-dormancy
+Vegetative development after a longer dormancy
 Emergence of spathe
 (March)
-Floral
-development
-after a shorter
-dormancy
-Emergence of leaves
-after inflorescence is
-withered (June)
-Six developmental stages of Amorphophallus konjac. (1) dormancy, (2) shoot
-emergence, (3) shoot elongation, (4) leaflet emergence, (5) leaf expansion and
-(6) leaf senescence.
-1 2
-3
-4
-5
-6
-1 3 4 652
+Floral development after a shorter dormancy
+Emergence of leaves after inflorescence is withered (June)
+Six developmental stages of Amorphophallus konjac. - dormancy, - shoot
+emergence, - shoot elongation, - leaflet emergence, - leaf expansion and
+- leaf senescence.
 
-Publications: Melinda Chua Fui Yee
-Chua M; Baldwin T.C; Hocking T.J. and Chan K. (2010). Traditional uses
-and potential health benefits of Amorphophallus konjac.
-Journal of Ethnopharmacology 128, p 268-278.
-Chua M; Chan K; Hocking T.J; Williams P.A; Perry C.J. and Baldwin T.C.
-(2012). Methodologies for the extraction and analysis of konjac glucomannan
-from corms of Amorphophallus konjac K.Koch. Carbohydrate Polymers 87,
-p. 2202     - 2210.
-Chua M; Hocking T.J; Chan K. and Baldwin T.C. (2013) Developmental regulation
-of glucomannan deposition in corms of Amorphophallus konjac. American
-Journal of Botany 100, p 337 - 345
-- From this brief introduction to the plant extracellular
-matrix/cell wall I hope that you no longer view it as a
-boring, rigid, box surrounding the cell; but rather
-as a dynamic structure which plays a crucial role in
-plant growth and development.
-SUMMARY
 
-The Animal Extracellular Matrix
-ECM: Definition and Function
+
+### The Animal Extracellular Matrix
+extracellular matrix: Definition and Function
 The acellular material surrounding animal cells is termed the animal
-extracellular matrix (ECM) Function:
-- Mechanical support for cells and
-tissues.
+extracellular matrix (extracellular matrix) Function:
+- Mechanical support for cells and tissues.
 - Integrates cells in to tissues.
-- Influences cell shape and cell
-movement.
-- Influences cell development and
-differentiation.
-- Coordinates cellular functions through
-signaling with cellular adhesion
-receptors.
--Reservoir for extracellular signaling
-molecules
-Structure of ECM:
+- Influences cell shape and cell movement.
+- Influences cell development and differentiation.
+- Coordinates cellular functions through signaling with cellular adhesion receptors.
+- Reservoir for extracellular signaling molecules
+#### Structure of extracellular matrix:
 - Fibers: collagen and elastin, which provide strength and flexibility.
-- Proteoglycans: protein     - saccharide complexes.
-- Adhesive glycoproteins: ‘glue’ cells and ECM, e.g. fibronectin and laminin.
-Connective Tissues
+- Proteoglycans: protein    
+	- saccharide complexes.
+- Adhesive glycoproteins: ‘glue’ cells and extracellular matrix, e.g. fibronectin and laminin.
+##### Connective Tissues
 A histological classification:
-- Loose connective tissue: supports epithelia and
-organs.
+- Loose connective tissue: supports epithelia and organs.
 - Dense connective tissue:
-Irregular: forms protective capsules around organs.
-Regular: mechanical resistance, connection of tissues
-(ligaments and tendons).
-- Adipose tissue: insulates, protects, energy store
-(subcutis, renal pelvis, kidneys, mammary glands).
-- Reticular tissue: framework of lymphatic tissues
-(spleen, lymph nodes, bone marrow, liver).
+	- Irregular: forms protective capsules around organs. 
+	- Regular: mechanical resistance, connection of tissues (ligaments and tendons).
+- Adipose tissue: insulates, protects, energy store (subcutis, renal pelvis, kidneys, mammary glands).
+- Reticular tissue: framework of lymphatic tissues (spleen, lymph nodes, bone marrow, liver).
 - Blood: transport, immune defence.
--Cartilage: provides support and flexibility (rib cage,
-trachea, bronchi, joints).
+- Cartilage: provides support and flexibility (rib cage, trachea, bronchi, joints).
 - Bone: body support.
-Specialised cells reside in the ECM
--blasts: create the ECM
--cytes: maintain the ECM
--clasts: ECM breakdown and remodeling.
-Fibrous ECM Proteins: Collagen
-- Collagens make up ~25% of total protein mass
-in mammals.
+
+##### Specialised cells reside in the extracellular matrix
+- blasts: create the extracellular matrix
+- cytes: maintain the extracellular matrix
+- clasts: extracellular matrix breakdown and remodeling.
+Fibrous extracellular matrix Proteins: Collagen
+- Collagens make up ~25% of total protein mass in mammals.
 - Collagen comprises 25 isoforms.
 - Collagen type I, II and III are organised in fibers.
 - Each fiber consists of fibrils.
-- Fibrils contain collagen molecules, made of
-three coiled polypeptide α- chains.
--Collagens are rich in proline (stabilises helical
-structures) and glycine (allows the dense packing
-of three α - chains).
-- Exists in large quantity in ECM of skin, bone,
-tendon, cartilage and other connective for support and
-protection.
+- Fibrils contain collagen molecules, made of three coiled polypeptide α- chains.
+	- Collagens are rich in proline (stabilises helical structures) and glycine (allows the dense packing of three α - chains).
+- Exists in large quantity in extracellular matrix of skin, bone, tendon, cartilage and other connective for support and protection.
 - Collagen fibers withstand high pulling forces.
 - It takes 10kg to rupture a fiber.
+
 Collagen Synthesis and Assembly
 ER/Golgi: Pro-a-chains are produced,
 hydroxylated and glycosylated at selected
 Lys and Pro residues.
-- A lack of vitamin C prevents hydroxylation
--> impaired fibril formation (scurvy).
-- Processed pro-peptides assemble in to
-triple     - helical pro-collagen.
-- Golgi: Disulphide bonds form btwn the N-
-and C- termini of procollagen.
--After exocytosis, N- and C-termini are
-trimmed, allowing fibril assembly.
-Fibrous ECM Proteins: Elastin
+- A lack of vitamin C prevents hydroxylation -> impaired fibril formation (scurvy).
+- Processed pro-peptides assemble in to triple     - helical pro-collagen.
+- Golgi: Disulphide bonds form btwn the N- and C- termini of procollagen.
+-After exocytosis, N- and C-termini are trimmed, allowing fibril assembly.
+Fibrous extracellular matrix Proteins: Elastin
 - Elastic fibers permit long-range deformability and passive recoil.
 - This function is crucial for arteries, lung, skin and other dynamic connective
 tissues that undergo cycles of extension and recoil.
@@ -550,15 +264,15 @@ tissues that undergo cycles of extension and recoil.
 - During ageing, elastin is degraded and becomes inflexible.
 Adhesive Glycoproteins: Fibronectin (FN)
 - Adhesive glycoproteins such as fibronectin and laminin
-mediate the connections btwn the ECM and the cell
+mediate the connections btwn the extracellular matrix and the cell
 membrane.
 - Adhesive proteins bind to proteoglycans, collagens and
-to transmembrane ECM-receptors (integrins).
+to transmembrane extracellular matrix-receptors (integrins).
 - Fibronectin is a dimer of two identical 250 kDa subunits.
 - Alternative splicing of one gene produces ~20 human FNs.
 - FN exists as a soluble form (plasma FN) and cellular FN.
 - Plasma FN is predominantly produced in the liver.
-- Cellular FN is deposited in to the ECM by a cell-mediated
+- Cellular FN is deposited in to the extracellular matrix by a cell-mediated
 process, called FN fibrillogenesis.
 - FN binds to a variety of other proteins such as integrins,
 heparin, collagen & fibrin. It also binds to itself.
@@ -602,7 +316,7 @@ polymer of repeating (2-25K) disaccharides.
 - Like other GAGs it may be part of proteoglycans.
 - Unlike other GAGs it is synthesised freely at the plasma membrane
 by hyaluronan synthases.
-- Free HA is found in the ECM of migrating cells.
+- Free HA is found in the extracellular matrix of migrating cells.
 - HA binds to cell surface receptors (CD44, RHAMM).
 - HA binds proteoglycans.
 fibrosarcoma cells + hyaluronase
@@ -611,9 +325,9 @@ Proteoglycans
 attached.
 -The protein-GAG linkage is always made btwn Ser and the 3-sugar
 ‘linker’ Xyl-Gal-Gal, followed by Glucoronic acid.
--Proteoglycans are found both in ECM and attached to the plasma
+-Proteoglycans are found both in extracellular matrix and attached to the plasma
 membrane.
-ECM Proteoglycans: Aggrecan
+extracellular matrix Proteoglycans: Aggrecan
 - In cartilage the key proteoglycan is aggrecan (200,000,000 D).
 - The central component of aggrecan is hyaluronan.
 - At 40nm intervals aggrecan core proteins are attached (assisted by a linker
@@ -623,32 +337,30 @@ protein) to a decasaccharide sequence in hyaluronan.
 Cell Surface Proteoglycans: Syndecan
 - Membrane-associated proteoglycans are mostly heparan-sulphate
 substituted and are either transmembrane like syndecan or GPI- membrane
-anchored (like AGPs in plant cell wall/ECM).
+anchored (like AGPs in plant cell wall/extracellular matrix).
 - The core protein spans the membrane with a short cytosolic domain.
 - The GAGs (heparan sulphate chains) are attached via the trisaccharide linker
 to Ser residues.
 -Syndecan binds extracellulary to collagens and fibronectin and intracellularly
 to the cytoskeleton.
 Concluding statements on plant, animal and microbial
-ECMs
+extracellular matrixs
 Today you have been introduced to the molecular
 composition, structure and biological function(s) of the bacterial, plant and
-animal ECM/cell wall.
+animal extracellular matrix/cell wall.
 As is clear, there are many similarities and differences btwn these three
 structures. When you revise please read these three sets of notes
 together.
 
-BACTERIAL CELL ENVELOPES
-With emphasis on
-Gram positive Cell Wall
-&
-Outer Membrane
-Walls and Envelopes
-- ENVELOPE
+#### BACTERIAL CELL ENVELOPES
+With emphasis on Gram positive Cell Wall & Outer Membrane
+##### Walls and Envelopes
+ENVELOPE
 - ALL structures that ENVELOP the cytoplasm
 - cell membrane
 - cell wall
-- WALL
+
+WALL
 - ALL structures external to the cell membrane
 - Shape and “Rigidity”
 - Interaction with environment
@@ -665,16 +377,10 @@ Walls and Envelopes
 - Cells too small - colonies visible
 - Colonial morphology depends on cell surface
 - Gram Negative Cells
-a) Smooth Colony surface, even or uniform distribution
-in broth
-b) Rough Colony surface, clumped or granular
-appearance in broth
-Petri dish containing mix of smooth and rough
-colonies of gram negative bacteria
-Rough colonies of gram negative bacteria
-Smooth colonies of
-gram negative
-bacteria
+ 1) Smooth Colony surface, even or uniform distribution in broth
+2) Rough Colony surface, clumped or granular appearance in broth
+Petri dish containing mix of smooth and rough colonies of gram negative bacteria
+Rough colonies of gram negative bacteria Smooth colonies of gram negative bacteria
 - Smooth strains
 - complete lipopolysaccharide (LPS)
 - highly virulent
@@ -685,6 +391,7 @@ bacteria
 - non virulent
 - hydrophobic surface phagocytosed
 - sensitive to antibiotics
+
 Microscopic characterisation
 - Light Microscopy
 - Gram stain & Cell wall Stain - No detail
@@ -1019,69 +726,47 @@ Learning Outcomes
 - Interaction of Actin & Myosin in
 Skeletal Muscle Contraction
 
-Actin
-Textbooks:
-1. Alberts et al. Molecular Biology of the Cell
-2. Lodish et al. Molecular Cell Biology
-Learning Outcomes
-- Actin-containing cellular structures
-- Microfilaments
-- Actin filament structure
-- Actin binding proteins
-- Actin branching
-- Regulation of the formation of the
-cytoskeleton
-- Highly conserved
-protein
-- Up to 5% of cellular
-protein
-- Polymerises =
-filaments
-- Extend throughout
-cell to form a mesh
-Actin
-Actin structures
+## Actin
+- Highly conserved protein
+- Up to 5% of cellular protein
+- Polymerises = filaments
+- Extend throughout cell to form a mesh
+
+#### Actin structures
 Filopodia:
 - long thin transient processes
 - extend out from cell surface
-- Bundles of parallel actin filaments cross-linked within filopodia by small actin-
-binding protein fascin
+- Bundles of parallel actin filaments cross-linked within filopodia by small actin-binding protein fascin
 - provide stiffness within filopodia
+
 Microvilli:
 - shorter, more numerous
 - Tightly bundled actin filaments
-- cross-linking proteins fimbrin & villin bind actin filaments together within
-microvilli
+- cross-linking proteins fimbrin & villin bind actin filaments together within microvilli
+
 Lamellipodia:
 - thin but broad projections at edge of mobile cell
-- dynamic structures, constantly changing shape. contain extensively branched
-actin filaments,
-- Forward extension by growth of actin filaments adjacent to plasma membrane at
-leading edge of moving cell
-Actin structures
+- dynamic structures, constantly changing shape. contain extensively branched actin filaments,
+- Forward extension by growth of actin filaments adjacent to plasma membrane at leading edge of moving cell
+
 e.g. What drives an amoeba’s movement?
 - Gel-sol transition due to changes in actin
 - Actin polymerisation (filamentous, F) makes gel
 - Depolymerisation (globular, G) allows flow (sol)
-- Actin stains strongly
-at front of cell
+- Actin stains strongly at front of cell
 - =lammelipodium
+
 Fluorescent labeling:
-- shows localization of
-proteins which
-generate forward
-movement
+- shows localization of proteins which generate forward movement
+
 Microfilaments
 - Monomers = G-actin (globular)
 - Polymer = F-actin (filamentous)
-- Will spontaneously polymerise but helped
-by ‘seeds’
+- Will spontaneously polymerise but helped by ‘seeds’
 - Critical concentration at which this occurs
 Actin monomer:
-- subdomains 1-4
-Binds:
-- ATP & Mg2+, within cleft between
-subdomains 2 & 4
+- subdomains 1-4 Binds:
+- ATP & Mg2+, within cleft between subdomains 2 & 4
 Actin:
 - Hydrolyzes bound ATP
 - ATP -> ADP + Pi, releasing Pi.
@@ -1360,7 +1045,7 @@ Mortimer J.C; Yu X; Albrecht S; Sicilia F; Huichalaf M; Ampuero D;
 Murphy A.M; Matsunaga T; Michaelson L; Stephens E; Baldwin T.C;
 Ishii T; Napier JA; Weber A.P.M; Handford M.G. and Dupree P. (2013).
 Abnormal glycosphingolipid mannosylation triggers salicylic-acid
-mediated responses in Arabidopsis. The Plant Cell, 25 (5), p. 1881 -
+mediated responses in Arabidopsis. The Plant Cell, 25 -, p. 1881 -
 1894.
 18
 Models for transport of proteins etc. through the Golgi to
@@ -1559,13 +1244,13 @@ Mesosome functions
     - Not a site of respiratory enzymes!
 Magnetosomes
 Magnetosome formation by TEM.
-Whole cells of M. gryphiswaldense strains (A), (B), C), (D) (E).
+Whole cells of M. gryphiswaldense strains -, -, C), - -.
 Cryo-ultrathin sections of WT-415 (F), Mu21-415 (G) and Mu22-415 (H).
 Magnetosomes were synthesized in wild-type and two complemented strains (A, C, E), but not in mutant
 strains Mu21-415 and Mu22-415 (B, D).
 Empty MMs were observed in mutant strains Mu21-415 and Mu22-415 (G, H) and the same were seen in
 WT-415 (F).
-White arrows indicate the position of empty MMs. Scale bars, 1000 nm (A), 500 nm (BeE), 100 nm (F),
+White arrows indicate the position of empty MMs. Scale bars, 1000 nm -, 500 nm (BeE), 100 nm (F),
 200 nm(G and H). Yang et al. (2010)
 Chen, L., Bazylinski, D. A. & Lower, B. H. (2010) Bacteria That Synthesize Nano-sized Compasses to Navigate Using Earth's Geomagnetic Field. Nature Education Knowledge 3(10):30
 How magnetotactic bacteria use magnetotaxis to swim to the OATZ in the Northern versus the Southern
@@ -1845,11 +1530,11 @@ or the Gymnosperms.
 of flowering plants has been the cause of the structural
 diversity of this group and is the key to their success.
 This structural variety has been achieved in two ways.
-(A) By maximising the opportunities for the reproductive
+- By maximising the opportunities for the reproductive
 isolation of demes (a local interbreeding unit within which
 there is unrestricted breeding) , and thus encouraging their
 speciation.
-(B) By utilising features of their environment (most often
+- By utilising features of their environment (most often
 animals) to transport pollen and seeds to specific sites
 which has greatly increased the potential number of species
 -specific niches that they could exploit within any particular
@@ -1973,11 +1658,11 @@ free sugars, lipids, phenolic compounds and traces of
 enzymes.
 - This exudate appears to perform four distinct
 functions:
-(A) Attaching the pollen to the stigma surface.
-(B) Hydrating the pollen.
-(C) Providing a suitable medium for the initial growth of
+- Attaching the pollen to the stigma surface.
+- Hydrating the pollen.
+- Providing a suitable medium for the initial growth of
 the pollen tube.
-(D) Preventing the stigmatic papillae from drying out
+- Preventing the stigmatic papillae from drying out
 (gappy cuticle).
 - In contrast, in species which possess a dry stigma,
 which is typical of most plants which exhibit a
@@ -2343,9 +2028,9 @@ dilute urine from kidneys
 Animals in Temporary Waters
 - Some aquatic invertebrates in temporary ponds lose almost all
 body water & survive in a dormant state = anhydrobiosis
-(a) Hydrated
+- Hydrated
 tardigrade
-(b) Dehydrated
+- Dehydrated
 tardigrade
 100 m
 100 m
@@ -2475,7 +2160,7 @@ Ascending
 limb
 Loop of
 Henle
-(d) Filtrate and blood flow
+- Filtrate and blood flow
 Vasa
 recta
 Collecting
@@ -3127,13 +2812,13 @@ identify bacteria
 e.g. Streptococcus pneumoniae
 e.g. Staphylococcus aureus
 e.g. Micrococcus luteus
-Some Bacteria Reproduce by Methods Other than Binary Fission. (a)
-Transmission electron micrograph of a budding Listeria monocytogenes cell. (b)
-Baeocytes produced by the cyanobacterium Dermocarpa. (c) Spore formation by
+Some Bacteria Reproduce by Methods Other than Binary Fission. -
+Transmission electron micrograph of a budding Listeria monocytogenes cell. -
+Baeocytes produced by the cyanobacterium Dermocarpa. - Spore formation by
 Streptomyces spp. Branched filaments, aerial hyphae, and chains of spores are
 visible in the light micrograph.
-(a) Dr. Kari Lounatmaa/Science Source; (b) Dennis Kunkel Microscopy/Science
-Source; (c) Smith Collection/Gado/Archive Photos/Getty Images
+- Dr. Kari Lounatmaa/Science Source; - Dennis Kunkel Microscopy/Science
+Source; - Smith Collection/Gado/Archive Photos/Getty Images
 Willey, Joanne, et al. Prescott's Microbiology ISE. Available from: Bookshelf Online - Ref, (12th Edition). McGraw-Hill Higher Education
 (International), 2022.
 Caulobacter Life Cycle.
@@ -3518,7 +3203,7 @@ surviving
 30 999 999 1 (100) 0
 35 999 999.9 0.01 (10-1) -1
 40 999 999.99 0.01 (10-2) -2
-Decimal Reduction Time (D)
+Decimal Reduction Time -
 12
 11
 10

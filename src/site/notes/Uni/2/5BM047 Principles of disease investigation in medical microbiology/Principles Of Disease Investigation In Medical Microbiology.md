@@ -6,7 +6,7 @@
 
 
 # <center><span style="color:#AAFAA2">Principles Of Disease Investigation In Medical Microbiology</span></center>
-<sub> [[Uni/1/4BM017 Biomedical Basis of Disease/Disease\|Last Year]]</sub>
+<sub> [[Uni/1/4BM017 Biomedical Basis of Disease 1/Disease\|Last Year]]</sub>
 ## Week 1: Summary
 Report: introduction, materials and methods, results, discussion and conclusion (References) 1000 words
 

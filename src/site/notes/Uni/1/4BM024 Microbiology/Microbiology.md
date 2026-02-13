@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6
 
 
 #### Three-Domain System
-Proposed by Woese and Fox in 1977 and based on the [[Uni/1/4BM024 Microbiology/Microbiology#phylogenetic tree\|phylogenetic tree]] using the 16[[Uni/1/4BM024 Microbiology/Microbiology#Svedberg (S)\|s]]  [[Uni/1/4BM024 Microbiology/Microbiology#ribosomal RNA (rRNA)\|rRNA]] 
+Proposed by Woese and Fox in 1977 and based on the [[Uni/1/4BM024 Microbiology/Microbiology#phylogenetic tree\|phylogenetic tree]] using the 16[[Uni/1/4BM024 Microbiology/Microbiology#Svedberg (S)\|s]]  [[Uni/1/4BM024 Microbiology/Microbiology#ribosomal RNA (rRNA)\|rRNA]] 
  [[Uni/1/4BM024 Microbiology/Microbiology#The Bacteria (eubacteria)\|Bacteria]],  [[Uni/1/4BM024 Microbiology/Microbiology#The Archaea (archaebacteria)\|Archaea]], [[Uni/1/4BM024 Microbiology/Microbiology#The Eukarya (eukaryotes)\|Eukarya]]
 
 #### Prokaryotes
@@ -261,7 +261,7 @@ Single layer of peptidoglycan outside plasma membrane
 ##### Ribosomes
 - site of protein synthesis
 - Excluded from the nucleoid
-- Composed primarily of  [[Uni/1/4BM024 Microbiology/Microbiology#ribosomal RNA (rRNA)\|rRNA]] 
+- Composed primarily of  [[Uni/1/4BM024 Microbiology/Microbiology#ribosomal RNA (rRNA)\|rRNA]] 
 - Site of action of some antibiotics
 
 ##### Inclusion Bodies
@@ -1215,7 +1215,7 @@ the time it takes for particles to settle at the bottom of a container often in 
 ###### Ribonucleic acid (RNA) 
 a molecule made of ribose nucleotides. The nitrogenous bases for RNA are adenine(a), guanine(g), uracil(u), and cytosine(c). 
 ###### ribosomal RNA (rRNA) 
-molecule in cells that forms part of the protein-synthesizing organelle (ribosomes). [[Uni/1/4BM024 Microbiology/Microbiology#ribosomal RNA (rRNA)\|rRNA]] goes to the cytoplasm to help translate [[Uni/1/4BM024 Microbiology/Microbiology#messenger RNA (mRNA)\|mRNA]]  into proteins
+molecule in cells that forms part of the protein-synthesizing organelle (ribosomes). [[Uni/1/4BM024 Microbiology/Microbiology#ribosomal RNA (rRNA)\|rRNA]] goes to the cytoplasm to help translate [[Uni/1/4BM024 Microbiology/Microbiology#messenger RNA (mRNA)\|mRNA]]  into proteins
 ###### messenger RNA (mRNA)
 a molecule containimg the instructions for making a protein
 ###### ss

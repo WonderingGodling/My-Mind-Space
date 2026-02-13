@@ -194,14 +194,14 @@ Martin experiments by having his centipede walk around and force-feeds Ashlynn
 
 The centipede separates into two halves. Furious that his centipede is ruined, Martin kills all the victims. As he hesitates to kill Ashlynn, she punches him in the crotch and shoves the funnel into his rectum, before dropping his pet centipede into it. Martin fatally stabs her in the neck and staggers out in agony.
 
-The scene cuts back to the tollbooth, with Martin rewatching the credits of [[The Human Centipede (First Sequence)\|The Human Centipede]] on his laptop, with exactly the same reaction as the initial scene, leaving it up to the viewer if the events that followed actually happened.
+The scene cuts back to the tollbooth, with Martin rewatching the credits of [[Skull/Concentrated Brain/Random Facts/People Repellant/Human Centipede/First Sequence/The Human Centipede (First Sequence)\|The Human Centipede]] on his laptop, with exactly the same reaction as the initial scene, leaving it up to the viewer if the events that followed actually happened.
 
 # The Human Centipede (Final Sequence) Summary
 
 The Human Centipede (Final Sequence) is a 2015 English-language Dutch black comedy body horror film written and directed by [[Skull/Concentrated Brain/Random Facts/People/I Dont Know/Tom Six\|Tom Six]]. It is the conclusion to Six's The Human Centipede trilogy Starring Dieter Laser and Laurence R. Harvey, the leading actors from the first two films, in new roles, The Human Centipede 3 was released both theatrically and on video on demand on 22 May 2015. The film was slammed with negative reviews from critics due to its overwhelming gore and repetitive plot to its predecessors.
 # The Human Centipede (Final Sequence) Plot
 
-At George H. W. Bush State Prison in the Southwestern United States, William "Bill" Boss, a cannibalistic, psychopathic warden, watches the end of [[The Human Centipede (Full Sequence)\|The Human Centipede (Full Sequence)]] with his accountant, Dwight Butler.
+At George H. W. Bush State Prison in the Southwestern United States, William "Bill" Boss, a cannibalistic, psychopathic warden, watches the end of [[Skull/Concentrated Brain/Random Facts/People Repellant/Human Centipede/Full Sequence/The Human Centipede (Full Sequence)\|The Human Centipede (Full Sequence)]] with his accountant, Dwight Butler.
 
 Bill receives a threatening prank phone call from an inmate. Bill waterboards him with three buckets of boiling water as punishment, horribly disfiguring him. Governor Hughes arrives, ordering Bill and Dwight to put a stop to the violence and promising that they will both be fired otherwise. In anger and retaliation, Bill orders a mass castration of the inmates, and brutally castrates one of the prisoners himself, then cooks and eats the testicles for "energy food."
 
@@ -213,7 +213,7 @@ Upon the centipede's completion, Governor Hughes arrives greatly disgusted at wh
 
 Hughes then returns to prison with a sudden change of heart, stating that the Centipede punishment is "exactly what America needs." Dwight and Bill celebrate their success. Dwight is then shot and killed for trying to take credit for the idea. A naked Bill screams with joy, overlooking the centipede.
 
-In an alternate ending, Doctor Josef Heiter lays in his bed, implying that the previous events were part of a dream. He finds his three rottweilers, his first centipede creation, deceased. The camera pans over his house and the film transitions into the beginning of [[The Human Centipede (First Sequence)\|The Human Centipede (First Sequence)]]
+In an alternate ending, Doctor Josef Heiter lays in his bed, implying that the previous events were part of a dream. He finds his three rottweilers, his first centipede creation, deceased. The camera pans over his house and the film transitions into the beginning of [[Skull/Concentrated Brain/Random Facts/People Repellant/Human Centipede/First Sequence/The Human Centipede (First Sequence)\|The Human Centipede (First Sequence)]]
 
 # Facts
 - ### First Sequence Facts

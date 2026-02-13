@@ -44,7 +44,7 @@ Girls Talking About How Much They Suck At The Tests Here Or [[Skull/Concentrated
 Adam Wants To Make Fun Of That One Girl
 Because Reasons 
 
-Going To Bed [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Drugs/Emotion-Vial/Sad/Sad\|Sad]] Because What I Want To Do Is Play Bg3 But I Jjust Came Out Of A [[Branches/Dnd\|Dnd]] Sesh Where Everyone Kinda Feels Shitty So I Feel Like It Would Be In Pour Tase To Fuck Off And-- 
+Going To Bed [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Drugs/Emotion-Vial/Sad/Sad Drug\|Sad Drug]] Because What I Want To Do Is Play Bg3 But I Jjust Came Out Of A [[Branches/Dnd\|Dnd]] Sesh Where Everyone Kinda Feels Shitty So I Feel Like It Would Be In Pour Tase To Fuck Off And-- 
 It Would Be In *Poor Taste* To Fuck Off And Then Play A [[Branches/Dnd\|Dnd]] Inspired Videogame Until The Sun Comes Up
 
 Also If [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Moirail]] Doesnt Hate [[Explicitly Showcased/Me/Me\|Me]], Id Love To See How She Talks To The [[Branches/People\|People]] He Does Hate Because I Am Dying Every Day Out Here And I Feel Like Theyre Praying For [[Explicitly Showcased/Me/Me\|Me]] To Become A Better Person, But, Everytime They Look At [[Explicitly Showcased/Me/Me\|Me]] Im Just More Of A Wretched Facade Of Human Emotions, Slowly Crumbling Into The Nothingness That Radiates Out Of [[Explicitly Showcased/Me/Me\|Me]]

@@ -48,14 +48,14 @@
 | Unarmed | 5      | 1d6+5 BPoison |
 
 ### [[Katrina's Spells\|Katrina's Spells]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Spells/Primal Savagery\|Primal Savagery]]
+[[Primal Savagery\|Primal Savagery]]
 [[Skull/Concentrated Brain/Dnd/Terminology/Eldritch Blast\|Eldritch Blast]]
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Spells/Hex\|Hex]]
+[[Hex\|Hex]]
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Spells/Mind Thrust\|Mind Thrust]]
+[[Mind Thrust\|Mind Thrust]]
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Spells/Spirit Shroud\|Spirit Shroud]]
+[[Spirit Shroud\|Spirit Shroud]]
 
 | Constitution |  17   |   9  |
 | ------------ | --- | --- |
@@ -85,9 +85,9 @@ endurance master
 last stand
 Adrenaline Rush
 
-[[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/Geigermin#Radioactive aura\|Radioactive aura]] 
-[[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/Geigermin#Glowing skin\|Glowing skin]]
-[[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/Geigermin#Melted internals\|Melted internals]]
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Radioactive aura\|Radioactive aura]] 
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Glowing skin\|Glowing skin]]
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Melted internals\|Melted internals]]
 
 Energy: 12
 Martial arts (d8)

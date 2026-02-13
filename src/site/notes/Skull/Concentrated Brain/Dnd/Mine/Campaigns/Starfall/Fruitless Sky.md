@@ -15,7 +15,7 @@ Knows About The Resets
 
 
 - [ ] Tamers
-- [ ] Khan Doorman Sheet
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Khan Doorman\|Khan Doorman]] Sheet
 - [ ] Short Debrief Note From Lisa To Other Scientists
 
 

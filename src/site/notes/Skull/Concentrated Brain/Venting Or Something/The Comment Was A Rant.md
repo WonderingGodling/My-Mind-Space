@@ -101,7 +101,7 @@ Mmmm
 Markiplier Isnt Cheering [[Explicitly Showcased/Me/Me\|Me]] Up And I Dont Feel Like Music Right Now
 
 I Wanted Tea
-I Cant Go Downstairs Though Because My [[Skull/Concentrated Brain/Venting Or Something/Wendy\|Mother]]'s Lurking Around
+I Cant Go Downstairs Though Because My [[Skull/Concentrated Brain/Venting Or Something/My Mother\|Mother]]'s Lurking Around
 
 I Dont Wanna Hear Christmas Music
 I Cannot Stand Christmas Music
@@ -157,7 +157,7 @@ I Dont Want To Exist Right Now
 
 Ive Been Up For Like Two Hours, Done [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] And Burned 34% Of My Battery And Honestly If I Could Just Coast In This State I Would 
 
-I Haven't Really Eaten Or Drank Anything All Day And My [[Skull/Concentrated Brain/Venting Or Something/Wendy\|Wendy]]'s Been Camping The Kitchen For Hours
+I Haven't Really Eaten Or Drank Anything All Day And My [[Skull/Concentrated Brain/Venting Or Something/My Mother\|My Mother]]'s Been Camping The Kitchen For Hours
 
 [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Moirail]]'s Too Busy Cleaning To Deal With [[Explicitly Showcased/Me/Me\|Me]] Dx
 

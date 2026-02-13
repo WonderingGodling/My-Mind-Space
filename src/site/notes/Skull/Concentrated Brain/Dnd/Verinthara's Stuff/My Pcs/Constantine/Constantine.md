@@ -47,6 +47,7 @@ Bonus Lazarus
 - Zenith 
 - Perq 
 - Mothia
+- En
 
 ## Constantine's Rituals
 	
@@ -105,6 +106,12 @@ More Time Put Into This Ritual Necrotises The Creature More (1d10)
 After The Ritual: Each Creature Caught In The Flood Must Be Dexterous Enough To Not Succumb To The Styx, If They Do They Must Remove Its Remnants From Either Themselves Or Their Companion To Stop It From Eating Away From Them (4d4 Acid At The Start Of Its Turn)
 
 More Time Spent On The Ritual Empowers The Styx (1d4)
+
+#### Magic Missile
+1: Draw A Sigil On The Floor, Starting From The Top Down. [Count Up To How Many Bolts Will Fire], COver Mouth
+2: Popping Noises Echo As Eyeballs Force Their Way Out Of Of Mouth. They Lose Their Form And Fly At Creature(s) Within 120ft For 1d4+1 Force Each 
+
+More Time Spent On The Ritual Creates More Balls (1d4+1)
 
 # Characteristics 
 Enter My Character: Sporting An Alligator Backpack And A Large, Light Coat, Stained Red With A Cape Like The Size Of Texas Or Just Rhode Island. Matching The Cape With Blood Red Lipstick And Eyes That Stare Daggers On The Best Of Days.

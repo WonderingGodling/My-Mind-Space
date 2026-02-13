@@ -21,7 +21,7 @@ Exports: Coal Plants, Hot Berries (Like Blueberry Sized Chillies), And Natural M
 - Imps, Fiends
 - Farmers
 - Pharmacists
-- Some White/Black Birds
+- Some White/[[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Black/Black\|Black]] Birds
 	- Doves
 	- geese
 	- Swans
@@ -29,13 +29,13 @@ Exports: Coal Plants, Hot Berries (Like Blueberry Sized Chillies), And Natural M
 	- pelican
 - Pub: Hot Lips Cold Rims (The First "O" is A Kiss And The Second Is A Beer Mug)
 	- Signiture "Labour Of Love" Drink
-		- DC 17 Con Save (Advantage If You Have Fire Resistance)
+		- DC 17 Con Save (Advantage If You Have [[Skull/Spam/Fire\|Fire]] Resistance)
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Three Kobolds (Kobollllderson)\|Three Kobolds (Kobollllderson)]]
-	- Conning People And Telling Tales In The Pub
+	- Conning [[Branches/People\|People]] And Telling Tales In The Pub
 
 ## Map
 ### Battle Map
-![Generic Hell Town.jpg](/img/user/images/Generic%20Hell%20Town.jpg)
+![Generic Hollywood Town.jpg](/img/user/images/Generic%20Hollywood%20Town.jpg) 
 ### Town Map
 ![natheas.png](/img/user/images/natheas.png)
 
@@ -49,7 +49,11 @@ Exports: Coal Plants, Hot Berries (Like Blueberry Sized Chillies), And Natural M
 
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Three Kobolds (Kobollllderson)\|Three Kobolds (Kobollllderson)]] Running A Con In A Pub
 
-## Days
+##### Tavern
+![Fifb2mrXkAASByb-2430682952.jpg](/img/user/images/Fifb2mrXkAASByb-2430682952.jpg)
+##### Hollywood Home Of The Dead (morgue)
+![Underground-Sanctuary-battle-map-Large-preview.webp](/img/user/images/Underground-Sanctuary-battle-map-Large-preview.webp)![[Anatomy Theatre_4K_18x24_Base_Gridless_Logo [Classroom, Alchemy, Study].jpg]]
+## Days 
 ### Day 1
 
 

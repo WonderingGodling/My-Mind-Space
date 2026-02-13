@@ -8,18 +8,38 @@
 }
 </style>
 
-
-# <center><span style="color:#FEDCBA">Adamantine Skelly</span></center>
-
+# <center><span style="color:#323456">Adam </span></center>
 
 
+## Stats
+
+|    Speed     |  AC  | Bonus |  Initiative   |
+| :----------: | :--: | :---: | :-----------: |
+|      30      |  20  |   3   |       3       |
+|   Hit Dice   | 10d8 | 10d8  | Saving Throws |
+|    Health    |  80  |  80   |               |
+|   Strength   |  19  |   4   |       4       |
+|  Dexterity   |  16  |   3   |       3       |
+| Constitution |  17  |   3   |       3       |
+| Inteligence  |  4   |  -3   |      -3       |
+|    Wisdom    |  8   |  -1   |       1       |
+|   Charima    |  6   |  -2   |       1       |
+
+Has Shield
+Damage Vulnerabilities: bludgeoning from adamantine attacks
+Damage Resistances: cold, fire, And Normal Non-Adamantine Physical Attacks
+Immune To Crits
+Advantage On Saving Throws Against Magic
+Devil Sight (120 ft)
+Languages: Orcish (Native), Draconic, Giant
+Three Attacks
 
 
+Shortbow. Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage. 
 
 
+| Attack             | To-Hit | Damage            |
+| ------------------ | ------ | ----------------- |
+| Flail (Reach)      | 7      | 1d8+7 Bludgeoning |
+| Shortbow ( 80/320) | 6      | 1d6+6 Piercing    |
 
-
-
-
-
-<center><sub>Done :)</sub></center>

@@ -61,7 +61,7 @@ Strength, Dexterity
 Deflect= 1d10 +1d8 + 11
 range of 20/60
 
-Extra Attack
+[[Skull/Concentrated Brain/Dnd/Terminology/Extra Attack\|Extra Attack]]
 
 Follow-Up Bonus Action Attack (Armed For 1 ki)
 

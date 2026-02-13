@@ -6,8 +6,8 @@
 
 
 # # <center><span style="color:#FE0C0A">Midbuton</span></center>
-https://watabou.github.io/city-generator/?size=16&seed=2022110150624&name=Natheas&population=5862&citadel=0&urban_castle=0&plaza=0&temple=0&walls=0&shantytown=0&coast=0&river=0&greens=0&hub=1
-The **Cool**est Place In Hell 
+https://watabou.github.io/city-generator/?size=16&seed=2022110150624&name=[[[[Natheas\|[[Natheas]]]]&population=5862&citadel=0&urban_castle=0&plaza=0&temple=0&walls=0&shantytown=0&coast=0&river=0&greens=0&hub=1
+The **Cool**est Place In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]] 
 Pop: 2k
 Imports: Animal Products, Vegetables And Clothing
 Exports: Monster Meats
@@ -22,11 +22,11 @@ Exports: Monster Meats
 - Not Much Natural Fauna
 - Trade Positive City
 - Small Bank
-	- Only Bank In Hell
+	- Only Bank In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]]
 
 ## Map
 ### Battle Map
-![Generic Hell Town.jpg](/img/user/images/Generic%20Hell%20Town.jpg)
+![Generic Hollywood Town.jpg](/img/user/images/Generic%20Hollywood%20Town.jpg)
 ### Town Map
 
 ![midbuton.png](/img/user/images/midbuton.png)

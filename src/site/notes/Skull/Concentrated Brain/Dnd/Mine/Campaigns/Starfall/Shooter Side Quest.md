@@ -13,14 +13,14 @@
 
 
 Shooter, Old, Grouchy, ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/2 Firstday/Master Bane\|Master Bane]] )
-- Shoots Seras' Original Body During [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Day 1\|Day 1]] Then Runs Fast
+- Shoots Seras' Original [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]] During [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Day 1\|Day 1]] Then Runs Fast
 	- Shoots Her From On Top Of A House Near The North-North Eastern Gate
-	- Killed The Body In The First Place Before Sera Possessed It And Will Be Damned If He Lets Them Go Free
+	- Killed The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]] In The First Place Before [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Sera\|Sera]] Possessed It And Will Be Damned If He Lets Them Go Free
 	- Has Been Hunting Them Down For Two Days
-		- The Robes They Were Wearing Have Tracking Magic On Them
+		- The Robes They Were Wearing Have Tracking [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/MAgic/Magic\|Magic]] On Them
 - Cannot Be Tracked Down Via Theives Or Other Criminals Because It Wasnt An Organised Killing
 	- Killed Bee Out Of A Misunderstanding Instead Of For A Job
-		- Some People May Have Seen Something Fishy And/Or Heard The Shot But Nobody Saw The Man
+		- Some [[Branches/People\|People]] May Have Seen [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Fishy And/Or Heard The Shot But Nobody Saw The Man
 	- Can Be Found Heading North Towards [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Clitburry/Redscheap/Dirtcheap\|Dirtcheap]] Via [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Military road\|Military road]] → [[The Frosty Enigma road\|The Frosty Enigma road]] → [[Flame highway\|Flame highway]] → [[Celestial road\|Celestial road]] →
 	 
 	- Leaves In A Carriage So Can Be Found Near:
@@ -32,7 +32,7 @@ Shooter, Old, Grouchy, ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/E
 		- Day Six: [[Last Outing\|Last Outing]] Junction
 		- Day Seven: [[Infernis\|Infernis]] Border (Cold Desert)
 		- Day Eight: T[[he Echoing Balsearing road\|he Echoing Balsearing road]] Junction
-	- Body Will Repeat Those Two Days Without Decay And Can Be Taken Over At Any Point During Or Up Until The Day After
+	- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]] Will Repeat Those Two Days Without Decay And Can Be Taken Over At Any Point During Or Up Until The Day After
 
 
 
