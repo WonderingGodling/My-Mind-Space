@@ -2,24 +2,8 @@
 {"dg-publish":true,"dg-permalink":"Constantine","permalink":"/Constantine/","title":"Connie","tags":["Tagless"],"dgShowToc":true}
 ---
 
+
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
-</style>
-
-
-# <center><span style="color:#FEDCBA"></span></center>
-
-
-
-
-
-
-
-
-
-
-
-
-<center><sub>Done :)</sub></center><style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
 </style>
 
 # <center><span style="color:#005426">Constantine </span></center>
@@ -60,6 +44,7 @@ Bonus Lazarus
 	[[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/My Pcs/Constantine/Constantine#Shield Of Faith\|Shield Of Faith]]
 	[[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/My Pcs/Constantine/Constantine#Inflict Wounds\|Inflict Wounds]]
 	[[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/My Pcs/Constantine/Constantine#Acid Stream\|Acid Stream]]
+	[[Skull/Concentrated Brain/Dnd/Verinthara's Stuff/My Pcs/Constantine/Constantine#Magic Missile\|Magic Missile]]
 ### 1st Level
 #### Unseen Servant
 1: Hold Bone Up To Face And Say "Do Not Let Me Down" Then Throw The Bone Towards A Spot Within 60ft. As The Bone Flies It Disappears. Wherever The Bone Lands Three Invisible, Mindless, Shapeless, Medium Forces Manifest To Perform Simple Tasks For The Hour.
@@ -108,7 +93,7 @@ After The Ritual: Each Creature Caught In The Flood Must Be Dexterous Enough To 
 More Time Spent On The Ritual Empowers The Styx (1d4)
 
 #### Magic Missile
-1: Draw A Sigil On The Floor, Starting From The Top Down. [Count Up To How Many Bolts Will Fire], COver Mouth
+1: Draw Markings On The Floor, Starting From The Top Down. [Count Up To How Many Bolts Will Fire], Cover Mouth
 2: Popping Noises Echo As Eyeballs Force Their Way Out Of Of Mouth. They Lose Their Form And Fly At Creature(s) Within 120ft For 1d4+1 Force Each 
 
 More Time Spent On The Ritual Creates More Balls (1d4+1)
