@@ -452,7 +452,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] List Buildings In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]]
 - [ ] Catch Criminal Quest 
 	- [ ] Forensic Shit
-- [ ] Municipal, State, Sovereign, Nation, Kingdom, Territory, [[Domain\|Domain]],  Commune, Protectoate, Union
+- [ ] Municipal, State, Sovereign, Nation, Kingdom, Territory, [[Skull/Concentrated Brain/Dnd/Mine/Realities/Stratus Saepta/Locations/Domain\|Domain]],  Commune, Protectoate, Union
 - [ ] More Moon Festival Stuff
 - [ ] Town Imports And Exports
 - [ ] Missys Doc
