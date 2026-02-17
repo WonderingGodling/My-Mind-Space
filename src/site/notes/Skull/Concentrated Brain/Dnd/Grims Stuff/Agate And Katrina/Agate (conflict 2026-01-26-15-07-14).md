@@ -12,7 +12,7 @@
 
 
 ## General
- Race:  [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin\|Geigermin]]
+ Race:  [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin\|Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin]]
  Class: [[Curse User\|Curse User]] 3
  Alignment: True Neutral
  Background:  [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Valedictorian Backgound\|Valedictorian]] 

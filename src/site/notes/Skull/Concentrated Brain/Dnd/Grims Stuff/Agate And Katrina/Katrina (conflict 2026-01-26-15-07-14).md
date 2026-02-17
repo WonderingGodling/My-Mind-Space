@@ -75,9 +75,9 @@ endurance master
 last stand
 Adrenaline Rush
 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Radioactive aura\|Geigermin#Radioactive aura]] 
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Glowing skin\|Geigermin#Glowing skin]]
-[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Melted internals\|Geigermin#Melted internals]]
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Radioactive aura\|Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Radioactive aura]] 
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Glowing skin\|Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Glowing skin]]
+[[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Melted internals\|Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Melted internals]]
 
 Energy: 10
 	Raw: 5
