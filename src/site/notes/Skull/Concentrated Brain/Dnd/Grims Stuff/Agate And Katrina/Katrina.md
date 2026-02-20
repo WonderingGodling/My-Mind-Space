@@ -94,14 +94,14 @@ Martial arts (d8)
 Cantrips
 Spell Casting
 Curse technique
-	[[#Union Ceremony| Union Ceremony]]
+	[[Skull/Concentrated Brain/Dnd/Grims Stuff/Agate And Katrina/Katrina#Union Ceremony\| Union Ceremony]]
 Cursed movement (Costs 3)
 Take control
 Improved Technique
-	[[#Dormant Genes]]
+	[[Skull/Concentrated Brain/Dnd/Grims Stuff/Agate And Katrina/Katrina#Dormant Genes\|#Dormant Genes]]
 Extra Attack
 domain expansion
-	[[#Domain Expansion: Hostile Take Over|Hostile Take Over]]
+	[[Skull/Concentrated Brain/Dnd/Grims Stuff/Agate And Katrina/Katrina#Domain Expansion: Hostile Take Over\|Hostile Take Over]]
 
 Cursed movement
 

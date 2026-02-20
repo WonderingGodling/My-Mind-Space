@@ -97,19 +97,19 @@ Languages: Common, Elvish, Read All
 
 # Notes: 
 - **Sunlight Sensitivity.** You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in direct sunlight.
-[[#Pact of the Blade]]
-[[#Pact of the Chain]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor#Pact of the Blade\|#Pact of the Blade]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor#Pact of the Chain\|#Pact of the Chain]]
 Spellcasting
-[[#Sinister Calling]]
-[[#Pact of the Tome]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor#Sinister Calling\|#Sinister Calling]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor#Pact of the Tome\|#Pact of the Tome]]
 Occult Specialization
 	Eldritch Loremaster
-[[#Master of the Elements]]
-[[#Eyes of the Rune Keeper]]
-[[#Eldritch Smite]]
-[[#Eldritch Spear]]
-[[#Improved Sinister Calling]]
-[[#Mask of Many Faces]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor#Master of the Elements\|#Master of the Elements]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor#Eyes of the Rune Keeper\|#Eyes of the Rune Keeper]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor#Eldritch Smite\|#Eldritch Smite]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor#Eldritch Spear\|#Eldritch Spear]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor#Improved Sinister Calling\|#Improved Sinister Calling]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor#Mask of Many Faces\|#Mask of Many Faces]]
 
 
 

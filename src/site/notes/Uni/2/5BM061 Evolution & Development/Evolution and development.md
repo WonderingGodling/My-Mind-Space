@@ -12,7 +12,7 @@
 # <center><span style="color:#FEDCBA">Evo Devo</span></center>
 
 ## Selection
-### What is it? And how does it “drive” evolutionary change?
+### What And How
 #### Adaptation and Evolution 
 processes of biological change over time
 #####  EVOLUTION 
@@ -98,7 +98,7 @@ alive for the start of these ideas)
 
 #### Natural Selection PROPOSED BY DARWIN (AND WALLACE)
 BASED ON 4 FUNDAMENTAL OBSERVABLE FACTS (DARWIN’S FOUR POSTULATES):
-1. [[#VARIATION]]
+1. [[Uni/2/5BM061 Evolution & Development/Evolution and development#VARIATION\|#VARIATION]]
 2. INHERITANCE (HEREDITY)
 3. STRUGGLE FOR EXISTANCE
 	3. Overproduction/Limited carrying capacity
@@ -649,10 +649,10 @@ In one habitat, there was selective pressure that pushed guppies to evolve to be
 In a different habitat, there was a different selective pressure that pushed guppies to evolve to be larger on average
 
 In both these cases, we have seen a clear direction in terms of how selection affects a trait
-We call this [[#Directional selection]], because individuals at one extreme of the trait distribution have higher fitness than others.
+We call this [[Uni/2/5BM061 Evolution & Development/Evolution and development#Directional selection\|#Directional selection]], because individuals at one extreme of the trait distribution have higher fitness than others.
 #### Patterns of natural selection
 ##### Three categories of selection
-1. [[#Directional selection]]
+1. [[Uni/2/5BM061 Evolution & Development/Evolution and development#Directional selection\|#Directional selection]]
 2. Stabilizing Selection
 3. Disruptive Selection
 ###### Directional selection
@@ -660,7 +660,7 @@ We call this [[#Directional selection]], because individuals at one extreme of t
 - As a result, the population mean shifts over generations toward that favoured direction
 - While variation around the trait may decrease or remain similar.
 We’ve already looked at a few examples of directional selection
-- [[#Peppered moth]]
+- [[Uni/2/5BM061 Evolution & Development/Evolution and development#Peppered moth\|#Peppered moth]]
 - Darwin’s Finches (Grant’s research)
 - If we started with 50/50 population of white/black moths…
 - There was directional selection for moths to be white, because lichen covered tree bark is light
@@ -753,7 +753,7 @@ Predation pushing sizes larger
 In an environment rich in food, there is less risk of starving (still some, but
 the risk is not as intence)
 Here, we might expect slightly larger birds as the cost of large body size is relaxed
-This process is called [[#Stabilizing selection]]
+This process is called [[Uni/2/5BM061 Evolution & Development/Evolution and development#Stabilizing selection\|#Stabilizing selection]]
 ##### Stabilizing selection
 
 - In stabilizing selection, there are at least two selective pressures acting on a trait in opposite directions.

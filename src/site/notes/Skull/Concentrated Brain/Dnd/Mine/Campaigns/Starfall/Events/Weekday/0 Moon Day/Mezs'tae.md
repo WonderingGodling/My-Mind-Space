@@ -98,19 +98,19 @@ Languages: Common, Elvish, Read All
 Celestial resistance: you are resistant to radiant damage and deal damage equal to your charisma modifier to any creature or structure that deals radiant damage to you 
 Divine burst: you gain a channel divinity from a cleric domain of your choice (this domain would of been your prior one) you may use this channel divinity once per long rest but once you do so you gain two stacks of exhaustion 
 
-[[#Pact of the Blade]]
-[[#Pact of the Chain]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Mezs'tae#Pact of the Blade\|#Pact of the Blade]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Mezs'tae#Pact of the Chain\|#Pact of the Chain]]
 Spellcasting
-[[#Sinister Calling]]
-[[#Pact of the Tome]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Mezs'tae#Sinister Calling\|#Sinister Calling]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Mezs'tae#Pact of the Tome\|#Pact of the Tome]]
 Occult Specialization
 	Eldritch Loremaster
-[[#Master of the Elements]]
-[[#Eyes of the Rune Keeper]]
-[[#Eldritch Smite]]
-[[#Eldritch Spear]]
-[[#Improved Sinister Calling]]
-[[#Mask of Many Faces]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Mezs'tae#Master of the Elements\|#Master of the Elements]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Mezs'tae#Eyes of the Rune Keeper\|#Eyes of the Rune Keeper]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Mezs'tae#Eldritch Smite\|#Eldritch Smite]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Mezs'tae#Eldritch Spear\|#Eldritch Spear]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Mezs'tae#Improved Sinister Calling\|#Improved Sinister Calling]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Mezs'tae#Mask of Many Faces\|#Mask of Many Faces]]
 
 
 

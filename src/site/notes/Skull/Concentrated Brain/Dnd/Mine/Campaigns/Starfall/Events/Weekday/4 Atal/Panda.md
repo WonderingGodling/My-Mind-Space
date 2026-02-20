@@ -53,8 +53,8 @@
 | Attack | To-Hit | Damage |
 | ------ | ------ | ------ |
 |   Unarmed Strike     |     8   |  1d4 + 8 slashing      |
-[[#Fur-ious Blows]]
-[[#Ferocious Howl]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/4 Atal/Panda#Fur-ious Blows\|#Fur-ious Blows]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/4 Atal/Panda#Ferocious Howl\|#Ferocious Howl]]
 
 # Inventory
 

@@ -15,7 +15,7 @@
  Class:  Curse User 3
 	 Curse Points 3
  Alignment: Chaotic Neutral 
- Background: [[#cursed child]]
+ Background: [[Skull/Concentrated Brain/Dnd/Missy's Stuff/My Pcs/Venti/Ferventi Rana (Baby)#cursed child\|#cursed child]]
 
 
 ## Stats
@@ -89,8 +89,8 @@ Notes:
 [[Skull/Concentrated Brain/Dnd/Terminology/Trance\|Trance]]
 [[Skull/Concentrated Brain/Dnd/Terminology/Keen Senses\|Keen Senses]]
 [[Skull/Concentrated Brain/Dnd/Terminology/Necrotic Resistance\|Necrotic Resistance]]
-[[#one of a great line]]
-[[#inherited technique]]
+[[Skull/Concentrated Brain/Dnd/Missy's Stuff/My Pcs/Venti/Ferventi Rana (Baby)#one of a great line\|#one of a great line]]
+[[Skull/Concentrated Brain/Dnd/Missy's Stuff/My Pcs/Venti/Ferventi Rana (Baby)#inherited technique\|#inherited technique]]
 
 Curse type Heavenly restriction: broken body
 Cursed movement (15ft Movement)

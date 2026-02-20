@@ -92,19 +92,19 @@ Tools: Herbalism kit
 Languages: Common, One Other, Read All
 
 # Notes: 
-[[#Pact of the Blade]]
-[[#Pact of the Chain]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Generic Occultist Sheet#Pact of the Blade\|#Pact of the Blade]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Generic Occultist Sheet#Pact of the Chain\|#Pact of the Chain]]
 Spellcasting
-[[#Sinister Calling]]
-[[#Pact of the Tome]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Generic Occultist Sheet#Sinister Calling\|#Sinister Calling]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Generic Occultist Sheet#Pact of the Tome\|#Pact of the Tome]]
 Occult Specialization
 	Eldritch Loremaster
-[[#Master of the Elements]]
-[[#Eyes of the Rune Keeper]]
-[[#Eldritch Smite]]
-[[#Eldritch Spear]]
-[[#Improved Sinister Calling]]
-[[#Mask of Many Faces]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Generic Occultist Sheet#Master of the Elements\|#Master of the Elements]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Generic Occultist Sheet#Eyes of the Rune Keeper\|#Eyes of the Rune Keeper]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Generic Occultist Sheet#Eldritch Smite\|#Eldritch Smite]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Generic Occultist Sheet#Eldritch Spear\|#Eldritch Spear]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Generic Occultist Sheet#Improved Sinister Calling\|#Improved Sinister Calling]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Generic Occultist Sheet#Mask of Many Faces\|#Mask of Many Faces]]
 
 
 

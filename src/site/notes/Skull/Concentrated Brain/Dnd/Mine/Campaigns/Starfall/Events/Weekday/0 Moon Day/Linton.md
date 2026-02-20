@@ -100,19 +100,19 @@ Languages: Common, One Other, Read All
 
 # Notes: 
 - **Stonecunning.** Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
-[[#Pact of the Blade]]
-[[#Pact of the Chain]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton#Pact of the Blade\|#Pact of the Blade]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton#Pact of the Chain\|#Pact of the Chain]]
 Spellcasting
-[[#Sinister Calling]]
-[[#Pact of the Tome]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton#Sinister Calling\|#Sinister Calling]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton#Pact of the Tome\|#Pact of the Tome]]
 Occult Specialization
 	Eldritch Loremaster
-[[#Master of the Elements]]
-[[#Eyes of the Rune Keeper]]
-[[#Eldritch Smite]]
-[[#Eldritch Spear]]
-[[#Improved Sinister Calling]]
-[[#Mask of Many Faces]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton#Master of the Elements\|#Master of the Elements]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton#Eyes of the Rune Keeper\|#Eyes of the Rune Keeper]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton#Eldritch Smite\|#Eldritch Smite]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton#Eldritch Spear\|#Eldritch Spear]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton#Improved Sinister Calling\|#Improved Sinister Calling]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton#Mask of Many Faces\|#Mask of Many Faces]]
 
 
 

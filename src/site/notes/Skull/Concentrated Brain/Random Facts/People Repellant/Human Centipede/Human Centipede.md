@@ -176,7 +176,7 @@ The Human Centipede 2 (Full Sequence) received substantial attention and contro
 
 # The Human Centipede (Full Sequence) Plot
 
-In the tollbooth of a parking garage in East London, Martin Lomax is watching [[#The Human Centipede (First Sequence)]], a film he is obsessed with, on his laptop. Short, obese, asthmatic, and mentally challenged, Martin lives in an unkempt council flat with his emotionally abusive mother, who blames him for having his father put in prison for physically, psychologically, and sexually abusing Martin when he was a boy. Dr. Sebring, Martin's psychiatrist, touches him inappropriately and prescribes him heavy medication. 
+In the tollbooth of a parking garage in East London, Martin Lomax is watching [[Skull/Concentrated Brain/Random Facts/People Repellant/Human Centipede/Human Centipede#The Human Centipede (First Sequence)\|#The Human Centipede (First Sequence)]], a film he is obsessed with, on his laptop. Short, obese, asthmatic, and mentally challenged, Martin lives in an unkempt council flat with his emotionally abusive mother, who blames him for having his father put in prison for physically, psychologically, and sexually abusing Martin when he was a boy. Dr. Sebring, Martin's psychiatrist, touches him inappropriately and prescribes him heavy medication. 
 
 Martin keeps a pet centipede.
 

@@ -83,15 +83,15 @@ Tools: Herbalism kit
 Languages: Common, One Other, Read All
 
 # Notes: 
-[[#Pact of the Blade]]
-[[#Pact of the Chain]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Apprentice Occultist Sheet#Pact of the Blade\|#Pact of the Blade]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Apprentice Occultist Sheet#Pact of the Chain\|#Pact of the Chain]]
 Spellcasting
-[[#Sinister Calling]]
-[[#Pact of the Tome]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Apprentice Occultist Sheet#Sinister Calling\|#Sinister Calling]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Apprentice Occultist Sheet#Pact of the Tome\|#Pact of the Tome]]
 Occult Specialization
 	Eldritch Loremaster
-[[#Master of the Elements]]
-[[#Eyes of the Rune Keeper]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Apprentice Occultist Sheet#Master of the Elements\|#Master of the Elements]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Apprentice Occultist Sheet#Eyes of the Rune Keeper\|#Eyes of the Rune Keeper]]
 
 
 

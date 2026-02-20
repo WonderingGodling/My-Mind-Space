@@ -37,7 +37,7 @@ The Cannibalism Has Been A Thing In Recent History
 - Players On Different Sides Of Fountain
 	- Can Go Around The Town Doing Whatever
 		- Most Shops Are Open But Low On Supply And Whatnot
-	- Can Notice [[Branches/People\|People]] Keep Flooding Into This Building ([[#The Hatchet Town Hideout]])
+	- Can Notice [[Branches/People\|People]] Keep Flooding Into This Building ([[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town#The Hatchet Town Hideout\|#The Hatchet Town Hideout]])
 		- Cant Enter Building Without Password 
 			- The Biggest Shadows Under The Brightest [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]]
 			- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Khan Doorman\|Khan Doorman]]
@@ -56,7 +56,7 @@ The Cannibalism Has Been A Thing In Recent History
 
 Theres A House With: 2 Rations, Half A Cooked Bird, A Loaf Of Bread
 	
-Can Notice [[Branches/People\|People]] Keep Flooding In To A Specific Building ([[#The Hatchet Town Hideout]])
+Can Notice [[Branches/People\|People]] Keep Flooding In To A Specific Building ([[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town#The Hatchet Town Hideout\|#The Hatchet Town Hideout]])
 	Cant Enter Hideout Without Password (The Biggest Shadows Under The Brightest [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]])
 	Doorman (Khan)
 	Inside Everyone Is Wearing Wine-[[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Red/Red\|Red]] Hoodless Cloaks Which You Need In Order To Participate

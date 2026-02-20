@@ -61,7 +61,7 @@
 # Inventory
 
 Money: 718.98
-Inventory: old school crest on a scalf, Sketchbook https://docs.google.com/document/d/1DP1iJdNnFgXNk43-MeXytUBl7E277Fp6xR-v3QsC-og/edit?tab=t.0#heading=h.mmrkbvkue8vs, 20 darts, chain shirt, sheild, [[#Amulet of the devout]], Crown, Oil And Powder Paints Of Every Colour, Skates :), Ethereal silver eyeliner, Lingo lipstick, drying rack, camp-cooking stuff (In Lucifer), 2 pots, cooks utensils, wood, ceramic, clay, plastic ,dolls glass, felt, puppets, fabric, Glue, cotton, Art Company Deed, Marketable Plushies!
+Inventory: old school crest on a scalf, Sketchbook https://docs.google.com/document/d/1DP1iJdNnFgXNk43-MeXytUBl7E277Fp6xR-v3QsC-og/edit?tab=t.0#heading=h.mmrkbvkue8vs, 20 darts, chain shirt, sheild, [[Skull/Concentrated Brain/Dnd/Grims Stuff/Agate And Katrina/Agate#Amulet of the devout\|#Amulet of the devout]], Crown, Oil And Powder Paints Of Every Colour, Skates :), Ethereal silver eyeliner, Lingo lipstick, drying rack, camp-cooking stuff (In Lucifer), 2 pots, cooks utensils, wood, ceramic, clay, plastic ,dolls glass, felt, puppets, fabric, Glue, cotton, Art Company Deed, Marketable Plushies!
 
 Unidentified Curse Tool
 
@@ -99,13 +99,13 @@ Curse Type
 	[Malevolent spirit](https://docs.google.com/document/d/15yfCNIHEe7JSPldOGmjGmpZJSU3vuZr90nhzwO_6TOs/edit?usp=sharing)
 		Spiritual enhancements 
 Curse Technique
-	[[#Creative Liberty|Creative Liberty]]
+	[[Skull/Concentrated Brain/Dnd/Grims Stuff/Agate And Katrina/Agate#Creative Liberty\|Creative Liberty]]
 Cursed Movement
 Take control
 Cursed healing
 
 Curse Domain
-	[[#Domain Expansion: Spilt Ink|Spilt Ink]]
+	[[Skull/Concentrated Brain/Dnd/Grims Stuff/Agate And Katrina/Agate#Domain Expansion: Spilt Ink\|Spilt Ink]]
 
 
 # Characteristics 

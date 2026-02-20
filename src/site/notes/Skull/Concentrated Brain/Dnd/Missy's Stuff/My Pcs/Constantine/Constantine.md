@@ -93,8 +93,8 @@ After The Ritual: Each Creature Caught In The Flood Must Be Dexterous Enough To 
 More Time Spent On The Ritual Empowers The Styx (1d4)
 
 #### Magic Missile
-1: Draw Markings On The Floor, Starting From The Top Down. [Count Up To How Many Bolts Will Fire], Cover Mouth
-2: Popping Noises Echo As Eyeballs Force Their Way Out Of Of Mouth. They Lose Their Form And Fly At Creature(s) Within 120ft For 1d4+1 Force Each 
+1: Draw Markings On A Surface, Starting From The Top Down. [Count Up To How Many Bolts Will Fire], Finishing The Count With The Final Stroke , Cover Mouth
+2: Popping Noises Echo As Eyeballs Force Their Way Out Of Mouth. They Lose Their Form And Fly At Creature(s) Within 120ft For 1d4+1 Force Each 
 
 More Time Spent On The Ritual Creates More Balls (1d4+1)
 
@@ -129,7 +129,13 @@ Supportive Wicca Ghost Girlfriend
 
 # Notes
 the bones of werebeasts, they are inherently resistant to damage so the bonedust would scrap off without damaging the actual structure in the same way drawing with chalk would do
-
+Learn Infernal
+Sigil Up The Mansion
+Learn More Magic
+Body Modification Stuff
+Learn Macabre Art
+	Paint Scenes
+	Decorate Corpses
 ### Description
 
 #### Hair 

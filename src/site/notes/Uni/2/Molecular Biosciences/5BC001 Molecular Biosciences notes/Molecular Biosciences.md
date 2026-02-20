@@ -14,10 +14,10 @@
 Two antiparallel strands are held together by hydrogen bonding between complimentary bases
 ### Process
 ![Pasted image 20251023043655.png](/img/user/images/Pasted%20image%2020251023043655.png)
-The double helix is unwound and the complementary strands are separated by the enzyme [[#helicase]], creating what is known as the [[#replication fork]]. Following this fork, [[#primase]] and [[#polymerase]] begin to act in order to create a new [[#Complimentary DNA|complimentary strand]]. 
+The double helix is unwound and the complementary strands are separated by the enzyme [[Uni/2/Molecular Biosciences/5BC001 Molecular Biosciences notes/Molecular Biosciences#helicase\|#helicase]], creating what is known as the [[Uni/2/Molecular Biosciences/5BC001 Molecular Biosciences notes/Molecular Biosciences#replication fork\|#replication fork]]. Following this fork, [[Uni/2/Molecular Biosciences/5BC001 Molecular Biosciences notes/Molecular Biosciences#primase\|#primase]] and [[Uni/2/Molecular Biosciences/5BC001 Molecular Biosciences notes/Molecular Biosciences#polymerase\|#polymerase]] begin to act in order to create a new [[Uni/2/Molecular Biosciences/5BC001 Molecular Biosciences notes/Molecular Biosciences#Complimentary DNA\|complimentary strand]]. 
 These enzymes can only work in the 5' to 3' direction so once unwound: 
 	The leading strand undergoes a continuous replication process— since it has 3' to 5' directionality, the polymerase assembling the leading strand can follow the replication fork without interruption. 
-	The lagging strand cannot be created in a continuous fashion— because its template strand has 5' to 3' directionality—so the polymerase works backwards from the [[#DNA Replication fork|replication fork]] causing pauses in the process as the primase and polymerase move in the opposite direction of the fork. The enzymes stop and start again while the DNA helicase breaks the strands apart. Once the [[#okazaki fragments]] are made, DNA ligase connects them into a single, continuous strand. 
+	The lagging strand cannot be created in a continuous fashion— because its template strand has 5' to 3' directionality—so the polymerase works backwards from the [[Uni/2/Molecular Biosciences/5BC001 Molecular Biosciences notes/Molecular Biosciences#DNA Replication fork\|replication fork]] causing pauses in the process as the primase and polymerase move in the opposite direction of the fork. The enzymes stop and start again while the DNA helicase breaks the strands apart. Once the [[Uni/2/Molecular Biosciences/5BC001 Molecular Biosciences notes/Molecular Biosciences#okazaki fragments\|#okazaki fragments]] are made, DNA ligase connects them into a single, continuous strand. 
 	
 The entire replication process is considered "semi-discontinuous".
 
@@ -46,7 +46,7 @@ Major and minor grooves arent well-defined
 base pairs Zig-zag relative to the helix-axis
 occasionally induced by biological activity and then quickly disappears.
 #### Supercoiled DNA:  
-DNA supercoiling refers to the amount of twist in a particular DNA strand— which determines the amount of strain on it. A given strand may be "positively supercoiled" or "negatively supercoiled" (more or less tightly wound). The amount of a strand's supercoiling affects a number of biological processes, such as compacting DNA and regulating access to the genetic code . Certain enzymes, such as [[#topoisomerase]], change the amount of DNA supercoiling to facilitate functions. The amount of supercoiling in a given strand is in reference to "relaxed B-form" DNA. 
+DNA supercoiling refers to the amount of twist in a particular DNA strand— which determines the amount of strain on it. A given strand may be "positively supercoiled" or "negatively supercoiled" (more or less tightly wound). The amount of a strand's supercoiling affects a number of biological processes, such as compacting DNA and regulating access to the genetic code . Certain enzymes, such as [[Uni/2/Molecular Biosciences/5BC001 Molecular Biosciences notes/Molecular Biosciences#topoisomerase\|#topoisomerase]], change the amount of DNA supercoiling to facilitate functions. The amount of supercoiling in a given strand is in reference to "relaxed B-form" DNA. 
 DNA becomes temporarily positively supercoiled when it is being replicated or transcribed
 - This is a more compact structure that forms when the DNA helix is subjected to strain by being overwound or underwound.  
 - Plays a role in the compaction of DNA in cells and also has implications in DNA replication and transcription.
@@ -60,11 +60,11 @@ Confirmation that DNA is semi-conservative
 ![ExperimentsThatChanged3.jpg](/img/user/images/ExperimentsThatChanged3.jpg)
 
 ### Enzymes Required for DNA Replication  
-1. [[#helicase]]
-2. [[#Topoisomerase]]
-3. [[#Primase]]
-4. [[#Polymerase]] 
-5. [[#Ligase]]
+1. [[Uni/2/Molecular Biosciences/5BC001 Molecular Biosciences notes/Molecular Biosciences#helicase\|#helicase]]
+2. [[Uni/2/Molecular Biosciences/5BC001 Molecular Biosciences notes/Molecular Biosciences#Topoisomerase\|#Topoisomerase]]
+3. [[Uni/2/Molecular Biosciences/5BC001 Molecular Biosciences notes/Molecular Biosciences#Primase\|#Primase]]
+4. [[Uni/2/Molecular Biosciences/5BC001 Molecular Biosciences notes/Molecular Biosciences#Polymerase\|#Polymerase]] 
+5. [[Uni/2/Molecular Biosciences/5BC001 Molecular Biosciences notes/Molecular Biosciences#Ligase\|#Ligase]]
 
 ##### helicase 
 ![DNA_Helicase_DNA_Replication.png](/img/user/images/DNA_Helicase_DNA_Replication.png)
@@ -78,7 +78,7 @@ bind to DNA and cut the sugar-phosphate backbone of either one (type I topoisome
 ![Pasted image 20251023060418.png](/img/user/images/Pasted%20image%2020251023060418.png)
 synthesizes RNA primer to initiate DNA replication ( carried out by DNA Polymerase) 
 - DNA polymerase adds on to 3’
-- Adds RNA primers to the DNA (which are later removed by [[#exonuclease]] tand replaced with DNA)
+- Adds RNA primers to the DNA (which are later removed by [[Uni/2/Molecular Biosciences/5BC001 Molecular Biosciences notes/Molecular Biosciences#exonuclease\|#exonuclease]] tand replaced with DNA)
 #### Polymerase 
 Synthesis of new strand of DNA complementary to the template DNA
 DNA polymerase has exonuclease activity and cannot start polymerizing directly
@@ -993,7 +993,7 @@ The replication fork is a structure that forms within the long helical DNA durin
 short sequences of DNA nucleotides which are synthesized discontinuously and later linked together by the enzyme DNA ligase to create the lagging strand during DNA replication
 ![Okazaki_fragment_EN.svg.png](/img/user/images/Okazaki_fragment_EN.svg.png)
 ###### Complimentary DNA
-Complementary DNA (cDNA) is DNA that was reverse transcribed (via [[#reverse transcriptase]]) from an RNA (e.g., mRNA or miRNA). cDNA exists in both single-stranded and double-stranded forms and in both natural and engineered forms. 
+Complementary DNA (cDNA) is DNA that was reverse transcribed (via [[Uni/2/Molecular Biosciences/5BC001 Molecular Biosciences notes/Molecular Biosciences#reverse transcriptase\|#reverse transcriptase]]) from an RNA (e.g., mRNA or miRNA). cDNA exists in both single-stranded and double-stranded forms and in both natural and engineered forms. 
 
 ###### microRNA
 Micro ribonucleic acid (microRNA, miRNA, μRNA) are small, single-stranded, non-coding RNA molecules containing 21–23 nucleotides.[1] Found in plants, animals, and even some viruses, miRNAs are involved in RNA silencing and post-transcriptional regulation of gene expression.[2][3] miRNAs base-pair to complementary sequences in messenger RNA (mRNA) molecules,[4] then silence said mRNA molecules by one or more of the following processes:[1][5]
