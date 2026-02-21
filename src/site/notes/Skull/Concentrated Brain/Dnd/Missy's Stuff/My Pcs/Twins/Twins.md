@@ -11,7 +11,7 @@
 
 # <center><span style="color:#FEDCBA">The Twins</span></center>
 
-[[Skull/Concentrated Brain/Dnd/Missy's Stuff/My Pcs/Twins/Michele Santos\|Michael]] And [[Skull/Concentrated Brain/Dnd/Missy's Stuff/My Pcs/Twins/Michelle Santos\|Michelle Santos]]
+[[Skull/Concentrated Brain/Dnd/Missy's Stuff/My Pcs/Twins/Michele Santos\|Michele]] And [[Skull/Concentrated Brain/Dnd/Missy's Stuff/My Pcs/Twins/Michelle Santos\|Michelle Santos]]
 
 ![Santos Twins.png](/img/user/images/Santos%20Twins.png)
 

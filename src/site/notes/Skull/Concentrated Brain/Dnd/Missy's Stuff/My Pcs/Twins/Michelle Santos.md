@@ -27,23 +27,6 @@ Has Always Been Scared Of The Dark But "Only As much As A Normal Person" And Wil
 [Green-Flame Blade](https://dnd5e.wikidot.com/spell:green-flame-blade)
 [Guidance](https://dnd5e.wikidot.com/spell:guidance)
 [Hand of Radiance (UA)](https://dnd5e.wikidot.com/spell:hand-of-radiance)
-[Light](https://dnd5e.wikidot.com/spell:light)
-[Lightning Lure](https://dnd5e.wikidot.com/spell:lightning-lure)
-[Minor Illusion](https://dnd5e.wikidot.com/spell:minor-illusion)
-[Prestidigitation](https://dnd5e.wikidot.com/spell:prestidigitation)
-[Produce Flame](https://dnd5e.wikidot.com/spell:produce-flame)
-[Sacred Flame](https://dnd5e.wikidot.com/spell:sacred-flame)
-[Word of Radiance](https://dnd5e.wikidot.com/spell:word-of-radiance)
-[Absorb Elements](https://dnd5e.wikidot.com/spell:absorb-elements)
-[Alarm](https://dnd5e.wikidot.com/spell:alarm)
-[Arcane Weapon (UA)](https://dnd5e.wikidot.com/spell:arcane-weapon)
-[Burning Hands](https://dnd5e.wikidot.com/spell:burning-hands)
-[Chromatic Orb](https://dnd5e.wikidot.com/spell:chromatic-orb)
-[Faerie Fire](https://dnd5e.wikidot.com/spell:faerie-fire)
-[Guiding Bolt](https://dnd5e.wikidot.com/spell:guiding-bolt)
-[Guiding Hand (UA)](https://dnd5e.wikidot.com/spell:guiding-hand-ua)
-[Hellish Rebuke](https://dnd5e.wikidot.com/spell:hellish-rebuke)
-[Illusory Script](https://dnd5e.wikidot.com/spell:illusory-script)
 
 ##### Cantrips
 ###### Photokenesis

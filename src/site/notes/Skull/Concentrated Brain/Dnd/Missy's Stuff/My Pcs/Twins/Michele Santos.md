@@ -12,7 +12,7 @@
 
 ![Santos Twins.png](/img/user/images/Santos%20Twins.png)
 
-Transmasc Neon Conduit Who Likes To Make Big Moves In Secret
+Transmasc Dark Conduit Who Likes To Make Big Moves In Secret
 He Isnt A People Person But He Will Be Damned If He Would Let That Get In His Way
 
 ### Magic
