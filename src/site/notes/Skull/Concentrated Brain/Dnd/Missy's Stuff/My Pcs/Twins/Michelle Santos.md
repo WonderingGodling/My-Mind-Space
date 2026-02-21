@@ -151,4 +151,4 @@ Creatures Dex Save To Be unaffected, If Affected The Creature Is Attacked With A
 Action
 90ft
 Instant
-Throw Orb Of Light At Target For 3d8 Acid/Fire/Lightning/Poison/Thunder
+Throw Orb Of Light At Target For 3d8 Light
