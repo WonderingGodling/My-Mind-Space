@@ -60,7 +60,7 @@ Bright Light Erupts From You, Each Creature Of Your Choice Within 5ft Must Succe
 Or One Creature Within 60ft  Must Succeed A Dexterity Save Or Take 1d8 Radiance
 The target gains no benefit from cover for this saving throw.
 Modified From [Word Of Radience](https://dnd5e.wikidot.com/spell:word-of-radiance), And [Sacred Flame](https://dnd5e.wikidot.com/spell:sacred-flame)
-The Light Shooting From Your Fingertips In A 15ft Cone Deals 3d6 Fire Damage To Anyone Who Fails A Dexterity Save (Or Half)
+
 Further Modified From [Burning Hands](https://dnd5e.wikidot.com/spell:burning-hands)
 
 ###### Spotlight
@@ -168,11 +168,4 @@ Creatures Dex Save To Be unaffected, If Affected The Creature Is Attacked With A
 Action
 90ft
 Instant
-Throw Orb Of Light At Target For 3d8 Light Damage
-
-###### Alarm
-1 Minute
-30ft
-8 Hours
-By Extending Light To A Door, Window Or 20ft Area You Are Alerted When It Gets Interrupted.
-You Can Recognise Creatures And Exempt Them From Setting Off The Alarm
+Throw Orb Of Light At Target For 3d8 Acid/Fire/Lightning/Poison/Thunder
