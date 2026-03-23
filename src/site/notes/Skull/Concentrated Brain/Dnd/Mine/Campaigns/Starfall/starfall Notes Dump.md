@@ -122,7 +122,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Bag Of Holding With Abtrarily Decreased Function
 	- [ ] Day 2 Every Major [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Campaign/Starfall/template/City\|City]]
 	- [ ] Sellers Gets Rich
-		- [ ] Small Magus Order (The Seventh Snake)
+		- [ ] Small Magus Order ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/The Seventh Snake\|The Seventh Snake]])
 			- [ ] Snake Tattoo All Up Their Arms
 - [ ] Mimic Town
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Cilnar\|Cilnar]]
@@ -531,6 +531,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Jewels (Currency)\|Jewels (Currency)]]
 - [ ] Cult Of The Wicked Devil Associations
 - [ ] Jetty MOnk Stuff
+- [ ] https://www.dandwiki.com/wiki/Ape_Zombie_(5e_Creature) (Friendsly, Just Livese In Some Village)
 
 
 
@@ -545,27 +546,4 @@ Sew More Seeds For:
 
 
 <center><sub>And Here We Go Again :)</sub></center>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

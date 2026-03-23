@@ -13,18 +13,7 @@ This Probably Wont Achieve Much But Its Not [[Skull/Concentrated Brain/Poetry Ap
 If You Want To Have A Look Around (If You **Can**) Look Around Feel Free
 Get Comfortable
 
-You Want Some [[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)\|Mad Rambles]] To Start You Off Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]?
-Make Yourself At Home
-
-If Youre My [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Sunshine]] Then Click There
-And This Is For You [[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|Honey]]
-
-Also Some [[Branches/People\|People]] Wanted To Deliver Some Messages To A Bunch Of Internet Strangers So.... [[Explicitly Showcased/From Others/Relay 1\|Relay 1]] [[Explicitly Showcased/From Others/Relay 2\|Relay 2]]
-  
-‫‬‭‮‪‫‬‭‮҉   ‫‬‭‮҉‫‬‭‮‪‫‬‭‮҉ [[Explicitly Showcased/My General Outlook On This\|My General Outlook On This]]
- 
-I Dont Want This Specific Page To Get Crowded So Im Going To Stop Talking Here
-
+wonderinggodling On Discord
 
 
 

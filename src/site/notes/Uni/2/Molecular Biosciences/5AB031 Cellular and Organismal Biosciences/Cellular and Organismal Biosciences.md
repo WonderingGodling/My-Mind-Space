@@ -652,7 +652,7 @@ expression of the OmpC and OmpF genes
 - EnvZ phosphorylation of OmpR influenced by
 osmotic pressure in cell
 
-Myosins
+### Myosins
 - large family of motor proteins that move
 along actin filaments, while hydrolyzing
 ATP
@@ -710,9 +710,8 @@ Muscle Actin: thin filaments
 So:
 - Tropomyosin (TM) ‘blocks the track’
 - Troponin (TN) is the lever moving it in/out of the way
-Cross-Bridge
-Cycling in
-Skeletal Muscle
+
+#### Cross-Bridge Cycling in Skeletal Muscle
 - Sliding Filament Theory in Animated
 Form
 Sliding Filament Theory: Short Version:
@@ -924,7 +923,7 @@ PIP2 binds profilin:
 - Signal-activated PIP2 hydrolysis releases profilin,
 - May promote actin polymerization adjacent to plasma
 membrane.
-Regulation of Assembly of Actin Cytoskeleton
+#### Regulation of Assembly of Actin Cytoskeleton
 Learning Outcomes
 - Actin-containing cellular structures
 - Microfilaments
@@ -1743,8 +1742,7 @@ primary endosperm nucleus. The result of which is a
 triploid primary endosperm cell which later develops to
 form the endosperm in the seed.
 
-Animal Reproduction and
-Development
+## Animal Reproduction and Development
 Learning Outcomes
 Types of reproduction:
 -Asexual
@@ -1882,7 +1880,7 @@ Types of fertilization
 -Viviparous Animals
 -Mammalian Sexual Reproduction
 
-Animal Osmoregulation & Excretion
+## Animal Osmoregulation & Excretion
 Learning Outcomes
 - Osmolarity
 - Aquatic Animals
@@ -2186,12 +2184,12 @@ CORTEX
 Filtrate
 Loop of
 Henle
-H2O K<sup>+</sup>HCO3    -
-H+ NH3
+H2O K⁺ HCO3    -
+H⁺  NH3
 Proximal tubule
 NaCl Nutrients
 Distal tubule
-K<sup>+</sup> H+
+K⁺ H⁺  
 HCO3    -
 H2O
 H2O
@@ -2559,20 +2557,10 @@ Hemerochory
 Threats to seed dispersal
 - Declining populations, fragmentation, habitat loss, invasive species
 - Video     - habitat fragmentation.
-Summary
-- Seed dispersal has clear ecological benefits
-- Both plants and animals benefit
-- Often mutualistic relationships
-- Plant engineering in many different forms
-- Animal behaviour in many different forms.
-Reading
-- Any search of ‘____chory’ will bring up lots of related reading     - often
-journal articles
-- Textbooks     - only little bits in recommended reading
 
-Bacterial Osmoregulation
- Cellular and
-Organismal Biosciences
+
+## Bacterial Osmoregulation
+ Cellular and Organismal Biosciences
 Abiotic factors affecting growth of
 Microorganisms
 - Water Activity (aw)
@@ -2582,8 +2570,7 @@ Microorganisms
 - Pressure
 Water Activity aw
 - Water Activity aw
-- Measure of the “free” water available for
-metabolic reactions     - scale 0 - 1
+- Measure of the “free” water available for metabolic reactions     - scale 0 - 1
 - Water of solvation - not available
 - Water involved in keeping solutes in solution.
 - Concentrated solutions
@@ -2602,12 +2589,10 @@ Water Activity Ranges aw
 - Fungi & Yeasts
 - 0.999 <- 0.70 (0.63)
 - Polypaecilum pisce 0.99-0.70 (0.96 - 0.91)
-- Basipetospora halophila 0.99 - 0.70 (0.89     -
-0.86)
-Terminology
+- Basipetospora halophila 0.99 - 0.70 (0.89     - 0.86)
+##### Terminology
 - Halophile
-- Salt loving must have low aw for optimum
-growth.
+- Salt loving must have low aw for optimum growth.
 - Halotolerant
 - Grows best at high aw can tolerate low aw
 - Osmophile
@@ -2626,80 +2611,57 @@ Hypotonic     - high internal [solute]
 - Mechanical strength protect cell
 Solute concentrations & effect on cell
 Animal cell
-Bacterial/Plant
-cell
+Bacterial/Plant cell
 Solute concentrations & effect on cell
 - Hypertonic - high external solute conc
-- H2O →  leaves cell → cell shrinks
-(plasmolysis)
+- H2O →  leaves cell → cell shrinks (plasmolysis)
 - Internal [solute] rises
 - internal pressure falls
 - internal aw falls
 - Cell wall of no help
 - Metabolic dysfunction & cell death
 Animal cell
-Bacterial/Plant
-cell
+Bacterial/Plant cell
 - Plasmolysis
-Solute concentrations & effect on cell
-Cell wall
-Cytoplasm
-Cell membrane
--Cell volume decreases - cytoplasm shrinks
--Hypertonic medium - water leaves the cell
+- Cell volume decreases - cytoplasm shrinks
+- Hypertonic medium - water leaves the cell
 Hypertonic environment
 Seawater / salt lakes / salterns
 Sugary drinks
 IV Drips and Injections
-How do organisms adapt to high
-solute environments?
+How do organisms adapt to high solute environments?
 Need to prevent water loss:
-- Accumulation of compatible solutes
-(Osmotica)
+- Accumulation of compatible solutes (Osmotica)
 - Forms a dormant resting stage - spores
 - Modify cell membrane composition
 Preventing water loss
-- Accumulation of compatible solutes
-(Osmotica)
+- Accumulation of compatible solutes (Osmotica)
 - Osmotica
 - Solutes not toxic at high concentrations
 - Lower internal cell aw
 - Prevents water loss
 - Uptake from environment or synthesis
 - Solute depends on micro-organism
+Compatable Solutes
 - Heterotrophic bacteria
-- Amino acids and derivatives: glutamic acid & proline;
-betaine, trimethylamine
+	- Amino acids and derivatives: glutamic acid & proline; betaine, trimethylamine
 - Halophilic bacteria
-- K<sup>+</sup> and Na<sup>+</sup> ions, betaine (Archaea use salt-in/salt-out)
+	- K⁺  and Na⁺ ions, betaine (Archaea use salt-in/salt-out)
 - Cyanobacteria
-- Sugars (sucrose and trehalose), sugar alcohols
-(glucosyl-glycerol) betaine
+	- Sugars (sucrose and trehalose), sugar alcohols (glucosyl-glycerol) betaine
 - Eukaryotic: Yeasts, fungi
-- Sugar alcohols (glycerol, mannitol, arabitol), sugars
-(trehalose)
+	- Sugar alcohols (glycerol, mannitol, arabitol), sugars (trehalose)
 - Eukaryotic: Algae
-- Sugars (sucrose, glucose, fructose, raffinose) glycerol
-Compatible solutes
-Synthesis, import & release of
-compatible solutes
+	- Sugars (sucrose, glucose, fructose, raffinose) glycerol
+
+Synthesis, import & release of compatible solutes
 - Salt-in/out response
-- Accumulate compatible solutes via
-either synthesis or import
-- Hypo-osmotic conditions, the cells
-rapidly jettison, in a nonspecific
-fashion, organic and inorganic
-compounds via mechanosensitive
-channels (Msc) to counter water
-influx
-- An aquaporin is a water-
-conduction channel (e.g., AqpZ)
-- 40     - 50 ATP molecules to
-synthesise a compatible solute
-molecule
-- 2 ATP molecules to import a
-compatible solute
-Annu. Rev. Microbiol. 2019. 73:313    -34
+- Accumulate compatible solutes via either synthesis or import
+- Hypo-osmotic conditions, the cells rapidly jettison, in a nonspecific fashion, organic and inorganic compounds via mechanosensitive channels (Msc) to counter water influx
+- An aquaporin is a water- conduction channel (e.g., AqpZ)
+- 40     - 50 ATP molecules to synthesise a compatible solute molecule
+- 2 ATP molecules to import a compatible solute
+
 Compatible solutes & environment
 - Trehalose
 Compatible solute example
@@ -2708,41 +2670,16 @@ Compatible solute example
 - Powerful protection against drying
 - Dried yeast Saccharomyces cerevisiae
 - Protects against high temperature
-Effect of drying on enzyme activity
-over time at different temperatures
-70oC
-55oC
-37oC
-Storage time (days) 110
-80%
-30%
-Enzyme activity
-Effect of Trehalose
-Enzyme activity ( % maximum)
-Drying time @ 37oC (h)
-+ 15% trehalose
-No trehalose
-100
-100%
-Compatible solute production is dynamic
-Internal sucrose (mM)
-NaCl in growth medium (mM)
-Anabaena variabilis
-Anacystis nidulans
-Anabaena cylindrica
-Spore Formation - drying
+
 Membrane modifications
 - Low aw and microbial membranes
-- 1 Deleya halophila
-- Compatible solute is K<sup>+</sup> : high concentration
-- Fatty acid side chains of membrane
-phospholipids become less flexible
+1. Deleya halophila
+- Compatible solute is K⁺  : high concentration
+- Fatty acid side chains of membrane phospholipids become less flexible
 - Increased saturation
-- Reduces membrane fluidity and helps retain
-high K<sup>+</sup> levels in the cytoplasm.
-- 2. Dunaliella salina
-- Chloroplast thylakoid membrane
-phospholipids
+- Reduces membrane fluidity and helps retain high K⁺ levels in the cytoplasm.
+2. Dunaliella salina
+- Chloroplast thylakoid membrane phospholipids
 - Compatible solute is glycerol
 - Energy required for production
 - More efficient photosynthesis
@@ -2750,309 +2687,132 @@ phospholipids
 Membrane modifications
 Bacterial Osmoregulation
 - Water activity influences growth
-- Microorganisms can adapt to
-osmotic stress
+- Microorganisms can adapt to osmotic stress
 - using osmotica (compatible solutes)
 - physiological adaptations
 - Spores
 - Membrane changes
-Recommended Reading
 
-Microbial growth: Bacterial cell division
+## Microbial growth: Bacterial cell division
 
-Cellular and Organismal Biosciences
-Lecture contributes to Learning Outcomes 1 and 3
-Overview
-- Introduction     - definitions
-- Replication of the bacterial chromosome
-and partitioning
-- Septation and cytokinesis (division)
-    - Z ring
-    - Cell wall synthesis
-- Summary and further reading
-Introduction
-- Growth
-    - the terms refers to a steady, balanced increase in all
-the components of the cell, leading to an increase in
-cell size and usually followed by cell division
-- Vegetative cell cycle
-    - the sequence of events which occur when normal
-vegetative cell, newly formed by cell division, grows
-and divides
-- Differentiation
-    - events initiated by transcriptional and translational
-changes in the cell cycle leading to the formation of a
-new type of cell e.g. spore or a modified cell e.g. cyst
-Measuring & plotting microbial growth
-Typical Growth Curve of bacteria in batch culture (covered in 4BM024)
-Madigan, Michael, T. et al. Brock Biology of Microorganisms, Global Edition. Available from: Bookshelf Online - Ref, (16th Edition). Pearson International Content, 2021.
-Introduction
-Introduction
-- Prokaryotes - Bacteria
-    - Divide by a process of binary fission
-- Asexual     - 2 genetically identical daughter cells
-    - Do not have a nucleus     - single super-coiled circular
-chromosome     - nucleoid
-- Copied during division
-    - During division (cytokinesis) a number of other events
-must take place
+
+Growth- a steady, balanced increase in all the components of the cell, leading to an increase in cell size and usually followed by cell division
+Vegetative cell cycle- the sequence of events which occur when normal vegetative cell, newly formed by cell division, grows and divides
+Differentiation- events initiated by transcriptional and translational changes in the cell cycle leading to the formation of a new type of cell e.g. spore or a modified cell e.g. cyst
+### Measuring & plotting microbial growth
+Prokaryotes (Bacteria) Divide by a process of binary fission
+- Asexual    
+    -  genetically identical daughter cells
+    - Do not have a nucleus
+    - single super-coiled circular chromosome 
+        - nucleoid
+        - Copied during division
+    - During division (cytokinesis) a number of other events must take place
 - Cell wall synthesis, septation and separatation
-Bacterial growth and division
-One Generation
-Time taken is
-generation/
-doubling time
-Septum
-Characteristic
-shapes
-produced on cell
-division- can be
-used to help
-identify bacteria
-e.g. Streptococcus pneumoniae
-e.g. Staphylococcus aureus
-e.g. Micrococcus luteus
-Some Bacteria Reproduce by Methods Other than Binary Fission. -
-Transmission electron micrograph of a budding Listeria monocytogenes cell. -
-Baeocytes produced by the cyanobacterium Dermocarpa. - Spore formation by
-Streptomyces spp. Branched filaments, aerial hyphae, and chains of spores are
-visible in the light micrograph.
-- Dr. Kari Lounatmaa/Science Source; - Dennis Kunkel Microscopy/Science
-Source; - Smith Collection/Gado/Archive Photos/Getty Images
-Willey, Joanne, et al. Prescott's Microbiology ISE. Available from: Bookshelf Online - Ref, (12th Edition). McGraw-Hill Higher Education
-(International), 2022.
-Caulobacter Life Cycle.
-Stalked cells attached to a
-substrate undergo
 
-asymmetric binary fission,
-producing a stalked and a
-flagellated swarmer cell.
-The swarmer cell swims
-freely and synthesizes pili
-until it settles, ejects its
-flagella, and forms a stalk.
-Only stalked cells can
-divide. Willey, Joanne, et al. Prescott's Microbiology ISE. Available from: Bookshelf Online - Ref, (12th Edition).
-McGraw-Hill Higher Education (International), 2022.
-Cell cycle
-- 4 events must occur
-before a cell can
-divide
-    - There must be a
-reproductive signal
+### Bacterial growth and division
+
+Characteristic shapes produced on cell division- can be used to help identify bacteria e.g. Streptococcus pneumoniae, Staphylococcus aureus, Micrococcus luteus
+Some Bacteria Reproduce by Methods Other than Binary Fission. 
+Stalked cells attached to a substrate undergo asymmetric binary fission, producing a stalked and a flagellated swarmer cell.
+The swarmer cell swims freely and synthesizes pili until it settles, ejects its flagella, and forms a stalk.
+Only stalked cells can divide. 
+
+### Cell cycle
+- 4 events must occur before a cell can divide
+    - There must be a reproductive signal
     - Replication of DNA
-    - The replicated DNA must be
-distributed to each of the
-two new cells - Partitioning
-    - The cell membrane
-and cell wall must
-grow to separate
-the two new cells
-in a process called
-septation which
-leads to cytokinesis
-(division)
-Cell Cycle of E. coli. An increase in cell mass
-triggers replication initiation. The origin of replication
-migrates to the centre of the cell and proteins that
-make up the replisome assemble. In this illustration,
-one round of DNA replication is completed before
-the cell divides. In rapidly growing cultures, second
-and third rounds of DNA replication initiate before
-the original cell division is complete. Thus the
-daughter cells inherit partially replicated DNA.
-Bacterial growth and division
-Initiation
-mass
-DNA
-replication
-starts
-0 20 40 60
-Partitioned
-DNA
-Division
-(cytokinesis)
-Threshold
-length
-Initiation of
-division
-Division proteins
-and septum
-precursors
-Septation
-The general cell cycle in E. coli     - time between division
-may be shorter
-Time (mins)
+    - The replicated DNA must be distributed to each of the two new cells (Partitioning)
+    - The cell membrane and cell wall must grow to separate the two new cells in a process called septation which leads to cytokinesis (division)
+Cell Cycle of E. coli. An increase in cell mass triggers replication initiation. The origin of replication migrates to the centre of the cell and proteins that make up the replisome assemble. In this illustration, one round of DNA replication is completed before the cell divides. In rapidly growing cultures, second and third rounds of DNA replication initiate before the original cell division is complete. Thus the daughter cells inherit partially replicated DNA.
+
 DNA replication
-- No nucleus     -
-condensed DNA in
-nucleoid
-- Single circular
-chromosome
-- Replication = 40 mins
-at 37oC
-- Replication is
-Bi-directional and
-semi-conservative
-DNA replication
-For details on DNA replication refer to lectures in
-5BC001 as this topic was covered in detail there
-https://www.youtube.com/watch?v=jmWuju1S9_E
-(5 min clip)
-DNA replication
+- No nucleus     
+	-  condensed DNA in nucleoid
+- Single circular chromosome
+- Replication = 40 mins at 37oC
+- Replication is Bi-directional and semi-conservative
 - Each chromosome has;
-    - Origin of replication (Ori C)     - where
-replication begins
-    - Terminus     - where replication finishes
-    - Orientated to each pole of the cell in newly
-formed cells
-DNA replication
-- Early in the growth cycle of the cell when
-initiation mass reached - terminus and origin
-migrate to the mid cell
+    - Origin of replication (Ori C)     
+        -  where replication begins
+    - Terminus     
+        - where replication finishes
+    - Orientated to each pole of the cell in newly formed cells
+- Early in the growth cycle of the cell when initiation mass reached - terminus and origin migrate to the mid cell
 - Replisome is formed at the origin
-    - Proteins and enzymes for DNA synthesis collect
-together
-- DNA replication proceeds in both
-directions
+    - Proteins and enzymes for DNA synthesis collect together
+- DNA replication proceeds in both directions
     - DNA thought to spool through replisome
     - New origins form and move to opposite ends of cell
-DNA replication
-Being the
-gentleman he
-was, Brian
-insisted on paying
-in restaurants
-even though he
-suddenly realised
-dating a
-bacterium was
-going to be more
-expensive than he
-first thought
-DNA replication
-- In a slow growing culture (30oC) DNA
-replication and division     - 60 mins
-- In a fast growing culture (37oC) division - 20
-mins
+- In a slow growing culture (30oC) DNA replication and division     - 60 mins
+- In a fast growing culture (37oC) division - 20 mins
     - DNA replication always takes 40 mins??
-- Over comes this by having more than one Ori C
-and by starting DNA replication early
-    - DNA synthesis is continuous
-DNA partitioning
+- Over comes this by having more than one Ori C and by starting DNA replication early
+    - DNA synthesis is continuous DNA partitioning
 - Mechanism of partitioning still being defined
 - Studied in model organisms: B subtilis & C. crescentus
-- Various active biological protein systems that drive sister
-chromosomes apart
+- Various active biological protein systems that drive sister chromosomes apart
 - SMCs (structural maintenance of the chromosome) proteins
 - Par system
 - Entropic de-mixing
 - spontaneous move apart by mixed circular polymers
 - “Genome in a box” approaches to study this process
-- Microfluidic device with Mbp long genome then add back proteins
-to study their role
+- Microfluidic device with Mbp long genome then add back proteins to study their role
 - Further insight needed & may lead to first synthetic cell
-DNA partitioning in C. crescentus
-The ParAB/parS Partitioning System of Caulobacter crescentus. ParB
-binds parS sites on the daughter chromosomes. A gradient of ParA
-proteins directs the partition complex of ParB/parS to the opposite pole of
-the cell in a relay mechanism.
-Septation and cytokinesis
-- In cytokinesis cell elongation and
-septum formation must occur
-Requires:
+
+#### DNA partitioning in C. crescentus
+The ParAB/parS Partitioning System of Caulobacter crescentus. ParB binds parS sites on the daughter chromosomes. A gradient of ParA proteins directs the partition complex of ParB/parS to the opposite pole of the cell in a relay mechanism.
+#### Septation and cytokinesis
+- In cytokinesis cell elongation and septum formation must occur Requires:
 - Termination of DNA replication
-- A number of regulatory and
-functional proteins
+- A number of regulatory and functional proteins
     - Septum formation and constriction
     - New cell wall synthesis
-    - Final cytokinesis to give two daughter
-cells
-https://youtu.be/IzKoIp08Pa4?si=aSpozP3kMJEf
-h70r
-Septation and cytokinesis
-- Septation occurs through formation of the Z
-ring - divides cell by constriction
-    - Formed from FtsZ     - tubulin homologue
-    - Attaches to the plasma membrane and cell
-wall
+    - Final cytokinesis to give two daughtercells
+- Septation occurs through formation of the Z ring 
+    - divides cell by constriction
+        - Formed from FtsZ
+            - tubulin homologue
+        - Attaches to the plasma membrane and cell wall
     - Constriction forms the septum
     - Must be formed for division to occur
-    - Z ring formation regulated and occurs only in
-the centre due to MinC,D,E proteins -
-antagonistic
-    - Depolymerisation of Z ring = constriction of
-cell
-Mechanisms to Establish the Site of
-Septum Formation. The Min system (blue)
-oscillates between the poles to prevent FtsZ
-polymerization at the poles. Nucleoid (green)
-occlusion prevents Z-ring formation until the
-two nucleoids have separated. Both
-mechanisms restrict Z-ring formation to the
-center of the cell.
-Septation and cytokinesis
-Cross-sectional View of
-a Dividing Bacterial Cell.
-FtsZ filaments attach to
-the plasma membrane
-through anchoring
-proteins FtsA and ZipA,
-which also coordinate the
-enzymes that synthesize
-and remodel
-peptidoglycan in the
-developing septum.
-ZapA and ZapB link the Z-
-ring to the chromosome
-replication terminus (ter)
-to ensure that septum
-constriction follows
-replication.
-Septation and cytokinesis
-- Requires the break down and rebuilding of the peptidoglycan cell
-wall
-- Site of cell wall synthesis differs between morphological
-types
-    - G +ve cocci     - one or few growth zones along centre
-    - G     -ve rods     - Synthesis occurs at site of septation and along cell length
+    - Z ring formation regulated and occurs only in the centre due to MinC,D,E proteins - antagonistic
+    - Depolymerisation of Z ring = constriction of cell
+Mechanisms to Establish the Site of Septum Formation. The Min system (blue) oscillates between the poles to prevent FtsZ polymerization at the poles. Nucleoid (green) occlusion prevents Z-ring formation until the two nucleoids have separated. Both mechanisms restrict Z-ring formation to the center of the cell.
+
+Cross-sectional View of a Dividing Bacterial Cell.
+FtsZ filaments attach to the plasma membrane through anchoring proteins FtsA and ZipA, which also coordinate the enzymes that synthesize and remodel peptidoglycan in the developing septum.
+ZapA and ZapB link the Z- ring to the chromosome replication terminus (ter) to ensure that septum constriction follows replication.
+
+- Requires the break down and rebuilding of the peptidoglycan cell wall
+- Site of cell wall synthesis differs between morphological types
+    - Gram Positive cocci     - one or few growth zones along centre
+    - Gram Negative ve rods     - Synthesis occurs at site of septation and along cell length
 Areas of cell wall synthesis in cocci and rod shaped bacterial species
-Peptidoglycan extension
+
+#### Peptidoglycan extension
 - Occurs in 3 stages utilising 3 different enzyme systems
 - Allows synthesis without any gaps (autolysis)
-1. Autolysins - break the glycosidic bonds between
-the peptidoglycan monomers and break peptide
-cross-bridges- create small holes in cell wall
-2. Transglycosidase - enzymes insert and link new
-peptidoglycan monomers into the breaks in the
-peptidoglycan
-3. Transpeptidase - enzymes reform the peptide
-cross-links between the rows and layers of
-peptidoglycan.
-Peptidoglycan
-structure
-Hydrophobic Lipid
-carrier molecule
-Penicillin target
-(Penicillin Binding Proteins)
-Summary
-- Number of events must occur for growth and
-division in bacterial cells
-    - Chromosome replication and partitioning, Z ring formation
-and septation and cell wall synthesis     - cytokinesis
-- Chromosome replication is bidirectional and semi-
-conservative     - enzyme systems in replisome.
-- Septation requires Z ring formation     - complex protein
-and enzyme system
-- New cell wall is produced and inserted to allow
-cytokinesis     - autolysins, transglycosidases,
-transpeptidases.
+1. Autolysins - break the glycosidic bonds between the peptidoglycan monomers and break peptide cross-bridges- create small holes in cell wall
+2. Transglycosidase - enzymes insert and link new peptidoglycan monomers into the breaks in the peptidoglycan
+3. Transpeptidase - enzymes reform the peptide cross-links between the rows and layers of peptidoglycan.
+#### Peptidoglycan structure
+Hydrophobic Lipid carrier molecule
+Penicillin target (Penicillin Binding Proteins) 
 
-Bacterial Temperature Stress
-Growth Temperature
-- Growth will only occur where water
-exists as a liquid
+Summary
+- Number of events must occur for growth and division in bacterial cells
+    - Chromosome replication and partitioning, Z ring formation and septation and cell wall synthesis     
+        -  cytokinesis
+- Chromosome replication is bidirectional and semi-conservative     
+	- enzyme systems in replisome.
+- Septation requires Z ring formation     
+	- complex protein and enzyme system
+- New cell wall is produced and inserted to allow cytokinesis     - autolysins, transglycosidases, transpeptidases.
+
+### Bacterial Temperature Stress
+#### Growth Temperature
+- Growth will only occur where water exists as a liquid
 - 0oC to 100oC
 - ice to steam
 - Exceptions
@@ -3060,285 +2820,114 @@ exists as a liquid
 - Polar sea bed
 - +300oC
 - Deep sea thermal vents
-- Extremophiles in hot water     - YouTube
+- Extremophiles in hot water    
 Polar Sea Floor
 Submarine Hydrothermal Vents
-Black smokers, the hottest
-deep sea thermal vents, can
-reach 270-380 oC.
-The super-hot water laced
-with hydrogen sulfide and
-other minerals spews out of
-cracks in the earth's crust
-Other hot environments
-Effect of Temperature on Growth
-- Microbes cannot moderate their
-internal temperature
+Black smokers, the hottest deep sea thermal vents, can reach 270-380 oC.
+The super-hot water laced with hydrogen sulfide andvother minerals spews out of cracks in the earth's crust
+Other hot environments Effect of Temperature on Growth
+- Microbes cannot moderate their internal temperature
 - Temperature affects rates of:-
-- Chemical reactions
-- Rate increases 3 to 4 times for every 10oC rise in
-temperature.
-- Enzyme reactions and Growth rate
+	- Chemical reactions
+	- Rate increases 3 to 4 times for every 10oC rise in temperature.
+	- Enzyme reactions and Growth rate
 - Too low or too high temperature inhibits rates.
-- Due to effect of temperature on structure of
-macromolecules
-ORGANISM GROUP TEMPERATURE LIMIT OC
-Fish 38
-Insects 45-50
-Crustaceans 49-50
-Vascular plants 45
-Mosses 50
-Protozoa 56
-Algae 55-60
-Fungi 60-62
-Oxygenic photosynthetic
-bacteria Cyanobacteria 70-73
-Other photosynthetic bacteria
-(anaerobic) 70-73
-Heterotrophic bacteria (use
-organic nutrients) 95
-Methane-producing bacteria >110
-Sulfur-dependent bacteria >115
-Temperature Growth Ranges
-Effect of temperature on growth rate
-Temperature
-Growth
-rate
-Enzyme reactions very slow,
-membrane gelled, transport
-very slow, growth stops
+- Due to effect of temperature on structure of macromolecules
+
+Growth rate Enzyme reactions very slow, membrane gelled, transport very slow, growth stops
 Minimum Maximum
-Membrane
-phospholipids melt,
-thermal lysis, proteins
-denatured, cell death
+Membrane phospholipids melt, thermal lysis, proteins denatured, cell death
 Optimum
-Enzyme reactions at highest
-possible rate, maximum growth rate
-Enzyme
-reactions and
-growth rate
-show linear
-progression
-Cardinal Temperatures
-Effect of temperature on growth rate.
-Temperature classifications
-Growth
-rate
-10 20 30 40 50 60 70 80 90 100 110 120
-Temperature OC
-0
+Enzyme reactions at highest possible rate, maximum growth rate
+Enzyme reactions and growth rate show linear progression
 Psychrophile
 Mesophile
 Thermophile
 Hyperthermophiles
-38
-12
-60 89 105
-Effect of High Temperatures on Micro-
-organisms
+Effect of High Temperatures on Micro-organisms
 - High is a relative term
-- 30°C is HIGH for psychrophiles but LOW for
-thermophiles
-- 70 °C is HIGH for mesophiles but LOW for
-hyperthermophiles
-- High is a temperature significantly
-above the Optimum of an organism.
-- Most examples in textbooks refer to
-mesophiles
+- 30°C is HIGH for psychrophiles but LOW for thermophiles
+- 70 °C is HIGH for mesophiles but LOW for hyperthermophiles
+- High is a temperature significantly above the Optimum of an organism.
+- Most examples in textbooks refer to mesophiles
 Effect of Temperature
 - Depends on
 - Actual temperature
 - Time of exposure to the temperature
 - Nature or state of the microorganism
 - 70°C for 10 min
-- Lethal for vegetative cells, but not
-endospores
+- Lethal for vegetative cells, but not endospores
 - 100 ° C for 120 min
 - Lethal for most endospores
-Wet heat more effective than dry heat
-on microbial kill
-Temperature Ti m e for 1 0 0 % kill
-S t e a m 121O C 15 minutes
-D r y heat (hot air
-oven) 120O C 8 hours
-D r y heat (hot air
-oven) 160O C 2 hours
+Wet heat more effective than dry heat on microbial kill
+Temperature Time for 100% kill
+Steam 121O C 15 minutes
+Dry heat (hot air oven) 120O C 8 hours
+Dry heat (hot air oven) 160O C 2 hours
 Thermal Death of Bacteria
-- Bacterial population exposed to
-lethal temperature will die.
-- Numbers decrease exponentially
-with duration of exposure.
-- The higher the temperature the less
-time taken to kill the population.
+- Bacterial population exposed to lethal temperature will die.
+- Numbers decrease exponentially with duration of exposure.
+- The higher the temperature the less time taken to kill the population.
 Thermal death
-106 cfu/ml
-Heat X°C
-5 mins
-Remove 1ml
-& plate count
-Remove 1ml
-& plate count
-Remove 1ml
-& plate count
-Heat for
-further 5 mins
-Heat for
-further 5 mins
-Count survivors Count survivors Count survivors
-No survivors at intervals after heating
-culture at fixed temperature
-Time of heat
-(min)
-Number killed Number
-surviving
-Log10
-surviving
-0 0 1 000 000 (106) 6
-5 900 000 100 000 (105) 5
-10 990 000 10 000 (104) 4
-15 999 000 1000 (103) 3
-20 999 900 100 (102) 2
-25 999 990 10 (101) 1
-30 999 999 1 (100) 0
-35 999 999.9 0.01 (10-1) -1
-40 999 999.99 0.01 (10-2) -2
-Decimal Reduction Time -
-12
-11
-10
-9
-8
-7
-6
-5
-4
-3
-2
-1
-0
-0 6
-Log viable cells/ml
-2 4
+
 Dexposure time (minutes)
-- Time taken for
-population to decrease
-by a factor of 10
-- From log10 8.0 to log10
-7.0
+- Time taken for population to decrease by a factor of 10
+- From log10 8.0 to log10 7.0
 - 1.3 min to 1.8 min
 - D= 0.5 min.
-- Every 0.5 min the
-population decreases by
-a factor of 10.
+- Every 0.5 min the population decreases by a factor of 10.
 - Targets - several possibilities
 - Proteins
-- loss of quarternary, tertiary and secondary
-structure - denaturation
+- loss of quarternary, tertiary and secondary structure - denaturation
 - Cell walls
-- peptidoglycan, lipopolysaccharide and teichoic
-acids heat resistant
+- peptidoglycan, lipopolysaccharide and teichoic acids heat resistant
 - DNA / RNA
 - Denaturation reversible
 - Cell membranes
-- membrane lipids melt and lose function, loss of
-essential metabolites
+- membrane lipids melt and lose function, loss of essential metabolites
 Effect of temperature on cell
-- Fluidity of Phospholipid membranes
-fatty acid side chains of the- Determined by
-phospholipids
-- The fluidity of the fatty
-acid is influenced by
-- 1 Saturation
-- 2 Chain length
-- 3 Branching
-- 4 Cyclicization
-Effect of temperature on cell
-membrane
+- Fluidity of Phospholipid membranes fatty acid side chains of the- Determined by phospholipids
+- The fluidity of the fatty acid is influenced by
+1) Saturation
+2) Chain length
+3) Branching
+4) Cyclicization
+Effect of temperature on cell membrane
 Properties of bacterial fatty acids from
 Psychrophiles and Thermophiles
 Psychrophiles
-low
--
-- 1 Saturation
-- 2 Chain length
-- 3 Branching
-- 4 Cyclicization
-short
-low
-low
-Thermophiles
-high
-long
-high
-high
-- Mesophiles use these properties to adapt to
-moderate changes in temperature
+
+1) Saturation
+2) Chain length
+3) Branching
+4) Cyclicization
+
+- Mesophiles use these properties to adapt to moderate changes in temperature
 - For example
-- Saturated fatty acids form more hydrophobic
-domains leading to a more stable membrane
-that resists melting at high temperature.
-Changes in bacterial membrane fatty acids in
-response to moderate changes in growth
-temperature
+- Saturated fatty acids form more hydrophobic domains leading to a more stable membrane that resists melting at high temperature.
+Changes in bacterial membrane fatty acids in response to moderate changes in growth temperature
 F.A. Property Temp. rise Temp. fall
-1 Saturation
-2 Chain length
-3 Branching
-4 Cyclicization
-Increase
-Increase
-Increase
-Increase
-Decrease
-Decrease
-Decrease
-Decrease
-Melting due to increased
-temperature
-counterbalanced by
-increase in rigidity due
-to fatty acid changes
-Membrane gelling due to
-decreased temperature
-counterbalanced by increase
-in fluidity due to fatty acid
-changes
-In both cases end result is to maintain
-membrane fluidity at optimum for
-integrity and function
+1) Saturation
+2) Chain length
+3) Branching
+4) Cyclicization
+
+Melting due to increased temperature counterbalanced by increase in rigidity due to fatty acid changes
+Membrane gelling due to decreased temperature counterbalanced by increase in fluidity due to fatty acid changes
+In both cases end result is to maintain membrane fluidity at optimum for integrity and function
 Saturated
 Unsaturated
-Effect of growth temperature on the fatty
-acid side chains of Escherichia coli
-Total
-Fatty
-Acid %
-40%
-20%
-10OC 40OCGrowth Temperature
-2 4 6
-1
-2
-3
-2 4 6
-1
-2
-3
-Changes in ratio of C18 to C16 fatty acid
-chain length in response to growth
-temperature
+Effect of growth temperature on the fatty acid side chains of Escherichia coli
+
+Changes in ratio of C18 to C16 fatty acid chain length in response to growth temperature
 Time (h)
 Temp reduced Temp increased
 Adaptation to high temperature
 - Non phospholipid membranes
 - Hyperthermophiles - Archaea
-- Major membrane lipid is a C40 biphytanyl
-polymer that forms a lipid monolayer
-membrane.
-- See Brock Section 17.12
-Archaeal cell membrane -
-highly adapted
+- Major membrane lipid is a C40 biphytanyl polymer that forms a lipid monolayer membrane.
+
+Archaeal cell membrane - highly adapted
 Archaeal cell membrane
 Bacterial cell membrane
 Archaeal cell membrane
@@ -3346,64 +2935,50 @@ Archaeal cell membrane
 - Bacteria have D-glycerol
 - Ether linkage of side-chain to glycerol
 - Bacteria have Ester linkage
-- Side-chain consists of repeating isoprene
-units (5C), Phytanyl (20C), Biphytanyl (40C)
+- Side-chain consists of repeating isoprene units (5C), Phytanyl (20C), Biphytanyl (40C)
 - Bacterial consists of fatty acids (16-18C)
 - Archaea have branching side chains
 - Bacterial are non-branching
 Effect of temperature on proteins
 - Mesophilic proteins
 - 50OC-60OC
-- disruption of non covalent associations
-resulting in breakdown into subunits
+- disruption of non covalent associations resulting in breakdown into subunits
 - denaturation begins
 - 80OC and over
 - irreversible denaturation
 - breaking of disulphide bonds
-- deamination of glutamine and asparagine side
-chains
+- deamination of glutamine and asparagine side chains
 - hydrolysis of peptide bonds
 Effect of temperature on proteins
 - Thermostable proteins
 - >100OC for several days, in dilute buffer.
-- None of the changes seen with mesophilic
-proteins occur - WHY?
+- None of the changes seen with mesophilic proteins occur - WHY?
 - Primary structures are slightly different
-- Amino acid sequences show 95% to 85%
-homology with equivalent mesophilic
-proteins.
-- These small differences allow proteins to
-fold into more thermostable forms
+- Amino acid sequences show 95% to 85% homology with equivalent mesophilic proteins.
+- These small differences allow proteins to fold into more thermostable forms
 Thermostable Proteins
 - Adaptations include:
 - longer alpha helix regions
 - triple stranded beta sheets
-- increased ionic interactions between amino acid
-side chains (H & non-covalent bonds)
+- increased ionic interactions between amino acid side chains (H & non-covalent bonds)
 - larger quantities of aa like proline
 - tighter folding
 - due to more hydrophobic core
 - reduces surface area to volume ratio.
-Not ALL proteins from Thermophiles are
-thermostable
+Not ALL proteins from Thermophiles are thermostable
 - High turnover rate
-- Protein synthesis is very fast to replace
-damaged protein
+- Protein synthesis is very fast to replace damaged protein
 - Chaperones help refold damaged proteins
 - DNA has higher melting point
 - Polymerases are heatstable
 - e.g. Taq polymerase
 Chaperones
-- a.k.a. Heat shock
-proteins
+- a.k.a. Heat shock proteins
 - DnaK, DnaJ, Grp E, GroEL, GroES
 - Recognise unfolded proteins
-- Prevent or reverse incorrect
-folding
-- ↑ when cells exposed to high
-temp
-- Also protect against other
-stresses
+- Prevent or reverse incorrect folding
+- ↑ when cells exposed to high temp
+- Also protect against other stresses
 - Taq Polymerase
 - Polymerase Chain Reaction (PCR)
 - Temperature cycles from 63OC to 95OC
@@ -3413,62 +2988,41 @@ Thermus aquaticus
 Ext emophiles
 Thermus aquaticus Polymerase Chain Reaction (PCR)
 Pyrococcus furiosus, r
-Thermococcus
-species
-Thermotoga species Glucose to fructose conversion, oil
-& gas recovery, PCR
-Bioremediation; removal of metals
-from waste streams
+Thermococcus species
+Thermotoga species Glucose to fructose conversion, oil & gas recovery, PCR
+Bioremediation; removal of metals from waste streams
 Converts cornstarch to sugar
-Methanococcus
-species
-Acidothermus
-celluloyticus
-Clostridium Converts cornstarch into natural
-thermoautotrophicum road de-icer
-Thermoanaerobium
-brockii
-Thermoanerobacter
-ethanolicus
-Produces enzyme used to make
-perfume, lactic acid
+Methanococcus species
+Acidothermus celluloyticus
+Clostridium Converts cornstarch into natural thermoautotrophicum road de-icer
+Thermoanaerobium brockii
+Thermoanerobacter ethanolicus
+Produces enzyme used to make perfume, lactic acid
 Converts cellulose into ethanol
 Effects of Freezing
-- What happens when you freeze a
-solution?
+- What happens when you freeze a solution?
 - Water freezes forming ice crystals
-- As water turns to ice concentration of cell
-contents rises
+- As water turns to ice concentration of cell contents rises
 - What happens to the Aw?
 - The Aw falls
 - What happens in cells?
 - Ice expands volume ruptures cell
 - Creates shear forces that disrupt the cell
-- Cell death due to combination of
-mechanical damage and low Aw.
+- Cell death due to combination of mechanical damage and low Aw.
 Cold Osmotic Shock (COS)
-- Dilute cell suspension from isotonic medium at
-37OC into 100 volumes of ice cold hypotonic
-diluent.
-- e.g. 1.0 ml of broth culture at 37OC added to 99.0 ml
-sterile distilled water at 0OC.
-- Rapid loss of viability: 99.999% in 5 to 10 minutes.
-Protection against loss of viability
+- Dilute cell suspension from isotonic medium at 37OC into 100 volumes of ice cold hypotonic diluent.
+- e.g. 1.0 ml of broth culture at 37OC added to 99.0 ml sterile distilled water at 0OC.
+- Rapid loss of viability: 99.999% in 5 to 10 minutes. Protection against loss of viability
 - Use of cryoprotectants
 - Examples include:Glycerol, skimmed milk, DMSO
 - Hydrate in solutions & weaken crystallization
 - Enter cell and balance osmotic pressure &
-- Relieve shrinkage & swelling damage during
-freezing & thawing.
+- Relieve shrinkage & swelling damage during freezing & thawing.
 
 Cold Environment
-- Thermal inactivation of enzymes faster than
-rates of activation
-- Inadequate O2 supply to meet metabolic
-demands
-- Different temperature effects on
-interdependent metabolic reactions
-(“reaction uncoupling”)
+- Thermal inactivation of enzymes faster than rates of activation
+- Inadequate O2 supply to meet metabolic demands
+- Different temperature effects on interdependent metabolic reactions (“reaction uncoupling”)
 - Membrane structure alterations
 - Freezing
 Freezing
@@ -3478,34 +3032,26 @@ Freezing
     - Reduced molecular mobility
 - Structural disruption of enzymes
 - Mechanical disruption of cell membranes
-- Osmotic dehydration due to freezing of
-extracellular water
-    - Most important factor
+- Osmotic dehydration due to freezing of extracellular water
+   - Most important factor
 Ectotherms in Cold Environments
 1. Regional heterothermy:
-- different temperatures
-in different parts of body
-(e.g., tuna, sharks)
-- Counter-current
-exchange through rete
-mirabilia
-2. Supercooling:
+- different temperatures in different parts of body (e.g., tuna, sharks)
+- Counter-current exchange through rete mirabilia
+1. Supercooling:
 - water in body cooled to below freezing
-- No ice formation at bottom of large water
-bodies
+- No ice formation at bottom of large water bodies
 - Example: deep water fish of Hebron Fjord
 - super-cool (-1.5 °C)
 - Lack of nucleating agents prevent freezing
-- Enhanced by addition of solutes to aqueous
-solution
+- Enhanced by addition of solutes to aqueous solution
 - ↑ [solutes], ↓ freezing point
 Freezing point depression e.g. insects:
 - Produce high levels of glycerol
 - Lowers freezing point
 - Willow gallfly larvae can supercool to     -60 °C
 1. Anti-freeze in blood:
-- Surface dwelling fish of Hebron Fjord produce
-glycoproteins & polypeptides
+- Surface dwelling fish of Hebron Fjord produce glycoproteins & polypeptides
 Ectotherms in Cold Environments
 Ectotherms in Cold Environments
 4. Freeze tolerance: formation of ice in extracellular fluid:
@@ -3532,108 +3078,75 @@ Thermoregulation
 - Hibernation &Torpor
 - Alterations in Body Size & Metabolism
 - Appendages
-- Regional heterothermy, coloration,
-counter-current heat exchange
+- Regional heterothermy, coloration, counter-current heat exchange
 Endotherms in Cold Environments
 5. Thermogenesis:
 - Shivering:
-- brief contractions of antagonistic muscle groups produces heat
-without motion
+- brief contractions of antagonistic muscle groups produces heat without motion
 - Non-shivering thermogenesis:
-- fat metabolized to produce heat; regulated by sympathetic nervous
-system
-6. Insulation:
+- fat metabolized to produce heat; regulated by sympathetic nervous system
+1. Insulation:
 - Hair, feathers;
 - Pilomotor control
 - Shedding/moulting allows seasonal changes
 - Blubber
 - Metabolically inactive
 - Vasoconstriction reduces heat loss
-1. Migration: seasonal long distance movements (e.g.,
-gray whale)
+1. Migration: seasonal long distance movements (e.g., gray whale)
 - Spend summer at polar ice caps eating krill
 - Store energy as blubber
 - Spend winter in tropics; females bear & nurse young
 1. Torpor: adaptive hypothermia (e.g. chickadees)
-- Fat stores accumulated during day supply energy for
-cold nights
+- Fat stores accumulated during day supply energy for cold nights
 - Stored fat not enough to survive night without torpor
 Endotherms in Cold Environments
 Hypothermia
-- Animal turns down
-metabolism -> cooling
-- Wake from hypothermia
-occassionally during
-hibernation
-- Can thermoregulate if
-temperatures fall to levels
-too low
+- Animal turns down metabolism -> cooling
+- Wake from hypothermia occassionally during hibernation
+- Can thermoregulate if temperatures fall to levels too low
 - Prepare: fat storage
 - Mammals
-- Rare in birds but some
-examples
+- Rare in birds but some examples
 Controlled hypothermia
-Temp decreases but not to
-ambient temperature:
-- Black-capped Chickadee:
-temperature decrease by 7oC
-- Conserves up to 25% of
-energy
-- Bear: temperatures decrease
-to 31-33oC
+Temp decreases but not to ambient temperature:
+- Black-capped Chickadee: temperature decrease by 7oC
+- Conserves up to 25% of energy
+- Bear: temperatures decrease to 31-33oC
 - Not “true” hibernation
 - = winter sleep
-Temperature Regulation in Cold Environments…A
-cooler look!
+Temperature Regulation in Cold Environments
 Option 1     - Controlled Hypothermia (Dormancy or
 Torpor):
 Hibernation: In winter
 - Animal lowers body temperature a significant amount:
 - temperature remains at lower level for several days
-- Some animals store energy as body fat to survive
-hibernation period, others store food
+- Some animals store energy as body fat to survive hibernation period, others store food
 - Animals wake up periodically.
-- Those that store food do eat food during periods of
-wakefulness.
+- Those that store food do eat food during periods of wakefulness.
 - Smaller mammals: longer periods at low body temperature
-- Males enter hibernation earlier than females & terminate
-hibernation earlier than females
+- Males enter hibernation earlier than females & terminate hibernation earlier than females
 Winter Sleep:
 - Some Carnivora, e.g.
 Bears, raccoons, badgers
-- Body temperature only
-decreased by 5-6 C
-- animals store large
-amounts of body fat so
-can maintain higher
-metabolic rates during
-winter & live off fat stores
+- Body temperature only decreased by 5-6 C
+- animals store large amounts of body fat so can maintain higher metabolic rates during winter & live off fat stores
 Daily Torpor
-- significant decrease in body
-temperature for part of day
-- decrease occurs during normal
-sleep time
+- significant decrease in body temperature for part of day
+- decrease occurs during normal sleep time
 - may occur on consecutive days
-- Decrease in T not as great as in
-hibernators
+- Decrease in T not as great as in hibernators
 - usually to about 15 C
 Thermoregulation in Cold Environments
 Hibernation     - Estivation     - Daily torpor Cycle
-- A means to escape the
-demands of homeothermy
-    - Torpor
-    - Controlled hypothermia
-- Body temperature falls to
-close to approximate
-ambient temperatures
-- During winter ->
-hibernation
+- A means to escape the demands of homeothermy
+- Torpor
+- Controlled hypothermia
+- Body temperature falls to close to approximate ambient temperatures
+- During winter → hibernation
 - During summer -> estivation
-- During certain part of day ->
-daily torpor
+- During certain part of day → daily torpor
 Option 2 - Body Size and Metabolism:
-- Bergmann’s Rule     -mammals from colder climates tend to be
-larger than similar/same species from warmer climates
+- Bergmann’s Rule     -mammals from colder climates tend to be larger than similar/same species from warmer climates
 - Surface to Volume ratios
 - Body mass may change seasonally
 - Consequences of long thin shape
@@ -3643,40 +3156,32 @@ Option 3 - Insulation Changes:
 - Increase in thickness of fur
 - Increase in thickness of subcutaneous fat layer
 - Increase in insulation decreases Lower Critical Temperature
-- Upper Critical Temperature may also be lowered
-e.g. Arctic fox:
-- LCT of     -40C in winter; decreased need for food in a cold
-environment
+- Upper Critical Temperature may also be lowered e.g. Arctic fox:
+- LCT of     -40C in winter; decreased need for food in a cold environment
 Thermoregulation in Cold Environments
 Arctic Fox (summer)Arctic Fox (winter)
 Option 4     - Appendages:
-- Allen’s Rule     - Appendages of mammals in colder environments
-are shorter than those of animals of same species found in
-warmer climates
+- Allen’s Rule     - Appendages of mammals in colder environments are shorter than those of animals of same species found in warmer climates
 - Regional Heterothermy & Countercurrent heat exchange:
 - Found in nose, legs, tails, ears, flipper of marine mammals
 Thermoregulation in Cold Environments
 Option 5     - Coloration:
-- Gloger’s rule: species in warm and humid areas are more
-heavily pigmented than those in cool and dry areas
+- Gloger’s rule: species in warm and humid areas are more heavily pigmented than those in cool and dry areas
 - Color change in some mammals
-- White coloration in many arctic mammals; a thermal
-advantage?
+- White coloration in many arctic mammals; a thermal advantage?
 Thermoregulation in Cold Environments
 Arctic Fox (summer)Arctic Fox (winter)
 Option 6 - Modification of
 Microclimates:
 - Nest building
 - Huddling behavior
-- Both conserve body heat by
-increasing insulation
+- Both conserve body heat by increasing insulation
 Option 7 - An Increase in
 Thermogenic Capacity:
 - Non-shivering Thermogenesis
 - Brown Fat: rich in mitochondria
 - Stimulated by Norepinephrine
-- Heat production rather than ATP
-production
+- Heat production rather than ATP production
 Thermoregulation in Cold Environments
 Cold Environment: links
 - Life in the Freezer Clips
@@ -3684,131 +3189,79 @@ Cold Environment: links
 - Hibernation & Torpor
 - Snow Leopards
 - Arctic Fox Hunting in Winter
-Learning Outcomes
-- What is “heat” & “temperature”?
-- Types of Thermoregulation
-- Metabolism
-- Importance of body shape/colouration
-- Hot environments: adaptations
-- Cold environments: adaptations
 
 Thermoregulation
-Arctic Fox
-Fennec Fox
-Snow Leopard
-African Leopard
-Desert Hare
-European
-Hare
-Learning Outcomes
-- What is “heat” & “temperature”?
-- Types of Thermoregulation
-- Metabolism
-- Importance of body shape/colouration
-- Hot environments: adaptations
-- Cold environments: adaptations
 Temperature & Heat
 Temperature:
-- measure of intensity
-of molecular
-movement within an
-object
+- measure of intensity of molecular movement within an object
 Heat:
 - form of energy due to
-- motion of atoms
-forming object
-- amount of heat
-depends on size of
-object as well as
-temperature
+- motion of atoms forming object
+- amount of heat depends on size of object as well as temperature
 Heat:
-- moves by conduction or
-convection
+- moves by conduction or convection
 - from high to low temperatures
-- transfer of heat raises
-temperature of object receiving
-heat & vice versa
+- transfer of heat raises temperature of object receiving heat & vice versa
 Thermal equilibrium:
 - temperatures are same
 Heat transfer between animals & the environment
 Thermoregulation
 Homeotherms use :
 - Environment
-- Vascular & metabolic
-adaptations
+- Vascular & metabolic adaptations
 - Shivering & sweating
 Cold-blooded animals:
 - change environmental exposure
-Mechanisms of thermoregulation
-Climate Ectotherm Endotherm
-Hot Localized Vasodilation
-Avoidance
-Change orientation
-Retain urine
-Evaporative cooling
-Relax homeostasis
-Avoidance
-Estivation
-Cold Regional heterothermy
-Supercooling
-Antifreeze in blood
-Freeze tolerance
-Shivering
-Insulation
-Migration
-Torpor
+- Mechanisms of thermoregulation
+- Climate Ectotherm Endotherm
+- Hot Localized Vasodilation
+- Avoidance
+- Change orientation
+- Retain urine
+- Evaporative cooling
+- Relax homeostasis
+- Avoidance
+- Estivation
+- Cold Regional heterothermy
+- Supercooling
+- Antifreeze in blood
+- Freeze tolerance
+- Shivering
+- Insulation
+- Migration
+- Torpor
 Controlling body temperature
-- Animals with large surface area compared to their
-volume will lose heat faster than animals with small
-surface area
+- Animals with large surface area compared to their volume will lose heat faster than animals with small surface area
 Poikilothermy - Ectothermy
 - Most common
 - all invertebrates
 - many vertebrates
-- animal’s body temperature
-varies with environment
+- animal’s body temperature varies with environment
 Terrestrial animals:
-- can adjust body temperature
-with behaviour (basking in sun,
-resting underground etc.)
+- can adjust body temperature with behaviour (basking in sun resting underground etc.)
 Eurythermal:
-- function over wide range of
-temp
+- function over wide range of temp
 Stenothermal:
-- function over narrow range of
-temp
+- function over narrow range of temp
 Metabolic Rate:
-- Rate that an animal consumes
-chemical energy
-- heat energy released, O2
-consumed, or CO2 produced
+- Rate that an animal consumes chemical energy
+- heat energy released, O2 consumed, or CO2 produced
 Basal Metabolic Rate (BMR):
-- Metabolic rate at rest with no
-temperature stress or digestion
-occurring
+- Metabolic rate at rest with no temperature stress or digestion occurring
 Basic functioning of vital organs:
-- liver (27%), brain (19%), muscles
-(18%), kidneys (10%), heart (7%)
+- liver (27%), brain (19%), muscles (18%), kidneys (10%), heart (7%)
 Thermoregulation
 Thermoneutral zone:
-- range of ambient
-temperatures where BMR
-maintained
+- range of ambient temperatures where BMR maintained
 Lower critical temperature:
-- animal must increase
-metabolic heat production
-to maintain temperature
+- animal must increase metabolic heat production to maintain temperature
 Upper critical temperature:
-- animal must use
-evaporative heat loss to
-maintain temperature
+- animal must use evaporative heat loss to maintain temperature
 Lower lethal temperature:
-- heat loss to environment >
-metabolic heat production
+- heat loss to environment > metabolic heat production
 Upper lethal temperature:
 - heat gain from environment >  evaporative cooling
-Metabolic rate &
-Thermoregulation
+Metabolic rate & Thermoregulation
 Regulating Body Temperature in Humans
 Ectotherm vs Endotherm
 - Thin, long body
@@ -3816,584 +3269,208 @@ Ectotherm vs Endotherm
 - Large ears
 - Large SA to Volume Ratio
 - Why?
-Body shape: Hot Environments
+Body shape: 
+Hot Environments
 Heat production
 - Metabolism
 - Shivering
-- Non-shivering
-thermogenesis:
-brown fat
-Mammals & birds in hot
-environments
+- Non-shivering thermogenesis: brown fat
+Mammals & birds in hot environments
 - Behavioral defenses
 - Insulation
-- Body reactions, e.g.
-panting, increased resp.
-rate
+- Body reactions, e.g. panting, increased resp. rate
 - Regional heterothermy
-- Countercurrent
-exchange
-- Evaporation: costly
-->
-loss of water: ultimate
-line of defense
-Temperature Regulation in Hot
-Environments
-Options:Maintain constant
-body temperature
+- Countercurrent exchange
+- Evaporation: costly → loss of water: ultimate line of defense
+Temperature Regulation in Hot Environments 
+Options: 
+Maintain constant body temperature
 Require
-“evaporative
-cooling”:
+“evaporative cooling”:
 - Sweating
 - Panting
 - Saliva
-Spreading, e.g.
-Cat
--Allow body temperature to increase
+Spreading, e.g. Cat
+- Allow body temperature to increase
 - animal becomes hyperthermic
--uses controlled hyperthermia
-e.g. Camel:
--Thick fur on top of body: shade
--Thin fur elsewhere: easy heat loss
--Large surface area to volume
-ratio: maximises heat loss
--Can go for a long time without water: lose
-little through urination sweating
--Can tolerate body temperatures up to 42°C.
--Slit-like nostrils & two rows of eyelashes:
-keep the sand out
-What mechanisms are there to cool the
-body down?
+ - uses controlled hyperthermia e.g. Camel:
+- Thick fur on top of body: shade
+- Thin fur elsewhere: easy heat loss
+- Large surface area to volume ratio: maximises heat loss
+- Can go for a long time without water: lose little through urination sweating
+- Can tolerate body temperatures up to 42°C.
+- Slit-like nostrils & two rows of eyelashes: keep the sand out
+What mechanisms are there to cool the body down?
 Sweating:
-- Evaporation of water
-from surface of skin to
-cool body
-- Electrolytes also lost in
-sweat
+- Evaporation of water from surface of skin to cool body
+- Electrolytes also lost in sweat
 Panting
 - Rapid, shallow breathing
-- Evaporates water from upper
-respiratory tract
-- Used by many carnivores &
-ungulates
-- Panting animals do not lose
-electrolytes
+- Evaporates water from upperrespiratory tract
+- Used by many carnivores & ungulates
+- Panting animals do not lose electrolytes
 Endothermy in Insects
-- At rest, not enough heat produced
-to warm up insect
-- Heat usually produced by flight
-muscles
-- Higher temperature, more efficient
-flying -> more energy & heat
-produced
+- At rest, not enough heat produced to warm up insect
+- Heat usually produced by flight muscles
+- Higher temperature, more efficient flying -> more energy & heat produced
 Temporal & spatial heterothermy:
 - Endothermy when active only
     - thorax muscles
-    - control blood circulation from
-thorax to abdomen
-    - varying degree of body
-insulation
-    - controlling muscle activity
-e.g: bumble bee:
+    - control blood circulation from thorax to abdomen
+    - varying degree of body insulation 
+- controlling muscle activity e.g: bumble bee:
 - flight muscles used for shivering
-- warm themselves before able to fly
-(sun exposure & shivering)
+- warm themselves before able to fly (sun exposure & shivering)
 - flight maintains warmth
 Warm-bodied fishes
-- Larger predator sharks &
-tunas have muscles which
-with a higher temperature
-than body
-- Need to swim vigorously in
-order to catch fast prey
-Have:
-    - higher metabolic rate in
-these muscles -> heat
-production
-    - in order not to lose it
-through blood circulation ->
-counter-current mechanism
+- Larger predator sharks & tunas have muscles which with a higher temperature than body
+- Need to swim vigorously in order to catch fast prey
+   - higher metabolic rate in these muscles -> heat production
+   - in order not to lose it through blood circulation → counter-current mechanism
 
-1
-An introduction to tropical
-rain forests.
-2
-- European knowledge of tropical forests began
-when Alexander the Great crossed the Khyber pass
-in 327 BC, into the Punjab. ‘His army saw mangrove
-swamps (which upset their view of trees), jackfruit,
-mangoes, bananas, cotton and Banyans’.
+
+## An introduction to tropical rain forests.
+
+- European knowledge of tropical forests began when Alexander the Great crossed the Khyber pass in 327 BC, into the Punjab. ‘His army saw mangrove swamps (which upset their view of trees), jackfruit, mangoes, bananas, cotton and Banyans’.
 These amazing observations were incorporated in the
-Enquiry into plants of Theophrastus, philosopher and
-pupil of Plato and Aristotle, to become part of the general
-knowledge of plants, copied, corrupted, and not improved
-upon for nearly 2,000 years until the exploration of the
-16/17th Centuries and the subsequent colonial era!.
-3
-Figure 1: Early 19th C. etching of a tropical rain forest.Figure 1: Early 19th C. etching of a tropical rain forest.
-Source: Whitmore, 1998.Source: Whitmore, 1998.
-4
-- The word jungle, still often in use, is derived from
-the Hindi word jangal a reference to the dense
-impenetrable forest and scrub around settlements.
-- During the 20th C knowledge of rain forests
-developed in two streams.
-1) Academics continued to collect and identify and study
-the plants, animals and the forest structure. This phase of
-study was summarised with the publication of a superb
-study by P.W. Richards who summed up all studies prior
-to 1940.
-2) Colonial foresters began to delimit blocks of forest to be
-preserved from felling for agriculture, to control the use of
-forests for timber and to develop silviculture
-5
-- In recent decades, these two streams of knowledge
-have slowly merged.
-- It must also be borne in mind that apart from
-Western knowledge of tropical rain forests men have lived
-in this ecosystem for thousands of years.
-- Since the 1950s the technology to build roads, fell
-trees and clear land have made it possible to remove tropical
-rain forests at a rate that was previously unheard of!
-- The current worry is whether these forests be sustained
-in the current economic and political climate in the majority
-of tropical countries?
-6
+Enquiry into plants of Theophrastus, philosopher and pupil of Plato and Aristotle, to become part of the general knowledge of plants, copied, corrupted, and not improved upon for nearly 2,000 years until the exploration of the 16/17th Centuries and the subsequent colonial era!.
+
+- The word jungle, still often in use, is derived from the Hindi word jangal a reference to the dense impenetrable forest and scrub around settlements.
+- During the 20th C knowledge of rain forests developed in two streams.
+1) Academics continued to collect and identify and study the plants, animals and the forest structure. This phase of study was summarised with the publication of a superb study by P.W. Richards who summed up all studies prior to 1940.
+2) Colonial foresters began to delimit blocks of forest to be preserved from felling for agriculture, to control the use of forests for timber and to develop silviculture
+
+- In recent decades, these two streams of knowledge have slowly merged.
+- It must also be borne in mind that apart from Western knowledge of tropical rain forests men have lived in this ecosystem for thousands of years.
+- Since the 1950s the technology to build roads, fell trees and clear land have made it possible to remove tropical rain forests at a rate that was previously unheard of!
+- The current worry is whether these forests be sustained in the current economic and political climate in the majority of tropical countries?
+
 WHAT ARE TROPICAL RAIN FORESTS?
-- In 1898 a German botanist AFW Schimper wrote a
-classic tome (English: 1903) entitled ‘Plant geography
-upon an ecological basis’, which summarised 100 years
-of tropical exploration. It is to Schimper that we owe the
-term tropical rain forest (tropische Regenwald) for the
-forests of the permanently wet tropics.
-- Four major sorts of woody vegetation in the
-tropics:
-3) rain forests
-4) monsoon forests
-5) savanna forests
-6) thorn forests
-7
-- These groupings have since been refined into
-several subdivisions which are termed formations.
-- The various tropical rain forest formations constitute
-the most structurally complex and diverse land
-ecosystems ever to have existed on earth, with the greatest
-numbers of co-existing plant and animal species. In
-species diversity the tropical rain forests are only
-rivalled by the coral reefs.
+- In 1898 a German botanist AFW Schimper wrote a classic tome (English: 1903) entitled ‘Plant geography upon an ecological basis’, which summarised 100 years of tropical exploration. It is to Schimper that we owe the term tropical rain forest (tropische Regenwald) for the forests of the permanently wet tropics.
+- Four major sorts of woody vegetation in the tropics:
+1) rain forests
+2) monsoon forests
+3) savanna forests
+4) thorn forests
+- These groupings have since been refined into several subdivisions which are termed formations.
+- The various tropical rain forest formations constitute the most structurally complex and diverse land ecosystems ever to have existed on earth, with the greatest numbers of co-existing plant and animal species. In species diversity the tropical rain forests are only rivalled by the coral reefs.
 Climate
-- Constant high temp in which the mean temp of the
-coolest month is 18oC is one definition.
-8
-- This excludes some tropical montane forest and
-a difference of less than 5oC between the mean temp
-of the hottest and coldest months of the year is often used
-as an alternative definition.
-- Rainfall is of course the second most important
-factor, its amount and its distribution throughout the year.
-- Rain forests develop where every month is wet (with
-10cm rainfall or more), or there are only short dry periods
-which occur mainly as unpredictable spells lasting only a
-few days or weeks.
-9
-- The blanket term tropical moist forest was coined
-in 1976 to cover both rain and monsoon forests,
-Schimper’s first two great groupings which together
-comprise the tall, closed-canopy forests of the wet tropics.
-- The climate in various parts of the rain forest belt are
-shown in figure 2. (climate diagrams: devised by Walter
-and Leith, 1967)
-- Note the distinction between places within the rain
-forest belt between places with no dry season (e.g. much of
-the Indo-Malayan forests and the western Amazon), and
-those where there is a slight dry season (e.g. West Africa
-and the eastern Amazon).
-10
-Figure 2Figure 2
-Source: Whitmore, 1998.Source: Whitmore, 1998.
-11
-- Within a forest in general terms it is cool, humid and
-dark near the floor of a mature patch of forest,
-progressively altering upwards towards the canopy top.
-Different plant and animal species have become specialised
-to the various forest interior microclimates.
+- Constant high temp in which the mean temp of the coolest month is 18oC is one definition.
+
+- This excludes some tropical montane forest and a difference of less than 5oC between the mean temp of the hottest and coldest months of the year is often used as an alternative definition.
+- Rainfall is of course the second most important factor, its amount and its distribution throughout the year.
+- Rain forests develop where every month is wet (with 10cm rainfall or more), or there are only short dry periods which occur mainly as unpredictable spells lasting only a few days or weeks.
+
+- The blanket term tropical moist forest was coined in 1976 to cover both rain and monsoon forests, Schimper’s first two great groupings which together comprise the tall, closed-canopy forests of the wet tropics.
+- The climate in various parts of the rain forest belt are shown in figure 2. (climate diagrams: devised by Walter and Leith, 1967)
+- Note the distinction between places within the rain forest belt between places with no dry season (e.g. much of the Indo-Malayan forests and the western Amazon), and those where there is a slight dry season (e.g. West Africa and the eastern Amazon).
+
+- Within a forest in general terms it is cool, humid anddark near the floor of a mature patch of forest, progressively altering upwards towards the canopy top.
+Different plant and animal species have become specialised to the various forest interior microclimates.
 Occurrence of tropical rain forests
-- Tropical rain forests occur in Africa, Asia and
-America. The most extensive, about half the world total
-(4 X 106 km2) are in
-a) Amazon and Orinoco basins
-b) Across Andes on Pacific coasts of Ecuador and
-Colombia.
-c) Atlantic coast of Brazil.
-12
-Figure 3 : Bird’s eye view of a rain forest. (Malaysia)Figure 3 : Bird’s eye view of a rain forest. (Malaysia)
-Source: Whitmore.Source: Whitmore.
-13
-Figure 4 : Panorama of Malaysian rain forestFigure 4 : Panorama of Malaysian rain forest
-Source: Whitmore.Source: Whitmore.
-14
-- The second largest block is in the Eastern tropics
-(2.5 X 106 km2) and is centred on the Malay archipelago,
-the region known to botanists as ‘Malesia’.
-- Indonesia occupies most of the archipelago and is
-second only to Brazil in the amount of rain forest it
-possesses.
-- The Eastern rain forests extend beyond Malesia into
-the Pacific and southwards as a narrow broken coastal
-strip in Queensland, NE Australia (mangrove lecture).
-- The Malesian forests extend northwards up the
-Malay peninsula into continental Southeast Asia, Burma,
-Thailand, and Indo-China.
-15
-- There are also outliers, in SW Sri Lanka and
-the Western Ghats of Southern India where seasonality is
-strong.
-- Africa has the smallest block of tropical rain forest,
-1.8 X 106 km2. This is centred on the Congo basin,
-reaching from the high mountains at its Eastern limit
-westwards to the Atlantic Ocean, with outliers in East
-Africa.
-16
+- Tropical rain forests occur in Africa, Asia and America. The most extensive, about half the world total (4 X 106 km2) are in
+1) Amazon and Orinoco basins
+2) Across Andes on Pacific coasts of Ecuador and Colombia.
+3) Atlantic coast of Brazil.
+
+
+- The second largest block is in the Eastern tropics (2.5 X 106 km2) and is centred on the Malay archipelago, the region known to botanists as ‘Malesia’.
+- Indonesia occupies most of the archipelago and is second only to Brazil in the amount of rain forest it possesses.
+- The Eastern rain forests extend beyond Malesia into the Pacific and southwards as a narrow broken coastal strip in Queensland, NE Australia (mangrove lecture).
+- The Malesian forests extend northwards up the Malay peninsula into continental Southeast Asia, Burma, Thailand, and Indo-China.
+
+- There are also outliers, in SW Sri Lanka and the Western Ghats of Southern India where seasonality is strong.
+- Africa has the smallest block of tropical rain forest, 1.8 X 106 km2. This is centred on the Congo basin, reaching from the high mountains at its Eastern limit westwards to the Atlantic Ocean, with outliers in East Africa.
+
 Forest formations
-- There is considerable variation from place to place
-in the rain forest mantle due to the distinct forest
-formations.
-- A forest formation, is recognized by a particular
-combination of vegetation structure regardless of flora.
-Convergent evolution has occurred because different
-species in the three tropical land areas have evolved similar
-responses to the same environmental stimuli.
-- The forest formations occupy different physical
-habitats and these are mostly sharply bounded, where
-this is not so, there is a merging zone.
-17
-- Rain forest formations can be grouped for
-convenience according to the main physical
-characteristics of their habitats (see figure 5).
-Introduction to most common/extensive
-forest formations
+- There is considerable variation from place to place in the rain forest mantle due to the distinct forest formations.
+- A forest formation, is recognized by a particular combination of vegetation structure regardless of flora.
+Convergent evolution has occurred because different species in the three tropical land areas have evolved similar responses to the same environmental stimuli.
+- The forest formations occupy different physical habitats and these are mostly sharply bounded, where this is not so, there is a merging zone.
+
+- Rain forest formations can be grouped for convenience according to the main physical characteristics of their habitats (see figure 5).
+Introduction to most common/extensive forest formations
 Tropical lowland evergreen rain forest
 Description:
 - This is the most luxuriant of all plant communities.
-Lofty, dense 45m tall, characterised by many tree species
-which occur together.
-18
-Figure 5 : The formations of tropical moist forestsFigure 5 : The formations of tropical moist forests
-Source: Whitmore.Source: Whitmore.
-19Lowland evergreen tropical rain forest. Taiping, Malaysia.
-Source : Baldwin
-20
-Figure 6 a.Figure 6 a.
-Lowland evergreenLowland evergreen
-rain forest, Taiping,rain forest, Taiping,
-Malaysia.Malaysia.
-21
-Figure 6b. Leaf mosaic in canopy lowland evergreenFigure 6b. Leaf mosaic in canopy lowland evergreen
-rain forest (Malaysia).rain forest (Malaysia).
-22
-Figure 6c.Figure 6c.
-Buttress root systemButtress root system
-lowland evergreenlowland evergreen
-rain forest (Malaysia).rain forest (Malaysia).
-23
-Figure 6d.Figure 6d.
-Buttress root systemButtress root system
-lowland evergreenlowland evergreen
-rain forest (Malaysia).rain forest (Malaysia).
-24
-Figure 6e. Cauliflory: with fruits borne on tree trunk.Figure 6e. Cauliflory: with fruits borne on tree trunk.
-(Fig tree: Malaysia).(Fig tree: Malaysia).
-25
-Figure 7.Figure 7.
-Lowland evergreenLowland evergreen
-rain forest (Malaysia).rain forest (Malaysia).
-26
-Tropical rain forest Xishuangbanna, Yunnan, P.R. China
-Source : Baldwin.
-27
-28
-29
-30
-31
-32
-33
-34
-35
-- This formation is conventionally regarded as having
-three layers: the top layer of individual or grouped
-giant emergent tress, over a main stratum (24-36 m ) with
-smaller, shade-dwelling trees below that. Ground veg. is
-sparse. Some of the biggest trees have clear boles of 30m
-and reach 4.5m in girth and can be deciduous or semi-
-deciduous without affecting the evergreen nature of the
-canopy.
-- Boles are usually almost cylindrical, buttresses are
-common. All other rain forest formations differ from this in
-having simpler structure with less biodiversity.
-36
+Lofty, dense 45m tall, characterised by many tree species which occur together.
+
+Buttress root systemButtress root system lowland evergreenlowland evergreen rain forest (Malaysia).rain forest (Malaysia).
+
+- This formation is conventionally regarded as having three layers: the top layer of individual or grouped giant emergent tress, over a main stratum (24-36 m ) with smaller, shade-dwelling trees below that. Ground veg. is sparse. Some of the biggest trees have clear boles of 30m and reach 4.5m in girth and can be deciduous or semi- deciduous without affecting the evergreen nature of the canopy.
+- Boles are usually almost cylindrical, buttresses are common. All other rain forest formations differ from this in having simpler structure with less biodiversity.
+
 Habitat and occurrence:
-- Tropical lowland evergreen rain forest occurs in
-per humid lowland climates where water stress is
-intermittent or absent, from sea-level to 1200 m on dryland
-sites. It is the main lowland formation of the Eastern tropics.
+- Tropical lowland evergreen rain forest occurs in per humid lowland climates where water stress is intermittent or absent, from sea-level to 1200 m on dryland sites. It is the main lowland formation of the Eastern tropics.
 TROPICAL SEMI-EVERGREEN RAIN FOREST
 Description:
-- Semi-evergreen rain forest is a closed, high forest
-in which the biggest emergent trees sometimes reach 45 m
-in height! It includes both evergreen and, in the top of the
-canopy, deciduous trees, in an intimate mixture.
-37
-- Deciduous trees may comprise up to 1/3 of the
-taller trees, though not all are necessarily leafless at the
-same time. The number of species is high, but less so
-than in evergreen rain forest. Buttresses continue to
-be frequent and occur in both evergreen and deciduous
-species. Bark tends to be thicker. The canopy is sometimes
-locally stratified. Big woody climbers tend to be very
-abundant. Bamboos are present. Epiphytes are occasional
-to frequent and include many ferns and orchids.
+- Semi-evergreen rain forest is a closed, high forest in which the biggest emergent trees sometimes reach 45 m in height! It includes both evergreen and, in the top of the canopy, deciduous trees, in an intimate mixture.
+
+- Deciduous trees may comprise up to 1/3 of the taller trees, though not all are necessarily leafless at the same time. The number of species is high, but less so than in evergreen rain forest. Buttresses continue to be frequent and occur in both evergreen and deciduous species. Bark tends to be thicker. The canopy is sometimes locally stratified. Big woody climbers tend to be very abundant. Bamboos are present. Epiphytes are occasional to frequent and include many ferns and orchids.
 Habitat and occurrence:
-Where there is a regular annual period of moisture stress
-this replaces the previous formation. It occupies most of
-the African forest block, including all of the Congo basin.
-38
+Where there is a regular annual period of moisture stress this replaces the previous formation. It occupies most of the African forest block, including all of the Congo basin.
+
 - It occurs as a narrow fringe around the main
-Eastern rain forest block, and also forms the outlier
-in India, and most of the Australian tropical rain forest.
+Eastern rain forest block, and also forms the outlier in India, and most of the Australian tropical rain forest.
 The montane rain forest
 Description and habitat:
-- If you climb a tropical mountain you will encounter
-forests of different structures and physiogamy. The
-most dramatic change, which usually occurs over a short
-distance, is from mesophyll-dominated forest with an
-uneven billowing canopy surface to a lower, more even,
-often pale-coloured, microphyll-dominated canopy, of more
-slender trees, usually with gnarled limbs and very dense
-subcrowns. See figure 8 for forest zones on a tropical
-mountain.
-39
-Figure 8: Forest zones on the main mountainsFigure 8: Forest zones on the main mountains
-in Malaysia (Source: Whitmore, 1984)in Malaysia (Source: Whitmore, 1984)
-40
-Figure 9: Characters of structure and physiogamy used toFigure 9: Characters of structure and physiogamy used to
-define montane forests. Source: Whitmore, 1998.define montane forests. Source: Whitmore, 1998.
-41
-Figure 10: Montane rain forest, Malaysia.Figure 10: Montane rain forest, Malaysia.
-Source: Whitmore, 1998.Source: Whitmore, 1998.
-42
-- This is ‘classic’ upper montane rain forest. This
-formation is often only 10 m tall or less. Trees in this
-formation are often swathed in bryophytes and filmy ferns
-and the formation is then known as mossy forest (though
-liverworts predominate). Sphagnum moss is also common.
-- On small mountains upper montane rain forest abuts
-on lowland rain forest, but on bigger ones an intermediate
-formation, lower montane rain forest, occurs.
+- If you climb a tropical mountain you will encounter forests of different structures and physiogamy. The most dramatic change, which usually occurs over a short distance, is from mesophyll-dominated forest with an uneven billowing canopy surface to a lower, more even, often pale-coloured, microphyll-dominated canopy, of more slender trees, usually with gnarled limbs and very dense subcrowns. See figure 8 for forest zones on a tropical mountain.
+
+- This is ‘classic’ upper montane rain forest. This formation is often only 10 m tall or less. Trees in this formation are often swathed in bryophytes and filmy ferns and the formation is then known as mossy forest (though liverworts predominate). Sphagnum moss is also common.
+- On small mountains upper montane rain forest abuts on lowland rain forest, but on bigger ones an intermediate formation, lower montane rain forest, occurs.
 Occurrence:
-- The Eastern tropics are very mountainous and many
-descriptions exist of the extensive montane forests and
-their zonation.
-43
+- The Eastern tropics are very mountainous and many descriptions exist of the extensive montane forests and their zonation.
+
 Heath forest
 Description:
-E.F. Brunig the world expert on Asian heath forests, wrote
-a lyrical description of the Bako National Park, Sarawak,
-Malaysia “ Even the botanically inexperienced casual
-wanderer will notice the change when he enters the
-kerangas forest …. The storey formed by large saplings
-and small poles predominates and forms a tidy and orderly
-but forbidding phalanx which is dense and often difficult
-to penetrate. The canopy is low, uniform and usually
-densely closed with no trace of layering ……brownish and
-reddish colours prevail in the foliage of the upper part of
-the canopy”.
-44
-- He also recorded the predominance of microphylls
-over mesophylls. Big woody climbers are rare, but not
-slender wiry ones. Epiphytes are common and
-insectivorous plants are also frequently found, including
-in Asia the pitcher plants Nepenthes.
+E.F. Brunig the world expert on Asian heath forests, wrote a lyrical description of the Bako National Park, Sarawak, Malaysia “ Even the botanically inexperienced casual wanderer will notice the change when he enters the kerangas forest …. The storey formed by large saplings and small poles predominates and forms a tidy and orderly but forbidding phalanx which is dense and often difficult to penetrate. The canopy is low, uniform and usually densely closed with no trace of layering ……brownish and reddish colours prevail in the foliage of the upper part of the canopy”.
+
+- He also recorded the predominance of microphylls over mesophylls. Big woody climbers are rare, but not slender wiry ones. Epiphytes are common and insectivorous plants are also frequently found, including in Asia the pitcher plants Nepenthes.
 Habitat and occurrence:
-- Heath forest occurs on soils developed from
-siliceous sand, either coastal alluvium or weathered
-sandstones. Such soils are coarse in texture and freely
-draining. The most extensive heath forests are in the upper
-reaches of the Rio Negro and Rio Orinoco in South America
-Other large expanses of heath forest exist in Kalimantan,
-Sarawak and Brunei (Forest fires, 1997).
-45
+- Heath forest occurs on soils developed from siliceous sand, either coastal alluvium or weathered sandstones. Such soils are coarse in texture and freely draining. The most extensive heath forests are in the upper reaches of the Rio Negro and Rio Orinoco in South America
+- Other large expanses of heath forest exist in Kalimantan, Sarawak and Brunei (Forest fires, 1997).
+
 Peat swamp forest
 Description:
-- This is a forest formation defined more on its
-special habitat than on structure and physiogamy. The
-Eastern peat swamp forests have a limited and distinctive
-flora.
+- This is a forest formation defined more on its special habitat than on structure and physiogamy. The
+Eastern peat swamp forests have a limited and distinctive flora.
 Habitat and occurrence:
 - In parts of Sumatra, southern Thailand, Malaysia,
-Mindanao, and west New Guinea peat swamp forest is
-common.
-46
+Mindanao, and west New Guinea peat swamp forest is common.
+
 Freshwater swamp forests
 Description:
-- Like the peat swamp forests these are defined mainly
-on habitat. They are a very diverse assemblage of forest
-types flooded by river water, hence richer in plant nutrients
-than peat swamp forest.
+- Like the peat swamp forests these are defined mainly on habitat. They are a very diverse assemblage of forest types flooded by river water, hence richer in plant nutrients than peat swamp forest.
 Habitat and occurrence:
-- The Amazon, which has annual floods and is also
-influenced by tides to some 900 km from the mouth, has
-very extensive and diverse fresh-water permanent and
-periodic swamp forests. Approx 1/3 of the Congo basin is
-occupied by swamp forests.
-47
+- The Amazon, which has annual floods and is also influenced by tides to some 900 km from the mouth, has very extensive and diverse fresh-water permanent and periodic swamp forests. Approx 1/3 of the Congo basin is occupied by swamp forests.
+
 Forest turnover
-- This is the term used to describe the process by
-which old trees die or are blown down/lightning strike etc
-which creates a gap in the canopy which allows sapling a
-chance.
+- This is the term used to describe the process by which old trees die or are blown down/lightning strike etc which creates a gap in the canopy which allows sapling a chance.
 Canopy layers
-- The term forest canopy can be taken to cover the
-entire above ground plant community. This plethora of
-species is commonly described as being layered or
-stratified. See figures 11 & 12.
-48
-Figure 11:Figure 11:
-Source:Source:
-Whitmore,Whitmore,
-1998.1998.
-49
-Figure 12:Figure 12:
-Source:Source:
-Whitmore,Whitmore,
-1998.1998.
-50
-- A mature lowland rain forest has trees of many sizes.
-The tallest which stand ‘head and shoulders’ above the rest
-are known as emergents. They occur either alone or as
-groups.
-Single kapok trees (Ceiba pentandra), which reach immense
-size in Amazonia, are a common and conspicuous sight
-when viewed from the river (See figure 13). By contrast, the
-billowing canopy of a west Malesian forest results from
-groups of emergent Dipterocarpaceae.
-51
-Figure 13: Amazonian rain forest seen fromFigure 13: Amazonian rain forest seen from
-the Amazon. Source: Whitmore, 1998.the Amazon. Source: Whitmore, 1998.
-52
+- The term forest canopy can be taken to cover the entire above ground plant community. This plethora of species is commonly described as being layered or stratified. 
+- A mature lowland rain forest has trees of many sizes. The tallest which stand ‘head and shoulders’ above the rest are known as emergents. They occur either alone or as groups.
+Single kapok trees (Ceiba pentandra), which reach immense size in Amazonia, are a common and conspicuous sight when viewed from the river (See figure 13). By contrast, the billowing canopy of a west Malesian forest results from groups of emergent Dipterocarpaceae.
+
 Floristics
 - The humid tropics are extremely rich in plant life.
-About 2/3 (170, 000) of the worlds angiosperm species
-occur in the tropics. Half of these are in the New World
-south of the Mexico/US frontier, 21,000 in tropical Africa
-and 50, 000 in tropical and subtropical Asia, with
-36, 000 in Malesia.
-- There are similarities especially at family level,
-between all three blocks of tropical rain forest, but there
-are fewer genera in common and not many species.
-53
-Figure 14:Figure 14:
-A beautiful rain forestA beautiful rain forest
-dweller Heliconia.dweller Heliconia.
-(Malaysia).(Malaysia).
-Source: Whitmore,Source: Whitmore,
-1998.1998.
-54
-Plant Life
-- The exuberance of plant life in the humid tropics
-continues to dazzle scientists (as I was during my time
-in Malaysia) from more sober temperate climates.
-- Trees have a great diversity of form and size and
-some have the uniquely tropical attributes of huge
-buttresses or trunk-borne flowers. They support a wealth
-of climbers and epiphytes. Aroids, Bamboos, palms,
-cyclanths, pandans, stranglers and banyans
-add extra dimensions
-55
-Figure 15: Source: Whitmore, 1998.Figure 15: Source: Whitmore, 1998.
-56
-Figure16:Figure16:
-Source:Source:
-Whitmore, 1998.Whitmore, 1998.
-57
-Figure 17:Figure 17:
-StranglingStrangling
-fig, showingfig, showing
-anastomosinganastomosing
-roots whichroots which
-wholly obscurewholly obscure
-the host tree.the host tree.
-NorthernNorthern
-Sumatra.Sumatra.
-Source:Source:
-Whitmore, 1998.Whitmore, 1998.
-58
-Figure 18:Figure 18:
-Strangling figStrangling fig
-with fan palmswith fan palms
-LicualaLicuala sppspp
-(have some in(have some in
-tropical greenhousetropical greenhouse
-Wolverhampton)Wolverhampton)
-Queensland,Queensland,
-Australia.Australia.
-Source:Source:
-Whitmore, 1998.Whitmore, 1998.
-59
-Figure 19:Figure 19:
-Source:Source:
-Whitmore, 1998.Whitmore, 1998.
-60
-Figure 20 : The world’s tallest trees.Figure 20 : The world’s tallest trees.
-Source: Whitmore, 1998.Source: Whitmore, 1998.
-61
-INTERCONNECTIONS BETWEEN PLANTS AND ANIMALS
-- The interactions between flora and fauna which
-inhabit the tropical rain forest are far more complex than
-in temperate forests and include areas such as:
-7) animals as pollinators
-8) animals as dispersers
-9) symbioses
-10) co-evolution
-and many others.
-62
-Forest conversion to other land usages
-- Agriculture:
-Agriculture is the main purpose for which rain forests
-are cleared. There are several major kinds of agriculture
-and their impact varies from place to place. In many
-areas in South America they are felled and converted into
-pasture for cattle.
-Rain forests have also been felled and replaced by
-plantation tree crops, principally rubber and oil palm
-(Hevea brasiliensis, Elaesis guineensis) with cocoa
-(Theobroma cacao) taking third place. This form of
-conversion has and is having a major impact in Malaysia!
-63
-Figure 21:Figure 21:
-Whitmore, 1998.Whitmore, 1998.
-64
-Figure 22 :Figure 22 :
-Source: Whitmore, 1998.Source: Whitmore, 1998.
-65
-Figure 23:Figure 23:
-Source:Source:
-Whitmore, 1998.Whitmore, 1998.
-66
-Figure 24 : Devastation of the forest for agriculture. (Malaysia)Figure 24 : Devastation of the forest for agriculture. (Malaysia)
-Source: Whitmore, 1998.Source: Whitmore, 1998.
-67
-Figure 25:Figure 25:
-The sad fate ofThe sad fate of
-tropicaltropical
-hardwood spp.hardwood spp.
-Source: Whitmore, 1998.Source: Whitmore, 1998.
-68
-Figure 26:Figure 26:
-‘Man of the forest’‘Man of the forest’
-orang utanorang utan
-(Sabah, Malaysia).(Sabah, Malaysia).
-Source: Whitmore, 1998.Source: Whitmore, 1998.
+	- About 2/3 (170, 000) of the worlds angiosperm species occur in the tropics. Half of these are in the New World south of the Mexico/US frontier, 21,000 in tropical Africa and 50, 000 in tropical and subtropical Asia, with 36, 000 in Malesia.
+- There are similarities especially at family level, between all three blocks of tropical rain forest, but there are fewer genera in common and not many species.
 
+Plant Life
+- The exuberance of plant life in the humid tropics continues to dazzle scientists (as I was during my time in Malaysia) from more sober temperate climates.
+- Trees have a great diversity of form and size and some have the uniquely tropical attributes of huge buttresses or trunk-borne flowers. They support a wealth of climbers and epiphytes. Aroids, Bamboos, palms, cyclanths, pandans, stranglers and banyans add extra dimensions
+
+
+INTERCONNECTIONS BETWEEN PLANTS AND ANIMALS
+- The interactions between flora and fauna which inhabit the tropical rain forest are far more complex than in temperate forests and include areas such as:
+1) animals as pollinators
+2) animals as dispersers
+3) symbioses
+4) co-evolution
+5) and many others.
+Forest conversion to other land usages (Agriculture)
+Agriculture is the main purpose for which rain forests are cleared. There are several major kinds of agriculture and their impact varies from place to place. In many areas in South America they are felled and converted into pasture for cattle.
+Rain forests have also been felled and replaced by plantation tree crops, principally rubber and oil palm (Hevea brasiliensis, Elaesis guineensis) with cocoa (Theobroma cacao) taking third place. This form of conversion has and is having a major impact in Malaysia!
 
 
 <center><sub>Done :)</sub></center>

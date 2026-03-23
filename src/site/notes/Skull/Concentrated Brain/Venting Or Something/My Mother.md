@@ -42,292 +42,59 @@ But When She Doesnt Pick Up We Shouldnt Be Looking Out For Her In The First Plac
 # <span style="color:#CD0000">Constant Comment (Not The Tea)</span>
 ![](https://i.imgur.com/O8fvfW9.png)
 
-## The Top
 
-I Dont Know What Im Writing And None Of This Matters 
-This Is Just Like A Brain Dump For Non-specific And Super Short Ideas That Havent Earned Their Own Page Yet 
-Maybe Things Go Here Because Im Tired 
-Maybe Im Just Bored And My Brain Said "Hey!" So I Put It Here
 
-### Original Random Bulk
 
-Back On My Incremental Grind For A Bit
 
-The Lightless Flame Is Such A Badass Name
 
-I Just Wanna Watch A Movie 
-Whyve You Gotta Be A Pain In The Ass
 
-And Yeah.... I Did Forget About This
 
-### Back To Random
 
-Also I Miss My [[Explicitly Showcased/People/Special Ones/Sunshine/Vie\|Vie]]
-We Need To Talk More
 
-### Randomness :3
 
-I Did A Bit Of Tidying Up 
-You Wont Notice
 
 
-#### Tumblr Link?
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:0WVvjWYXyV_tcp5kf631Jw/729147951762505728/v2" data-did="945d63eecd58b6a0bd44d5f12bb9abce89656c19" ><a href="https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english">https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
-### We Imported Still
 
-The Library Is Dewey Decimal 
-The Catagory Arangement Still Feels Arbitrary
 
-Testing A Thing 
-Dont Worry About It
 
-[[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] Cool; Looks Like It Works
 
-There Is [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] I Wanna Eat In This Whole City! 
-Im Gonna Starve And Im Gonna Laugh 
-(I'll Probably Eat In Town But Still) 
-What Even Is "Good Food"
 
-#### Tumblr Link??
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:0WVvjWYXyV_tcp5kf631Jw/729147951762505728/v2" data-did="945d63eecd58b6a0bd44d5f12bb9abce89656c19" ><a href="https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english">https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
-## Secondary Phase Of Random
 
-Interesting: I Can Boot Multiple Instances Of This Application Which (Since Its Locked) Means That I Cant Close Any Instances Of It
 
-I Went Back And Added Some Stuff I Said To My [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Moirail]]
 
-Just Diagnosed Someone With Autism And They Were Like "....Yep"
 
-Ive Got More Things To Do Than I Have Time To Sleep But Tomorrow I Have Things To Do So Its Time To Sleep?
 
-I Didnt Sleep I Messed With The Laptop
 
-I Ran Out Of Data 
-Spotify Was Using Automatic Quality
 
-I Was Gonna Read On The Train But I Still Dont Trust Them
 
-## Sneaky Imports
-
-https://youtu.be/zHHQusnYY3c?si=fKYYsvFJHomCnpDf](https://youtu.be/zHHQusnYY3c?si=fKYYsvFJHomCnpDf) I Was Thinking About A Video Like This Last Nigh 
-Algorithms AmIRight (ETA(19·2023 46.41) Links Dead Dont Bother)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HwAPLk_sQ3w?si=amaDCRbklx1zqByF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-I Dissociated In And Out Of My Death And Missed The Premier But This Is So Good
-
-Short Version: Remembered One Of My Friends Knows Someone With An Armpit Fetish And Im Wondering How You Know You Have An Armpit Fetish 
-Like What Steps Do You Have To Take To Know Its Specifically That 
-I Just Feel Like "[[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] Part" Is Too Specific 
-I Figured It Out! 
-Watching Someone Change In The Gym And Youre Staring At Them For Ages 
-Then You Go "Im Only Staring At Their Armpits...." 
-Then You Go [[Explicitly Showcased/Home Page I Guess/Home Page\|Home]] And Figure It Out From There 
-Its Just That I Can Imagine Someone Finding Bdsm Porn And Being Like "I Want More Of This" 
-But Does Armpit Porn Even Exist?
-
-You should see
-
-I Was Gonna Say "Im [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]" But When Have I Ever Not Been Curious Of The Top Ten Images Three Of Them Have Actual Armpits As A Focus Almost All Of Pornhubs Results Are Just Other Porn But Also Armpits Exist But Theres A Few Videos Of [[Branches/People\|People]] Licking Them And One Video Titled "Armpit Joi" So I Guess Its Straight Up Not A Thing
-
-## So Anyway
-
-There's Some Of The Stuff I Didnt Add
-
-Gonna Make A [[Branches/Quotes\|Quotes]] Thing 
-And Now That Ive Written That Its linked Forever
-
-Ive Done [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]Today Because I 
-Want To Die
-
-[[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|My Friend]] Threatened To Wear A "Lil Black Skirt" And If They Do I'll Strangle Them /Affectionate
-
-Not Everyones As Dried Apricots As They Think They Are
-
-ETA: Fact
-
-Woke Up At Like 2100 Spent Three Hours Eating And Now Im Just Existing At 1
-
-Went To Bed At Like Six Last Night (For Eight Hours) 
-Best Sleep Of Like A Month
-
-Theres Cayenne In My Pocket
-
-I Used The Peppers 
-Good Job [[Explicitly Showcased/Me/Me\|Me]]
-
-Mark Made [[Explicitly Showcased/Me/Me\|Me]] Laugh 
-We Got Spooked Together <3
-
-The Stanley Parable 
-The Eye, The Lonely, The Spiral, The Vast (At One Point)
-
-I Dont Have The Energy To Do Anything I Was Gonna Do
-
-[Removed]
-
-Fuck I Dont Update This Enough 
-More Imports:
-
-## More Imports
-
-Wearing My Friends Shirt And On My Way To Town They Said They Were Getting The Train In So We Should Meet Up 
-They Didnt Notice I Was Wearing Her Shirt Until I Pointed It Out Smh
-
-Just Read A Yuri Manga And The More I Read The More I Was Like "This Is Not A Healthy Thing To Read" 
-Then It Ended And I Was Just Like "....[[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] Sure"
-
-I Dont Feel Anything About It 
-Cant Decide If It Was a Happy Ending Or What
-
-I Just Saw A Steam Comment "Homestuck? Well Yeah Its Bolted To The Ground"
-
-Nonbinary Dom Like 
-"My Pronouns Are Master/Master's; You Will Address [[Explicitly Showcased/Me/Me\|Me]] On Your Knees"
-
-Remember [[Explicitly Showcased/Me/Me\|Me]] Making Fun Of The Armpit Guy Because "How The The Fuck Did He Figure That Out‽" 
-Ive Changed My Opinion 
-
-I Dont Know If This Video Is Safe For Work But Its Relevant So Probably Not (ETA(19·2023 47.08) The Video I Put Here Disappeared But It Was In Fact Proof That Armpit Focused Videos Exist)
-
-Did Yall Know You Can Group Call On The Lovesense App?
-
-I Think If A Guy Gets A Girl Pregnant She Should Just Be Able To Give Him The Pregnancy 
-That Would Be A Great Update To Human Biology
-
-I Found Out One Of [[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|My Friends]] Is Into Rope Bondage 
-He Doesn't Live In England 
-Most Of The [[Branches/People\|People]] Begging To Be Roped Live Way Too Far Or Are Way Too Busy 
-Pointless
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do u think a transphobic conservative guy would change if I squished his head between my thighs</p>&mdash; Kiyana 🏳️‍⚧️ (@SlayzKiana) <a href="https://twitter.com/SlayzKiana/status/1717001251215515673?ref_src=twsrc%5Etfw">October 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-I Just Deepthroated A Knife
-
-One Of My Discord Friends Got Paws
-
-[[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]
-## Back To Normal?
-
-Did Some Messing Around And I Should Be Able To Edit The Website On The Go So....
-Expect More Of [[Explicitly Showcased/Me/Me\|Me]] I Guess
-
-Somebody (Not Naming Names) Has Put Tablespoons Of Tea Into My Teapot Instead Of The More Elegant And Aptly Named Teaspoons Of Tea So I Dont Think The Brew Strength Is Ever Right
-
-Someone Should Make An Algorithm That Analyses The Frames Of Tv Shows And Switches Between Episodes Smoothly
-Like Youre Watching Friends Season Three And In Season Seven Episode Nine Everyone Happens To Stand In The Same Place So Its Suddenly Just A Whole Different Episode From Now On
-
-Eating Breakfast Out Of A Mug
-
-Saw Cor's Family This Morning
-Bus Isnt Showing Up So Im Walking Down
-Past Them And Recognised Their Voices
-It Was Quite A Pleasant Surprise 
-
-A Pancake Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Just Fell From The Sky?
-Like [[Plap.jpg\|Plap!]] [Plap.jpeg Could Not Be Found?????] 
-I Thought It Was Just Really Loud Bird Shit, Then Noticed It Was Too Big
-Theres Nobody Near [[Explicitly Showcased/Me/Me\|Me]] To Throw It....
-
-Ive Thought Barely Anything Today
-/̵͇̿̿/'̿'̿ ̿ ̿̿ ̿̿ ̿̿ 
-
-Recently Ive Felt So Little About So Much
-Thats Why I Haven't Been Adding Anything 
-Christmas Is Coming Around Which Is Fun!
-I Have Literally No Expectations Whatsoever So I Cant Really Be Let Down I Guess
-
-I Feel Like Utter And Complete Shit
-I Want To Drink A Monster Because That Usually Helps But Then Theres Just Gonna Be More Of....This
-
-There's A Chunk Of My Stuff Missing From This Page
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Real mommy doms get drunk and throw wine glasses at you and scream and you and then cry and say they&#39;re so sorry and it won&#39;t happen again and they love you and then do the exact same thing a week later</p>&mdash; 🐶🩸Page🩸🐶 (@Vampuppy_Page) <a href="https://twitter.com/Vampuppy_Page/status/1744568166548754454?ref_src=twsrc%5Etfw">January 9, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-Why Is Hank Greens's Name William?
-
-Guess Who Just Finished The Essay Shes Spent Like Two Weeks Working On
-Apparently All My Sources Are Plagiarised Which Is Certainly [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]
-
-![](https://i.imgur.com/vwdTu6Z.png)
-You Cant Tell [[Explicitly Showcased/Me/Me\|Me]] That Wouldn't Be A Badass Name
-Naming My Daughter Mortality Rose
-
-"Momma Shelly Was Gay As Fuck
--Dr Frankenstein"
-
-I Did Break This At Some Point
-If Youre Reading This It Was At Least Temporarily Fixed
-
-Started Playing Stardew Valley Again And I Love Abby So Much; Like, Yes Girl You Go Eat That Quartz! I Was Saving It For Your Midnight Snack Anyway B)
-Cant Wait To Marry Her For The Eighteenth Time In A Row
-
-I Wanna Dye My Hair Black; Just A Shitty, Fading-Over-Time, Layer Of Void Overlaying An Almost Equally Shitty Bleached Head Of Hair
-And Underneath All Of It: Slowly Growing Black Roots
-If I Leave My Hair For Long Enough Therell Be An Obvious Faded Ring Of Where Has Been Bleached Sandwhiched Between An Artificial And A Natural Black
-
-Im Not [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]
-Im So Not [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] But I Dont Know Why
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/explicitly-showcased/my-general-outlook-on-this/#zoochosis" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-# Zoochosis
-
-It Has Come To My Attention (Via [[Explicitly Showcased/Me/Me\|Me]] Telling [[Explicitly Showcased/Me/Me\|Me]] What I Think Is Best For [[Explicitly Showcased/Me/Me\|Me]]) That Since I Am Undergoing Zoochosis And That The Enrichment Time That I Usually Try To Provide Myself With Is A Failing Method, The Best Thing For [[Explicitly Showcased/Me/Me\|Me]] To Do For My Mental Health Is To Empty The Beehive More Frequently; The Problem Isnt My Mind, It's Keeping My Mind Locked Iniside Of Itself  
-This [Website](https://my-mind-space.vercel.app/) Will See The Biggest Hit In Terms Of My Increase In Esoteric
-
-
-</div></div>
-
-
-
-Also Im Now A Light Player And I Think [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Is One Of The Desolation Maybe; Who Knows
 
 ![IMG-20240114-WA0016 1.jpg](/img/user/images/IMG-20240114-WA0016%201.jpg)![IMG-20240114-WA0019.jpg](/img/user/images/IMG-20240114-WA0019.jpg)
 Hhhhhhhhhhhhhhhh
 
-I Just Got Dissapointed Because I Mistakenly Thought I Spotted A Free Box Of Floor Tampons
 
-Corys Definitely A Light Player; I Dont Know If Hes A Watcher Though; I Think Hes A Spiral Or Maybe The Web (Do Spiders Need To Manipulate <b>[[Branches/People\|People]]</b> Or Can They Have Fun With It?)
 
-Speech To Text Making An Appearance 
+ 
 
-Finally Got My Hands On A Copy Of [[Skull/Concentrated Brain/Media/House Of Leaves/HOL Mega Note\|House Of Leaves]]
-Its A Second Edition Copy Published In 2001 
 
-Count Bin Face Is Active Again
 
-I Wasnt Listening To The New [[Skull/Concentrated Brain/Media/The Magnus Protocol/The Magnnus Protocol\|Magnus Protocol]] Episode Because I Was Freaking Over The Small Details
-Technically The First Episode (I Know Two Came Out At Once)
 
-I Was Watching [[Skull/Concentrated Brain/Media/Vivzie/Hazbin Hotel\|Hazbin Hotel]] But I Couldnt Find Episode Five So :)
 
-I Wanna Go On Reality Tv Shows And Just Lie To Everyone, Drive Them Slowly Insane; Every Year Or Two Someone With My Face But A Different Name Shows Up On A New Season Of Some Random Reality Tv Show Or Game Show Or Whatever And Nobody Quite Knows Why
 
-Just Learned That The Rocks On Your Farm Dont Drop Geodes Day One
 
-I Wanna Put Together A Dnd Party Of [[Branches/People\|People]] Who Arent Friends; Mainly To See How Player Chemistry Would Form From Scratch Or If It Even Will
-Itll Be Interesting To See If Two [[Branches/People\|People]] Hate Each Other Do They Reflect That In-Game Or Vice Versa
 
-My Computer Now Starts With A Key
 
-Also I Went To Las Iguanas To Eat, It Was Pretty Good
 
-Oh And New Earphones Are Quite Good
-Makes [[Explicitly Showcased/Me/Me\|Me]] Feel A Little [[Skull/Spam/Crazy\|Crazy]] Though Because I Feel Like Im Listening To Shit In A Silent Room And Everyone's Just Like "Who The Fuck Is This Guy?"
-Im Not Worried Theyre Judging [[Explicitly Showcased/Me/Me\|Me]] Its Just A Very Large Tonal Shift
+
 
 Watch Icp Win US Presidency
 
 Cleaning Up The Vault
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:0WVvjWYXyV_tcp5kf631Jw/729147951762505728/v2" data-did="945d63eecd58b6a0bd44d5f12bb9abce89656c19" ><a href="https://www.tumblr.com/shencomix/739174739386515456">https://www.tumblr.com/shencomix/739174739386515456</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+
 
 Mortician Boyfriend Who Puts Ice In Your Mouth So He Can Imagine Getting Blown Off By A Corpse
 Hahahaha
@@ -1045,6 +812,80 @@ Soul Eater Soundtrack
 
 Literaly Doing Nothing :)
 
+79 2026
+Going TO Try To Do This More
+Also Going To Try TO Seperate This And More Diary Esque Happenings Becasue Why  Not
+
+Watch Yellowjackets!!!!
+
+Cavetown Was So Happy And Energetic On Stage
+I Love Him
+
+Okayyyyyy 80 2026 Cacth-Up
+Woke Up EArlyish And Spent The REst Of The Morning Cuddling, Ate Pasta- Went Back To Cuddling
+Now We Are Both Working On Our Stuff ANd eating Grapes
+€ Is Doing Some Work In Her Minecraft Work And Is Doing It So Well She's Awesome
+Meanwile I Am Just Doing Lame Dnd Stuff And Talking To All The New Players That Want To Join 
+
+Sometimes I Do Feel Like I Am Just In The Way Or Being A Pain In The Ass But € Seems To Like Or At LEast Not Mind Me For Now So I Guess I Should Stop Coplaining ANd Smile
+Wer're All Gonna Die Someday But We Got A While So We Better Smile
+
+Also I Think Her Music Taste Is Objectively Better Than Mine
+Mine Is The Least Curated Mix Of Songs Ever And All Of Her Playlists Are Sorted And Thematic ANd Yeah
+
+This Page Is Such A Mess
+I Need To CLean It Up
+I Also Need To Set Tiktik Back Up
+And Add A Reminder To Make € Send Me Her Detials
+
+79 Catch Up
+- [x] Respond To EpicSpydi
+I Found €'s Ring (That I Lost (Because I Am The Worst Friend Ever)) She Then Gave It Back To Me Like I Was Not The Same Dumbass That Dropped Her Headphones 
+I Need To Make Her SEnd Me Her Bank Details So That I Can Get A Replacement For Her- \*So That I Can Give Her The Money To Get A Replacement
+I Did Some Dnd stuff
+We Listened To Cavetown
+After Cuddling For What I Have Possibly Incorrectly Noted As Hours I Tried To Get HEr outside (Spoiler I Did Succeed)
+65.25 Update
+We Did Go outside And We Got Fruit And Blueberry Juice And A Big Bottle Of Lipton Tea
+Then I Got Her In Bed And Got Her The Leftover Soup From The Day Before
+Also Steam Sale Which Is Cool
+My Data And Hotspot Both Intermittently Decide To Give Up On Me Which Is SOmething
+That Is All
+
+I Am So Glad That My Libido Spiked Last Week Because I Think I Would HAve Died
+
+Every Now And Then I See A Tweet Or Something Of Something Cute Or Gay Or What-Have-You And The Caption Says "This Would Fix Me"
+I Think This Did A Pretty Good Job
+
+95.31 
+Watch Parlement And Make Fun Of Eugene For It
+We Watched MCC
+Aimsey Was So Bad :D
+She Got Last Place Overall
+Also Drift Got Three Coins! Yay
+
+Been Listening TO Fantastic On Loop With Eugene
+And Finishing My Big Bottle Of Lipton Tea
+
+Lowkey Lightheaded :P
+
+Addy And Vivian Weere Drinking Booze Out Of Her Pots And Pans Because Those Are The Only Clean Dishes
+But They Also Sent A Picture So I Respect That
+
+The Noodles We MAde Were Nicee
+
+Oh Yeah Eugene Is Probably A Soy Sauce Addict
+
+I’m feeling fantastic, I'm fucking fantastic
+I wanna get drunk and watch American classics
+Drink champagne out of plastic
+Don't you want someone crazy like me, babe?
+I'm feeling amazing, I'm fucking amazing
+I'm high as a kite, I'm sat here picturing you naked
+You just have to take it
+If you want someone crazy like me, babe
+
+Minecraft Refuses To Work D:
 
 
 

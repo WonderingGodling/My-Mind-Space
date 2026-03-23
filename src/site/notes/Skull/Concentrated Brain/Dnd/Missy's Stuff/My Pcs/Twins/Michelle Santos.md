@@ -14,6 +14,9 @@
 Transfem Neon Conduit Who Prefers Making The Right Move Over Making The easy One
 Has Always Been Scared Of The Dark But "Only As much As A Normal Person" And Will Never Let It Show
 
+Improvised Kusarigama
+https://docs.google.com/document/d/1bWk0UEGlO0sAQv6Jb5iq9zmo1t2GaQIT1Xa8HSAxCeE/edit?tab=t.0
+
 
 ### Magic
 
