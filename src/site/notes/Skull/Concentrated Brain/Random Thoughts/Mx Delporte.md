@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Mx EUgene Delporte <3","permalink":"/Mx EUgene Delporte <3/","tags":["Tagless"],"dgShowToc":true}
+{"dg-publish":true,"dg-permalink":"Mx EUgene Delporte  1955","permalink":"/Mx EUgene Delporte  1955/","title":"Mx Delporte <3","hideInGraph":true,"tags":["Tagless"],"dgShowToc":true}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
@@ -12,6 +12,7 @@
 # <center><span style="color:#003399">Eugene</span></center>
 
 This Is Long Overdue
+Is That The Right Blue? It Looks It
 
 I Think It Would Be Weird To Pretend I Have Not Always Thought Eugene Was Super Cool And Impressive
 Even Back When Neither Of Us Were Doing Great I Used Her As A Reason To Try To Improve And Now In 2026 I Think I Am Going To Start To Do Something Simiar
