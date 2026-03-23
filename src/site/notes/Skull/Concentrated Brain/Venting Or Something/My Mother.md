@@ -173,7 +173,7 @@ Also [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Is Cool, Glad
 
 ![Tumblr_l_1160578296118.jpg](/img/user/images/Tumblr_l_1160578296118.jpg)
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:HmBJ8Ly3SvMXpp9ktdUq7Q/741139528161640448/v2" data-did="5bff922bcf470585110d7b2203c414daa135bb91" ><a href="https://www.tumblr.com/trouble-trouble-trouble/741139528161640448/tmagp-try-to-go-one-ep-without-having-a-line">https://www.tumblr.com/trouble-trouble-trouble/741139528161640448/tmagp-try-to-go-one-ep-without-having-a-line</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+
 
 
 ![[Screenshot_20240223_073901_One UI Home.png\|Screenshot_20240223_073901_One UI Home.png]]
@@ -812,6 +812,7 @@ Soul Eater Soundtrack
 
 Literaly Doing Nothing :)
 
+## London 2026 +
 79 2026
 Going TO Try To Do This More
 Also Going To Try TO Seperate This And More Diary Esque Happenings Becasue Why  Not
@@ -840,16 +841,16 @@ And Add A Reminder To Make € Send Me Her Detials
 
 79 Catch Up
 - [x] Respond To EpicSpydi
-I Found €'s Ring (That I Lost (Because I Am The Worst Friend Ever)) She Then Gave It Back To Me Like I Was Not The Same Dumbass That Dropped Her Headphones 
-I Need To Make Her SEnd Me Her Bank Details So That I Can Get A Replacement For Her- \*So That I Can Give Her The Money To Get A Replacement
-I Did Some Dnd stuff
-We Listened To Cavetown
-After Cuddling For What I Have Possibly Incorrectly Noted As Hours I Tried To Get HEr outside (Spoiler I Did Succeed)
-65.25 Update
-We Did Go outside And We Got Fruit And Blueberry Juice And A Big Bottle Of Lipton Tea
-Then I Got Her In Bed And Got Her The Leftover Soup From The Day Before
-Also Steam Sale Which Is Cool
-My Data And Hotspot Both Intermittently Decide To Give Up On Me Which Is SOmething
+- I Found €'s Ring (That I Lost (Because I Am The Worst Friend Ever)) She Then Gave It Back To Me Like I Was Not The Same Dumbass That Dropped Her Headphones 
+- I Need To Make Her SEnd Me Her Bank Details So That I Can Get A Replacement For Her- \*So That I Can Give Her The Money To Get A Replacement
+- I Did Some Dnd stuff
+- We Listened To Cavetown
+- After Cuddling For What I Have Possibly Incorrectly Noted As Hours I Tried To Get HEr outside (Spoiler I Did Succeed)
+- 65.25 Update
+- We Did Go outside And We Got Fruit And Blueberry Juice And A Big Bottle Of Lipton Tea
+- Then I Got Her In Bed And Got Her The Leftover Soup From The Day Before
+- Also Steam Sale Which Is Cool
+- My Data And Hotspot Both Intermittently Decide To Give Up On Me Which Is SOmething
 That Is All
 
 I Am So Glad That My Libido Spiked Last Week Because I Think I Would HAve Died

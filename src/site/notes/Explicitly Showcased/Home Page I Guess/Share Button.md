@@ -48,7 +48,7 @@ Algorithms AmIRight (ETA(19·2023 46.41) Links Dead Dont Bother)
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:0WVvjWYXyV_tcp5kf631Jw/729147951762505728/v2" data-did="945d63eecd58b6a0bd44d5f12bb9abce89656c19" ><a href="https://www.tumblr.com/shencomix/739174739386515456">https://www.tumblr.com/shencomix/739174739386515456</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
 
-
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:HmBJ8Ly3SvMXpp9ktdUq7Q/741139528161640448/v2" data-did="5bff922bcf470585110d7b2203c414daa135bb91" ><a href="https://www.tumblr.com/trouble-trouble-trouble/741139528161640448/tmagp-try-to-go-one-ep-without-having-a-line">https://www.tumblr.com/trouble-trouble-trouble/741139528161640448/tmagp-try-to-go-one-ep-without-having-a-line</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
 
 
