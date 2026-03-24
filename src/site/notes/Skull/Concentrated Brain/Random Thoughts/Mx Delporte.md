@@ -44,7 +44,7 @@ Fix The World My Dear! You Can Do It!
 I Do Miss Her Already
 ![Pasted image 20260324140129.png](/img/user/images/Pasted%20image%2020260324140129.png)
 I Think She Misses Me Too
-That Actually Makes Me Really Happy (I Am So )
+That Actually Makes Me Really Happy (I Am So Lame)
 
 In Case I Never See You Again: 
 I Love You, You Are A Great Role Model, Everything Will Be Okay
