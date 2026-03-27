@@ -171,8 +171,7 @@ Itll Be Interesting To See If Two [[People]] Hate Each Other Do They Reflect Tha
 
 <script type="text/javascript">
     function checkPswd() {
-        var confirmPassword = "Dies";
-        var confirmPassword = "Pass2";
+        var confirmPassword = "I, Of Sound Body And Mind Commit To Reading This";
         var password = document.getElementById("pswd").value;
         if (password == confirmPassword) {
              window.location="https://my-mind-space.vercel.app/skull/concentrated-brain/random-thoughts/everything-i-have-to-say-that-not-personal-for-other-people-this-is-kinda-sad-and-gross-and-stuff-so-you-have-been-warned/";
