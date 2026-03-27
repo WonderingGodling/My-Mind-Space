@@ -11,12 +11,12 @@
 
 
 ## General
- Race:  [[Skull/Concentrated Brain/Dnd/Terminology/Shifter\|Shifter]]
- Class:  [[Skull/Concentrated Brain/Dnd/Terminology/Monk\|Monk]] 1, [[Skull/Concentrated Brain/Dnd/Terminology/Brawler\|Brawler]] 3
+ Race:  [[Shifter\|Shifter]]
+ Class:  [[Monk\|Monk]] 1, [[Brawler\|Brawler]] 3
 ​    ​‍​    ​‍Fisticuffs: 2d6
 ​    ​‍​    ​‍Style Points: 3
  Alignment: Lawful Good
- Background: [[Skull/Concentrated Brain/Dnd/Terminology/Giant Foundling\|Giant Foundling]]
+ Background: [[Giant Foundling\|Giant Foundling]]
 
 
 ## Stats
@@ -84,25 +84,25 @@ Languages: Giant, Common, Dwarvish, Orcish
 
 # Notes: 
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Monk#Unarmored Defense\|Unarmoured Defence ]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Monk#Martial Arts\|Martial Arts]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Strike of the Giants\|Strike of the Giants]] 2/rest
+[[Monk#Unarmored Defense\|Unarmoured Defence ]]
+[[Monk#Martial Arts\|Martial Arts]]
+[[Strike of the Giants\|Strike of the Giants]] 2/rest
 ​    ​‍​    ​‍Storm Strike, 1d6 DC10
-[[Skull/Concentrated Brain/Dnd/Terminology/Blindsight\|Blindsight]] 15ft
-[[Skull/Concentrated Brain/Dnd/Terminology/Keen Senses\|Keen Senses]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Shifter#Shifting.\|Shifting]] 2/rest
+[[Blindsight\|Blindsight]] 15ft
+[[Keen Senses\|Keen Senses]]
+[[Shifter#Shifting.\|Shifting]] 2/rest
 ​    ​‍​    ​‍Beasthide 1d6, +1AC
-[[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Fisticuffs\|Fisticuffs]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Style\|Style]]
-​​    ​‍​    [[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Headbutt\|Headbutt]] (Con Save Stun)
-     ​‍​   [[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Chokehold\|Chokehold]] (Grapple)
-    ​‍​    [[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Down but not out\|Down but not out]] (0hp, Strike + Prone)
-[[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Street Smart\|Street Smart]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Adrenaline rush\|Adrenaline Rush]] Reactioni
-[[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Fighting style\|Fighting Style]]
-    ​‍​    [[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Street fighter\|Street Fighter]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Brass is better than bone\|Brass is better than bone]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Brawler#Sly shot\|Sly shot ]]
+[[Brawler#Fisticuffs\|Fisticuffs]]
+[[Brawler#Style\|Style]]
+​​    ​‍​    [[Brawler#Headbutt\|Headbutt]] (Con Save Stun)
+     ​‍​   [[Brawler#Chokehold\|Chokehold]] (Grapple)
+    ​‍​    [[Brawler#Down but not out\|Down but not out]] (0hp, Strike + Prone)
+[[Brawler#Street Smart\|Street Smart]]
+[[Brawler#Adrenaline rush\|Adrenaline Rush]] Reactioni
+[[Brawler#Fighting style\|Fighting Style]]
+    ​‍​    [[Brawler#Street fighter\|Street Fighter]]
+[[Brawler#Brass is better than bone\|Brass is better than bone]]
+[[Brawler#Sly shot\|Sly shot ]]
 
 Skill Expert
 

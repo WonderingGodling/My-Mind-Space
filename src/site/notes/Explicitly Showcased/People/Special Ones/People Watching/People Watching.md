@@ -9,9 +9,9 @@
 
 
 Just Walked Passed A Homeless Guy With a Cat Which Is Honestly Genuis  
-His Cat Was This Absolutely Adorable Little Bicolour And Of Course Nobody wants Them To Starve Or Anything So Give The Man Some Money So The Kitty Can Be [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Drugs/Emotion-Vial/Happy/Happy\|Happy]]!
+His Cat Was This Absolutely Adorable Little Bicolour And Of Course Nobody wants Them To Starve Or Anything So Give The Man Some Money So The Kitty Can Be [[Happy\|Happy]]!
 
-Theres A Person In Front Of [[Explicitly Showcased/Me/Me\|Me]] Who Has A Bright [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Pink/pink\|pink]] Backpack And Is Standing Next To Someone Whos Jumper Is That Exact Shade Of [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Pink/pink\|pink]]
+Theres A Person In Front Of [[Explicitly Showcased/Me/Me\|Me]] Who Has A Bright [[pink\|pink]] Backpack And Is Standing Next To Someone Whos Jumper Is That Exact Shade Of [[pink\|pink]]
 It Had A Kuromi Badge!!
 
 Two [[Branches/People\|People]] On My Train Just Shout-Sang "Naked Twister"  
@@ -44,13 +44,13 @@ Girls Talking About How Much They Suck At The Tests Here Or [[Skull/Concentrated
 Adam Wants To Make Fun Of That One Girl
 Because Reasons 
 
-Going To Bed [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Drugs/Emotion-Vial/Sad/Sad Drug\|Sad Drug]] Because What I Want To Do Is Play Bg3 But I Jjust Came Out Of A [[Branches/Dnd\|Dnd]] Sesh Where Everyone Kinda Feels Shitty So I Feel Like It Would Be In Pour Tase To Fuck Off And-- 
+Going To Bed [[Sad Drug\|Sad Drug]] Because What I Want To Do Is Play Bg3 But I Jjust Came Out Of A [[Branches/Dnd\|Dnd]] Sesh Where Everyone Kinda Feels Shitty So I Feel Like It Would Be In Pour Tase To Fuck Off And-- 
 It Would Be In *Poor Taste* To Fuck Off And Then Play A [[Branches/Dnd\|Dnd]] Inspired Videogame Until The Sun Comes Up
 
 Also If [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Moirail]] Doesnt Hate [[Explicitly Showcased/Me/Me\|Me]], Id Love To See How She Talks To The [[Branches/People\|People]] He Does Hate Because I Am Dying Every Day Out Here And I Feel Like Theyre Praying For [[Explicitly Showcased/Me/Me\|Me]] To Become A Better Person, But, Everytime They Look At [[Explicitly Showcased/Me/Me\|Me]] Im Just More Of A Wretched Facade Of Human Emotions, Slowly Crumbling Into The Nothingness That Radiates Out Of [[Explicitly Showcased/Me/Me\|Me]]
 And Im Stuck Like This.
 
-I Mean It Doesnt Help That I Feel Like Everyone Else Is Barely Tollerating [[Explicitly Showcased/Me/Me\|Me]], Except My Cow (Who Does Seem To Genuinely Enjoy Talking To [[Explicitly Showcased/Me/Me\|Me]] But Still Kinda Hates The [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Rest/Rest\|Rest]] Of My Existance) And A Few Other [[Branches/People\|People]] Who I Feel Like Theyre Just Indifferent
+I Mean It Doesnt Help That I Feel Like Everyone Else Is Barely Tollerating [[Explicitly Showcased/Me/Me\|Me]], Except My Cow (Who Does Seem To Genuinely Enjoy Talking To [[Explicitly Showcased/Me/Me\|Me]] But Still Kinda Hates The [[Rest\|Rest]] Of My Existance) And A Few Other [[Branches/People\|People]] Who I Feel Like Theyre Just Indifferent
 Who Can Blame Them Though
 Should Change My Name To Marmite
 Or Just Kill Myself (A Very Funny Joke) To Get Out Of Everyones Way

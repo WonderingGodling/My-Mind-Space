@@ -66,9 +66,9 @@ Bolts 40
 ### Spell List
 
 
-| Cantrip | [[Toll The Dead \|Toll The Dead ]] (Necro) | [[Skull/Concentrated Brain/Dnd/Terminology/Word Of Radiance\|Word Of Radiance]]        | [[Skull/Concentrated Brain/Dnd/Terminology/Chill Touch\|Chill Touch]]  (Necro) | [[Skull/Concentrated Brain/Dnd/Terminology/Thaumaturgy\|Thaumaturgy]]     |                 |
+| Cantrip | [[Toll The Dead \|Toll The Dead ]] (Necro) | [[Word Of Radiance\|Word Of Radiance]]        | [[Chill Touch\|Chill Touch]]  (Necro) | [[Thaumaturgy\|Thaumaturgy]]     |                 |
 | ------- | -------------------------- | --------------------------- | ------------------------ | ------------------- | --------------- |
-| 1st (1) | [[Skull/Concentrated Brain/Dnd/Terminology/False Life\|False Life]] (Necro)     | [[Skull/Concentrated Brain/Dnd/Terminology/Ray Of Sickness\|Ray Of Sickness]] (Necro) | [[Skull/Concentrated Brain/Dnd/Terminology/Inflict Wounds\|Inflict Wounds]]       | [[Skull/Concentrated Brain/Dnd/Terminology/Sanctuary\|Sanctuary]] Bonus | [[Skull/Concentrated Brain/Dnd/Terminology/Cure Wounds\|Cure Wounds]] |
+| 1st (1) | [[False Life\|False Life]] (Necro)     | [[Ray Of Sickness\|Ray Of Sickness]] (Necro) | [[Inflict Wounds\|Inflict Wounds]]       | [[Sanctuary\|Sanctuary]] Bonus | [[Cure Wounds\|Cure Wounds]] |
 | 2nd (0) |                            |                             |                          |                     |                 |
 | 3rd (0) |                            |                             |                          |                     |                 |
 | 4th (0) |                            |                             |                          |                     |                 |
@@ -98,15 +98,15 @@ Languages: Common, Abyssal, Elvish,
 
 Notes: 
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Superior Darkvision\|Superior Darkvision]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Dwarven Resilience\|Dwarven Resilience]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Duergar Resilience\|Duergar Resilience]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Dwarven Combat Training\|Dwarven Combat Training]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Stonecutting\|Stonecutting]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Duergar Magic\|Duergar Magic]] (3rd Lvl)
-[[Skull/Concentrated Brain/Dnd/Terminology/Sunlight Sensitivity\|Sunlight Sensitivity]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Heart of Darkness\|Heart of Darkness]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Reaper\|Reaper]]
+[[Superior Darkvision\|Superior Darkvision]]
+[[Dwarven Resilience\|Dwarven Resilience]]
+[[Duergar Resilience\|Duergar Resilience]]
+[[Dwarven Combat Training\|Dwarven Combat Training]]
+[[Stonecutting\|Stonecutting]]
+[[Duergar Magic\|Duergar Magic]] (3rd Lvl)
+[[Sunlight Sensitivity\|Sunlight Sensitivity]]
+[[Heart of Darkness\|Heart of Darkness]]
+[[Reaper\|Reaper]]
 [[Channel Divinity\|Channel Divinity]]
 [[Channel Divinity: Turn Undead\|Channel Divinity: Turn Undead]]
 [[Channel Divinity: Touch of Death\|Channel Divinity: Touch of Death]]

@@ -25,7 +25,7 @@
 
 
 [ ] Next [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Eras\|Era's]] (ichorous) Theme: 
-	- [ ] Things Of Importance: [[Branches/Gods\|Gods]], Biopunk, [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/MAgic/Magic\|Magic]]
+	- [ ] Things Of Importance: [[Branches/Gods\|Gods]], Biopunk, [[Magic\|Magic]]
 	- [ ] Global Anarchism 
 	- [ ] Current Money Becomes A Part Of You And Can Take Over 
 	- [ ] "Common" (High Fantasy) Races Are Rare

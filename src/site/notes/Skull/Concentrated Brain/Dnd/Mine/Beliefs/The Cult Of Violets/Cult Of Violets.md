@@ -47,6 +47,10 @@ An Indoctrination Ritual That Takes Place In *The Fields*. The New Recruit Will 
 A Ritual Carried Out When A Member Is Believed To Be Floriferous Where Said Member And Their Peers Receive Countless Wounds From The Petals Of *The Fields*, Bleeding Out. Without Impurities, The Peers Will Pass Out And After A Breath The New Floriferant Focal Point's Blood Will Radiate A Ruby Red Glow While Their New Power Settles.
 All Of The Floriferous Have Red Blood Visible Through Their Skin
 
+## Purple Reign
+A Regular Performance Ritual Where The Members Of A Local Church All Gather And Engage In Combat. 
+There Is Typically A Ring Of Violets That Is Places Somewhere, Large Enough For One Person To Stand In. This Ring Is Created By The Highest Ranked Member Who Announces The Start Of The Ritual From Within It. Once The Purple Reign Starts Everybody Fights As Close To Death As Possible In Order To Be The Last One Standing Within The Ring.
+There Are Flower Necklaces Custom Made From Gold And Purple Metal That Make It So That Make It So That You Cannot Kill Or Be Killed During This Ritual. These Are Usually Reserved For Training Purposes Or Newer Recruits Who Are Uncomfortable With Joining In On The Festivities But Any Member Is Allowed To Use One
 # Prayers
 It Hurts Me-It Hurts Me Not, Endless Waters Of Exsanguination Feel My Sorrow Accept My Offering And Brighten Tomorrow,  
 
@@ -56,7 +60,7 @@ It Hurts Me-It Hurts Me Not, Endless Waters Of Exsanguination Feel My Sorrow Acc
 # Monuments In The C Of V
 ### The Fields
 Every Region Has At Least One Violet Field In An Uninhabited Area, Encircled By A Glowing Purple Ring At About Chest Height,
-Theae Fields Shift Positions Allowing The Members Of The Cult A Personally Designated Area To Carry Out Activities In Sanctuary
+These Fields Shift Positions Allowing The Members Of The Cult A Personally Designated Area To Carry Out Activities In Sanctuary
 ### Arenas
 ### Temples
 

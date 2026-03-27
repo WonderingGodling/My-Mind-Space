@@ -11,7 +11,7 @@
 
 
 ## General
- Race:  [[Shadar-Kai\|Shadar-Kai]]/[[Skull/Concentrated Brain/Dnd/Terminology/Reborn\|Reborn]]
+ Race:  [[Shadar-Kai\|Shadar-Kai]]/[[Reborn\|Reborn]]
  Class:  [[Curse User\|Curse User]] 3
 				 [[Curse User#Heavenly pact\|Heavenly pact]]
  Curse Points 6/6
@@ -98,8 +98,8 @@ Languages: Common, Celestial
 
 Notes: 
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Deathless Nature\|Deathless Nature]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Wanderer\|Wanderer]]
+[[Deathless Nature\|Deathless Nature]]
+[[Wanderer\|Wanderer]]
 
 [[Curse User#Spell Casting\|Spell Casting]]
 [[Curse User Martial Arts\|martial Arts]]

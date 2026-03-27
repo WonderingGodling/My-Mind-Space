@@ -83,5 +83,5 @@ any creature that stands within 20 ft of you gains the frightened ailment for as
 - [ ] "Treason"
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Queen\|Queen]] Starting War
 	- [ ] Experimens Performed On Him
-	- [ ] He Was That [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Class/Class\|Class]] Beforehand
+	- [ ] He Was That [[Class\|Class]] Beforehand
 

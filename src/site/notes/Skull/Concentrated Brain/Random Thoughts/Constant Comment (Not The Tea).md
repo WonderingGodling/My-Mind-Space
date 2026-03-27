@@ -890,8 +890,6 @@ I Have To Get To Uni At 9 For This Evo Devo Thing
 
 I Ate A Whole Loaf Of Bread Today :)
 
-<body>
-
 Testing A Thing
 <p hidden>Hello World</p>
 
@@ -902,8 +900,7 @@ function myFunction() {
   document.getElementsByTagName("p")[0].removeAttribute("hidden"); 
 }
 </script>
-
-</body>
+Been Trying For About Two Hours To Have A Thing
 
 
 
@@ -956,7 +953,6 @@ function myFunction() {
 
 
 
-<html>
 <body onbeforeunload="return myFunction()">
 
 <script>
@@ -965,5 +961,3 @@ function myFunction() {
 }
 </script>
 
-</body>
-</html>

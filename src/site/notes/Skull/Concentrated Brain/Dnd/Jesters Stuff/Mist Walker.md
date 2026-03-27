@@ -100,7 +100,7 @@ At the 3rd level you may now pick one of the following Mist walker paths listed 
     
 - Path of the damned
     
-- [[Skull/Concentrated Brain/Dnd/Terminology/Path of the ascended\|Path of the ascended]]
+- [[Path of the ascended\|Path of the ascended]]
     
 
 ### Mist sight

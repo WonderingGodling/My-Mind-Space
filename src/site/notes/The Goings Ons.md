@@ -12,7 +12,7 @@
 # <center><span style="color:#FEDCBA">The Goings Ons</span></center>
 
 
-This Will Function Kind Of Like A Shitty Diary So Wish Me Luck
+This Will Function Kind Of Like A Shitty Diary So Wish [[Explicitly Showcased/Me/Me\|Me]] Luck
 
 ## Copy And Paste Transfer Stuff
 
@@ -36,7 +36,7 @@ I Didnt Sleep I Messed With The Laptop
 I Ran Out Of Data 
 Spotify Was Using Automatic Quality
 
-I Was Gonna Read On The Train But I Still Dont Trust Them
+I Was Gonna [[READ\|READ]] On The Train But I Still Dont Trust Them
 
 ## So Anyway
 
@@ -144,5 +144,18 @@ Makes [[Explicitly Showcased/Me/Me\|Me]] Feel A Little [[Skull/Spam/Crazy\|Crazy
 Im Not Worried Theyre Judging [[Explicitly Showcased/Me/Me\|Me]] Its Just A Very Large Tonal Shift
 
 ## End Of Copy And PAste
+
+
+
+Woke Up This Morning And Cuddled With Eugene Until About Seven When I Got Up And She Stayed In Bed
+I Spent Some Time Cleaning Up, Sorting My Stuff, Putting The Dishes In The Kitchen (Although I Am Sorry I Didnt Wash Them) And Then At About Half Past When I Convinced Her To Get Iut Of Bed And Venture With Me To The Coach Station
+We Did Miss The Coach, And I Did Miss The Deadline To Cancel The Ticket (I Was Looking Up The Rules And Eventually Found That You Can Cancel A Ticket Up To 15 Minutes Before (It Was 13 Minutes Before) So I Bought A New One)
+We Then Spent A While Walking Around, Talking, Looking For A Vegan-Gluten-Free Place To Eat And Some Boba And Most Places Opened At 12 :)
+We Did Find A Bakery That Had One Remaining Cupcake—Lemon Berry— It Was Good And Reminded Us Both Of Strawberry Cheesecake 
+The Coach Was Gate 19 To Glasgow 
+Drivers Swapped Like Twenty Minutes After A London Stop Then We Went Straight To Birmingham 
+Got Home At Five Past Two With A Greggs My Mother Bought And Picked Up My Glasses And Everything Else That Had Been Delivered While I Was Away
+These Glasses Are Rectangular Which Is What I Had Before I Remember Noting That I Could See The Rims And I Can Still Now
+I Am Going To Keep It Though
 
 <center><sub>Done :)</sub></center>

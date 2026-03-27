@@ -158,29 +158,29 @@ Really Enjoying This Season For Some Reason
 Going To Bed
 
 52•2024•0359 Is [[Explicitly Showcased/Me/Me\|Me]] Going To Bed Early So That Im Fully Rested For Dee <s>Tomorrow</s> Today 
-Also Listening To [[Branches/TMA\|TMA]] 99 Dust To Dust; Its A Gertrude Episode (Not Her Best Though)
+Also Listening To [[[[TMA\|[[TMA]]]] 99 Dust To Dust; Its A Gertrude Episode (Not Her Best Though)
 
-Also, [[Explicitly Showcased/Me/Me\|Me]], Its Boise City Oklahoma
+Also, [[[[Me\|[[Explicitly Showcased/Me/Me\|Me]]]], Its Boise City Oklahoma
 You Always Forget That Settlement--
-What The Gell Is My Tinnitus Doing Today Its Bloody Distracting 
+[[WHAT\|WHAT]] The Gell Is My Tinnitus Doing Today Its Bloody Distracting 
 
 Holy Hell! Today Was So Awesome!! 52•2024• 
-I Got To Hang Out With Dee Like All Day-- 
+I Got To Hang Out With [[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!\|Mai Wife!!]] Like All Day-- 
 
-I Just love Dee So Much
+I Just love [[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!\|Mai Wife!!]] So Much
 
-Also [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Is Cool, Glad Theyre Safe And All That
+Also [[[[Roodolf\|[[Roodolf]]|Roo]] Is Cool, Glad Theyre Safe And All That
 
 ![Tumblr_l_1160578296118.jpg](/img/user/images/Tumblr_l_1160578296118.jpg)
 
 
 
 
-![[Screenshot_20240223_073901_One UI Home.png\|Screenshot_20240223_073901_One UI Home.png]]
+![[Screenshot_20240223_073901_One UI [[Home Page\|Screenshot_20240223_073901_One UI [[Home Page]].png]]
 
-Uhhh [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]? (ETA: Well Thats Gone?)
+Uhhh [[[[Okay\|[[Okay]]]]? (ETA: Well Thats Gone?)
 
-I Forgot About This Comic https://halo-head.com/comic/347-try-to-draw/ (Embed This Later) (EAT: The Hell You Mean eMbed This Later? How Would I Embed That)
+I Forgot About This Comic https://halo-head.com/comic/347-try-to-[[Draw\|Draw]]/ (Embed This Later) (EAT: The Hell You Mean eMbed This Later? How Would I Embed That)
 Last Updated Yesterday 
 Happens Every Time That I Read This
 
@@ -198,7 +198,7 @@ My Girls Got A Lil Pregnant, No Wories
 Eating Goldbears Like A Weirdo
 
 (59·2024·8333~)
-Finally Got My Pc Back; [[Explicitly Showcased/Me/Me\|Me]] And Core Spent Like All Day Working On It And Now Everything Works Smoothly
+Finally Got My Pc Back; [[[[Me\|[[Explicitly Showcased/Me/Me\|Me]]]] And Core Spent Like All Day Working On It And Now Everything Works Smoothly
 
 Now For Some Note Catchup
 
@@ -393,7 +393,7 @@ Needles
 ![](https://i.imgur.com/W1Wnbrl.png)
 Still Dont Know How I Did That
 
-Done [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] All Day
+Done [[[[Nothing\|[[Nothing]]]] All Day
 Missed Some Stuff Out- I Need To be Better At This
 
 Father Called
@@ -461,7 +461,7 @@ Ive Also Been Enjoying The McMaster's Guide To Homicide <b>Murder Your Employer<
 Headacheee
 
 Watched All The Doctor Who
-[[Skull/Concentrated Brain/Dnd/Terminology/Rogue\|Rogue]] Felt Like A Classic
+[[Rogue\|Rogue]] Felt Like A Classic
 And The Doctor Got Another Souvinir
 
 Kettle Threw My Power Out
@@ -469,7 +469,7 @@ Kettle Threw My Power Out
 Playing More Ring Of Pain
 Thats Going Not So Well
 
-[[Explicitly Showcased/People/Special Ones/Roo/Roo\|Roo]] Was So Toxic Today
+[[[[Roodolf\|[[Roodolf]]]] Was So Toxic Today
 If Anything Comes Up Regarding Wednesday 164·2024· Then We Can Assume That Was That
 
 
@@ -888,8 +888,53 @@ If you want someone crazy like me, babe
 
 Minecraft Refuses To Work D:
 
+I Should Look Up If You Can Have Something Hidden *On* A Webpage Without A Password Or Something To Reveal It
 
+First Night In Birmingham And I Can Hear Two Ambulances
+Oh Fuck
+Fire Engine Too
+Every Half Hour Is 0.02%
 
+My Phones Keep Getting Stuck In My Pocket
+
+Clean
+Tiktik
+Look Up Blood Test
+Request All Medical Information
+Check If tiktik Sync
+Try Get Framework Laptop From Dsa
+Check More Disability Stuff Uk
+Medical/Self-Care Bag Or Something
+Get Drawers After Room Clean
+
+Something I Do Too Much Is Pretend Not To Know What I Am Talking About
+I Think I Value My Own Knowledge Too Much And Assume That Others Do Too So If I Say Something Assertively And Am Wrong I Will Feel badOr Maybe I Am Too Aware Of How Blunt I Can Be And Am Substituting That With Vague Passificity
+If There Is A Balance I Am Not Managing It
+
+Also 85 2025
+I Have Not Been On Top Of This Very Well Partiqlly Because I Have Been Too Busy Partially Because i Have Been Too Uncomfortable (Physical And Emotional) To Manage Thinsg
+
+Stress Toy Dildo COming Tomorrow
+haha Coming
+
+Friend Hurt Himself So I Am Giving Him Some Of My Cute Plasters Tomorrow
+![20260326_231355.jpg](/img/user/images/20260326_231355.jpg)
+
+I Have To Get To Uni At 9 For This Evo Devo Thing
+
+I Ate A Whole Loaf Of Bread Today :)
+
+Testing A Thing
+<p hidden>Hello World</p>
+
+<button onclick="myFunction()">Test Button</button>
+
+<script>
+function myFunction() {
+  document.getElementsByTagName("p")[0].removeAttribute("hidden"); 
+}
+</script>
+Been Trying For About Two Hours To Have A Thing That Is H
 
 
 
@@ -942,17 +987,14 @@ Minecraft Refuses To Work D:
 
 
 
-<html>
 <body onbeforeunload="return myFunction()">
 
 <script>
 function myFunction() {
-  return "Write something clever here...";
+  return "Write [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] clever here...";
 }
 </script>
 
-</body>
-</html>
 
 
 </div></div>
@@ -1039,7 +1081,7 @@ Her Torturous Voice Echos Throughout The House And Comes At You From Every Conce
 
 Theres A Scene At The End Of A Lot Of Hamtaro Episodes Where The Mother (I Dont Remember Anyones Names) Says [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] About Or Directed Towards The Daughter But Says The Wrong Name  
 Theres One Scene In Particular Thats Stuck With [[Explicitly Showcased/Me/Me\|Me]] Where The Mother Addresses The Girl As "Brandy" To Which She Replies "Thats The Dog Mom...."  
-The Reason Its Always Stuck With [[Explicitly Showcased/Me/Me\|Me]] Is Because Thats How I Feel Every Time I Have A Conversation With My Mother  
+The Reason Its Always Stuck With [[Me]] Is Because Thats How I Feel Every Time I Have A Conversation With My Mother  
 I Know Shes Not Listening And That I Have - And Will Have To - Repeat Whatever I Just Said To Someone Who Ultimately Doesnt Care One Way Or The Other
 
 
@@ -1052,7 +1094,7 @@ Excuse Me‽ Bitch
 I Try Do Hard To Not Add To Thid Page; That Woman Shovels So Much Negative Energy Into My Soul
 Energy That I Dont Want To Use To Fuel My Being; Or Even To Fuel My Writing In Any Form....Yet Here We Are
 
-My Mothers Trying To Tell [[Explicitly Showcased/Me/Me\|Me]] That Imposter Syndrome Is When Someone Pretends To Be You 
+My Mothers Trying To Tell [[Me]] That Imposter Syndrome Is When Someone Pretends To Be You 
 
 My Mother Wanted To Watch A Movie Then My Brother Started A Conversation 
 When It Ended I Asked Her To Rewind And When She Did She Called My Brother Back :/

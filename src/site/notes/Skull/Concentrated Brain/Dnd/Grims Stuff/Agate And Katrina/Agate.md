@@ -83,7 +83,7 @@ Languages: common
 
 # Notes: 
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Attentiveness\|Attentiveness]]
-[[Skull/Concentrated Brain/Dnd/Terminology/adrenaline rush\|adrenaline rush]]
+[[adrenaline rush\|adrenaline rush]]
 [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Radioactive aura\|Radioactive Aura]] 
 [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Glowing skin\|Glowing Skin]]
 [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Melted internals\|Melted Internals]]

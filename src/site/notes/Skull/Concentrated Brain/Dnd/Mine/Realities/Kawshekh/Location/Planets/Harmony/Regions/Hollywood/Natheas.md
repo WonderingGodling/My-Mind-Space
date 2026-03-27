@@ -21,7 +21,7 @@ Exports: Coal Plants, Hot Berries (Like Blueberry Sized Chillies), And Natural M
 - Imps, Fiends
 - Farmers
 - Pharmacists
-- Some White/[[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Black/Black\|Black]] Birds
+- Some White/[[Black\|Black]] Birds
 	- Doves
 	- geese
 	- Swans

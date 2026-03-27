@@ -49,7 +49,7 @@
 
 ### [[Katrina's Spells\|Katrina's Spells]]
 [[Primal Savagery\|Primal Savagery]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Eldritch Blast\|Eldritch Blast]]
+[[Eldritch Blast\|Eldritch Blast]]
 
 [[Hex\|Hex]]
 

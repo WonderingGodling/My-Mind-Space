@@ -111,14 +111,14 @@ Notes:
 [[Curse User#Broken but unbound \|Broken but unbound]] 15ft Teleport 5
 
 [[Blessing of the Raven Queen \|Blessing of the Raven Queen ]](5)
-[[Skull/Concentrated Brain/Dnd/Terminology/Darkvision\|Darkvision]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Fey Ancestry\|Fey Ancestry]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Trance\|Trance]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Keen Senses\|Keen Senses]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Necrotic Resistance\|Necrotic Resistance]]
+[[Darkvision\|Darkvision]]
+[[Fey Ancestry\|Fey Ancestry]]
+[[Trance\|Trance]]
+[[Keen Senses\|Keen Senses]]
+[[Necrotic Resistance\|Necrotic Resistance]]
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Ear to the Ground\|Ear to the Ground]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Telekinetic\|Telekinetic]] (Strength Dc 17)
+[[Ear to the Ground\|Ear to the Ground]]
+[[Telekinetic\|Telekinetic]] (Strength Dc 17)
 
 ### Spell List
 

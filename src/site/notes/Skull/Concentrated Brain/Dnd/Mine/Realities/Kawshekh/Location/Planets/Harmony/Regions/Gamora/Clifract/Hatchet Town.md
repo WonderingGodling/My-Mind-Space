@@ -43,13 +43,13 @@ The Cannibalism Has Been A Thing In Recent History
 			- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Khan Doorman\|Khan Doorman]]
 				- Gay
 	- Only Painted Door Is The Front Door
-		- The [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Rest/Rest\|Rest]] Are Exposed Wood
-	- Inside Everyone Is Wearing Wine-[[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Red/Red\|Red]] Hoodless Cloaks Which You Need In Order To Participate
+		- The [[Rest\|Rest]] Are Exposed Wood
+	- Inside Everyone Is Wearing Wine-[[Red\|Red]] Hoodless Cloaks Which You Need In Order To Participate
 		- Can Get Cloaks From The Cloak Room If They Have A Key
 			- Last Guy In The Cloak Room Meran
 			- Can *Find* Cloaks In The Store Room, Shop, Stolen From Laundry/Lost And Found,
 				- Hidden <span style="color:rgb(75, 236, 19)">VIP Cloak</span> Room
-					- <span style="color:rgb(75, 236, 19)">VIP Cloaks</span> Are [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Red/Red\|Red]] With A Gold Hourglass Embroidered On It
+					- <span style="color:rgb(75, 236, 19)">VIP Cloaks</span> Are [[Red\|Red]] With A Gold Hourglass Embroidered On It
 		- Lots Of Chairs In The Reception
 	- Cloak Room (east) And Conference Room (North) Prespawned
 
@@ -59,8 +59,8 @@ Theres A House With: 2 Rations, Half A Cooked Bird, A Loaf Of Bread
 Can Notice [[Branches/People\|People]] Keep Flooding In To A Specific Building ([[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town#The Hatchet Town Hideout\|#The Hatchet Town Hideout]])
 	Cant Enter Hideout Without Password (The Biggest Shadows Under The Brightest [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]])
 	Doorman (Khan)
-	Inside Everyone Is Wearing Wine-[[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Red/Red\|Red]] Hoodless Cloaks Which You Need In Order To Participate
-		There Are VIP Cloaks  ([[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Red/Red\|Red]], Gold Hourglass Embroidered On It)
+	Inside Everyone Is Wearing Wine-[[Red\|Red]] Hoodless Cloaks Which You Need In Order To Participate
+		There Are VIP Cloaks  ([[Red\|Red]], Gold Hourglass Embroidered On It)
 		Can Get Cloaks From The Locker Room If They Have A Key
 			Can *Find* Cloaks In The Store Room, Shop, Stolen From Laundry/Lost And Found, 
 	Only The Outside Door Is Painted
@@ -76,10 +76,10 @@ Can Notice [[Branches/People\|People]] Keep Flooding In To A Specific Building (
 	- "If We Fail-"
 		- "Dont. And If You Do? Dont."
 	- "What Does [Loop #] Mean For Us"
-		- "It Means Weve Just Gotten Started. Go All Out Have No [[Skull/Concentrated Brain/Dnd/Terminology/Fear\|Fear]]. Be REady To Die"
+		- "It Means Weve Just Gotten Started. Go All Out Have No [[Fear\|Fear]]. Be REady To Die"
 	- No More Questions This Loop
 - "If It Shimmers Then Meeting Is Adjourned" He Holds Up His Hand
-- Call And Response: "If It Shimmers/Clouds...", "Faith"/"[[Skull/Concentrated Brain/Dnd/Terminology/Fear\|Fear]]"
+- Call And Response: "If It Shimmers/Clouds...", "Faith"/"[[Fear\|Fear]]"
 - Everyone Disperses Except For....
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor\|Fruitless Sky Advisor]]
 Cant Talk 
@@ -89,12 +89,12 @@ Mouth Is Full Of Inky Blackness That Spills Out If She Tries To Talk
 	- Timer Till Death
 	- Can Just Leave
 
-[[Skull/Concentrated Brain/Dnd/Mine/Mechanics/MAgic/Magic\|Magic]] Detection Around The Doorway To And Out The Lab
+[[Magic\|Magic]] Detection Around The Doorway To And Out The Lab
 Lisa (Astronomer For The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Fruitless Sky\|Fruitless Sky]])
-	Writing (Poorly) About The Starts In A Dark [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Blue/Blue\|Blue]] Notebook
+	Writing (Poorly) About The Starts In A Dark [[Blue\|Blue]] Notebook
 	Doing Experiments
 	Writing Letters To The [[Branches/People\|People]] Who Couldnt Make It To This Hideout With Equally Bad Handwritting
-Lots Of Random Since Equipment Spread Out, Monitors Temperatures, Densities, Responsiveness To Different [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/MAgic/Magic\|Magic]] Forms
+Lots Of Random Since Equipment Spread Out, Monitors Temperatures, Densities, Responsiveness To Different [[Magic\|Magic]] Forms
 Segments Of Monster Corpses Spread Around
 	Some Hooked Into/Between Devices
 Goblins Seem To Know About The Astronomy Stuff Better Than The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Fruitless Sky\|Fruitless Sky]] Do
@@ -123,7 +123,7 @@ Reception, Lots Of Chairs, [[Branches/People\|People]] Wearing Cloaks And Chatti
 Cloak Room (East & West), Conference Room North)
 Outside Rooms Have Cats
 ###### VIP Cloaks
-([[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Red/Red\|Red]], Gold Hourglass Embroidered On It)
+([[Red\|Red]], Gold Hourglass Embroidered On It)
 Full HP (Cooldown), Cant Have Negative Modiers In The Hideout, Disadvantage On Deception If Both Parties Are Wearing The Cloak
 ### Rooms
 - Nook, No Exits

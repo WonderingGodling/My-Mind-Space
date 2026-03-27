@@ -30,11 +30,11 @@ Time: Sunset
 - Sena Demands Someone Gets Her A Cloak
 	- Fails Intimidation Check And Gets Gusted To The Floor
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]] Fails To Talk Meran Down
-- Another [[Skull/Concentrated Brain/Dnd/Terminology/Gust\|Gust]] Of Wind Knocks Everyone But [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]] And Meran Over
+- Another [[Gust\|Gust]] Of Wind Knocks Everyone But [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]] And Meran Over
 	- Khan Had To Get The Third Cloak Special
 - They Leave And Reinvestigate The Well
 - Then They Start Killing Each Other While Harbinger Watches
-- They Team Up On [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Aris\|Aris]], [[Skull/Concentrated Brain/Dnd/Terminology/Knock\|Knock]] Her Out And Force Her Into The Well
+- They Team Up On [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Aris\|Aris]], [[Knock\|Knock]] Her Out And Force Her Into The Well
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Aris\|Aris]] Passes Out For Ten Minutes
 - They Argue For A While
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Aris\|Aris]] Finds A Building (The Local Inn) With A Person (Trill) Looking After His Dads Place
@@ -46,7 +46,7 @@ Back In The Hideout
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]] Tries To Kill [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton\|Linton]]
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton\|Linton]] Gets Stuck On A Write
 	- Advisor Helps Out
-- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]] Gets Knocked Out By An [[Skull/Concentrated Brain/Dnd/Terminology/Eldritch Blast\|Eldritch Blast]]
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]] Gets Knocked Out By An [[Eldritch Blast\|Eldritch Blast]]
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]] Gets Stripped Of Her Cloak And Dumped Outside
 	- Harbinger Watches All Of This
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Aris\|Aris]] And Sena Converse About The General Situation
@@ -67,10 +67,10 @@ Back In The Hideout
 	- "If We Fail-"
 		- "Dont. And If You Do? Dont."
 	- "What Does [Loop #] Mean For Us"
-		- "It Means Weve Just Gotten Started. Go All Out Have No [[Skull/Concentrated Brain/Dnd/Terminology/Fear\|Fear]]. Be REady To Die"
+		- "It Means Weve Just Gotten Started. Go All Out Have No [[Fear\|Fear]]. Be REady To Die"
 	- No More Questions This Loop
 - "If It Shimmers Then Meeting Is Adjourned" He Holds Up His Hand
-- Call And Response: "If It Shimmers/Clouds...", "Faith"/"[[Skull/Concentrated Brain/Dnd/Terminology/Fear\|Fear]]"
+- Call And Response: "If It Shimmers/Clouds...", "Faith"/"[[Fear\|Fear]]"
 - Everyone Disperses Except For.... [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor\|Fruitless Sky Advisor]]
 
  If Theyre Found Out: Escape Room
@@ -83,7 +83,7 @@ Back In The Hideout
 - A Girl (Lisa) Writing About [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]] In A Notebook For The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Fruitless Sky\|Fruitless Sky]]
 - Lisa Has Bad Handwritting
 - Wants [[Branches/People\|People]] To Not Touch Anytthing Because Its All Sensitive And/Or Dangerous
-- [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/MAgic/Magic\|Magic]] Detection By The Lab Doors
+- [[Magic\|Magic]] Detection By The Lab Doors
 - Passively Studying Monster Corpse Stuff
 	- Mentions Of Goblins Stuff And Hints Towards The Goblins Knowing The Star Stuff
 
@@ -201,7 +201,7 @@ If A Member Of Group S (A Vantas) Interacts With A Party Member They Get A Bendy
 - Performed By Bards
     - Lead By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Pan-Pipes Peter\|Pan-Pipes Peter]]
         - His Pipes Get Stolen After The Performance
-    - [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Rest/Rest\|Rest]] Of The Band Is Made Up Of Dwarves (Paul, Gene, Ace) And Aasimar TWins (Vinnie, Eric)
+    - [[Rest\|Rest]] Of The Band Is Made Up Of Dwarves (Paul, Gene, Ace) And Aasimar TWins (Vinnie, Eric)
 - After The First Loop The Music Is Managed By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Clarent\|Clarent]]
 ### Replacement
 Announced By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hunter\|Hunter]] Because Who Knows Where [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Lancelot\|Lancelot]] Is
@@ -234,7 +234,7 @@ Announced By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hunter\|Hunt
 ### Minigames
 - Friendship Test
 	- Put An Item That Links You In A Box
-	- [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Red/Red\|Red]] Light Or [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Green/Green\|Green]] Light
+	- [[Red\|Red]] Light Or [[Green\|Green]] Light
 ### Balloon Darts
 ### Whack-a-mole
 free
@@ -271,22 +271,22 @@ If She Dies All The Creatures Are Let Out
 - [ wordle](https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjITTE/edit?gid=364337137#gid=364337137)
 	- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Nonogram\|Nonogram]] (WIP)
 	- Escape room
-		- Pitch [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Black/Black\|Black]] Room ([[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Black/Black\|Black]] Doorframe)
+		- Pitch [[Black\|Black]] Room ([[Black\|Black]] Doorframe)
 			-  Middle Of The Room Is A Table With 7 (Antimagic) Cups Filled With Coloured Liquid (Roygbiv)
-			- [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Green/Green\|Green]] Gnomish Writing On The Wall "Drink [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Green/Green\|Green]]"
-			- When They Drink [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Green/Green\|Green]] They Vanish
+			- [[Green\|Green]] Gnomish Writing On The Wall "Drink [[Green\|Green]]"
+			- When They Drink [[Green\|Green]] They Vanish
 		- Runic Doorframe
 			- Two Doors, 1/4, 1/3
 				- "Choose Largest" Sign
 				- Door They Came Through Is 1
-		- [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Green/Green\|Green]] Doorframe "Easy"
+		- [[Green\|Green]] Doorframe "Easy"
 			- Door With Key In It, Does Open If Keys In It
 	- Egg Hunt
 		- Featuring One Non-Egg 
 
 ### Showcases
 #### Blakewell (Steampunk)
-- [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Purple/Purple Oil\|Purple Oil]] Member Of The Guilded Capes
+- [[Purple Oil\|Purple Oil]] Member Of The Guilded Capes
 - **[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]]-Heated-Sodio-Elysium Crystal** Blessed By The God Of Craft Reeves
 - **Members Of [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias\|Vantias]]** Cause A Scene
     - "Fake Science"
@@ -309,11 +309,11 @@ If She Dies All The Creatures Are Let Out
 ### **Intergalactic Subway**
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Neutral/Jared\|Jared]] Stays In The Subway Alone And Does His Job
     - Has Next Day Off
-        - Is At Subway For The [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Rest/Rest\|Rest]] Of The Timeline
+        - Is At Subway For The [[Rest\|Rest]] Of The Timeline
 - Bin Of Screaming
     - Three Bins
-        - Bin One: [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Green/Green\|Green]], Screams
-        - Bin Two: [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Red/Red\|Red]], Recycling
+        - Bin One: [[Green\|Green]], Screams
+        - Bin Two: [[Red\|Red]], Recycling
         - Bin Three: Grey, Rubbish
       
 ### Sera's Stand
@@ -323,13 +323,13 @@ Tea Shop With Open Jars Of what Looks Like Various Herbs And Powders
 Honor System
 	Breaking Honor  System Gives 1 Related And 1 Random Curse
 #### 20 Gold Tea (Price Increases Every Time), Effects Last For The Loop
-[[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Blue/Blue\|Blue]]- +10 Speed
+[[Blue\|Blue]]- +10 Speed
 Sleepy Time With [[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|Tiddy Gremlin]]- Advantage Against Being Put To Sleep
-Carrot Tea- [[Skull/Concentrated Brain/Dnd/Terminology/Darkvision\|Darkvision]] 20ft
+Carrot Tea- [[Darkvision\|Darkvision]] 20ft
 Mixed Fruits- +1 To Lowest Stat
 #### 100 Gold Tea
 Pep In Your Step- Extra Reaction
-[[Skull/Concentrated Brain/Dnd/Terminology/Lucky\|Lucky]] Sip- Inspiration
+[[Lucky\|Lucky]] Sip- Inspiration
 Golden Shower- [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]
 Free Spirit- One Death Save
 ### A few (SMALL) quests 

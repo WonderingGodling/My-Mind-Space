@@ -149,7 +149,7 @@ Very Busy Streets As [[Branches/People\|People]] Try To Get Back To Their Homes 
 
 #### Day 2
 - [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Emil\|Emil]] Is Having [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Sakka\|Sakka]]Cheap Come And Add Protection Spells TO Her Place
-	- [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Oil Colour/Black/Black\|Black]] Carvings On The Handle, Decorated With [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]] And Swirls
+	- [[Black\|Black]] Carvings On The Handle, Decorated With [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]] And Swirls
 	- Keep Door Locked -> When Touch Door If ([[Skull/Concentrated Brain/Random Thoughts/PetPlay Stuffs\|Owner]] Open) (Not [[Skull/Concentrated Brain/Random Thoughts/PetPlay Stuffs\|Owner]] Zap) 
 		- Fault Points:
 		- Door= Oared, [[Draw\|Draw]], Dore

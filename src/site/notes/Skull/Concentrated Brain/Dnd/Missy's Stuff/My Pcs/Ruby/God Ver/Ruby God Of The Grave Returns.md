@@ -15,9 +15,9 @@
 
 ## General
  Race:  Aasimar
- Class: [[Skull/Concentrated Brain/Dnd/Terminology/Bloodhunter\|Bloodhunter]] ([[Skull/Concentrated Brain/Dnd/Terminology/Ghostslayer\|Ghostslayer]]) 20 [[Fighter\|Fighter]] 2
+ Class: [[Bloodhunter\|Bloodhunter]] ([[Ghostslayer\|Ghostslayer]]) 20 [[Fighter\|Fighter]] 2
  Alignment: Chaotic Good
- Background: [[Skull/Concentrated Brain/Dnd/Terminology/Folk Hero\|Folk Hero]]
+ Background: [[Folk Hero\|Folk Hero]]
 
 
 ## Stats
@@ -74,9 +74,9 @@ Free
 
 | **Cantrip** | [[Light\|Light]]              |                   |
 | ----------- | ---------------------- | ----------------- |
-| **1st**     | [[thunderwave\|thunderwave]]        | [[Skull/Concentrated Brain/Dnd/Terminology/Burning Hands\|Burning Hands]] |
-| **2nd**     | [[Skull/Concentrated Brain/Dnd/Terminology/Rime's Binding Ice\|Rime's Binding Ice]] |                   |
-| **3rd**     | [[Skull/Concentrated Brain/Dnd/Terminology/Counterspell\|Counterspell]]       |                   |
+| **1st**     | [[thunderwave\|thunderwave]]        | [[Burning Hands\|Burning Hands]] |
+| **2nd**     | [[Rime's Binding Ice\|Rime's Binding Ice]] |                   |
+| **3rd**     | [[Counterspell\|Counterspell]]       |                   |
 
 
 # Inventory
@@ -101,67 +101,67 @@ Languages: Common & Celestial
 	 
 # Notes: 
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Darkvision\|Darkvision]] 60
-[[Skull/Concentrated Brain/Dnd/Terminology/Celestial Resistance\|Celestial Resistance]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Healing Hands\|Healing Hands]] 9d4
-[[Skull/Concentrated Brain/Dnd/Terminology/Light Bearer\|Light Bearer]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Celestial Revelation\|Celestial Revelation]]
-    [[Skull/Concentrated Brain/Dnd/Terminology/Radiant Soul\|Radiant Soul]]
+[[Darkvision\|Darkvision]] 60
+[[Celestial Resistance\|Celestial Resistance]]
+[[Healing Hands\|Healing Hands]] 9d4
+[[Light Bearer\|Light Bearer]]
+[[Celestial Revelation\|Celestial Revelation]]
+    [[Radiant Soul\|Radiant Soul]]
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Rustic Hospitality\|Rustic Hospitality]]
+[[Rustic Hospitality\|Rustic Hospitality]]
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Hunter's Bane\|Hunter's Bane]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Blood Maledict\|Blood Maledict]] 4/5
-    [[Skull/Concentrated Brain/Dnd/Terminology/Blood Curse of Binding\|Blood Curse of Binding]]
-    [[Skull/Concentrated Brain/Dnd/Terminology/Blood Curse of the Marked\|Blood Curse of the Marked]]
-    [[Skull/Concentrated Brain/Dnd/Terminology/Blood Curse of Exposure\|Blood Curse of Exposure]]
-    [[Skull/Concentrated Brain/Dnd/Terminology/Blood Curse of the Fallen Puppet\|Blood Curse of the Fallen Puppet]]
-    [[Skull/Concentrated Brain/Dnd/Terminology/Blood Curse of the Exorcist\|Blood Curse of the Exorcist]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Fighting Style\|Fighting Style]]
-    [[Skull/Concentrated Brain/Dnd/Terminology/Great Weapon Fighting\|Great Weapon Fighting]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Crimson Rite\|Crimson Rite]]
+[[Hunter's Bane\|Hunter's Bane]]
+[[Blood Maledict\|Blood Maledict]] 4/5
+    [[Blood Curse of Binding\|Blood Curse of Binding]]
+    [[Blood Curse of the Marked\|Blood Curse of the Marked]]
+    [[Blood Curse of Exposure\|Blood Curse of Exposure]]
+    [[Blood Curse of the Fallen Puppet\|Blood Curse of the Fallen Puppet]]
+    [[Blood Curse of the Exorcist\|Blood Curse of the Exorcist]]
+[[Fighting Style\|Fighting Style]]
+    [[Great Weapon Fighting\|Great Weapon Fighting]]
+[[Crimson Rite\|Crimson Rite]]
      Necrotic
      Cold
      Radiance
      Psychic
-[[Skull/Concentrated Brain/Dnd/Terminology/Rite Focus\|Rite Focus]]
+[[Rite Focus\|Rite Focus]]
         The Grave
-[[Skull/Concentrated Brain/Dnd/Terminology/Extra Attack\|Extra Attack]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Brand of Castigation\|Brand of Castigation]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Aether Walk\|Aether Walk]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Revealed Arcana\|Revealed Arcana]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Grim Psychometry\|Grim Psychometry]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Rime's Binding Ice\|Rime's Binding Ice]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Mystic Frenzy\|Mystic Frenzy]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Dark Augmentation\|Dark Augmentation]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Brand of the Sapping Scar\|Brand of the Sapping Scar]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Unsealed Arcana\|Unsealed Arcana]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Counterspell\|Counterspell]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Brand of Sundering\|Brand of Sundering]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Brand of Tethering\|Brand of Tethering]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Hardened Soul\|Hardened Soul]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Rite Revival\|Rite Revival]]
-	[[Skull/Concentrated Brain/Dnd/Terminology/Blood Curse of the Souleater (Feature)\|Blood Curse of the Souleater (Feature)]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Sanguine Mastery\|Sanguine Mastery]]
+[[Extra Attack\|Extra Attack]]
+[[Brand of Castigation\|Brand of Castigation]]
+[[Aether Walk\|Aether Walk]]
+[[Revealed Arcana\|Revealed Arcana]]
+[[Grim Psychometry\|Grim Psychometry]]
+[[Rime's Binding Ice\|Rime's Binding Ice]]
+[[Mystic Frenzy\|Mystic Frenzy]]
+[[Dark Augmentation\|Dark Augmentation]]
+[[Brand of the Sapping Scar\|Brand of the Sapping Scar]]
+[[Unsealed Arcana\|Unsealed Arcana]]
+[[Counterspell\|Counterspell]]
+[[Brand of Sundering\|Brand of Sundering]]
+[[Brand of Tethering\|Brand of Tethering]]
+[[Hardened Soul\|Hardened Soul]]
+[[Rite Revival\|Rite Revival]]
+	[[Blood Curse of the Souleater (Feature)\|Blood Curse of the Souleater (Feature)]]
+[[Sanguine Mastery\|Sanguine Mastery]]
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Blind Fighting\|Blind Fighting]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Second Wind\|Second Wind]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Action Surge\|Action Surge]]
+[[Blind Fighting\|Blind Fighting]]
+[[Second Wind\|Second Wind]]
+[[Action Surge\|Action Surge]]
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Boon of Irresistible Offense\|Boon of Irresistible Offense]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Boon of Magic Resistance\|Boon of Magic Resistance]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Boon of Recovery\|Boon of Recovery]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Boon of Resilience\|Boon of Resilience]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Boon of the Fire Soul\|Boon of the Fire Soul]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Boon of the Stormborn\|Boon of the Stormborn]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Boon of Fortitude\|Boon of Fortitude]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Boon of Quick Casting\|Boon of Quick Casting]]
+[[Boon of Irresistible Offense\|Boon of Irresistible Offense]]
+[[Boon of Magic Resistance\|Boon of Magic Resistance]]
+[[Boon of Recovery\|Boon of Recovery]]
+[[Boon of Resilience\|Boon of Resilience]]
+[[Boon of the Fire Soul\|Boon of the Fire Soul]]
+[[Boon of the Stormborn\|Boon of the Stormborn]]
+[[Boon of Fortitude\|Boon of Fortitude]]
+[[Boon of Quick Casting\|Boon of Quick Casting]]
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Tough\|Tough]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Resilient\|Resilient]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Savage Attacker\|Savage Attacker]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Vital Sacrifice\|Vital Sacrifice]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Slasher\|Slasher]]
+[[Tough\|Tough]]
+[[Resilient\|Resilient]]
+[[Savage Attacker\|Savage Attacker]]
+[[Vital Sacrifice\|Vital Sacrifice]]
+[[Slasher\|Slasher]]
 
 19d6 Disintergrate  Cantrip
 # Forewarning

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Thought Emporium Or Whatever","permalink":"/Thought Emporium Or Whatever/","tags":["Tagless"],"dgShowToc":true}
+{"dg-publish":true,"dg-permalink":"Thought Emporium Or Whatever","permalink":"/Thought Emporium Or Whatever/","title":"Filtered Thoughts","tags":["Tagless"],"dgShowToc":true}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
@@ -143,7 +143,7 @@ This [Website](https://my-mind-space.vercel.app/) Will See The Biggest Hit In 
 
 Also Im Now A Light Player And I Think [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Is One Of The Desolation Maybe; Who Knows
 
-Corys Definitely A Light Player; I Dont Know If Hes A Watcher Though; I Think Hes A Spiral Or Maybe The Web (Do Spiders Need To Manipulate <b>[[Branches/People\|People]]</b> Or Can They Have Fun With It?)
+Corys Definitely A Light Player; I Dont Know If Hes A Watcher Though; I Think Hes A Spiral Or Maybe The Web (Do Spiders Need To Manipulate <b>[[[[People\|[[Branches/People\|People]]]]</b> Or Can They Have Fun With It?)
 
 Speech To Text Making An Appearance
 
@@ -151,9 +151,36 @@ Count Bin Face Is Active Again
 
 
 I Wanna Put Together A Dnd Party Of [[Branches/People\|People]] Who Explicitly Arent Friends; Mainly To See How Player Chemistry Would Form From Scratch Or If It Even Will
-Itll Be Interesting To See If Two [[Branches/People\|People]] Hate Each Other Do They Reflect That In-Game Or Vice Versa
+Itll Be Interesting To See If Two [[People]] Hate Each Other Do They Reflect That In-Game Or Vice Versa
 
 ## End Of Copy And PAste
 
 
 <center><sub>Done :)</sub></center>
+
+
+
+
+
+<body>
+<form>
+    <label for="pswd">One More Time</label>
+    <input type="password" id="pswd">
+    <input type="button" value="Submit" onclick="checkPswd();" />
+</form>
+
+<script type="text/javascript">
+    function checkPswd() {
+        var confirmPassword = "Dies";
+        var confirmPassword = "Pass2";
+        var password = document.getElementById("pswd").value;
+        if (password == confirmPassword) {
+             window.location="https://my-mind-space.vercel.app/skull/concentrated-brain/random-thoughts/everything-i-have-to-say-that-not-personal-for-other-people-this-is-kinda-sad-and-gross-and-stuff-so-you-have-been-warned/";
+        }
+        else{
+            alert("Sounds Like You Do Not Belong Here");
+        }
+    }
+</script>
+</body>
+</html>

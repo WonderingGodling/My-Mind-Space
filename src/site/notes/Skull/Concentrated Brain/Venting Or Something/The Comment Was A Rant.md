@@ -36,9 +36,9 @@ I Dont Get This Library
 I Think Its Designed So That You Cant Find Anything 
 So You Have To Be A Student To Read 
 The Chemistry Is By Textiles 
-The Psychology Is Above Renewable [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Energy/Energy\|Energy]] 
+The Psychology Is Above Renewable [[Energy\|Energy]] 
 And It Seems To Be Alphabetical Within The Subject? 
-I Got To My [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Class/Class\|Class]] And There Already [[Branches/People\|People]] There (ETA: Not My [[Branches/People\|People]] Other [[Branches/People\|People]])
+I Got To My [[Class\|Class]] And There Already [[Branches/People\|People]] There (ETA: Not My [[Branches/People\|People]] Other [[Branches/People\|People]])
 
 First Time Ive Touched My Phone For An Hour Or Two 
 Im Becoming More Familiar With The Back Of My Eyelids Than The Contents Of My Imagination 
@@ -82,7 +82,7 @@ Thank You For Coming To My Ted Talk
 Zoned Out So Hard Buy Only For An Hour So We're Good I Think
 
 Im Currently Doing [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] On This Train 
-My Book And Headphones Are In My Bag And Getting Either Will Take Way More [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Energy/Energy\|Energy]] Than I Have
+My Book And Headphones Are In My Bag And Getting Either Will Take Way More [[Energy\|Energy]] Than I Have
 
 **"Whats The Point Of Trying To Stay Alive All This Time....If Im Going To Die By My Own Hand"**
 
@@ -90,7 +90,7 @@ I Think Most [[Branches/People\|People]] With Low Self-Esteem Or Shitty Parent
 Maybe Thats What Dads From The Seventies Were Aiming For 
 "If I Hate My Son He'll Become Emotionally Unavailable Then I'll Never Have To Deal With It Again" 
 Well Ive Got Good News And Bad News For Ya 
-The Good News Is: I Want To Kill Myself More Than I Want To Be [[Skull/Concentrated Brain/Dnd/Mine/Mechanics/Drugs/Emotion-Vial/Happy/Happy\|Happy]] 
+The Good News Is: I Want To Kill Myself More Than I Want To Be [[Happy\|Happy]] 
 The Bad News Is I Dont Hate Gay [[Branches/People\|People]] So....Sorry Dad
 
 I Just Took A Pepper Grinder From The Kitchen From My Room For No Reason 
@@ -199,7 +199,7 @@ It Was Gonna Be A Quick Update On What I Did Over The Past Few Weeks, The Places
 I Hope If I Update This Again Its More Of The Norm And Less Of The Depression And Everybody-Hates-Meness That Has Been Thrust Upon [[Explicitly Showcased/Me/Me\|Me]]
 
 Like Even [[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!\|Mai Wife!!]], Who Is The Best And Can Do No Wrong, Will Be  Online And Not Read My Messages Sometimes
-An Obvious Dagger To The Heart But At The Same Time I Will Usually Hear From Her After A Bit, Or Get A Liked [[Skull/Concentrated Brain/Dnd/Terminology/Message\|Message]] Notification And The Dagger Will Be Removed
+An Obvious Dagger To The Heart But At The Same Time I Will Usually Hear From Her After A Bit, Or Get A Liked [[Message\|Message]] Notification And The Dagger Will Be Removed
 Some Other [[Branches/People\|People]] Though Open My Messages To Figure Out How To Better Arrange Daggers Into My Chest Cavity
 
 The Entire Last Paragraph And A Bit Werent Meamnt To Exist, I Guess Im Just That Passionate About How Much I Want To Be Wiped Off The Face Of The Earth Sometiemes

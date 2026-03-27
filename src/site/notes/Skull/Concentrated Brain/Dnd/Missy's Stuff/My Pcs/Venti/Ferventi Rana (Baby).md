@@ -84,11 +84,11 @@ Languages: English, Celestial
 Notes: 
 
 [[Blessing of the Raven Queen \|Blessing of the Raven Queen ]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Darkvision\|Darkvision]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Fey Ancestry\|Fey Ancestry]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Trance\|Trance]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Keen Senses\|Keen Senses]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Necrotic Resistance\|Necrotic Resistance]]
+[[Darkvision\|Darkvision]]
+[[Fey Ancestry\|Fey Ancestry]]
+[[Trance\|Trance]]
+[[Keen Senses\|Keen Senses]]
+[[Necrotic Resistance\|Necrotic Resistance]]
 [[Skull/Concentrated Brain/Dnd/Missy's Stuff/My Pcs/Venti/Ferventi Rana (Baby)#one of a great line\|#one of a great line]]
 [[Skull/Concentrated Brain/Dnd/Missy's Stuff/My Pcs/Venti/Ferventi Rana (Baby)#inherited technique\|#inherited technique]]
 
