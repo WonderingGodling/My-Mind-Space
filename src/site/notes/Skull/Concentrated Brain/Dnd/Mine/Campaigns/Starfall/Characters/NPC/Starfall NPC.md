@@ -35,7 +35,7 @@
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Branson/Fission Chipz\|Fission Chipz]]
 - [ ] Original Arcane Rifleman Looking For Her [[Template/Book\|Book]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Laurence\|Laurence (She/Her)]]
-- [ ] Thing That Directed [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Qutes\|Qutes]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]] There (Evil) 
+- [ ] Thing That Directed [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Qutes\|Qutes]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Karma]] There (Evil) 
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Blood Lich\|Blood Lich]] 
 - [ ] Someone With Time Travel Skates 
 - [ ] Ninja Girl 
@@ -44,7 +44,7 @@
 	- [ ] Letters
 	- [ ] Not [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]]
 	- [ ] If Anything Big Happens They Get A Breif Explanation Of The Previous [[Session\|Session]]
-	- [ ] Works For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]]'s Boss' Boss
+	- [ ] Works For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Karma]]'s Boss' Boss
 		- [ ] (Ssnake)
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Farty Fuqueballs Jr Jr (Jay)\|Farty Fuqueballs Jr Jr (Jay)]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Natheas\|Natheas]]
@@ -52,7 +52,7 @@
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Pat Springleaf\|Pat Springleaf]]
 	- [ ] "Helps" Group S 
 - [ ] Someone Important Who Knows Rumours About The Parties
-	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]]'s Boss' Boss
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Karma]]'s Boss' Boss
 		- [ ] (Ssnake)
 
 

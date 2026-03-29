@@ -13,7 +13,11 @@ This Probably Wont Achieve Much But Its Not [[Skull/Concentrated Brain/Poetry Ap
 If You Want To Have A Look Around (If You **Can**) Look Around Feel Free
 Get Comfortable
 
+I Am Working On Redesigning This
+[[Skull/Concentrated Brain/Random Thoughts/Thought Emporium Or Whatever\|This]] Is More Or Less The Replacement I Dont Know Or Really Care That Much At The Moment
+
 wonderinggodling On Discord
+Pretty Much Nothing Anywhere Else
 
 
 

@@ -208,7 +208,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Furniture Flipped Over And Superglued To Floor
 - [ ] Wand Of Speak To Animals
 - [ ] Ring Of Safety
-- [ ] Kym is wholly good and [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Aris\|Aris]] is wholly evil
+- [ ] Kym is wholly good and [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Aris\|Aris]] is wholly evil
 	- [ ] they are the EXACT SAME GIRL split into two [[Branches/People\|People]]
 		- [ ] prophesied that she would be born with [[Magic\|Magic]] far far far to unstable for her to control
 			- [ ] for safety of not only the kid and those around her a ritual was performed to split her in two
@@ -330,9 +330,9 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Be Gross But Not Sexual
 		- [ ] "Kissing Buddies"
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Infernis/Axel\|Axel]]
-- [ ] Original [[Version\|Version]] Of [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]] Bleeds Out In The Inn And Gets Replaced By Current One
+- [ ] Original [[Version\|Version]] Of [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Karma]] Bleeds Out In The Inn And Gets Replaced By Current One
 	- [ ] Having Died Broke Some Reality [[Shield\|Shield]]
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]] Gets Good Groups [[Session\|Session]] 2 Description
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Karma]] Gets Good Groups [[Session\|Session]] 2 Description
 - [ ] Orb Of Annihilation
 	- [ ] Phygrias Leader Owns And May Let The [[Party\|Party]] Borrow If On A Quest For Her
 - [ ] Demons
@@ -586,8 +586,51 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Forest Fire
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/The Seventh Snake\|The Seventh Snake]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Pow Scenario\|The Pow Scenario]]
+- [ ] https://docs.google.com/document/d/1bdvaZjf-ftU2RJdQ8VtuT2OJGpKcEUfE9pq5Z7qYV-w/edit?tab=t.0#heading=h.5hxe7y2uc0ft
+- [ ] Creature You Can Find And Free But Then It Hunts You Forever
+- [ ] Devil That Tricks Players Into Being Freed
+	- [ ] Jetty And Sera Are Held Responsible
+- [ ] Witch That Animates Everything She Touches (On Purpose) So The Villiage Is Full Of Plates With Legs And Stuff
+- [ ] More Dragons
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Everett De La Fontaine\|Everett De La Fontaine]] From No-Name Settlement 
+	- [ ] Family Was Big Enough To Vomfortably Move Out Of Town A Few Years Ago And Faded Into Relative Obscurity
+	- [ ] Mansion, Surrounding People And Limited Facilities
+	- [ ] Mostly Farmland And Private Religious Grounds (Like A Small Meeting Place For A Church Or Two)
+	- [ ] Doctors From Gi Fotias Recognise Everret As "The Magic Freak"
+	- [ ] Backlash When People Interact With Everrets Inate Magic
+	- [ ] Write More Reasons That Everret Cant Just Learn From Any Magician
+	- [ ] Others Know Him As The Overexcited Lad
+	- [ ] Everret Always Hurts Sinclair On The Last Day
+	- [ ] DC20 Scrying Spell -15 Modifier At Midday Every Day
+		- [ ] Have His Family React To It
+	- [ ] Bully Everett A Little
+		- [ ] Keep Everett In The Dark About Things
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Sinclair Rosemond\|Sinclair Rosemond]]
+	- [ ] People Who Are Very High Class Can Recognise Sinclairs "Servential Body Language"
+	- [ ] Sinclaire Knows Folk Lore
+		- [ ] Write More For Her To Know
+	- [ ] Sinclaire Is Treated With Bare Minimum Respect In The Settlement
+- [ ] Set A Lot Of Knight Stuff Around There
+- [ ] Dance Battle
+- [ ] Tower Defence Mission
+- [ ] Del Cold Blooded
+- [ ] Write War Legends
+- [ ] Write Religious Stories About Turmoil
+- [ ] Paladin Centric Moon Day Events
+- [ ] Moon Day Stuff Aimed At Higher Levels
+- [ ] Pow Scenario HQ In Grease
+- [ ] Write Grease Stuff
+- [ ] Giving One Npc Ruby Nipple Piercings And I Will Not Say Who :p
+- [ ] 
 
 
+##### Wild Magic Purge
+Loser Damn Near Killed Her?
+As A Way To Save Face And Keep Others Safe You Have Developed A Method To Make Your Magic Less Wild If Only For A Moment. At Any Point You Can Prevent Wild Magic Surges For 1D4 Rounds. After This Time You Must Roll On The Wild Magic Table Half That Number Of Rounds The Effects Triggering In Order
+
+##### Holy Smokes
+Every Breath Brings You Closer To God
+Thinking About The Path You Have Chosen Can Sometimes Give You Cold Feet But This Gift From Your Mentor Warms Your Heart. This Magic Cigarette Box Is Always Full But Once A Day Four Of The Cigarettes Are Dipped In Red, Smoking One Of These These Gives 1d4+4 Temporary Health For The Next Hour
 
 - [ ] Trains 
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Subway Dungeons\|Subway Dungeons]]

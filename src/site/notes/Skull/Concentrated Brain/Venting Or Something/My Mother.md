@@ -934,12 +934,53 @@ function myFunction() {
   document.getElementsByTagName("p")[0].removeAttribute("hidden"); 
 }
 </script>
-Been Trying For About Two Hours To Have A Thing That Is H
+Been Trying For About Two Hours To Have A Thing That Is Hidden Or Blacked Out Or Whatever Then is readable under A Certain Circumstance And Now I Am Giving Up And Making A Second Password Page
+
+
+I Really Just Need To Have This Open Alll The Time
+Ughhhhhhhhhh
+Life AmIRight
+
+hhhhhhhhhhhh
+
+This IS So Bad
+Why Can I Not Do Better
+I Will Go Back And Fill Some Things In
+Today Is 87?? Okay
+Dildo Did Come Yesterday, Very Squishy
+
+Okay So
+87 2025 76~
+Reminded The Dnd Players To Get Their Characters Ready, Will Send Roo Her Own Message Either Tomorrow Or Monday
+Also Paladin Pals Have Been Reminded That They Have Twio Weeks To Solidify Any Character Details
+It Is Somnias Birthday Today
+
+86
+![Pasted image 20260328192028.png](/img/user/images/Pasted%20image%2020260328192028.png)
+
+[https://www.tumblr.com/lilaclupin/812231927890329600?source=share](https://www.tumblr.com/lilaclupin/812231927890329600?source=share "https://www.tumblr.com/lilaclupin/812231927890329600?source=share")
+I Need To Embed This But "to be trapped together in a cave-in where one of them is injured and they have to talk to keep them distracted and stay sane while they wait for help, and end up opening up about their vulnerabilities and bond and then grow desperate as one starts to slip from consciousness while the other begs them to stay awake—" Sounds Awesome
 
 
 
+Write About Biohybrids
+I Need To Make More Art Or At Least Try
 
+Watching The Apprentice And As Always These People Suck
 
+Roo Really Wants To Watch Project Hail Mary
+I Really Dont Know If I Will Like It
+
+Also I Feel So Tired
+
+I Messaged Beau On His Birthday
+Didnt Get A Response But Whatever
+
+Sighs In Pain
+
+I Am Going To Get Telegram Real Quick
+And Im Not Going To Message Him
+Theres No Reason To
 
 
 

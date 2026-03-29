@@ -46,6 +46,49 @@ I Do Miss Her Already
 I Think She Misses Me Too
 That Actually Makes Me Really Happy (I Am So Lame)
 
+I Both Can And Cant Beleive I Spent So Much Money One Her
+Gonna Take A While To Financially Recover From This But Worth It XD
+
+![Pasted image 20260329102743.png](/img/user/images/Pasted%20image%2020260329102743.png)
+I Am Canon!
+Chose Magnus Archives Green While I Stare At People >:)
+
+Apparently Eugene Has Read This Before Which Is Not Something I Expected To Hear
+It Was In My Bio So She Read It A Bit And "learned a lot more than [she] thought [she] would"
+Its Nice To Feel Appreciated
+Shes Too Good To Me
+
+I Hope The Music Assignment Goes Well!!
+And Shes Still Sick!
+I Really Wanna Go Back And Look After Her
+Give Her Snacks, Cook Her Food, Keep Her Safe
+
+I Need To Take Crispy Chili Oil Next Time I Go To London
+
+I Miss Eugene A Lot
+It as Been A While Since I Have Experienced Positive Physical Contact And Getting So Much From Someone  Care About As Much As Her Seems To Have Left My Brain A Little Bit Fried
+That Being Said My Only Regret Is That I Didnt Sniff Her More
+At The Time I Would Say She Smelled Okay But Now I Wish I Had Taken Time To Memorize That While I Had The Chance
+….Or I Could Have Like Made Her Sweat A Lot Or Something, Collected A Range Of Smells
+Yeah Im Weird But Whatever
+
+Big EU Meeting Seems To Have Gone Over Well!
+She Looked Awesome, Met One Of The Commisioners, Got OOfficially Dubbed EUgene (As She Totally Should Becasue Its A Badass Name)
+"There is actually a shockingly high concentration of incredibly pretty women here lol" Yeah Dummy Because Youre There
+
+![Pasted image 20260329101246.png](/img/user/images/Pasted%20image%2020260329101246.png)
+I Am So Happy And So Sorry That I Have Got Her Touching Wet Paint XD
+If Youre Reading This I Love You Keep Being Whimsical
+
+
+
+€ Is The Top Doomed Yuri Professional
+Watching Otherside Picnic And It Is Not Looking Too Happy
+
+Still Amazed That None Of €'s Friends Are Kemonomimi Coded
+
+Keeping This At The Bottom Because I Love Her So Much I Want This To Be he Closer For This Page
+
 In Case I Never See You Again: 
 I Love You, You Are A Great Role Model, Everything Will Be Okay
 
@@ -57,4 +100,4 @@ I Love You, You Are A Great Role Model, Everything Will Be Okay
 
 
 
-<center><sub>Thank You  ♡</sub></center>
+<center><sub>Thank You For Everything  ♡</sub></center>
