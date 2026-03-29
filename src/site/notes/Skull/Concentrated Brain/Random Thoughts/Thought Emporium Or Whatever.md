@@ -19,7 +19,7 @@ Moving Stuff From Comment
 
 ## The Top
 
-I Dont Know What Im Writing And None Of This Matters 
+I Dont Know [[WHAT\|WHAT]] Im Writing And None Of This Matters 
 This Is Just Like A Brain Dump For Non-specific And Super Short Ideas That Havent Earned Their Own Page Yet 
 Maybe Things Go Here Because Im Tired 
 Maybe Im Just Bored And My Brain Said "Hey!" So I Put It Here
@@ -53,7 +53,7 @@ Dont Worry About It
 There Is [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] I Wanna Eat In This Whole City! 
 Im Gonna Starve And Im Gonna Laugh 
 (I'll Probably Eat In Town But Still) 
-What Even Is "Good Food"
+[[WHAT\|WHAT]] Even Is "Good Food"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HwAPLk_sQ3w?si=amaDCRbklx1zqByF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 I Dissociated In And Out Of My Death And Missed The Premier But This Is So Good
@@ -133,7 +133,7 @@ Im So Not [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] But I Don
 
 # Zoochosis
 
-It Has Come To My Attention (Via [[Explicitly Showcased/Me/Me\|Me]] Telling [[Explicitly Showcased/Me/Me\|Me]] What I Think Is Best For [[Explicitly Showcased/Me/Me\|Me]]) That Since I Am Undergoing Zoochosis And That The Enrichment Time That I Usually Try To Provide Myself With Is A Failing Method, The Best Thing For [[Explicitly Showcased/Me/Me\|Me]] To Do For My Mental Health Is To Empty The Beehive More Frequently; The Problem Isnt My Mind, It's Keeping My Mind Locked Iniside Of Itself  
+It Has Come To My Attention (Via [[Explicitly Showcased/Me/Me\|Me]] Telling [[Explicitly Showcased/Me/Me\|Me]] [[WHAT\|WHAT]] I Think Is Best For [[Explicitly Showcased/Me/Me\|Me]]) That Since I Am Undergoing Zoochosis And That The Enrichment Time That I Usually Try To Provide Myself With Is A Failing Method, The Best Thing For [[Explicitly Showcased/Me/Me\|Me]] To Do For My Mental Health Is To Empty The Beehive More Frequently; The Problem Isnt My Mind, It's Keeping My Mind Locked Iniside Of Itself  
 This [Website](https://my-mind-space.vercel.app/) Will See The Biggest Hit In Terms Of My Increase In Esoteric
 
 

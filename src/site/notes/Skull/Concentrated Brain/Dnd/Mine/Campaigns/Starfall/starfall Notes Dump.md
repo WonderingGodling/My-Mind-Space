@@ -68,7 +68,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]]
 - [ ] Dragon, Two Very Long Necks
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Infernis/Seasal\|Seasal]] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/7 Weekday 8/7 Weekday 8\|7 Weekday 8]]
-- [ ] Give [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Clarent\|Clarent]] More To Do
+- [ ] Give [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Clarent\|Clarent]] More To Do
 - [ ] More [[Branches/Wrighth\|Wrighth]]!
 - [ ] [[Skull/Spam/Fire\|Fire]] "Water Gun"
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Knuts/Lei\|Lei]]
@@ -94,7 +94,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] How/Why [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Haru\|Haru]] Was Saved From The Disaster
 - [ ] Retired Ghost Busters
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Cult Of Violets/Cult Of Violets\|Cult Of Violets]]
-- [ ] [[Hearts Of The Damned\|Hearts Of The Damned]] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religeon\|Religeon]]
+- [ ] [[Hearts Of The Damned\|Hearts Of The Damned]] [[Religeon\|Religeon]]
 - [ ] Crushed Survivors Religion
 - [ ] Spirit Dragon
 	- [ ] With Kyms Dragon
@@ -208,7 +208,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Furniture Flipped Over And Superglued To Floor
 - [ ] Wand Of Speak To Animals
 - [ ] Ring Of Safety
-- [ ] Kym is wholly good and [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Aris\|Aris]] is wholly evil
+- [ ] Kym is wholly good and [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Aris\|Aris]] is wholly evil
 	- [ ] they are the EXACT SAME GIRL split into two [[Branches/People\|People]]
 		- [ ] prophesied that she would be born with [[Magic\|Magic]] far far far to unstable for her to control
 			- [ ] for safety of not only the kid and those around her a ritual was performed to split her in two
@@ -316,7 +316,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Assassination/Hit Missions
 - [ ] Guy That Turns Silver Into Slightly More Silver
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Earth Wind Fire/Neer\|Neer]]
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]] Beauty Competition Winner Would Become [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Queen\|Queen]] Consort Till Death Or Revolution
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]] Beauty Competition Winner Would Become [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Queen\|Queen]] Consort Till Death Or Revolution
 	- [ ] Demons Are Upset That The Beauty Competition Was On The Same Day As Moon Day Because It Is Untraditional
 - [ ] Escape room
 - [ ] 2 Kids, Kacey And Jr (Casey) Killed Their [[Skull/Concentrated Brain/Dnd/Characters/CHaracters Who Have Nothing/Pancake And Relay/The Memory Of Pancake And Relay/Characters/Key/Parents/Parents\|Parents]]
@@ -330,9 +330,9 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Be Gross But Not Sexual
 		- [ ] "Kissing Buddies"
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Infernis/Axel\|Axel]]
-- [ ] Original [[Version\|Version]] Of [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Karma]] Bleeds Out In The Inn And Gets Replaced By Current One
+- [ ] Original [[Version\|Version]] Of [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]] Bleeds Out In The Inn And Gets Replaced By Current One
 	- [ ] Having Died Broke Some Reality [[Shield\|Shield]]
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Karma]] Gets Good Groups [[Session\|Session]] 2 Description
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]] Gets Good Groups [[Session\|Session]] 2 Description
 - [ ] Orb Of Annihilation
 	- [ ] Phygrias Leader Owns And May Let The [[Party\|Party]] Borrow If On A Quest For Her
 - [ ] Demons
@@ -375,7 +375,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Character Called [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Silvia (Sil). E\|Silvia (Sil). E]]
 - [ ] "The Name's Nick. Phoenix"
 	- [ ] Lawyer Who Never Loses Because He Plants Evidence And Stuff
-- [ ] Questline That Lets You Out Of The [[Loop\|Loop]] ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/True End\|True End]]): Ends With Defeating The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Queen\|Queen]] In The Name Of The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Moons\|Moons]]
+- [ ] Questline That Lets You Out Of The [[Loop\|Loop]] ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/True End\|True End]]): Ends With Defeating The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Queen\|Queen]] In The Name Of The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Moons\|Moons]]
 - [ ] Write About: [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Lei (moon)\|Lei (moon)]], [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Rouge\|Rouge]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Ciel\|Ciel]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Eras\|Eras]]
 - [ ] Relook At Calander
@@ -411,7 +411,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Gambler
 - [ ] cat Who Transforms Into A Woman
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Felis\|Felis]]
-- [ ] Align A Few [Sanguinated](https://docs.google.com/document/d/1NqB8k34TY_7taP0mZoVHINo9DKhz4n88AlHWSN5-eg8/edit?tab=t.0) To [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Blood Lich\|Blood Lich]]
+- [ ] Align A Few [Sanguinated](https://docs.google.com/document/d/1NqB8k34TY_7taP0mZoVHINo9DKhz4n88AlHWSN5-eg8/edit?tab=t.0) To [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Blood Lich\|Blood Lich]]
 - [ ] Debt Collectors
 	- [ ] One In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]] That Wont [[Remember\|Remember]] You When Time Resets But Will [[Remember\|Remember]] How Much Money You Owe Him
 	- [ ] One In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Torogiya/Rekx\|Rekx]] 
@@ -419,7 +419,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Shooter Side Quest\|Shooter Side Quest]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Avatar Of The Crush\|Avatar Of The Crush]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]] Border Paperwork
-- [ ] One King Or [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Queen\|Queen]] That Has Literally No Protection
+- [ ] One King Or [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Queen\|Queen]] That Has Literally No Protection
 - [ ] Some "Monsters" Can Be Born With ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/KAijin\|KAijin]]) Or Gain Sentience
 - [ ] News Articles
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|hell]] Thruple Doorway Has Passphrase To Turn Off Secret [[Alarm\|Alarm]]
@@ -448,7 +448,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Starfall Reset Rules\|Resets]] Are Based On Soul Versus Self
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/KAijin\|KAijin]]
 - [ ] Curses And condemnations
-- [ ] 16-Year-Old Widow [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Ms Yuri\|Ms Yuri]]
+- [ ] 16-Year-Old Widow [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Ms Yuri\|Ms Yuri]]
 - [ ] [[Branches/Wrighth\|Wrighth]]
 	- [ ] If One Or More Are To Step Within This Write They Will Then Cease To Exist And Then The Write Will Shoot Many Harmless Fireworks Outwards
 		- [ ] Cease = Seis = 6
@@ -592,7 +592,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Jetty And Sera Are Held Responsible
 - [ ] Witch That Animates Everything She Touches (On Purpose) So The Villiage Is Full Of Plates With Legs And Stuff
 - [ ] More Dragons
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Everett De La Fontaine\|Everett De La Fontaine]] From No-Name Settlement 
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Paladin Pals/Everett De La Fontaine\|Everett De La Fontaine]] From No-Name Settlement 
 	- [ ] Family Was Big Enough To Vomfortably Move Out Of Town A Few Years Ago And Faded Into Relative Obscurity
 	- [ ] Mansion, Surrounding People And Limited Facilities
 	- [ ] Mostly Farmland And Private Religious Grounds (Like A Small Meeting Place For A Church Or Two)
@@ -605,7 +605,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 		- [ ] Have His Family React To It
 	- [ ] Bully Everett A Little
 		- [ ] Keep Everett In The Dark About Things
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Sinclair Rosemond\|Sinclair Rosemond]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Paladin Pals/Sinclair Rosemond\|Sinclair Rosemond]]
 	- [ ] People Who Are Very High Class Can Recognise Sinclairs "Servential Body Language"
 	- [ ] Sinclaire Knows Folk Lore
 		- [ ] Write More For Her To Know

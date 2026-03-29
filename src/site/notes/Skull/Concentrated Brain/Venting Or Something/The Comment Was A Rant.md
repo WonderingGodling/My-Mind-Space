@@ -34,7 +34,7 @@ Its Not Even A Good Vanilla Smell So Smelling It Provides An Indescribable Feeli
 
 I Dont Get This Library 
 I Think Its Designed So That You Cant Find Anything 
-So You Have To Be A Student To Read 
+So You Have To Be A Student To [[READ\|READ]] 
 The Chemistry Is By Textiles 
 The Psychology Is Above Renewable [[Energy\|Energy]] 
 And It Seems To Be Alphabetical Within The Subject? 
@@ -74,7 +74,7 @@ Right Now I Regret Everything I Feel
 And I Feel [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]
 
 Very Few Things Bring [[Explicitly Showcased/Me/Me\|Me]] Happiness 
-And One Of Those Things Has Been Leaving [[Explicitly Showcased/Me/Me\|Me]] On Read For Hours 
+And One Of Those Things Has Been Leaving [[Explicitly Showcased/Me/Me\|Me]] On [[READ\|READ]] For Hours 
 Happiness Is A Lie 
 Life Is A Chain Of Suffering 
 Thank You For Coming To My Ted Talk
@@ -82,12 +82,12 @@ Thank You For Coming To My Ted Talk
 Zoned Out So Hard Buy Only For An Hour So We're Good I Think
 
 Im Currently Doing [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] On This Train 
-My Book And Headphones Are In My Bag And Getting Either Will Take Way More [[Energy\|Energy]] Than I Have
+My [[Template/Book\|Book]] And Headphones Are In My Bag And Getting Either Will Take Way More [[Energy\|Energy]] Than I Have
 
-**"Whats The Point Of Trying To Stay Alive All This Time....If Im Going To Die By My Own Hand"**
+**"Whats The Point Of Trying To [[Skull/Concentrated Brain/Projects/Hamilton/Stay Alive\|Stay Alive]] All This Time....If Im Going To Die By My Own Hand"**
 
-I Think Most [[Branches/People\|People]] With Low Self-Esteem Or Shitty Parents Feel A Deep Desire To Be Loved But I Feel Like It Just Made [[Explicitly Showcased/Me/Me\|Me]] Hate The Concept 
-Maybe Thats What Dads From The Seventies Were Aiming For 
+I Think Most [[Branches/People\|People]] With Low Self-Esteem Or Shitty [[Skull/Concentrated Brain/Dnd/Characters/CHaracters Who Have Nothing/Pancake And Relay/The Memory Of Pancake And Relay/Characters/Key/Parents/Parents\|Parents]] Feel A Deep Desire To Be Loved But I Feel Like It Just Made [[Explicitly Showcased/Me/Me\|Me]] Hate The Concept 
+Maybe Thats [[WHAT\|WHAT]] Dads From The Seventies Were Aiming For 
 "If I Hate My Son He'll Become Emotionally Unavailable Then I'll Never Have To Deal With It Again" 
 Well Ive Got Good News And Bad News For Ya 
 The Good News Is: I Want To Kill Myself More Than I Want To Be [[Happy\|Happy]] 
@@ -95,7 +95,7 @@ The Bad News Is I Dont Hate Gay [[Branches/People\|People]] So....Sorry Dad
 
 I Just Took A Pepper Grinder From The Kitchen From My Room For No Reason 
 I Have Mcdonalds; Why Would I Want Mcdonalds To Taste Good 
-I Dont Know What My Subconscious Is Up To 
+I Dont Know [[WHAT\|WHAT]] My Subconscious Is Up To 
 
 Mmmm 
 Markiplier Isnt Cheering [[Explicitly Showcased/Me/Me\|Me]] Up And I Dont Feel Like Music Right Now
@@ -109,7 +109,7 @@ Most Christmas Songs Are Ear Grating But They Get A Pass Because Theyre About Ch
 Thats Not How Songs Work!
 Write A Good Song **Then** I'll Hope It Comes On The Radio
 Nobodys Walking Over To A Jukebox And Playing Do They Know Its Christmas 
-You Know What They Are Playing?
+You Know [[WHAT\|WHAT]] They Are Playing?
 Africa
 Essentially About The Same Thing Except Ones Shit And Mentions Christmas In The Chorus
 
@@ -136,13 +136,13 @@ I Know Its Not For [[Explicitly Showcased/Me/Me\|Me]]
 
 •9314
 I Just Realised I've Felt Quite "...." This Evening Which Is Very Impressive When You Consider That On Any Given Day: I Cant Feel
-What That Means Is ~~I've Simply Been Rotting..............Complacent~~! Ive Simply Been Rotting Complacently Without Realising That Either The Rotting Or The Complacency Was An Option
+[[WHAT\|WHAT]] That Means Is ~~I've Simply Been Rotting..............Complacent~~! Ive Simply Been Rotting Complacently Without Realising That Either The Rotting Or The Complacency Was An Option
 
 •1440 Lets See How Late I Sleep In
 
 I Really Need to Type Stuff Up More Because Keeping It In Is Driving [[Explicitly Showcased/Me/Me\|Me]] Towards Madness And The [[Branches/People\|People]] Who At Least Pretend To Care All Have Actual Things That Go On On Their Actual Lives--
 
-Whatd The Opposite Of Cooking Because Thats What Im Doing--
+Whatd The Opposite Of Cooking Because Thats [[WHAT\|WHAT]] Im Doing--
 Rotting Works Surprisingly Well For That Actually; Prolonged Uncookery And Suffering 
 Maybe If I Was The Hunt Id Feel Better; I Can Definitely See How A Light [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hunter\|Hunter]] Would Be Able To Thrive (Although Why A Light Watcher Isnt Frankly Escapes [[Explicitly Showcased/Me/Me\|Me]])
 
@@ -188,27 +188,27 @@ Gonna Blow My Brains Out I Hate This I Hate This I Hate This I Hate This I Hatie
 
 I Haven't Talked To [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Moirail]] In Over A Week And Its Actually Killing [[Explicitly Showcased/Me/Me\|Me]] And I Cant Talk To Anyone About It Because Best Case Scenario Literally Gets [[Explicitly Showcased/Me/Me\|Me]] Nowhere And Worse Case Scenario Probably Gets [[Explicitly Showcased/Me/Me\|Me]] Starved To Death
 I Haven't Been Able To Write Anything Because All Im Thinking All Day Is "Aaaaaaaaaaahhhhhhhhhhhhhhhh!!!!!!!!!!!!!!" And I Just Want To Stop Existing Or At The Very Least Stop Functioning But My Worthless [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]] cant Even Figure Out How To Cry Which Is Step Two Of Being Depressed, Overwhelming Self Hatred And Hoping For Your Own Doom Is Usually Much Later For Normal [[Branches/People\|People]] (Not That If Be Faliliar With That)
-This Week Ive Tried Going On Walks And Skating And Watching Movies  And Tv Shows And Social [[Branches/Media\|Media]] And Pornography And Books And Podcast And Hanging Out With Friends And Doing [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] Each For Literal Hours At A Time Hoping That Maybe If Im Absorbed Enough In It The Dull Sense That My Interacting With The World I Slowly Making It Worse Will Fade Into The Background But Theres No such Thing As Relief I Guess
+This Week Ive Tried Going On Walks And Skating And Watching Movies  And Tv Shows And Social [[Branches/Media\|Media]] And Pornography And Books And [[Template/Podcast\|Podcast]] And Hanging Out With Friends And Doing [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] Each For Literal Hours At A Time Hoping That Maybe If Im Absorbed Enough In It The Dull Sense That My Interacting With The World I Slowly Making It Worse Will Fade Into The Background But Theres No such Thing As Relief I Guess
 
 Im Weirdly Out Of Fucks
 I Have A Bunch Of Stuff I Want To Do But Theres None Of It That I Want To Do
 
 Its 1361·253·24 And I Did Wholeheartedly Plan On Updating This Earlier But Not Like This
-It Was Gonna Be A Quick Update On What I Did Over The Past Few Weeks, The Places Ive Gone, The [[Branches/People\|People]] Ive Talked To, But Overall I Just Feel Like Shit Barely Scraping By Every Day, Not Taking Care Of Myself, Not Even Enjoying Myself Really But Thats Whatever
+It Was Gonna Be A Quick Update On [[WHAT\|WHAT]] I Did Over The Past Few Weeks, The Places Ive Gone, The [[Branches/People\|People]] Ive Talked To, But Overall I Just Feel Like Shit Barely Scraping By Every Day, Not Taking Care Of Myself, Not Even Enjoying Myself Really But Thats Whatever
 
 I Hope If I Update This Again Its More Of The Norm And Less Of The Depression And Everybody-Hates-Meness That Has Been Thrust Upon [[Explicitly Showcased/Me/Me\|Me]]
 
-Like Even [[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!\|Mai Wife!!]], Who Is The Best And Can Do No Wrong, Will Be  Online And Not Read My Messages Sometimes
-An Obvious Dagger To The Heart But At The Same Time I Will Usually Hear From Her After A Bit, Or Get A Liked [[Message\|Message]] Notification And The Dagger Will Be Removed
+Like Even [[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!\|Mai Wife!!]], Who Is The Best And Can Do No Wrong, Will Be  Online And Not [[READ\|READ]] My Messages Sometimes
+An Obvious Dagger To The [[Explicitly Showcased/People/Special Ones/Heart\|Heart]] But At The Same Time I Will Usually Hear From Her After A Bit, Or Get A Liked [[Message\|Message]] Notification And The Dagger Will Be Removed
 Some Other [[Branches/People\|People]] Though Open My Messages To Figure Out How To Better Arrange Daggers Into My Chest Cavity
 
 The Entire Last Paragraph And A Bit Werent Meamnt To Exist, I Guess Im Just That Passionate About How Much I Want To Be Wiped Off The Face Of The Earth Sometiemes
 
 Also Whoevers Reading This: im Sure I Think Youre A Delight, If Youre Part Of The Problem Just....Idk Be More Conciderate Of My Emoptions I Guess? I Know Im Not But Someone Should Be
 
-Why Would I Use This For [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] That Makses Sense Like Writing Down All My [[Explicitly Showcased/My General Outlook On This\|My General Outlook On This]] And Important Notes And Stuff Or Even To Say I Appreciate It When This Is Read (Even Though I Only Think One Person Ever Reads This) But Instead Im Gonna Do This:
+Why Would I Use This For [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] That Makses Sense Like Writing Down All My [[Explicitly Showcased/My General Outlook On This\|My General Outlook On This]] And Important Notes And Stuff Or Even To Say I Appreciate It When This Is [[READ\|READ]] (Even Though I Only Think One Person Ever Reads This) But Instead Im Gonna Do This:
 
-Im Actually Just Ruining My Mind- What? Losing My Mind
+Im Actually Just Ruining My Mind- [[WHAT\|WHAT]]? Losing My Mind
 Sitting On The Train, One Ear Plugged In And The Other Being Accosted By Sound
 Got The Gay Umbrella Though 
 
@@ -224,8 +224,8 @@ I Am Shaking <b>Bad</b>
 
 
 My Brain Is Having Not Great Ideas As Coping Mechanisms
-If They Could Take Out Their Agression On [[Explicitly Showcased/Me/Me\|Me]] Id Feel As If I Got What I Deserved And Everyones Lives Would Be Better
-I Know Thats Not The Case But I Feel Like What Im Experiencing Every Day Probably Hurts More Or Maybe Im Just Hoping For A New Source Of Discomfort So That The Repetition Isnt What Drives [[Explicitly Showcased/Me/Me\|Me]] Insane
+If They Could Take Out Their Agression On [[Explicitly Showcased/Me/Me\|Me]] Id Feel As If I Got [[WHAT\|WHAT]] I Deserved And Everyones Lives Would Be Better
+I Know Thats Not The Case But I Feel Like [[WHAT\|WHAT]] Im Experiencing Every Day Probably Hurts More Or Maybe Im Just Hoping For A New Source Of Discomfort So That The Repetition Isnt [[WHAT\|WHAT]] Drives [[Explicitly Showcased/Me/Me\|Me]] Insane
 
 I Feel Like I Shouldnt Say Any Of This And That Any Response I Get Wouldn't Be Genuine 
 Like If I Suck As Much As I Think I Do Nobody Would Want To Have That Conversation And Im Sorry To Whoever Thats Inconvenienced (It Will Happen Again)

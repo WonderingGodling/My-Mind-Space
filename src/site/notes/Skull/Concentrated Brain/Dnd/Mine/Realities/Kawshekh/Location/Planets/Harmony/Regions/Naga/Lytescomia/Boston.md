@@ -7,7 +7,7 @@
 
 # <center><span style="color:#000000">Boston</span></center>
 
-- Centre Of The Hidden Experimental Facility Illegally Run By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/King Freud (Crazy King)\|The King]] (Formerly) And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/The Queen\|The Queen]] (Currently)
+- Centre Of The Hidden Experimental Facility Illegally Run By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/King Freud (Crazy King)\|The King]] (Formerly) And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/The Queen\|The Queen]] (Currently)
 	- Underground (Literally)
 		- ___ To Enter
 	- Big, Tall, Glass Vats Of Liquid

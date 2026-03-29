@@ -50,7 +50,7 @@ Used To Be The Owner Of The Only Quarry In Grease
 	- Wears A Beanie
 	- Room 2
 	- Probably The Hardest Fight
-	- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Adamantine Skelly\|Adam]]
+	- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Adamantine Skelly\|Adam]]
 - Room With Torn Tapestry Describing The First Skeleton Getting Cursed By Another Skeleton (In Purple Robes)
 	- Room 4, On The Wall
 	- Two Other Tapestry Scraps Throughout The Dungeon

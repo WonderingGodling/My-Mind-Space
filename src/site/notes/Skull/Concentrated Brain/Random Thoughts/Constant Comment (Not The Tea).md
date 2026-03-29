@@ -67,7 +67,7 @@ Hahahaha
 Ha
 
 Its 40•2024•4597 And I Am Losing My Mind But Im Back; Your Girl Is Back; I Am Typing Real Huamn Words-
-That One Doesnt Count; Go To Hell
+That One Doesnt Count; Go To [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]]
 
 
 
@@ -123,19 +123,19 @@ Really Enjoying This Season For Some Reason
 4k Zen Comp Play; 2nd Supp Comp Play In Half As Many Hours 
 Going To Bed
 
-52•2024•0359 Is [[Explicitly Showcased/Me/Me\|Me]] Going To Bed Early So That Im Fully Rested For Dee <s>Tomorrow</s> Today 
+52•2024•0359 Is [[Explicitly Showcased/Me/Me\|Me]] Going To Bed Early So That Im Fully Rested For [[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!\|Mai Wife!!]] <s>Tomorrow</s> Today 
 Also Listening To [[[[TMA\|[[TMA]]]] 99 Dust To Dust; Its A Gertrude Episode (Not Her Best Though)
 
 Also, [[[[Me\|[[Explicitly Showcased/Me/Me\|Me]]]], Its Boise City Oklahoma
 You Always Forget That Settlement--
 [[WHAT\|WHAT]] The Gell Is My Tinnitus Doing Today Its Bloody Distracting 
 
-Holy Hell! Today Was So Awesome!! 52•2024• 
+Holy [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]]! Today Was So Awesome!! 52•2024• 
 I Got To Hang Out With [[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!\|Mai Wife!!]] Like All Day-- 
 
 I Just love [[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!\|Mai Wife!!]] So Much
 
-Also [[[[Roodolf\|[[Roodolf]]|Roo]] Is Cool, Glad Theyre Safe And All That
+Also [[[[Roodolf\|[[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roodolf]]|[[Roodolf]]]] Is Cool, Glad Theyre Safe And All That
 
 ![Tumblr_l_1160578296118.jpg](/img/user/images/Tumblr_l_1160578296118.jpg)
 
@@ -146,9 +146,9 @@ Also [[[[Roodolf\|[[Roodolf]]|Roo]] Is Cool, Glad Theyre Safe And All That
 
 Uhhh [[[[Okay\|[[Okay]]]]? (ETA: Well Thats Gone?)
 
-I Forgot About This Comic https://halo-head.com/comic/347-try-to-[[Draw\|Draw]]/ (Embed This Later) (EAT: The Hell You Mean eMbed This Later? How Would I Embed That)
+I Forgot About This Comic https://halo-head.com/comic/347-try-to-[[[[Draw\|[[Draw]]]]/ (Embed This Later) (EAT: The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]] You Mean eMbed This Later? How Would I Embed That)
 Last Updated Yesterday 
-Happens Every Time That I Read This
+Happens Every Time That I [[READ\|READ]] This
 
 
 ![d2b89dd5b95cb7f7d56f0e9c5881477d.jpg](/img/user/images/d2b89dd5b95cb7f7d56f0e9c5881477d.jpg)
@@ -164,7 +164,7 @@ My Girls Got A Lil Pregnant, No Wories
 Eating Goldbears Like A Weirdo
 
 (59·2024·8333~)
-Finally Got My Pc Back; [[[[Me\|[[Me]]]] And Core Spent Like All Day Working On It And Now Everything Works Smoothly
+Finally Got My Pc Back; [[[[Me\|[[Me]]]] And [[Explicitly Showcased/People/Special Ones/Cory/{Invalid Username}\|{Invalid Username}]] Spent Like All Day Working On It And Now Everything Works Smoothly
 
 Now For Some Note Catchup
 
@@ -947,6 +947,131 @@ Sighs In Pain
 I Am Going To Get Telegram Real Quick
 And Im Not Going To Message Him
 Theres No Reason To
+
+- Start Loop At Subway Station
+- Hell Government Playout
+- Whole Hell Plot Line
+- ast Ruler Of Hell, 200 Years Ago, He Was Torn Limb From Limb Because Of His Taxation Policies
+- vetni -16 euros
+- Fire Water Gun
+- Angry Mother, Missing Child
+- (Present At Moon Day)
+- A Lot Of White Birds In Hell
+- Hell Map
+- Church Map
+- Brothel Map
+- House Map
+- Statue Of A Horned Paladin With His Sword Embedded In The Floor
+- Is Dragon Defence
+- Ghost Somewhere
+- Tavern Shootout
+- Numeric Core Puzzle
+[https://www.cineby.app/tv/3793](https://www.cineby.app/tv/3793 "https://www.cineby.app/tv/3793")
+[https://blinx.uk/dy4el](https://blinx.uk/dy4el "https://blinx.uk/dy4el")
+Increase Festival Payouts Over Time
+Horse Game Trainer ID 646 879 707 933
+[[Explicitly Showcased/People/Ollie\|Ollie]]
+[[Cow\|Cow]]
+Julie Wants To Do Teams Meetings About Next Semester
+
+Oh Yeah One Of My Friends Recommended A Webtoon To Me And I Read It The Other Day
+One Thing I Thought Was Funny Is That As It Goes On The Author Talks More About Fish
+![](https://i.imgur.com/TN9ifOB.jpeg)
+
+![](https://i.imgur.com/q7WGLn6.jpeg)
+
+This Graph Is Frankly Insane
+First Off The Idea That Anyone Said Gambling Is Hot Is Wild (Over 5% Somehow)
+Cigars Are On The Fall, Thise Used To Be Huge
+Playing Magic The Gathering Is About As Hot As Drinking
+Also You Know That Arguing Online And Funko Are The Same People XD
+Sorry I Like Stats And Felt Like Ranting
+
+Trying To Reorganise Some Time With My Friends Today And One Of Them Said Theyll Be Too Tired After Work Then Later Said They Need To Be Home By 9 
+If Youre Gonna Lie At Least Be Good At It? I Assumed They Were Anyway But Maybe Im Just Being Judgy Idk
+
+![](https://i.imgur.com/1VTbUYv.jpeg)
+
+Ollie Called Me
+Two Hour Five Minutes
+Hate This Guy Btw
+
+##### None Of This Is Gonna Be In Order For A While
+
+
+Found A Bunch Of CDs In The Shop, Lez Go
+
+Was Looking At Pretty Turntables And Then I Noticed This
+![Pasted image 20250905164554.png](/img/user/images/Pasted%20image%2020250905164554.png)
+https://packaged-media.redd.it/cudinx0ncrif1/pb/m2-res_854p.mp4?m=DASHPlaylist.mpd&v=1&e=1757102400&s=4c81941c51d11ef67c64cb577c059bdba31e4ebd
+
+[[Explicitly Showcased/People/Special Ones/Heart\|Heart]] Added Me To Their Server
+
+Got New Speakers
+
+Just Got The Arcane S2 Soundtrack On CD Because Half Price
+
+Thanks [[Explicitly Showcased/People/Claire Bear\|Claire Bear]]
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Finally....Pilksong <a href="https://t.co/LOEhGkVqmN">pic.twitter.com/LOEhGkVqmN</a></p>&mdash; Kabewski (comms closed) (@Kabooski01) <a href="https://twitter.com/Kabooski01/status/1963630773874909365?ref_src=twsrc%5Etfw">September 4, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+Its So Cool That Me And Claire Have The Same Speakers!
+<!--⚠️Imgur upload failed, check dev console-->
+![Pasted image 20250905170022.png](/img/user/images/Pasted%20image%2020250905170022.png)<!--⚠️Imgur upload failed, check dev console-->
+![Pasted image 20250905170032.png](/img/user/images/Pasted%20image%2020250905170032.png)
+
+Bee Said "those wires look yummy..." Smh
+
+    
+   The Miku Heart! ![Miku Heart.png\|20](/img/user/images/Miku%20Heart.png)
+
+![](https://cdn.discordapp.com/avatars/405286224090365954/b6cbda3337565886bac954ee01eae93e.webp?size=80)![](https://cdn.discordapp.com/avatar-decoration-presets/a_b9f89cd88eabf437777bf35f55e6126f.png?size=96&passthrough=false)
+### doll![[]](https://cdn.discordapp.com/clan-badges/874618617096990762/60dc5de06463281a8c02b907655e979c.png?size=16)ꜰɴᴀꜰ _—_ Yesterday at 22:03
+That Doesnt Look Right....
+    
+## Anyway!    
+
+Grim Was "perplexed by [My] setup" So Explanation
+    
+Bottom To Top: CD Player, Tape Player, Radio, Amp/Mixer
+    
+![💛](https://discord.com/assets/4252a4264c0874b9.svg)
+    (Weird That I Can Paste So Much Of Discords UI But How Almost None Of It Looks Right)
+
+CD Player Can Hold 5 CDs And Tape Player Can Hold Two Tapes
+	I Dont Use The Radio But Its Nice To Have
+Also The CD And Tape Player Are Joined By Wires At The Back (They All Are, I Wired Them) But One Of The Wires Is Like Part Of The Devices
+I Think If I Broke One Id Either Have To Live With It Or Replace Both Of Them
+    Well Those Two Are Stuck Together For Some Reason, Everythings All Kinda Connected To The Radio At The Moment— I'm Using It As A Junction For Everything Else
+There Are So Many Ports And Holes In The Back Of The Radio So Im Taking Advantage Of It
+    Theyre Also Connected To My Record Player Which Isnt In The Picture
+So That I Can Easily Use The Mixer To Listen To Anything (Including My Computer)
+        Been Working On This For Like Months
+Its So Hard To Get Good Tech
+    
+We Both "feel like everything is getting more expensive but made shittier"
+
+[[Explicitly Showcased/People/grim\|grim]]
+
+
+Readin A Book And It Describes Hells Weather As Being Like Englands
+
+The trailer for Gastronauts S2 is out now! https://youtu.be/t8ggBrRrFS4 🚀🧑‍🍳🍔☀️
+
+The new season premieres Saturday, 16 August 2025 00:00
+
+Oh Yeah I Saw The Colourful Stage Movie And Was Mildly Shocked To Hear Mikus Voice Ddispite Going To It To See Her
+The Other Characters Are Fun And All, And The Game Is Good, But I Wanted To See Sad Miku
+
+Gonna Try To Do This More
+I Say That A Lot But Like Seriously
+
+Memorise The Twelve Tribes Sometime
+ALso The Colours
+
+Aaaaaaaaaaaaaaaaa
+:)
+[Smashes My Skull In]
+"Sauron Became Evil Which Is Like Whoops. You Win Some You Lose Some" - Jay About Lotr
 
 
 

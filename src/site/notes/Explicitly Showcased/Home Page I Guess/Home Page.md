@@ -17,7 +17,7 @@ I Am Working On Redesigning This
 [[Skull/Concentrated Brain/Random Thoughts/Thought Emporium Or Whatever\|This]] Is More Or Less The Replacement I Dont Know Or Really Care That Much At The Moment
 
 wonderinggodling On Discord
-Pretty Much Nothing Anywhere Else
+Pretty Much [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] Anywhere Else
 
 
 

@@ -11,7 +11,7 @@
 
 
 
-[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Blood Lich\|Blood Lich]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Blood Lich\|Blood Lich]]
 
 
 

@@ -17,7 +17,7 @@ Air And Water Bison
 
 
 
-[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Lightning Throw NPC\|Lightning Throw NPC]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Lightning Throw NPC\|Lightning Throw NPC]]
 Chief
 
 

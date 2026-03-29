@@ -6,19 +6,4 @@
 
 
 # Guestbook!
-Write [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Dumb
-
-# <a href="http://WonderingGodling.123Guestbook.com/" target="_self">My guestbook</a>
-<div><iframe allowfullscreen="" width="100%" height="600px" frameborder="1" name="myiFrame" style="border:1px #000000 solid;" src="http://WonderingGodling.123Guestbook.com/" sandbox="allow-forms allow-modals allow-presentation allow-popups allow-same-origin allow-scripts"></iframe></div>
-(If You Cant See Anything, Click The Title)
-
-
-<center><sub>Done :)</sub></center>
-
-<script src="https://utteranc.es/client.js"
-        repo="WonderingGodling/My-Mind-Space"
-        issue-term="title"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
-</script>
+This Got Deleted :(

@@ -9,7 +9,7 @@ The Reason The Romans Persecuted Early Christians Was Because They Believed Them
 Most [[Branches/People\|People]] Assumed It Was Because Of Confusion Surrounding The Whole Blood And [[Skull/Concentrated Brain/Venting Or Something/Body\|Skull/Concentrated Brain/Venting Or Something/Body]] Of Christ Consumption And It Being Literal
 However
 Octavius Of Minucius Felix Or ([[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]) Sited All Sorts Of Accusations Including Initiation Rites That Involved Murdering Of Infants And Drinking Their Blood
-I Know What Youre Thinking And Yes
+I Know [[WHAT\|WHAT]] Youre Thinking And Yes
 We Should Bring That Back
 
 I Never Could Sleep Well To Be Fair

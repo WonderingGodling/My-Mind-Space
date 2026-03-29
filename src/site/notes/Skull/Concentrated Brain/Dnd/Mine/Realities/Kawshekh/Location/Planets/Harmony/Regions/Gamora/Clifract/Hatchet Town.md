@@ -105,7 +105,7 @@ No Goblins Have Been Tamed
 
 
 ### Olde Inn
-[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Aris\|Aris]] Finds A Building (The Local Inn) With A Person (Trill) Looking After His Dads Place
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Aris\|Aris]] Finds A Building (The Local Inn) With A Person (Trill) Looking After His Dads Place
 	Has Potions, Has Bread
 	Lets Her Into The Tavern
 Old Inn (The Local Tavern) Has A Young Man Called Trill

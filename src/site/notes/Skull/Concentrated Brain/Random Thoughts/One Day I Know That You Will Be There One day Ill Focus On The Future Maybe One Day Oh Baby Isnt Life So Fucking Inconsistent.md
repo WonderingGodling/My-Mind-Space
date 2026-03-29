@@ -18,7 +18,7 @@ It Looked Like The Line Wrapped Around The Whole Block And I Was **Not** Standin
 We Saw So Many Cool Gay [[Branches/People\|People]] With Pride Flags And L'manburgh Flags (I Guess Those Are The Same Thing Now That I Think About It) But [[Explicitly Showcased/Me/Me\|Me]] And Dan Signed The L'manburgh Flag Which Was Cool
 We Also Saw One Or Two Juggalos! I Couldnt Tell If It Was The Same Person Walking Past [[Explicitly Showcased/Me/Me\|Me]] Twice (In The Same Direcrtion) Or If It Was Two Different [[Branches/People\|People]] With Similar Outfits And Makeup
 Either Way I Didnt See Them Again That Night
-And A Couple [[Branches/People\|People]] Loved "My" Hello Kitty Hoodie 
+And A Couple [[Branches/People\|People]] Loved My Hello Kitty Hoodie 
 
 The Venue Was Warm (More About That Later) We Got Near The Front But To The Side Pretty Early On And Kinda Stayed There
 
@@ -28,11 +28,11 @@ the Second Support Was Good Kid Who Were Amazing
 I Loved Their Energy: Really Got The Crowd Going And I Looked Them Up After The Concert
 They Sang Songs About Witches Bitches And Anime My Favourite Two From The Concert Were Mimis Delivery Service And Madeline (Both About Women (Two Seperate Women)) Which Were Super Vibey And I Know The Words To The Latter Song
 
-Lovejoy Came Out And Everyone Screamed (Low-Key Shocked That I Could Still Hear After Each Scream (Of Which There Were Possibly Dozens))
+Lovejoy Came Out And Everyone Screamed (Low-[[Skull/Concentrated Brain/Dnd/Characters/CHaracters Who Have Nothing/Pancake And Relay/The Memory Of Pancake And Relay/Characters/Key/Key\|Key]] Shocked That I Could Still Hear After Each Scream (Of Which There Were Possibly Dozens))
 Oh Yeah At One Point There Was A Group Of Kids Stacking Plastic Cups And It Went Super High
 Anyway Lovejoy Came On, Wilbur Soot Took Centre Mic And Said "Uh Hello" (Each Pause Had A Bunch Of Loud Screams After It) "We're A Band Called Lovejoy.... And We Were Hoping To Perform Some Songs For You Tonight..I Hope Thats [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] With You Guys" 
-The First Song They Sang Was Perfume Which Was Introduced As "A Song About Not Knowing What Love Is....Or A Type Of Cologne I Guess" Which Is So Their Vibe
-They Also Performed Songs About "A Prime Minister We Had Once", "A Man Whos A Left Leaning Gentleman And His Wife Who Is Married To A Left Leaning Gentleman But She Sneaks Out At Night To Sleep With You So You Blackmail Her Saying Ill Tell Your Husband If You Dont Give [[Explicitly Showcased/Me/Me\|Me]] All Your Money Which We've All Been Through. Im Sure, Im Sure Its A Very Common Experience Shared By Everyone In This Room", And "Consequences" (Wilbur Wasnt A Fan Of That Introduction)
+The First Song They Sang Was Perfume Which Was Introduced As "A Song About Not Knowing [[WHAT\|WHAT]] Love Is....Or A Type Of Cologne I Guess" Which Is So Their Vibe
+They Also Performed Songs About "A Prime Minister We Had Once", "A Man Whos A Left Leaning Gentleman And His [[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!\|Mai Wife!!]] Who Is Married To A Left Leaning Gentleman But She Sneaks Out At Night To Sleep With You So You Blackmail Her Saying Ill Tell Your [[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|Tiddy Gremlin]] If You Dont Give [[Explicitly Showcased/Me/Me\|Me]] All Your Money Which We've All Been Through. Im Sure, Im Sure Its A Very Common Experience Shared By Everyone In This Room", And "Consequences" (Wilbur Wasnt A Fan Of That Introduction)
 And Every Time They Ended A Song By Like Dying
 Like A Standing Ragdoll With All The Lights Turning Off For A Second
 The Lights Were Fantastic! Whoever Was In Charge Of The Lighting Effects Deserves A Raise

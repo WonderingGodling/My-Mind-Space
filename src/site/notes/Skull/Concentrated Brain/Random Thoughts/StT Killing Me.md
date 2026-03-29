@@ -10,8 +10,8 @@
 
 
 
-O k, this is a test to see if I'll be able to talk OKI really do hate this thing to see if I'll be able to talk during a dog stream, see if it picks up my words or wealth of our words or what. 
-OK Google Voice typing its broken so I have to use the shitty. Samsung one pets find it. Put a. In the sentence. It's correcting the word shitty but it took its time doing it block the flight and its corrected shit again. Turn it keep and it's changed to fuck.  Competence what is a wrong visit fucking
+O k, this is a test to see if I'll be able to talk OKI really do hate this thing to see if I'll be able to talk during a dog stream, see if it picks up my words or wealth of our words or [[WHAT\|WHAT]]. 
+OK Google Voice typing its broken so I have to use the shitty. Samsung one pets find it. Put a. In the sentence. It's correcting the word shitty but it took its time doing it block the flight and its corrected shit again. Turn it keep and it's changed to fuck.  Competence [[WHAT\|WHAT]] is a wrong visit fucking
 
 I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
 I'm going to look at steam games for a bit. See, if there's any alright, why? Because I'm bored. Also, it's not picking up Dublin sonic, do a waste word.
