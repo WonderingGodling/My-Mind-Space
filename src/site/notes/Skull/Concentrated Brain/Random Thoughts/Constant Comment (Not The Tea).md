@@ -124,9 +124,9 @@ Really Enjoying This Season For Some Reason
 Going To Bed
 
 52•2024•0359 Is [[Explicitly Showcased/Me/Me\|Me]] Going To Bed Early So That Im Fully Rested For [[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!\|Mai Wife!!]] <s>Tomorrow</s> Today 
-Also Listening To [[[[TMA\|[[TMA]]]] 99 Dust To Dust; Its A Gertrude Episode (Not Her Best Though)
+Also Listening To [[Branches/TMA\|TMA]] 99 Dust To Dust; Its A Gertrude Episode (Not Her Best Though)
 
-Also, [[[[Me\|[[Explicitly Showcased/Me/Me\|Me]]]], Its Boise City Oklahoma
+Also, [[Explicitly Showcased/Me/Me\|Me]], Its Boise City Oklahoma
 You Always Forget That Settlement--
 [[WHAT\|WHAT]] The Gell Is My Tinnitus Doing Today Its Bloody Distracting 
 
@@ -135,16 +135,16 @@ I Got To Hang Out With [[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!
 
 I Just love [[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!\|Mai Wife!!]] So Much
 
-Also [[[[Roodolf\|[[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roodolf]]|[[Roodolf]]]] Is Cool, Glad Theyre Safe And All That
+Also [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roodolf]] Is Cool, Glad Theyre Safe And All That
 
 ![Tumblr_l_1160578296118.jpg](/img/user/images/Tumblr_l_1160578296118.jpg)
 
 
 
 
-![[Screenshot_20240223_073901_One UI [[Home Page\|Screenshot_20240223_073901_One UI [[Home Page]].png]]
+![[Screenshot_20240223_073901_One UI Home Page.png\|Screenshot_20240223_073901_One UI Home Page.png]]
 
-Uhhh [[[[Okay\|[[Okay]]]]? (ETA: Well Thats Gone?)
+Uhhh [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]? (ETA: Well Thats Gone?)
 
 I Forgot About This Comic https://halo-head.com/comic/347-try-to-[[[[Draw\|[[Draw]]]]/ (Embed This Later) (EAT: The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]] You Mean eMbed This Later? How Would I Embed That)
 Last Updated Yesterday 
@@ -164,7 +164,7 @@ My Girls Got A Lil Pregnant, No Wories
 Eating Goldbears Like A Weirdo
 
 (59·2024·8333~)
-Finally Got My Pc Back; [[[[Me\|[[Me]]]] And [[Explicitly Showcased/People/Special Ones/Cory/{Invalid Username}\|{Invalid Username}]] Spent Like All Day Working On It And Now Everything Works Smoothly
+Finally Got My Pc Back; [[Explicitly Showcased/Me/Me\|Me]] And [[Explicitly Showcased/People/Special Ones/Cory/{Invalid Username}\|{Invalid Username}]] Spent Like All Day Working On It And Now Everything Works Smoothly
 
 Now For Some Note Catchup
 
@@ -175,7 +175,7 @@ thats The Dream Right Gang?
 ![](https://i.imgur.com/2oS4aMU.jpeg)
 1981 Kitty
 
-<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Update: <br><br>MY MOM IS GETTING A FURSUIT <a href="https://t.co/fa1QIxc4DO">https://t.co/fa1QIxc4DO</a></p>&mdash; Blue 🔜 New Fursuit! (@bluefolf) <a href="https://twitter.com/bluefolf/status/1758178570910781914?ref_src=twsrc%5Etfw">February 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> Happy For Them
+
 
 Lowkey Wanna Go Down On Someone Rn
 Need [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] To Do And Brains Like "Someone Works Too ;)"
@@ -194,7 +194,7 @@ I Found Arizona Iced Tea Across The Road From My Uni; The Real Deal And Everythi
 ![](https://i.imgur.com/RIfCypg.png)
 
 
-<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">jordan peterson will never know the pleasure of two sweaty tgirls frotting and panting desperately,, leaving bite and scratch marks on eachother,, minds blank as they rut desperately, mindlessly against each other.,,. sry what was i ttalking about</p>&mdash; ashley (dog)🐾🦴❤️‍🩹 (@ashpuppyxoxo) <a href="https://twitter.com/ashpuppyxoxo/status/1757932917571928287?ref_src=twsrc%5Etfw">February 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> Real? Idk
+
 
 ![](https://i.imgur.com/jUiFBme.png)
 Small Shoutout To [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|My Slut]] Btw
@@ -204,7 +204,7 @@ In The Second Shazam Film Theres A Scene Where A Woman Says Shes Over Six Thousa
 
 Scrolled Through This A Bit And Random Parts Just Do Not Exist
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:D6sn2PQ62McOK15fSCqfPQ/742751721089105920/v2" data-did="4cf4fe0c2dff7d9858b5ee3b7d7dc2188cb03009" ><a href="https://www.tumblr.com/walmart-the-official/742751721089105920/yeah-np-we-had-loads-of-extras-because-most-of">https://www.tumblr.com/walmart-the-official/742751721089105920/yeah-np-we-had-loads-of-extras-because-most-of</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+
 
 Theres Actually A Lot More That I Wanna Add But I'll Stop Here For Now Which Makes The Note At The Bottom Temporarily Redundant 
 
@@ -277,7 +277,7 @@ Dee Im Speculating Flesh Secondary?
 Anti Hunt
 
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="zxx" dir="ltr"><a href="https://t.co/48mWbvaikq">pic.twitter.com/48mWbvaikq</a></p>&mdash; PANAPANA (@87sukiyaki) <a href="https://twitter.com/87sukiyaki/status/1768084345489957290?ref_src=twsrc%5Etfw">March 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> No Words Needed
+
 
 Hrr Clue Crew 245 And 144's Files Were Uploaded Backwards
 And Some "Final" Files Are "Final B" So.... Not So Final
@@ -348,7 +348,7 @@ Needles
 ![](https://i.imgur.com/wkoyOdX.jpeg)
 
 
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">waking up your sleepy puppygirl by shining a laser pointer on her puppyparts and watching your kittygirl dive into her crotch headfirst.</p>&mdash; ADHDoggie (@worstgoodgirl) <a href="https://twitter.com/worstgoodgirl/status/1767867706148106343?ref_src=twsrc%5Etfw">March 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 
@@ -427,7 +427,7 @@ Ive Also Been Enjoying The McMaster's Guide To Homicide <b>Murder Your Employer<
 Headacheee
 
 Watched All The Doctor Who
-[[Rogue\|Rogue]] Felt Like A Classic
+Rogue Felt Like A Classic
 And The Doctor Got Another Souvinir
 
 Kettle Threw My Power Out
@@ -435,7 +435,7 @@ Kettle Threw My Power Out
 Playing More Ring Of Pain
 Thats Going Not So Well
 
-[[[[Roodolf\|[[Roodolf]]]] Was So Toxic Today
+[[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roodolf]] Was So Toxic Today
 If Anything Comes Up Regarding Wednesday 164·2024· Then We Can Assume That Was That
 
 
@@ -707,7 +707,7 @@ Hahaha
 
 Scheduling Thing https://www.when2meet.com/
 
-Really Been Struggling To Do Anything Recently And Its Been Driving [[Me]] [[Skull/Spam/Crazy\|Crazy]]
+Really Been Struggling To Do Anything Recently And Its Been Driving [[Explicitly Showcased/Me/Me\|Me]] [[Skull/Spam/Crazy\|Crazy]]
 The Goal At The Moment Is To Do Some Revision 
 Also Imma Listen To The Sinners Soundtrack Later If I [[Explicitly Showcased/People/Dont Forget/Dont Forget\|Dont Forget]]
 Also Bee Struggling To Talk To [[Branches/People\|People]] And I Feel Bad About That :(
@@ -891,15 +891,7 @@ I Have To Get To Uni At 9 For This Evo Devo Thing
 I Ate A Whole Loaf Of Bread Today :)
 
 Testing A Thing
-<p hidden>Hello World</p>
 
-<button onclick="myFunction()">Test Button</button>
-
-<script>
-function myFunction() {
-  document.getElementsByTagName("p")[0].removeAttribute("hidden"); 
-}
-</script>
 Been Trying For About Two Hours To Have A Thing That Is Hidden Or Blacked Out Or Whatever Then is readable under A Certain Circumstance And Now I Am Giving Up And Making A Second Password Page
 
 
@@ -971,7 +963,7 @@ Theres No Reason To
 Increase Festival Payouts Over Time
 Horse Game Trainer ID 646 879 707 933
 [[Explicitly Showcased/People/Ollie\|Ollie]]
-[[Cow\|Cow]]
+[[Skull/Concentrated Brain/Random Thoughts/Moomoo\|Moomoo]]
 Julie Wants To Do Teams Meetings About Next Semester
 
 Oh Yeah One Of My Friends Recommended A Webtoon To Me And I Read It The Other Day
@@ -1012,10 +1004,10 @@ Got New Speakers
 Just Got The Arcane S2 Soundtrack On CD Because Half Price
 
 Thanks [[Explicitly Showcased/People/Claire Bear\|Claire Bear]]
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Finally....Pilksong <a href="https://t.co/LOEhGkVqmN">pic.twitter.com/LOEhGkVqmN</a></p>&mdash; Kabewski (comms closed) (@Kabooski01) <a href="https://twitter.com/Kabooski01/status/1963630773874909365?ref_src=twsrc%5Etfw">September 4, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 
 Its So Cool That Me And Claire Have The Same Speakers!
-<!--⚠️Imgur upload failed, check dev console-->
+
 ![Pasted image 20250905170022.png](/img/user/images/Pasted%20image%2020250905170022.png)<!--⚠️Imgur upload failed, check dev console-->
 ![Pasted image 20250905170032.png](/img/user/images/Pasted%20image%2020250905170032.png)
 
@@ -1071,9 +1063,9 @@ ALso The Colours
 Aaaaaaaaaaaaaaaaa
 :)
 [Smashes My Skull In]
-"Sauron Became Evil Which Is Like Whoops. You Win Some You Lose Some" - Jay About Lotr
+"Sauron Became Evil Which Is Like Whoops. You Win Some You Lose Some" - JayBug About Lotr
 
-
+This Is So Jumbled N
 
 
 
@@ -1117,13 +1109,4 @@ Aaaaaaaaaaaaaaaaa
 ![](https://i.imgur.com/0hjpdF1.png)
 
 
-
-
-<body onbeforeunload="return myFunction()">
-
-<script>
-function myFunction() {
-  return "Write [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] clever here...";
-}
-</script>
 
