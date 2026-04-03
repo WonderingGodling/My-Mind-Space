@@ -60,7 +60,7 @@ Back In The Hideout
 	- Opening Speech
 		- "Thank You All For Coming Tonight! [Pauses For Applause] Yes, Yes We've All Waited So Very Long For This Momentous Occasion And Im Sure All Of You Would Love To Get Straight Out There And Do Your Thing. (Ive Heard That Some Of You Already Have). But We Do Unfortunately Have Rules That We Need To Follow So If It Shimmers With All In Attendance Lets Get To The Itinerary...."
 			- "Faith"
-		- "Lets See....The Town Has Been Secured The East Wing Has Been Checked For Goblins And Is Clear. Parlence Has Been Spread. Reminder That If You See The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]] You Are To Avoid Them. This Should Be Common Knowledge But [[Branches/People\|People]] Keep Asking [[Explicitly Showcased/Me/Me\|Me]] Where They Fit Into The Plan. We Are On....What Are We On"
+		- "Lets See....The Town Has Been Secured The East Wing Has Been Checked For Goblins And Is Clear. Parlence Has Been Spread. Reminder That If You See The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]] You Are To Avoid Them. This Should Be Common Knowledge But [[Branches/People\|People]] Keep Asking [[Explicitly Showcased/Me/Me\|Me]] Where They Fit Into The Plan. We Are On....What Are We On"
 			- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor\|Advisor]] Hold Up Right Amount Of Fingers
 		- "We Are On [Number] Which So Far Means [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]" [Improv From Here, Say It Mopstly Seems Like Admin Stuff And Ask If The Group Wants To Stay To Till The End]
 - "Throwing To The Floor Real Quick" And Someone From The Congregation Shouts Out
@@ -186,8 +186,8 @@ If A Member Of Group S (A Vantas) Interacts With A Party Member They Get A Bendy
 [Key Item]
 [Temp Stat Up]
 
-[[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias\|Vantias]] Steal And Hide Peters Pipes
-- More [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias\|Vantias]] Missions
+[[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias\|Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias]] Steal And Hide Peters Pipes
+- More [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias\|Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias]] Missions
 
 - Mostly Lunarian (Common) Attendees
 	- A Couple Exotic Shopkeeps
@@ -223,12 +223,12 @@ Announced By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hunter\|Hunt
 - Heretic Propaganda
     - Hellfire
     - Different Occultist Groups Being Killed During Activities
-        - [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias\|Vantias]]
+        - [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias\|Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias]]
         - Piscologists
         - Moon/Nature Worshipers
         - Violets
-- Depictions Of [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Rouge\|Rouge]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Ciel\|Ciel]] wreaking havok
-- Guy Painting For The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Church Of The Next/Church Of The Next\|Church Of The Next]]
+- Depictions Of [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge\|Rouge]] And [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel\|Ciel]] wreaking havok
+- Guy Painting For The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Church Of The Next/Church Of The Next\|Church Of The Next]]
 	- A Soul On [[Skull/Spam/Fire\|Fire]] Being Sucked Into A Tube
 
 ### Minigames
@@ -288,7 +288,7 @@ If She Dies All The Creatures Are Let Out
 #### Blakewell (Steampunk)
 - [[Purple Oil\|Purple Oil]] Member Of The Guilded Capes
 - **[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]]-Heated-Sodio-Elysium Crystal** Blessed By The God Of Craft Reeves
-- **Members Of [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias\|Vantias]]** Cause A Scene
+- **Members Of [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias\|Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias]]** Cause A Scene
     - "Fake Science"
     - "Messing With Powers Beyond Their Control"
     - "The World Will End And Blood Will Be On Your Hands"

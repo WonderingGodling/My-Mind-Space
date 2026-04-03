@@ -10,7 +10,7 @@
 Swampy, Marshy, 
 Port-Town, Export Site, Aquatic-Critter Farms (Not Fish, Like Wet Rabbits And Birds And Stuff)
 Few Celestial Interference, Many Piscologists
-	[[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Piscology/Piscologist Manifesto#Places Of Worship In Piscology\|Church Of Piscology]]
+	[[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/Piscology/Piscologist Manifesto#Places Of Worship In Piscology\|Church Of Piscology]]
 	Pillar (Tall Marble Obelisk With A Suspended Explosion Of Fish Oil Above It)
 
 

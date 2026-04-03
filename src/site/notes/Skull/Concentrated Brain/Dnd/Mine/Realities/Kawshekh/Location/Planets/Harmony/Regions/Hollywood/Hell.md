@@ -38,7 +38,7 @@ Exports: Metals, Rocks, And Fuels
 
 ## Roads
 East: 
-- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Military road\|Military Road]]
+- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Military road\|Military road]]
 
 North: 
  - [[Crystal Road\|Crystal Road]] 1 & 2
@@ -46,7 +46,7 @@ North:
 West:
 - [[Frozen Road\|Frozen Road]]
 South: 
-- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Military road\|Military Road]]
+- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Military road\|Military road]]
 
 
 - description: "" 

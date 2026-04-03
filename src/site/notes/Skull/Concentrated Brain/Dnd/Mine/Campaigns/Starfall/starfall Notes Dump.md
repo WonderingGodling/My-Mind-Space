@@ -48,7 +48,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 
 
 
-- [ ] Let [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] Be Implied
+- [ ] Let Nothing Be Implied
 - [ ] Optionally Take Their Weapons For The Festivals
 
 
@@ -93,7 +93,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Nekomata
 - [ ] How/Why [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Haru\|Haru]] Was Saved From The Disaster
 - [ ] Retired Ghost Busters
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Cult Of Violets/Cult Of Violets\|Cult Of Violets]]
+- [ ] [[Cult Of Violets\|Cult Of Violets]]
 - [ ] [[Hearts Of The Damned\|Hearts Of The Damned]] [[Religeon\|Religeon]]
 - [ ] Crushed Survivors Religion
 - [ ] Spirit Dragon
@@ -235,7 +235,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 		- [ ] Resets On Moon Day
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Qutes\|Qutes]] to lose one of her arms at so point
 - [ ] Fight Where Guy Can Hit For A Lot Of D4 Attacks And Has One Huge Attack That Cant Kill
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Crazy Dungeon\|Crazy Dungeon]] With Three Paths 
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Crazy Dungeon\|Crazy Dungeon]] With Three Paths 
 	- [ ] (Two Locked By [[Skull/Concentrated Brain/Riddles/Riddles\|Puzzles]])
 		- [ ] AnsWers Are AT The End Of Previous Path
 	- [ ] Trike
@@ -372,14 +372,14 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Undead Lumberjack Who Has An Axe n His Head
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Lytescomia/Torkneth\|Torkneth]]
 - [ ] Payment Receptacles That Have A [[Magic\|Magic]] [[Green\|Green]] Fill Line
-- [ ] Character Called [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Silvia (Sil). E\|Silvia (Sil). E]]
+- [ ] Character Called [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Silvia (Sil). E\|Silvia (Sil). E]]
 - [ ] "The Name's Nick. Phoenix"
 	- [ ] Lawyer Who Never Loses Because He Plants Evidence And Stuff
 - [ ] Questline That Lets You Out Of The [[Loop\|Loop]] ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/True End\|True End]]): Ends With Defeating The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Queen\|Queen]] In The Name Of The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Moons\|Moons]]
-- [ ] Write About: [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Lei (moon)\|Lei (moon)]], [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Rouge\|Rouge]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Ciel\|Ciel]]
+- [ ] Write About: [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Lei (moon)\|Lei (moon)]], [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge\|Rouge]] And [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel\|Ciel]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Eras\|Eras]]
 - [ ] Relook At Calander
-- [ ] Group Of Armed Teens On [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Military road\|Military road]] At [[Vent Lane\|Vent Lane]] Junction On Day 2
+- [ ] Group Of Armed Teens On [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Military road\|Military road]] At [[Vent Lane\|Vent Lane]] Junction On Day 2
 	- [ ] Very Threatening But Wont Do Anything
 		- [ ] Just Lower Their Health By Like 30-40%
 - [ ] List Buildings In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]]
@@ -399,7 +399,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Sword With Modifier Equal To Negative Strength
 	- [ ] Mental Strength Dungeon Reward
 - [ ] More (Less Important) Dungeons
-	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Skeleton Dungeon\|Skeleton Dungeon]] 
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Skeleton Dungeon\|Skeleton Dungeon]] 
 	- [ ] Teleporting Amnesia Maze Dungeon
 	- [ ] Mental Strenght Test Dungeon
 		- [ ] Makes You Lose A Lot And See If You Can Still Get To The End
@@ -410,14 +410,14 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Somewhere North
 - [ ] Gambler
 - [ ] cat Who Transforms Into A Woman
-	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Felis\|Felis]]
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Felis\|Felis]]
 - [ ] Align A Few [Sanguinated](https://docs.google.com/document/d/1NqB8k34TY_7taP0mZoVHINo9DKhz4n88AlHWSN5-eg8/edit?tab=t.0) To [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Blood Lich\|Blood Lich]]
 - [ ] Debt Collectors
 	- [ ] One In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]] That Wont [[Remember\|Remember]] You When Time Resets But Will [[Remember\|Remember]] How Much Money You Owe Him
 	- [ ] One In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Torogiya/Rekx\|Rekx]] 
 	- [ ] Lair Debt Collection Agency That Provides Support Globaly
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Shooter Side Quest\|Shooter Side Quest]]
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Avatar Of The Crush\|Avatar Of The Crush]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Quests/Shooter Side Quest\|Shooter Side Quest]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Gods/Avatar Of The Crush\|Avatar Of The Crush]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]] Border Paperwork
 - [ ] One King Or [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Queen\|Queen]] That Has Literally No Protection
 - [ ] Some "Monsters" Can Be Born With ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/KAijin\|KAijin]]) Or Gain Sentience
@@ -437,7 +437,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] High [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]] Security For A Couple Days
 	- [ ] A Guard Or Two In Neighboring Cities
 - [ ] Large Encounters
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hell Morgue Escape Quest\|Hell Morgue Escape Quest]] For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]] Reset
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Quests/Hell Morgue Escape Quest\|Hell Morgue Escape Quest]] For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]] Reset
 - [ ] Toy Bear That Watches You
 - [ ] Hospitals Do Not Exist
 	- [ ] Regular Infections Are Consumed By The Avatar Of Pestilence And Any Disease That Cannot Be Treated By Their Presence Would Be Too Much For A Hospital
@@ -458,11 +458,11 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Write Animals And Plants
 - [ ] Devil Deal For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]]s Birth
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/cosmia crime family\|cosmia crime family]]
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/prexa\|prexa]] And goings ons
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Regalia tomo\|Regalia tomo]] a drow assassin
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/prexa\|prexa]] And goings ons
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Regalia tomo\|Regalia tomo]] a drow assassin
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Stories Behind The Stars\|Stories Behind The Stars]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Jewels (Currency)\|Jewels (Currency)]]
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]] Devil Associations
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]] Devil Associations
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]] MOnk Stuff
 - [ ] https://www.dandwiki.com/wiki/Ape_Zombie_(5e_Creature) (Friendsly, Just Livese In Some Village)
 - [ ] Vampires
@@ -530,7 +530,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Suppression Collar
 	- [ ] Doesn't Reset
 - [ ] Anatomy Class On Friday
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]] Cannot Go In [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Church Of Second Chances\|The Church Of Second Chances]] Or Interact With Their Members Without Taking Damage
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]] Cannot Go In [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/Second Chances/The Church Of Second Chances\|The Church Of Second Chances]] Or Interact With Their Members Without Taking Damage
 	- [ ] Cannot Be Revived
 	- [ ] Feels The Cold Embrace Of Death As She Gooes To Kill Someone
 - [ ] Afterlife Domains:
@@ -585,7 +585,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Specify Countries Languages
 - [ ] Forest Fire
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/The Seventh Snake\|The Seventh Snake]]
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Pow Scenario\|The Pow Scenario]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/Pow Scenario/The Pow Scenario\|The Pow Scenario]]
 - [ ] https://docs.google.com/document/d/1bdvaZjf-ftU2RJdQ8VtuT2OJGpKcEUfE9pq5Z7qYV-w/edit?tab=t.0#heading=h.5hxe7y2uc0ft
 - [ ] Creature You Can Find And Free But Then It Hunts You Forever
 - [ ] Devil That Tricks Players Into Being Freed
@@ -624,16 +624,12 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] 
 
 
-##### Wild Magic Purge
-Loser Damn Near Killed Her?
-As A Way To Save Face And Keep Others Safe You Have Developed A Method To Make Your Magic Less Wild If Only For A Moment. At Any Point You Can Prevent Wild Magic Surges For 1D4 Rounds. After This Time You Must Roll On The Wild Magic Table Half That Number Of Rounds The Effects Triggering In Order
 
-##### Holy Smokes
-Every Breath Brings You Closer To God
-Thinking About The Path You Have Chosen Can Sometimes Give You Cold Feet But This Gift From Your Mentor Warms Your Heart. This Magic Cigarette Box Is Always Full But Once A Day Four Of The Cigarettes Are Dipped In Red, Smoking One Of These These Gives 1d4+4 Temporary Health For The Next Hour
+
+
 
 - [ ] Trains 
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Subway Dungeons\|Subway Dungeons]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Subway Dungeons\|Subway Dungeons]]
 
 
 Sew More Seeds For:

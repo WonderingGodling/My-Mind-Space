@@ -20,7 +20,7 @@
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Ifumi\|Ifumi]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Queen\|Queen]] Level 20, 
 	- [ ] Isnt A Fan Of The [[Branches/Gods\|Gods]] But Can Only Disparage Heretics
-	- [ ] Has Exclusive (Just For Her) News That The Avatar Of The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Church Of The Next/Church Of The Next\|Church Of The Next]]Has Moved On
+	- [ ] Has Exclusive (Just For Her) News That The Avatar Of The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Church Of The Next/Church Of The Next\|Church Of The Next]]Has Moved On
 		- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Knuts/Lei\|Lei]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Neutral/Blakewell\|Blakewell]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Lei\|Lei]]
@@ -28,9 +28,9 @@
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Lei\|Lei]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Neutral/Droste\|Droste]] 
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Lei\|Lei]]
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Gods/UnterGod/The  Harbinger\|The  Harbinger]] , apostle Of [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Church Of Reckfullness\|The Church Of Reckfullness]]✘
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Gods/UnterGod/The  Harbinger\|The  Harbinger]] , apostle Of [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/Reckfullness/The Church Of Reckfullness\|The Church Of Reckfullness]]✘
 	- [ ] Fake Harbinger ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Thievin Steven\|Thievin Steven]]) 
-		- [ ] At The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Crazy Dungeon\|Crazy Dungeon]]
+		- [ ] At The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Crazy Dungeon\|Crazy Dungeon]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Old Fisherman\|Old Fisherman]] (Highhish Level)
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Branson/Fission Chipz\|Fission Chipz]]
 - [ ] Original Arcane Rifleman Looking For Her [[Template/Book\|Book]]
@@ -42,7 +42,7 @@
 - [ ] Make Someones Icon Scott Pilgrim
 - [ ] Groups Of [[Branches/People\|People]] Anonymously Giving Group S Information
 	- [ ] Letters
-	- [ ] Not [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]]
+	- [ ] Not [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]]
 	- [ ] If Anything Big Happens They Get A Breif Explanation Of The Previous [[Session\|Session]]
 	- [ ] Works For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]]'s Boss' Boss
 		- [ ] (Ssnake)

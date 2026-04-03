@@ -1065,7 +1065,14 @@ Aaaaaaaaaaaaaaaaa
 [Smashes My Skull In]
 "Sauron Became Evil Which Is Like Whoops. You Win Some You Lose Some" - JayBug About Lotr
 
-This Is So Jumbled N
+This Is So Jumbled Now
+Oh Well
+
+![Pasted image 20260329145252.png](/img/user/images/Pasted%20image%2020260329145252.png)
+This Is Why People Loved Bec And Jade
+They Are Barely Even in Shot And They Are Still More Goals Than Most Relationships Ive Seen
+
+
 
 
 
