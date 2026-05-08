@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-notes-dump/","tags":["Tagless"]}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-notes-dump/","tags":["Tagless"],"dg-note-properties":{"Type":null,"up":"[[Starfall]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -244,8 +244,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Phrygia/Tolukkharb\|Tolukkharb]]
 - [ ] Rose Garden
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Infernis/Searasal\|Searasal]]
-- [ ] "New" Song Playing Somewhere 
-	- [ ] (The Same Every Time)
+
 - [ ] Reasons For Moon Day
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Stories Behind The Stars\|Stories Behind The Stars]]
 - [ ] Branching Paths Quest
@@ -274,7 +273,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Possession Shit
 - [ ] Pyramid Scheme
 - [ ] Someone Brings A Gun To A Fist Fight
-	- [ ] [natheas.png](/img/user/images/natheas.png)
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Natheas\|Natheas]]
 - [ ] Punishment Pit
 	- [ ] Discarded Needles Knives And Stuff
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Na-Ni/Theod\|Theod]]
@@ -407,7 +406,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Proxy Wars
 - [ ] Booby Trapped House
 	- [ ] [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] Special In It
-	- [ ] Somewhere North
+	- [ ] Somewhere North In Hell
 - [ ] Gambler
 - [ ] cat Who Transforms Into A Woman
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Felis\|Felis]]
@@ -540,6 +539,8 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Guy Who Is A Sword Fighter But Doesn't Use Them Because He Avoids Killing
 	- [ ] Fists Strong
 		- [ ] Sword Stronger And Never Misses
+	- [ ] Never Tells Anybody His Name To Avoid The Legends Coming up
+		- [ ] Write Legends
 - [ ] Mass Distribution Blacksmiths Within Owned Grounds (Organisations, Palaces, Barracks)
 	- [ ] Personal Blacksmiths In Cities
 	- [ ] Personal Smithies Usually Have Different People For Different Specialities So Write Those Too
@@ -621,8 +622,106 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Pow Scenario HQ In Grease
 - [ ] Write Grease Stuff
 - [ ] Giving One Npc Ruby Nipple Piercings And I Will Not Say Who :p
-- [ ] 
-
+- [ ] Keep Tabs On Everett
+	- [ ] Have His Family React To It
+- [ ] Write Room Availabilities
+- [ ] Add Genderbend Wild Magic
+- [ ] Frankenstein Trees
+- [ ] Write The Anarchists Guide To BLOWING THE FUCK UP
+	- [ ] (Book About Explosive Fire And Charisma)
+- [ ] Poacher The God Of Avoidable Deaths
+- [ ] Add More Creatures With Blindsight, Temmor SEnse, Truesight Etc
+- [ ] Sports Stuff
+- [ ] Planes Stuff
+- [ ] Write Poacher Abilities
+- [ ] Add Meteor Locations
+- [ ] Add Gungs
+	- [ ] Especially In Swampy Areas
+- [ ] Blood Litch Grand Plan
+	- [ ] Skowly Gain Minions
+	- [ ] Be Talky
+	- [ ] Blood Lich Pow Scenario War In Grease
+- [ ] (Lobster) Immortality Is Mostly Handed Out To Anybody Influential Enough
+	- [ ] Some People And Races Are Even Born With It
+	- [ ] Plot Armour Though? Thats Unique
+	- [ ] When You Die Its Judged Whether It Was Climactic Enough Before Possibly Bringing You Back
+	- [ ] Other Than Spells That Bring You Back From The Brink Of Non-Existence Thats The Best There Is For Mortals
+- [ ] Add Get Stabbed And Vomit Blood For Ten Minutes To Wild Magic
+- [ ] Add Wild Magic Gambling
+- [ ] Tito
+	- [ ] Cheery Worker Who Loves Stabbing
+	- [ ] Recuring Character In Naga
+- [ ] A Few Inns That Have Sex Worker Staff
+- [ ] Add Personified Explanations Of The Moons
+- [ ] Large Group Of Adventurers Controlling A Larger Group Of Dogs
+- [ ] Add More Species/Creatures 
+- [ ] Add Scifi Biopunk Stuff That Exists Now
+- [ ] Write Tragedies
+- [ ] the actual mechanics of qutes item
+- [ ] grung thing
+- [ ] Book Thats Too Powerful So Is Kept In A Wooden Sleeve
+- [ ] When Something Bad Enough Happens The World Stops And Multiple Councils Go Over The Events
+- [ ] Add Some Mountain Ranges
+- [ ] Gi Fotias Personal Subjugation Quests
+- [ ] Shooting Range Minigame
+- [ ] Guy Cursed To Sell Ice Cream
+	- [ ] Thinking Ice Cream Vans Spread Across The World And Hes In All Of Them At Once
+	- [ ] He Also Has A Dairy Allergy
+- [ ] Pleonexia
+	- [ ] In Wruilt
+	- [ ] Legendary, Sword-In-Stone Object In Grease
+	- [ ] Was Owned By Hero Who Died During The Last War
+	- [ ] When He Died, The Sword Flew, Ten Men Were Slain, And It Plummeted Into The Soil
+	- [ ] The Sword Was Originally Left There Out Of Respect But A Politician Tried To Move It One Day For Planning Reasons Which Is When It Was Discovered To Be Immovable
+	- [ ] Sword Is Full Of Magic, Cant Be Affected By Spells, Is Constantly Dripping The Gold Blood Of The Evolved Greed-Mites
+- [ ] Greed-Mite
+	- [ ] Like Dungeon Crawler Cleaners That Appear In Moments Of Avorice
+	- [ ] The Evolved Kind Resembled Dragonborn For Reasons Unknown (The Man Who Caused Them Was Dragonborn)
+- [ ] Na-Ni Has A Mountainous Hand Sticking Out Of The Floor Like A Giant Was Burried Alive And Peteified As It Escaped
+- [ ] Add Giants To Lair And Earth Wind And Fire
+- [ ] Everything In Krypton Is Magically/Alchemically Produced
+- [ ] All Floor In Nemo Is Slippy, 1ft Water And Counts As Difficult Terrain
+	- [ ] This Is Magical Water And Is Not Level
+	- [ ] Every Surface Is Coated In A Few Millimetres Of Water
+	- [ ] Small Plants And Animals Only Survive If There Are Aquatic Versions Of Them And Their Food
+- [ ] Na-Ni Only Consumes Products That Come From Sentient Creatures 
+- [ ] Like A Veganism Consent Thing
+- [ ] Krypton Has A Real-Life Like Court System
+	- [ ] Time Until Trial, Bureaucracy Bullshit 
+	- [ ] Rigged
+	- [ ] Most Common Sentence Is Indentured Servitude
+- [ ] Gi Fotias Has No Court
+- [ ] In Naga You Get Brought Before The King
+- [ ] Lair Has An Arrest On Sight Policy
+- [ ] Grease Has You Fight Until You Pay For Your Crimes
+- [ ] Clitburry Has No Legal System; Kill On Sight
+- [ ] Gahenna Has No Crime 
+	- [ ] If One Were To Be Commited You Would Get Universally Shunned
+- [ ] ![Pasted image 20260503183941.png](/img/user/images/Pasted%20image%2020260503183941.png)
+	- [ ] Drains Metaphysical Constitution
+		- [ ] Drain Calculated In Order:
+		- [ ] +1 Per Glyph, ×2 For Complexity, ×2 Per Loop, ×1.5 per Distinct Effect, ^² Per Start
+		- [ ] Half For Each Ritual Component
+		- [ ] Each Relevant Material Increases Effectiveness
+		- [ ] Each Irrelivant Material Decreases Effectiveness
+- [ ] A Trap Which Hands Get Stuck To Forever
+- [ ] Extremely Powerful Magic User Who Had To Fuck And Eat Her Parents Raw To Gain That Power
+- [ ] Constantly Talks About How Bad It Was But Never Says What "It" Was
+	- [ ] Races
+		- [ ] Foot
+		- [ ] Horse
+		- [ ] Chariot
+- [ ] Replacements For Places That Have No Stock
+	- [ ] "Ration Slurry"
+	- [ ] "Meat"
+	- [ ] "Greens"
+	- [ ] "Liquid"
+- [ ] Fertility Ritual With A Face-Hugger Like Creature
+- [ ] Quest With Some Kind Of Ritual That Summons A Creature In Which The Rest Of The Quest takes Place
+- [ ] Daylight
+	- [ ] There Is A Newish God Whom Exists To Protect Harmony From The Tumultuous nature Of Reality
+		- [ ] This Protection Has The Side-Effect Of Blocking Out The Sun So The God Must Perform Its Equivilent Of  ALong Deep Exhale Which Lights Up The Sky With Magic
+- [ ] Locked Wizard Temple, The Way To Unlock Is By Doing Some Wizard Shit
 
 
 

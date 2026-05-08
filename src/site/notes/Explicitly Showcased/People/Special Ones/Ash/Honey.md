@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Honey","permalink":"/Honey/","title":"Honey","hideInGraph":true,"tags":["Tagless"]}
+{"dg-publish":true,"dg-permalink":"Honey","permalink":"/Honey/","title":"Honey","hideInGraph":true,"tags":["Tagless"],"dg-note-properties":{"title":"Honey","comments":true,"Type":"Just A Thing For Ash","up":"[[Tiddy Gremlin]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"tags":["Tagless"]}}
 ---
 
 ![desktop-wallpaper-best-honey-in-high-quality-honey-backgrounds-honey-bee.jpg](/img/user/images/desktop-wallpaper-best-honey-in-high-quality-honey-backgrounds-honey-bee.jpg)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/0-moon-day/0-moon-day/","tags":["Tagless"]}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/0-moon-day/0-moon-day/","tags":["Tagless"],"dg-note-properties":{"Type:":"Days Events","Starting location:":"Luna","description:":null,"Type":"Session","Session Number":0,"Finishing location":null,"up":"[[Weekday]]","down":null,"aliases":null,"Next":"[[1 Day De Les Phantoms]]","Previous":"[[8 Sol]]","same":null,"tags":["Tagless"],"description":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"title":null,"comments":true}}
 ---
 
 

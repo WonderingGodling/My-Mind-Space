@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/spam/states-of-matter/","tags":["Tagless"]}
+{"dg-publish":true,"permalink":"/skull/spam/states-of-matter/","tags":["Tagless"],"dg-note-properties":{"Type":null,"up":"[[Remember]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 Here’s the most inclusive list of states of matter, including the ones that haven’t been previously mentioned. This should now cover the entire spectrum of both classical and exotic states of matter:

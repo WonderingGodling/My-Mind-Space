@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explicitly-showcased/my-general-outlook-on-this/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true}
+{"dg-publish":true,"permalink":"/explicitly-showcased/my-general-outlook-on-this/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true,"dg-note-properties":{"Type:":"Brain Dump","down:":null,"Yesterday:":null,"Tomorrow:":null,"Next:":null,"Previous:":null,"title":"Constant Comment","comments":true,"tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"aliases":["Constant Commment","Rambles","Mega Note","Thoughts","I Dont Know What Im Saying"],"up":"[[Random Thoughts]]","Type":null,"down":null,"Yesterday":null,"Tomorrow":null,"Next":null,"Previous":null}}
 ---
 
 Using a named example of each, Compare and Contrast Prokaryotic and Eukaryotic  

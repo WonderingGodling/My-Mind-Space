@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Constant Comment","permalink":"/Constant Comment/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true}
+{"dg-publish":true,"dg-permalink":"Constant Comment","permalink":"/Constant Comment/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true,"dg-note-properties":{"Type:":"Brain Dump","down:":null,"Yesterday:":null,"Tomorrow:":null,"title":"Constant Comment","comments":true,"tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"aliases":["Constant Commment","Mega Note","I Dont Know What Im Saying"],"up":"[[Random Thoughts]]","Type":null,"down":null,"Yesterday":null,"Tomorrow":null,"Next":null,"Previous":null}}
 ---
 
 
@@ -359,7 +359,7 @@ Needles
 ![](https://i.imgur.com/W1Wnbrl.png)
 Still Dont Know How I Did That
 
-Done [[[[Nothing\|[[Nothing]]]] All Day
+Done [[[[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]]] All Day
 Missed Some Stuff Out- I Need To be Better At This
 
 Father Called
@@ -1072,38 +1072,214 @@ Oh Well
 This Is Why People Loved Bec And Jade
 They Are Barely Even in Shot And They Are Still More Goals Than Most Relationships Ive Seen
 
+I Have Not Been Adding Enough Stuff To This Because I Hate Myself Or SOmething
+
+I Have Lost Both My Pad And My Pen So That Is Nice
+
+Will Buy The Thing If I Can Make Progress On The Portpholio
+Real Progress
+
+Day 96 79.24% 
+Drank Some Water
+
+Sometimes I Feel Like I Dont Count As A Person And Other Times I Wish I Didnt
+Everything Would Probably Be Much Easier If I Just Blew Up, Evaporated, And Stayed Out Of Everyones Way
+It Probably Doesn't Help That I Watch My Friends Struggle Through There Problems While I Get Buffeted By Mine And Smile Pathetically
+
+I Dont Know Why Everyone Hates Me
+Maybe I'll Figure It Out Someday And Fix Whatever This Is But For Now I Guess I Just Continue To Suck
+
+I Just Saw A Blue Check And Thought "Somebody Actually Read My Message?" 
+It Was Me
+I Messaged Myself
+
+14/4/26
+Started Feeling Productive When I Got Home Today Then Started Feeling Gross Now I Feel Unlovable I Think
+Emotions Are Hard For Me To Recognise But It Is Kind Of Like A Mixture Of Yearning And Expected To Be Shot For It
+
+At Least It Is After 413
+
+Lyrics To Grab:
+![[Pasted image 20260506220337.png\|Pasted image 20260506220337.png]]
+![[Pasted image 20260506220346.png\|Pasted image 20260506220346.png]]
+
+![[Pasted image 20260506220411.png\|Pasted image 20260506220411.png]]
+
+![[Pasted image 20260506220707.png\|Pasted image 20260506220707.png]]
+
+![[Pasted image 20260506220811.png\|Pasted image 20260506220811.png]]
+
+![[Pasted image 20260506220824.png\|Pasted image 20260506220824.png]]
+
+![[Pasted image 20260506220913.png\|Pasted image 20260506220913.png]]
+
+
+![[Pasted image 20260506220936.png\|Pasted image 20260506220936.png]]
+
+![[Pasted image 20260506220957.png\|Pasted image 20260506220957.png]]
+
+![[Pasted image 20260506221016.png\|Pasted image 20260506221016.png]]
+
+![[Pasted image 20260506221022.png\|Pasted image 20260506221022.png]]
+
+![[Pasted image 20260506221107.png\|Pasted image 20260506221107.png]]
+
+![[Pasted image 20260506221128.png\|Pasted image 20260506221128.png]]
+
+![[Pasted image 20260506221140.png\|Pasted image 20260506221140.png]]
+
+![[Pasted image 20260506221302.png\|Pasted image 20260506221302.png]]
+
+![[Pasted image 20260506221314.png\|Pasted image 20260506221314.png]]
+
+![[Pasted image 20260506221354.png\|Pasted image 20260506221354.png]]
+
+![[Pasted image 20260506222500.png\|Pasted image 20260506222500.png]]
+
+![[Pasted image 20260506222511.png\|Pasted image 20260506222511.png]]
+
+![[Pasted image 20260506222524.png\|Pasted image 20260506222524.png]]
+
+![[Pasted image 20260506222544.png\|Pasted image 20260506222544.png]]
+
+![[Pasted image 20260506222622.png\|Pasted image 20260506222622.png]]
+
+![[Pasted image 20260506222715.png\|Pasted image 20260506222715.png]]
+
+I Am Slowly Losing My Mind Nothing New I Know But I Feel Like I Should Say It
+
+https://www.tumblr.com/godfrey-the-chaos-duck/814890906746503168?source=share
+
+[23:27, 22/04/2026] Watching Oliver Play Blue Prince And This Is The First Time I Have Seen Someone Organically Figuring Out The Painting Puzzle
+Di He Found The Study Before Fully Cracking The Code
+But There Are Points Where He Pointed Out All The Letters Were In The Other Painting
+
+126
+Listening to Some Undertale Stronger Than Yous
+
+https://x.com/i/status/2044482315565297956
+
+15/04
+Domekeeper Multiplayer
+Also Dlc Characters 
+Tried Both, Hate One
+
+ETA: I Think They Fixed The One But I Have To Try Them Again To Know For Sure
+
+Valid Played And Enjoyed Deadlock
+
+06/04
+![[Pasted image 20260506225648.png\|Pasted image 20260506225648.png]]
+
+
+126
+https://thedoublesix.co.uk/games/
+
+04/05
+![[Pasted image 20260506225838.png\|Pasted image 20260506225838.png]]
+![[Pasted image 20260506225825.png\|Pasted image 20260506225825.png]]
+
+
+Oh Yeah How I Announced My Steam Deck
+![[Pasted image 20260506225933.png\|Pasted image 20260506225933.png]]
+
+
+"I think my insomnia is traumagenic" Eugene
+
+125
+Woke Up At Ten By The Way
+Been In Bed Most Of The Day
+
+04/05
+"The practice rooms still won't open but I saw someone inside practicing..." E
+
+Addy also doesn't have a piss kink
+
+Oh Yeah I Super Handed My Assignment In Unfinished Despite Sleeping Once Since Thursday B)
+
+Eugene Is Actualy So Nice To Me
 
 
 
+03/05
+![[Pasted image 20260506230301.png\|Pasted image 20260506230301.png]]
+![[Pasted image 20260506230307.png\|Pasted image 20260506230307.png]]
+
+125 ETA Not Entirely Sure Where This Is
+Nervermind Found It
+
+Eugene Has been outside a lot lately
 
 
+![[Pasted image 20260506230545.png\|Pasted image 20260506230545.png]]
+Cool Rock She Found And Showed me
+(it's actually a part of some stone ornaments but it broke)
+
+![[Pasted image 20260506230534.png\|Pasted image 20260506230534.png]]
+![[Pasted image 20260506230503.png\|Pasted image 20260506230503.png]]
+Pawn Structure On Campus
+![[Pasted image 20260506230457.png\|Pasted image 20260506230457.png]]
+By Practice Room
+
+new Dacus single
+
+![[Pasted image 20260506230655.png\|Pasted image 20260506230655.png]]
+"It" Being Lis reunion
+
+Oh Yeah YSAC Album
+https://music.youtube.com/watch?v=nFah1bLH5Ks&list=OLAK5uy_klaW_d93ZSpcZJUWh0SlFp8SNZeobwvSw
+
+" no talking about the b-word"
+
+I Need To Catch up on Amazon Shows
+
+19/04
+I Keep Typing Like One Word Of Work Then Doing Something Else
+All Of The Stuff I Did Today Got Deleted uwu
+When I Sent That I Thought To Myself "Good Thing That Didnt Happen In The Morning— It Would Have Fucked Me Up"
+I Think It Fucked Me Up :)
+
+19/04
+I met with a friend in the late afternoon in the campus church to look at their art and chat, I did some politics, and finished Roll Over and Die
+Eugene
+
+![[Pasted image 20260506231834.png\|Pasted image 20260506231834.png]]
+Look At This Cutie
+"Addy said they really liked the broach you gave me"
 
 
+Well Make Sure They Dont Steal It >:( [Joke]
+It Does Look Really Good On You
+I Doubt Many People Would Have Been Able To Pull Off Such A Professional Look With It
+It Gives You An Important Character Vibe If You Know What I Mean
 
+16/04
+Sent Eugene My Live Location
 
+https://fixvx.com/i/status/2043768422102655382
 
+14/03
+Half Vent Half Brag But I Really Wanted To Have A Good Day Today
+I Feel Awful Righht Now But It Is Tomorrow So Fuck You Emotions I Win
 
-
-
-
-
-
-
-
-
-
-​ ​‍ ‍​ 
-
-
-
-
-
-
-
-
-
-
+22/04
+![[Pasted image 20260506232203.png\|Pasted image 20260506232203.png]]
 ‍​ 
+
+I Miss Dee So Much
+She Is Coming Back Soon!
+
+By The End Of The Year I Want To Taste All Of  Her
+I Have To Make Up For Lost TIme
+
+I Was Going To Make A To-Taste List But It Would Be Smarted To Make A Tasted List
+Maybe With Reviews!
+
+Try To Noun-Verb Instead Of Verb-Noun When Writing
+
+**
+
+
 
 
 <center><sub>Done For Now \^w^ </sub></center>

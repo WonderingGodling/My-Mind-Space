@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/to-dos/","tags":["Tagless"]}
+{"dg-publish":true,"permalink":"/to-dos/","tags":["Tagless"],"dg-note-properties":{"Type":null,"up":"[[This Is To Poeople]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 # <center><span style="color:#00340C">To-Dos</span></center>

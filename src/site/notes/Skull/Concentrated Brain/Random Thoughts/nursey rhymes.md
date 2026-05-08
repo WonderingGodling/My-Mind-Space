@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/nursey-rhymes/","tags":["Tagless"]}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/nursey-rhymes/","tags":["Tagless"],"dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":false,"tags":["Tagless"]}}
 ---
 
 For [[Skull/Concentrated Brain/Random Thoughts/Moomoo\|Moomoo]]
