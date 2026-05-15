@@ -20,6 +20,11 @@
 
 ## You Walk Into A Room And You See Your Best Friend Elbow Deep In A Futuristic Looking Sex Robot. They Look Paniced And Say "Hey, Its Not What It Looks Like. I'm Stuck!". Obviously You Help Them (Or At Least Try) They Are, In Fact, Stuck. How Long Do You Try To Help Before You Give Up.
 
+## If you and you're SO switched bodies for 24 hours, would you have sex with them
+
+## Would you still jack off if when you came your semen was just one big sperm?
+### What If You Had To Kill It Afterwards
+
 ## Your Best Friend Invites You To Their House And Gives You A Christmas Gift Despite You Agreeing That You Were Skipping This Year. It Is The Sex Robot That They Were Stuck In That One Time. On A Scale Of One To Ten How Happy Do You Pretend To Be Receiving This Gift.
 
 

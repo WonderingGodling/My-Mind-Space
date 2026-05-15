@@ -44,7 +44,17 @@ We Went To A Bookstore Ive Never Seen, Dee Found A Cool Birmingham Music Book Fo
 
 
 
+[[Explicitly Showcased/People/Special Ones/Edie/Dee\|Dee]] Comes Back
+12pm May 15
 
+I Miss Dee So Much  
+She Is Coming Back Soon!  
+  
+By The End Of The Year I Want To Taste All Of Her  
+I Have To Make Up For Lost TIme  
+  
+I Was Going To Make A To-Taste List But It Would Be Smarted To Make A Tasted List  
+Maybe With Reviews!  
 
 
 

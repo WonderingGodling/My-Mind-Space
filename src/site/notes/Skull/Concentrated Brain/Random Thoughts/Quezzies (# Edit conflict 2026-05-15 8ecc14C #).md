@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/quezzies/","tags":["Tagless"],"dgShowToc":true,"dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/quezzies-edit-conflict-2026-05-15-8ecc14-c/","tags":["Tagless"],"dgShowToc":true,"dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
@@ -10,7 +10,6 @@
 
 # <center><span style="color:#FEDCBA">Level 0 Questions</span></center>
 ## Name
-### Nickname?
 
 ## Pronouns
 ### Why
@@ -33,6 +32,8 @@
 
 ## Who Is Your Favourite Person (Parasocially)
 
+## What's your preferred diameter for a bottle opening to drink
+
 # <center><span style="color:#FEDCBA">Filler</span></center>
 ## When Did You Last Sing To Someone?
 
@@ -41,10 +42,6 @@
 ## Allergies Or Just Food You Hate
 
 ## How do you visualise the way to count numbers  
-
-## What’s the opposite of coffee? 
-## Have you ever thought about whether the sun is on fire?
-## If You Were A Character WHat Would Be Your Downfall
 
 # <center><span style="color:#FEDCBA"> Hypotheticals</span></center>
 ## Would You Rather Be Stuck In A Shopping Mall With One Gorilla Or Five Cobras
@@ -62,10 +59,10 @@
 ## If your uncle Jack helped you off an elephant, would you help your uncle Jack off an elephant?  
 
 ## How many toddlers could you fight off bare-handed?  
+Which poisonous plant would you turn edible if you could?  
+What’s the opposite of coffee? Are there cats? Have you ever thought about whether the sun is on fire?
 
-## Which poisonous plant would you turn edible if you could?  
-
-## If You were a kitchen utensil/appliance which one would you be and why?
+If yYou were a kitchen utensil/appliance which one would you be and why?
 # [[Skull/Concentrated Brain/Random Thoughts/Real Quezzies\|Real Quezzies]]
 
 

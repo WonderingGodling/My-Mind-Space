@@ -722,7 +722,18 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] There Is A Newish God Whom Exists To Protect Harmony From The Tumultuous nature Of Reality
 		- [ ] This Protection Has The Side-Effect Of Blocking Out The Sun So The God Must Perform Its Equivilent Of  ALong Deep Exhale Which Lights Up The Sky With Magic
 - [ ] Locked Wizard Temple, The Way To Unlock Is By Doing Some Wizard Shit
-
+- [ ] Woman Whos Mother Was A God
+	- [ ] Level 21 Wild Magic Sorcerer
+	- [ ] Just Picks An Effect From The Tables
+- [ ] Quest To Not look In A Bag That Ends After The Time Loop
+	- [ ] If You Open It Doom Or SOmething
+- [ ] Persone Stealing Body Parts And Organs To Incorporate Into Themself 
+	- [ ] The People Are Unharmed On Loop Unless They Also Are Uneffected By Loops
+- [ ] Enemies That Explode When You Kill Them
+- [ ] Snake Vending Machine 
+- [ ] You Play Snake On The Keypad (8×8) 
+- [ ] Get Item If Win
+- [ ] Get Snake If Lose
 
 
 

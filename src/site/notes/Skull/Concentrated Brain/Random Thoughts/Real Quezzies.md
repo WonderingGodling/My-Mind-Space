@@ -20,7 +20,7 @@
 
 ## What Do You Wish You Could Do
 
-## What Do You Value The Most In A Relationship (What Type Of Relationship Is Incidental To The Question)
+## What Do Yu Value The Most In A Relationship (What Type Of Relationship Is Incidental To The Question)
 
 ## Are You Dating Anyone
 ### Why Not
@@ -40,7 +40,6 @@
 ## Answer The Opposite Of What You Think: Big Spoon Or Little Spoon
 
 ## What Is The Biggest Thing You Think You Could Fit Inside You
-
 
 ## How Distantly Related Would Someone Have To Be For You To Still Fuck Them?
 

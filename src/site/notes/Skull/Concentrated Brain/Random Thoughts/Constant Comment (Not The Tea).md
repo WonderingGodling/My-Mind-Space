@@ -1277,7 +1277,78 @@ Maybe With Reviews!
 
 Try To Noun-Verb Instead Of Verb-Noun When Writing
 
-Who Is Your Favourite Person (Parasocially)
+https://fixvx.com/i/status/2043768422102655382  
+  
+14/03  
+Half Vent Half Brag But I Really Wanted To Have A Good Day Today  
+I Feel Awful Righht Now But It Is Tomorrow So Fuck You Emotions I Win  
+  
+22/04  
+![[Pasted image 20260506232203.png\|Pasted image 20260506232203.png]]  
+‍​  
+
+  
+Try To Noun-Verb Instead Of Verb-Noun When Writing  
+  
+
+  
+![[Pasted image 20260514200933.png\|Pasted image 20260514200933.png]]  
+Polar Pear  
+Birds  
+![[Pasted image 20260514200955.png\|Pasted image 20260514200955.png]]  
+Modern Day Hitchcock  
+  
+  
+![[Pasted image 20260514202216.png\|Pasted image 20260514202216.png]]  
+![[Pasted image 20260514202221.png\|Pasted image 20260514202221.png]]  
+  
+
+
+Vegan Place By My House Shut Down :(
+
+My Polling Station Was My Primary School And It Looks Exactly The Same As When I Was Six
+
+I Went On Instagram To Ask Joe If He Will Vote For Himself And Saw Multiple Instagram Stories Of People Posing With Their Ballot
+[ETA He Never Responded]
+
+Oh Yeah I Super Handed My Assignment In Unfinished Despite Sleeping Once Since Thursday B
+(05/05/26)
+
+
+Missed my Train Two Days In A Row this Week
+
+
+Chai And Sandwhich From https://maps.app.goo.gl/X7nrD7JZth6vsu816?g_st=ac
+![[Pasted image 20260514204000.png\|Pasted image 20260514204000.png]]
+![[Pasted image 20260514204008.png\|Pasted image 20260514204008.png]]
+"a bit too millenial for me" -Bro Comment
+
+Might Make A Rewrite For A Public Face
+
+My Brain Just Said Alexander Hamilton But The Rhyming Words Are Swapped 
+Pardon Me Are You Aaron Burr Sir
+That Depends Whos Asking 
+Oh Sure Sir
+Probably Picked The Only Song That Cant Do It
+
+"btw when i came downstairs this morning ur steam deck was balancing on the open microwave door"
+Bro
+
+![[Pasted image 20260514204143.png\|Pasted image 20260514204143.png]]
+(07/05/26)
+
+
+Watching Devil Wears Prada 2 On 19th
+
+I Need To 
+Something That Was Lost In The Mixup
+
+
+
+
+A Bunch Of This Was Deleted And What I Recovered IS probably Out Of Order
+
+
 
 
 
