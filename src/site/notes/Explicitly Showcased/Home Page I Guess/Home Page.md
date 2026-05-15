@@ -10,7 +10,7 @@ Im Going To Be Sharing A Large Amount Of Of The Things I Think And Experience An
 
 As, I Suppose, A Mental Health Thing Im Going To Be Devoting A Portion Of My Brain Into An Archival Little Corner Or The Internet
 This Probably Wont Achieve Much But Its Not [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]
-If You Want To Have A Look Around (If You **Can**) Look Around Feel Free
+If You Want To Have A Look Around (If You **Can** Look Around) Feel Free
 Get Comfortable
 
 I Am Working On Redesigning This
@@ -18,6 +18,9 @@ I Am Working On Redesigning This
 
 wonderinggodling On Discord
 Pretty Much [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] Anywhere Else
+
+Questions To Answer If You Are Bored
+https://forms.gle/rZsoUB7Ysrff79xd7
 
 
 
