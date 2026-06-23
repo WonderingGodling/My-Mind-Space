@@ -25,7 +25,7 @@ When Donned Bid Viewed Wright Aired
 Bid = Dib
 Wright = Tyre/Try
 Aired = Dare
-- [ ] [[Branches/Wrighth\|Wrighth]]
+- [ ] Wrighth
 	- [ ] If One Or More Are To Step Within This Write They Will Then Cease To Exist And Then The Write Will Shoot Many Harmless Fireworks Outwards
 		- [ ] Cease = Seis = 6
 		- [ ] Six Two Exist 
