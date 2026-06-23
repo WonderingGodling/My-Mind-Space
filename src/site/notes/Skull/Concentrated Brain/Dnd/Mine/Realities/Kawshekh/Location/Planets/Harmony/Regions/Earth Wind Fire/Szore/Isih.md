@@ -12,7 +12,11 @@
 
 
 
-
+- [ ] Man With Two Wives In Different Cities (Consentualy)
+	- [ ] Need Help Traveling
+		- [ ] Pay A Gold For Each Day Hes Safe
+	- [ ] Calls Everyone "Prince(ss)"
+	- [ ] Wife 2 Lives Here
 
 
 

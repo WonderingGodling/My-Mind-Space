@@ -12,7 +12,9 @@
 
 
 
-
+- [ ] Human Child Approaches Party
+	- [ ] Needs One Gold To Heal [[Skull/Concentrated Brain/Dnd/Characters/CHaracters Who Have Nothing/Pancake And Relay/The Memory Of Pancake And Relay/Characters/Key/Parents/Parents\|Parents]] (Actually A Little Less)
+	- [ ] Wants To Be A Ranger When He Grows Up
 
 
 

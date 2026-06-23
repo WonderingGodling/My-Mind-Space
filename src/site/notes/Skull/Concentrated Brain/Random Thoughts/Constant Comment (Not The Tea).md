@@ -67,7 +67,7 @@ Hahahaha
 Ha
 
 Its 40•2024•4597 And I Am Losing My Mind But Im Back; Your Girl Is Back; I Am Typing Real Huamn Words-
-That One Doesnt Count; Go To [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]]
+That One Doesnt Count; Go To [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]]
 
 
 
@@ -130,7 +130,7 @@ Also, [[Explicitly Showcased/Me/Me\|Me]], Its Boise City Oklahoma
 You Always Forget That Settlement--
 [[WHAT\|WHAT]] The Gell Is My Tinnitus Doing Today Its Bloody Distracting 
 
-Holy [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]]! Today Was So Awesome!! 52•2024• 
+Holy [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]]! Today Was So Awesome!! 52•2024• 
 I Got To Hang Out With [[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!\|Mai Wife!!]] Like All Day-- 
 
 I Just love [[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!\|Mai Wife!!]] So Much
@@ -146,7 +146,7 @@ Also [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roodolf]] Is Cool, 
 
 Uhhh [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]? (ETA: Well Thats Gone?)
 
-I Forgot About This Comic https://halo-head.com/comic/347-try-to-[[[[Draw\|[[Draw]]]]/ (Embed This Later) (EAT: The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]] You Mean eMbed This Later? How Would I Embed That)
+I Forgot About This Comic https://halo-head.com/comic/347-try-to-[[[[Draw\|[[Draw]]]]/ (Embed This Later) (EAT: The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]] You Mean eMbed This Later? How Would I Embed That)
 Last Updated Yesterday 
 Happens Every Time That I [[READ\|READ]] This
 
@@ -1100,51 +1100,51 @@ Emotions Are Hard For Me To Recognise But It Is Kind Of Like A Mixture Of Yearni
 At Least It Is After 413
 
 Lyrics To Grab:
-![[Pasted image 20260506220337.png\|Pasted image 20260506220337.png]]
-![[Pasted image 20260506220346.png\|Pasted image 20260506220346.png]]
+![Pasted image 20260506220337.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506220337.png)
+![Pasted image 20260506220346.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506220346.png)
 
-![[Pasted image 20260506220411.png\|Pasted image 20260506220411.png]]
+![Pasted image 20260506220411.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506220411.png)
 
-![[Pasted image 20260506220707.png\|Pasted image 20260506220707.png]]
+![Pasted image 20260506220707.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506220707.png)
 
-![[Pasted image 20260506220811.png\|Pasted image 20260506220811.png]]
+![Pasted image 20260506220811.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506220811.png)
 
-![[Pasted image 20260506220824.png\|Pasted image 20260506220824.png]]
+![Pasted image 20260506220824.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506220824.png)
 
-![[Pasted image 20260506220913.png\|Pasted image 20260506220913.png]]
+![Pasted image 20260506220913.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506220913.png)
 
 
-![[Pasted image 20260506220936.png\|Pasted image 20260506220936.png]]
+![Pasted image 20260506220936.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506220936.png)
 
-![[Pasted image 20260506220957.png\|Pasted image 20260506220957.png]]
+![Pasted image 20260506220957.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506220957.png)
 
-![[Pasted image 20260506221016.png\|Pasted image 20260506221016.png]]
+![Pasted image 20260506221016.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506221016.png)
 
-![[Pasted image 20260506221022.png\|Pasted image 20260506221022.png]]
+![Pasted image 20260506221022.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506221022.png)
 
-![[Pasted image 20260506221107.png\|Pasted image 20260506221107.png]]
+![Pasted image 20260506221107.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506221107.png)
 
-![[Pasted image 20260506221128.png\|Pasted image 20260506221128.png]]
+![Pasted image 20260506221128.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506221128.png)
 
-![[Pasted image 20260506221140.png\|Pasted image 20260506221140.png]]
+![Pasted image 20260506221140.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506221140.png)
 
-![[Pasted image 20260506221302.png\|Pasted image 20260506221302.png]]
+![Pasted image 20260506221302.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506221302.png)
 
-![[Pasted image 20260506221314.png\|Pasted image 20260506221314.png]]
+![Pasted image 20260506221314.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506221314.png)
 
-![[Pasted image 20260506221354.png\|Pasted image 20260506221354.png]]
+![Pasted image 20260506221354.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506221354.png)
 
-![[Pasted image 20260506222500.png\|Pasted image 20260506222500.png]]
+![Pasted image 20260506222500.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506222500.png)
 
-![[Pasted image 20260506222511.png\|Pasted image 20260506222511.png]]
+![Pasted image 20260506222511.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506222511.png)
 
-![[Pasted image 20260506222524.png\|Pasted image 20260506222524.png]]
+![Pasted image 20260506222524.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506222524.png)
 
-![[Pasted image 20260506222544.png\|Pasted image 20260506222544.png]]
+![Pasted image 20260506222544.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506222544.png)
 
-![[Pasted image 20260506222622.png\|Pasted image 20260506222622.png]]
+![Pasted image 20260506222622.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506222622.png)
 
-![[Pasted image 20260506222715.png\|Pasted image 20260506222715.png]]
+![Pasted image 20260506222715.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506222715.png)
 
 I Am Slowly Losing My Mind Nothing New I Know But I Feel Like I Should Say It
 
@@ -1169,19 +1169,19 @@ ETA: I Think They Fixed The One But I Have To Try Them Again To Know For Sure
 Valid Played And Enjoyed Deadlock
 
 06/04
-![[Pasted image 20260506225648.png\|Pasted image 20260506225648.png]]
+![Pasted image 20260506225648.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506225648.png)
 
 
 126
 https://thedoublesix.co.uk/games/
 
 04/05
-![[Pasted image 20260506225838.png\|Pasted image 20260506225838.png]]
-![[Pasted image 20260506225825.png\|Pasted image 20260506225825.png]]
+![Pasted image 20260506225838.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506225838.png)
+![Pasted image 20260506225825.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506225825.png)
 
 
 Oh Yeah How I Announced My Steam Deck
-![[Pasted image 20260506225933.png\|Pasted image 20260506225933.png]]
+![Pasted image 20260506225933.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506225933.png)
 
 
 "I think my insomnia is traumagenic" Eugene
@@ -1202,8 +1202,8 @@ Eugene Is Actualy So Nice To Me
 
 
 03/05
-![[Pasted image 20260506230301.png\|Pasted image 20260506230301.png]]
-![[Pasted image 20260506230307.png\|Pasted image 20260506230307.png]]
+![Pasted image 20260506230301.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506230301.png)
+![Pasted image 20260506230307.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506230307.png)
 
 125 ETA Not Entirely Sure Where This Is
 Nervermind Found It
@@ -1211,19 +1211,19 @@ Nervermind Found It
 Eugene Has been outside a lot lately
 
 
-![[Pasted image 20260506230545.png\|Pasted image 20260506230545.png]]
+![Pasted image 20260506230545.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506230545.png)
 Cool Rock She Found And Showed me
 (it's actually a part of some stone ornaments but it broke)
 
-![[Pasted image 20260506230534.png\|Pasted image 20260506230534.png]]
-![[Pasted image 20260506230503.png\|Pasted image 20260506230503.png]]
+![Pasted image 20260506230534.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506230534.png)
+![Pasted image 20260506230503.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506230503.png)
 Pawn Structure On Campus
-![[Pasted image 20260506230457.png\|Pasted image 20260506230457.png]]
+![Pasted image 20260506230457.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506230457.png)
 By Practice Room
 
 new Dacus single
 
-![[Pasted image 20260506230655.png\|Pasted image 20260506230655.png]]
+![Pasted image 20260506230655.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506230655.png)
 "It" Being Lis reunion
 
 Oh Yeah YSAC Album
@@ -1243,7 +1243,7 @@ I Think It Fucked Me Up :)
 I met with a friend in the late afternoon in the campus church to look at their art and chat, I did some politics, and finished Roll Over and Die
 Eugene
 
-![[Pasted image 20260506231834.png\|Pasted image 20260506231834.png]]
+![Pasted image 20260506231834.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506231834.png)
 Look At This Cutie
 "Addy said they really liked the broach you gave me"
 
@@ -1263,7 +1263,7 @@ Half Vent Half Brag But I Really Wanted To Have A Good Day Today
 I Feel Awful Righht Now But It Is Tomorrow So Fuck You Emotions I Win
 
 22/04
-![[Pasted image 20260506232203.png\|Pasted image 20260506232203.png]]
+![Pasted image 20260506232203.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506232203.png)
 ‍​ 
 
 I Miss Dee So Much
@@ -1284,7 +1284,7 @@ Half Vent Half Brag But I Really Wanted To Have A Good Day Today
 I Feel Awful Righht Now But It Is Tomorrow So Fuck You Emotions I Win  
   
 22/04  
-![[Pasted image 20260506232203.png\|Pasted image 20260506232203.png]]  
+![Pasted image 20260506232203.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506232203.png)  
 ‍​  
 
   
@@ -1292,15 +1292,15 @@ Try To Noun-Verb Instead Of Verb-Noun When Writing
   
 
   
-![[Pasted image 20260514200933.png\|Pasted image 20260514200933.png]]  
+![Pasted image 20260514200933.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260514200933.png)  
 Polar Pear  
 Birds  
-![[Pasted image 20260514200955.png\|Pasted image 20260514200955.png]]  
+![Pasted image 20260514200955.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260514200955.png)  
 Modern Day Hitchcock  
   
   
-![[Pasted image 20260514202216.png\|Pasted image 20260514202216.png]]  
-![[Pasted image 20260514202221.png\|Pasted image 20260514202221.png]]  
+![Pasted image 20260514202216.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260514202216.png)  
+![Pasted image 20260514202221.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260514202221.png)  
   
 
 
@@ -1319,8 +1319,8 @@ Missed my Train Two Days In A Row this Week
 
 
 Chai And Sandwhich From https://maps.app.goo.gl/X7nrD7JZth6vsu816?g_st=ac
-![[Pasted image 20260514204000.png\|Pasted image 20260514204000.png]]
-![[Pasted image 20260514204008.png\|Pasted image 20260514204008.png]]
+![Pasted image 20260514204000.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260514204000.png)
+![Pasted image 20260514204008.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260514204008.png)
 "a bit too millenial for me" -Bro Comment
 
 Might Make A Rewrite For A Public Face
@@ -1334,7 +1334,7 @@ Probably Picked The Only Song That Cant Do It
 "btw when i came downstairs this morning ur steam deck was balancing on the open microwave door"
 Bro
 
-![[Pasted image 20260514204143.png\|Pasted image 20260514204143.png]]
+![Pasted image 20260514204143.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260514204143.png)
 (07/05/26)
 
 
@@ -1349,9 +1349,14 @@ Something That Was Lost In The Mixup
 A Bunch Of This Was Deleted And What I Recovered IS probably Out Of Order
 
 
+[[Skull/Concentrated Brain/Random Thoughts/Menigames\|Menigames]]
 
+![Pasted image 20260522201910.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260522201910.png)
 
+The largest violin is _4.27 m (14 ft) long_, has a maximum width of 1.4 m (4.5 ft) and a bow with a length of 5.2 m (17 ft).
 
+![Pasted image 20260603000237.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260603000237.png)
+Danez Smith
 
 <center><sub>Done For Now \^w^ </sub></center>
 

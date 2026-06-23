@@ -13,7 +13,8 @@
 
 
 
-
+- [ ] Mesmerelda
+	- [ ] Woman Who Hypotises [[Branches/People\|People]] (Lawful Good)
 
 
 

@@ -14,11 +14,17 @@
 
 Previous Leader Walked Into The Subway, Down The Tracks, And Was Never Seen Again
 
+- [ ] Tea Tourist Merch In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hollywood\|Hollywood]]
+	- [ ] Cheap Disposable Tea (Sets)
+	- [ ] Rare (Kinda Expensive) Tea Sets
 
+## Named Cities And Towns
 
-
-
-
+Capital: [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]]
+[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Midbuton\|Midbuton]]
+[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Natheas\|Natheas]]
+[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Sakka\|Sakka]]
+[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Zeliaphus\|Zeliaphus]]
 
 
 

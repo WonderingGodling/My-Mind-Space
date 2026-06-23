@@ -8,7 +8,8 @@
 # <center><span style="color:#000000"></span></center>
 
 
-
+Town Where Everything Is A Mimic
+No Crime Because Everyone Who Commits A Crime Gets Eaten
 
 
 

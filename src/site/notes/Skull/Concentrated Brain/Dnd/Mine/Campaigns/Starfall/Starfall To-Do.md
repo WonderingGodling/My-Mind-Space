@@ -23,7 +23,7 @@
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town\|Hatchet Town]] 
 - [ ] Write more about [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Cambrighton\|Cambrighton]] and [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Aerynthalas\|Aerynthalas]] (Local Dragon)
 - [ ] Write more about [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/The Underground\|The Underground]]
-- [ ] [[Misc For Now/Wrighth Index\|Wrighth]]
+- [ ] [[Wrighth Stuff/Wrighth Index\|Wrighth]]
 - [ ] Someone Slowly Getting Stronger Trying To Kill [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Kelannar\|Kelannar]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Sylinser\|Sylinser]]
 - [ ] More "Awake" Characters

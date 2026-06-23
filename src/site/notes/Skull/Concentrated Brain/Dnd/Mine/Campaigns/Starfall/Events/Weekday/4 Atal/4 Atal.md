@@ -36,3 +36,6 @@ If With [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/4 
 - One Murder Of Someone Semi-Famous
     
 
+#### Hell Army Recruitment
+	- [ ] Until Death
+	- [ ] Free Food

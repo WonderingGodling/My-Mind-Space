@@ -14,8 +14,10 @@
 ## Post- Starfall
 ### Origin
 Nobody knows where they originally came from but they were found about thirty to fifty years after starfall
+The Gods Saw A Recession In What The Mortals Were Capable Of And Granted Them Something That Resembled The Money That They Cared So Dearly For. This Was Done Around The Time Of Starfall But It Took A While For Mortals To Take Hold Of Them. 
 ### Appearance
 They are indestructible, crystals surrounding an erratically moving liquid. The colour of the crystal is how they are referred to as they can be compared to the oldest known currency form (Precious metals). The Colour Of The Liquid Inside Reflects The Next Value Up. they Don't Make Sound When They Hit Something So You Cant Get A Coinflip Sound Effect With Them :(
+![Jewel.png](/img/user/images/Jewel.png)
 ### Structure
 These Jewels Are Quite Large As Far As Money Goes. The Jewels Have Notches In Them That Allow Them To Be Slotted Together, Ten Connected Regularly Can Just About Fit In The Hand Of A Medium Creature And Become A Jewel Of A Higher Value. They Then Shrink Back Down And Repeat This Pattern.
 
@@ -51,15 +53,46 @@ The Second Highest VAlue. Both The Mathmatical And Cultural Middle-Ground As Far
 #### Platinum 
 The Highest Value And Easy To Come Accross Among SOme Cultures Or Work Sectors. The Inside Is A Thick Black Slurry And Is A Lot More Lively Than The Previous Liquids. The Seemingly Unstable Appearance Of This Liquid Is What Allowed People To First Notice The Pattern I Their Movemtnts
 
-## ichorous
-They Came from the original stars as a gift from the gods. The intent was to strengthen the bond between creatures at the point at which they were weakest and now theycan be utalised for more than just currancy.
+## Biological Effects
+### When Eaten
+Shells Can Be Destroyed By Teeth And Do Something 
+If Eaten Like This The Shards Combine With The Liquid And You Don't Get The Effects Of Drinking The Liquid
+No Nutritional Value, Makes Ones Mouth Feel Warm Like They Are Holding A  Sock In Their Mouth
+There Is A Chance The Shards Can Cut Your Mouth
+You Are More Visible To Creatures With Alternate Forms Of Sight
+
+### When Drank
+#### As A Liquid
+Counts For Eating That Day Not For Drinking
+Inflicts Poison, Unless You Are Immune Then Inflicts Blindness
+Also Inflicts Heat In Creatures With Cycles   
+
+#### Ground Into A Liquid
+Addictive (Different From Turning Them Into A Liquid And Drinking That) Because It Reconstructs Your Biology 
+	Not The Usually Drug Addled Cravings
+		A More Refined Yearning
 
 
-![Pasted image 20260113215213.png](/img/user/images/Pasted%20image%2020260113215213.png)
+- +1 To All Roles For An Hour, -2 Until Short Rest
+- +1 To All Rolls +1 Hit dice Heal For An Hour, -2 To All Rolls -1 Hit Dice Max Health Until Short Rest, 
+- +Prof To All Rolls +1 Hit dice Heal For An Hour, -Double Prof To All Rolls -1 Hit Dice Max Health Until Short Rest
+- +Prof To All Rolls +1 Full Heal For An Hour (More Stuff), -Double Prof To All Rolls -Half Max Health Until Short Rest Drop To 0hp +1 Exhaustion
+
+## Ichorous Era
+They Came from the original stars as a gift from the gods. The intent was to strengthen the bond between creatures at the point at which they were weakest and now they can be utilised for more than just currency.
+
+They Are Biologically Unique And Are A Good Source Of Bio-Energy.
 
 
 
+### Synth Gems
+In The Future A Large Amount Of Refined Platinum Jewels Can Be Turned Into Abiogenerated Soul ("Synth") Gems
+Can Be Used As Spell Components/Materials
+In Every Focus
+Deplete Enough Of Them At Once To Replace Spell Slots (Not Gain, It Is Like A Sacrifice Thing)
 
+- [ ] Platinum Jewels Can Be "Refined" Turning Them Inside Out
+	- [ ] The Living Jewel Is A Pure Form Of Biomagic
 
 
 

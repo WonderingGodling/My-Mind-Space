@@ -11,10 +11,15 @@
 
 
 
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Pleonexia\|Pleonexia]]
+	- [ ] Legendary, Sword-In-Stone Object In Grease
+	- [ ] Was Owned By Hero (Polites) Who Died During The Last War
+	- [ ] When He Died, The Sword Flew, Ten Men Were Slain, And It Plummeted Into The Soil
+	- [ ] The Sword Was Originally Left There Out Of Respect But A Politician Tried To Move It One Day For Planning Reasons Which Is When It Was Discovered To Be Immovable
+	- [ ] Sword Is Full Of Magic, Cant Be Affected By Spells, Is Constantly Dripping The Gold Blood Of The Evolved Greed-Mites
 
 
-
-
+- [ ]  [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Tari\|Tari]] (Old Hero) Goes [[Skull/Spam/Crazy\|Crazy]] After 5 Loops
 
 
 

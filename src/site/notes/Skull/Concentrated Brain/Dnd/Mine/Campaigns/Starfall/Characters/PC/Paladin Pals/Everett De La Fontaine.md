@@ -13,7 +13,19 @@
 
 
 
-
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Paladin Pals/Everett De La Fontaine\|Everett De La Fontaine]] From No-Name Settlement 
+	- [ ] Family Was Big Enough To Vomfortably Move Out Of Town A Few Years Ago And Faded Into Relative Obscurity
+	- [ ] Mansion, Surrounding People And Limited Facilities
+	- [ ] Mostly Farmland And Private Religious Grounds (Like A Small Meeting Place For A Church Or Two)
+	- [ ] Doctors From Gi Fotias Recognise Everret As "The Magic Freak"
+	- [ ] Backlash When People Interact With Everrets Inate Magic
+	- [ ] Write More Reasons That Everret Cant Just Learn From Any Magician
+	- [ ] Others Know Him As The Overexcited Lad
+	- [ ] Everret Always Hurts Sinclair On The Last Day
+	- [ ] DC20 Scrying Spell -15 Modifier At Midday Every Day
+		- [ ] Have His Family React To It
+	- [ ] Bully Everett A Little
+		- [ ] Keep Everett In The Dark About Things
 
 
 ##### Wild Magic Purge

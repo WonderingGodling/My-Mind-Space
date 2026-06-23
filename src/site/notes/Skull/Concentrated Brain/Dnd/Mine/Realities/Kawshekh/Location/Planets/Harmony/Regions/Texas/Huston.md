@@ -10,7 +10,7 @@
 
 Lots Of Water Infrastuvture
 - Statue Of A Horned Paladin With His Sword Embedded In The Floor
-	- Looks Like The One In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Knuts/Lei\|Lei]]
+	- Looks Like The One In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Named Towns And Cities/Knuts/Lei\|Lei]]
 
 
 

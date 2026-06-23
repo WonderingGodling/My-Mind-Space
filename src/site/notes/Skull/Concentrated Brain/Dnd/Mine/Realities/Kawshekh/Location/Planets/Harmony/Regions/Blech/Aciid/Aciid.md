@@ -10,11 +10,12 @@
 
 
 
+- [ ] Competing Shops That All Sell The Same Thing And Have Synonymous Names
 
 
-
-
-
+- [ ] Soup Lake
+	- [ ] Uncharted
+	- [ ] Near [[Aciid
 
 
 

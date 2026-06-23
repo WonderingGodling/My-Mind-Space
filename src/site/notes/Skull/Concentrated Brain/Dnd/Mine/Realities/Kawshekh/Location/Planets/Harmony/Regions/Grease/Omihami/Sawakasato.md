@@ -13,7 +13,7 @@
 
 
 
-
+- [ ] Illusionist Working With Monsters To Lure The Party Into Death
 
 
 

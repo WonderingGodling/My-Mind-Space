@@ -13,7 +13,8 @@
 
 
 
-
+- [ ] Swordsman With No Sword Skills
+	- [ ] Can Be Taught For Reward And Fame
 
 
 

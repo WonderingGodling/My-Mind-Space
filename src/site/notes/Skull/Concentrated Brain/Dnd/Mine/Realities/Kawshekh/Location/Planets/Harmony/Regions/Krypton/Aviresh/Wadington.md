@@ -13,7 +13,8 @@
 
 
 
-
+- [ ] Spirit In Sword That Allows It To Cut Intangible Things And Bypass An Objects Slashing Immunity
+	- [ ] Is Otherwise Intangible Itself
 
 
 

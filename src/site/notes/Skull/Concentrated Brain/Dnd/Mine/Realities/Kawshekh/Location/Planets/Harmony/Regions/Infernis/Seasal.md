@@ -11,10 +11,12 @@
 
 
 
+- [ ] Town On [[Skull/Spam/Fire\|Fire]]
+	- [ ] [[Skull/Spam/Fire\|Fire]] Is Still Deadly But Buildings Dont [[Skull/Concentrated Brain/Projects/Hamilton/Burn\|Burn]]
+		- [ ] [[Branches/People\|People]] Who Live There Have Gotten Used To It
 
-
-
-
+Day 7 Weekday 8
+- [ ] Dragon, Two Very Long Necks
 
 
 

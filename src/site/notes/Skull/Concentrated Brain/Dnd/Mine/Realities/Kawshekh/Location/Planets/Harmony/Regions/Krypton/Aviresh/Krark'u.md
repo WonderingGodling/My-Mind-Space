@@ -12,7 +12,8 @@
 
 
 
-
+- [ ] Agressive, Secluded Old Man Serves Gross Food DC 18 Con Save
+	- [ ] Food Gives Temporary And Perminant Stat Boost If You Eat It Twice In A Row
 
 
 

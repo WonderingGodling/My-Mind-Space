@@ -11,10 +11,14 @@
 
 # <center><span style="color:#FEDCBA"></span></center>
 
+A Magic System Based On The Manipulation Of Sigils And Glyphs 
 
-
-
-
+[[Wrighth Stuff/Wrighth Rules\|Rules]]
+[[Wrighth Stuff/Wrighth History\|Wrighth History]]
+[[Wrighth Stuff/Wrighth  Usage\|Wrighth  Usage]]
+[[Wrighth Stuff/Wrighth Index\|Index]]
+[[Wrighth Stuff/Wrighthers\|Wrighthers]]
+[[Wrighth Stuff/Wrighth Manifestations\|Wrighth Manifestations]]
 
 
 

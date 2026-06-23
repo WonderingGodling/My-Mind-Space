@@ -12,7 +12,10 @@
 # <center><span style="color:#FEDCBA"></span></center>
 
 
-
+- [ ] People Who Are Very High Class Can Recognise Sinclairs "Servential Body Language"
+	- [ ] Sinclaire Knows Folk Lore
+		- [ ] Write More For Her To Know
+	- [ ] Sinclaire Is Treated With Bare Minimum Respect In The Settlement
 
 
 

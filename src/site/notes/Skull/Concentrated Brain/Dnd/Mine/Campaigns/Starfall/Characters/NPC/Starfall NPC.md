@@ -21,7 +21,7 @@
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Queen\|Queen]] Level 20, 
 	- [ ] Isnt A Fan Of The [[Branches/Gods\|Gods]] But Can Only Disparage Heretics
 	- [ ] Has Exclusive (Just For Her) News That The Avatar Of The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Church Of The Next/Church Of The Next\|Church Of The Next]]Has Moved On
-		- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Knuts/Lei\|Lei]]
+		- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Named Towns And Cities/Knuts/Lei\|Lei]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Neutral/Blakewell\|Blakewell]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Lei\|Lei]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hunter\|Hunter]] 
@@ -35,7 +35,7 @@
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Branson/Fission Chipz\|Fission Chipz]]
 - [ ] Original Arcane Rifleman Looking For Her [[Template/Book\|Book]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Laurence\|Laurence (She/Her)]]
-- [ ] Thing That Directed [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Qutes\|Qutes]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]] There (Evil) 
+- [ ] Thing That Directed [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Qutes\|Qutes]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Karma]] There (Evil) 
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Blood Lich\|Blood Lich]] 
 - [ ] Someone With Time Travel Skates 
 - [ ] Ninja Girl 
@@ -44,15 +44,15 @@
 	- [ ] Letters
 	- [ ] Not [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]]
 	- [ ] If Anything Big Happens They Get A Breif Explanation Of The Previous [[Session\|Session]]
-	- [ ] Works For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]]'s Boss' Boss
+	- [ ] Works For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Karma]]'s Boss' Boss
 		- [ ] (Ssnake)
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Farty Fuqueballs Jr Jr (Jay)\|Farty Fuqueballs Jr Jr (Jay)]]
-	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Natheas\|Natheas]]
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Natheas\|Natheas]]
 - [ ] Undercover Cop
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Pat Springleaf\|Pat Springleaf]]
 	- [ ] "Helps" Group S 
 - [ ] Someone Important Who Knows Rumours About The Parties
-	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]]'s Boss' Boss
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Karma]]'s Boss' Boss
 		- [ ] (Ssnake)
 
 

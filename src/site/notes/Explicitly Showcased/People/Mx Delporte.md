@@ -92,6 +92,49 @@ Keeping This At The Bottom Because I Love Her So Much I Want This To Be he Close
 In Case I Never See You Again: 
 I Love You, You Are A Great Role Model, Everything Will Be Okay
 
+"27 wives. Giant polycule. One from each EU member state. Except Malta.
+Closest I'll come to fucking Von Der Leyen"
+
+I Love You So Much
+I Keep Going Between Wanting To Bully You And Look After You
+Might Hug You To Death
+
+Insomnia Might Be traumagenic
+
+Eugene Has been outside a lot lately
+
+
+![Pasted image 20260506230545.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506230545.png)
+Cool Rock She Found And Showed me
+(it's actually a part of some stone ornaments but it broke)
+
+![Pasted image 20260506230534.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506230534.png)
+![Pasted image 20260506230503.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506230503.png)
+Pawn Structure On Campus
+![Pasted image 20260506230457.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506230457.png)
+By Practice Room
+
+new Dacus single
+
+![Pasted image 20260506230655.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506230655.png)
+"It" Being Lis reunion
+
+19/04
+I met with a friend in the late afternoon in the campus church to look at their art and chat, I did some politics, and finished Roll Over and Die
+Eugene
+
+![Pasted image 20260506231834.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506231834.png)
+Look At This Cutie
+"Addy said they really liked the broach you gave me"
+
+
+Well Make Sure They Dont Steal It >:( [Joke]
+It Does Look Really Good On You
+I Doubt Many People Would Have Been Able To Pull Off Such A Professional Look With It
+It Gives You An Important Character Vibe If You Know What I Mean
+
+16/04
+Sent Eugene My Live Location
 
 
 

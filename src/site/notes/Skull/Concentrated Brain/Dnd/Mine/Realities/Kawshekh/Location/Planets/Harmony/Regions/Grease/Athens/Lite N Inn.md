@@ -11,7 +11,9 @@
 
 
 
-
+- [ ] 2 Kids, Kacey And Jr (Casey) Killed Their [[Skull/Concentrated Brain/Dnd/Characters/CHaracters Who Have Nothing/Pancake And Relay/The Memory Of Pancake And Relay/Characters/Key/Parents/Parents\|Parents]]
+	- [ ] If Find Them Early Enough There Is An Option To Babysit Them
+		- [ ] Bonus Option (Hidden) To Break Them Out Of The [[Loop\|Loop]]
 
 
 

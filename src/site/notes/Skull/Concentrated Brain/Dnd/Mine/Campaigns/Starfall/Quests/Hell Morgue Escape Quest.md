@@ -20,10 +20,10 @@
 - Guards Protect Jetty's Body Until They Can Get A Carriage And Coffin To Transport Her In
 	- One Reinforced Carriage, Two Horses, Two Guards Driving, One Guard In The Carriage
 		- If Something Goes Wrong Jettys Body Will Be Put In A Car With The Same Amount Of Guards Alongside Two Guards On Horseback 
-- Jetty Body Taken Out Of Town To "Official Funeral Parlor" In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Natheas\|Natheas]] By Envoy
+- Jetty Body Taken Out Of Town To "Official Funeral Parlor" In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Natheas\|Natheas]] By Envoy
 	- Jetty Is Part Devil
 		- In Case Something Is Up Or Suspicious Or If She Was Important: The Guards Are Cautious
-			- Worried The Death Will Be On The Hands Of [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Zeliaphus\|Zeliaphus]]
+			- Worried The Death Will Be On The Hands Of [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Zeliaphus\|Zeliaphus]]
 		- Some Arguments Breaking Out
 - Very Little Security For Funeral Parlor
 	- Mostly There Because They Have And Are Worried About Jetty

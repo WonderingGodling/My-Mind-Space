@@ -20,7 +20,7 @@
 	- Mind Flayer
 		- http://dndroll.wikidot.com/creatures:mind-flayer Leveled Up To 13
 		- Harmless Unless Provokec
-### [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]] (Group 1)
+### [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]] (Group 1)
 Lots Of Cats
 - King Calling Poeple In To Their Palace And They Dont Come Out
 	- Nothing Bad Happens

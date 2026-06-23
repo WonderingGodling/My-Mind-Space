@@ -21,7 +21,8 @@
 	- Beats Them Half To Death 
 	- Gives Another (Shorter) Monologue Revealing He Was After A Different Group
 
-
+- [ ] Dragon, Two Very Long Necks
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Infernis/Seasal\|Seasal]]
 
 
 <center><sub>Done :)</sub></center>

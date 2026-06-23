@@ -11,7 +11,9 @@
 
 
 
-
+- [ ] Really Brutal, Hard Fight Thats Not Real
+	- [ ] Some Telepath They Piss Off Trying To Mind Kill Them
+	- [ ] They Can Do Impossible Shit
 
 
 

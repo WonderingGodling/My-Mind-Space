@@ -12,7 +12,7 @@
 # <center><span style="color:#FEDCBA">Military road</span></center>
 3281 Km
 
-## [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Sangwoo\|Sangwoo]] → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]] → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Frosty Enigma Road\|Frosty Enigma Road]] Junction
+## [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Sangwoo\|Sangwoo]] → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]] → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Frosty Enigma Road\|Frosty Enigma Road]] Junction
 
 Hexagon One
 [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Sangwoo\|Sangwoo]] → [[The Misty Forest\|The Misty Forest]] Junction → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Sangwoan road\|Sangwoan road]] Junction → [[Backdoor Slideout\|Backdoor Slideout]] Junction → [[Southern Slip\|Southern Slip]] Junction → 
@@ -25,7 +25,7 @@ Hexagon Four
 Hexagon Five
 [[Life Cul-De-Sac\|Life Cul-De-Sac]] Junction → [[Past Pass\|Past Pass]] Junction → [[Enenobeth River\|Enenobeth River]] Bridge → [[Enenobeth route\|Enenobeth route]] Junction -> [[Enenobeth River\|Enenobeth River]] Bridge →
 Hexagon Six
-[[Frozen Road\|Frozen Road]] Junction → [[Enenobeth River\|Enenobeth River]] Bridge → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]] → [[Vent Lane\|Vent Lane]] Junction →
+[[Frozen Road\|Frozen Road]] Junction → [[Enenobeth River\|Enenobeth River]] Bridge → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]] → [[Vent Lane\|Vent Lane]] Junction →
 Hexagon Seven
 [[Lef Arran Fork\|Lef Arran Fork]] Bridge-> 
 Hexagon Eight

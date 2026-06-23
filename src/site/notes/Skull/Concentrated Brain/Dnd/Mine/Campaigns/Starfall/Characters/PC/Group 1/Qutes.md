@@ -56,10 +56,16 @@ like learning rituals to banish them, salt barriers, holy water type stuff
 Karma Is the inverse of qutes, 
 when qutes used the cube and it wiped out her realms life but her and a single demon got warped through 
 
-
+was a very strong mage in her time, finally finished a machine to preform a ritual (got a idea of her making herself into a 'chrono litch'   for whatever reaason the machine fucked up and  zapped her back in time, now with  the chronomark scar on her hand
+so just experiment/ritual gone wrong
+was kinda bound to happen at some point after fucking with chronomagic all the time
 
 ## Panic Button "Genocide Cube" 
 ᶦᵗˢ ʷʰᵃᵗ ʸᵒᵘ ᵈᵒ ᵇᵉˢᵗ
 A Remnant Of Bygone Conflict. When This Miniaturised, Esoteric Cube Witnesses Multiple Deaths It Explodes In A 10ft Sphere Dealing 1d8 Magic Necrotic Damage To Each Creature That Fails A DC 11 Dex Save. The Cube Will Always Find You And Grant You Advantage On Dex Saves Against Necrotic Damage
+
+## Broken Clock
+
+You Manage To Get Your Stop Watch Stuck, It Resets After 11 Seconds Taking You And Your Knowledge With It. Anything Done During This 11 Seconds Is As If It Never happened Only Works Twice A Day
 
 <center><sub>Done :)</sub></center>
