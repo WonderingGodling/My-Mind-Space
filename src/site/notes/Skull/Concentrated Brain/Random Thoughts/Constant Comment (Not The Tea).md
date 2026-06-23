@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Constant Comment","permalink":"/Constant Comment/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true}
+{"dg-publish":true,"dg-permalink":"Constant Comment","permalink":"/Constant Comment/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true,"dg-note-properties":{"Type:":"Brain Dump","down:":null,"Yesterday:":null,"Tomorrow:":null,"title":"Constant Comment","comments":true,"tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"aliases":["Constant Commment","Mega Note","I Dont Know What Im Saying"],"up":"[[Random Thoughts]]","Type":null,"down":null,"Yesterday":null,"Tomorrow":null,"Next":null,"Previous":null}}
 ---
 
 
@@ -8,299 +8,66 @@
 # <span style="color:#CD0000">Constant Comment (Not The Tea)</span>
 ![](https://i.imgur.com/O8fvfW9.png)
 
-## The Top
 
-I Dont Know What Im Writing And None Of This Matters 
-This Is Just Like A Brain Dump For Non-specific And Super Short Ideas That Havent Earned Their Own Page Yet 
-Maybe Things Go Here Because Im Tired 
-Maybe Im Just Bored And My Brain Said "Hey!" So I Put It Here
 
-### Original Random Bulk
 
-Back On My Incremental Grind For A Bit
 
-The Lightless Flame Is Such A Badass Name
 
-I Just Wanna Watch A Movie 
-Whyve You Gotta Be A Pain In The Ass
 
-And Yeah.... I Did Forget About This
 
-### Back To Random
 
-Also I Miss My [[Explicitly Showcased/People/Special Ones/Sunshine/Vie\|Vie]]
-We Need To Talk More
 
-### Randomness :3
 
-I Did A Bit Of Tidying Up 
-You Wont Notice
 
 
-#### Tumblr Link?
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:0WVvjWYXyV_tcp5kf631Jw/729147951762505728/v2" data-did="945d63eecd58b6a0bd44d5f12bb9abce89656c19" ><a href="https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english">https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
-### We Imported Still
 
-The Library Is Dewey Decimal 
-The Catagory Arangement Still Feels Arbitrary
 
-Testing A Thing 
-Dont Worry About It
 
-[[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] Cool; Looks Like It Works
 
-There Is [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] I Wanna Eat In This Whole City! 
-Im Gonna Starve And Im Gonna Laugh 
-(I'll Probably Eat In Town But Still) 
-What Even Is "Good Food"
 
-#### Tumblr Link??
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:0WVvjWYXyV_tcp5kf631Jw/729147951762505728/v2" data-did="945d63eecd58b6a0bd44d5f12bb9abce89656c19" ><a href="https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english">https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
-## Secondary Phase Of Random
 
-Interesting: I Can Boot Multiple Instances Of This Application Which (Since Its Locked) Means That I Cant Close Any Instances Of It
 
-I Went Back And Added Some Stuff I Said To My [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Moirail]]
 
-Just Diagnosed Someone With Autism And They Were Like "....Yep"
 
-Ive Got More Things To Do Than I Have Time To Sleep But Tomorrow I Have Things To Do So Its Time To Sleep?
 
-I Didnt Sleep I Messed With The Laptop
 
-I Ran Out Of Data 
-Spotify Was Using Automatic Quality
 
-I Was Gonna Read On The Train But I Still Dont Trust Them
 
-## Sneaky Imports
-
-https://youtu.be/zHHQusnYY3c?si=fKYYsvFJHomCnpDf](https://youtu.be/zHHQusnYY3c?si=fKYYsvFJHomCnpDf) I Was Thinking About A Video Like This Last Nigh 
-Algorithms AmIRight (ETA(19·2023 46.41) Links Dead Dont Bother)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HwAPLk_sQ3w?si=amaDCRbklx1zqByF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-I Dissociated In And Out Of My Death And Missed The Premier But This Is So Good
-
-Short Version: Remembered One Of My Friends Knows Someone With An Armpit Fetish And Im Wondering How You Know You Have An Armpit Fetish 
-Like What Steps Do You Have To Take To Know Its Specifically That 
-I Just Feel Like "[[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] Part" Is Too Specific 
-I Figured It Out! 
-Watching Someone Change In The Gym And Youre Staring At Them For Ages 
-Then You Go "Im Only Staring At Their Armpits...." 
-Then You Go [[Explicitly Showcased/Home Page I Guess/Home Page\|Home]] And Figure It Out From There 
-Its Just That I Can Imagine Someone Finding Bdsm Porn And Being Like "I Want More Of This" 
-But Does Armpit Porn Even Exist?
-
-You should see
-
-I Was Gonna Say "Im [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]" But When Have I Ever Not Been Curious Of The Top Ten Images Three Of Them Have Actual Armpits As A Focus Almost All Of Pornhubs Results Are Just Other Porn But Also Armpits Exist But Theres A Few Videos Of [[Branches/People\|People]] Licking Them And One Video Titled "Armpit Joi" So I Guess Its Straight Up Not A Thing
-
-## So Anyway
-
-There's Some Of The Stuff I Didnt Add
-
-Gonna Make A [[Branches/Quotes\|Quotes]] Thing 
-And Now That Ive Written That Its linked Forever
-
-Ive Done [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]Today Because I 
-Want To Die
-
-[[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|My Friend]] Threatened To Wear A "Lil Black Skirt" And If They Do I'll Strangle Them /Affectionate
-
-Not Everyones As Dried Apricots As They Think They Are
-
-ETA: Fact
-
-Woke Up At Like 2100 Spent Three Hours Eating And Now Im Just Existing At 1
-
-Went To Bed At Like Six Last Night (For Eight Hours) 
-Best Sleep Of Like A Month
-
-Theres Cayenne In My Pocket
-
-I Used The Peppers 
-Good Job [[Explicitly Showcased/Me/Me\|Me]]
-
-Mark Made [[Explicitly Showcased/Me/Me\|Me]] Laugh 
-We Got Spooked Together <3
-
-The Stanley Parable 
-The Eye, The Lonely, The Spiral, The Vast (At One Point)
-
-I Dont Have The Energy To Do Anything I Was Gonna Do
-
-[Removed]
-
-Fuck I Dont Update This Enough 
-More Imports:
-
-## More Imports
-
-Wearing My Friends Shirt And On My Way To Town They Said They Were Getting The Train In So We Should Meet Up 
-They Didnt Notice I Was Wearing Her Shirt Until I Pointed It Out Smh
-
-Just Read A Yuri Manga And The More I Read The More I Was Like "This Is Not A Healthy Thing To Read" 
-Then It Ended And I Was Just Like "....[[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] Sure"
-
-I Dont Feel Anything About It 
-Cant Decide If It Was a Happy Ending Or What
-
-I Just Saw A Steam Comment "Homestuck? Well Yeah Its Bolted To The Ground"
-
-Nonbinary Dom Like 
-"My Pronouns Are Master/Master's; You Will Address [[Explicitly Showcased/Me/Me\|Me]] On Your Knees"
-
-Remember [[Explicitly Showcased/Me/Me\|Me]] Making Fun Of The Armpit Guy Because "How The The Fuck Did He Figure That Out‽" 
-Ive Changed My Opinion 
-
-I Dont Know If This Video Is Safe For Work But Its Relevant So Probably Not (ETA(19·2023 47.08) The Video I Put Here Disappeared But It Was In Fact Proof That Armpit Focused Videos Exist)
-
-Did Yall Know You Can Group Call On The Lovesense App?
-
-I Think If A Guy Gets A Girl Pregnant She Should Just Be Able To Give Him The Pregnancy 
-That Would Be A Great Update To Human Biology
-
-I Found Out One Of [[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|My Friends]] Is Into Rope Bondage 
-He Doesn't Live In England 
-Most Of The [[Branches/People\|People]] Begging To Be Roped Live Way Too Far Or Are Way Too Busy 
-Pointless
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Do u think a transphobic conservative guy would change if I squished his head between my thighs</p>&mdash; Kiyana 🏳️‍⚧️ (@SlayzKiana) <a href="https://twitter.com/SlayzKiana/status/1717001251215515673?ref_src=twsrc%5Etfw">October 25, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-I Just Deepthroated A Knife
-
-One Of My Discord Friends Got Paws
-
-[[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]
-## Back To Normal?
-
-Did Some Messing Around And I Should Be Able To Edit The Website On The Go So....
-Expect More Of [[Explicitly Showcased/Me/Me\|Me]] I Guess
-
-Somebody (Not Naming Names) Has Put Tablespoons Of Tea Into My Teapot Instead Of The More Elegant And Aptly Named Teaspoons Of Tea So I Dont Think The Brew Strength Is Ever Right
-
-Someone Should Make An Algorithm That Analyses The Frames Of Tv Shows And Switches Between Episodes Smoothly
-Like Youre Watching Friends Season Three And In Season Seven Episode Nine Everyone Happens To Stand In The Same Place So Its Suddenly Just A Whole Different Episode From Now On
-
-Eating Breakfast Out Of A Mug
-
-Saw Cor's Family This Morning
-Bus Isnt Showing Up So Im Walking Down
-Past Them And Recognised Their Voices
-It Was Quite A Pleasant Surprise 
-
-A Pancake Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Just Fell From The Sky?
-Like [[Plap.jpg\|Plap!]] [Plap.jpeg Could Not Be Found?????] 
-I Thought It Was Just Really Loud Bird Shit, Then Noticed It Was Too Big
-Theres Nobody Near [[Explicitly Showcased/Me/Me\|Me]] To Throw It....
-
-Ive Thought Barely Anything Today
-/̵͇̿̿/'̿'̿ ̿ ̿̿ ̿̿ ̿̿ 
-
-Recently Ive Felt So Little About So Much
-Thats Why I Haven't Been Adding Anything 
-Christmas Is Coming Around Which Is Fun!
-I Have Literally No Expectations Whatsoever So I Cant Really Be Let Down I Guess
-
-I Feel Like Utter And Complete Shit
-I Want To Drink A Monster Because That Usually Helps But Then Theres Just Gonna Be More Of....This
-
-There's A Chunk Of My Stuff Missing From This Page
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Real mommy doms get drunk and throw wine glasses at you and scream and you and then cry and say they&#39;re so sorry and it won&#39;t happen again and they love you and then do the exact same thing a week later</p>&mdash; 🐶🩸Page🩸🐶 (@Vampuppy_Page) <a href="https://twitter.com/Vampuppy_Page/status/1744568166548754454?ref_src=twsrc%5Etfw">January 9, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-Why Is Hank Greens's Name William?
-
-Guess Who Just Finished The Essay Shes Spent Like Two Weeks Working On
-Apparently All My Sources Are Plagiarised Which Is Certainly [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]
-
-![](https://i.imgur.com/vwdTu6Z.png)
-You Cant Tell [[Explicitly Showcased/Me/Me\|Me]] That Wouldn't Be A Badass Name
-Naming My Daughter Mortality Rose
-
-"Momma Shelly Was Gay As Fuck
--Dr Frankenstein"
-
-I Did Break This At Some Point
-If Youre Reading This It Was At Least Temporarily Fixed
-
-Started Playing Stardew Valley Again And I Love Abby So Much; Like, Yes Girl You Go Eat That Quartz! I Was Saving It For Your Midnight Snack Anyway B)
-Cant Wait To Marry Her For The Eighteenth Time In A Row
-
-I Wanna Dye My Hair Black; Just A Shitty, Fading-Over-Time, Layer Of Void Overlaying An Almost Equally Shitty Bleached Head Of Hair
-And Underneath All Of It: Slowly Growing Black Roots
-If I Leave My Hair For Long Enough Therell Be An Obvious Faded Ring Of Where Has Been Bleached Sandwhiched Between An Artificial And A Natural Black
-
-Im Not [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]
-Im So Not [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]] But I Dont Know Why
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/explicitly-showcased/my-general-outlook-on-this/#zoochosis" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-# Zoochosis
-
-It Has Come To My Attention (Via [[Explicitly Showcased/Me/Me\|Me]] Telling [[Explicitly Showcased/Me/Me\|Me]] What I Think Is Best For [[Explicitly Showcased/Me/Me\|Me]]) That Since I Am Undergoing Zoochosis And That The Enrichment Time That I Usually Try To Provide Myself With Is A Failing Method, The Best Thing For [[Explicitly Showcased/Me/Me\|Me]] To Do For My Mental Health Is To Empty The Beehive More Frequently; The Problem Isnt My Mind, It's Keeping My Mind Locked Iniside Of Itself  
-This [Website](https://my-mind-space.vercel.app/) Will See The Biggest Hit In Terms Of My Increase In Esoteric
-
-
-</div></div>
-
-
-
-Also Im Now A Light Player And I Think [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Is One Of The Desolation Maybe; Who Knows
 
 ![IMG-20240114-WA0016 1.jpg](/img/user/images/IMG-20240114-WA0016%201.jpg)![IMG-20240114-WA0019.jpg](/img/user/images/IMG-20240114-WA0019.jpg)
 Hhhhhhhhhhhhhhhh
 
-I Just Got Dissapointed Because I Mistakenly Thought I Spotted A Free Box Of Floor Tampons
 
-Corys Definitely A Light Player; I Dont Know If Hes A Watcher Though; I Think Hes A Spiral Or Maybe The Web (Do Spiders Need To Manipulate <b>[[Branches/People\|People]]</b> Or Can They Have Fun With It?)
 
-Speech To Text Making An Appearance 
+ 
 
-Finally Got My Hands On A Copy Of [[Skull/Concentrated Brain/Media/House Of Leaves/HOL Mega Note\|House Of Leaves]]
-Its A Second Edition Copy Published In 2001 
 
-Count Bin Face Is Active Again
 
-I Wasnt Listening To The New [[Skull/Concentrated Brain/Media/The Magnus Protocol/The Magnnus Protocol\|Magnus Protocol]] Episode Because I Was Freaking Over The Small Details
-Technically The First Episode (I Know Two Came Out At Once)
 
-I Was Watching [[Skull/Concentrated Brain/Media/Vivzie/Hazbin Hotel\|Hazbin Hotel]] But I Couldnt Find Episode Five So :)
 
-I Wanna Go On Reality Tv Shows And Just Lie To Everyone, Drive Them Slowly Insane; Every Year Or Two Someone With My Face But A Different Name Shows Up On A New Season Of Some Random Reality Tv Show Or Game Show Or Whatever And Nobody Quite Knows Why
 
-Just Learned That The Rocks On Your Farm Dont Drop Geodes Day One
 
-I Wanna Put Together A Dnd Party Of [[Branches/People\|People]] Who Arent Friends; Mainly To See How Player Chemistry Would Form From Scratch Or If It Even Will
-Itll Be Interesting To See If Two [[Branches/People\|People]] Hate Each Other Do They Reflect That In-Game Or Vice Versa
 
-My Computer Now Starts With A Key
 
-Also I Went To Las Iguanas To Eat, It Was Pretty Good
 
-Oh And New Earphones Are Quite Good
-Makes [[Explicitly Showcased/Me/Me\|Me]] Feel A Little [[Skull/Spam/Crazy\|Crazy]] Though Because I Feel Like Im Listening To Shit In A Silent Room And Everyone's Just Like "Who The Fuck Is This Guy?"
-Im Not Worried Theyre Judging [[Explicitly Showcased/Me/Me\|Me]] Its Just A Very Large Tonal Shift
+
 
 Watch Icp Win US Presidency
 
 Cleaning Up The Vault
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:0WVvjWYXyV_tcp5kf631Jw/729147951762505728/v2" data-did="945d63eecd58b6a0bd44d5f12bb9abce89656c19" ><a href="https://www.tumblr.com/shencomix/739174739386515456">https://www.tumblr.com/shencomix/739174739386515456</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+
 
 Mortician Boyfriend Who Puts Ice In Your Mouth So He Can Imagine Getting Blown Off By A Corpse
 Hahahaha
 Ha
 
 Its 40•2024•4597 And I Am Losing My Mind But Im Back; Your Girl Is Back; I Am Typing Real Huamn Words-
-That One Doesnt Count; Go To Hell
+That One Doesnt Count; Go To [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]]
 
 
 
@@ -356,32 +123,32 @@ Really Enjoying This Season For Some Reason
 4k Zen Comp Play; 2nd Supp Comp Play In Half As Many Hours 
 Going To Bed
 
-52•2024•0359 Is [[Explicitly Showcased/Me/Me\|Me]] Going To Bed Early So That Im Fully Rested For Dee <s>Tomorrow</s> Today 
+52•2024•0359 Is [[Explicitly Showcased/Me/Me\|Me]] Going To Bed Early So That Im Fully Rested For [[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!\|Mai Wife!!]] <s>Tomorrow</s> Today 
 Also Listening To [[Branches/TMA\|TMA]] 99 Dust To Dust; Its A Gertrude Episode (Not Her Best Though)
 
 Also, [[Explicitly Showcased/Me/Me\|Me]], Its Boise City Oklahoma
 You Always Forget That Settlement--
-What The Gell Is My Tinnitus Doing Today Its Bloody Distracting 
+[[WHAT\|WHAT]] The Gell Is My Tinnitus Doing Today Its Bloody Distracting 
 
-Holy Hell! Today Was So Awesome!! 52•2024• 
-I Got To Hang Out With Dee Like All Day-- 
+Holy [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]]! Today Was So Awesome!! 52•2024• 
+I Got To Hang Out With [[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!\|Mai Wife!!]] Like All Day-- 
 
-I Just love Dee So Much
+I Just love [[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!\|Mai Wife!!]] So Much
 
-Also [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Is Cool, Glad Theyre Safe And All That
+Also [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roodolf]] Is Cool, Glad Theyre Safe And All That
 
 ![Tumblr_l_1160578296118.jpg](/img/user/images/Tumblr_l_1160578296118.jpg)
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:HmBJ8Ly3SvMXpp9ktdUq7Q/741139528161640448/v2" data-did="5bff922bcf470585110d7b2203c414daa135bb91" ><a href="https://www.tumblr.com/trouble-trouble-trouble/741139528161640448/tmagp-try-to-go-one-ep-without-having-a-line">https://www.tumblr.com/trouble-trouble-trouble/741139528161640448/tmagp-try-to-go-one-ep-without-having-a-line</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
 
-![[Screenshot_20240223_073901_One UI Home.png\|Screenshot_20240223_073901_One UI Home.png]]
+
+![[Screenshot_20240223_073901_One UI Home Page.png\|Screenshot_20240223_073901_One UI Home Page.png]]
 
 Uhhh [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]? (ETA: Well Thats Gone?)
 
-I Forgot About This Comic https://halo-head.com/comic/347-try-to-draw/ (Embed This Later) (EAT: The Hell You Mean eMbed This Later? How Would I Embed That)
+I Forgot About This Comic https://halo-head.com/comic/347-try-to-[[[[Draw\|[[Draw]]]]/ (Embed This Later) (EAT: The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]] You Mean eMbed This Later? How Would I Embed That)
 Last Updated Yesterday 
-Happens Every Time That I Read This
+Happens Every Time That I [[READ\|READ]] This
 
 
 ![d2b89dd5b95cb7f7d56f0e9c5881477d.jpg](/img/user/images/d2b89dd5b95cb7f7d56f0e9c5881477d.jpg)
@@ -397,7 +164,7 @@ My Girls Got A Lil Pregnant, No Wories
 Eating Goldbears Like A Weirdo
 
 (59·2024·8333~)
-Finally Got My Pc Back; [[Explicitly Showcased/Me/Me\|Me]] And Core Spent Like All Day Working On It And Now Everything Works Smoothly
+Finally Got My Pc Back; [[Explicitly Showcased/Me/Me\|Me]] And [[Explicitly Showcased/People/Special Ones/Cory/{Invalid Username}\|{Invalid Username}]] Spent Like All Day Working On It And Now Everything Works Smoothly
 
 Now For Some Note Catchup
 
@@ -408,7 +175,7 @@ thats The Dream Right Gang?
 ![](https://i.imgur.com/2oS4aMU.jpeg)
 1981 Kitty
 
-<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Update: <br><br>MY MOM IS GETTING A FURSUIT <a href="https://t.co/fa1QIxc4DO">https://t.co/fa1QIxc4DO</a></p>&mdash; Blue 🔜 New Fursuit! (@bluefolf) <a href="https://twitter.com/bluefolf/status/1758178570910781914?ref_src=twsrc%5Etfw">February 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> Happy For Them
+
 
 Lowkey Wanna Go Down On Someone Rn
 Need [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] To Do And Brains Like "Someone Works Too ;)"
@@ -427,7 +194,7 @@ I Found Arizona Iced Tea Across The Road From My Uni; The Real Deal And Everythi
 ![](https://i.imgur.com/RIfCypg.png)
 
 
-<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">jordan peterson will never know the pleasure of two sweaty tgirls frotting and panting desperately,, leaving bite and scratch marks on eachother,, minds blank as they rut desperately, mindlessly against each other.,,. sry what was i ttalking about</p>&mdash; ashley (dog)🐾🦴❤️‍🩹 (@ashpuppyxoxo) <a href="https://twitter.com/ashpuppyxoxo/status/1757932917571928287?ref_src=twsrc%5Etfw">February 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> Real? Idk
+
 
 ![](https://i.imgur.com/jUiFBme.png)
 Small Shoutout To [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|My Slut]] Btw
@@ -437,7 +204,7 @@ In The Second Shazam Film Theres A Scene Where A Woman Says Shes Over Six Thousa
 
 Scrolled Through This A Bit And Random Parts Just Do Not Exist
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:D6sn2PQ62McOK15fSCqfPQ/742751721089105920/v2" data-did="4cf4fe0c2dff7d9858b5ee3b7d7dc2188cb03009" ><a href="https://www.tumblr.com/walmart-the-official/742751721089105920/yeah-np-we-had-loads-of-extras-because-most-of">https://www.tumblr.com/walmart-the-official/742751721089105920/yeah-np-we-had-loads-of-extras-because-most-of</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+
 
 Theres Actually A Lot More That I Wanna Add But I'll Stop Here For Now Which Makes The Note At The Bottom Temporarily Redundant 
 
@@ -510,7 +277,7 @@ Dee Im Speculating Flesh Secondary?
 Anti Hunt
 
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="zxx" dir="ltr"><a href="https://t.co/48mWbvaikq">pic.twitter.com/48mWbvaikq</a></p>&mdash; PANAPANA (@87sukiyaki) <a href="https://twitter.com/87sukiyaki/status/1768084345489957290?ref_src=twsrc%5Etfw">March 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> No Words Needed
+
 
 Hrr Clue Crew 245 And 144's Files Were Uploaded Backwards
 And Some "Final" Files Are "Final B" So.... Not So Final
@@ -581,7 +348,7 @@ Needles
 ![](https://i.imgur.com/wkoyOdX.jpeg)
 
 
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">waking up your sleepy puppygirl by shining a laser pointer on her puppyparts and watching your kittygirl dive into her crotch headfirst.</p>&mdash; ADHDoggie (@worstgoodgirl) <a href="https://twitter.com/worstgoodgirl/status/1767867706148106343?ref_src=twsrc%5Etfw">March 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 
@@ -592,7 +359,7 @@ Needles
 ![](https://i.imgur.com/W1Wnbrl.png)
 Still Dont Know How I Did That
 
-Done [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] All Day
+Done [[[[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]]] All Day
 Missed Some Stuff Out- I Need To be Better At This
 
 Father Called
@@ -660,7 +427,7 @@ Ive Also Been Enjoying The McMaster's Guide To Homicide <b>Murder Your Employer<
 Headacheee
 
 Watched All The Doctor Who
-[[Skull/Concentrated Brain/Dnd/Terminology/Rogue\|Rogue]] Felt Like A Classic
+Rogue Felt Like A Classic
 And The Doctor Got Another Souvinir
 
 Kettle Threw My Power Out
@@ -668,7 +435,7 @@ Kettle Threw My Power Out
 Playing More Ring Of Pain
 Thats Going Not So Well
 
-[[Explicitly Showcased/People/Special Ones/Roo/Roo\|Roo]] Was So Toxic Today
+[[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roodolf]] Was So Toxic Today
 If Anything Comes Up Regarding Wednesday 164·2024· Then We Can Assume That Was That
 
 
@@ -1011,48 +778,585 @@ Soul Eater Soundtrack
 
 Literaly Doing Nothing :)
 
+## London 2026 +
+79 2026
+Going TO Try To Do This More
+Also Going To Try TO Seperate This And More Diary Esque Happenings Becasue Why  Not
+
+Watch Yellowjackets!!!!
+
+Cavetown Was So Happy And Energetic On Stage
+I Love Him
+
+Okayyyyyy 80 2026 Cacth-Up
+Woke Up EArlyish And Spent The REst Of The Morning Cuddling, Ate Pasta- Went Back To Cuddling
+Now We Are Both Working On Our Stuff ANd eating Grapes
+€ Is Doing Some Work In Her Minecraft Work And Is Doing It So Well She's Awesome
+Meanwile I Am Just Doing Lame Dnd Stuff And Talking To All The New Players That Want To Join 
+
+Sometimes I Do Feel Like I Am Just In The Way Or Being A Pain In The Ass But € Seems To Like Or At LEast Not Mind Me For Now So I Guess I Should Stop Coplaining ANd Smile
+Wer're All Gonna Die Someday But We Got A While So We Better Smile
+
+Also I Think Her Music Taste Is Objectively Better Than Mine
+Mine Is The Least Curated Mix Of Songs Ever And All Of Her Playlists Are Sorted And Thematic ANd Yeah
+
+This Page Is Such A Mess
+I Need To CLean It Up
+I Also Need To Set Tiktik Back Up
+And Add A Reminder To Make € Send Me Her Detials
+
+79 Catch Up
+- [x] Respond To EpicSpydi
+- I Found €'s Ring (That I Lost (Because I Am The Worst Friend Ever)) She Then Gave It Back To Me Like I Was Not The Same Dumbass That Dropped Her Headphones 
+- I Need To Make Her SEnd Me Her Bank Details So That I Can Get A Replacement For Her- \*So That I Can Give Her The Money To Get A Replacement
+- I Did Some Dnd stuff
+- We Listened To Cavetown
+- After Cuddling For What I Have Possibly Incorrectly Noted As Hours I Tried To Get HEr outside (Spoiler I Did Succeed)
+- 65.25 Update
+- We Did Go outside And We Got Fruit And Blueberry Juice And A Big Bottle Of Lipton Tea
+- Then I Got Her In Bed And Got Her The Leftover Soup From The Day Before
+- Also Steam Sale Which Is Cool
+- My Data And Hotspot Both Intermittently Decide To Give Up On Me Which Is SOmething
+That Is All
+
+I Am So Glad That My Libido Spiked Last Week Because I Think I Would HAve Died
+
+Every Now And Then I See A Tweet Or Something Of Something Cute Or Gay Or What-Have-You And The Caption Says "This Would Fix Me"
+I Think This Did A Pretty Good Job
+
+95.31 
+Watch Parlement And Make Fun Of Eugene For It
+We Watched MCC
+Aimsey Was So Bad :D
+She Got Last Place Overall
+Also Drift Got Three Coins! Yay
+
+Been Listening TO Fantastic On Loop With Eugene
+And Finishing My Big Bottle Of Lipton Tea
+
+Lowkey Lightheaded :P
+
+Addy And Vivian Weere Drinking Booze Out Of Her Pots And Pans Because Those Are The Only Clean Dishes
+But They Also Sent A Picture So I Respect That
+
+The Noodles We MAde Were Nicee
+
+Oh Yeah Eugene Is Probably A Soy Sauce Addict
+
+I’m feeling fantastic, I'm fucking fantastic
+I wanna get drunk and watch American classics
+Drink champagne out of plastic
+Don't you want someone crazy like me, babe?
+I'm feeling amazing, I'm fucking amazing
+I'm high as a kite, I'm sat here picturing you naked
+You just have to take it
+If you want someone crazy like me, babe
+
+Minecraft Refuses To Work D:
+
+I Should Look Up If You Can Have Something Hidden *On* A Webpage Without A Password Or Something To Reveal It
+
+First Night In Birmingham And I Can Hear Two Ambulances
+Oh Fuck
+Fire Engine Too
+Every Half Hour Is 0.02%
+
+My Phones Keep Getting Stuck In My Pocket
+
+Clean
+Tiktik
+Look Up Blood Test
+Request All Medical Information
+Check If tiktik Sync
+Try Get Framework Laptop From Dsa
+Check More Disability Stuff Uk
+Medical/Self-Care Bag Or Something
+Get Drawers After Room Clean
+
+Something I Do Too Much Is Pretend Not To Know What I Am Talking About
+I Think I Value My Own Knowledge Too Much And Assume That Others Do Too So If I Say Something Assertively And Am Wrong I Will Feel badOr Maybe I Am Too Aware Of How Blunt I Can Be And Am Substituting That With Vague Passificity
+If There Is A Balance I Am Not Managing It
+
+Also 85 2025
+I Have Not Been On Top Of This Very Well Partiqlly Because I Have Been Too Busy Partially Because i Have Been Too Uncomfortable (Physical And Emotional) To Manage Thinsg
+
+Stress Toy Dildo COming Tomorrow
+haha Coming
+
+Friend Hurt Himself So I Am Giving Him Some Of My Cute Plasters Tomorrow
+![20260326_231355.jpg](/img/user/images/20260326_231355.jpg)
+
+I Have To Get To Uni At 9 For This Evo Devo Thing
+
+I Ate A Whole Loaf Of Bread Today :)
+
+Testing A Thing
+
+Been Trying For About Two Hours To Have A Thing That Is Hidden Or Blacked Out Or Whatever Then is readable under A Certain Circumstance And Now I Am Giving Up And Making A Second Password Page
+
+
+I Really Just Need To Have This Open Alll The Time
+Ughhhhhhhhhh
+Life AmIRight
+
+hhhhhhhhhhhh
+
+This IS So Bad
+Why Can I Not Do Better
+I Will Go Back And Fill Some Things In
+Today Is 87?? Okay
+Dildo Did Come Yesterday, Very Squishy
+
+Okay So
+87 2025 76~
+Reminded The Dnd Players To Get Their Characters Ready, Will Send Roo Her Own Message Either Tomorrow Or Monday
+Also Paladin Pals Have Been Reminded That They Have Twio Weeks To Solidify Any Character Details
+It Is Somnias Birthday Today
+
+86
+![Pasted image 20260328192028.png](/img/user/images/Pasted%20image%2020260328192028.png)
+
+[https://www.tumblr.com/lilaclupin/812231927890329600?source=share](https://www.tumblr.com/lilaclupin/812231927890329600?source=share "https://www.tumblr.com/lilaclupin/812231927890329600?source=share")
+I Need To Embed This But "to be trapped together in a cave-in where one of them is injured and they have to talk to keep them distracted and stay sane while they wait for help, and end up opening up about their vulnerabilities and bond and then grow desperate as one starts to slip from consciousness while the other begs them to stay awake—" Sounds Awesome
 
 
 
+Write About Biohybrids
+I Need To Make More Art Or At Least Try
+
+Watching The Apprentice And As Always These People Suck
+
+Roo Really Wants To Watch Project Hail Mary
+I Really Dont Know If I Will Like It
+
+Also I Feel So Tired
+
+I Messaged Beau On His Birthday
+Didnt Get A Response But Whatever
+
+Sighs In Pain
+
+I Am Going To Get Telegram Real Quick
+And Im Not Going To Message Him
+Theres No Reason To
+
+- Start Loop At Subway Station
+- Hell Government Playout
+- Whole Hell Plot Line
+- ast Ruler Of Hell, 200 Years Ago, He Was Torn Limb From Limb Because Of His Taxation Policies
+- vetni -16 euros
+- Fire Water Gun
+- Angry Mother, Missing Child
+- (Present At Moon Day)
+- A Lot Of White Birds In Hell
+- Hell Map
+- Church Map
+- Brothel Map
+- House Map
+- Statue Of A Horned Paladin With His Sword Embedded In The Floor
+- Is Dragon Defence
+- Ghost Somewhere
+- Tavern Shootout
+- Numeric Core Puzzle
+[https://www.cineby.app/tv/3793](https://www.cineby.app/tv/3793 "https://www.cineby.app/tv/3793")
+[https://blinx.uk/dy4el](https://blinx.uk/dy4el "https://blinx.uk/dy4el")
+Increase Festival Payouts Over Time
+Horse Game Trainer ID 646 879 707 933
+[[Explicitly Showcased/People/Ollie\|Ollie]]
+[[Skull/Concentrated Brain/Random Thoughts/Moomoo\|Moomoo]]
+Julie Wants To Do Teams Meetings About Next Semester
+
+Oh Yeah One Of My Friends Recommended A Webtoon To Me And I Read It The Other Day
+One Thing I Thought Was Funny Is That As It Goes On The Author Talks More About Fish
+![](https://i.imgur.com/TN9ifOB.jpeg)
+
+![](https://i.imgur.com/q7WGLn6.jpeg)
+
+This Graph Is Frankly Insane
+First Off The Idea That Anyone Said Gambling Is Hot Is Wild (Over 5% Somehow)
+Cigars Are On The Fall, Thise Used To Be Huge
+Playing Magic The Gathering Is About As Hot As Drinking
+Also You Know That Arguing Online And Funko Are The Same People XD
+Sorry I Like Stats And Felt Like Ranting
+
+Trying To Reorganise Some Time With My Friends Today And One Of Them Said Theyll Be Too Tired After Work Then Later Said They Need To Be Home By 9 
+If Youre Gonna Lie At Least Be Good At It? I Assumed They Were Anyway But Maybe Im Just Being Judgy Idk
+
+![](https://i.imgur.com/1VTbUYv.jpeg)
+
+Ollie Called Me
+Two Hour Five Minutes
+Hate This Guy Btw
+
+##### None Of This Is Gonna Be In Order For A While
+
+
+Found A Bunch Of CDs In The Shop, Lez Go
+
+Was Looking At Pretty Turntables And Then I Noticed This
+![Pasted image 20250905164554.png](/img/user/images/Pasted%20image%2020250905164554.png)
+https://packaged-media.redd.it/cudinx0ncrif1/pb/m2-res_854p.mp4?m=DASHPlaylist.mpd&v=1&e=1757102400&s=4c81941c51d11ef67c64cb577c059bdba31e4ebd
+
+[[Explicitly Showcased/People/Special Ones/Heart\|Heart]] Added Me To Their Server
+
+Got New Speakers
+
+Just Got The Arcane S2 Soundtrack On CD Because Half Price
+
+Thanks [[Explicitly Showcased/People/Claire Bear\|Claire Bear]]
+
+
+Its So Cool That Me And Claire Have The Same Speakers!
+
+![Pasted image 20250905170022.png](/img/user/images/Pasted%20image%2020250905170022.png)<!--⚠️Imgur upload failed, check dev console-->
+![Pasted image 20250905170032.png](/img/user/images/Pasted%20image%2020250905170032.png)
+
+Bee Said "those wires look yummy..." Smh
+
+    
+   The Miku Heart! ![Miku Heart.png\|20](/img/user/images/Miku%20Heart.png)
+
+![](https://cdn.discordapp.com/avatars/405286224090365954/b6cbda3337565886bac954ee01eae93e.webp?size=80)![](https://cdn.discordapp.com/avatar-decoration-presets/a_b9f89cd88eabf437777bf35f55e6126f.png?size=96&passthrough=false)
+### doll![[]](https://cdn.discordapp.com/clan-badges/874618617096990762/60dc5de06463281a8c02b907655e979c.png?size=16)ꜰɴᴀꜰ _—_ Yesterday at 22:03
+That Doesnt Look Right....
+    
+## Anyway!    
+
+Grim Was "perplexed by [My] setup" So Explanation
+    
+Bottom To Top: CD Player, Tape Player, Radio, Amp/Mixer
+    
+![💛](https://discord.com/assets/4252a4264c0874b9.svg)
+    (Weird That I Can Paste So Much Of Discords UI But How Almost None Of It Looks Right)
+
+CD Player Can Hold 5 CDs And Tape Player Can Hold Two Tapes
+	I Dont Use The Radio But Its Nice To Have
+Also The CD And Tape Player Are Joined By Wires At The Back (They All Are, I Wired Them) But One Of The Wires Is Like Part Of The Devices
+I Think If I Broke One Id Either Have To Live With It Or Replace Both Of Them
+    Well Those Two Are Stuck Together For Some Reason, Everythings All Kinda Connected To The Radio At The Moment— I'm Using It As A Junction For Everything Else
+There Are So Many Ports And Holes In The Back Of The Radio So Im Taking Advantage Of It
+    Theyre Also Connected To My Record Player Which Isnt In The Picture
+So That I Can Easily Use The Mixer To Listen To Anything (Including My Computer)
+        Been Working On This For Like Months
+Its So Hard To Get Good Tech
+    
+We Both "feel like everything is getting more expensive but made shittier"
+
+[[Explicitly Showcased/People/grim\|grim]]
+
+
+Readin A Book And It Describes Hells Weather As Being Like Englands
+
+The trailer for Gastronauts S2 is out now! https://youtu.be/t8ggBrRrFS4 🚀🧑‍🍳🍔☀️
+
+The new season premieres Saturday, 16 August 2025 00:00
+
+Oh Yeah I Saw The Colourful Stage Movie And Was Mildly Shocked To Hear Mikus Voice Ddispite Going To It To See Her
+The Other Characters Are Fun And All, And The Game Is Good, But I Wanted To See Sad Miku
+
+Gonna Try To Do This More
+I Say That A Lot But Like Seriously
+
+Memorise The Twelve Tribes Sometime
+ALso The Colours
+
+Aaaaaaaaaaaaaaaaa
+:)
+[Smashes My Skull In]
+"Sauron Became Evil Which Is Like Whoops. You Win Some You Lose Some" - JayBug About Lotr
+
+This Is So Jumbled Now
+Oh Well
+
+![Pasted image 20260329145252.png](/img/user/images/Pasted%20image%2020260329145252.png)
+This Is Why People Loved Bec And Jade
+They Are Barely Even in Shot And They Are Still More Goals Than Most Relationships Ive Seen
+
+I Have Not Been Adding Enough Stuff To This Because I Hate Myself Or SOmething
+
+I Have Lost Both My Pad And My Pen So That Is Nice
+
+Will Buy The Thing If I Can Make Progress On The Portpholio
+Real Progress
+
+Day 96 79.24% 
+Drank Some Water
+
+Sometimes I Feel Like I Dont Count As A Person And Other Times I Wish I Didnt
+Everything Would Probably Be Much Easier If I Just Blew Up, Evaporated, And Stayed Out Of Everyones Way
+It Probably Doesn't Help That I Watch My Friends Struggle Through There Problems While I Get Buffeted By Mine And Smile Pathetically
+
+I Dont Know Why Everyone Hates Me
+Maybe I'll Figure It Out Someday And Fix Whatever This Is But For Now I Guess I Just Continue To Suck
+
+I Just Saw A Blue Check And Thought "Somebody Actually Read My Message?" 
+It Was Me
+I Messaged Myself
+
+14/4/26
+Started Feeling Productive When I Got Home Today Then Started Feeling Gross Now I Feel Unlovable I Think
+Emotions Are Hard For Me To Recognise But It Is Kind Of Like A Mixture Of Yearning And Expected To Be Shot For It
+
+At Least It Is After 413
+
+Lyrics To Grab:
+![Pasted image 20260506220337.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506220337.png)
+![Pasted image 20260506220346.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506220346.png)
+
+![Pasted image 20260506220411.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506220411.png)
+
+![Pasted image 20260506220707.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506220707.png)
+
+![Pasted image 20260506220811.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506220811.png)
+
+![Pasted image 20260506220824.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506220824.png)
+
+![Pasted image 20260506220913.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506220913.png)
+
+
+![Pasted image 20260506220936.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506220936.png)
+
+![Pasted image 20260506220957.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506220957.png)
+
+![Pasted image 20260506221016.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506221016.png)
+
+![Pasted image 20260506221022.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506221022.png)
+
+![Pasted image 20260506221107.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506221107.png)
+
+![Pasted image 20260506221128.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506221128.png)
+
+![Pasted image 20260506221140.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506221140.png)
+
+![Pasted image 20260506221302.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506221302.png)
+
+![Pasted image 20260506221314.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506221314.png)
+
+![Pasted image 20260506221354.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506221354.png)
+
+![Pasted image 20260506222500.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506222500.png)
+
+![Pasted image 20260506222511.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506222511.png)
+
+![Pasted image 20260506222524.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506222524.png)
+
+![Pasted image 20260506222544.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506222544.png)
+
+![Pasted image 20260506222622.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506222622.png)
+
+![Pasted image 20260506222715.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506222715.png)
+
+I Am Slowly Losing My Mind Nothing New I Know But I Feel Like I Should Say It
+
+https://www.tumblr.com/godfrey-the-chaos-duck/814890906746503168?source=share
+
+[23:27, 22/04/2026] Watching Oliver Play Blue Prince And This Is The First Time I Have Seen Someone Organically Figuring Out The Painting Puzzle
+Di He Found The Study Before Fully Cracking The Code
+But There Are Points Where He Pointed Out All The Letters Were In The Other Painting
+
+126
+Listening to Some Undertale Stronger Than Yous
+
+https://x.com/i/status/2044482315565297956
+
+15/04
+Domekeeper Multiplayer
+Also Dlc Characters 
+Tried Both, Hate One
+
+ETA: I Think They Fixed The One But I Have To Try Them Again To Know For Sure
+
+Valid Played And Enjoyed Deadlock
+
+06/04
+![Pasted image 20260506225648.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506225648.png)
+
+
+126
+https://thedoublesix.co.uk/games/
+
+04/05
+![Pasted image 20260506225838.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506225838.png)
+![Pasted image 20260506225825.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506225825.png)
+
+
+Oh Yeah How I Announced My Steam Deck
+![Pasted image 20260506225933.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506225933.png)
+
+
+"I think my insomnia is traumagenic" Eugene
+
+125
+Woke Up At Ten By The Way
+Been In Bed Most Of The Day
+
+04/05
+"The practice rooms still won't open but I saw someone inside practicing..." E
+
+Addy also doesn't have a piss kink
+
+Oh Yeah I Super Handed My Assignment In Unfinished Despite Sleeping Once Since Thursday B)
+
+Eugene Is Actualy So Nice To Me
 
 
 
+03/05
+![Pasted image 20260506230301.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506230301.png)
+![Pasted image 20260506230307.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506230307.png)
+
+125 ETA Not Entirely Sure Where This Is
+Nervermind Found It
+
+Eugene Has been outside a lot lately
 
 
+![Pasted image 20260506230545.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506230545.png)
+Cool Rock She Found And Showed me
+(it's actually a part of some stone ornaments but it broke)
+
+![Pasted image 20260506230534.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506230534.png)
+![Pasted image 20260506230503.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506230503.png)
+Pawn Structure On Campus
+![Pasted image 20260506230457.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506230457.png)
+By Practice Room
+
+new Dacus single
+
+![Pasted image 20260506230655.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506230655.png)
+"It" Being Lis reunion
+
+Oh Yeah YSAC Album
+https://music.youtube.com/watch?v=nFah1bLH5Ks&list=OLAK5uy_klaW_d93ZSpcZJUWh0SlFp8SNZeobwvSw
+
+" no talking about the b-word"
+
+I Need To Catch up on Amazon Shows
+
+19/04
+I Keep Typing Like One Word Of Work Then Doing Something Else
+All Of The Stuff I Did Today Got Deleted uwu
+When I Sent That I Thought To Myself "Good Thing That Didnt Happen In The Morning— It Would Have Fucked Me Up"
+I Think It Fucked Me Up :)
+
+19/04
+I met with a friend in the late afternoon in the campus church to look at their art and chat, I did some politics, and finished Roll Over and Die
+Eugene
+
+![Pasted image 20260506231834.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506231834.png)
+Look At This Cutie
+"Addy said they really liked the broach you gave me"
 
 
+Well Make Sure They Dont Steal It >:( [Joke]
+It Does Look Really Good On You
+I Doubt Many People Would Have Been Able To Pull Off Such A Professional Look With It
+It Gives You An Important Character Vibe If You Know What I Mean
 
+16/04
+Sent Eugene My Live Location
 
+https://fixvx.com/i/status/2043768422102655382
 
+14/03
+Half Vent Half Brag But I Really Wanted To Have A Good Day Today
+I Feel Awful Righht Now But It Is Tomorrow So Fuck You Emotions I Win
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-​ ​‍ ‍​ 
-
-
-
-
-
-
-
-
-
-
+22/04
+![Pasted image 20260506232203.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506232203.png)
 ‍​ 
 
+I Miss Dee So Much
+She Is Coming Back Soon!
+
+By The End Of The Year I Want To Taste All Of  Her
+I Have To Make Up For Lost TIme
+
+I Was Going To Make A To-Taste List But It Would Be Smarted To Make A Tasted List
+Maybe With Reviews!
+
+Try To Noun-Verb Instead Of Verb-Noun When Writing
+
+https://fixvx.com/i/status/2043768422102655382  
+  
+14/03  
+Half Vent Half Brag But I Really Wanted To Have A Good Day Today  
+I Feel Awful Righht Now But It Is Tomorrow So Fuck You Emotions I Win  
+  
+22/04  
+![Pasted image 20260506232203.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260506232203.png)  
+‍​  
+
+  
+Try To Noun-Verb Instead Of Verb-Noun When Writing  
+  
+
+  
+![Pasted image 20260514200933.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260514200933.png)  
+Polar Pear  
+Birds  
+![Pasted image 20260514200955.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260514200955.png)  
+Modern Day Hitchcock  
+  
+  
+![Pasted image 20260514202216.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260514202216.png)  
+![Pasted image 20260514202221.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260514202221.png)  
+  
+
+
+Vegan Place By My House Shut Down :(
+
+My Polling Station Was My Primary School And It Looks Exactly The Same As When I Was Six
+
+I Went On Instagram To Ask Joe If He Will Vote For Himself And Saw Multiple Instagram Stories Of People Posing With Their Ballot
+[ETA He Never Responded]
+
+Oh Yeah I Super Handed My Assignment In Unfinished Despite Sleeping Once Since Thursday B
+(05/05/26)
+
+
+Missed my Train Two Days In A Row this Week
+
+
+Chai And Sandwhich From https://maps.app.goo.gl/X7nrD7JZth6vsu816?g_st=ac
+![Pasted image 20260514204000.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260514204000.png)
+![Pasted image 20260514204008.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260514204008.png)
+"a bit too millenial for me" -Bro Comment
+
+Might Make A Rewrite For A Public Face
+
+My Brain Just Said Alexander Hamilton But The Rhyming Words Are Swapped 
+Pardon Me Are You Aaron Burr Sir
+That Depends Whos Asking 
+Oh Sure Sir
+Probably Picked The Only Song That Cant Do It
+
+"btw when i came downstairs this morning ur steam deck was balancing on the open microwave door"
+Bro
+
+![Pasted image 20260514204143.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260514204143.png)
+(07/05/26)
+
+
+Watching Devil Wears Prada 2 On 19th
+
+I Need To 
+Something That Was Lost In The Mixup
+
+
+
+
+A Bunch Of This Was Deleted And What I Recovered IS probably Out Of Order
+
+
+[[Skull/Concentrated Brain/Random Thoughts/Menigames\|Menigames]]
+
+![Pasted image 20260522201910.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260522201910.png)
+
+The largest violin is _4.27 m (14 ft) long_, has a maximum width of 1.4 m (4.5 ft) and a bow with a length of 5.2 m (17 ft).
+
+![Pasted image 20260603000237.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260603000237.png)
+Danez Smith
 
 <center><sub>Done For Now \^w^ </sub></center>
 
@@ -1065,15 +1369,3 @@ Literaly Doing Nothing :)
 
 
 
-
-<html>
-<body onbeforeunload="return myFunction()">
-
-<script>
-function myFunction() {
-  return "Write something clever here...";
-}
-</script>
-
-</body>
-</html>

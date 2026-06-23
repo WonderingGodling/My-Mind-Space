@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Constantine","permalink":"/Constantine/","title":"Connie","tags":["Tagless"],"dgShowToc":true}
+{"dg-publish":true,"dg-permalink":"Constantine","permalink":"/Constantine/","title":"Connie","tags":["Tagless"],"dgShowToc":true,"dg-note-properties":{"Type":null,"up":"[[My PCs]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":"Connie","comments":true,"tags":["Tagless"]}}
 ---
 
 

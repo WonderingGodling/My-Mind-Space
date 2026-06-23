@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/jane-doe/jane-doe/","tags":["Tagless"]}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/jane-doe/jane-doe/","tags":["Tagless"],"dg-note-properties":{"Type":null,"up":"[[My PCs]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -50,30 +50,30 @@
 
 | Attack         | To-Hit | Damage            |
 | -------------- | ------ | ----------------- |
-| [[Skull/Concentrated Brain/Dnd/Terminology/Kusarigama\|Kusarigama]] | 1d6    | Slashing/peircing |
+| [[Kusarigama\|Kusarigama]] | 1d6    | Slashing/peircing |
 
 ### Jane's Spells
-[[Skull/Concentrated Brain/Dnd/Terminology/Word Of Radiance\|Word Of Radiance]] 5ft
-[[Skull/Concentrated Brain/Dnd/Terminology/Toll The Dead\|Toll The Dead]] 60ft
-[[Skull/Concentrated Brain/Dnd/Terminology/Thaumaturgy\|Thaumaturgy]] 30ft
+[[Word Of Radiance\|Word Of Radiance]] 5ft
+[[Toll The Dead\|Toll The Dead]] 60ft
+[[Thaumaturgy\|Thaumaturgy]] 30ft
 
 4/4
-[[Skull/Concentrated Brain/Dnd/Terminology/Bane\|Bane]] 30ft M C
-[[Skull/Concentrated Brain/Dnd/Terminology/Bless\|Bless]] 30ft M C
-[[Skull/Concentrated Brain/Dnd/Terminology/Command\|Command]] 60ft
-[[Skull/Concentrated Brain/Dnd/Terminology/Create or Destroy Water\|Create or Destroy Water]] 30ft M
-[[Skull/Concentrated Brain/Dnd/Terminology/Cure Wounds\|Cure Wounds]] Touch 
-[[Skull/Concentrated Brain/Dnd/Terminology/Sanctuary\|Sanctuary]] B 30ft M
-[[Skull/Concentrated Brain/Dnd/Terminology/Guiding Bolt\|Guiding Bolt]] 120ft
+[[Bane\|Bane]] 30ft M C
+[[Bless\|Bless]] 30ft M C
+[[Command\|Command]] 60ft
+[[Create or Destroy Water\|Create or Destroy Water]] 30ft M
+[[Cure Wounds\|Cure Wounds]] Touch 
+[[Sanctuary\|Sanctuary]] B 30ft M
+[[Guiding Bolt\|Guiding Bolt]] 120ft
 [[Guiding Hand \|Guiding Hand ]] X 5ft C
-[[Skull/Concentrated Brain/Dnd/Terminology/Healing Word\|Healing Word]] B 60ft
-[[Skull/Concentrated Brain/Dnd/Terminology/Inflict Wounds\|Inflict Wounds]] Touch
-[[Skull/Concentrated Brain/Dnd/Terminology/Shield of Faith\|Shield of Faith]] B 60ft M
-[[Skull/Concentrated Brain/Dnd/Terminology/Heroism\|Heroism]] Touch C
+[[Healing Word\|Healing Word]] B 60ft
+[[Inflict Wounds\|Inflict Wounds]] Touch
+[[Shield of Faith\|Shield of Faith]] B 60ft M
+[[Heroism\|Heroism]] Touch C
 
 1/2
-[[Skull/Concentrated Brain/Dnd/Terminology/Spiritual Weapon\|Spiritual Weapon]] B 60ft
-[[Skull/Concentrated Brain/Dnd/Terminology/Prayer of Healing\|Prayer of Healing]] x 10ft v
+[[Spiritual Weapon\|Spiritual Weapon]] B 60ft
+[[Prayer of Healing\|Prayer of Healing]] x 10ft v
 
 | Wis|    13 |    5 |
 | ------------ | --- | --- |
@@ -99,13 +99,13 @@ Languages: Common, Deepspeech, Undercommon, Celestial
 
 # Notes: 
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Arcane charm\|Arcane charm]]
+[[Arcane charm\|Arcane charm]]
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Darkvision\|Darkvision]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Telepathy\|Telepathy]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Devour Brain\|Devour Brain]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Psionic Abilities\|Psionic Abilities]]
-	[[Skull/Concentrated Brain/Dnd/Terminology/Magic Resistance\|Magic Resistance]]
+[[Darkvision\|Darkvision]]
+[[Telepathy\|Telepathy]]
+[[Devour Brain\|Devour Brain]]
+[[Psionic Abilities\|Psionic Abilities]]
+	[[Magic Resistance\|Magic Resistance]]
 
 Ritual Casting
 Divine Domain
@@ -116,8 +116,8 @@ Channel Divinity (1)
   Balm of Peace (2d6 + your Wisdom modifier)
 Harness Divine Power (1)
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Gift of the Gem Dragon\|Gift of the Gem Dragon]] (2) DC13 2d8 10ft
-[[Skull/Concentrated Brain/Dnd/Terminology/Lucky\|Lucky]]
+[[Gift of the Gem Dragon\|Gift of the Gem Dragon]] (2) DC13 2d8 10ft
+[[Lucky\|Lucky]]
 
 
 # Characteristics 

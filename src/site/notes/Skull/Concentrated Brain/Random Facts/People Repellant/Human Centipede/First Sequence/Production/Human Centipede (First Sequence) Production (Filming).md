@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Human Centipede (First Sequence) Production (Filming)","permalink":"/Human Centipede (First Sequence) Production (Filming)/"}
+{"dg-publish":true,"dg-permalink":"Human Centipede (First Sequence) Production (Filming)","permalink":"/Human Centipede (First Sequence) Production (Filming)/","dg-note-properties":{"Type:":"Production Segment Information","up:":[["The Human Centipede (First Sequence) Production"]],"down:":null,"Yesterday:":null,"Tomorrow:":null,"alias:":"Human Centipede 1 Filming","Next:":null,"Previous:":null}}
 ---
 
 # Production 

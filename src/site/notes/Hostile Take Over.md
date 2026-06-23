@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hostile-take-over/","tags":["Tagless"]}
+{"dg-publish":true,"permalink":"/hostile-take-over/","tags":["Tagless"],"dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 Domain Expansion: Hostile Take Over

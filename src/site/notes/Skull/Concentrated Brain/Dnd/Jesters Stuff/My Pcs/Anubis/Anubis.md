@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/jesters-stuff/my-pcs/anubis/anubis/","tags":["Tagless"]}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/jesters-stuff/my-pcs/anubis/anubis/","tags":["Tagless"],"dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -11,10 +11,10 @@
 
 
 ## General
- Race:  [[Skull/Concentrated Brain/Dnd/Terminology/Reborn\|Reborn]] [[Skull/Concentrated Brain/Dnd/Terminology/Githyanki\|Githyanki]]
- Class: [[Skull/Concentrated Brain/Dnd/Terminology/Path of the ascended\|Path of the ascended]] [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Mist Walker\|Skull/Concentrated Brain/Dnd/Jesters Stuff/Mist Walker]] 4
+ Race:  [[Reborn\|Reborn]] [[Githyanki\|Githyanki]]
+ Class: [[Path of the ascended\|Path of the ascended]] [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Mist Walker\|Skull/Concentrated Brain/Dnd/Jesters Stuff/Mist Walker]] 4
  Alignment: True Neutral 
- Background: [[Skull/Concentrated Brain/Dnd/Terminology/Rakdos Cultist\|Rakdos Cultist]]
+ Background: [[Rakdos Cultist\|Rakdos Cultist]]
 
 
 ## Stats
@@ -59,31 +59,31 @@
 
 Mist points: 4/4
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Prestidigitation\|Prestidigitation]] 10 
-[[Skull/Concentrated Brain/Dnd/Terminology/Shocking grasp\|Shocking grasp]] 0 
-[[Skull/Concentrated Brain/Dnd/Terminology/Mage hand\|Mage hand]] 30 
-[[Skull/Concentrated Brain/Dnd/Terminology/Fire Bolt\|Fire Bolt]] 120 
-[[Skull/Concentrated Brain/Dnd/Terminology/Vicious Mockery\|Vicious Mockery]] 60 
-[[Skull/Concentrated Brain/Dnd/Terminology/Poison Spray\|Poison Spray]]  10
+[[Prestidigitation\|Prestidigitation]] 10 
+[[Shocking grasp\|Shocking grasp]] 0 
+[[Mage hand\|Mage hand]] 30 
+[[Fire Bolt\|Fire Bolt]] 120 
+[[Vicious Mockery\|Vicious Mockery]] 60 
+[[Poison Spray\|Poison Spray]]  10
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Magic missile\|Magic missile]] 120
-[[Skull/Concentrated Brain/Dnd/Terminology/Silvery barbs\|Silvery barbs]] 60 R
-[[Skull/Concentrated Brain/Dnd/Terminology/Healing Elixir\|Healing Elixir]] X
+[[Magic missile\|Magic missile]] 120
+[[Silvery barbs\|Silvery barbs]] 60 R
+[[Healing Elixir\|Healing Elixir]] X
 [[Burning Hands \|Burning Hands ]] 15
 [[Dissonant Whispers \|Dissonant Whispers ]] 60
-[[Skull/Concentrated Brain/Dnd/Terminology/Hellish Rebuke\|Hellish Rebuke]] 60 R
+[[Hellish Rebuke\|Hellish Rebuke]] 60 R
 
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Wither and Bloom\|Wither and Bloom]] 60
-[[Skull/Concentrated Brain/Dnd/Terminology/Misty Step\|Misty Step]] 30 B
-[[Skull/Concentrated Brain/Dnd/Terminology/Knock\|Knock]] 60
-[[Skull/Concentrated Brain/Dnd/Terminology/Crown of Madness\|Crown of Madness]] 120
-[[Skull/Concentrated Brain/Dnd/Terminology/Enthrall\|Enthrall]] 60
-[[Skull/Concentrated Brain/Dnd/Terminology/Flaming Sphere\|Flaming Sphere]] 60
+[[Wither and Bloom\|Wither and Bloom]] 60
+[[Misty Step\|Misty Step]] 30 B
+[[Knock\|Knock]] 60
+[[Crown of Madness\|Crown of Madness]] 120
+[[Enthrall\|Enthrall]] 60
+[[Flaming Sphere\|Flaming Sphere]] 60
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Fear\|Fear]] 30
-[[Skull/Concentrated Brain/Dnd/Terminology/Haste\|Haste]] 30
-[[Skull/Concentrated Brain/Dnd/Terminology/Fireball\|Fireball]] 150
+[[Fear\|Fear]] 30
+[[Haste\|Haste]] 30
+[[Fireball\|Fireball]] 150
 # Inventory
 
 Money: 10, a mix of Azorius and Boros 1-zino coins
@@ -117,9 +117,9 @@ Rakdos Guild Spells
 	Fire Bolt, Vicious Mockery, Burning Hands, Dissonant Whispers, Hellish Rebuke, Crown of Madness, Enthrall, Flaming Sphere
 
 Githyanki Psionics
-	[[Skull/Concentrated Brain/Dnd/Terminology/Mage hand\|Mage hand]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Githyanki#Psychic Resilience.\|Psychic Resilience]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Reborn#Deathless Nature\|Deathless nature]]
+	[[Mage hand\|Mage hand]]
+[[Githyanki#Psychic Resilience.\|Psychic Resilience]]
+[[Reborn#Deathless Nature\|Deathless nature]]
 
 [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Mist Walker#Mist walk\|Mist walk]]
 [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Mist Walker#Shroud of mist\|Shroud Of Mist]]
@@ -132,5 +132,5 @@ Githyanki Psionics
 [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Mist Walker#Hand of the mist\|Hand of the mist]]
 
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Vital Sacrifice\|Vital Sacrifice]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Remarkable Recovery\|Remarkable Recovery]]
+[[Vital Sacrifice\|Vital Sacrifice]]
+[[Remarkable Recovery\|Remarkable Recovery]]

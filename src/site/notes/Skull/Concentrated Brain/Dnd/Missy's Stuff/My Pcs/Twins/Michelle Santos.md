@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/twins/michelle-santos/","tags":["Tagless"],"dgShowToc":true}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/twins/michelle-santos/","tags":["Tagless"],"dgShowToc":true,"dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
@@ -14,6 +14,9 @@
 Transfem Neon Conduit Who Prefers Making The Right Move Over Making The easy One
 Has Always Been Scared Of The Dark But "Only As much As A Normal Person" And Will Never Let It Show
 
+Improvised Kusarigama
+https://docs.google.com/document/d/1bWk0UEGlO0sAQv6Jb5iq9zmo1t2GaQIT1Xa8HSAxCeE/edit?tab=t.0
+
 
 ### Magic
 
@@ -27,23 +30,6 @@ Has Always Been Scared Of The Dark But "Only As much As A Normal Person" And Wil
 [Green-Flame Blade](https://dnd5e.wikidot.com/spell:green-flame-blade)
 [Guidance](https://dnd5e.wikidot.com/spell:guidance)
 [Hand of Radiance (UA)](https://dnd5e.wikidot.com/spell:hand-of-radiance)
-[Light](https://dnd5e.wikidot.com/spell:light)
-[Lightning Lure](https://dnd5e.wikidot.com/spell:lightning-lure)
-[Minor Illusion](https://dnd5e.wikidot.com/spell:minor-illusion)
-[Prestidigitation](https://dnd5e.wikidot.com/spell:prestidigitation)
-[Produce Flame](https://dnd5e.wikidot.com/spell:produce-flame)
-[Sacred Flame](https://dnd5e.wikidot.com/spell:sacred-flame)
-[Word of Radiance](https://dnd5e.wikidot.com/spell:word-of-radiance)
-[Absorb Elements](https://dnd5e.wikidot.com/spell:absorb-elements)
-[Alarm](https://dnd5e.wikidot.com/spell:alarm)
-[Arcane Weapon (UA)](https://dnd5e.wikidot.com/spell:arcane-weapon)
-[Burning Hands](https://dnd5e.wikidot.com/spell:burning-hands)
-[Chromatic Orb](https://dnd5e.wikidot.com/spell:chromatic-orb)
-[Faerie Fire](https://dnd5e.wikidot.com/spell:faerie-fire)
-[Guiding Bolt](https://dnd5e.wikidot.com/spell:guiding-bolt)
-[Guiding Hand (UA)](https://dnd5e.wikidot.com/spell:guiding-hand-ua)
-[Hellish Rebuke](https://dnd5e.wikidot.com/spell:hellish-rebuke)
-[Illusory Script](https://dnd5e.wikidot.com/spell:illusory-script)
 
 ##### Cantrips
 ###### Photokenesis
@@ -60,7 +46,7 @@ Bright Light Erupts From You, Each Creature Of Your Choice Within 5ft Must Succe
 Or One Creature Within 60ft  Must Succeed A Dexterity Save Or Take 1d8 Radiance
 The target gains no benefit from cover for this saving throw.
 Modified From [Word Of Radience](https://dnd5e.wikidot.com/spell:word-of-radiance), And [Sacred Flame](https://dnd5e.wikidot.com/spell:sacred-flame)
-The Light Shooting From Your Fingertips In A 15ft Cone Deals 3d6 Fire Damage To Anyone Who Fails A Dexterity Save (Or Half)
+
 Further Modified From [Burning Hands](https://dnd5e.wikidot.com/spell:burning-hands)
 
 ###### Spotlight
@@ -168,11 +154,4 @@ Creatures Dex Save To Be unaffected, If Affected The Creature Is Attacked With A
 Action
 90ft
 Instant
-Throw Orb Of Light At Target For 3d8 Light Damage
-
-###### Alarm
-1 Minute
-30ft
-8 Hours
-By Extending Light To A Door, Window Or 20ft Area You Are Alerted When It Gets Interrupted.
-You Can Recognise Creatures And Exempt Them From Setting Off The Alarm
+Throw Orb Of Light At Target For 3d8 Light

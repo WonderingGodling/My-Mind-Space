@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/1-day-de-les-phantoms/1-day-de-les-phantoms/","tags":["Tagless"]}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/1-day-de-les-phantoms/1-day-de-les-phantoms/","tags":["Tagless"],"dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 # 1 Day De Les Phantoms
@@ -20,7 +20,7 @@
 	- Mind Flayer
 		- http://dndroll.wikidot.com/creatures:mind-flayer Leveled Up To 13
 		- Harmless Unless Provokec
-### [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hell\|Hell]] (Group 1)
+### [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]] (Group 1)
 Lots Of Cats
 - King Calling Poeple In To Their Palace And They Dont Come Out
 	- Nothing Bad Happens

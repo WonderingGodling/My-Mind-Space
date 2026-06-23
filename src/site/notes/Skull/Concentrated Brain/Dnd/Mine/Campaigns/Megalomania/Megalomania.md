@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/megalomania/megalomania/","tags":["Tagless"]}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/megalomania/megalomania/","tags":["Tagless"],"dg-note-properties":{"Type":null,"up":"[[Dnd Campaigns]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -10,7 +10,7 @@
 
 ## Thunder Dome
 
-[[Skull/Concentrated Brain/Dnd/Mine/Gods/Meta Gods/LIfe And Death/Yin (Deus Immortales)\|Yin]]  And [[Skull/Concentrated Brain/Dnd/Mine/Gods/Meta Gods/LIfe And Death/Yout (Momentus Mori)\|Yout]]  (The Meta Gods Of Life And Death) Have Been Tasked With Putting Together And Maintaining A Gladitorial Spectacle With The Given Candidates As The Main Focus
+[[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Gods/Meta Gods/LIfe And Death/Yin (Deus Immortales)\|Yin]]  And [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Gods/Meta Gods/LIfe And Death/Yout (Momentus Mori)\|Yout]]  (The Meta Gods Of Life And Death) Have Been Tasked With Putting Together And Maintaining A Gladitorial Spectacle With The Given Candidates As The Main Focus
 
 Fights Get Harder With Each Challenge And The Style Of The Fight Changes With Each Difficulty
 Per-player Milestone Leveling, Level Decreases When Player Dies, Fight Doesnt Change

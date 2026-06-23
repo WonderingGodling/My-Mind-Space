@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explicitly-showcased/people/special-ones/edie/dee/","tags":["Tagless"]}
+{"dg-publish":true,"permalink":"/explicitly-showcased/people/special-ones/edie/dee/","tags":["Tagless"],"dg-note-properties":{"Type":null,"up":"[[Mai Wife!!]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -44,7 +44,17 @@ We Went To A Bookstore Ive Never Seen, Dee Found A Cool Birmingham Music Book Fo
 
 
 
+[[Explicitly Showcased/People/Special Ones/Edie/Dee\|Dee]] Comes Back
+12pm May 15
 
+I Miss Dee So Much  
+She Is Coming Back Soon!  
+  
+By The End Of The Year I Want To Taste All Of Her  
+I Have To Make Up For Lost TIme  
+  
+I Was Going To Make A To-Taste List But It Would Be Smarted To Make A Tasted List  
+Maybe With Reviews!  
 
 
 

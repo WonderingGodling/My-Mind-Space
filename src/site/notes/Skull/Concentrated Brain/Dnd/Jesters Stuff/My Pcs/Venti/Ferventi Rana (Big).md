@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/jesters-stuff/my-pcs/venti/ferventi-rana-big/","tags":["dnd","FerventiRana","MyPCs","FreyaStuff","ConcentratedBrain"],"dgShowToc":true}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/jesters-stuff/my-pcs/venti/ferventi-rana-big/","tags":["dnd","FerventiRana","MyPCs","FreyaStuff","ConcentratedBrain"],"dgShowToc":true,"dg-note-properties":{"Type":null,"up":"[[My PCs]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"title":null,"comments":true,"tags":["dnd","FerventiRana","MyPCs","FreyaStuff","ConcentratedBrain"]}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -111,14 +111,14 @@ Notes:
 [[Curse User#Broken but unbound \|Broken but unbound]] 15ft Teleport 5
 
 [[Blessing of the Raven Queen \|Blessing of the Raven Queen ]](5)
-[[Skull/Concentrated Brain/Dnd/Terminology/Darkvision\|Darkvision]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Fey Ancestry\|Fey Ancestry]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Trance\|Trance]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Keen Senses\|Keen Senses]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Necrotic Resistance\|Necrotic Resistance]]
+[[Darkvision\|Darkvision]]
+[[Fey Ancestry\|Fey Ancestry]]
+[[Trance\|Trance]]
+[[Keen Senses\|Keen Senses]]
+[[Necrotic Resistance\|Necrotic Resistance]]
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Ear to the Ground\|Ear to the Ground]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Telekinetic\|Telekinetic]] (Strength Dc 17)
+[[Ear to the Ground\|Ear to the Ground]]
+[[Telekinetic\|Telekinetic]] (Strength Dc 17)
 
 ### Spell List
 

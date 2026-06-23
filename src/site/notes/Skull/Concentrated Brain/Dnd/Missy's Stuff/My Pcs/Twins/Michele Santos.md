@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/twins/michele-santos/","tags":["Tagless"],"dgShowToc":true}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/twins/michele-santos/","tags":["Tagless"],"dgShowToc":true,"dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
@@ -12,7 +12,7 @@
 
 ![Santos Twins.png](/img/user/images/Santos%20Twins.png)
 
-Transmasc Neon Conduit Who Likes To Make Big Moves In Secret
+Transmasc Dark Conduit Who Likes To Make Big Moves In Secret
 He Isnt A People Person But He Will Be Damned If He Would Let That Get In His Way
 
 ### Magic
@@ -47,6 +47,7 @@ Instant
 Can Make A Screen Go Dark
 Modified From [On/Off](https://dnd5e.wikidot.com/spell:on-off)
 
+##### 1
 ###### Illusory Script
 1 Minute
 Touch
@@ -88,3 +89,34 @@ Modified From [Arms Of Hadar](https://dnd5e.wikidot.com/spell:arms-of-hadar)
 8 Hours
 By Extending Shadow To A Door, Window Or 20ft Area You Are Alerted When It Gets Interrupted.
 You Can Recognise Creatures And Exempt Them From Setting Off The Alarm
+
+##### 2
+###### Enshroud
+Action
+1 Hour
+Darkness Swallows A Carriable Object For Up To One Hour. If It Is Not Retrieved In That Hour It Appears At Your Feet
+Modified From [Wristpocket](https://dnd5e.wikidot.com/spell:wristpocket)
+
+###### Nyctophobia
+Action
+60ft
+1 hour
+You Conjur A Web Of Darkness In A 20ft Cube Or 30ft Cone That Grasps Those PAssing Through/Over It difficult terrain and lightly obscure their area.
+Each creature that starts its turn in the webs or that enters them during its turn must make a Dexterity saving throw. On a failed save, the creature is restrained And Takes 3d8 Dark Damage as long as it remains in the webs or until it breaks free.
+A creature restrained by the webs can use its action to make a Strength check against your spell save DC. If it succeeds, it is no longer restrained.
+The webs are Illuminable. Any 5-foot cube of webs exposed to Direct Light VAnishes in 1 round, dealing 2d4 Light damage to any creature that starts its turn in That Space.
+
+Modified From [Web](https://dnd5e.wikidot.com/spell:web), [Rime's Binding Ice](https://dnd5e.wikidot.com/spell:rimes-binding-ice)
+
+###### Leading The Blind
+**Casting Time:** 1 action  
+**Range:** 90 feet  
+**Components:** V, S  
+**Duration:** Instantaneous
+
+You magically twist space around another creature you can see within range. The target must succeed on a Constitution saving throw (the target can choose to fail), or the target is teleported to an unoccupied space of your choice that you can see within range. The chosen space must be on a shadow can support the target without the target having to squeeze.
+
+**_At Higher Levels._** When you cast this spell using a spell slot of 3rd level or higher, the range of the spell increases by 30 feet for each slot level above 2nd.
+[Vortex Warp](https://dnd5e.wikidot.com/spell:vortex-warp)
+
+###### [Shadow Blade](https://dnd5e.wikidot.com/spell:shadow-blade)

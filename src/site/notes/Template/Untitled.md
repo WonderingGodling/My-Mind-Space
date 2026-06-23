@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/template/untitled/","tags":["Tagless"]}
+{"dg-publish":true,"permalink":"/template/untitled/","tags":["Tagless"],"dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"title":null,"layout":"page","comments":true,"tags":["Tagless"],"Embedded":null}}
 ---
 
 

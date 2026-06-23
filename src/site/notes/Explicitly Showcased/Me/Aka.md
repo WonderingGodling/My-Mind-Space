@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"aliases","permalink":"/aliases/","title":"Names","tags":["Tagless"],"dgShowToc":true}
+{"dg-publish":true,"dg-permalink":"aliases","permalink":"/aliases/","title":"Names","tags":["Tagless"],"dgShowToc":true,"dg-note-properties":{"Type:":"Name List","up:":"[[Explicitely Showcased]]","down:":null,"Yesterday:":null,"Tomorrow:":null,"alias:":["Alias","Aliases","Wondering Godling","Frigay","Hazel","Natalie","David","Celeste","Mo'thia","Fri","Ruby","Rose","Haze","Nat","Nate","Dave","Cel","Thia","Finch"],"Next:":null,"Previous:":null,"title":"Names","comments":true,"tags":["Tagless"]}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -19,7 +19,7 @@ I Forgot That This Matters To Some [[Branches/People\|People]] And Not Everyone 
 | <span style="color:#00FFFF">Hazel</span>                     |               <span style="color:#00DDDD">Haze</span>                |
 | <span style="color:#00FFFF">Natalie</span>                   |             <span style="color:#00CCCC">Nat, Nate</span>             |
 | <span style="color:#00FFFF">David</span>                     |               <span style="color:#00DDDD">Dave</span>                |
-| <span style="color:#00FFFF">Celeste</span>                   |                <span style="color:#00CCCC">Cel</span>                |
+| <span style="color:#00FFFF">Celestia</span>                  |           <span style="color:#00CCCC">Celeste, Cel</span>            |
 | <span style="color:#00FFFF">Mo'thia</span>                   |               <span style="color:#00CCCC">Thia</span>                |
 | <span style="color:#00FFFF">Miscellaneous Short Ones:</span> |      <span style="color:#00CCCC">Finch, Ino, Demi, Bella</span>      |
 

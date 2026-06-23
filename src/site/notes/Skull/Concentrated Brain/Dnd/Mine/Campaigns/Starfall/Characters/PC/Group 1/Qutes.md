@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/pc/group-1/qutes/","tags":["Tagless"]}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/pc/group-1/qutes/","tags":["Tagless"],"dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -32,7 +32,7 @@ able to pull out lolipops whenever she wants
 new family to has staged that she is a product of the reincarnation church and it just went a bit weird and thats why she doesn't actually know much about the world (her way of explaining why it seems she has been here for a year or two) so she normally goes to each church of them she finds and leaves a offering mostly just to keep her lie going but also as a 'your cool have this'
 
 Okay First Question Is How Much Will She Actually Know About The Church
-Knows more than a surface level Information About [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/The Church Of Second Chances\|The Church Of Second Chances]]
+Knows more than a surface level Information About [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/Second Chances/The Church Of Second Chances\|The Church Of Second Chances]]
 she could give trivia but not all that much compared to a cleric
 
 Other Than Genocide Cube Explicitly Having Dragged Her There, Theres No Reason Why She Couldnt Have Been Reincarnated
@@ -56,10 +56,16 @@ like learning rituals to banish them, salt barriers, holy water type stuff
 Karma Is the inverse of qutes, 
 when qutes used the cube and it wiped out her realms life but her and a single demon got warped through 
 
-
+was a very strong mage in her time, finally finished a machine to preform a ritual (got a idea of her making herself into a 'chrono litch'   for whatever reaason the machine fucked up and  zapped her back in time, now with  the chronomark scar on her hand
+so just experiment/ritual gone wrong
+was kinda bound to happen at some point after fucking with chronomagic all the time
 
 ## Panic Button "Genocide Cube" 
 ᶦᵗˢ ʷʰᵃᵗ ʸᵒᵘ ᵈᵒ ᵇᵉˢᵗ
 A Remnant Of Bygone Conflict. When This Miniaturised, Esoteric Cube Witnesses Multiple Deaths It Explodes In A 10ft Sphere Dealing 1d8 Magic Necrotic Damage To Each Creature That Fails A DC 11 Dex Save. The Cube Will Always Find You And Grant You Advantage On Dex Saves Against Necrotic Damage
+
+## Broken Clock
+
+You Manage To Get Your Stop Watch Stuck, It Resets After 11 Seconds Taking You And Your Knowledge With It. Anything Done During This 11 Seconds Is As If It Never happened Only Works Twice A Day
 
 <center><sub>Done :)</sub></center>

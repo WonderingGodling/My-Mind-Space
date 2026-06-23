@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/grims-stuff/agate-and-katrina/agates-s-spells/","tags":["Tagless"]}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/grims-stuff/agate-and-katrina/agates-s-spells/","tags":["Tagless"],"dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Prestidigitation\|Prestidigitation]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Eldritch Blast\|Eldritch Blast]]
+[[Prestidigitation\|Prestidigitation]]
+[[Eldritch Blast\|Eldritch Blast]]
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Shield\|Shield]]
+[[Shield\|Shield]]

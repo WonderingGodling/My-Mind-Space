@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/venti/ferventi-rana-small/","tags":["dnd","FerventiRana","MyPCs","FreyaStuff","ConcentratedBrain"],"dgShowToc":true}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/venti/ferventi-rana-small/","tags":["dnd","FerventiRana","MyPCs","FreyaStuff","ConcentratedBrain"],"dgShowToc":true,"dg-note-properties":{"Type":null,"up":"[[My PCs]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":["Venti","Ferventi"],"Next":null,"Previous":null,"title":null,"comments":true,"tags":["dnd","FerventiRana","MyPCs","FreyaStuff","ConcentratedBrain"]}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -11,7 +11,7 @@
 
 
 ## General
- Race:  [[Shadar-Kai\|Shadar-Kai]]/[[Skull/Concentrated Brain/Dnd/Terminology/Reborn\|Reborn]]
+ Race:  [[Shadar-Kai\|Shadar-Kai]]/[[Reborn\|Reborn]]
  Class:  [[Curse User\|Curse User]] 3
 				 [[Curse User#Heavenly pact\|Heavenly pact]]
  Curse Points 6/6
@@ -98,8 +98,8 @@ Languages: Common, Celestial
 
 Notes: 
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Deathless Nature\|Deathless Nature]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Wanderer\|Wanderer]]
+[[Deathless Nature\|Deathless Nature]]
+[[Wanderer\|Wanderer]]
 
 [[Curse User#Spell Casting\|Spell Casting]]
 [[Curse User Martial Arts\|martial Arts]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/juanita-stuff/my-p-cs/harley-harlene/","title":"Harley/Harlene","tags":["Tagless"]}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/juanita-stuff/my-p-cs/harley-harlene/","title":"Harley/Harlene","tags":["Tagless"],"dg-note-properties":{"Type":null,"up":"[[My PCs]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"title":"Harley/Harlene","comments":true,"tags":["Tagless"]}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -12,7 +12,7 @@
 
 ## General
  Race:  Changeling
- Class:  [[Skull/Concentrated Brain/Dnd/Terminology/Rogue\|Rogue]] 3
+ Class:  [[Rogue\|Rogue]] 3
 ​    ​‍​    ​‍​    ​‍​    [[​‍Soulknife\|​‍Soulknife]] 
  Alignment: True Neutral
  Background: Entertainer
@@ -58,12 +58,12 @@
 | Soulknife 2 (60ft) | +5     | 1d4+5 Psychic |
 
 spell save DC: 13
-[[Skull/Concentrated Brain/Dnd/Terminology/Dissonant Whispers\|Dissonant Whispers]], [[Skull/Concentrated Brain/Dnd/Terminology/Misty Step\|Misty Step]]
+[[Dissonant Whispers\|Dissonant Whispers]], [[Misty Step\|Misty Step]]
 # Inventory
 
 Money: 95gp
 Tokens 12
-Inventory:  Flute, a costume, [[Skull/Concentrated Brain/Dnd/Terminology/Coiling Grasp Tattoo\|Coiling Grasp Tattoo]], Leather armor, thieves' tools
+Inventory:  Flute, a costume, [[Coiling Grasp Tattoo\|Coiling Grasp Tattoo]], Leather armor, thieves' tools
 
 backpack,, bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, a waterskin, 50 feet of hempen rope, Blanket, Mirrror, A Lot Of Alcohol
 
@@ -85,17 +85,17 @@ Languages: Common, Elvish, Thieves' Cant
 
 
 # Notes: 
-[[Skull/Concentrated Brain/Dnd/Terminology/Shapechanger\|Shapechanger]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Unsettling Visage\|Unsettling Visage]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Divergent Persona\|Divergent Persona]]
+[[Shapechanger\|Shapechanger]]
+[[Unsettling Visage\|Unsettling Visage]]
+[[Divergent Persona\|Divergent Persona]]
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Expertise\|Expertise]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Sneak Attack\|Sneak Attack]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Thieves' Cant\|Thieves' Cant]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Cunning Action\|Cunning Action]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Psionic Power\|Psionic Power]]
-[[Skull/Concentrated Brain/Dnd/Terminology/Psychic Blades\|Psychic Blades]]
+[[Expertise\|Expertise]]
+[[Sneak Attack\|Sneak Attack]]
+[[Thieves' Cant\|Thieves' Cant]]
+[[Cunning Action\|Cunning Action]]
+[[Psionic Power\|Psionic Power]]
+[[Psychic Blades\|Psychic Blades]]
 
-[[Skull/Concentrated Brain/Dnd/Terminology/Fey Touched\|Fey Touched]]
+[[Fey Touched\|Fey Touched]]
 
 # Characteristics 

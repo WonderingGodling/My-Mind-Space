@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/3-cratey/3-cratey/","tags":["Tagless"]}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/3-cratey/3-cratey/","tags":["Tagless"],"dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 Cratey
@@ -23,7 +23,7 @@ Cratey
 	- (At Least One Group → All Of Them)
 	- Tobias Duplicates Next Loop If Killed
 
--   [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Crazy Dungeon\|Crazy Dungeon]] Found (Effected By Players),
+-   [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Crazy Dungeon\|Crazy Dungeon]] Found (Effected By Players),
 -   Lock: Four Riddles Four Lives
 	- Tobias Uses All Of Them
 	- Riddles:
