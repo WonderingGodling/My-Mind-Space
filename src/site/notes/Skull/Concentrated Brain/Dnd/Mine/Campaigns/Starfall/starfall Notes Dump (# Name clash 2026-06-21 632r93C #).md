@@ -76,7 +76,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Named Towns And Cities/Knuts/Lei\|Lei]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gahenna/Gahenna\|Gahenna]]
 - [ ] Robots
-	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Phrygia/Phrygia\|Phrygia]]
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Phrygia/Phrygia (City)\|Phrygia (City)]]
 - [ ] Nearby Dragon Hoard
 	- [ ] Little (Silent) Creature Steals Stuff For Dragon Friend
 - [ ] Yokai And Spirits
@@ -165,7 +165,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Branching Paths Quest
 	- [ ] Wrong Paths Lead You Back To A Previous Branch
 	- [ ] Maybe Add Snakes As A Snakes And Ladders Joke
-- [ ] Magic Item Lets You Cast Two Spells At Once [[Spell Booked\|Spell Booked]]
+- [ ] Magic Item Lets You Cast Two Spells At Once [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Spell Booked\|Spell Booked]]
 	- [ ] First Spell Is Cast That Turn
 	- [ ] Second Spell Is Cast Next Turn
 - [ ] Seperate Soul Summoning And Soul Messaging Artifacts
@@ -299,7 +299,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]] Thruple Doorway Has Passphrase To Turn Off Secret Alarm
 	- [ ] "Honeys Im [[Explicitly Showcased/Home Page I Guess/Home Page\|Home Page]]"
 - [ ] Write About The Soul Artifacts
-	- [ ] In [[Grease\|Grease]]
+	- [ ] In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease\|Grease]]
 		- [ ] Soul Control Artifact That Is Still Owned By It's [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Church\|Church]]
 			- [ ] Can Move Undead To A Specified [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Location\|Location]]
 - [ ] Qutez Wakes Up On the Side Of The Road One Day Out From [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Sangwoo\|Sangwoo]]
@@ -506,7 +506,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Guy Cursed To Sell Ice Cream
 	- [ ] Thinking Ice Cream Vans Spread Across The World And Hes In All Of Them At Once
 	- [ ] He Also Has A Dairy Allergy
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Pleonexia\|Pleonexia]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Piecemeal\|Piecemeal]]
 	- [ ] In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Omihami/Wruilt\|Wruilt]]
 	- [ ] Legendary, Sword-In-Stone Object In Grease
 	- [ ] Was Owned By Hero Who Died During The Last War

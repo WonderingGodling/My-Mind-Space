@@ -11,6 +11,7 @@ Known For Its Good Times And Bad [[Branches/People\|People]] Or Perhaps Its Good
 Pop: 40k
 Imports: Vegetables, Meat And Magicks
 Exports: Metals, Rocks, And Fuels
+Ruler: Chrysanthemum Alayus Por Deus Of Wrath 
 
 
 - Hot Demons, Teiflings And Feinds
@@ -99,6 +100,11 @@ Very Busy Streets As [[Branches/People\|People]] Try To Get Back To Their Homes 
 	- Wants Them To Get A Helmet From Police Storage And Will Organise Transport To Kent For Them Since He Is Heading That Way Anyway
 		- Its His Helmet, Made Of Gold And Has Purple Plumage
 
+## Day 3
+- [ ] "Hot Singles In Your Area" News Add
+	- [ ] Fire Elemental Dating Group
+		- [ ] Can Find A Devil To Join You For The Day
+			- [ ] Write Her Sheet
 
 #### Day 4
 Army Recruitment

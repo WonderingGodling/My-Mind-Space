@@ -19,25 +19,11 @@ Cratey
 	- cave In
 	- Minor (Non-Damaging) Earthquake
 
-- Found By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Tobias (Mimic)\|Tobi]] (Lvl Highest PC+2) After Loop 0
-	- (At Least One Group → All Of Them)
-	- Tobias Duplicates Next Loop If Killed
 
--   [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Crazy Dungeon\|Crazy Dungeon]] Found (Effected By Players),
--   Lock: Four Riddles Four Lives
-	- Tobias Uses All Of Them
-	- Riddles:
-		- imagine Youre In A Room, Get Out
-			- Stop Imagining
-		- In a room with springs and calander, how survuve
-			- Eat Dates Drinnk Spring
-		- in a room with a mirror How Do You Get Out
-			- See What You Saw
-		- A Cart Driver In Krypoton Hits A Tree, Why
-			- Swerved To Avoid A Dragon
--    Giant Skeleton Guard
+
+
     
--   Item Book Of Greed (Will Consume Midius)
+-   Item Book Of Greed (Will Consume [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/3 Cratey/Midius\|Midius]])
 - Item Book Of Loss (Gives A Level From The Class Of The Target)
 - Death [Weapon] Can Be Used To Store And Deflect Damage
 

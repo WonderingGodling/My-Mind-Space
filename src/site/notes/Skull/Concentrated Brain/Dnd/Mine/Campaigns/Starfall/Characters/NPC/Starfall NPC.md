@@ -54,18 +54,116 @@
 - [ ] Someone Important Who Knows Rumours About The Parties
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Karma]]'s Boss' Boss
 		- [ ] (Ssnake)
-
-
-
-
-
-
-
-
-
-
-
-
+- [ ] Yokai And Spirits
+- [ ] Retired Ghost Busters
+- [ ] Spirit Dragon [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Gool\|Gool]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Merlington\|Merlington]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Omihami/Sawakasato\|Sawakasato]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Na-Ni/Pirkra\|Pirkra]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Bingtondore\|Bingtondore]]
+- [ ] Woman Who Is Destined To Lose Her Hand
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Soroughwark\|Soroughwark]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Judgy Duck\|Judgy Duck]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Telemachus\|Telemachus]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Secret Key Puzzles Puzzle\|Secret Key Puzzles Puzzle]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Fakeout Heist\|Fakeout Heist]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Lance And Saber\|Lance And Saber]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hivemind\|Hivemind]]
+- [ ] Damage Threshold Enemy
+	- [ ] Needs To Take At Least Number Amount Of Damage For Any Of It To Register
+- [ ] Character Called [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Silvia (Sil). E\|Silvia (Sil). E]]
+- [ ] "The Name's Nick. [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Phoenix\|Phoenick]]"
+- [ ] Gambler
+- [ ] cat Who Transforms Into A Woman
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Felis\|Felis]]
+- [ ] One King Or Queen That Has Literally No Protection
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]] Thruple Doorway Has Passphrase To Turn Off Secret Alarm
+	- [ ] "Honeys Im [[Explicitly Showcased/Home Page I Guess/Home Page\|Home Page]]"
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Gods/Avatar Of The Crush\|Avatar Of The Crush]]
+- [ ] 16-Year-Old Widow [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Ms Yuri\|Ms Yuri]]
+- [ ] - [ ] https://www.dandwiki.com/wiki/Ape_Zombie_(5e_Creature) (Friendsly, Just Livese In Some Village)
+- [ ] Girl With A Whip She Calls Her Niece
+- [ ] Character With Unlimited Telekinesis
+- [ ] Someone Aware Of The Loops Cultivating An Army Of Likewise
+- [ ] Family Of Humanoid Chimera
+	- [ ] Clan? Group?
+	- [ ] Related And Organised
+- [ ] Guy Who Is A Sword Fighter But Doesn't Use Them Because He Avoids Killing
+	- [ ] Fists Strong
+		- [ ] Sword Stronger And Never Misses
+	- [ ] Never Tells Anybody His Name To Avoid The Legends Coming up
+		- [ ] Write Legends
+- [ ] Level 2 Sword Fighter Who Has Been Learning For Sixteen Years
+- [ ] One Guy Who Is The Local Radio Reporter Everywhere 
+	- [ ] Like A Nurse Joy Thing
+		- [ ] They Are All The Same  [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Mr Misery\|Mr Misery]] But They Are Not The Same Person
+		- [ ] Like The Distortion
+	- [ ] Unaffiliated With Any [[Branches/Gods\|Gods]]
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Mr Misery\|Mr Misery]] Starts Saying Things That Are Consistent On Loop Four
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Mr Misery\|Mr Misery]]
+- [ ] Guy Who Makes [[Branches/People\|People]] Stick To Things 
+	- [ ] Fae Rules
+- [ ] Creature You Can Find And Free But Then It Hunts You Forever
+- [ ] Devil That Tricks Players Into FREING IT
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Sera\|Sera]] Are Held Responsible
+- [ ] Witch That Animates Everything She Touches (On Purpose) So The Villiage Is Full Of Plates With Legs And Stuff
+- [ ] Woman With Ruby Nipple Piercings Worth 3.5 Plat Each
+- [ ] Andro Minotaur Who Wont Be Friendly To Anybody Wearing Red Because It "Feels A Bit Insensitive DOntcha Think"
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Poacher The God Of Avoidable Deaths\|Poacher The God Of Avoidable Deaths]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Tito\|Tito]]
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Naga\|Naga]]
+- [ ] Large Group Of Adventurers Controlling A Larger Group Of Dogs
+- [ ] Guy Cursed To Sell Ice Cream
+	- [ ] Thinking Ice Cream Vans Spread Across The World And Hes In All Of Them At Once
+	- [ ] He Also Has A Dairy Allergy
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Lyra\|Lyra]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Penemosica\|Penny]]
+- [ ] Woman Whos Mother Was A God
+	- [ ] Level 21 Wild Magic Sorcerer
+		- [ ] Just Picks An Effect From The Tables
+	- [ ] "You Wont Find A Better  Magician In All The Lands- Actually All The Realms."
+- [ ] Persone Stealing [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]] Parts And Organs To Incorporate Into Themself 
+	- [ ] The [[Branches/People\|People]] Are Unharmed On Loop Unless They Also Are Uneffected By Loops
+- [ ] Guy Actively Casting A Spell That Makes The Keep (Castle Area) In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Named Towns And Cities/Knuts/Lei\|Lei]] Living And Breathing
+	- [ ] Hes In The Basement, Eyes Black And Chanting Something That Doesn't Seem To Repeat
+		- [ ] "Ilamira tosira oligor pas na telio kin far nuu misen bi mon graint mee juumir no roring hor mer insurai...."
+- [ ] Villain Who Wants The Hero To Defeat Them
+	- [ ] Can Not Stop Themselves From Doing Evil And Hates It
+- [ ] Guy With A Little [[Template/Book\|Book]] Of [[Skull/Concentrated Brain/Riddles/Riddles\|Riddles]]
+- [ ] Guy Who Does Magic
+	- [ ] Like Actual Magic but Its All Set Up Like Stage Magic
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Generic Shopkeep Sheet 2\|Generic Shopkeep Sheet 2]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Pan-Pipes Peter\|Pan-Pipes Peter]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Quests/Constant Quests/The Moonlit Tavern\|The Moonlit Tavern]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Bardland And Bards\|Bardland And Bards]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Bardland Ace\|Bardland Ace]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Bardland Eric\|Bardland Eric]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Bardland Gene\|Bardland Gene]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Bardland Paul\|Bardland Paul]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Bardland Vinnie\|Bardland Vinnie]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Modo BBEG\|Modo BBEG]]
+	- [ ] Voodoo Guy
+	- [ ] Everyone Is Scared Of Him And You Can Hear Rumours A Lot
+	- [ ] Has A Few Henchmen
+- [ ] BBEG Who's End Game Is To Have A Monopoly On Coffee
+	- [ ] He Wants All Of The Coffee And Nobody Else Is Allowed Any
+	- [ ] Hes Also So Sleepy And Needs A Hug
+	- [ ] Carries A Plush Lion With Two Heads
+- [ ] Snakeskin Salesmen
+- [ ] One Kid Who Has A [[Explicitly Showcased/People/Special Ones/Heart\|Heart]] Attack If Anything Bad Happens To Him
+	- [ ] ([[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Bad Always happens To Him)
+- [ ] Guy Selling Expensive Looking Shoes "Name Your Price" "Need To Get Rid Of Them Before [[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|My Husband]] Sees"
+	- [ ] Shoes That Turn Your Feet Into Hands Until Someone Else Wears Them
+- [ ] Ten Year Old Vampire Girl
+	- [ ] Kind, Creepy, Her Insides Hurt
+	- [ ] Forgets Events, Remembers [[Branches/People\|People]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Tari\|Tari]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Silas\|Silas]]
+- [ ] [[Trinity\|Trinity]]
+- [ ] Also Write [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/General Grease Knight Stat Sheet\|General Grease Knight Stat Sheet]]
+- [ ] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Apprentice Grease Knight Sheets\|Apprentice Grease Knight Sheets]]
+- [ ] https://www.dandwiki.com/wiki/Dreadnaught_(5e_Class)
+- [ ] Give High Grease Knights This Unbuffed, Others Are Paladins But All Fight The Same
 
 
 

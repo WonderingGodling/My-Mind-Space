@@ -11,7 +11,19 @@
 
 
 
-
+-   [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Crazy Dungeon\|Crazy Dungeon]] Found (Effected By Players),
+-   Lock: Four Riddles Four Lives
+	- Tobias Uses All Of Them
+	- Riddles:
+		- imagine Youre In A Room, Get Out
+			- Stop Imagining
+		- In a room with springs and calander, how survuve
+			- Eat Dates Drinnk Spring
+		- in a room with a mirror How Do You Get Out
+			- See What You Saw
+		- A Cart Driver In Krypoton Hits A Tree, Why
+			- Swerved To Avoid A Dragon
+-    Giant Skeleton Guard
 
 
 

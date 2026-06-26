@@ -58,6 +58,7 @@ Only Uses A Sword When He Is First Introduced But Eventually Begins Summoning Va
 | Attack | To-Hit | Damage |
 | ------ | ------ | ------ |
 |        |        |        |
+- [ ] Legendary Action: Dodges An Attack By Moving To The Opponents Blind Spot And Pushes Them Missing Health (Rounded Down To 5) Feet
 
 ### [[Pacseholders's Spells\|Pacseholders's Spells]]
 
@@ -89,6 +90,23 @@ Languages:
 # Characteristics 
 - [ ] Level Clear Guy Villian Name: Antonio "The-Lonely-Oh" Baldonio Leader Of Malvolio (Gang Of Townkolio)
 
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Tari\|Tari]] Has Not Slain Dragons But Has Met A Lot
+	- [ ] Rumours Say That He Got Hired As A Knight Because He Fought A Dragon
+		- [ ] Actually Got Hired Because He Fought A Mob Invasion By Himself
+- [ ] The War Was Before His Time But He Has Exterminated The Mites, They Show Up Every Now And Then Towards The Inn
+	- [ ] A Shy, Awkward Guy
+	- [ ] Devoted To Keeping The [[Branches/People\|People]] Safe
+	- [ ] Has A [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Taris Metal Mask\|Metal Mask]] He Normally Wears In Combat (Gifted To Him By The Crown And Will Become A National Treasure When He Dies)
+	- [ ] One-Handed [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Taris Glaive\|Glaive]] Weapon He Made Himself 
+- [ ] During The Festival Has [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Grease Ceremonial Armour\|Ceremonial Armour]] 
+- [ ] Sometimes Has A [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Taris Tower Shield\|Tower Shield]] If His Job Is Protection Based 
+- [ ] Works Closly With [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Silas\|Silas]] (Trans Masc Knight Hes Overtaken) And [[Trinity\|Trinity]] (Female Knight Who Trains Newbies)
+- [ ] Hes Currently A Dragon Negotiator With The Implicit Understanding That He Can Kill Them
+- [ ] None Of Them Have Pow Scenario Blessings Except [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Tari\|Tari]] Who Has Vague Strengthenness
+- [ ] (His Metaphisical Stamina Is Higher)
+- [ ] The Three Of Them Are One Of Each Subclass
+- [ ] https://www.dandwiki.com/wiki/Dreadnaught_(5e_Class)
+- [ ] Rewrite To Make Stronger For Them And Make [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Tari\|Tari]] Stronger Still
 ###### Loops 
 5 
 Kills Modo

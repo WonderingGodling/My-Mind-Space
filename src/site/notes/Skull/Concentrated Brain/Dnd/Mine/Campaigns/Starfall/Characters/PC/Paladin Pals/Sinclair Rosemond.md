@@ -17,7 +17,16 @@
 		- [ ] Write More For Her To Know
 	- [ ] Sinclaire Is Treated With Bare Minimum Respect In The Settlement
 
-
+- [ ] Sin Fortune:
+- [ ] There Is A Person With Whom You Are Linked By An Invisible Chain
+- [ ] There Is A Person Who Can Bring Pleasure Or Pain
+- [ ] If What You Wish Is To Protect Your Friend 
+- [ ] You Must Find This Person And Cause His End
+- [ ] Killing Ev On Purpose Gives The Cigs
+- [ ] That Was Close: If The Next Source Of Damage Would Reduce You To 0 Go To 1 Instead
+- [ ] Only Works On Allies
+- [ ] He Has The Same Fortune 
+- [ ] He Will Get "If The New Surge Would Purposefully Hurt An Ally Get A Warning"
 
 
 ##### Holy Smokes

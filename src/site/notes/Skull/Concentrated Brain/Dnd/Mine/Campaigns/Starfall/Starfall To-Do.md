@@ -43,13 +43,325 @@
 - [ ] Towns' Claims To Fame
 - [ ] Business Reviews
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Queen\|Queen]] Death Alt Ending
+- [ ] Give [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Clarent\|Clarent]] More To Do
+- [ ] More [[Branches/Wrighth\|Wrighth]]!
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Church\|Church]] Maps
+- [ ] Brothel Maps
+- [ ] House Maps
+- [ ] Various Atmospheres/Skies/Climates
+- [ ] Child Adventuring Programmes
+- [ ] Goblin Astronomy Stuff
+- [ ] Tea Tourist Merch In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hollywood\|Hollywood]]
+- [ ] Write More About  [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gahenna/Gahenna\|Gahenna]]
+- [ ] Blood Magic Stuff
+- [ ] Exorcism/Occult Items
+- [ ] Ring Of Safety
+- [ ] Quest If You Talk To Chrysanthemum In The First Three Days
+- [ ] Cyclopses
+- [ ] lolthians
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/Church Of Violets/Cult Of Violets\|Cult Of Violets]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hearts Of The Damned\|Hearts Of The Damned]] Religion
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Crushed Survivors\|Crushed Survivors]] Religion
+- [ ] The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Fruitless Sky\|Fruitless Sky]]
+- [ ] Vermillions Poisoned Coffee Shop
+- [ ] Furniture Flipped Over And Superglued To Floor
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Wand Of Speak To Animals\|Wand Of Speak To Animals]]
+- [ ] Write Stuff About Unicorns
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Slaughter House Fight Club\|Slaughter House Fight Club]]
+- [ ] Reasons For Moon Day
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Stories Behind The Stars\|Stories Behind The Stars]]
+- [ ]  [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Spell Booked\|Spell Booked]]
+- [ ] Separate Soul Summoning And Soul Messaging Artefacts
+- [ ] Possession Shit
+- [ ] Pyramid Scheme
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Parachute Umbrella\|Parachute Umbrella]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town\|Hatchet Town]] Stuff And Its Implications
+- [ ] Day One Stuff
+- [ ] Evil Stuff
+- [ ] Gambling/Casino Stuff
+- [ ] 412 Year-Old Avatar Of The Damned
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Earth Wind Fire/Earth Wind And Fire\|Earth Wind And Fire]] Creatures
+	- [ ] Air, Earth, [[Skull/Spam/Fire\|Fire]], Water Bison
+	- [ ] Sky Tuna
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/Church Of Second Chances\|Church Of Second Chances]]' Life Spells
+- [ ] Assassination/Hit Missions
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]] Beauty Competition Winner Would Become [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Queen\|Queen]] Consort Till Death Or Revolution
+	- [ ] Demons Are Upset That The Beauty Competition Was On The Same Day As Moon Day Because It Is Untraditional
+- [ ] Escape room
+- [ ] Girl Makes Boyfriend Robot  [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]]
+	- [ ] (Make This Weird And Creepy)
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Omihami/Sawakasato\|Sawakasato]]
+- [ ] Orb Of Annihilation
+	- [ ] Phygrias Leader Owns And May Let The [[Party\|Party]] Borrow If On A Quest For Her
+- [ ] Demons
+- [ ] Celestials
+- [ ] Lost Divine Artefacts For [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Cult\|Cult]]s
+- [ ] Fbi
+- [ ] Trade Route Timings
+- [ ] Army Transfer
+	- [ ] Like 100 Soldiers On A Road Somewhere
+	- [ ] SW -> N Infernal On Day 8
+- [ ] Also Im Naming My Major Roads
+	- [ ] Gonna Have The Connecting Cities In My Notes
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Car Locations\|Car Locations]]
+- [ ] News Headlines
+- [ ] Write About: [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Lei (moon)\|Lei]], [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge\|Rouge]] And [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel\|Ciel]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Eras\|Eras]]
+- [ ] Relook At Calander
+- [ ] Group Of Armed Teens On [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Military road\|Military road]] At [[Vent Lane\|Vent Lane]] Junction On Day 2
+	- [ ] Very Threatening But Wont Do Anything
+		- [ ] Just Lower Their Health By Like 30-40%
+- [ ] List Buildings In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]]
+- [ ] List Facilities In Each City
+- [ ] Catch Criminal Quest 
+	- [ ] Forensic Shit
+- [ ] Municipal, State, Sovereign, Nation, Kingdom, Territory, [[Skull/Concentrated Brain/Dnd/Mine/Realities/Stratus Saepta/Locations/Domain\|Domain]],  Commune, Protectoate, Union
+- [ ] More Moon Festival Stuff
+- [ ] Town Imports And Exports
+- [ ] Take And Leave System
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Naga\|Naga]] Has A Pocket Dimention System That "Exotic Or Monsterous" [[Branches/People\|People]] Can Use In Times Of Need
+- [ ] Write Stuff Up North
+- [ ] Sword With Modifier Equal To Negative Strength
+	- [ ] Mental Strength Dungeon Reward
+- [ ] More (Less Important) Dungeons
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Skeleton Dungeon\|Skeleton Dungeon]] 
+	- [ ] Teleporting Amnesia Maze Dungeon
+- [ ] Proxy Wars
+- [ ] Booby Trapped House
+	- [ ] [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] Special In It
+	- [ ] Somewhere North In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]]
+- [ ] Align A Few [Sanguinated](https://docs.google.com/document/d/1NqB8k34TY_7taP0mZoVHINo9DKhz4n88AlHWSN5-eg8/edit?tab=t.0) To [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Blood Lich\|Blood Lich]]
+- [ ] Debt Collectors
+	- [ ] One In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]] That Wont [[Remember\|Remember]] You When Time Resets But Will [[Remember\|Remember]] How Much Money You Owe Him
+	- [ ] One In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Torogiya/Rekx\|Rekx]] 
+	- [ ] Lair Debt Collection Agency That Provides Support Globaly
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Quests/Shooter Side Quest\|Shooter Side Quest]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]] Border Paperwork
+- [ ] News Articles
+- [ ] Write About The Soul Artifacts
+	- [ ] In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease\|Grease]]
+- [ ] Qutez (Original) Only Gets One Day Out From [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Sangwoo\|Sangwoo]] Before Vanishing
+- [ ] Write [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Sangwoo\|Sangwoo]]
+	- [ ] Dragons, Dragonborns, Kobalds,  Orcs
+- [ ] Write News Articles
+- [ ] High [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]] Security For A Couple Days
+	- [ ] A Guard Or Two In Neighboring Cities
+- [ ] Large Encounters
+- [ ] Toy Bear That Watches You
+- [ ] If [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Qutes\|Qutes]] Uses The Demon killing Weapon They Still Come Back On A [[Loop\|Loop]] And She Earns Rubys Eyre
+- [ ] Giant Pumpkins With A Chance To Be Evil And Eat [[Branches/People\|People]]
+	- [ ] Fermented Are Popular With Huge Monsters
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Starfall Reset Rules\|Resets]] Are Based On Soul Versus Self
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/KAijin\|KAijin]]
+- [ ] Curses And condemnations
+- [ ] Write Animals And Plants
+- [ ] Devil Deal For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]]s Birth
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/cosmia crime family\|cosmia crime family]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/prexa\|prexa]] And goings ons
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Regalia tomo\|Regalia tomo]] a drow assassin
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Stories Behind The Stars\|Stories Behind The Stars]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]] Devil Associations
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]] MOnk Stuff
+- [ ] Vampires
+- [ ] Magic Item Stores
+- [ ] [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] About Fertility [[Branches/Gods\|Gods]]
+	- [ ] Ref https://bsky.app/profile/rizdraws.bsky.social/post/3mejlimxoxk2f
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]] Artifact Disco Ball
+	- [ ] Lia Has It
+	- [ ] Star Striker 
+	- [ ] Forced Dance, Bright Lights 
+		- [ ] From God Of War (Dead Probably)
+- [ ] Magic Items For Each https://dnd5e.wikidot.com/spell:ceremony
+- [ ] Add Religious Recruiters
+- [ ] Cover A Place In Lights
+- [ ] Clothing With Self-Cleaning And Repair Enchantments
+- [ ] Make Jelly On A Plate The Password To [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]
+- [ ] Jettys Monks Were Elemental Monks
+- [ ] Gambling Opportunities
+- [ ] Monsters Originally (During The Revival) Came To Reality Through Pocket Dimensions 
+	- [ ] Now They Coalesce On Site
+- [ ] Write Monster Spawns
+- [ ] Time Manipulation Wrights
 
+- [ ] Wrigtht Tattoos
+	- [ ] Make This Folk Wise/Smart/Strong/Cool/Swift/Deft
+- [ ] Sparing Weapons And Collar 
+	- [ ] Recreates Affects Non-Lethally And Sends A Signal When You Would Have Died
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]] Guard Armour (Doesnt Change AC)
+- [ ] Village/Commune With Love [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Church\|Church]] That Has A Spell On The Area
+	- [ ] At Night Romance Is In The Air And You Cant Help Yourself From Succumbing To It
+	- [ ] Not True But Placebo + Opportunity
+- [ ] Nerf Energy 
+- [ ] Biomass Creation
+- [ ] Contamination
+- [ ] [[Skull/Spam/Fire\|Fire]] Tetrahedron:
+	- [ ] Fuel
+	- [ ] Magic
+	- [ ] Heat
+	- [ ] Biological Catalyst
+- [ ] Big Cities Have Wrigtht That Detect Darkness And Float Orbs To Replace [[WHAT\|WHAT]] Would Be Street-Lamps
+- [ ] Add More Stuff To Shops
+- [ ] Still Write [[Template/Book\|Book]]
+- [ ] Each Fallen Star Has A Celestial At It
+- [ ] Antimagic Node
+- [ ] Node-Specificity
+- [ ] Make A Lot Of High Rank Magic Items Count As Living Things
+- [ ] Vampire Stuff And Organisations
+- [ ] Suppression Collar
+	- [ ] Doesn't Reset
+- [ ] Anatomy Class On Friday
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]] Cannot Go In [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/Second Chances/The Church Of Second Chances\|The Church Of Second Chances]] Or Interact With Their Members Without Taking Damage
+	- [ ] Cannot Be Revived
+	- [ ] Feels The Cold Embrace Of Death As She Gooes To Kill Someone
+- [ ] Afterlife [[Skull/Concentrated Brain/Dnd/Mine/Realities/Stratus Saepta/templates/Domains\|Domains]]:
+	- [ ] The Light
+	- [ ] The End
+	- [ ] The Furnace
+- [ ] Mass Distribution Blacksmiths Within Owned Grounds (Organisations, Palaces, Barracks)
+	- [ ] Personal Blacksmiths In Cities
+	- [ ] Personal Smithies Usually Have Different [[Branches/People\|People]] For Different Specialities So Write Those Too
+	- [ ] Three Legendary Resistances In The Form Of Drawing His Sword
+- [ ] Closed Gates Of A City/Fort Form A [[Branches/Wrighth\|Wrighth]] That Prevents All Methods Of Trespass 
+- [ ] Roadside Shops And Other Travel Interactions
+- [ ] Slow Acting Poison That Has A Different Poison That Cancel Each Other Out
+- [ ] Write More On
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Crushed Survivors\|Crushed Survivors]]
+		- [ ] [I Cannot Currently Think Of AS Snappy Summary For This One]
+- [ ] Town Where Guns Cannot Kill [[Branches/People\|People]]
+- [ ] Add Pets
+- [ ] Write Radio Reports That Are Separate From News Papers
+	- [ ] Upcoming And Outgoing Events
+- [ ] Journalists Are All Independent
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Sera\|Sera]] Are Hells Inter-Power Scape Goats
+	- [ ] If They Would Need A Diplomatic Envoy They Send Those Two
+- [ ] Magic Item- Universal Audio Translator
+- [ ] Magic Item Sound -> Telepathy Translator
+- [ ] Fun Shit Happening On Moon Day Globally
+- [ ] Crime Family Stuff
+- [ ] Add Pictures To Lore Doc
+- [ ] More [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Church\|Church]] Of Violets Stuff
+- [ ] Also Add A Death Game To [[Branches/Dnd\|Dnd]]
+- [ ] Cov Rituals Have Optional Supression Flower Bracelet 
+	- [ ] Made Out Of Precious Metals Electroplated (Figure Out A Biopunk Electroplate)
+	- [ ] Similar To Having Training Wheels On Your Bike
+- [ ] Write More Snake PoweR
+	- [ ] Later Levels Give Snake Afinity, Snake Powers, More Utility
+- [ ] Write More Smoke PoweR
+- [ ] Specify Countries Languages
+- [ ] Forest Fire
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/The Seventh Snake\|The Seventh Snake]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/Pow Scenario/The Pow Scenario\|The Pow Scenario]]
+- [ ] https://docs.google.com/document/d/1bdvaZjf-ftU2RJdQ8VtuT2OJGpKcEUfE9pq5Z7qYV-w/edit?tab=t.0#heading=h.5hxe7y2uc0ft
+- [ ] More Dragons
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Paladin Pals/Everett De La Fontaine\|Everett De La Fontaine]] 
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Paladin Pals/Sinclair Rosemond\|Sinclair Rosemond]]
+- [ ] Set A Lot Of Knight Stuff Around There
+- [ ] Dance Battle
+- [ ] Tower Defence Mission
+- [ ] Write War Legends
+- [ ] Write Religious Stories About Turmoil
+- [ ] Paladin Centric [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Moon Day Festival\|Moon Day Festival]] Events
+- [ ] Moon Day Stuff Aimed At Higher Levels
+- [ ] Pow Scenario HQ In Grease
+- [ ] Write Grease Stuff
+- [ ] Keep Tabs On [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Paladin Pals/Everett De La Fontaine\|Everett De La Fontaine]]
+	- [ ] Have His Family React To It
+- [ ] Write Room Availabilities
+- [ ] Frankenstein Trees
+- [ ] Write The Anarchists Guide To BLOWING THE FUCK UP
+	- [ ] ([[Template/Book\|Book]] About Explosive [[Skull/Spam/Fire\|Fire]] And Charisma)
+- [ ] Add More Creatures With Blindsight, Temmor SEnse, Truesight Etc
+- [ ] Sports Stuff
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Stratus Saepta/Locations/Planes/Planes\|Planes]] Stuff
+- [ ] Write Poacher Abilities
+- [ ] Add Meteor [[Skull/Concentrated Brain/Dnd/Mine/Realities/Stratus Saepta/templates/Locations\|Locations]]
+- [ ] Add Gungs
+	- [ ] Especially In Swampy Areas
+- [ ] Add Wild Magic Gambling
+	- [ ] Krypton
+- [ ] A Few Inns That Have Sex Worker Staff
+- [ ] Add Personified Explanations Of The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Moons\|Moons]]
+- [ ] Add More Species/Creatures 
+- [ ] Add Scifi Biopunk Stuff That Exists Now
+- [ ] Write Tragedies
+- [ ] grung thing
+- [ ] [[Template/Book\|Book]] Thats Too Powerful So Is Kept In A Wooden Sleeve
+- [ ] When [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Bad Enough Happens The World Stops And Multiple Councils Go Over The Events
+- [ ] Add Some Mountain Ranges
 
-
-
-
-
-
-
+- [ ] Shooting Range Minigame
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Piecemeal\|Piecemeal]]
+	- [ ] In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Omihami/Wruilt\|Wruilt]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Greed-Mite\|Greed-Mite]]
+- [ ] Na-Ni Has A Mountainous Hand Sticking Out Of The Floor Like A Giant Was Burried Alive And Peteified As It Escaped
+- [ ] Add Giants To Lair And Earth Wind And [[Skull/Spam/Fire\|Fire]]
+- [ ] Everything In Krypton Is Magically/Alchemically Produced
+- [ ] All Floor In Nemo Is Slippy, 1ft Water And Counts As Difficult Terrain
+	- [ ] This Is Magical Water And Is Not Level
+	- [ ] Every Surface Is Coated In A Few Millimetres Of Water
+	- [ ] Small Plants And Animals Only Survive If There Are Aquatic Versions Of Them And Their Food
+- [ ] Na-Ni Only Consumes Products That Come From Sentient Creatures 
+	- [ ] Like A Veganism Consent Thing
+- [ ] Krypton Has A Real-Life Like Court System
+	- [ ] Time Until Trial, Bureaucracy Bullshit 
+	- [ ] Rigged
+	- [ ] Most Common Sentence Is Indentured Servitude
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Gi Fotias\|Gi Fotias]] Has No Court
+- [ ] In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Naga\|Naga]] You Get Brought Before The King
+- [ ] Lair Has An Arrest On Sight Policy
+- [ ] Grease Has You Fight Until You Pay For Your Crimes
+- [ ] Clitburry Has No Legal System; Kill On Sight
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gahenna/Gahenna\|Gahenna]] Has No Crime 
+	- [ ] If One Were To Be Commited You Would Get Universally Shunned
+- [ ] A Trap Which Hands Get Stuck To Forever
+- [ ] Races
+	- [ ]  Foot
+	- [ ] Horse
+	- [ ] Chariot
+- [ ] Replacements For Places That Have No Stock
+	- [ ] "Ration Slurry"
+	- [ ] "Meat"
+	- [ ] "Greens"
+	- [ ] "Liquid"
+- [ ] Fertility Ritual With A Face-Hugger Like Creature
+- [ ] Locked Wizard Temple, The Way To Unlock Is By Doing Some Wizard Shit
+- [ ] Enemies That Explode When You Kill Them
+- [ ] Snake Vending Machine 
+	- [ ] You Play Snake On The Keypad (8×8) 
+	- [ ] Get Item If Win
+	- [ ] Get Snake If Lose
+- [ ] Wright More ABout The Countries And Cities
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/General Magic Stuff\|General Magic Stuff]]
+- [ ] one sentence aesthetic descriptions of how each nation would appear to outsiders on a very outwardly level
+	- [ ] Which Churches Are Most Prominant
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Church\|Church]] Distribution
+- [ ] Make Sure There Are Different Food Options At The Festival
+- [ ] Add More Non-Game Interactions
+- [ ] Bathrooms Are Near The Entrances
+- [ ] Alcohol
+- [ ] Add Vampire Food To The Menus!
+- [ ] Blood Bar
+- [ ] Add Some Festival Explanations To The End Of The Intro
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/The Queen\|The Queen]] Is Supposed To SHow Her Face
+- [ ] Officially Put Everettes Place On The Map
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Church Vantias/Vantias\|Vantias]] 
+- [ ] Add A Bit About The Subway
+- [ ] Notes On [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Quests/Constant Quests/The Moonlit Tavern\|The Moonlit Tavern]] 
+	- [ ] Before "Nightfall" The [[Skull/Concentrated Brain/Random Thoughts/PetPlay Stuffs\|Owner]] Of [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Quests/Constant Quests/The Moonlit Tavern\|The Moonlit Tavern]] Kicks Everyone Out
+		- [ ] He Has His Own little Stand At The Festival
+- [ ] Prep More Trauma
+- [ ] Have Some [[Branches/People\|People]] Be Scared Of Knights/Platemail
+- [ ] More Cursed Items
+	- [ ] Shoes That Turn Your Feet Into Hands Until Someone Else Wears Them
+		- [ ] Guy Selling Expensive Looking Shoes "Name Your Price" "Need To Get Rid Of Them Before [[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|My Husband]] Sees"
+	- [ ] Hat That Turns Your Hair Into Functioning Prehensile Limbs
+		- [ ] But They Have A Mind Of Their Own And Only Sometimes Do [[WHAT\|WHAT]] You Want 
+		- [ ] Permanent
+- [ ] Give [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Paladin Pals/Aras\|Aras]] Some Drawbacks For Taking A God Around Everywhere
+- [ ] Also Some Rituals And Geases And Stuff To Go Along With Their Benefits 
+- [ ] Sacrifices For Boons Like One Portion Of Food = 10 Temp Hp
+- [ ] 1 Gold Jewel = Luck Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]
+- [ ] Make The God Of Avoidable Deaths A Really Good Ability If You Work Hard Enough At It
+- [ ] Reduce The Amount Of Cars So [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Penemosica\|Penemosica]] Vehicle Is More Impressive
 
 <center><sub>Done :)</sub></center>
