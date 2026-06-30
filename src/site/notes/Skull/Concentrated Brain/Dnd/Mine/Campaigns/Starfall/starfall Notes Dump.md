@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-notes-dump/","tags":["Tagless"],"dg-note-properties":{"Type":null,"up":"[[Starfall]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-notes-dump/","tags":["Tagless"],"noteIcon":"","dg-note-properties":{"Type":null,"up":"[[Starfall]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 a<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -56,73 +56,11 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 
 
 
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]] 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- [ ] More Monsters
-	- [ ] Slime Infestation 
-		- [ ] Weak To [[Skull/Spam/Fire\|Fire]]
-- [ ] Really Extravagant Ball That No Players Get Invited To
-- [ ] Labyrinth With No Map, Only Intersections That Go Right And Forwards
-- [ ] Mini Festival In Grease
-	- [ ] Historical
-- [ ] Redo Lair And Nemo Maps
-- [ ] Lore Grease Stuff
-- [ ] Way More [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Tari\|Tari]]
-- [ ] More Pow Scenario Stuff
-- [ ] Mini Festival In Grease
-- [ ] Historical
-- [ ] Write A Speech For It
-- [ ] University: East Phygrian School Of Historical Interventions
-- [ ] Main Bases In Gi Gotias (Counsil Originally Moved Because There Was A Long Travel Time For Most But Now That There Are Portals The Main Campus Is Still There But The Meetings Happen in Phygria)
-- [ ] Specialises In Rewriting Mytholigies To Match What We Know Historically
-- [ ] Unoversity: Fotia
-- [ ] The Chain Name For All Gi Fotias Organised Schools
-- [ ] Specialise In "Old Stuff" (History, Archeology, Mythology)
-- [ ] Combat A, B & C
-- [ ] The Greasian, Hollywoodan, And Nemo Combat Institutes
-- [ ] Naga And Gamora Are The Leads In Biomagics And Both Have Their Own Institutions
-- [ ] Same With Branson And Nemo's Sea Schools
-- [ ] Branson Is More Famous For Aquaculture, Nemo Is More Famous For Nautics
-- [ ] Jetty Fortune:
-- [ ] A Woman Lost But Never Found
-- [ ] I See Betrayal Is Abound
-- [ ] Unless You Wish To Be Paid In Kind
-- [ ] There Is A Woman You Must Not Find
-- [ ] Ars:
-- [ ] You Need Her
-- [ ] You Heed Her
-- [ ] You Feed Her
-- [ ] Del: No Fortune Until He Is More Comfortable As A Snake
-
-- [ ] Some Capitals (I Dont Think This One Does) Has Fast Travel Stuff To Neighbouring Cities
-- [ ] Those Are Roads 
-- [ ] Redder (Which This Map Doesnt Have I Guess) Means More In Use/Safe So Probably A Quicker Journey
+- [ ] Some Capitals Have Fast Travel Stuff To Neighbouring Cities
 - [ ] Subways Are Capital To Capital
 - [ ] ([[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Named Towns And Cities/Boston\|Boston]]) Havent Gotten Around To Writing That But The Idea Was A Mass Migration Of People From Naga Who Eventually Formed Their Own Town
 - [ ] (Gi Fotias) You Could Get Around Them In Less Than A Day
@@ -268,7 +206,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] "Oh You Went To Oxford? Me Too! I Went To The One In The Southern Mountains"
 - [ ] And They Could Have Portals Between Them For Multinational Staff/Students!
 - [ ] "I Cant Sleep If Its Below 50° So I Portal In Every Morning"
-- [ ] Now I Need To Write A Sustained Portal Wrighth
+	- [ ] Now I Need To Write A Sustained Portal Wrighth
 - [ ] For Similar Reasons Races Which End Up Having More Children Would Have More Wrighthers Because There's More Room For Professional Experimentation
 - [ ] Renata Rapier
 	- [ ] Rapier Specific Skills
@@ -307,6 +245,51 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Wrong Paths Lead You Back To A Previous Branch
 	- [ ] Maybe Add Snakes As A Snakes And Ladders Joke
 - [ ] Woman Who Hates Frogs
+- [ ] Chrysanthemum Has A Fort in Infernal Domain
+- [ ] add lots of meat To [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Na-Ni/Na-Ni\|Na-Ni]]
+	- [ ] Meat Pit
+	- [ ] Partially Meat Buildings
+- [ ] Na-Ni Traditionalist Buildings
+- [ ] Three Equidistant Obsidian Spires You Can Climb Complete With Courage, Wisdom And Strength Tests Respectively 
+- [ ] The Centre Is A Boxing-Ring-Wide Scaled Sacrificial Alter With Climbing Holds Indented Into It
+- [ ] Jumping Is A Safe Way Down (Having The Courage To Fall Is Equal To Having The Strength To Climb Down)
+- [ ] This Is in The Middle Of A Field With Greyed Grass That Looks Red Under Rogue, Gold Under Ciel, And Translucent Under Both
+- [ ] This Is Just A Thing Here And It Represents Being Able To Shine When Youre Needed And Step Down When Youre Not
+- [ ] Character Who Turns Peoples Souls Into Fruit
+- [ ] Cant Teleport Into Schools
+- [ ] Teleport To The Gate And Walk In Or Teleport To A Portal And Use That If Youre That Lazy
+- [ ] Guy Who Is A Big Evil Villain (For A Good Reason)
+- [ ] Mondo In Na-Ni
+- [ ] Dragons Flying Have Infinite Sprint Speed
+- [ ] The Sun God Took A Debilitating Blow
+- [ ] So The Sky God Stepped In Not Just To Save The World But Also To Save Face
+- [ ] Guy Who Baits Players Into Killing Him So He Can Be A Super Powerful Evil Ghost
+- [ ] Works With Lich If Lich had Power
+- [ ] Put Lich In Phygria If Not Done Already
+- [ ] Lyra Has Her Heart Kept In A Safe Location Making Her Immune To Emotion Based A
+- [ ] Magic
+- [ ] Destroying It Wont Kill Her Just Make Her Sad
+- [ ] A Wizard Whos Spellcasting Is Their Cat So If The Cat Isnt Nearby They Cant Cast Spells
+- [ ] The Spells Are Written Inperceptably On The Cats Fur
+- [ ] She Did That Because Shes A Little Menace Who Keeps Messing With Magic
+- [ ] Guy Who Will Do Anything For A Bowl Of Cue-Goat Stew
+- [ ] (Cue-Goat Is A Marble White Goat From Gamora Which Has Bones That Melt Like Butter When Prepared Right)
+- [ ] Potioncraft Is A Dying Art
+- [ ] Better And More Popular When Its Revived
+- [ ] There Are No People Still Alive From Starfall Because Living Through It Killed Them Through Various Means
+- [ ] Some Other Immortals Were Poisoned, Crushed, Or Spirited By It
+- [ ] Dels Friend Kaitlyn Is The Countdown Vendors Sister
+- [ ] Phoenix Sorcerer
+- [ ] Level Del +2 Then Stays  That Level When They Meet
+- [ ] Currently Looking For The Level 21 Sorcerer So Is In That City
+- [ ] Really Loud [Insert Class Here] That Thinks Its A (It/Its) Ninja/Samurai 
+- [ ] Maybe A Half Spellcasting Class So That They Have To Get Close But Also Have To Speak For Their spells
+- [ ] Tari Looks Human But Is Half Dragon Half Fairy
+- [ ] Flying Speed If He Ever Takes His Armour Off
+- [ ] More Ranged Combatants
+- [ ] Wizard
+- [ ] Warlock Twins
+- [ ] Ranger With Magic Bow
 
 
 

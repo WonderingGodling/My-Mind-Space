@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/beliefs/religious-organisations/church-of-violets/cult-of-violets/","tags":["Tagless"],"dg-note-properties":{"permalink":"/skull/concentrated-brain/dnd/mine/beliefs/the-cult-of-violets/cult-of-violets/","tags":["Tagless"]}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/beliefs/religious-organisations/church-of-violets/cult-of-violets/","tags":["Tagless"],"noteIcon":"","dg-note-properties":{"permalink":"/skull/concentrated-brain/dnd/mine/beliefs/the-cult-of-violets/cult-of-violets/","tags":["Tagless"]}}
 ---
 
 
