@@ -384,7 +384,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addFilter("stripForSearch", function(content) {
     return content
-      .replace(/<[^>]*>/g, '')
+      .replace(/[<>]/g, '')
       .replace(/\s+/g, ' ')
       .trim();
   });
