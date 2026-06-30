@@ -11,7 +11,7 @@
 
 
 
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Pleonexia\|Pleonexia]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Piecemeal\|Piecemeal]]
 	- [ ] Legendary, Sword-In-Stone Object In Grease
 	- [ ] Was Owned By Hero (Polites) Who Died During The Last War
 	- [ ] When He Died, The Sword Flew, Ten Men Were Slain, And It Plummeted Into The Soil

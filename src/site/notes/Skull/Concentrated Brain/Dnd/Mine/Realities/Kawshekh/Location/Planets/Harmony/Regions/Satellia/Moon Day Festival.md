@@ -29,6 +29,10 @@ Take Their Weapons For The Festival
 
 ### North (Main Stage)
 
+- Three Floating Rocks
+	- Lei, A Cold-Seeming White Orb Of Plagioclase Hovers Still A Lesh Off The Ground
+	- Below It Are Replicas Of [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel\|Ciel]] And [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge\|Rouge]] Moving Around In Circles  
+		- Giving These Rocks All Your Spell Slots Gives You An Extra Use Of An Ability (Until You Nex Use It)
 #### Optional Combat Arena
 #### Music 
 - Performed By [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Bardland And Bards\|Bardland And Bards]]
@@ -190,6 +194,7 @@ Door With Key In It, Does Open If Key Is In It
       
 ### Sera's Stand
 +20 Temp HP Until You Lose It
+Moon Burgers
 
 ### Fri's Lil' Shop Of Waters
 Tea Shop With Open Jars Of what Looks Like Various Herbs And Powders Along With Rows Upon Rows Of Boiling Water Cups (DC 20 Con Save Or 1d6 Fire Damage)
@@ -208,6 +213,9 @@ Honour System
 #### 413/816/999/1234 Plat "This Is The Best Stuff I Have But You Can Only Try It Once"
 "On Top Of The World"- Level Up Your Ability
 "Nice Try"- You Get To Know The Answer To A Question
+
+## Make Your Own Pizza Stand
+
 ### A few (SMALL) quests 
 
 10 Copper Each

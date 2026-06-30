@@ -14,11 +14,26 @@
 
 
 
-
-
-
-
-
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Qutes\|Qutes]] to lose one of her arms at so point
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hivemind\|Hivemind]]
+- [ ] Carrie Moment (Where The Party Gets Invited Somewhere Big And gets Blood Dumped On Them)
+- [ ] Original [[Version\|Version]] Of [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Karma]] Bleeds Out In The Inn And Gets Replaced By Current One
+	- [ ] Having Died Broke Some Reality [[Shield\|Shield]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Karma]] Gets Good Groups [[Session\|Session]] 2 Description
+- [ ] Questline That Lets You Out Of The Loop ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/True End\|True End]]): Ends With Defeating The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Queen\|Queen]] In The Name Of The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Moons\|Moons]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Quests/Hell Morgue Escape Quest\|Hell Morgue Escape Quest]] For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]] Reset
+- [ ] Cargo Ship Storyline
+- [ ] Blood Litch Grand Plan
+	- [ ] Skowly Gain Minions
+	- [ ] Be Talky
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Blood Lich\|Blood Lich]] Pow Scenario War In Grease
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Gi Fotias\|Gi Fotias]] Personal Subjugation Quests
+- [ ] Quest With Some Kind Of Ritual That Summons A Creature In Which The Rest Of The Quest takes Place
+- [ ] Quest To Not look In A Small Ornate Box That Would End After The Time Loop
+	- [ ] If You Open It Doom Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]
+		- [ ] Guaranteed Death That Day
+	- [ ] But Also There Is A Helmet That Is Super Powerful
+		- [ ] Maybe The Item Itself Is A Double-Edged Sword
 
 
 
