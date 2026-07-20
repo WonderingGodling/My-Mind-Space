@@ -57,7 +57,7 @@
 #### But There Is One Guy Somewhere In The World Whos Power Is To Stop Yours
 
 ## You Can Only Have One Food For The Rest Of Your Life Which One
-### Now Say Something Other Than Pizza
+### Other Than Pizza
 
 ## You Have A Button Which, When You Press It, Does Something. What Does Yours Do?  
 
