@@ -45,6 +45,9 @@
 ## What’s the opposite of coffee? 
 ## Have you ever thought about whether the sun is on fire?
 ## If You Were A Character WHat Would Be Your Downfall
+## If You Were A Drink What Would You Be
+
+## If You were a kitchen utensil/appliance which one would you be and why?
 
 # <center><span style="color:#FEDCBA"> Hypotheticals</span></center>
 ## Would You Rather Be Stuck In A Shopping Mall With One Gorilla Or Five Cobras
@@ -52,7 +55,6 @@
 ## If You Could Have A Traditional Superpower Which One
 ### If You Could Have Any 
 #### But There Is One Guy Somewhere In The World Whos Power Is To Stop Yours
-## If You Were A Drink What Would You Be
 
 ## You Can Only Have One Food For The Rest Of Your Life Which One
 ### Now Say Something Other Than Pizza
@@ -64,8 +66,6 @@
 ## How many toddlers could you fight off bare-handed?  
 
 ## Which poisonous plant would you turn edible if you could?  
-
-## If You were a kitchen utensil/appliance which one would you be and why?
 
 ### If You Had To Fight A Celebrity To The Death Which one
 You Can Have Whatever You Want But Theyre Juist Going To Be Them On A Tuesday
