@@ -1358,6 +1358,29 @@ The largest violin is _4.27 m (14 ft) long_, has a maximum width of 1.4 m (4.5 f
 ![Pasted image 20260603000237.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260603000237.png)
 Danez Smith
 
+![Pasted image 20260720224146.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260720224146.png)
+![Pasted image 20260720224213.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260720224213.png)
+![Pasted image 20260720224220.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260720224220.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <center><sub>Done For Now \^w^ </sub></center>
 
 
