@@ -15,7 +15,7 @@
 Shooter, Old, Grouchy, ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/2 Firstday/Master Bane\|Master Bane]] )
 - Shoots Seras' Original [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]] During [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Day 1\|Day 1]] Then Runs Fast
 	- Shoots Her From On Top Of A House Near The North-North Eastern Gate
-	- Killed The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]] In The First Place Before [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Sera\|Sera]] Possessed It And Will Be Damned If He Lets Them Go Free
+	- Killed The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]] In The First Place Before [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Group 1/Sera\|Sera]] Possessed It And Will Be Damned If He Lets Them Go Free
 	- Has Been Hunting Them Down For Two Days
 		- The Robes They Were Wearing Have Tracking [[Magic\|Magic]] On Them
 - Cannot Be Tracked Down Via Theives Or Other Criminals Because It Wasnt An Organised Killing

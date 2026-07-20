@@ -9,7 +9,7 @@
 
 ## T-Minus One
 
-That Day When The Stars Came Falling. A Moment Revered Throughout All Of History. 
+That Day When The Stars Came Falling. Is A Moment Revered Throughout All Of History. 
  "Almost As It Were From A Dream. Nothing More, Nothing Less Than A Beautiful View."
 
   

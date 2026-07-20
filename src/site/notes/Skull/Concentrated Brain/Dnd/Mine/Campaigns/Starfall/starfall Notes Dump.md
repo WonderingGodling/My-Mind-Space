@@ -12,7 +12,9 @@ a<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;fon
 
 
 
-
+Lesh: About 5ft
+Kraa: Within Arms ReacH
+Pira: About The Size Of A Human Eyeball
 
 
 
@@ -56,7 +58,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 
 
 
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]] 
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Other/Jetty\|Jetty]] 
 
 
 
@@ -83,21 +85,17 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] You Go Outside To Pick A Staek And Theres A Fucking Owlbear In Your Tree
 - [ ] More Hunting Quests
 - [ ] The Plant Size Is Like Proportional To The Meat Size
-- [ ] Like Chicken Nuggets (Thats Processed But I Cant Think Of Anything Else That Size) Would Grow Like Carrots But A Chicken Would Grow Like A Coconut And Knock People Out Like A Cartoon
+	- [ ] Like Chicken Nuggets (Thats Processed But I Cant Think Of Anything Else That Size) Would Grow Like Carrots But A Chicken Would Grow Like A Coconut And Knock People Out Like A Cartoon
 - [ ] Jetty Fortune:
-- [ ] A Woman Lost But Never Found
-- [ ] I See Betrayal Is Abound
-- [ ] Unless You Wish To Be Paid In Kind
-- [ ] There Is A Woman You Must Not Find
+	- A Woman Lost But Never Found
+	- I See Betrayal Is Abound
+	- Unless You Wish To Be Paid In Kind
+	- There Is A Woman You Must Not Find
 - [ ] Ars:
-- [ ] You Need Her
-- [ ] You Heed Her
-- [ ] You Feed Her
+	- You Need Her
+	- You Heed Her
+	- You Feed Her
 - [ ] Del: No Fortune Until He Is More Comfortable As A Snake
-- [ ] Artifact Is Called Occams Razor
-- [ ] Allows The Application Of Wrighthers Logic  Without The Need For Wrighthing
-- [ ] Straight Edge That Carves Glyphs In Few Strokes
-- [ ] Handle Perfectly Fills Her Hand And Folds Out To reveal A Blade That Is About Six Inches Long
 - [ ] Write Subway Buildings
 - [ ] Creative, Long Winded, Food Processes Like
 - [ ] First Off You Get A Rock Chicken Drunk On Bubbly And Hold It Aloft Until It Sobers Up. Then....
@@ -111,9 +109,6 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Subspace Passageway = "Subway"
 - [ ] Voodoo Guy Asks A Henchman "Was That Funny? You Can Laugh If You Think It Was Funny"
 - [ ] Fantasy Measurements 
-- [ ] Lesh: About 5ft
-- [ ] Kraa: Within Arms Reach
-- [ ] Pira: About The Size Of A Human Eyeball
 - [ ] Blitz Powder:
 - [ ] Red Dust, Feels Like Warm Charcoal On The Outside, Feels Like Cold Lava On The Inside
 - [ ] Withdrawal Makes You Forget Everything Between Waking Up And Taking It Also Makes Your Limbs Recoil When You Touch Things (DC 15 Wisdom Save)
@@ -232,11 +227,11 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 		- [ ] Resets On Moon Day
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Temple Of The Pow Scenario\|Temple Of The Pow Scenario]]
 - [ ] Character Who Turns Peoples Souls Into Fruit
-- [ ] [03:36, 23/06/2026] Dimitri: Lich "Give Me Your Heart And I Can Give You Security"
-- [ ] [21:36, 23/06/2026] Dimitri: They Say That You Dont Hear The Bullet That Gets You
+- [ ] Lich "Give Me Your Heart And I Can Give You Security"
+- [ ]  They Say That You Dont Hear The Bullet That Gets You
 - [ ] You Dont Feel Anything Either As You See The God Gently Gesture Their Weapon In Your Direction 
 - [ ] Everyone Else Though? They Hear An Explosion. One That Renders Your Form Non-Existent. Crushed Into Fine Enough Pieces That The Whole Is Just A Concept
-- [ ] [21:39, 23/06/2026] Dimitri: When Tari Harms Dragonkin They Become Unable To Heal Until He Sets His Sight On Something New
+- [ ] When Tari Harms Dragonkin They Become Unable To Heal Until He Sets His Sight On Something New
 - [ ] Lava Pops Cereal
 - [ ] More Complex Escape Room
 - [ ] Egg And Cress Sandwhich Joke
@@ -281,15 +276,78 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Dels Friend Kaitlyn Is The Countdown Vendors Sister
 - [ ] Phoenix Sorcerer
 - [ ] Level Del +2 Then Stays  That Level When They Meet
-- [ ] Currently Looking For The Level 21 Sorcerer So Is In That City
+	- [ ] Currently Looking For The Level 21 Sorcerer So Is In That City
 - [ ] Really Loud [Insert Class Here] That Thinks Its A (It/Its) Ninja/Samurai 
-- [ ] Maybe A Half Spellcasting Class So That They Have To Get Close But Also Have To Speak For Their spells
+	- [ ] Maybe A Half Spellcasting Class So That They Have To Get Close But Also Have To Speak For Their spells
 - [ ] Tari Looks Human But Is Half Dragon Half Fairy
-- [ ] Flying Speed If He Ever Takes His Armour Off
+	- [ ] Flying Speed If He Ever Takes His Armour Off
 - [ ] More Ranged Combatants
-- [ ] Wizard
-- [ ] Warlock Twins
-- [ ] Ranger With Magic Bow
+	- [ ] Wizard
+	- [ ] Warlock Twins
+	- [ ] Ranger With Magic Bow
+- [ ] Someone With The Andrew Underberg Voice
+- [ ] Chef Who Regrows Limbs And Serves That At Restaurant
+- [ ] History Of Gi Fotias, The First Person In The New World Was From There And Founded It, The Current King Is A Direct Descendant
+- [ ] Were-Dog Curse On Player
+- [ ] Eating Chocolate Kills The Dog Part For Good
+- [ ] Evil Guy Who When Defeated Turns Out To Be A Puppet Or Something, Then The Real/Original Guy Shows Up Pretending To Be Innocent But Was The Puppeteer
+- [ ] Holy Smokes Later Remove A Status Effect
+- [ ] Devils Train Situation With Jetty
+- [ ] Per The Deal, Now That Shes On Team Demon...
+- [ ] Character Who, Every Day The Party Is In His Neighbourhood, Asks To See A Bronze
+- [ ] Party Getting Allowed Somewhere Nice But Treated Bad Because They Were Let In Instead Of Bought In
+- [ ] Make All The Capital Cities Bigger And More Populated
+- [ ] Regional Sigil
+- [ ] Border Shape: Status Person In Charge (Triangle Is King And Like Decagon Is Local Chief)
+- [ ] Outside Stars: Population In Ten Thousands 
+- [ ] Colour: Nature Of Exports (Gold = Commerce, Green = Nature, Grey=Craftmanship)
+- [ ] Symbols For Churches (#Of Churches, E.G Three Second Chances §§§)
+- [ ] First Letters Of Dominant Languages Written Curved Underneath
+- [ ] Orbital Sigil For Institution/Organisation/Family This Comes From
+- [ ] Upside Down If It Is Used In A Negative Context
+- [ ] Na-Ni Has An Icon Symbolising Sentient Plants
+- [ ] Gi Fotias Has One Symbolising The Lack Of Sentience In Their Products
+- [ ] 3 Pointed Star Is 1k
+- [ ] 4 Pointed Star Is 10k
+- [ ] 5 Pointed Is 100k
+- [ ] 6 Pointed Is 1M
+- [ ] Accessible By Land, Sea, Air, Other
+- [ ] Year, Day(Of Year) Gets Put Somewhere
+- [ ] Low Level Vampire Combat
+- [ ] Night In Grease Outside The Inn
+- [ ] Missing Phoenix-Feather Pen At The Inn, Magical, Used To Do All The Book-Keeping And Stuff
+- [ ] Once Found Turns Into "I Know Who Has It Go Get It"
+- [ ] Its Some Level 2 Fighter Guy Who Wants The Manager To Look Bad So He Can Take His Job
+- [ ] Ev Can Guess If A Potion Would Be Good Or Bad
+- [ ] He Was Born Magic
+- [ ] He Was Not Born Wild
+- [ ] Bad Guy Eats Someones Food
+- [ ] Suppression Dart
+- [ ] Small Settlement Where Everyone Is The Same Guy But [Insert Modifier]
+- [ ] Clin But Tall, Clin But Female, Clin But Denser, Clin But He Has Blue Eyes
+- [ ] Guy With Ornate Cigarette Holder 
+- [ ] Old Momento
+- [ ] Told That If He Ever Meets Anyone With The Same One To Trust Them Implicitly 
+- [ ] Can Duplicate On Loop
+- [ ] "Dont Go To The 13th Floor, There Is Currently An Incident"
+- [ ] First Day Shadow Archer On That Floor
+- [ ] Secret Box Thing
+- [ ] Inside Is The Sword Of An Evil God, The God Of Giggles, 
+- [ ] You Have To Be Funny, Death (Not Pain) Is Funny, Gets Stronger The More Funny Deaths It Causes, Hurts The Weilder Each Day It Doesn't Get Used, Hurts The Weilder Whenever It Is Not Funny
+- [ ] Describe Moon Fest As More Crowded
+- [ ] Husband Who Was Poisoned 
+- [ ] Sad Wife
+- [ ] Son Gets Everything
+- [ ] Teens That Raise Dead To Get Alcohol Bought For Them
+- [ ] Underground Tree So Big That Its Branches Look Like Overground Trees
+- [ ] Shadow Archer Roll To Hit
+- [ ] Highest AC Person Gets Hit
+- [ ] Woman Who Gets An Auto Nat 20 If She Spends A Minute Crying
+- [ ] Crab Cult High Ranks All Need To Keep Their Own Lobster Alive, Whoever Has The Oldest Lobster Is The Leader
+- [ ] If Your Lobster Is Older Than 64 You Can Start A Church Locale
+- [ ] A Krilling Pool (A Shellfish Tank)
+- [ ] Possible Party Npc Who Kills People When The Party Isnt Looking
+- [ ] https://dnd5e.wikidot.com/wondrous-items:jesters-mask Hide This Somewhere
 
 
 

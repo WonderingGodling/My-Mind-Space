@@ -66,6 +66,9 @@
 ## Which poisonous plant would you turn edible if you could?  
 
 ## If You were a kitchen utensil/appliance which one would you be and why?
+
+### If You Had To Fight A Celebrity To The Death Which one
+You Can Have Whatever You Want But Theyre Juist Going To Be Them On A Tuesday
 # [[Skull/Concentrated Brain/Random Thoughts/Real Quezzies\|Real Quezzies]]
 
 

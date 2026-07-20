@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-to-do/","tags":["Tagless"],"dgShowToc":true,"dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-to-do/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
@@ -29,7 +29,7 @@
 - [ ] More "Awake" Characters
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Tobias (Mimic)\|Tobi]] (Finish ([[Rogue\|Rogue]] Features))
 - [ ] Dragon Tears Girl [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Zealianne\|Zealianne]]
-	- [ ] Found And Dies On [[The Misty Forest route\|The Misty Forest route]]
+	- [ ] Found And Dies On [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Roads/The Misty Forest route\|The Misty Forest route]]
 - [ ] Guy Hunting Bees Bees First [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]]
 - [ ] Guy Going From [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Lei\|Lei]] To North [[Skull/Concentrated Brain/Dnd/Mine/Realities/Chronosburgh/Satellia/Satellia\|Satellia]] To Get Meteorite Fragment (Just A Rock Collector)
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Mixyrius\|Mixyrius]]
@@ -132,11 +132,11 @@
 	- [ ] Somewhere North In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]]
 - [ ] Align A Few [Sanguinated](https://docs.google.com/document/d/1NqB8k34TY_7taP0mZoVHINo9DKhz4n88AlHWSN5-eg8/edit?tab=t.0) To [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Blood Lich\|Blood Lich]]
 - [ ] Debt Collectors
-	- [ ] One In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]] That Wont [[Remember\|Remember]] You When Time Resets But Will [[Remember\|Remember]] How Much Money You Owe Him
+	- [ ] One In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Dolad/Named Towns And Cities/Kent\|Kent]] That Wont [[Remember\|Remember]] You When Time Resets But Will [[Remember\|Remember]] How Much Money You Owe Him
 	- [ ] One In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Torogiya/Rekx\|Rekx]] 
 	- [ ] Lair Debt Collection Agency That Provides Support Globaly
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Quests/Shooter Side Quest\|Shooter Side Quest]]
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]] Border Paperwork
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Dolad/Named Towns And Cities/Kent\|Kent]] Border Paperwork
 - [ ] News Articles
 - [ ] Write About The Soul Artifacts
 	- [ ] In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease\|Grease]]
@@ -148,25 +148,25 @@
 	- [ ] A Guard Or Two In Neighboring Cities
 - [ ] Large Encounters
 - [ ] Toy Bear That Watches You
-- [ ] If [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Qutes\|Qutes]] Uses The Demon killing Weapon They Still Come Back On A [[Loop\|Loop]] And She Earns Rubys Eyre
+- [ ] If [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Group 1/Qutes\|Qutes]] Uses The Demon killing Weapon They Still Come Back On A [[Loop\|Loop]] And She Earns Rubys Eyre
 - [ ] Giant Pumpkins With A Chance To Be Evil And Eat [[Branches/People\|People]]
 	- [ ] Fermented Are Popular With Huge Monsters
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Starfall Reset Rules\|Resets]] Are Based On Soul Versus Self
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/KAijin\|KAijin]]
 - [ ] Curses And condemnations
 - [ ] Write Animals And Plants
-- [ ] Devil Deal For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]]s Birth
+- [ ] Devil Deal For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Other/Jetty\|Jetty]]s Birth
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/cosmia crime family\|cosmia crime family]]
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/prexa\|prexa]] And goings ons
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/prexa\|prexa]] And goings ons
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Regalia tomo\|Regalia tomo]] a drow assassin
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Stories Behind The Stars\|Stories Behind The Stars]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]] Devil Associations
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]] MOnk Stuff
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Other/Jetty\|Jetty]] MOnk Stuff
 - [ ] Vampires
 - [ ] Magic Item Stores
 - [ ] [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] About Fertility [[Branches/Gods\|Gods]]
 	- [ ] Ref https://bsky.app/profile/rizdraws.bsky.social/post/3mejlimxoxk2f
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]] Artifact Disco Ball
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Other/Jetty\|Jetty]] Artifact Disco Ball
 	- [ ] Lia Has It
 	- [ ] Star Striker 
 	- [ ] Forced Dance, Bright Lights 
@@ -210,7 +210,7 @@
 - [ ] Suppression Collar
 	- [ ] Doesn't Reset
 - [ ] Anatomy Class On Friday
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]] Cannot Go In [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/Second Chances/The Church Of Second Chances\|The Church Of Second Chances]] Or Interact With Their Members Without Taking Damage
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Other/Jetty\|Jetty]] Cannot Go In [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/Second Chances/The Church Of Second Chances\|The Church Of Second Chances]] Or Interact With Their Members Without Taking Damage
 	- [ ] Cannot Be Revived
 	- [ ] Feels The Cold Embrace Of Death As She Gooes To Kill Someone
 - [ ] Afterlife [[Skull/Concentrated Brain/Dnd/Mine/Realities/Stratus Saepta/templates/Domains\|Domains]]:
@@ -232,7 +232,7 @@
 - [ ] Write Radio Reports That Are Separate From News Papers
 	- [ ] Upcoming And Outgoing Events
 - [ ] Journalists Are All Independent
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Sera\|Sera]] Are Hells Inter-Power Scape Goats
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Other/Jetty\|Jetty]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Group 1/Sera\|Sera]] Are Hells Inter-Power Scape Goats
 	- [ ] If They Would Need A Diplomatic Envoy They Send Those Two
 - [ ] Magic Item- Universal Audio Translator
 - [ ] Magic Item Sound -> Telepathy Translator
@@ -253,8 +253,8 @@
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/Pow Scenario/The Pow Scenario\|The Pow Scenario]]
 - [ ] https://docs.google.com/document/d/1bdvaZjf-ftU2RJdQ8VtuT2OJGpKcEUfE9pq5Z7qYV-w/edit?tab=t.0#heading=h.5hxe7y2uc0ft
 - [ ] More Dragons
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Paladin Pals/Everett De La Fontaine\|Everett De La Fontaine]] 
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Paladin Pals/Sinclair Rosemond\|Sinclair Rosemond]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Everett De La Fontaine\|Everett De La Fontaine]] 
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Sinclair Rosemond\|Sinclair Rosemond]]
 - [ ] Set A Lot Of Knight Stuff Around There
 - [ ] Dance Battle
 - [ ] Tower Defence Mission
@@ -264,7 +264,7 @@
 - [ ] Moon Day Stuff Aimed At Higher Levels
 - [ ] Pow Scenario HQ In Grease
 - [ ] Write Grease Stuff
-- [ ] Keep Tabs On [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Paladin Pals/Everett De La Fontaine\|Everett De La Fontaine]]
+- [ ] Keep Tabs On [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Everett De La Fontaine\|Everett De La Fontaine]]
 	- [ ] Have His Family React To It
 - [ ] Write Room Availabilities
 - [ ] Frankenstein Trees
@@ -342,7 +342,7 @@
 - [ ] Add Vampire Food To The Menus!
 - [ ] Blood Bar
 - [ ] Add Some Festival Explanations To The End Of The Intro
-	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/The Queen\|The Queen]] Is Supposed To SHow Her Face
+	- [ ] [[images/Dnd/Character Tokens/NPCs/The Queen Of Gi Fotias\|The Queen Of Gi Fotias]] Is Supposed To SHow Her Face
 - [ ] Officially Put Everettes Place On The Map
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Church Vantias/Vantias\|Vantias]] 
 - [ ] Add A Bit About The Subway
@@ -357,11 +357,31 @@
 	- [ ] Hat That Turns Your Hair Into Functioning Prehensile Limbs
 		- [ ] But They Have A Mind Of Their Own And Only Sometimes Do [[WHAT\|WHAT]] You Want 
 		- [ ] Permanent
-- [ ] Give [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Paladin Pals/Aras\|Aras]] Some Drawbacks For Taking A God Around Everywhere
+- [ ] Give [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Aras\|Aras]] Some Drawbacks For Taking A God Around Everywhere
 - [ ] Also Some Rituals And Geases And Stuff To Go Along With Their Benefits 
 - [ ] Sacrifices For Boons Like One Portion Of Food = 10 Temp Hp
 - [ ] 1 Gold Jewel = Luck Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]
 - [ ] Make The God Of Avoidable Deaths A Really Good Ability If You Work Hard Enough At It
 - [ ] Reduce The Amount Of Cars So [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Penemosica\|Penemosica]] Vehicle Is More Impressive
+- [ ] More Monsters
+	- [ ] Slime Infestation 
+		- [ ] Weak To [[Skull/Spam/Fire\|Fire]]
+- [ ] Really Extravagant Ball That No Players Get Invited To
+- [ ] Labyrinth With No Map, Only Intersections That Go Right And Forwards
+- [ ] Mini Festival In Grease
+	- [ ] Historical
+- [ ] Redo Lair And Nemo Maps
+- [ ] Lore Grease Stuff
+- [ ] Way More [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Tari\|Tari]]
+- [ ] More Pow Scenario Stuff
+- [ ] Mini Festival In Grease
+	- [ ] Historical
+	- [ ] Write A Speech For It
+
+
+
+
+
+
 
 <center><sub>Done :)</sub></center>

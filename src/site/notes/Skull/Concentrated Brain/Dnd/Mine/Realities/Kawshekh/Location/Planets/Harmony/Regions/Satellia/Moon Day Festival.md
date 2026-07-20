@@ -42,7 +42,7 @@ Take Their Weapons For The Festival
 - After The First Loop The Music Is Managed By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Clarent\|Clarent]]
 #### Replacement
 Announced By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hunter\|Hunter]] Because Who Knows Where [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Lancelot\|Lancelot]] Is
-- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/The Queen\|The Queen]] Couldn't Make It So They're Doing A Talent Show Instead Of An Announcement
+- [[images/Dnd/Character Tokens/NPCs/The Queen Of Gi Fotias\|The Queen Of Gi Fotias]] Couldn't Make It So They're Doing A Talent Show Instead Of An Announcement
 	- Show Of Strength
 		- Winner To Beat: A Tired Wizard Casts A Level 3 Fireball And Looks Around Like "Did I Do It Right?"
 		- Reward: [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Spider Bomb\|Spider Bomb]]
@@ -232,8 +232,8 @@ Honour System
 - [ ] (At A Push) Trevor Francis Tracksuits From A Mush In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Shepards Bush\|Shepards Bush]]
 
 ###### Misc
-Without Influence [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Qutes\|Qutes]] Makes 350 Silver Max (Check Her Pricing)
-Without Influence [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Sera\|Sera]] Makes 7 Gold Max (Check Her Pricing)
+Without Influence [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Group 1/Qutes\|Qutes]] Makes 350 Silver Max (Check Her Pricing)
+Without Influence [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Group 1/Sera\|Sera]] Makes 7 Gold Max (Check Her Pricing)
 	Eating Seras Food Will Give Temporary +3 To Wisdom The First Time Its Eaten
 
 

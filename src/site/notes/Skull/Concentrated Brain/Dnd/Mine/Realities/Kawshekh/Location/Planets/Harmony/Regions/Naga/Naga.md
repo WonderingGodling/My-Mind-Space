@@ -11,7 +11,7 @@
 
 
 
-
+Ruled By [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Phrygia/Greyson Long The Black Adder\|Greyson Long The Black Adder]] 
 
 
 

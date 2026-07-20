@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/template/dnd-place/","tags":["Tagless"],"dgShowToc":true,"dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"dg-publish":true,"permalink":"/template/dnd-place/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 Known For And/Or Slogan
@@ -48,6 +48,7 @@ Location: (Country And Number)
 
 ### Social
 #### Fashion:
+##### Popular Colours
 #### Hierarchies
 #### Families
 ##### Average Structure

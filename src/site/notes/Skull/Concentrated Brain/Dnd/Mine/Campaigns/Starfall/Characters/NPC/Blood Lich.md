@@ -6,10 +6,12 @@
 
 
 # <center><span style="color:#560000">Blood Lich</span></center>
+Mia
 
 ![Pasted image 20260113233011.png](/img/user/images/Pasted%20image%2020260113233011.png)
-https://www.patreon.com/posts/lich-catacomb-99209158
 
+![illust_83018634_20200812_192306.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Files%20And%20Shit/illust_83018634_20200812_192306.png)
+https://www.patreon.com/posts/lich-catacomb-99209158
 - [ ] Been Weakened For Generations
 - [ ] Half Burried, Unable To Move, Can Speak If Uncovered
 - [ ] NEeded The Product Of War To Gain And Grant Power
@@ -20,7 +22,7 @@ https://www.patreon.com/posts/lich-catacomb-99209158
 
 Only "Surviving" Subordinate https://www.dandwiki.com/wiki/Archlich_(5e_Creature)
 
-
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Blood Lich's Final breath\|Blood Lich's Final breath]]
 
 
 <center><sub>Done :)</sub></center>

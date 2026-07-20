@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/npc/starfall-npc/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"","dg-note-properties":{"Type":null,"up":"[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Campaign/Starfall/Characters/Starfall Characters|Starfall Characters]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/npc/starfall-npc/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"","dg-note-properties":{"Type":null,"up":["[[Starfall Characters]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
@@ -15,7 +15,7 @@
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Lightning Throw NPC\|Lightning Throw NPC]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Athens/Kaskurt\|Kaskurt]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/King Freud (Crazy King)\|King Freud (Crazy King)]]  
-	- [ ]  [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]]
+	- [ ]  [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Dolad/Named Towns And Cities/Kent\|Kent]]
 - [ ] [[Level 30 Warlock \|Level 30 Warlock ]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Ifumi\|Ifumi]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Queen\|Queen]] Level 20, 
@@ -35,7 +35,7 @@
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Branson/Fission Chipz\|Fission Chipz]]
 - [ ] Original Arcane Rifleman Looking For Her [[Template/Book\|Book]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Laurence\|Laurence (She/Her)]]
-- [ ] Thing That Directed [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Qutes\|Qutes]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]] There (Evil) 
+- [ ] Thing That Directed [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Group 1/Qutes\|Qutes]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma]] There (Evil) 
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Blood Lich\|Blood Lich]] 
 - [ ] Someone With Time Travel Skates 
 - [ ] Ninja Girl 
@@ -44,7 +44,7 @@
 	- [ ] Letters
 	- [ ] Not [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]]
 	- [ ] If Anything Big Happens They Get A Breif Explanation Of The Previous [[Session\|Session]]
-	- [ ] Works For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]]'s Boss' Boss
+	- [ ] Works For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma]]'s Boss' Boss
 		- [ ] (Ssnake)
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Farty Fuqueballs Jr Jr (Jay)\|Farty Fuqueballs Jr Jr (Jay)]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Natheas\|Natheas]]
@@ -52,7 +52,7 @@
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Pat Springleaf\|Pat Springleaf]]
 	- [ ] "Helps" Group S 
 - [ ] Someone Important Who Knows Rumours About The Parties
-	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Secret 1/Karma\|Karma]]'s Boss' Boss
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma]]'s Boss' Boss
 		- [ ] (Ssnake)
 - [ ] Yokai And Spirits
 - [ ] Retired Ghost Busters
@@ -80,8 +80,8 @@
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]] Thruple Doorway Has Passphrase To Turn Off Secret Alarm
 	- [ ] "Honeys Im [[Explicitly Showcased/Home Page I Guess/Home Page\|Home Page]]"
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Gods/Avatar Of The Crush\|Avatar Of The Crush]]
-- [ ] 16-Year-Old Widow [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Ms Yuri\|Ms Yuri]]
-- [ ] - [ ] https://www.dandwiki.com/wiki/Ape_Zombie_(5e_Creature) (Friendsly, Just Livese In Some Village)
+
+- [ ] https://www.dandwiki.com/wiki/Ape_Zombie_(5e_Creature) (Friendsly, Just Livese In Some Village)
 - [ ] Girl With A Whip She Calls Her Niece
 - [ ] Character With Unlimited Telekinesis
 - [ ] Someone Aware Of The Loops Cultivating An Army Of Likewise
@@ -105,7 +105,7 @@
 	- [ ] Fae Rules
 - [ ] Creature You Can Find And Free But Then It Hunts You Forever
 - [ ] Devil That Tricks Players Into FREING IT
-	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Jetty\|Jetty]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Sera\|Sera]] Are Held Responsible
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Other/Jetty\|Jetty]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Group 1/Sera\|Sera]] Are Held Responsible
 - [ ] Witch That Animates Everything She Touches (On Purpose) So The Villiage Is Full Of Plates With Legs And Stuff
 - [ ] Woman With Ruby Nipple Piercings Worth 3.5 Plat Each
 - [ ] Andro Minotaur Who Wont Be Friendly To Anybody Wearing Red Because It "Feels A Bit Insensitive DOntcha Think"
@@ -163,7 +163,7 @@
 - [ ] Also Write [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/General Grease Knight Stat Sheet\|General Grease Knight Stat Sheet]]
 - [ ] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Apprentice Grease Knight Sheets\|Apprentice Grease Knight Sheets]]
 - [ ] https://www.dandwiki.com/wiki/Dreadnaught_(5e_Class)
-- [ ] Give High Grease Knights This Unbuffed, Others Are Paladins But All Fight The Same
+- [ ] Give [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/High Grease Knights Stat Sheet\|High Grease Knights Stat Sheet]] This Unbuffed, Others Are Paladins But All Fight The Same
 
 
 

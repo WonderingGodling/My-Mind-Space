@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/beliefs/religious-organisations/church-of-violets/cult-of-violets/","tags":["Tagless"],"noteIcon":"","dg-note-properties":{"permalink":"/skull/concentrated-brain/dnd/mine/beliefs/the-cult-of-violets/cult-of-violets/","tags":["Tagless"]}}
+{"dg-publish":true,"dg-permalink":"CoV","permalink":"/CoV/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"","dg-note-properties":{"tags":["Tagless"],"Type":null,"up":["[[Church]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["CoV"],"title":null,"comments":true}}
 ---
 
 
@@ -66,7 +66,6 @@ These Fields Shift Positions Allowing The Members Of The Cult A Personally Desig
 ### Temples
 
 # Terminology
-
 
 
 
