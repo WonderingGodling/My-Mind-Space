@@ -12,7 +12,7 @@
 # <center><span style="color:#000000"></span></center>
 
 
-- Capital Building
+- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Dolad/Krypton Capital Building\|Krypton Capital Building]]
 	- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/King Freud (Crazy King)\|King Freud (Crazy King)]] Kept In Cell Under Capital Building Along With Other Failed Experiments
 		- Experiments Carried Out In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Lytescomia/Boston\|Boston, Naga]]
 		- Others Get Levels In Classe That Correspond To Armoury And https://www.dandwiki.com/wiki/Blood_Ravager_(5e_Class)

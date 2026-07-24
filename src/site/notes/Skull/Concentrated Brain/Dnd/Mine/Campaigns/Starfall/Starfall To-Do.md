@@ -31,7 +31,7 @@
 - [ ] Dragon Tears Girl [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Zealianne\|Zealianne]]
 	- [ ] Found And Dies On [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Roads/The Misty Forest route\|The Misty Forest route]]
 - [ ] Guy Hunting Bees Bees First [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]]
-- [ ] Guy Going From [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Lei\|Lei]] To North [[Skull/Concentrated Brain/Dnd/Mine/Realities/Chronosburgh/Satellia/Satellia\|Satellia]] To Get Meteorite Fragment (Just A Rock Collector)
+- [ ] Guy Going From [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Lei\|Lei]] To North [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia 1/Satellia\|Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia 1/Satellia]] To Get Meteorite Fragment (Just A Rock Collector)
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Mixyrius\|Mixyrius]]
 	- [ ] Dies (Accident) If Not Helped
 - [ ] The God Of [[Rest\|Rest]], Short And Eternal
@@ -105,7 +105,7 @@
 	- [ ] Gonna Have The Connecting Cities In My Notes
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Car Locations\|Car Locations]]
 - [ ] News Headlines
-- [ ] Write About: [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Lei (moon)\|Lei]], [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge\|Rouge]] And [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel\|Ciel]]
+- [ ] Write About: [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Lei/Lei (moon)\|Lei]], [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge/Rouge\|Rouge]] And [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel/Ciel\|Ciel]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Eras\|Eras]]
 - [ ] Relook At Calander
 - [ ] Group Of Armed Teens On [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Military road\|Military road]] At [[Vent Lane\|Vent Lane]] Junction On Day 2

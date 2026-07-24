@@ -32,6 +32,7 @@
 ## Favourite Animal
 
 ## Who Is Your Favourite Person (Parasocially)
+## Favourite Third Instalment To A Franchise
 
 # <center><span style="color:#FEDCBA">Filler</span></center>
 ## When Did You Last Sing To Someone?
@@ -61,6 +62,8 @@
 
 ## You Have A Button Which, When You Press It, Does Something. What Does Yours Do?  
 
+## If You Could Only Taste One Food Which One
+
 ## If your uncle Jack helped you off an elephant, would you help your uncle Jack off an elephant?  
 
 ## How many toddlers could you fight off bare-handed?  
@@ -69,6 +72,10 @@
 
 ### If You Had To Fight A Celebrity To The Death Which one
 You Can Have Whatever You Want But Theyre Juist Going To Be Them On A Tuesday
+
+## Youre At Youre Favourite Restaurant And You Order Crab Because Their Crab Is The Best. The Waiter Says "Sorry Were Out Today" "Youre Out Of Crab?" You Ask "No, We Just Don't Have The Shells To Put Them In Today". Do You Go There Again?
+
+## Would You Rather Have To Fight An Orangutan With A Sword Once A Year Or Fight A Chicken Every Time You Get In A Car
 # [[Skull/Concentrated Brain/Random Thoughts/Real Quezzies\|Real Quezzies]]
 
 

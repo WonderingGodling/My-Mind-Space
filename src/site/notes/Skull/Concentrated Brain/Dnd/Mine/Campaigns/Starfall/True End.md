@@ -14,11 +14,16 @@
 
 
 
-
+Collecting The Fallen Stars
+Destroying The Queens Statues
+	If They Are Undestroyed The Morning After The Loop Countless Monsters Spawn
+Restoring The Two King Statues
+	Restoring King Statue Part Of Puzzle To Free Him
+	Different Quest That Gives A Boon Per Desecrated King Statue
 Ends With Defeating The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Queen\|Queen]] In The Name Of The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Moons\|Moons]]
 
-
-
+![Pasted image 20260722170612.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Files%20And%20Shit/Pasted%20image%2020260722170612.png)
+Queen Influence And Statue Locations
 
 
 

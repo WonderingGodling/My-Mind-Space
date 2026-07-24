@@ -58,7 +58,7 @@ Announced By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hunter\|Hunt
         - Piscologists
         - Moon/Nature Worshipers
         - Violets
-- Depictions Of [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge\|Rouge]] And [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel\|Ciel]] wreaking havok
+- Depictions Of [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge/Rouge\|Rouge]] And [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel/Ciel\|Ciel]] wreaking havok
 	- One Painting Is Of Two Unruly Children. One Child Dressed In Blue With Blue Hair, Chasing A Child That Looks The Same But Red. As You Look Deeper You See Blue Has Claws, Red Is Destroying The Ground They Walk On, The Dark Sky Is Full Of Stars But No Moon.
 - Guy Painting For The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Church Of The Next/Church Of The Next\|Church Of The Next]]
 	- A Soul On [[Skull/Spam/Fire\|Fire]] Being Sucked Into A Tube
@@ -211,7 +211,7 @@ Honour System
 - [ ] Whats' Names
 - [ ] Picture Frames
 - [ ] Leather Goods
-- [ ] (At A Push) Trevor Francis Tracksuits From A Mush In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Shepards Bush\|Shepards Bush]]
+- [ ] (At A Push) Trevor Francis Tracksuits From A Mush In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Shepards Bush\|Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Shepards Bush]]
 
 ###### Misc
 Without Influence [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Group 1/Qutes\|Qutes]] Makes 350 Silver Max (Check Her Pricing)

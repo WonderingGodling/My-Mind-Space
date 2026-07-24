@@ -34,7 +34,7 @@
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Kleab/Irama\|Irama]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Ris/Fumi\|Fumi]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Phrygia/Named Towns And Cities/Undnaz'lario\|Undnaz'lario]]
-	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Chronosburgh/Satellia/Shepards Bush\|Shepards Bush]]
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia 1/Shepards Bush\|Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia 1/Shepards Bush]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Texas/Lewisville\|Lewisville]]
 
 

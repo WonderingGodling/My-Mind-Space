@@ -17,14 +17,14 @@
 - [ ] The [[Branches/Gods\|Gods]] Age (When The [[Branches/Gods\|Gods]] Were Everything)
 	- [ ] Pre [[Branches/Starfall\|Starfall]] 
 		- [ ] Timeless ([[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]? Seeminly Infinite Length, Fucks Up Historians)
-		- [ ]  Fogotten (After The Timeless Age The God' Influence Morphs The World
-		- [ ]  [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] Is Known About This Time (Hense The Name)
+		- [ ]  Forgotten (After The Timeless Age The God' Influence Morphs The World
+			- [ ]  [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] Is Known About This Time (Hense The Name)
 	- [ ] Revival (Before The [[Branches/Gods\|Gods]] Returned But After Their Powers Settled In The World (Kinda Realistic Urban Fantasy Vibes)) 
 	- [ ] [[Branches/Starfall\|Starfall]] (The Sky Came Down For Generations, More Forgotten Realmsy, Where Most Old Tales Come From, after-effect of The Revival)
 	- [ ] Post [[Branches/Starfall\|Starfall]] (Now)
 
 
-[ ] Next [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Eras\|Era's]] (ichorous) Theme: 
+- [ ] Next [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Eras\|Era's]] (ichorous) Theme: 
 	- [ ] Things Of Importance: [[Branches/Gods\|Gods]], Biopunk, [[Magic\|Magic]]
 	- [ ] Global Anarchism 
 	- [ ] Current Money Becomes A Part Of You And Can Take Over 

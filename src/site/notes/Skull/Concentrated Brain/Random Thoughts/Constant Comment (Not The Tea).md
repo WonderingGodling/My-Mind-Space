@@ -1363,6 +1363,14 @@ Danez Smith
 ![Pasted image 20260720224220.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260720224220.png)
 
 
+![Pasted image 20260722170628.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260722170628.png)
+
+I Love This Dumb Show
+"Cant Get Rid Of Ted Pelikennedy..."
+"But He Killed That Girl!"
+"Yeah, Exactly"
+HRR
+
 
 
 

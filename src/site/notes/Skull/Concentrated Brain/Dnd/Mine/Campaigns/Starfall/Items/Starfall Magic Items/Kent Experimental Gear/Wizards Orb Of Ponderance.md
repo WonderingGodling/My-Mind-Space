@@ -11,6 +11,8 @@
 
 # <center><span style="color:#44AAFF">Orb</span></center>
 
+![Pasted image 20260721013006.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Items/Starfall%20Magic%20Items/Kent%20Experimental%20Gear/Files%20And%20Shit/Pasted%20image%2020260721013006.png)
+
 Spellcasting Focus That Stores Each Spell Cast On It
 +2 To Concentration Saves
 

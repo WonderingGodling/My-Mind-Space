@@ -11,7 +11,7 @@
 
 
 
-- Guy Going From [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Lei\|Lei]] To North [[Skull/Concentrated Brain/Dnd/Mine/Realities/Chronosburgh/Satellia/Satellia\|Satellia]] To Get Meteorite Fragment (Just A Rock Collector)
+- Guy Going From [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Lei\|Lei]] To North [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia 1/Satellia\|Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia 1/Satellia]] To Get Meteorite Fragment (Just A Rock Collector)
 	- Dies (Accident) If Not Helped
 
 

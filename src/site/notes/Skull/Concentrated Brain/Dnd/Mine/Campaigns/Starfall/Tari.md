@@ -16,6 +16,7 @@ ORiginally A Nice Guy Nice Guy
 Famous
 A Bunch Of Accolades
 Only Uses A Sword When He Is First Introduced But Eventually Begins Summoning Varieties Of Weapons
+Tari Directs People To The Skeleton Dungeon
 
 ## General
  Race:  

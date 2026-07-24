@@ -72,7 +72,7 @@
 - [ ] Damage Threshold Enemy
 	- [ ] Needs To Take At Least Number Amount Of Damage For Any Of It To Register
 - [ ] Character Called [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Silvia (Sil). E\|Silvia (Sil). E]]
-- [ ] "The Name's Nick. [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Phoenix\|Phoenick]]"
+- [ ] "The Name's Nick. [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Phoesiander\|Phoenick]]"
 - [ ] Gambler
 - [ ] cat Who Transforms Into A Woman
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Felis\|Felis]]
@@ -141,7 +141,7 @@
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Bardland Gene\|Bardland Gene]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Bardland Paul\|Bardland Paul]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Bardland Vinnie\|Bardland Vinnie]]
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Modo BBEG\|Modo BBEG]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Mondo BBEG\|Mondo BBEG]]
 	- [ ] Voodoo Guy
 	- [ ] Everyone Is Scared Of Him And You Can Hear Rumours A Lot
 	- [ ] Has A Few Henchmen

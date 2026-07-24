@@ -11,7 +11,7 @@
 
 # <center><span style="color:#BDC9BD">Tinfoil Hat</span></center>
 
-
+![Pasted image 20260721013216.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Items/Starfall%20Magic%20Items/Kent%20Experimental%20Gear/Files%20And%20Shit/Pasted%20image%2020260721013216.png)
 
 Advantage On Charisma, Wisdom And Intelligence Saves Against Magical Effects
 

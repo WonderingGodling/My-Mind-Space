@@ -14,7 +14,15 @@
 
 Humble Beginnings And Holy Endings
 
-
+- Gi Fotias Has Magic Trees/Plants
+- Basically Animal Products Grow On Trees There
+- All Animal Product In The Country Come From Trees
+- Like There Are Milk Bushes, Ham Trees Et Cetera
+- One Of The Countries Have The Opposite
+- All Plants Are Looted From Animals
+- The Legend Is That When The World Became What It Is The Plants Became Alive
+- Now Any That Get Taken Over The Boarder Become Tough And Bitter
+- You Go Outside To Pick A Staek And Theres A Fucking Owlbear In Your Tree
 
 ## Named Cities And Towns
 [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Named Towns And Cities/Knuts/Lei\|Lei]] (Capital)

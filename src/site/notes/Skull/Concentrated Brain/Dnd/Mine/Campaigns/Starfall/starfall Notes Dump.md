@@ -74,15 +74,6 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] It Goes Through What Would Be The Underdark So Its Dangerous
 - [ ] All Shop Keepers Are (Spoiler)
 - [ ] Nobody Is More Qualified To Sell Adventuring Gear Than An Ex Adventurer
-- [ ] Gi Fotias Has Magic Trees/Plants
-- [ ] Basically Animal Products Grow On Trees There
-- [ ] All Animal Product In The Country Come From Trees
-- [ ] Like There Are Milk Bushes, Ham Trees Et Cetera
-- [ ] One Of The Countries Have The Opposite
-- [ ] All Plants Are Looted From Animals
-- [ ] The Legend Is That When The World Became What It Is The Plants Became Alive
-- [ ] Now Any That Get Taken Over The Boarder Become Tough And Bitter
-- [ ] You Go Outside To Pick A Staek And Theres A Fucking Owlbear In Your Tree
 - [ ] More Hunting Quests
 - [ ] The Plant Size Is Like Proportional To The Meat Size
 	- [ ] Like Chicken Nuggets (Thats Processed But I Cant Think Of Anything Else That Size) Would Grow Like Carrots But A Chicken Would Grow Like A Coconut And Knock People Out Like A Cartoon
@@ -346,8 +337,29 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Crab Cult High Ranks All Need To Keep Their Own Lobster Alive, Whoever Has The Oldest Lobster Is The Leader
 - [ ] If Your Lobster Is Older Than 64 You Can Start A Church Locale
 - [ ] A Krilling Pool (A Shellfish Tank)
+	- [ ] Being High Rank Requires Undergoing Carcinisation
+	- [ ] Was Only Reached In The Year 880
+	- [ ] Velvet Crab Naga That Just Hangs Around Because They Are Scared Of Not Being Able To Keep A Lobster Alive
+	- [ ] Most Crab Churches Are In The Tide
+		- [ ] Tide Moves One Hexagon Inwards Unless There Is A City In Which Case It Comes Just Up To It Making It A Beachside City
+			- [ ] Unless Something is A Tidal City (A City That Goes Under The Water) Or During Spring Tide (when the gravitational forces of both the Moon and Sun are aligned (at [syzygy](https://en.wikipedia.org/wiki/Syzygy_\(astronomy\) "Syzygy (astronomy)")), reinforcing each other (New Or Full Moon) ) 
+			- [ ] The largest annual tidal range can be expected around the time of the equinox
 - [ ] Possible Party Npc Who Kills People When The Party Isnt Looking
 - [ ] https://dnd5e.wikidot.com/wondrous-items:jesters-mask Hide This Somewhere
+- [ ] The Two Moons Stay Right Overhead, Full, All Week
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/The Deerstalker\|The Deerstalker]]
+- [ ] Young AFAB With Charm Armpits
+	- [ ] Always Has Her Ams Crossed Across Her Chest With her Hands In Her Underarms To Stop The Pheromones From SPilling Out
+	- [ ] If She Lifts Her Arms For Any Reason Everybody On The Map/Scene Has To Roll A DC 20 Constitution Save Or Be Completely Enthralled By Her
+		- [ ] She Will Then Usually Run Off As Fast As She Can
+		- [ ] She Hates It And Is On The Search For A Mage Who Can Change The Nature Of Her Condition
+			- [ ] This Is Not A Curse Of Anything
+			- [ ] It Happened When She Hit Puberty
+			- [ ] her MOther Is A Succubus
+			- [ ] She Is Asexual
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Cult Of Carcinization\|Cult Of Carcinization]]
+- [ ] All Cat NPCs Have Nine Lives
+
 
 
 

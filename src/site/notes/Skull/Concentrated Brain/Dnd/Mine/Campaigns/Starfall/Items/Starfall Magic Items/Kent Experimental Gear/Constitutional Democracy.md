@@ -11,6 +11,8 @@
 
 # <center><span style="color:#A0FF30">Constitutional Democracy</span></center>
 
+![Pasted image 20260721013141.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Items/Starfall%20Magic%20Items/Kent%20Experimental%20Gear/Files%20And%20Shit/Pasted%20image%2020260721013141.png)
+
 AC: 13 + Constitution (Max 3)
 Armour That Gives Advantage On Con Saves
 Upon Failing A Con Save Caused By A Spell Or Attack, The Caster Suffers The Same Effect
