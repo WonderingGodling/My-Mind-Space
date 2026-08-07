@@ -8,12 +8,15 @@
 }
 </style>
 
+# <center><span style="color:#000000">The Church Of Second Chances</span></center>
 
-# <center><span style="color:#FEDCBA"></span></center>
+The Name Of A Group Made Of The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/Second Chances/Church Of Reincarnation\|Church Of Reincarnation]], [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/Second Chances/The Healing Light\|The Healing Light]], [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/Second Chances/Pestilence\|Pestilence]] And [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/Second Chances/The Reaper\|The Reaper]] That Cures People Of Injuries Fatal And Otherwise
 
 
 
-
+- [ ] Life Spells
+	- [ ] Free High Level Spells
+		- [ ] Heal Cantrips And Whatever
 # Beliefs
 ## Church Goal:
 ## Controversial?
@@ -35,16 +38,6 @@
 
 
 # Terminology
-
-
-
-<center><sub>Done :)</sub></center>
-
-
-
-
-
-
 
 
 

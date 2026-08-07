@@ -13,7 +13,7 @@
 
 
 
-
+There Are Powers In This World Which Fall Into No Easily Defined Categories For Example The Reaper (Who Is Mentioned Later). While The Existence Of Gods Is An Objective Fact Their Importance Is Quantified Differently By Individuals, Some Feeling As Though “Just Because There Is A God Of Light Does Not Mean I Have To Be Thankful To Them”. There Are Also Some Gods Who Dislike The Idea Of Reverence And Would Rather Perform Their Duties/Passion In Peace. Being A Non-Worshipping Individual Is Uncommon But Not Rare.
 
 
 

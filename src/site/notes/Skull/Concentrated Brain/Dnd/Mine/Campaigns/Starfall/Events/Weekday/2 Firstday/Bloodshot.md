@@ -10,12 +10,12 @@
 
 
 # <center><span style="color:#FEDCBA">Bloodshot</span></center>
+![Bloodshot.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/2%20Firstday/Files%20And%20Shit/Bloodshot.png)
 
 
-![Pasted image 20260121150230.png](/img/user/images/Pasted%20image%2020260121150230.png)
 <sub>Stolen Image Of A Gun You Stole</sub>
-1d4 Blood Damage
-Range 20/60
+1d6 Blood Damage
+Range 50/200
 Inflicts 1 Bleed
 
 

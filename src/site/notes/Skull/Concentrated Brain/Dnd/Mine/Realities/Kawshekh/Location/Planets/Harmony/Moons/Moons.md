@@ -11,17 +11,23 @@
 
 
 
+There Are Two Moons In Harmony: Ciel And Rouge
+
+When Both Moons Are Out The Sky Is A Consistent Black Colour And The Combined Light That They Emit Is Colourless. Some Creatures Can Only Be Seen When Under This Light. 
+
+Alternatively When Neither Moon Is Out The World Is Plunged Into Magical Darkness, When This Happens Most People Choose To Stay Inside.
 
 Rouge (Clockwise) And Ciel (Anticlockwise) Are Both Full Moons And Overlap On Moon Day
 One Of The Reasons Moon Day Is So Cool
 It Looks Like Daytime And The Moons Are Out!
-## Ciel
+## [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel/Ciel\|Ciel]]
 Clockwise
 
-## Rouge
+## [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge/Rouge\|Rouge]]
 Anticlockwise
 
-
+### Stars
+There Are Many Stars That Can Be Seen In The Night Sky But None That Can Be Seen During The Day, It Is Said That Daylight Is Produced By The Ambient Magic Built Up Over The Night
 
 
 <center><sub>Done :)</sub></center>

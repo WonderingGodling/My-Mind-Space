@@ -42,7 +42,7 @@
 - [ ] Make Someones Icon Scott Pilgrim
 - [ ] Groups Of [[Branches/People\|People]] Anonymously Giving Group S Information
 	- [ ] Letters
-	- [ ] Not [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]]
+	- [ ] Not [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/The Cult Of The Wicked\|The Cult Of The Wicked]]
 	- [ ] If Anything Big Happens They Get A Breif Explanation Of The Previous [[Session\|Session]]
 	- [ ] Works For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma]]'s Boss' Boss
 		- [ ] (Ssnake)
@@ -69,8 +69,6 @@
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Fakeout Heist\|Fakeout Heist]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Lance And Saber\|Lance And Saber]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hivemind\|Hivemind]]
-- [ ] Damage Threshold Enemy
-	- [ ] Needs To Take At Least Number Amount Of Damage For Any Of It To Register
 - [ ] Character Called [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Silvia (Sil). E\|Silvia (Sil). E]]
 - [ ] "The Name's Nick. [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Phoesiander\|Phoenick]]"
 - [ ] Gambler
@@ -80,7 +78,6 @@
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]] Thruple Doorway Has Passphrase To Turn Off Secret Alarm
 	- [ ] "Honeys Im [[Explicitly Showcased/Home Page I Guess/Home Page\|Home Page]]"
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Gods/Avatar Of The Crush\|Avatar Of The Crush]]
-
 - [ ] https://www.dandwiki.com/wiki/Ape_Zombie_(5e_Creature) (Friendsly, Just Livese In Some Village)
 - [ ] Girl With A Whip She Calls Her Niece
 - [ ] Character With Unlimited Telekinesis
@@ -164,6 +161,7 @@
 - [ ] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Apprentice Grease Knight Sheets\|Apprentice Grease Knight Sheets]]
 - [ ] https://www.dandwiki.com/wiki/Dreadnaught_(5e_Class)
 - [ ] Give [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/High Grease Knights Stat Sheet\|High Grease Knights Stat Sheet]] This Unbuffed, Others Are Paladins But All Fight The Same
+- [ ] Villian Name: Antonio "The-Lonely-Oh" Baldonio Leader Of Malvolio (Gang Of Townkolio)
 
 
 

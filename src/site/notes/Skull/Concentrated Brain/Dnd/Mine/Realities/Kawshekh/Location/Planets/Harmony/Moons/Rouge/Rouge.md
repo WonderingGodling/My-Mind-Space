@@ -13,7 +13,7 @@
 
 
 
-
+The Twin Sister Moon Emits A Red Light At Night That Is Commonly Associated With Courage Or Espionage. It Is Said That She Is Gone Some Nights Because She Is On The Hunt For Distant Light To Devour.
 
 
 

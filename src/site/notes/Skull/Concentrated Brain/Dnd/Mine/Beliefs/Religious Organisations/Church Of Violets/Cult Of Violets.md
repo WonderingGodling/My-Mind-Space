@@ -10,7 +10,9 @@
 (Controversial) 
 
 
+They Believe In A God Who Causes Misery And Focus On Making The World Better Through Their Own Means
 
+If It Can Be Called A Church Is Up For Debate
 
 	
 # Beliefs

@@ -14,7 +14,12 @@
 
 From/Famous In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Phrygia/Phygria\|Phygria]]
 
-
+Grew Up As A Gifted Kid, Breezed Through Schooling Until They Were Old EnoughTo Drop Out
+Mom And Dad She Loved
+	They Got Cursed By A Sickness That They Couldnt Find  A Cure For
+To Cure The Sickness Mia Went On A Quest, Meeting Powerful Politicians, Educational Enchanters, And Faithful Follwers
+All In Vain As While Mia Is Away The Ilnness Takes Her Parents
+It Was At The End Of This Quest, Which She Considers Her Greatest Failure, That Mia Learns Necromancy And Uses it To Bring The Lost Back From The Dead Starting With Her Parent
 
 
 

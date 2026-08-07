@@ -55,7 +55,7 @@
 | ------ | ------ | ------ |
 |        |        |        |
 
-### [[Pacseholders's Spells\|Pacseholders's Spells]]
+### Spells
 
 | Constitution |     |     |
 | ------------ | --- | --- |

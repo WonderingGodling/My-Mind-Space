@@ -39,7 +39,17 @@ Calm/Patient, Just/Fair, Reasonable/Understanding, Faithful/Determined, Hopeful/
 - Needs Help Getting Back On Her Feet
 - Starts Off With No Minions, No Means Of Attack or Defence, No Way To MOve
 	- Burried Halfway Into The Ground, Just Above Her Navel. Right Arm Trapped Into The Gr9ound But Left Arm Free
-
+-  Custom "Lich" Race And Class
+	- Try To Combine Blood And Necro
+- Does Not Eat But Gets A +7 To Cooking Rolls
+- Hums Music To Herself
+- Has The Visage Of Her Original Self Which Shatters And Crumbles When She Is Touched
+- Lawful Good
+- Slowly Gains Normal Looking minions Who Populate The Area And Spread Out To Do Her Bidding
+	- Whenerver Physiocal Contact Is Made With Them They Look Like Various Undead
+- Has No Real Weakness But Only Gets Stronger With Player Influence
+	- Gains Structures And Abilities
+- 
 
 Only "Surviving" Subordinate https://www.dandwiki.com/wiki/Archlich_(5e_Creature)
 

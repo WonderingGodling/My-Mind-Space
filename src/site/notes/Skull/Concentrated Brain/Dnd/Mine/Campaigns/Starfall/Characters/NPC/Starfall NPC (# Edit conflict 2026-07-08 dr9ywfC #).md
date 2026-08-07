@@ -42,7 +42,7 @@
 - [ ] Make Someones Icon Scott Pilgrim
 - [ ] Groups Of [[Branches/People\|People]] Anonymously Giving Group S Information
 	- [ ] Letters
-	- [ ] Not [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]]
+	- [ ] Not [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/The Cult Of The Wicked\|The Cult Of The Wicked]]
 	- [ ] If Anything Big Happens They Get A Breif Explanation Of The Previous [[Session\|Session]]
 	- [ ] Works For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma]]'s Boss' Boss
 		- [ ] (Ssnake)

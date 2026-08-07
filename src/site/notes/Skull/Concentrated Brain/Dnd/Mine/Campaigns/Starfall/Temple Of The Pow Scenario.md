@@ -13,16 +13,21 @@
 
 
 
-	- [ ] Settlement SIzed
-	- [ ] [02:58, 24/06/2026] Dimitri: Three Equidistant Obsidian Spires You Can Climb Complete With Courage, Wisdom And Strength Tests Respectively 
-	- [ ] The Centre Is A Boxing-Ring-Wide Scaled Sacrificial Alter With Climbing Holds Indented Into It
-	- [ ] Jumping Is A Safe Way Down (Having The Courage To Fall Is Equal To Having The Strength To Climb Down)
-	- [ ] [03:05, 24/06/2026] Dimitri: This Is in The Middle Of A Field With Greyed Grass That Looks Red Under Rogue, Gold Under Ciel, And Translucent Under Both
-	- [ ] This Is Just A Thing Here And It Represents Being Able To Shine When Youre Needed And Step Down When Youre Not
-	- [ ] Mental Strenght Test Dungeon
-		- [ ] Makes You Lose A Lot And See If You Can Still Get To The End
-			- [ ] If You Die You Get SEnt Back To The Begining
+- Settlement SIzed
+- Three Equidistant Obsidian Spires You Can Climb Complete With Courage, Wisdom And Strength Tests Respectively 
+	- The Centre Is A Boxing-Ring-Wide Scaled Sacrificial Alter With Climbing Holds Indented Into It
+		- Jumping Is A Safe Way Down (Having The Courage To Fall Is Equal To Having The Strength To Climb Down)
+- This Is in The Middle Of A Field With Greyed Grass That Looks Red Under Rogue, Gold Under Ciel, And Translucent Under Both
+	- This Is Just A Thing Here And It Represents Being Able To Shine When Youre Needed And Step Down When Youre Not
+- Mental Strength Test Dungeon
+	- Makes You Lose A Lot And See If You Can Still Get To The End
+	- If You Die You Get SEnt Back To The Begining
 
+- Physical
+	- Damage Threshold Enemy
+		- Needs To Take At Least Number Amount Of Damage For Any Of It To Register
+		- Sob Story Character
+		- If You Die You Get SEnt Back To The Begining
 
 
 

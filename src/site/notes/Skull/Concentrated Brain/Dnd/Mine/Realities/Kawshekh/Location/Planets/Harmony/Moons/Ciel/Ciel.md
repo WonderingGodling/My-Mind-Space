@@ -14,7 +14,7 @@
 
 
 
-
+Sometimes Known As The Blue Moon Or The Boy One, Ciel Emits A Blue Light At Night That Is A Sign Of Good Fortune In Pop Culture Despite Some Versions Of His Birth-Legend Implying His Birth Is What Killed His Mother.
 
 
 

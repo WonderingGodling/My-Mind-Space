@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Capital Building Experimental Armoury","permalink":"/Capital Building Experimental Armoury/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"","dg-note-properties":{"Type":null,"up":null,"down:":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"dg-publish":true,"dg-permalink":"Capital Building Experimental Armoury","permalink":"/Capital Building Experimental Armoury/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Dolad/Named Towns And Cities/Kent\|Kent]]"],"down:":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
@@ -18,14 +18,14 @@
 
 
 
-
+In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Dolad/Named Towns And Cities/Kent\|Kent]]
 
 
 
 
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/King Freud (Crazy King)\|King Freud (Crazy King)]] Kept In Cell Under Along With Other Failed Experiments
 	- Experiments Carried Out In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Lytescomia/Boston\|Boston, Naga]]
-	- Others Get Levels In Classe That Correspond To Armoury And https://www.dandwiki.com/wiki/Blood_Ravager_(5e_Class)
+	- Others Get Levels In Classes That Correspond To Armoury And https://www.dandwiki.com/wiki/Blood_Ravager_(5e_Class)
 	- Restoring King Statue Part Of Puzzle To Free Him
 - Under [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Dolad/Krypton Capital Building\|Krypton Capital Building]]
 - Failed Experiments

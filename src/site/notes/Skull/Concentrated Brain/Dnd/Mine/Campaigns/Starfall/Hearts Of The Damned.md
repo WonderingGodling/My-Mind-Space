@@ -8,17 +8,32 @@
 }
 </style>
 
+# <center><span style="color:#000000"></span></center>
 
-# <center><span style="color:#FEDCBA"></span></center>
-
-
-
+People Who Have Been Forgotten Or Doomed Collect Under This Church To Support Each Other And Solve Grand Issues
 
 
+# Beliefs
+## Church Goal:
+## Controversial?
+
+# The Taboos Of 
+
+# The Social Organisation And Initiations Of 
+
+# Places Of Worship In 
+
+# Rituals In 
+
+# Prayers
+
+# Sacrifices In 
+# Imagery  Related To 
+
+# Monuments In 
 
 
-
-
+# Terminology
 
 
 

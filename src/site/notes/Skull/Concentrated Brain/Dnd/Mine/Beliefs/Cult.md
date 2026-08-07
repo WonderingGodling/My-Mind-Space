@@ -8,7 +8,9 @@
 # <center><span style="color:#000000">Cult</span></center>
 
 
-Aspiring Church
+A Religion That Falsely Claims To Have A God Or Is Openly On Its Way To Gaining One
+
+The Impact That Cults Have On Their Surrounding Cultures Only Matches A Fraction Of The Influence Similar Sized Churches Have. Cults, Though Socially Accepted, Are Often Seen As Fringe And Unofficial, This Sentiment Reflects Onto Its Members.
 
 
 

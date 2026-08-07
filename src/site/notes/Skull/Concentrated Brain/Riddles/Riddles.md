@@ -12,7 +12,8 @@
 Forwards Im Like Buffalo, Backwards Im Like B U F A L And O
 Yak
 
-
+RIddle: There Are Two Children, A River, And A Boat. The Boat Is Only Big Enough For One Child And Will get Destryoed Crossing The River Without A Captain Yet Both Got Across
+They Were On Opposite Sides
 
 
 

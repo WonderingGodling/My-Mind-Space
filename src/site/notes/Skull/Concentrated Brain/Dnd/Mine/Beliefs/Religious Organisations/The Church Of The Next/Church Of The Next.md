@@ -7,7 +7,7 @@
 
 # <center><span style="color:AC00AC">The Church Of The Next</span></center>
 
-
+A Following Of The Goddess That Guides Souls To The Afterlife
 
 
 # Beliefs

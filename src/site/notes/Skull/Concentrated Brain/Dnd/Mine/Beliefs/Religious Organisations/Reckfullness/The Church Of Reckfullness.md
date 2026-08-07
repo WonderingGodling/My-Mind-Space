@@ -10,7 +10,7 @@
 
 # <center><span style="color:#832224">The Church Of Reckfullness</span></center>
 
-
+A Collective Dedicated To Thinking Through Mistakes Before They Are Made
 
 
 # Beliefs

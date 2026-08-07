@@ -11,7 +11,7 @@
 # <center><span style="color:#Bc4042">The Pow Scenario</span></center>
 
 
-
+The Believers Of A God Which Grants Power To Those Who Need It Most
 
 ## Beliefs
 The Name For The Followers Of The God Of Power And Piety (Powder)

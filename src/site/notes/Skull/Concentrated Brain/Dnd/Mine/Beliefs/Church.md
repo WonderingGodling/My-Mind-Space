@@ -14,7 +14,7 @@
 
 
 
-
+A Religion That Has Either An Active God Or The Avatar (Mortal Vessel) Of A God Acting On Their Behalf
 
 
 

@@ -10,7 +10,7 @@
 
 # <center><span style="color:#323456"> </span></center>
 
-
+![Mondo Doll.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Files%20And%20Shit/Mondo%20Doll.png)![Mondo Real Token.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Files%20And%20Shit/Mondo%20Real%20Token.png)![Mondo Real.jpg](/img/user/images/Dnd/Character%20Tokens/NPCs/Idk/Mondo%20Real.jpg)
 
 
 ## General
@@ -89,4 +89,20 @@ Cocky Powerful Dismissive
 	- Harmony Is Too Reliant On Them And Evil Just Cant Be Committed
 		- The Long Arm Of Justice Must Swing Both Ways To Provide Progress
 			- There Is No Yin Without Yang
-			- Protect People From Complacency And Inspire More People To Do Good
+			- Hope Without Fear
+			- No Love Without Hate 
+			- The Do-Gooders Are Offsetting The Balance
+				- Protect People From Complacency And Inspire More People To Do Good
+- Wants To Be In the Spotlight So That Everyone Knows There Are Still Things To Be Scared Of
+- Hates Tari As He Is the Biggest Symbol Of Hope
+- Has Voodoo Magic That He Uses To Mind Control People And Enhance Those Around Him
+	- Has A Large Number Of Volunteer FOllowers
+		- Some Love Him Some fear Him But All Are Loyal to HIm
+		- Gives Them All Devil Sight
+	- Eats Gelato Constantly In Both BOdies And Has A Smoke Cloud At His feet
+
+![Traditional-Italian-Gelato-featured-1900793946.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Files%20And%20Shit/Traditional-Italian-Gelato-featured-1900793946.png)
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Generous Gelato Goblet\|Generous Gelato Goblet]] (There Are two)
+Ice Cream: Fotian Sweet Potato, He Can Taste The Struggle
+Leaf: Fairy Mint, He Doesnt Know He Never Eats It
+Sometimes Adds Blood Syrup

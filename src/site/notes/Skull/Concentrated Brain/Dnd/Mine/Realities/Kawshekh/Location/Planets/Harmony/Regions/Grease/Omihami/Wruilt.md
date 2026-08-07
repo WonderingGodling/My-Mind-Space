@@ -1,11 +1,86 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/grease/omihami/wruilt/","tags":["Tagless"],"noteIcon":"","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/grease/omihami/wruilt/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
+Known For And/Or Slogan
+Location: (Country And Number)
 
 
-# <center><span style="color:#000000"></span></center>
+## Named Cities And Towns
+## Map
+### Battle
+### Travel
+
+## Roads
+
+## Extra
+
+### description & Details
+#### Stuff You Can Find
+- Thing
+
+### Races, Social Classes And Spread
+#### Population
+
+#### Languages
+### Government
+### Legal System
+
+### Differences Between Day And Night
+
+### Nature
+#### Landscape & Climate
+#### Animals And Plants
+
+### Public Transport
+### Education
+### Pass-Times And Entertainment
+#### Theatre
+#### Festivals
+
+### Architecture
+
+### Goods
+#### Foods
+##### Eating Utensils
+#### Imports:
+#### Exports:
+
+### Social
+#### Fashion:
+##### Popular Colours
+#### Hierarchies
+#### Families
+##### Average Structure
+#### Gender Roles And Weighting
+
+#### Gestures Of (Dis)Respect
+
+### Econ
+#### Quality And Quantity Of:
+##### Resturants
+#### Street Vendors
+#### Shops
+#### Traditions
+##### Wedding
+##### Funeral
+##### Celebrations
+###### Celebration Foods
+
+### Main Religions And Churches
+
+### Magic
+
+#### Popular Focuses
+#### Popular Magic Classes
+#### Popular Magic Topics
+
+
+
+
+
+
+
 
 
 
@@ -21,6 +96,13 @@
 
 - [ ]  [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Tari\|Tari]] (Old Hero) Goes [[Skull/Spam/Crazy\|Crazy]] After 5 Loops
 
-
-
-<center><sub>Done :)</sub></center>
+## Festival
+- [ ] Mini Festival In Grease
+- [ ] Historical
+- [ ] God Of [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/Pow Scenario/The Pow Scenario\|The Pow Scenario]] (Powder) Will Be At The Temple 
+- [ ] Design The Temple
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Temple Of The Pow Scenario\|Temple Of The Pow Scenario]]
+- [ ] Pow Scenario Festival is On The First Full Moon After The Cynthiun Solstice But It Has Been A Full Moon Every Night
+	- [ ] They Are Still Holding It When It Was Scheduled
+- [ ] Im Just Telling Yall This Now Because I Know Some People Are Stupid Dont Touch The Poleaxe
+- [ ] Tari Uncomfortably Sitting On This Big Throne With Powder Next to Him Floating (About A Foot In Size And Three Feet Off The Ground), His Legs Crossed And Hands In His Lap
