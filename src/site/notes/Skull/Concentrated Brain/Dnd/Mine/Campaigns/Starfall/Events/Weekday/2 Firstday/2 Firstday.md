@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/2-firstday/2-firstday/","tags":["Tagless"],"dgShowToc":true,"dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/2-firstday/2-firstday/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 # Firstday
 ## Global
 - Royal Disputes
 	- Prince 
-- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Zealianne\|Zealianne]] Cursed Dies On The Morn Unless Given Dragons Tears (Quest Item)
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Zealianne\|Zealianne]] Cursed Dies On The Morn Unless Given [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/2 Firstday/Dragons Tears\|Dragons Tears]] (Quest Item)
 Wherever Bee Is [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/2 Firstday/Master Bane\|Master Bane]] Kills Her
 	This Happens The Scene After She Sources Another Body Or At The End Of The Session If No Body Has Been Sourced 
 - Pouch Of Holding Sale 9 Gold
@@ -18,7 +18,7 @@ Wherever Bee Is [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/We
 ### [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Roque\|Roque]]
 
 
-### Lite'N Inn
+### [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Omihami/Sawakasato\|Sawakasato]]
 -   Midius Gets A Wish, Liquid Gold Fountain
 
 ### Omai

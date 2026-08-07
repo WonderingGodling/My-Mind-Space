@@ -384,7 +384,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addFilter("stripForSearch", function(content) {
     return content
-      .replace(/[<>]/g, '')
+      .replace(/<[^>]*>/g, '')
       .replace(/\s+/g, ' ')
       .trim();
   });
@@ -753,6 +753,10 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addFilter("jsonify", function(variable) {
     return JSON.stringify(variable) || '""';
+  });
+
+  eleventyConfig.addFilter("notHidden", function (arr) {
+    return (arr || []).filter((item) => !item.data.hide);
   });
 
   eleventyConfig.addFilter("validJson", function(variable) {

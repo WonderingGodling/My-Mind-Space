@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Constant Comment","permalink":"/Constant Comment/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true,"dg-note-properties":{"Type:":"Brain Dump","down:":null,"Yesterday:":null,"Tomorrow:":null,"title":"Constant Comment","comments":true,"tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"aliases":["Constant Commment","Mega Note","I Dont Know What Im Saying"],"up":"[[Random Thoughts]]","Type":null,"down":null,"Yesterday":null,"Tomorrow":null,"Next":null,"Previous":null}}
+{"dg-publish":true,"dg-permalink":"Constant Comment","permalink":"/Constant Comment/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true,"noteIcon":"","dg-note-properties":{"Type:":"Brain Dump","down:":null,"Yesterday:":null,"Tomorrow:":null,"title":"Constant Comment","comments":true,"tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"aliases":["Constant Commment","Mega Note","I Dont Know What Im Saying"],"up":"[[Random Thoughts]]","Type":null,"down":null,"Yesterday":null,"Tomorrow":null,"Next":null,"Previous":null}}
 ---
 
 
@@ -1357,6 +1357,37 @@ The largest violin is _4.27 m (14 ft) long_, has a maximum width of 1.4 m (4.5 f
 
 ![Pasted image 20260603000237.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260603000237.png)
 Danez Smith
+
+![Pasted image 20260720224146.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260720224146.png)
+![Pasted image 20260720224213.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260720224213.png)
+![Pasted image 20260720224220.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260720224220.png)
+
+
+![Pasted image 20260722170628.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260722170628.png)
+
+I Love This Dumb Show
+"Cant Get Rid Of Ted Pelikennedy..."
+"But He Killed That Girl!"
+"Yeah, Exactly"
+HRR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <center><sub>Done For Now \^w^ </sub></center>
 

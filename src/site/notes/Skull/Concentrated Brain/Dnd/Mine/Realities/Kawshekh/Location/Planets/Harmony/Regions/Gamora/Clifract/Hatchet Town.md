@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/gamora/clifract/hatchet-town/","tags":["Tagless"],"dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/gamora/clifract/hatchet-town/","tags":["Beachside"],"noteIcon":"","dg-note-properties":{"Type":null,"up":["[[Clifract]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Beachside"]}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -69,7 +69,7 @@ Can Notice [[Branches/People\|People]] Keep Flooding In To A Specific Building (
 - Opening Speech
 	- "Thank You All For Coming Tonight! [Pauses For Applause] Yes, Yes We've All Waited So Very Long For This Momentous Occasion And Im Sure All Of You Would Love To Get Straight Out There And Do Your Thing. (Ive Heard That Some Of You Already Have). But We Do Unfortunately Have Rules That We Need To Follow So If It Shimmers With All In Attendance Lets Get To The Itinerary...."
 		- "Faith"
-	- "Lets See....The Town Has Been Secured The East Wing Has Been Checked For Goblins And Is Clear. Parlence Has Been Spread. Reminder That If You See The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]] You Are To Avoid Them. This Should Be Common Knowledge But [[Branches/People\|People]] Keep Asking [[Explicitly Showcased/Me/Me\|Me]] Where They Fit Into The Plan. We Are On....What Are We On"
+	- "Lets See....The Town Has Been Secured The East Wing Has Been Checked For Goblins And Is Clear. Parlence Has Been Spread. Reminder That If You See The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/The Cult Of The Wicked\|The Cult Of The Wicked]] You Are To Avoid Them. This Should Be Common Knowledge But [[Branches/People\|People]] Keep Asking [[Explicitly Showcased/Me/Me\|Me]] Where They Fit Into The Plan. We Are On....What Are We On"
 		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor\|Advisor]] Hold Up Right Amount Of Fingers
 	- "We Are On [Number] Which So Far Means [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]" [Improv From Here, Say It Mopstly Seems Like Admin Stuff And Ask If The Group Wants To Stay To Till The End]
 - "Throwing To The Floor Real Quick" And Someone From The Congregation Shouts Out
@@ -105,7 +105,7 @@ No Goblins Have Been Tamed
 
 
 ### Olde Inn
-[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Aris\|Aris]] Finds A Building (The Local Inn) With A Person (Trill) Looking After His Dads Place
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Aris]] Finds A Building (The Local Inn) With A Person (Trill) Looking After His Dads Place
 	Has Potions, Has Bread
 	Lets Her Into The Tavern
 Old Inn (The Local Tavern) Has A Young Man Called Trill

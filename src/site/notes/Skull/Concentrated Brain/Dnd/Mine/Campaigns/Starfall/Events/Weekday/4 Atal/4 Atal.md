@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/4-atal/4-atal/","tags":["Tagless"],"dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/4-atal/4-atal/","tags":["Tagless"],"noteIcon":"","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 # Atal
@@ -13,7 +13,7 @@
 If With [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/4 Atal/Panda\|Panda]] They Will Try To Force You To Go To The War And Will Also Try To Convince You To Kill All Of The Monsters!
 	By Joining The Battle [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/4 Atal/Panda\|Panda]] Will Level Up From 5 To 7
 	If All Of The Monsters Are Killed [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/4 Atal/Panda\|Panda]] Gets The Ability To Remember And Grow And Can Be Found Soloing The Events If 
-### Monster War In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Aviresh/Phigdilk\|Phigdilk]]
+### Monster War In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Aviresh/Phigdilk\|Phigdilk]]
 
 - Goblin Army
 	- Green Goblin Lvl 10 + ½ Highest PC

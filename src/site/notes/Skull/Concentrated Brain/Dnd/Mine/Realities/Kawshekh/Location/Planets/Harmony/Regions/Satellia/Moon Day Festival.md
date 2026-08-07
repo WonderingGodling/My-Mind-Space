@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/satellia/moon-day-festival/","tags":["Tagless"],"dgShowToc":true,"dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/satellia/moon-day-festival/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
@@ -15,7 +15,7 @@ Home Of The Moon Festival
 Average Town, Nothing Big
 High Amount Of Celestian Visitors
 
-## [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Moon Day Festival\|Moon Day Festival]]
+## Moon Day Festival
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Starfall Legend/The Stars' Legacy\|The Stars' Legacy]]
 Start Them In The Line
 Take Their Weapons For The Festival
@@ -31,7 +31,7 @@ Take Their Weapons For The Festival
 
 - Three Floating Rocks
 	- Lei, A Cold-Seeming White Orb Of Plagioclase Hovers Still A Lesh Off The Ground
-	- Below It Are Replicas Of [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel\|Ciel]] And [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge\|Rouge]] Moving Around In Circles  
+	- Below It Are Replicas Of [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel/Ciel\|Ciel]] And [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge/Rouge\|Rouge]] Moving Around In Circles  
 		- Giving These Rocks All Your Spell Slots Gives You An Extra Use Of An Ability (Until You Nex Use It)
 #### Optional Combat Arena
 #### Music 
@@ -42,7 +42,7 @@ Take Their Weapons For The Festival
 - After The First Loop The Music Is Managed By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Clarent\|Clarent]]
 #### Replacement
 Announced By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hunter\|Hunter]] Because Who Knows Where [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Lancelot\|Lancelot]] Is
-- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/The Queen\|The Queen]] Couldn't Make It So They're Doing A Talent Show Instead Of An Announcement
+- [[images/Dnd/Character Tokens/NPCs/The Queen Of Gi Fotias\|The Queen Of Gi Fotias]] Couldn't Make It So They're Doing A Talent Show Instead Of An Announcement
 	- Show Of Strength
 		- Winner To Beat: A Tired Wizard Casts A Level 3 Fireball And Looks Around Like "Did I Do It Right?"
 		- Reward: [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Spider Bomb\|Spider Bomb]]
@@ -66,7 +66,7 @@ Announced By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hunter\|Hunt
         - Piscologists
         - Moon/Nature Worshipers
         - Violets
-- Depictions Of [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge\|Rouge]] And [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel\|Ciel]] wreaking havok
+- Depictions Of [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge/Rouge\|Rouge]] And [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel/Ciel\|Ciel]] wreaking havok
 	- One Painting Is Of Two Unruly Children. One Child Dressed In Blue With Blue Hair, Chasing A Child That Looks The Same But Red. As You Look Deeper You See Blue Has Claws, Red Is Destroying The Ground They Walk On, The Dark Sky Is Full Of Stars But No Moon.
 - Guy Painting For The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Church Of The Next/Church Of The Next\|Church Of The Next]]
 	- A Soul On [[Skull/Spam/Fire\|Fire]] Being Sucked Into A Tube
@@ -229,11 +229,11 @@ Honour System
 - [ ] Whats' Names
 - [ ] Picture Frames
 - [ ] Leather Goods
-- [ ] (At A Push) Trevor Francis Tracksuits From A Mush In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Shepards Bush\|Shepards Bush]]
+- [ ] (At A Push) Trevor Francis Tracksuits From A Mush In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Shepards Bush\|Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Shepards Bush]]
 
 ###### Misc
-Without Influence [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Qutes\|Qutes]] Makes 350 Silver Max (Check Her Pricing)
-Without Influence [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/PC/Group 1/Sera\|Sera]] Makes 7 Gold Max (Check Her Pricing)
+Without Influence [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Group 1/Qutes\|Qutes]] Makes 350 Silver Max (Check Her Pricing)
+Without Influence [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Group 1/Sera\|Sera]] Makes 7 Gold Max (Check Her Pricing)
 	Eating Seras Food Will Give Temporary +3 To Wisdom The First Time Its Eaten
 
 

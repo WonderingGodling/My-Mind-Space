@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/general-worldbuilding/","tags":["Tagless"],"dgShowToc":true,"dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/general-worldbuilding/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
@@ -11,13 +11,26 @@
 
 # <center><span style="color:#FEDCBA"></span></center>
 
+## Magic
+Magic In Harmony Is Quite Ubiquitous. There Are Collage Classes That Teach It, Sorcerers Who Are Born With It, And A World-Specific Type Of Magic Known As Wrighth. Technology On The Other Hand Is Considered To Have Reached Its Peak; People From More Technologically Advanced WorldsAnd Scholars From This One Have Called The Magitech Invention Of Radio “The End Of Clockwork” In Reference To How Newer Creations Lack Internals
 
+## Adventuring Classes
+
+The Concept Of Adventuring/Questing/Monster Slaying/What Have You Has Been Around Since The Revival Era And Popular Since Starfall (Even Though The Uptake Of These Jobs Has Decreased) So Common Class Terms Such As “Fighter” And “Cleric” Are Avoided In Other Contexts
+
+  
+
+### Growth Potential
+
+Classes Are Admired For Their Resilience.  Clerics Who Devote Themselves More, And Bards Who Inspire The Most Are On Average More Equipped For Confrontation. Even Outside Of The Adventuring World There Are Many People With Classes Who Demonstrate The Increased Strength That Increases Along With Their Prowess.
+
+## Misc
 - [ ] Reverse Ice ([[Skull/Spam/Fire\|Fire]] Cubes)
 - [ ] Wright Doesnt Reset Ever
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Banks Of Harmony\|Banks Of Harmony]]
 - [ ] Payment Receptacles That Have A Magic Green Fill Line
 - [ ] Some "Monsters" Can Be Born With ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/KAijin\|KAijin]]) Or Gain Sentience
-- [ ] Blood Weapon Does Not Dissappear On [[Rest\|Rest]] If Made With Celestial Vial
+- [ ] Blood Weapon Does Not Disappear On [[Rest\|Rest]] If Made With Celestial Vial
 - [ ] Hospitals Do Not Exist
 	- [ ] Regular Infections Are Consumed By The Avatar Of Pestilence And Any [[Uni/1/4BM017 Biomedical Basis of Disease/Disease\|Disease]] That Cannot Be Treated By Their Presence Would Be Too Much For A Hospital
 	- [ ] Doctors And Nurses Do Still Exist But They Do House Calls
@@ -35,5 +48,19 @@
 - [ ] The First God To Return Is Said To Have Never Left But Instead Took A Step Back To Precent The World From Fracturing
 - [ ] Sirens Are The Defacto [[Branches/Gods\|Gods]] of the Sea
 - [ ] "The First God" Appointed A Bunch Of [[Branches/People\|People]] Who Became The Original Seeds For The Different Nations
+- [ ] University: East Phygrian School Of Historical Interventions
+- [ ] Main Bases In Gi Gotias (Counsil Originally Moved Because There Was A Long Travel Time For Most But Now That There Are Portals The Main Campus Is Still There But The Meetings Happen in Phygria)
+- [ ] Specialises In Rewriting Mytholigies To Match What We Know Historically
+- [ ] Unoversity: Fotia
+- [ ] The Chain Name For All Gi Fotias Organised Schools
+- [ ] Specialise In "Old Stuff" (History, Archeology, Mythology)
+- [ ] Combat A, B & C
+- [ ] The Greasian, Hollywoodan, And Nemo Combat Institutes
+- [ ] Naga And Gamora Are The Leads In Biomagics And Both Have Their Own Institutions
+- [ ] Same With Branson And Nemo's Sea Schools
+- [ ] Branson Is More Famous For Aquaculture, Nemo Is More Famous For Nautics
+
+
+
 
 <center><sub>Done :)</sub></center>
