@@ -10,7 +10,7 @@
 
 
 # <center><span style="color:#DB7999">Mias Legacy</span></center>
-
+![Pasted image 20260807202058.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Files%20And%20Shit/Pasted%20image%2020260807202058.png)
 
 From/Famous In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Phrygia/Phygria\|Phygria]]
 
