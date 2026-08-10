@@ -95,7 +95,9 @@
 
     function getContextualExcerpt(content, terms, maxLength = 150) {
         if (!content) return '';
-        const plainText = content.replace(/<[^>]*>/g, '');
+        const textContainer = document.createElement('div');
+        textContainer.textContent = content;
+        const plainText = textContainer.textContent || textContainer.innerText || '';
 
         if (!terms || terms.length === 0) {
             return truncateText(plainText, maxLength);
