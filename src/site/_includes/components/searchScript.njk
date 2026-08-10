@@ -69,6 +69,13 @@
 
     // ===== Highlighting Utilities =====
 
+    function stripHtmlToText(input) {
+        if (!input) return '';
+        const container = document.createElement('div');
+        container.innerHTML = input;
+        return container.textContent || container.innerText || '';
+    }
+
     function tokenizeSearchTerms(query) {
         const terms = [];
         const regex = /"([^"]+)"|(\S+)/g;
@@ -95,9 +102,7 @@
 
     function getContextualExcerpt(content, terms, maxLength = 150) {
         if (!content) return '';
-        const textContainer = document.createElement('div');
-        textContainer.textContent = content;
-        const plainText = textContainer.textContent || textContainer.innerText || '';
+        const plainText = stripHtmlToText(content);
 
         if (!terms || terms.length === 0) {
             return truncateText(plainText, maxLength);
@@ -128,7 +133,7 @@
 
     function truncateText(str, size) {
         if (!str) return '';
-        str = str.replace(/<[^>]*>/g, '');
+        str = stripHtmlToText(str);
         if (str.length <= size) return str;
         return str.substring(0, size - 3) + '...';
     }

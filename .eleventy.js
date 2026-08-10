@@ -450,6 +450,15 @@ module.exports = function(eleventyConfig) {
 
   // Shared helper to transform callout blockquotes - used by both callout-block transform and canvas-markdown
   const calloutMeta = /\[!([\w-]*)\|?(\s?.*)\](\+|\-){0,1}(\s?.*)/;
+  function escapeHtml(str) {
+    return String(str)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#39;");
+  }
+
   function transformCalloutBlockquotes(blockquotes) {
     for (const blockquote of blockquotes) {
       // Process nested blockquotes first
@@ -471,11 +480,12 @@ module.exports = function(eleventyConfig) {
         function(metaInfoMatch, callout, metaData, collapse, title) {
           isCollapsable = Boolean(collapse);
           isCollapsed = collapse === "-";
-          const titleText = title.replace(/(<\/{0,1}\w+>)/, "")
+          const rawTitleText = title
             ? title
             : `${callout.charAt(0).toUpperCase()}${callout
               .substring(1)
               .toLowerCase()}`;
+          const titleText = escapeHtml(rawTitleText);
           const fold = isCollapsable
             ? `<div class="callout-fold"><i icon-name="chevron-down"></i></div>`
             : ``;
