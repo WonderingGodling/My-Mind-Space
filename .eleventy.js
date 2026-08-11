@@ -26,12 +26,6 @@ const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier-terser");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
-const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
-const {
-  userMarkdownSetup,
-  userEleventySetup,
-} = require("./src/helpers/userSetup");
-const { basesPlugin } = require("./src/helpers/basesPlugin");
 
 const Image = require("@11ty/eleventy-img");
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
