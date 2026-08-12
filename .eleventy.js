@@ -67,7 +67,7 @@ breaks: true,
 html: true,
  moduleexports = function(eleventyConfig) {
 closeMarker: "```",
-.use(namedHeadingsFilter)
+use(namedHeadingsFilter)
     .use(basesPlugin)
 .use(function(md) {
 //https://github.com/DCsunset/markdown-it-mermaid-plugin
