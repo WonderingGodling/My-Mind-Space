@@ -65,7 +65,7 @@ dynamicPartials: true,
 let markdownLib = markdownIt({
 breaks: true,
 html: true,
- module.exports = function(eleventyConfig) {
+ moduleexports = function(eleventyConfig) {
 closeMarker: "```",
 })
 .use(namedHeadingsFilter)
