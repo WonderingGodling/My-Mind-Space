@@ -101,7 +101,7 @@ const code = token.content.trim();
 const parts = code.split("\n")
  module.exports = function(eleventyConfig) {
 ;
-});
+};
 
   eleventyConfig.addFilter("stripForSearch", function(content) {
     return content
