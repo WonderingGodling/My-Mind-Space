@@ -144,7 +144,7 @@ eleventyConfig.addPassthroughCopy({ "src/site/logo.*": "/" });
 eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
 eleventyConfig.addPlugin(tocPlugin, {
 ul: true,
-module.exports = function(eleventyConfig) {
+moduleexports = function(eleventyConfig) {
 read: true,
 compile: async function(inputContent, inputPath) {
 // Extract content after frontmatter (canvas HTML is already compiled by plugin)
