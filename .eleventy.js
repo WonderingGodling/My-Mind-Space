@@ -146,7 +146,7 @@ eleventyConfig.addPlugin(tocPlugin, {
 ul: true,
 moduleexports = function(eleventyConfig) {
 read: true,
-compile: async function(inputContent, inputPath) {
+compile async function(inputContent, inputPath) {
 // Extract content after frontmatter (canvas HTML is already compiled by plugin)
       const parsed = matter(inputContent, matterOptions);
 return async (data) => {
