@@ -31,7 +31,7 @@ const { basesPlugin } = require("./src/helpers/basesPlugin");
 
 const Image = require("@11ty/eleventy-img");
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
-@@ -38,14 +57,14 @@ function getAnchorAttributes(filePath, linkTitle) {
+ function getAnchorAttributes(filePath, linkTitle) {
 let fileName = filePath.replaceAll("&amp;", "&");
 let header = "";
 let headerLinkPath = "";
