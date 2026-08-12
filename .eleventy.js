@@ -45,11 +45,10 @@ headerLinkPath = `#${headerToId(header)}`;
 let noteIcon = process.env.NOTE_ICON_DEFAULT;
 const title = linkTitle ? linkTitle : fileName;
   let permalink = `/notes/${slugify(filePath)}`;
-  let permalink = `/notes/${slugify(fileName)}`;
 let deadLink = false;
 try {
 const startPath = "./src/site/notes/";
-@@ -56,7 +75,7 @@ function getAnchorAttributes(filePath, linkTitle) {
+function getAnchorAttributes(filePath, linkTitle) {
 fullPath = `${startPath}${fileName}.md`;
 }
 const file = fs.readFileSync(fullPath, "utf8");
@@ -58,7 +57,7 @@ const file = fs.readFileSync(fullPath, "utf8");
 if (frontMatter.data.permalink) {
 permalink = frontMatter.data.permalink;
 }
-@@ -103,6 +122,8 @@ module.exports = function(eleventyConfig) {
+module.exports = function(eleventyConfig) {
 eleventyConfig.setLiquidOptions({
 dynamicPartials: true,
 });
@@ -67,7 +66,7 @@ dynamicPartials: true,
 let markdownLib = markdownIt({
 breaks: true,
 html: true,
-@@ -140,6 +161,7 @@ module.exports = function(eleventyConfig) {
+ module.exports = function(eleventyConfig) {
 closeMarker: "```",
 })
 .use(namedHeadingsFilter)
@@ -75,7 +74,7 @@ closeMarker: "```",
 .use(function(md) {
 //https://github.com/DCsunset/markdown-it-mermaid-plugin
 const origFenceRule =
-@@ -157,6 +179,26 @@ module.exports = function(eleventyConfig) {
+ module.exports = function(eleventyConfig) {
 const code = token.content.trim();
 return `<div class="transclusion">${md.render(code)}</div>`;
 }
@@ -102,7 +101,7 @@ return `<div class="transclusion">${md.render(code)}</div>`;
 if (token.info.startsWith("ad-")) {
 const code = token.content.trim();
 const parts = code.split("\n")
-@@ -340,6 +382,13 @@ module.exports = function(eleventyConfig) {
+ module.exports = function(eleventyConfig) {
 );
 });
 
@@ -116,7 +115,7 @@ const parts = code.split("\n")
 eleventyConfig.addFilter("searchableTags", function(str) {
 let tags;
 let match = str && str.match(tagRegex);
-@@ -651,10 +700,30 @@ module.exports = function(eleventyConfig) {
+module.exports = function(eleventyConfig) {
 return content;
 });
 
@@ -147,7 +146,7 @@ eleventyConfig.addPassthroughCopy({ "src/site/logo.*": "/" });
 eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
 eleventyConfig.addPlugin(tocPlugin, {
 ul: true,
-@@ -666,7 +735,7 @@ module.exports = function(eleventyConfig) {
+module.exports = function(eleventyConfig) {
 read: true,
 compile: async function(inputContent, inputPath) {
 // Extract content after frontmatter (canvas HTML is already compiled by plugin)
@@ -156,7 +155,7 @@ compile: async function(inputContent, inputPath) {
 return async (data) => {
 // Return the HTML content directly without markdown processing
 return parsed.content;
-@@ -686,6 +755,10 @@ module.exports = function(eleventyConfig) {
+ module.exports = function(eleventyConfig) {
 return JSON.stringify(variable) || '""';
 });
 
