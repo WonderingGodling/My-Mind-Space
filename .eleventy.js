@@ -14,18 +14,18 @@ const matterOptions = {
     },
   },
 };
-const faviconsPlugin = require("eleventy-plugin-gen-favicons");
-const normalizeFavicon = require("./src/site/normalize-favicon.js");
-
 const FAVICON_SOURCE = "./src/site/favicon.svg";
 const FAVICON_NORMALIZED = "./.cache/favicon.normalized.svg";
 normalizeFavicon(FAVICON_SOURCE, FAVICON_NORMALIZED);
 const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier-terser");
-@@ -13,6 +31,7 @@ const {
-userMarkdownSetup,
-userEleventySetup,
+const pluginRss = require("@11ty/eleventy-plugin-rss");
+
+const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
+const {
+  userMarkdownSetup,
+  userEleventySetup,
 } = require("./src/helpers/userSetup");
 const { basesPlugin } = require("./src/helpers/basesPlugin");
 
