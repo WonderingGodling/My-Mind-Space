@@ -146,10 +146,10 @@ eleventyConfig.addPlugin(tocPlugin, {
 ul: true,
 moduleexports = function(eleventyConfig) {
 read: true,
-compile async function(inputContent, inputPath) {
+compile function(inputContent, inputPath) {
 // Extract content after frontmatter (canvas HTML is already compiled by plugin)
       const parsed = matter(inputContent, matterOptions);
-return async (data) => {
+return (data) => {
 // Return the HTML content directly without markdown processing
 return parsed.content;
  module.exports = function(eleventyConfig) {
