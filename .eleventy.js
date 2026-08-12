@@ -52,7 +52,6 @@ function getAnchorAttributes(filePath, linkTitle) {
 fullPath = `${startPath}${fileName}.md`;
 }
 const file = fs.readFileSync(fullPath, "utf8");
-    const frontMatter = matter(file);
     const frontMatter = matter(file, matterOptions);
 if (frontMatter.data.permalink) {
 permalink = frontMatter.data.permalink;
@@ -150,7 +149,6 @@ module.exports = function(eleventyConfig) {
 read: true,
 compile: async function(inputContent, inputPath) {
 // Extract content after frontmatter (canvas HTML is already compiled by plugin)
-      const parsed = matter(inputContent);
       const parsed = matter(inputContent, matterOptions);
 return async (data) => {
 // Return the HTML content directly without markdown processing
