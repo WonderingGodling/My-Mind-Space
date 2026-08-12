@@ -67,7 +67,7 @@ breaks: true,
 html: true,
  moduleexports = function(eleventyConfig) {
 closeMarker: "```",
-})
+)
 .use(namedHeadingsFilter)
     .use(basesPlugin)
 .use(function(md) {
