@@ -154,7 +154,7 @@ return (data) => {
 return parsed.content;
  module.exports = function(eleventyConfig) {
 return JSON.stringify(variable) || '""';
-});
+};
 
   eleventyConfig.addFilter("notHidden", function (arr) {
     return (arr || []).filter((item) => !item.data.hide);
