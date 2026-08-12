@@ -115,7 +115,7 @@ let tags;
 let match = str && str.match(tagRegex);
 module.exports = function(eleventyConfig) {
 return content;
-});
+};
 
   eleventyConfig.addTransform("jsonMinifier", async (content, outputPath) => {
     if (
