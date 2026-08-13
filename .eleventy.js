@@ -118,7 +118,7 @@ slugify: headerToId,
 .use(require("markdown-it-footnote"))
     .use(function (md) {
       md.renderer.rules.hashtag_open = function (tokens, idx) {
-    .use(function(md) {
+    use(function(md) {
       md.renderer.rules.hashtag_open = function(tokens, idx) {
 return '<a class="tag" onclick="toggleTagSearch(this)">';
 };
