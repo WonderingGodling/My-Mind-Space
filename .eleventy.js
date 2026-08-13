@@ -340,59 +340,7 @@ return (
 str &&
       str.replace(/\[\[(.*?\|.*?)\]\]/g, function (match, p1) {
       str.replace(/\[\[(.*?\|.*?)\]\]/g, function(match, p1) {
-//Check if it is an embedded excalidraw drawing or mathjax javascript
-if (p1.indexOf("],[") > -1 || p1.indexOf('"$"') > -1) {
-return match;
-}
-const [fileLink, linkTitle] = p1.split("|");
 
-return getAnchorLink(fileLink, linkTitle);
-})
-;
-})
-
-  eleventyConfig.addFilter("taggify", function(str) {
-return (
-str &&
-      str.replace(tagRegex, function (match, precede, tag) {
-      str.replace(tagRegex, function(match, precede, tag) {
-return `${precede}<a class="tag" onclick="toggleTagSearch(this)" data-content="${tag}">${tag}</a>`;
-})
-);
-});
-
-  eleventyConfig.addFilter("searchableTags", function (str) {
-  eleventyConfig.addFilter("searchableTags", function(str) {
-let tags;
-let match = str && str.match(tagRegex);
-if (match) {
-tags = match
-.map((m) => {
-return `"${m.split("#")[1]}"`;
-})
-.join(", ");
-}
-if (tags) {
-return `${tags},`;
-} else {
-return "";
-}
-});
-
-  eleventyConfig.addFilter("hideDataview", function (str) {
-  eleventyConfig.addFilter("hideDataview", function(str) {
-return (
-str &&
-      str.replace(/\(\S+\:\:(.*)\)/g, function (_, value) {
-      str.replace(/\(\S+\:\:(.*)\)/g, function(_, value) {
-return value.trim();
-})
-);
-});
-
-  eleventyConfig.addTransform("dataview-js-links", function (str) {
-  eleventyConfig.addFilter("xmlSafe", function(str) {
-    if (!str) return str;
     // Remove invalid XML characters (0xFFFE, 0xFFFF, etc.)
     str = str.replace(/\uFFFE|\uFFFF/g, '');
     // Escape ]]> in content to prevent CDATA issues
