@@ -151,7 +151,6 @@ closeMarker: "```",
 const origFenceRule =
 md.renderer.rules.fence ||
         function (tokens, idx, options, env, self) {
-        function(tokens, idx, options, env, self) {
 return self.renderToken(tokens, idx, options, env, self);
 };
 md.renderer.rules.fence = (tokens, idx, options, env, slf) => {
