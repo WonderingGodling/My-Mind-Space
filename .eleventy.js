@@ -52,7 +52,6 @@ const startPath = "./src/site/notes/";
     const fullPath = fileName.endsWith(".md")
       ? `${startPath}${fileName}`
       : `${startPath}${fileName}.md`;
-    let fullPath;
     if (fileName.endsWith(".md") || fileName.endsWith(".canvas")) {
       fullPath = `${startPath}${fileName}`;
     } else {
