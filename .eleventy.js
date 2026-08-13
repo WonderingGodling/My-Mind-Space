@@ -324,7 +324,7 @@ return self.renderToken(tokens, idx, options, env, self);
 
 return defaultLinkRule(tokens, idx, options, env, self);
 };
-})
+}
 .use(userMarkdownSetup);
 
 eleventyConfig.setLibrary("md", markdownLib);
