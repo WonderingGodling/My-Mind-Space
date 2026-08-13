@@ -351,7 +351,6 @@ return getAnchorLink(fileLink, linkTitle);
 ;
 })
 
-  eleventyConfig.addFilter("taggify", function (str) {
   eleventyConfig.addFilter("taggify", function(str) {
 return (
 str &&
