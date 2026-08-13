@@ -761,4 +761,4 @@ htmlTemplateEngine: "njk",
 markdownTemplateEngine: false,
 passthroughFileCopy: true,
 };
-};
+});
