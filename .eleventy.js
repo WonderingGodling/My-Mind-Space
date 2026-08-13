@@ -31,7 +31,6 @@ return metadata;
 
 function getAnchorLink(filePath, linkTitle) {
   const {attributes, innerHTML} = getAnchorAttributes(filePath, linkTitle);
-  const { attributes, innerHTML } = getAnchorAttributes(filePath, linkTitle);
 return `<a ${Object.keys(attributes).map(key => `${key}="${attributes[key]}"`).join(" ")}>${innerHTML}</a>`;
 }
 
@@ -421,7 +420,6 @@ for (const dataViewJsLink of parsed.querySelectorAll("a[data-href].internal-link
 const notePath = dataViewJsLink.getAttribute("data-href");
 const title = dataViewJsLink.innerHTML;
       const {attributes, innerHTML} = getAnchorAttributes(notePath, title);
-      const { attributes, innerHTML } = getAnchorAttributes(notePath, title);
 for (const key in attributes) {
 dataViewJsLink.setAttribute(key, attributes[key]);
 }
