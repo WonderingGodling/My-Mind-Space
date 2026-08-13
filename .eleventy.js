@@ -222,7 +222,6 @@ return origFenceRule(tokens, idx, options, env, slf);
 const defaultImageRule =
 md.renderer.rules.image ||
         function (tokens, idx, options, env, self) {
-        function(tokens, idx, options, env, self) {
 return self.renderToken(tokens, idx, options, env, self);
 };
 md.renderer.rules.image = (tokens, idx, options, env, self) => {
@@ -258,7 +257,6 @@ return defaultImageRule(tokens, idx, options, env, self);
 const defaultLinkRule =
 md.renderer.rules.link_open ||
         function (tokens, idx, options, env, self) {
-        function(tokens, idx, options, env, self) {
 return self.renderToken(tokens, idx, options, env, self);
 };
       md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
