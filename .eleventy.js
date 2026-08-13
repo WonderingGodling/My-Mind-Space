@@ -146,7 +146,7 @@ closeMarker: "```",
 })
 .use(namedHeadingsFilter)
     .use(function (md) {
-    .use(function(md) {
+    use(function(md) {
 //https://github.com/DCsunset/markdown-it-mermaid-plugin
 const origFenceRule =
 md.renderer.rules.fence ||
