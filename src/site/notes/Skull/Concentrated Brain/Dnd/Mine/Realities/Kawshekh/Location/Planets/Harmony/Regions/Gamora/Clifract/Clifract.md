@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/gamora/clifract/clifract/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/gamora/clifract/clifract/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Gamora]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 Known For And/Or Slogan

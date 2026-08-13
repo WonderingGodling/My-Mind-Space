@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/0-moon-day/0-moon-day/","tags":["Tagless"],"noteIcon":"","dg-note-properties":{"Type:":"Days Events","Starting location:":"Luna","description:":null,"Type":"Session","Session Number":0,"Finishing location":null,"up":"[[Weekday]]","down":null,"aliases":null,"Next":"[[1 Day De Les Phantoms]]","Previous":"[[8 Sol]]","same":null,"tags":["Tagless"],"description":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"title":null,"comments":true}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/0-moon-day/0-moon-day/","tags":["Tagless"],"noteIcon":"","dg-note-properties":{"Type:":"Days Events","Starting location:":"Luna","description:":null,"Type":"Session","Session Number":0,"Finishing location":null,"up":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/Weekday]]","down":null,"aliases":null,"Next":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/1 Day De Les Phantoms/1 Day De Les Phantoms]]","Previous":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/8 Sol/8 Sol]]","same":null,"tags":["Tagless"],"description":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"title":null,"comments":true}}
 ---
 
 
@@ -9,7 +9,7 @@ Time: Sunset
 	- The Fog Eats Loud Noise Or Bright Lights
 	- Well Water Inflicts Poison And Short-Term Memory Loss
 	- A Few Crow Calls Heard In The Distance
-[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma]], Sena, [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Aris]] In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town\|Hatchet Town]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma]], Sena, [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Aris]] In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town Events\|Hatchet Town Events]]
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma]] Tosses Coin Into Well
 	- No Noise, Just Goes Poof
 - Harbinger Leads Them To The Hideout

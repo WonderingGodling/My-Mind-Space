@@ -742,7 +742,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Historical
 	- [ ] Write A Speech For It
 
-
+No Way
 
 
 

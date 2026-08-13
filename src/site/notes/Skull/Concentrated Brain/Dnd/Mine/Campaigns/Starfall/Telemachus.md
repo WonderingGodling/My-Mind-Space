@@ -16,7 +16,7 @@
 
 
  - [ ] Dragon That Deals In Telemetry
-	- [ ] Hidden Near [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Midbuton\|Midbuton]]
+	- [ ] Hidden Near [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Midbuton General\|Midbuton General]]
 
 
 
