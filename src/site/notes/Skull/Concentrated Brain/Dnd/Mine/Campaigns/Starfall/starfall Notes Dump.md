@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-notes-dump/","tags":["Tagless"],"noteIcon":"","dg-note-properties":{"Type":null,"up":"[[Starfall]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-notes-dump/","tags":["Tagless"],"noteIcon":"","dg-note-properties":{"Type":null,"up":"[[Branches/Starfall]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 a<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -385,7 +385,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
  - [ ] Way More Dragons
 - [ ] Default Sheets
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias\|Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias]] 
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town\|Hatchet Town]] 
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town Events\|Hatchet Town Events]] 
 - [ ] Write more about [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Cambrighton\|Cambrighton]] and [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Aerynthalas\|Aerynthalas]] (Local Dragon)
 - [ ] Write more about [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/The Underground\|The Underground]]
 - [ ] [[Wrighth Stuff/Wrighth Index\|Wrighth]]
@@ -440,7 +440,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Possession Shit
 - [ ] Pyramid Scheme
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Parachute Umbrella\|Parachute Umbrella]]
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town\|Hatchet Town]] Stuff And Its Implications
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town Events\|Hatchet Town Events]] Stuff And Its Implications
 - [ ] Day One Stuff
 - [ ] Evil Stuff
 - [ ] Gambling/Casino Stuff
@@ -653,7 +653,6 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] [[Template/Book\|Book]] Thats Too Powerful So Is Kept In A Wooden Sleeve
 - [ ] When [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Bad Enough Happens The World Stops And Multiple Councils Go Over The Events
 - [ ] Add Some Mountain Ranges
-
 - [ ] Shooting Range Minigame
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Piecemeal\|Piecemeal]]
 	- [ ] In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Omihami/Wruilt\|Wruilt]]
