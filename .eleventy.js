@@ -349,7 +349,7 @@ const [fileLink, linkTitle] = p1.split("|");
 return getAnchorLink(fileLink, linkTitle);
 })
 ;
-});
+})
 
   eleventyConfig.addFilter("taggify", function (str) {
   eleventyConfig.addFilter("taggify", function(str) {
