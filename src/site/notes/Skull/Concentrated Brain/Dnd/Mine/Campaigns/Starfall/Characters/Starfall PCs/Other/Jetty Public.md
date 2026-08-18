@@ -14,13 +14,14 @@
 ![MissyCommSFW.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Other/Files%20And%20Shit/MissyCommSFW.png)
 ![token_1.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Other/Files%20And%20Shit/token_1.png)
 
+###### Likes: 
+women, night workers, fighting arts, tattoos, weapon manufacturing, animals, matriarchy, romance novels and smoking 
 
-Likes: women, night workers, fighting arts, tattoos, weapon manufacturing, animals, matriarchy, romance novels and smoking 
-
-Dislikes: men, patriarchy, other crime families, the weak(especially those weak of will), unfounded ego, artificial sweetener, most vegetables, centipede and her full name  
-
+##### Dislikes: 
+men, patriarchy, other crime families, the weak(especially those weak of will), unfounded ego, artificial sweetener, most vegetables, centipede and her full name  
 
 
+## History
 Year 0: mercil cosmia makes a deal with a devil in order to be able to bare children, this causes jetty to have demon blood after her birth 
 As She Was Growing Up Her Parents Always Described Her Birth As An Interesting Ordeal But They Never Explained Any Struggles They Faced During It
 
