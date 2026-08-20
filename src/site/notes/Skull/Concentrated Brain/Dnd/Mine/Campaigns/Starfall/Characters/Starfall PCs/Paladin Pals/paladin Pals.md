@@ -11,8 +11,4 @@
 
 # <center><span style="color:#4EDCBA">paladin Pals</span></center>
 
-
-![Aras Token.png\|258](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Aras%20Token.png) ![Delmar Token.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Delmar%20Token.png) ![Everret Token.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Everret%20Token.png) [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Sinclair Rosemond\|Sinclair]]|![Sinclair Token.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Sinclair%20Token.png)]]
-
-
-
+[![](<Aras Token.png>)](<Aras.md>) [![](<Delmar Token.png>)](<Delmar.md>) [![](<Everett Token.png>)](<Everett De La Fontain.md>) [![](<Sinclair Token.png>)](<Sinclair Rosemond.md>)
