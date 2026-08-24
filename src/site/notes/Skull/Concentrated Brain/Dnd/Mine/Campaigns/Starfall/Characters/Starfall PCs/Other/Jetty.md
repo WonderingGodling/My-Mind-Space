@@ -29,7 +29,7 @@ Year 0: [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfa
 As She Was Growing Up Her Parents Always Described Her Birth As An Interesting Ordeal But They Never Explained Any Struggles They Faced During It
 
 
-Year 1: born in [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]], [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton\|Krypton]], parents were two humans that ran [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Other/cosmia crime family\|the cosmia crime family]], focusing on drug and arms dealing, has an identical twin sister named [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/prexa\|prexa]] 
+Year 1: born in [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Dolad/Named Towns And Cities/Kent\|Kent]], [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton\|Krypton]], parents were two humans that ran [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Other/cosmia crime family\|the cosmia crime family]], focusing on drug and arms dealing, has an identical twin sister named [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/prexa\|prexa]] 
 
   
 Year 8: begins learning chess as well as being introduced to the family enforcer who begins training her in hand to hand combat
