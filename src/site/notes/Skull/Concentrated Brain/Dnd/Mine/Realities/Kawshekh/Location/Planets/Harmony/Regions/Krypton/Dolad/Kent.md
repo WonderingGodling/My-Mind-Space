@@ -17,13 +17,13 @@
 		- Experiments Carried Out In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Lytescomia/Boston\|Boston, Naga]]
 		- Others Get Levels In Classe That Correspond To Armoury And https://www.dandwiki.com/wiki/Blood_Ravager_(5e_Class)
 	- Armoury Also Under The Building
-		- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Magic Items/Butter Blade\|Butter Blade]]
-		- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Magic Items/Twin Sticks\|Twin Sticks]]
-		- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Magic Items/Tinfoil Hat\|Tinfoil Hat]]
-		- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Magic Items/Sticky Dagger\|Sticky Dagger]]
-		- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Magic Items/Wizards Orb Of Ponderance\|Wizards Orb Of Ponderance]]
-		- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Magic Items/Constitutional Democracy\|Constitutional Democracy]]
-		- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Magic Items/Big Bonk\|Big Bonk]]
+		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Items/Starfall Magic Items/Kent Experimental Gear/Butter Blade\|Butter Blade]]
+		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Items/Starfall Magic Items/Kent Experimental Gear/Twin Sticks\|Twin Sticks]]
+		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Items/Starfall Magic Items/Kent Experimental Gear/Tinfoil Hat\|Tinfoil Hat]]
+		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Items/Starfall Magic Items/Kent Experimental Gear/Sticky Dagger\|Sticky Dagger]]
+		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Items/Starfall Magic Items/Kent Experimental Gear/Wizards Orb Of Ponderance\|Wizards Orb Of Ponderance]]
+		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Items/Starfall Magic Items/Kent Experimental Gear/Constitutional Democracy\|Constitutional Democracy]]
+		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Items/Starfall Magic Items/Kent Experimental Gear/Big Bonk\|Big Bonk]]
 	- The Physical Building (Walls, Doors, Etc) Doesnt Reset But Everything Inside It Does
 
 		- [ ] Guy Pretending To Be A Budding God That Keeps Offering Them Fake Power To Do Their Bidding
