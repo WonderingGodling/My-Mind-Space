@@ -12,7 +12,7 @@
 
 ![e9ccac8eafc3128412d5fa4f733e5dbd.jpg](/img/user/images/e9ccac8eafc3128412d5fa4f733e5dbd.jpg)
 
-[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Dolad/Named Towns And Cities/Kent\|Kent]]
+[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]]
 ## General
  Race:  [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Starfall Specific Race/Failed Experiment\|Failed Experiment]]
  Class: https://www.dandwiki.com/wiki/Blood_Ravager_(5e_Class) 21

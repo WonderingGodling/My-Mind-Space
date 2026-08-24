@@ -41,7 +41,6 @@ Lining The Days Up So If You Do Have An Impact On Each Other You Can React Accor
 https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjITTE/edit?gid=0#gid=0
 
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Starfall Story Beats\|Starfall Story Beats]]
-[[Starfall To-Do\|Starfall To-Do]]
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Starfall NPC\|Starfall NPC]]
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Starfall Locations To Work On\|Starfall Locations To Work On]]
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/General Worldbuilding\|General Worldbuilding]]
@@ -59,8 +58,6 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 
 
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Other/Jetty\|Jetty]] 
-
-
 
 - [ ] Some Capitals Have Fast Travel Stuff To Neighbouring Cities
 - [ ] Subways Are Capital To Capital
@@ -470,7 +467,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Gonna Have The Connecting Cities In My Notes
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Car Locations\|Car Locations]]
 - [ ] News Headlines
-- [ ] Write About: [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Lei/Lei (moon)\|Lei]], [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge/Rouge\|Rouge]] And [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel/Ciel\|Ciel]]
+- [ ] Write About: [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Lei (moon)\|Lei]], [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge\|Rouge]] And [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel\|Ciel]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Eras\|Eras]]
 - [ ] Relook At Calander
 - [ ] Group Of Armed Teens On [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Military road\|Military road]] At [[Vent Lane\|Vent Lane]] Junction On Day 2
@@ -497,11 +494,11 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Somewhere North In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]]
 - [ ] Align A Few [Sanguinated](https://docs.google.com/document/d/1NqB8k34TY_7taP0mZoVHINo9DKhz4n88AlHWSN5-eg8/edit?tab=t.0) To [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Blood Lich\|Blood Lich]]
 - [ ] Debt Collectors
-	- [ ] One In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Dolad/Named Towns And Cities/Kent\|Kent]] That Wont [[Remember\|Remember]] You When Time Resets But Will [[Remember\|Remember]] How Much Money You Owe Him
+	- [ ] One In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]] That Wont [[Remember\|Remember]] You When Time Resets But Will [[Remember\|Remember]] How Much Money You Owe Him
 	- [ ] One In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Torogiya/Rekx\|Rekx]] 
 	- [ ] Lair Debt Collection Agency That Provides Support Globaly
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Quests/Shooter Side Quest\|Shooter Side Quest]]
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Dolad/Named Towns And Cities/Kent\|Kent]] Border Paperwork
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]] Border Paperwork
 - [ ] News Articles
 - [ ] Write About The Soul Artifacts
 	- [ ] In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease\|Grease]]
@@ -521,7 +518,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Curses And condemnations
 - [ ] Write Animals And Plants
 - [ ] Devil Deal For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Other/Jetty\|Jetty]]s Birth
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/cosmia crime family\|cosmia crime family]]
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/cosmia crime family\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/cosmia crime family]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/prexa\|prexa]] And goings ons
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Regalia tomo\|Regalia tomo]] a drow assassin
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Stories Behind The Stars\|Stories Behind The Stars]]
@@ -532,6 +529,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] About Fertility [[Branches/Gods\|Gods]]
 	- [ ] Ref https://bsky.app/profile/rizdraws.bsky.social/post/3mejlimxoxk2f
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Other/Jetty\|Jetty]] Artifact Disco Ball
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Other/The Crystal Globe Of The Fallen God De Skoe\|The Crystal Globe Of The Fallen God De Skoe]]
 	- [ ] Lia Has It
 	- [ ] Star Striker 
 	- [ ] Forced Dance, Bright Lights 
@@ -547,7 +545,6 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Now They Coalesce On Site
 - [ ] Write Monster Spawns
 - [ ] Time Manipulation Wrights
-
 - [ ] Wrigtht Tattoos
 	- [ ] Make This Folk Wise/Smart/Strong/Cool/Swift/Deft
 - [ ] Sparing Weapons And Collar 
@@ -741,8 +738,21 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Mini Festival In Grease
 	- [ ] Historical
 	- [ ] Write A Speech For It
+- [ ] Jettys MOnk Stuff
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/God Of Knowledge\|God Of Knowledge]]
+	- [ ] Multiple Clones
+	- [ ] Knows Anything That Anyone Else Knows But Loves Reading Nonfiction Anyway
+	- [ ] Favourite Subject Is Biology Because Of How Much Happens In A Biology At One Time
+		- [ ] A heart Beat Is Caused By Chemical Electricity That Causes Meat To Tighten And Pushes An Amount Of This Oxygen-Containing Suspension Into A Tube
+- [ ] reverse umbrella Magical Item
+	- [ ] When It Rains It Rains On You (Under The Umbrella) Instead Of The Surrounding 30ft
+- [ ] Terrarium Slingshot
+	- [ ] You Shoot Beads At A Creature And A Furnished Glass Enclosure Appears Around Them
 
-No Way
+A blade like katana or something that the monks have, it focuses the power of the four elements and channels them into it to strengthen it, and since jetty is now walking the path to get the four tattoos I want her when she's back at the temple to ask them to bestow upon her the blade
+Thinking of having jetty incorporate the temple and the monks version of the way of four elements into her group
+Like wanting to raise them up in her own immortal way
+And since she does also belive In the four elements but just in a different avenue
 
 
 

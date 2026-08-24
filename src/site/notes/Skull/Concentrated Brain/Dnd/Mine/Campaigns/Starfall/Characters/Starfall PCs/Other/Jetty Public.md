@@ -9,7 +9,7 @@
 </style>
 
 
-# <center><span style="color:#FE9CBA">Jettrenya nirill revona Cosmia</span></center>
+# <center><span style="color:#FE9CBA">Jettrenya Nirill Revona Cosmia</span></center>
 
 ![MissyCommSFW.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Other/Files%20And%20Shit/MissyCommSFW.png)
 ![token_1.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Other/Files%20And%20Shit/token_1.png)

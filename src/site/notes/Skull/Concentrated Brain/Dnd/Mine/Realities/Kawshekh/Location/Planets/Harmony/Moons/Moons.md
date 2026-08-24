@@ -20,10 +20,10 @@ Alternatively When Neither Moon Is Out The World Is Plunged Into Magical Darknes
 Rouge (Clockwise) And Ciel (Anticlockwise) Are Both Full Moons And Overlap On Moon Day
 One Of The Reasons Moon Day Is So Cool
 It Looks Like Daytime And The Moons Are Out!
-## [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel/Ciel\|Ciel]]
+## [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel\|Ciel]]
 Clockwise
 
-## [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge/Rouge\|Rouge]]
+## [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge\|Rouge]]
 Anticlockwise
 
 ### Stars

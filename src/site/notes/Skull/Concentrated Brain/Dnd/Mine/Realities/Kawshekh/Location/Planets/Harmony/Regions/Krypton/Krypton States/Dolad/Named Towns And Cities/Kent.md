@@ -25,6 +25,9 @@
 		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Items/Starfall Magic Items/Kent Experimental Gear/Constitutional Democracy\|Constitutional Democracy]]
 		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Items/Starfall Magic Items/Kent Experimental Gear/Big Bonk\|Big Bonk]]
 	- The Physical Building (Walls, Doors, Etc) Doesnt Reset But Everything Inside It Does
+	- If You Can Aford To Use A Teleporter And Corrosponding Stone It Sends You To The End Of The Road Out Of The Country Then Teleports You Back When You Stand In That Spot Again
+		- The Stone Then Disintergrates
+		- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Dolad/Named Towns And Cities/Kent Teleportation Stone\|Kent Teleportation Stone]]
 
 		- [ ] Guy Pretending To Be A Budding God That Keeps Offering Them Fake Power To Do Their Bidding
 
