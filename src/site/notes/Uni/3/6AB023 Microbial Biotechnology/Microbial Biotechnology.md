@@ -23,7 +23,8 @@ Literally ‘the study of tools from living things’
 - [1981] European Federation of Biotechnology
 - [2000] Industrialisation | Microbial biotechnology is the use of microorganisms to obtain an economically valuable product or activity at a commercial or large industrial scale. The microorganisms used in are either natural, laboratory-selected mutants or ‘novel’ genetically engineered strains
 ```
-
+(What This Looks Like My End)
+![chronos-timeline-2026-09-30.png](/img/user/chronos-timeline-2026-09-30.png)
 #### Putting microbes to work
 - Traditional biotechnology includes: making bread, cheese, wine, beer and other fermented food products
 - 20th century saw the birth of the modern biotechnology industry
@@ -37,7 +38,8 @@ Literally ‘the study of tools from living things’
 - [1940~1980] Recent Progress | Antibiotics, Enzymes, Amino Acids, Steroid Hormone Transformations, Single Cell Protein (SCP)
 - [1980~] Current Day | Recombinant DNA Productions (E.G Human Insulin, Interferon)
 ```
-
+(What This Looks Like My End)
+![chronos-timeline-2026-09-30(2).png](/img/user/chronos-timeline-2026-09-30(2).png)
 
 
 ### Types of processes
@@ -236,13 +238,13 @@ Batch fermentation is what is described as a 'closed system
 
 - Input rate = output rate (volume = const.)
 - Flow rate is selected to give steady state growth
-	- Dilution rate > Growth rate  culture washes out
-	- Dilution rate < Growth rate  culture overgrows
-	- Dilution rate = Growth rate  steady state culture
+	- Dilution rate > Growth rate → culture washes out
+	- Dilution rate < Growth rate → culture overgrows
+	- Dilution rate = Growth rate → steady state culture
 
 - Product is harvested from the outflow stream
 - Stable chemostat cultures can operate continuously for weeks or months.
-![Pasted image 20260930093810.png](/img/user/Pasted%20image%2020260930093810.png)
+![Pasted image 20260930093810.png\|200](/img/user/Pasted%20image%2020260930093810.png)
 ### Fermenter design
 “the design of a fermenter to carry out a fermentation in an efficient and predetermined manner is the most important objective function of fermentation engineering”
 
