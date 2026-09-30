@@ -73,6 +73,88 @@ Excited to finally go out and live an actual life outside of his home, basically
 <sub>The House Always Wins And Its Coming Home</sub>
 People Keep Telling You That Youre In Over Your Head. Well You'll Show Them! You Have Developed A Method To Make Your "Wild" Magic Do What You Need It To. Whenever You Roll On The Wild Magic Table You Can Spend As Many Hit Dice As You Want To Take Damage, The Damage You Take Is How Far Up Or Down The Table You Can Move. The Damage Divided By Your Charisma Is The Amount Of Times You Must Force Wild Magic At The End Of One Minute (The Effects Triggering In The Order They Were Rolled). This Ability Can Be Used Multiple Times A Day But Not Multiple Times In A Row
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
+ img{
+ float: right;
+}
+</style>
+
+# <center><span style="color:#323456"> </span></center>
+
+
+
+
+## General
+ Race:  
+ Class: 
+ Alignment: 
+ Background: 
+
+
+## Stats
+
+|    Speed     | AC  | Bonus |  Initiative   |
+| :----------: | :-: | :---: | :-----------: |
+|      30      |     |       |               |
+|   Hit Dice   |     |       | Saving Throws |
+|    Health    |     |       |               |
+|   Strength   |     |       |               |
+|  Dexterity   |     |       |               |
+| Constitution |     |       |               |
+| Inteligence  |     |       |               |
+|    Wisdom    |     |       |               |
+|   Charima    |     |       |               |
+
+| Skills                | Bonus | Skills                | Bonus |
+| --------------------- | :---: | --------------------- | :---: |
+| Acrobatics (Dex)      |       | Medicine (Wis)        |       |
+| Animal Handling (Wis) |       | Nature (int)          |       |
+| Arcana (Int)          |       | Perception (Wis)      |       |
+| Athletics (Str)       |       | Performance (Char)    |       |
+| Deception (Char)      |       | Persuasion (Char)     |       |
+| History (Int)         |       | Religion (Int)        |       |
+| Insight (Wis)         |       | Sleight of Hand (Dex) |       |
+| Intimidation (Char)   |       | Stealth (Dex)         |       |
+| Investigation (Int)   |       | Survival (Wis)        |       |
+
+| Death Saves  |     |     |     |
+| ------------ | --- | --- | --- |
+| Death Fails |     |     |     |
+### Attacks
+
+| Attack | To-Hit | Damage |
+| ------ | ------ | ------ |
+|        |        |        |
+
+### Spells
+
+| Constitution |     |     |
+| ------------ | --- | --- |
+
+# Inventory
+
+Money: 
+Inventory: 
+# Extra
+Resistances: 
+Advantage: 
+Vulnerabilities: 
+Conditions: 
+  
+
+# Proficiencies
+		
+Armor:  
+Weapons: 
+Tools: 
+Languages: 
+
+# Notes: 
+
+
+
+# Characteristics 
+
 
 
 

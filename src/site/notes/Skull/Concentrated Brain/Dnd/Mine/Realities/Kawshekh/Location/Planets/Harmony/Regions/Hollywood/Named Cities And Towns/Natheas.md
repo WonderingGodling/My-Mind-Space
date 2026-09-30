@@ -53,7 +53,7 @@ Exports: Coal Plants, Hot Berries (Like Blueberry Sized Chillies), And Natural M
 ##### Tavern
 ![Fifb2mrXkAASByb-2430682952.jpg](/img/user/images/Fifb2mrXkAASByb-2430682952.jpg)
 ##### Hollywood Home Of The Dead (morgue)
-![Underground-Sanctuary-battle-map-Large-preview.webp](/img/user/images/Underground-Sanctuary-battle-map-Large-preview.webp)![[Anatomy Theatre_4K_18x24_Base_Gridless_Logo [Classroom, Alchemy, Study].jpg]]
+![Underground-Sanctuary-battle-map-Large-preview.webp](/img/user/images/Underground-Sanctuary-battle-map-Large-preview.webp)![Anatomy Theatre_4K_18x24_Base_Gridless_Logo [Classroom, Alchemy, Study].jpg](/img/user/images/Anatomy%20Theatre_4K_18x24_Base_Gridless_Logo%20%5BClassroom,%20Alchemy,%20Study%5D.jpg)
 ## Days 
 ### Day 1
 

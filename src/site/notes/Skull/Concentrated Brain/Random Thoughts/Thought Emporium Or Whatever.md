@@ -143,7 +143,7 @@ This [Website](https://my-mind-space.vercel.app/) Will See The Biggest Hit In 
 
 Also Im Now A Light Player And I Think [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roo]] Is One Of The Desolation Maybe; Who Knows
 
-Corys Definitely A Light Player; I Dont Know If Hes A Watcher Though; I Think Hes A Spiral Or Maybe The Web (Do Spiders Need To Manipulate <b>[[[[Branches/People\|People]]]]</b> Or Can They Have Fun With It?)
+Corys Definitely A Light Player; I Dont Know If Hes A Watcher Though; I Think Hes A Spiral Or Maybe The Web (Do Spiders Need To Manipulate <b>[[[[People\|[[People]]]]</b> Or Can They Have Fun With It?)
 
 Speech To Text Making An Appearance
 

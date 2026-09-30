@@ -80,7 +80,17 @@ Extremely chivalrous and knightly approach to everyone, as well as an extremely 
 Every Breath Brings You Closer To God
 Thinking About The Path You Have Chosen Can Sometimes Give You Cold Feet But This Gift From Your Mentor Warms Your Heart. This Magic Cigarette Box Is Always Full But Once A Day Four Of The Cigarettes Are Dipped In Red, Smoking One Of These These Gives 1d4+4 Temporary Health For The Next Hour
 
+## General
+ Race:  
+ Class: 
+ Alignment: 
+ Background: 
+
+
+# Notes: 
 
 
 
-<center><sub>Done :)</sub></center>
+
+
+

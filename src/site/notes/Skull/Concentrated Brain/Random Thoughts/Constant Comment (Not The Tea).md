@@ -359,7 +359,7 @@ Needles
 ![](https://i.imgur.com/W1Wnbrl.png)
 Still Dont Know How I Did That
 
-Done [[[[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]]] All Day
+Done [[[[Nothing\|[[Nothing]]]] All Day
 Missed Some Stuff Out- I Need To be Better At This
 
 Father Called

@@ -7,6 +7,23 @@
 
 # <center><span style="color:#11A98A">Beebee</span></center>
 
+Birthday
+Height
+Weight
+Blood Type
+Likes
+Dislikes
+Time Sinks
+Reads
+Relaxes By
+Skills
+Struggles
+Phobias
+Philias
+Physical Activities
+Body Count
+Probably the Best At
+
 
 
 ### Things Shes Said

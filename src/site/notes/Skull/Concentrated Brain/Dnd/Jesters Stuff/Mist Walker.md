@@ -672,9 +672,7 @@ Some may even come to see you as a god for your all mighty power
     
 - You may cast plane shift to travel planes without using a spell slot
     
-- You can now float
-{ #-}
-^
+- You can now float ^-^
     
 - You can gift small power to mortals (creating a dark gift)
     
@@ -706,9 +704,7 @@ Your vessel has crumbled the mist has tried to leave you, you will not allow suc
     
 - You can travel realms without having to perform rituals
     
-- You now always float
-{ #-}
-^
+- You now always float ^-^
     
 - Your soul is ethereal are unable to be destroyed through physical or mortal means
     

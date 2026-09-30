@@ -749,10 +749,10 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Terrarium Slingshot
 	- [ ] You Shoot Beads At A Creature And A Furnished Glass Enclosure Appears Around Them
 
-A blade like katana or something that the monks have, it focuses the power of the four elements and channels them into it to strengthen it, and since jetty is now walking the path to get the four tattoos I want her when she's back at the temple to ask them to bestow upon her the blade
-Thinking of having jetty incorporate the temple and the monks version of the way of four elements into her group
-Like wanting to raise them up in her own immortal way
-And since she does also belive In the four elements but just in a different avenue
+- [ ] A blade like katana or something that the monks have, it focuses the power of the four elements and channels them into it to strengthen it, and since jetty is now walking the path to get the four tattoos I want her when she's back at the temple to ask them to bestow upon her the blade
+- [ ] Thinking of having jetty incorporate the temple and the monks version of the way of four elements into her group
+- [ ] Like wanting to raise them up in her own immortal way
+- [ ] And since she does also belive In the four elements but just in a different avenue
 
 
 
