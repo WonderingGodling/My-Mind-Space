@@ -11,7 +11,8 @@
         "src/plugins/analytics/README.md",
         "src/plugins/analytics/garden-plugin.json",
         "src/plugins/analytics/templates/snippet.njk"
-      ]
+      ],
+      "order": 20
     },
     "breadcrumbs": {
       "repo": "oleeskild/garden-plugin-breadcrumbs",
@@ -25,7 +26,8 @@
         "src/plugins/breadcrumbs/index.js",
         "src/plugins/breadcrumbs/styles/trail.scss",
         "src/plugins/breadcrumbs/templates/trail.njk"
-      ]
+      ],
+      "order": 10
     },
     "garden-stats": {
       "repo": "oleeskild/garden-plugin-garden-stats",
@@ -39,7 +41,8 @@
         "src/plugins/garden-stats/index.js",
         "src/plugins/garden-stats/styles/stats.scss",
         "src/plugins/garden-stats/templates/stats.njk"
-      ]
+      ],
+      "order": 30
     },
     "image-lightbox": {
       "repo": "oleeskild/garden-plugin-image-lightbox",
@@ -52,7 +55,8 @@
         "src/plugins/image-lightbox/garden-plugin.json",
         "src/plugins/image-lightbox/styles/lightbox.scss",
         "src/plugins/image-lightbox/templates/lightbox.njk"
-      ]
+      ],
+      "order": 40
     },
     "rounded-images": {
       "repo": "oleeskild/garden-plugin-rounded-images",
@@ -65,7 +69,8 @@
         "src/plugins/rounded-images/garden-plugin.json",
         "src/plugins/rounded-images/screenshot.png",
         "src/plugins/rounded-images/templates/style.njk"
-      ]
+      ],
+      "order": 50
     }
   }
 }
