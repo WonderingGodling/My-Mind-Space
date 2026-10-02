@@ -1,0 +1,43 @@
+---
+{"dg-publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/old-home-page/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+---
+
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
+![Pasted image 20230824221117.png](/img/user/images/Pasted%20image%2020230824221117.png)
+# <span style="color:#D00009">My Mind Is A Mess But You Can Sit Wherever You Like</span>
+
+Im Going To Be Sharing A Large Amount Of Of The Things I Think And Experience And Whatever And Its Not Going To Be Very Organised Or Anything So Youll Just Have To Live With It
+
+As, I Suppose, A Mental Health Thing Im Going To Be Devoting A Portion Of My Brain Into An Archival Little Corner Or The Internet
+This Probably Wont Achieve Much But Its Not [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]
+If You Want To Have A Look Around (If You **Can** Look Around) Feel Free
+Get Comfortable
+
+I Am Working On Redesigning This
+[[Skull/Concentrated Brain/Random Thoughts/Thought Emporium Or Whatever\|This]] Is More Or Less The Replacement I Dont Know Or Really Care That Much At The Moment
+
+wonderinggodling On Discord
+Pretty Much [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] Anywhere Else
+
+Questions To Answer If You Are Bored
+~~https://forms.gle/rZsoUB7Ysrff79xd7~~
+
+I Am Working On This One:
+https://docs.google.com/forms/d/e/1FAIpQLSc9Hm6S3xXUvlBWbQyH7ZP9Mn-vpqVSNWIeh6I4pwUZ28VCDg/viewform?usp=publish-editor
+
+
+
+
+
+
+
+
+
+<script src="https://static.elfsight.com/platform/platform.js" async></script> <div class="elfsight-app-20ee6467-81a6-47ba-81bd-de95c689049f" data-elfsight-app-lazy></div>
+###### You Got To The End 
+<sup>Well Done</sup> 
+![Pasted image 20230824220645.png](/img/user/images/Pasted%20image%2020230824220645.png)
+<center><sub>Rawr</sub></center>
+
+<script src="https://drive.google.com/open?id=1kI6K7o9XbkfPxMNmLslLSG4JQwoi0yrc&usp=drive_fs" data-use-service-core defer></script> <div class="elfsight-app-20ee6467-81a6-47ba-81bd-de95c689049f"></div>
+
