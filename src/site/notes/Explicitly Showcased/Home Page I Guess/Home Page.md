@@ -4,11 +4,11 @@
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
- float: Center;
+ float: center;
 }
 </style>
 
-![4491b55d359feda1319a6a5b11aeb278.jpg](/img/user/Explicitly%20Showcased/Home%20Page%20I%20Guess/4491b55d359feda1319a6a5b11aeb278.jpg)
+![4491b55d359feda1319a6a5b11aeb278.jpg\|2000](/img/user/Explicitly%20Showcased/Home%20Page%20I%20Guess/4491b55d359feda1319a6a5b11aeb278.jpg)
 # <center><span style="color:#000000">There Is No Good Title For What This Has Become</span></center>
 
 I Am Redoing This For Some Reason— Maybe I Am Particularly Sad Or Happy Or Otherwise In My Head About....My Head.  I Wish I Had Something To Talk About In This Opening So I Will Just Say What I Think I Need To
@@ -38,4 +38,4 @@ Oh Also [[Explicitly Showcased/Home Page I Guess/Socials\|Socials]] Totally Didn
 
 <center><sub>If I Still Live Then I Still Observe</sub></center>
 
-![40e956a5545bd6530d36627f3c2a33e7 1.jpg](/img/user/Explicitly%20Showcased/Home%20Page%20I%20Guess/40e956a5545bd6530d36627f3c2a33e7%201.jpg)
+![40e956a5545bd6530d36627f3c2a33e7 1.jpg\|20000](/img/user/Explicitly%20Showcased/Home%20Page%20I%20Guess/40e956a5545bd6530d36627f3c2a33e7%201.jpg)
