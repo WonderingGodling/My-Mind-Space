@@ -50,6 +50,31 @@ Literally: ‘the study of tools from living things’
 - ethanol,
 - hydrogen
 
+```mermaid
+mindmap
+  root((Types Of Processes))
+    Production Of Biochemicals
+     small molecules  metabolites
+     large molecules  enzymes
+    Production Of Biomass (Cells)
+        bakers yeast,
+        SCP
+        vaccines
+    Production Of Foods
+        dairy products
+        brewing
+        pickled foods
+    Degradative Processes
+        sewage treatment
+        composting
+    Bioenergy
+        "biogas"/methane
+        ethanol,
+         hydrogen
+```
+
+
+
 
 ### Reasons Microorganisms Are Used In Biotechnology
 - Readily grown under controlled conditions
@@ -494,6 +519,7 @@ The main components of plastics are the polymers with additives
 	- unusual anionic polypeptide in which D and/or L-glutamate is polymerized via γ-amide linkages  
 - Non-toxic, non-immunogenic and edible  
 
+Anthrax Capsule Made From Glutamic Acid
 ##### Applications of γ-PGA
 
 ###### FOOD  
