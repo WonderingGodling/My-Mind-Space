@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-notes-dump/","tags":["Tagless"],"noteIcon":"","dg-note-properties":{"Type":null,"up":"[[Branches/Starfall]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-notes-dump/","title":"Starfall Notes","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Branches/Starfall]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Starfall","Dnd Notes","Notes Dump"],"title":"Starfall Notes","comments":true,"tags":["Tagless"]}}
 ---
 
 a<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -11,31 +11,6 @@ a<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;fon
 
 
 
-
-Lesh: About 5ft
-Kraa: Within Arms ReacH
-Pira: About The Size Of A Human Eyeball
-
-
-
-**Safe** Map Traversal:
-- Following Road:
-	- Walk: Hexagon = 4 Days
-	- Run: Hexagon = 2 Days
-	- Carriage: 1 Day + Hexagon = 1 Day
-	- Horse: Hexagon = 1 Day
-	- Car: Hexagon = ½ Day
-	- Boat: Hexagon= 1 Day
-- Off-Road: 
-	- Walk: Hexagon = 8 Days
-	- Run: Hexagon = 6 Days
-	- Carriage: Hexagon = 2 Days
-	- Horse: Hexagon = 1 Day
-	- Car: Hexagon = 1 Days
-	- Boat: Hexagon= 1 Day
-Unsafe Is Twice As Fact
-DC 13 For Speed To Be Halved Every Hexagon
-
 General Idea Is At Least Two (Maybe A Secret Third) Groups Going Around The World Hopefully Not Fucking Each Other Over
 Lining The Days Up So If You Do Have An Impact On Each Other You Can React Accordingly
 https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjITTE/edit?gid=0#gid=0
@@ -43,23 +18,19 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Starfall Story Beats\|Starfall Story Beats]]
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Starfall NPC\|Starfall NPC]]
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Starfall Locations To Work On\|Starfall Locations To Work On]]
-[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/General Worldbuilding\|General Worldbuilding]]
-
-
-
-
-
-
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Starfall General Worldbuilding\|Starfall General Worldbuilding]]
 
 
 - Let [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] Be Implied
 
 
-
-
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Other/Jetty\|Jetty]] 
 
 - [ ] Some Capitals Have Fast Travel Stuff To Neighbouring Cities
+	- [ ] Portals
+	- [ ] Sky Worms
+	- [ ] Slime-Clone-Stasis
+		- [ ] You Go Into A Gelatinous Cube And Lose Consciousness, Two Hours Later You Wake Up In A Gelatinous Cube In Your Desired City
 - [ ] Subways Are Capital To Capital
 - [ ] ([[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Named Towns And Cities/Boston\|Boston]]) Havent Gotten Around To Writing That But The Idea Was A Mass Migration Of People From Naga Who Eventually Formed Their Own Town
 - [ ] (Gi Fotias) You Could Get Around Them In Less Than A Day
