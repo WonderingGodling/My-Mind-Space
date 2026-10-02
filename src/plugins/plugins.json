@@ -34,7 +34,7 @@
       "installedVersion": "1.0.0",
       "installedRef": "v1.0.0",
       "installedAt": "2026-10-02T19:27:51.900Z",
-      "enabled": true,
+      "enabled": false,
       "files": [
         "src/plugins/garden-stats/README.md",
         "src/plugins/garden-stats/garden-plugin.json",
