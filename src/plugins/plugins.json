@@ -42,7 +42,10 @@
         "src/plugins/garden-stats/styles/stats.scss",
         "src/plugins/garden-stats/templates/stats.njk"
       ],
-      "order": 30
+      "order": 30,
+      "settings": {
+        "topCount": 16
+      }
     },
     "image-lightbox": {
       "repo": "oleeskild/garden-plugin-image-lightbox",
