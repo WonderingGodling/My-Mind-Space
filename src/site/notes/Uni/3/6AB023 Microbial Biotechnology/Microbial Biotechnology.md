@@ -17,15 +17,8 @@ Biotechnology = bios (life) + logos (study of essence)
 Literally: ‘the study of tools from living things’
 
 ### Timelines
+[![](https://mermaid.ink/img/pako:eNptU01v2zAM_SuELr14gZ14iW0MO2zr0GHobafBF0bmHKGyZOgjmBf0v49y7LYZppMkku89PkoXIW1HohFBDaSVoda1BngFFTTBg_LBugnsLzgqG0iejNW2n9asoi7q5jYEH47uIzxE06NTaIBMz7Dk4Ds6DfeOniaQVhkP4UQQyA1wdwNw9wpeFQ18M4F6h0FZc4X-wWVquaQOoqdFnjzRwHrdlMGgpLN8NQtC08Eck6hf5CjTMwpY17G0YAHlSdGZFlGLlrkCx1HzZhbARClB4ohSBUU-3VzJeD8TRR2iI79Zu0irgfvo7Ehsx1diwhewT_8zFbZ5nqfGu8jdKNTKv2n_8doaC7u1XV0NXeyYNVnXo1F-8KlBewzIDaeJSGvs7Iae4Iw64pFHPTrbRRnYEfYiqLMK7FwA5GENAzmZGDmm0fXJ_1UbeMahzTyVf0hZSpc8RkdAisU5MMjmoM4Y5mjZBn5b7zxpkmmSQwxogk8srTD2TLoV0JOhsGhdZ8e5TM7deJGJ3qlONMFFygTrHDAdxSVZ2QomHagVDW87dE-taM0z14xoflo7rGXOxv60HuLY8bv6opDf12sGGR7bZxtNEE1Z1DOEaC7it2j2u01VlUWZ50W5L6uyzMQkmu2mOlTFtiwP78tDXWz3z5n4M3Pmm3pX7vZ5Chz2db3lAuoUe_F4_Yrzj3z-C7FNPxQ?type=png)](https://mermaid.live/edit#pako:eNptU82OmzAQfpWRL3uhESRpBKjqoe1WW1V766niMjFTYq2x0WBHpdG-e8cEdjdVfcHY4-9v7IvSviVVq2B6ssZRw40DGcEES_BgxuB5Av8LjsYH0ifnre-mtaqoiqq-3YIPR_4ID9F1yAYdkOsElhi-I1u4Z3qaQHvjRggngkDcw90NwN0reFnU8M0F6hiD8e4K_UOOmWWRWogjLfL0iXrRy1MGvdHsZWkWhK6FeU-jfZFjXCco4LkVacED6pOhMy2iFi3zCRwGK5NZgBClAo0DahMMjWnlSibzmSjaEJnGzeoijRruI_uBJI6vJIQvYJ_-Fyps8zxPxtsobgxaM76x_3i1JsJuYzfXQJc4Zk2eO3Rm7Mdk0B8DiuHUEe2dn9OwE5zRRjxKqwf2bdRBEpEsgjmbIMkFQGlW3xPrxCh7FrlL-a_aYBQc2sxd-YdUpLQpY2QCMiKOwaGEgzYTmKOXGORuvRvJkk6d7GNAF8bE0ijnz2QbBR05CovWtXdSK-TiZlSZ6ti0qg4cKVOis8f0qy4pykYJaU-NqmXaIj81qnHPcmZA99P7fj3GPnan9ScOrdyrLwblfr1WkJO2ffbRBVXvqnyGUPVF_Vb1YbupdqWM9_uqzPeHKlOTqot8s9tX2-KwPxRFKZ_nTP2ZOfNNlcu7yctyn--2qShT1BrJ4vH6FOcX-fwXs0M_CA)
 
-```chronos
-- [1919] biotechnology | Hungarian engineer Karl Ereky coins the term 'biotechnology'
-- [1981] Integration |The integrated use of biochemistry, microbiology and chemical engineering in order to achieve the technological application of the capacities of microbes and cultures.
-- [1981] European Federation of Biotechnology
-- [2000] Industrialisation | Microbial biotechnology is the use of microorganisms to obtain an economically valuable product or activity at a commercial or large industrial scale. The microorganisms used in are either natural, laboratory-selected mutants or ‘novel’ genetically engineered strains
-```
-(What This Looks Like My End)
-![chronos-timeline-2026-09-30.png](/img/user/chronos-timeline-2026-09-30.png)
 #### Putting Microbes To Work
 - Traditional biotechnology includes: making bread, cheese, wine, beer and other fermented food products
 - 20th century saw the birth of the modern biotechnology industry
@@ -33,18 +26,11 @@ Literally: ‘the study of tools from living things’
 
 #### The Development Of Biotechnology
 
-```chronos
-- [1850~1900] Traditional processes | brewing, wine, dairy, fermented foods (e.g. pickles, soy sauce)
-- [1900~1940] Industrial Era | Sewage Treatment, Solvent And Vaccine Production
-- [1940~1980] Recent Progress | Antibiotics, Enzymes, Amino Acids, Steroid Hormone Transformations, Single Cell Protein (SCP)
-- [1980~] Current Day | Recombinant DNA Productions (E.G Human Insulin, Interferon)
-```
-(What This Looks Like My End)
-![chronos-timeline-2026-09-30(2).png](/img/user/chronos-timeline-2026-09-30(2).png)
+[![](https://mermaid.ink/img/pako:eNpNUsFu2zAM_RVCpxYwDDtRHMcYBmRJsO7QrViGHQZfFIlxhNpiIMvt3CD_PipB2vlg6JnUe4_PPAlNBkUlgu2wtQ5rXzvgJ9jQIqzxBVs6dugC_NjDF0sB9cFRS81468zLWVbBL6-MDZacauHoSWPfYw-fdv4z7Dy-WtckwG9MwCjrxwT26CMtGtgTmR7uMG1SOFr93GKfQE8j9GrQeP-us8hY55szQx-8ZZmNV1eBLb6qBtkCqhA5E9hS-xI9L52B30prFoYnT2bQ0eIHo2TGn6hjK5cbz66vlEsX7I6ntZq9bNzb2EVTy846gqW2hsE2oCdr4IF8Ry7KK9fvGaioERt4aM5whW0b2QNaB3fb1dP7RI8cvXewVmMFq8H7aIPB1QHbom5nnYofvy__s89ZbdKv8DB0ynEe_cD_LeED--FQyd2LRDTeGlEFP2AiOk5aRShOUbcW4YAd1qLio1H-uRa1O_Odo3J_iLrbNU9Dc7iB4WhUwLVVjVcfHeh4gBUNLohqlskLhahO4q-oimlaljKXWZbLQpaSi6OoJmk5L_OJlPOZnC_ySXFOxNtFM0sXUzktsvm0mBYzrhSJQN4o8o_XBb3s6fkfccXh3Q?type=png)](https://mermaid.live/edit#pako:eNpNkkGP2jAQhf_KyKddKYoSMCFEVSUKqNvDtqtS9VDlYuIhWJt4kO3sNov47zsGsW0OkScev_fNi0-iIY2iEsH02BmLtast8BNM6BDW-IIdHXu0AX7s4YuhgM3BUkfteOvMy1lWwS-ntAmGrOrg6KhB79HDp537DDuHr8a2CfAbE9DKuDGBPbooixr2RNrDHaZtCkfTPHfoE_A0gldDg_cfPouMfb5ZPfjgDNtsnLoabPFVtcgIqELUTGBL3UtkXloNv1XTsDE8OdJDExH_KUpW_IlNbOXt1jH1VXJpg9nxtKZhlo19G_sIteyNJVg2RnOxDejIaHgg15ON9sr6PRcqesQGHpozXGHXRfWAxsLddvX0MdEjR-8srNVYwWpwLmJwcSVgLOp3xqr48fvyP3zOapN-hYehV5bz8AP_t4QXzMOhkr0XiWid0aIKbsBE9Jy0iqU4Rd9ahAP2WIuKl1q551rU9sxnjsr-IepvxxwN7eFWDEetAq6Nap3ijr3qfGxByxOsaLBBVHKxuGiI6iT-iqqYpmUpc5lluSxkKWUiRlFN0nJe5hMp5zM5X-ST4pyIt4tpli6mclpk82kxLWa8UyQC-UqRe7ze0MtFPb8DXBriNQ)
 
 
 ### Types Of Processes
-
+[![](https://mermaid.ink/img/pako:eNp1ksFu2zAMhl9F4CkFjMxeK7vxcSl6K1ZgOw2-KBLjCJFEQ5LbuUHefbKDLCqG6WTy_0hav3gCSQqhBaudsmLofOcY80Rxtfo5DRjY9z179SQxBAx3dxedzSk1yqjJzcA3TfKAVkthwpVgwQpjmCWDcjSpEbMYxY6MjniDjPA95hC6j8negH_mWBECW23RmPD3Z-azE0f0gU0oQixy4cf2NQ_fhJTa_W_AM5EKOa6E9hMbLtAnZefxXbs-Tw1aHg0qts-7PGHvhRJRv-HNyLwq4LtIHkSPIlp0Mdck2YFCzOYkC9Ch76cc62CnqRehgy_J5INwmKtLhswnV9hhUp56dFBA77WCNvoRC7DorZhDOM1wBzG9K3bQpk8l_LGDzp1TzSDcLyJ7LfM09odrMA7puvikRbp4IvZpKWYEnUK_pdFFaHldLz2gPcFvaKuGr_nma82r-7qpHhtewARtvVnX9WNTVtWSOxfwsYws1w-c3zcl5-VDw_mmrApApSP5l8suLyt9_gPG2ub7?type=png)](https://mermaid.live/edit#pako:eNp1ksFu2zAMhl9F4CkFjCxOajvxcSl6K1ZgOw2-MBbrCJFEQ5LbuUHefYqDziqKCTAg8v9IWr90hpYlQQ1GWWmwb1xjhXDMYbH4NfbkxY8X8ey4Je_J393d9LhiTg5tUGyvxHfF7ZGMalH7f4g3qLUwrKkddOwkDAU8sFaBZkij6yiFyL6PZga-zDHovVjsSWs__01cBzyR82Ik9CFLhZ_75zR8xbZV9n8DHpmlT3GJyo2iv0GflIOjN2W7NNWr9qRJipe0ywN1DiUG9Uqzk2mVpzeMHgRHGAzZkGotm559SOZEC8iS68YUa-CguEPfwLdo8hEtpeqUYf3JFXEcpeOOLGTQOSWhDm6gDAw5g9cQzle4gRDvlRqo41aiOzXQ2Eus6dH-ZjYfZY6H7vgRDH08Lj0ojAefCbKS3J4HG6AuyvXUAuoz_IE6r4plsVuXRb4pq3xbFRmMUJe7ZVluq1WeT7lLBu_TxNXyvig21Sp-m939drtdR56kCuyebo95etOXvyig5xE)
 #### Production Of Biochemicals
 - small molecules - metabolites
 - large molecules - enzymes
@@ -63,6 +49,7 @@ Literally: ‘the study of tools from living things’
 - "biogas"/methane
 - ethanol,
 - hydrogen
+
 
 ### Reasons Microorganisms Are Used In Biotechnology
 - Readily grown under controlled conditions
@@ -302,7 +289,9 @@ Blanks Support Growth In The Shape You Need
 ![Pasted image 20260925104101.png](/img/user/Pasted%20image%2020260925104101.png)
 a) draft-tube configuration, b) a split cylinder device, c) an external loop system
 
-### Scale-up of Oldenlandia affinis cultures in air-lift photobioreactors
+### Photobioreactors
+![Bioreaktor_quer2.jpg](/img/user/Bioreaktor_quer2.jpg)
+#### Scale-up of Oldenlandia affinis cultures in air-lift photobioreactors
 - Plants are source of a large number of useful pharmaceuticals.
 - Cyclotides are di-sulfide rich mini-proteins with broad range of biological activity such as anti-HIV, cytotoxic and antimicrobial.
 - The major problems hindering the development of large-scale cultivation of plant cells include:
@@ -310,7 +299,7 @@ a) draft-tube configuration, b) a split cylinder device, c) an external loop sys
 - Shake flask cultures are used, but industrial fermentation of natural products requires highly reproducible conditions.
 - Need for scale-up and fermenter.
 
-### Photobioreactors for cyclotide production
+#### Photobioreactors for cyclotide production
 - The bubble column was operated at 800 ml working volume.
 	- O. affinis suspension culture started to foam after three days and plant cells adhered to the glass tube of the reactor.
 - Adhesion is correlated with excretion of polysaccharides That Are Poduced
@@ -326,27 +315,28 @@ The design of bioreactor is a very important factor!
 - We need to know how to obtain optimal operating conditions.
 - It is necessary to keep: temperature, pH, agitation, oxygen concentration in the medium and other factors constant during the process using a suitable control system e.g. sensors/ biosensors.
 
-### BIOSENSORS in fermentation processes
+#### SENSORS
 
-#### Physical sensors
+##### Physical sensors
 - thermistor
 - gas flow meter
 - tachometer
 - foam sensor
-#### Chemical sensors
+##### Chemical sensors
 - pH meter
 - DO electrode (dissolved oxygen)
 - CO2 analyser
 - oxygen analyser
 - NAD analyser
-#### Biosensor - a sub group of chemical sensors.
+ Biosensor - a sub group of chemical sensors.
 
-### SENSORS
-In-line
+##### Linearity
+###### In-line
 - an integrated part of the fermentation equipment, obtained data are used directly for process control
-On-line
+
+###### On-line
 - an integrated part of the fermentation equipment, direct measurement of fermentation parameters, the measured value cannot be used directly for control, an operator required for entering the data into the control system e.g. gas analyser
-Off-line
+###### Off-line
 - not part of the fermenter, requires sampling, the measured value cannot be used directly for control, operator needed for measurement and entering the data into the control panel
 	- e.g. sample for spectrophotometric analysis
 
@@ -362,6 +352,7 @@ Real-time → instant, as it happens
 - Modelling of fermentations
 
 ### Foaming
+![foamtakaawa-150x150.jpg](/img/user/foamtakaawa-150x150.jpg)
  Foaming is caused when:
 - microbial cultures excrete high levels of proteins and/or emulsifiers
 - high aeration rates are used
@@ -370,43 +361,21 @@ Excess foaming causes loss of culture volume and may result in culture contamina
 
 Foaming is controlled by use of a foam-breaker and/or the addition of anti-foaming agents (silicon-based reagents)
 
-### SPINNING CONES AS FOAM CONTROLLERS
-
-### Temperature control
+#### SPINNING CONES AS FOAM CONTROLLERS
+![foambeater-150x150.jpg](/img/user/foambeater-150x150.jpg)
+#### Temperature control
 - Heat supplied by direct heating probes or by heat exchange
 - Microbial growth is very sensitive to temperature changes - accurate temperature feed-back control is required
 - Fermentations are exothermic - cooling may be required
 
-### pH control
+#### pH control
 - Most cultures have narrow pH growth ranges
 - The buffering in culture media is generally low
 - Most cultures cause the pH of the medium to rise during fermentation
 - pH is controlled by using a pH probe, linked via computer to NaOH and HCl input pumps.
 
 ### Biosensor
-Constructed device which employs biologically active material which provides specific recognition of the target analyte, to a transducer, whichvgenerates electrical signal directed to a digital reader/control system.
-
-### Transducer
-A physical element which converts the stimulus generated by the bioactive layer to an electrical
-signal.
-
-It may detect:
-- a redox reaction
-- light emission
-- changed levels of ions
-- luminescent/fluorescent signal
-- a change in mass associated with surface
-
-### Biosensor in monitoring and control
-![Pasted image 20260930095701.png](/img/user/Pasted%20image%2020260930095701.png)
-### Biosensors
-Transducer
-- Electrochemical
-- amperometric
-- potentiometric
-- Optical
-- Mechanical
-- Thermal
+Constructed device which employs biologically active material which provides specific recognition of the target analyte, to a transducer, which generates electrical signal directed to a digital reader/control system.
 
 Bioactive components
 - Enzymes
@@ -416,18 +385,6 @@ Bioactive components
 - tissues
 - Nucleic acids
 
-![Pasted image 20260925104627.png](/img/user/Pasted%20image%2020260925104627.png)
-
-### Immobilised enzyme biosensor
-- Porous polycarbonate layer, limits the diffusion of the substrate into the second Immobilised Enzyme Layer, preventing the reaction becoming enzyme-limited
-- The third layer, cellulose acetate, permits only small molecules, such as hydrogen peroxide, to reach the electrode
-- The substrate is oxidised, in the enzyme layer, producing hydrogen peroxide, oxidised on platinum electrode
-- The resulting current is proportional to the concentration of the substrate
-
-### Penicillin biosensor
-![Pasted image 20260930095818.png](/img/user/Pasted%20image%2020260930095818.png)
-![Pasted image 20260930095831.png](/img/user/Pasted%20image%2020260930095831.png)
-### Biosensors
 Measuring devices comprising a biological element (e.g.
 enzyme, antibody, microorganism) connected or integrated
 to a physical or chemical transducer
@@ -444,6 +401,44 @@ Advantages:
 Restrictions:
 - optimal pH
 - optimal temperature
+
+
+
+#### Biosensor in monitoring and control
+![Pasted image 20260930095701.png](/img/user/Pasted%20image%2020260930095701.png)
+
+
+
+![Pasted image 20260925104627.png](/img/user/Pasted%20image%2020260925104627.png)
+
+#### Immobilised enzyme biosensor
+- Porous polycarbonate layer, limits the diffusion of the substrate into the second Immobilised Enzyme Layer, preventing the reaction becoming enzyme-limited
+- The third layer, cellulose acetate, permits only small molecules, such as hydrogen peroxide, to reach the electrode
+- The substrate is oxidised, in the enzyme layer, producing hydrogen peroxide, oxidised on platinum electrode
+- The resulting current is proportional to the concentration of the substrate
+
+#### Penicillin biosensor
+![Pasted image 20260930095818.png](/img/user/Pasted%20image%2020260930095818.png)
+![Pasted image 20260930095831.png](/img/user/Pasted%20image%2020260930095831.png)
+
+### Transducer
+A physical element which converts the stimulus generated by the bioactive layer to an electrical
+signal.
+
+Can Be:
+- Electrochemical
+- amperometric
+- potentiometric
+- Optical
+- Mechanical
+- Thermal
+
+It may detect:
+- a redox reaction
+- light emission
+- changed levels of ions
+- luminescent/fluorescent signal
+- a change in mass associated with surface
 
 ## Week 2 Biodegradable Polymers.  
 
@@ -486,7 +481,7 @@ Classification by susceptibility to microorganism/enzymatic attack:
 ### Polymers and plastics  
 Plastics are materials formulated and prepared for use  
 The main components of plastics are the polymers with additives  
-![Pasted image 20261002000901.png](/img/user/Pasted%20image%2020261002000901.png)![Pasted image 20261002000902.png](/img/user/Pasted%20image%2020261002000902.png)
+![Pasted image 20261002000902.png](/img/user/Pasted%20image%2020261002000902.png)
 
 ### Biopolymers & Microbes
 
@@ -722,7 +717,7 @@ MTT assay with HEK293 shows the horizontally printed specimen tended to produce 
 
 ![Pasted image 20261002004902.png](/img/user/Pasted%20image%2020261002004902.png)
 
-#### What is bacterial cellulose ?  
+#### Bacterial Cellulose 
 - Bacterial cellulose (BC) is a natural biopolymer synthesized in abundance by different strains of bacteria  
 - Consist only glucose monomer  
 - BC unique properties:  
@@ -739,8 +734,15 @@ MTT assay with HEK293 shows the horizontally printed specimen tended to produce 
 - Chemically pure  
 - Ultra fine network
 
-##### Why is it produced?  
+
+##### Why it is produced  
 ![Pasted image 20261002004951.png](/img/user/Pasted%20image%2020261002004951.png)
+Virulence
 
 ##### Where has it been applied?  
 ![Pasted image 20261002005015.png](/img/user/Pasted%20image%2020261002005015.png)
+
+
+
+Phylogenetic tree of bacteria and archaea, highlighting those that carry out fermentation
+![Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png](/img/user/Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png)
