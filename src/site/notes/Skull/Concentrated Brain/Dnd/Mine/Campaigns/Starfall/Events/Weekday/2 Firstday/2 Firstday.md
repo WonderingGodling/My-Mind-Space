@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/2-firstday/2-firstday/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/2-firstday/2-firstday/","title":"Firstday","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/Weekday]]"],"down":null,"Yesterday":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/1 Day De Les Phantoms/1 Day De Les Phantoms]]"],"Tomorrow":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/3 Cratey/3 Cratey]]"],"Embedded":null,"aliases":["Day 2","Firstday"],"title":"Firstday","comments":true,"tags":["Tagless"]}}
 ---
 
 # Firstday
@@ -39,3 +39,21 @@ Wherever Bee Is [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/We
 ### Krypton Somewhere
 - Three Kobolds
     
+### Hell
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Emil\|Emil]] Is Having [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Sakka\|Sakka]]Cheap Come And Add Protection Spells TO Her Place
+	- [[Black\|Black]] Carvings On The Handle, Decorated With [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]] And Swirls
+	- Keep Door Locked -> When Touch Door If ([[Skull/Concentrated Brain/Random Thoughts/PetPlay Stuffs\|Owner]] Open) (Not [[Skull/Concentrated Brain/Random Thoughts/PetPlay Stuffs\|Owner]] Zap) 
+		- Fault Points:
+		- Door= Oared, [[Draw\|Draw]], Dore
+		- [[Skull/Concentrated Brain/Random Thoughts/PetPlay Stuffs\|Owner]] = Knower
+		- Not= Knot
+			- Door Opens If You Are "The Knower"
+			- Get Electrocuted If You Tie Or Fuck Emil
+	- "Usually More Expensive"
+	- "As Long As You [[Branches/People\|People]] Dont Go In I Dont Care"
+- Evil-Murderer-Guy That Gets The Group To Work For Him But Is Really Nice
+	- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Aviresh/Chol\|Chol]]
+	- Leads A Gang But Isnt A Gang Leader
+	- From [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Dolad/Named Towns And Cities/Kent\|Kent]]
+	- Wants Them To Get A Helmet From Police Storage And Will Organise Transport To Kent For Them Since He Is Heading That Way Anyway
+		- Its His Helmet, Made Of Gold And Has Purple Plumage

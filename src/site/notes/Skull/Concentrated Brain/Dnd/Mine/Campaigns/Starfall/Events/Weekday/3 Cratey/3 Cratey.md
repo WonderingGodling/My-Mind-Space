@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/3-cratey/3-cratey/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/3-cratey/3-cratey/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/Weekday]]"],"down":null,"Yesterday":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/2 Firstday/2 Firstday]]"],"Tomorrow":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/4 Atal/4 Atal]]"],"Embedded":null,"aliases":["Cratey","Day 3"],"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 Cratey
 
+
+## Hell
+- "Hot Singles In Your Area" News Add
+	- Fire Elemental Dating Group
+		- Can Find A Devil To Join You For The Day
+			- Write Her Sheet
 ## Day
 
 

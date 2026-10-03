@@ -346,7 +346,7 @@ Free Spirit- One Death Save
 - [ ] Whats' Names
 - [ ] Picture Frames
 - [ ] Leather Goods
-- [ ] (At A Push) Trevor Francis Tracksuits From A Mush In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia 1/Shepards Bush\|Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia 1/Shepards Bush]]
+- [ ] (At A Push) Trevor Francis Tracksuits From A Mush In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Shepards Bush\|Shepards Bush]]
 
 ###### Misc
 Without Influence [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Group 1/Qutes\|Qutes]] Makes 350 Silver Max (Check Her Pricing)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/home-page/","title":"Horizon","tags":["Home","Rambling","gardenEntry","Website","Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type:":null,"up":"[[Branches/Explicitely Showcased]]","down:":null,"Yesterday:":"N/A","Tomorrow:":"N/A","aliases":["Horizon","home","Home Page","Website"],"Next:":"N/A","Previous:":"N/A","title":"Horizon","comments":true,"tags":["Home","Rambling","gardenEntry","Website","Tagless"],"dv_yesterday":"N/A","dv_tomorrow":"N/A","dv_next":"N/A","dv_previous":"N/A"}}
+{"dg-publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/home-page/","title":"Horizon","hideInGraph":true,"tags":["Home","Rambling","gardenEntry","Website","Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type:":"Home Page","up":"[[Branches/Explicitely Showcased]]","down:":null,"Yesterday:":"N/A","Tomorrow:":"N/A","aliases":["Horizon","home","Home Page","Website"],"Next:":"N/A","Previous:":"[[Explicitly Showcased/Home Page I Guess/Old Home Page]]","title":"Horizon","comments":true,"tags":["Home","Rambling","gardenEntry","Website","Tagless"],"Embedded":null,"Similarly Rooted":null,"Date-Created":"2026-10-02T15:22:00","Date-Modified":"2026-10-03T03:22:00","description:":null,"dv_previous":"[[Explicitly Showcased/Home Page I Guess/Old Home Page]]","dv_yesterday":"N/A","dv_tomorrow":"N/A","dv_next":"N/A","dv_type":"Home Page"}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
@@ -24,10 +24,10 @@ If You Are Looking To Cheat At Dnd Then I Am Sorry To Tell You That You Are Out 
 
 I Will Say Though I Am Willing To Take Some Feedback On....Yeahhhh I Should Name This
 Feedback On The Digital Secretions Of My Brain?
-Dometimes I Need SOmething To Do And OFtentimes This Is That Something
+Sometimes I Need Something To Do And Oftentimes This Is That Something
 
 Also Just Decided That The Website As A Whole Is My Digital Imprint
-My Journal Is Here Somewhere Both An Abridged And An Unabridgesd Version
+My Journal Is Here Somewhere Both An Abridged And An Unabridged Version
 I Would Like To Include More On The People In My Life As Well— If This Imprint Is Made Up Of Things I Care About Then The People I Care About Most Should Be In Here
 
 
@@ -50,3 +50,4 @@ Oh Also [[Explicitly Showcased/Home Page I Guess/Socials\|Socials]] Totally Didn
 
 
 [^1]:  275-2026
+

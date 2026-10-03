@@ -8,7 +8,6 @@
 }
 </style>
 
-
 # <center><span style="color:#9E2C5A">Going The Distance</span></center>
 
 ## Travel Time

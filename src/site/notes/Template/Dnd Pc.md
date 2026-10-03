@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/template/dnd-pc/","tags":["Tagless"],"dgShowToc":true,"noteIcon":null,"dg-note-properties":{"Type":"Dnd Character","up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"title":null,"comments":true,"tags":["Tagless"],"Embedded":null,"Similarly Rooted":null,"Date-Created":null,"Date-Modified":null,"Session Number":null,"description:":null,"icon":null,"Dead":null,"description":null,"race":null,"gender":null,"class":null,"Alies":null,"Enemies":null,"Player Character":null,"Character Level":null,"Dnd World":null}}
+{"dg-publish":true,"permalink":"/template/dnd-pc/","tags":["Tagless"],"dgShowToc":true,"noteIcon":null,"dg-note-properties":{"Type":"Dnd Character","up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"title":null,"comments":true,"tags":["Tagless"],"Embedded":null,"Similarly Rooted":null,"Date-Created":null,"Date-Modified":null,"Session Number":null,"description:":null,"icon":null,"Dead":null,"description":null,"Lineage":null,"gender":null,"class":null,"Allies":null,"Enemies":null,"Player Character":null,"Character Level":null,"Dnd World":null}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
@@ -14,7 +14,7 @@
 
 
 ## General
- Race:  
+ Lineage:  
  Class: 
  Alignment: 
  Background: 
@@ -52,15 +52,26 @@
 ### Attacks
 
 | Attack | To-Hit | Damage |
-| ------ | ------ | ------ |
+| :----: | :----: | :----: |
 |        |        |        |
 
-### Spells
+### Spells And Abilities
 
-| Constitution |     |     |
-| ------------ | --- | --- |
+| Spellcasting | Save | Bonus |
+| :----------: | :--: | :---: |
+|              |      |       |
 
-## Spell Slots
+
+|  Level  | Total | Expended | Requirements | Duration |
+| :-----: | :---: | :------: | :----------: | :------: |
+|    0    |   ∞   |    ∞     |              |          |
+| [Spell] |   <   |    <     |              |          |
+
+
+| Abilities |    <     |     <     |      <       |
+| :-------: | :------: | :-------: | :----------: |
+|   Name    | Max Uses | Uses Left | Refresh Time |
+|           |          |           |              |
 
 # Inventory
 

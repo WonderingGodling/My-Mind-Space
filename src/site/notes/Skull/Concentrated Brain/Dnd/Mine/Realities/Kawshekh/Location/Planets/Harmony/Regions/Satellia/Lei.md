@@ -22,7 +22,7 @@ Take Their Weapons For The Festival
 		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Generic Rogue Shopkeep Sheet\|Generic Rogue Shopkeep Sheet]]
 		- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Generic Shopkeep Sheet 2\|Generic Shopkeep Sheet 2]]
 - Transportation Arrangement Following Festival To Any Nearby Or Capital Cities (Train/Carriage Escort)
-
+[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Lei\|Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Lei]]
 ### North (Main Stage)
 
 #### Optional Combat Arena
@@ -220,3 +220,7 @@ Without Influence [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Charact
 
 
 <center><sub>Done :)</sub></center>
+
+
+
+description: "" 
