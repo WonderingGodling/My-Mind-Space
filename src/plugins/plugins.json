@@ -18,7 +18,7 @@
       "repo": "oleeskild/garden-plugin-breadcrumbs",
       "installedVersion": "1.0.0",
       "installedRef": "v1.0.0",
-      "installedAt": "2026-10-02T19:27:36.167Z",
+      "installedAt": "2026-10-03T16:05:59.615Z",
       "enabled": true,
       "files": [
         "src/plugins/breadcrumbs/README.md",
