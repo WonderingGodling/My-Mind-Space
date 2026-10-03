@@ -8,7 +8,10 @@
 # <center><span style="color:#FFA09C">Hell</span></center>
 https://watabou.github.io/city-generator/?size=34&seed=2022110150010&name=Hell&population=40358&citadel=1&urban_castle=1&plaza=0&temple=0&walls=1&shantytown=0&coast=0&river=1&greens=0&hub=1
 
-> [!NOTE] Known For Its Good Times And Bad [[Branches/People\|People]] Or Perhaps Its Good Times **With** Bad [[Branches/People\|People]]
+> [!NOTE] City Of Interest
+> Known For Its Good Times And Bad [[Branches/People\|People]] Or Perhaps Its Good Times **With** Bad [[Branches/People\|People]]
+> ![306464.jpg](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named%20Cities%20And%20Towns/306464.jpg)
+
 
 Pop: 40k
 Imports: Vegetables, Meat And Magicks
