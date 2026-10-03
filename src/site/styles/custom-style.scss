@@ -10,4 +10,114 @@ body {
     //  h1 {
     //   color: black;
     //  }
+    /* merriweather-latin-400-normal */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/merriweather@latest/latin-400-normal.woff2) format('woff2'), url(https://cdn.jsdelivr.net/fontsource/fonts/merriweather@latest/latin-400-normal.woff) format('woff');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+    p { ::selection { background: #00D230; } ::-moz-selection { background: #00D230; } ::-webkit-selection { background: #00D230; } }
+    /* Updated 2022-02-28 */
+
+.dashboard {
+    padding-left: 25px !important;
+    padding-right:25px !important;
+    padding-top: 20px !important;
+}
+
+.dashboard .markdown-preview-section {
+    max-width: 100%;
+}
+
+/* Title at top of the document */
+.dashboard .markdown-preview-section .title {
+    top: 60px;
+    position: absolute;
+    font-size: 26pt !important;
+    font-weight: bolder;
+    letter-spacing: 8px;
+}
+
+.dashboard h1 {
+    border-bottom-style: dotted !important;
+    border-width: 1px !important;
+    padding-bottom: 3px !important;
+}
+
+.dashboard div > ul {
+    list-style: none;
+    display: flex;
+    column-gap: 50px;
+    flex-flow: row wrap;
+}
+
+.dashboard div > ul > li {
+    width: 650px;
+}
+    /*
+ * Obsidian live preview emacs bullet list display
+ * by Lilian POULIQUEN
+ * 
+ * Works on the 5 first levels of the list, higher levels will be displayed as the 1st level.
+ * 
+ * Based on:
+ *   - https://forum.obsidian.md/t/style-bullets-in-lists-by-level/46152
+ *
+ * Special thanks:
+ *   - wreckable (Reddit: https://www.reddit.com/user/wreckable/) for sharing it on Reddit
+ *   - LukeSKY75_ (Reddit: https://www.reddit.com/user/LukeSKY75_/) for making it work in reading mode and improving the CSS
+ * 
+ * Reddit post and comments: https://www.reddit.com/r/ObsidianMD/comments/urhx0g/comment/kbyy6k7/
+ */
+
+/* LEVEL 1: Bullet */
+.markdown-reading-view .markdown-preview-section > div > ul > li > .list-bullet:after,
+.markdown-source-view.mod-cm6 .HyperMD-list-line-1 .list-bullet:after {
+    height: 7px;
+    width: 7px;
+    border-radius: 50%;
+}
+
+/* LEVEL 2: Hollow bullet */
+.markdown-reading-view .markdown-preview-section > div > ul > li > ul > li > .list-bullet:after,
+.markdown-source-view.mod-cm6 .HyperMD-list-line-2 .list-bullet:after {
+    height: 7px;
+    width: 7px;
+    background-color: transparent;
+    border-style: solid;
+    border-radius: 50%;
+    border-width: 1px;
+}
+
+/* LEVEL 3: Solid square */
+.markdown-reading-view .markdown-preview-section > div > ul > li > ul > li > ul > li > .list-bullet:after,
+.markdown-source-view.mod-cm6 .HyperMD-list-line-3 .list-bullet:after {
+    height: 7px;
+    width: 7px;
+    border-radius: 0%;
+}
+
+/* LEVEL 4: Triangle */
+.markdown-reading-view .markdown-preview-section > div > ul > li > ul > li > ul > li > ul > li > .list-bullet:after,
+.markdown-source-view.mod-cm6 .HyperMD-list-line-4 .list-bullet:after {
+    height: 0;
+    width: 0;
+    background-color: transparent;
+    border-radius: 0%;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-left: 8px solid;
+    border-right: 0px solid;
+}
+
+/* LEVEL 5: Small bullet */
+.markdown-reading-view .markdown-preview-section > div > ul > li > ul > li > ul > li > ul > li > ul > li > .list-bullet:after,
+.markdown-source-view.mod-cm6 .HyperMD-list-line-5 .list-bullet:after {
+    height: 4px;
+    width: 4px;
+    border-radius: 50%;
+}
 }
