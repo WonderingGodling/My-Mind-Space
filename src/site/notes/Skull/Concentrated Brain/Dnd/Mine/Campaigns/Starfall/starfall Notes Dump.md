@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-notes-dump/","title":"Starfall Notes","tags":["Tagless"],"dgShowToc":true,"noteIcon":null,"dg-note-properties":{"Type":null,"up":"[[Branches/Starfall]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Starfall","Dnd Notes","Notes Dump"],"title":"Starfall Notes","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date-Created":null,"Date-Modified":null,"Session Number":null,"description:":null,"icon":null}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-notes-dump/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
@@ -357,7 +357,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias\|Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias]] 
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town Events\|Hatchet Town Events]] 
 - [ ] Write more about [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Cambrighton\|Cambrighton]] and [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Aerynthalas\|Aerynthalas]] (Local Dragon)
-- [ ] Write more about [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/The Underground\|The Underground]]
+- [ ] Write more about [[The Underground\|The Underground]]
 - [ ] [[Wrighth Stuff/Wrighth Index\|Wrighth]]
 - [ ] Someone Slowly Getting Stronger Trying To Kill [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Kelannar\|Kelannar]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Sylinser\|Sylinser]]
@@ -661,7 +661,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Get Item If Win
 	- [ ] Get Snake If Lose
 - [ ] Wright More ABout The Countries And Cities
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/General Magic Stuff\|General Magic Stuff]]
+- [ ] [[General Magic Stuff\|General Magic Stuff]]
 - [ ] one sentence aesthetic descriptions of how each nation would appear to outsiders on a very outwardly level
 	- [ ] Which Churches Are Most Prominant
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Church\|Church]] Distribution
@@ -731,7 +731,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias\|Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias]] 
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town\|Hatchet Town]] 
 - [ ] Write more about [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Cambrighton\|Cambrighton]] and [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Aerynthalas\|Aerynthalas]] (Local Dragon)
-- [ ] Write more about [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/The Underground\|The Underground]]
+- [ ] Write more about [[The Underground\|The Underground]]
 - [ ] [[Wrighth Stuff/Wrighth Index\|Wrighth]]
 - [ ] Someone Slowly Getting Stronger Trying To Kill [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Kelannar\|Kelannar]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Sylinser\|Sylinser]]
@@ -1036,7 +1036,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Get Item If Win
 	- [ ] Get Snake If Lose
 - [ ] Wright More ABout The Countries And Cities
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/General Magic Stuff\|General Magic Stuff]]
+- [ ] [[General Magic Stuff\|General Magic Stuff]]
 - [ ] one sentence aesthetic descriptions of how each nation would appear to outsiders on a very outwardly level
 	- [ ] Which Churches Are Most Prominant
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Church\|Church]] Distribution
@@ -1081,6 +1081,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Mini Festival In Grease
 	- [ ] Historical
 	- [ ] Write A Speech For It
+
 
 
 
