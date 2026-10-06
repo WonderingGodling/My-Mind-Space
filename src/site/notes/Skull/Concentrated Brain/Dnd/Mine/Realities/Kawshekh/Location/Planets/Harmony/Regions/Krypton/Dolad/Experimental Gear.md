@@ -13,8 +13,8 @@
 
 
 
-[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Magic Items/Butter Blade\|Butter Blade]]
-[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Magic Items/Big Bonk\|Big Bonk]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Items/Starfall Magic Items/Kent Experimental Gear/Butter Blade\|Butter Blade]]
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Items/Starfall Magic Items/Kent Experimental Gear/Big Bonk\|Big Bonk]]
 
 
 
