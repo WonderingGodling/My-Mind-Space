@@ -54,6 +54,11 @@ Location: (Country And Number)
 Teiflings, Demons
 #### Population
 20k
+#### Languages
+### Government
+### Legal System
+
+### Differences Between Day And Night
 
 ### Nature
 #### Landscape & Climate

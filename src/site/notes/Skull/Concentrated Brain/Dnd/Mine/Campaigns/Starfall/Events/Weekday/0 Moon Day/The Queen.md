@@ -8,15 +8,19 @@
 }
 </style>
 
-# <center><span style="color:#323456"> </span></center>
+# <center><span style="color:#323456">The Queen </span></center>
 
 ![The Queen.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0%20Moon%20Day/Files%20And%20Shit/The%20Queen.png)
 
-Slox Moving
+<!--  
+Slow Moving
 Judgy
+--> 
 Fights With A Bident
 
 Has A Bed Made Of A Dragon 
+
+<!--  
 ## General
  Race:  
  Class: 
@@ -88,3 +92,5 @@ Languages:
 
 # Characteristics 
 
+
+--> 

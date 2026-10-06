@@ -9,16 +9,31 @@
 </style>
 
 
-# <center><span style="color:#FEDCBA"></span></center>
+# <center><span style="color:#331b1b">Renata.</span></center>
 
-
-
+<!-- 
+Level 17 
+--> 
 
 
 
 - Older tiefling woman (mid 50’s), well built muscular frame, dark burgundy skin with lighter red hair with white streaks. Lax expression, though clearly on guard. Loud, happy and not afraid to show it
 - Retired bladesinger knight (war, or a guard or whatever fits the story beats well) which through said experience received help from the house of Fontaine (also to be determined, whatever makes sense with her past). Now simply resting after a hectic life.
 - Got called in for a favor to train Sinclair as preparation for guarding Everett, throughout training become a mentor figure for Sinclair. Sees the paladin as a “good kid”, tries to make sure she’s as prepped for the real world as she can be
+- Graduated From Combat Institute B (In Hollywood)
+	- Was Somewhat Famous And Has Lead Armies
+- Renata Has Sentinel
+	- Taught It To Sinclair (Among Other Things)
+- Has A [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Renata Rapier\|Rapier]] That She Takes With Her Everywhere But Nobody Has Seen Her Use
+- Fought Sinclair With Her [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Old Guard Sword\|Old Guard Sword]]. 
+
+<!--  
+Immune To Sentinel
+Immune To Fire
+immunity to disease, frightened, And Charmed
+resistance to poison
+30 feet of darkvision. 
+--> 
 
  
 

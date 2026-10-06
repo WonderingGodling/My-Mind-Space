@@ -19,4 +19,4 @@ Hope You Liked It I Guess
 Actually If You Want A Reward Look At My [[Explicitly Showcased/Me/Aka\|Names]]
 
 9740-275-2026
-I Still Want To Make This Longer, Maybe Eventually Make It Look Like Some Other [[Branches/People\|People]]'s Pages But For Now You Just Get This
+I Still 

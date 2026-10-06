@@ -9,7 +9,7 @@
 </style>
 
 > [!CITE]  ​
-> Gi Fotias 25
+> [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Gi Fotias\|Gi Fotias]] 25
 
 ### description & Details
 About A Thousand Years Ago, A Small Group Of Four Or Five Nobles Decided To Silently Remove Themselves From The Politics Of The Capital And Set Up A Little Place For Themselves In A Forest. Though They Had Hoped To Fade Into Obscurity Many Caught Wind Of What The Nobles Were Up To And, To Their Surprise, Joined Them. This Is How The Two-Five Began Its Time On This World But Since The Original Settlers Never Talked About It The Story Is Now Known By Very Few. 
@@ -21,8 +21,8 @@ This Town Doesnt Have Much, Mostly Just Farmland, Religious Grounds, And Comfort
 - Blue-Grass Granary
 - Floating Book Sculpture
 - Churches
-	- Church Of Second Chances
-	- Church Of The Harvest Star
+	- [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/Church Of Second Chances\|Church Of Second Chances]]
+	- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Unnamed Villages/Church Of The Harvest Star\|Church Of The Harvest Star]]
 
 ### Races, Social Classes And Spread
 Pretty Much Everyone Who Lives Here Is Either Human Of Elven, The Human Population Fluctuates A Lot But The Elven Population Stays Pretty Consistent As They Tend To Not Have Very Big Families Or Move In/Out Of The Village Very Often 
@@ -32,18 +32,18 @@ Pretty Much Everyone Who Lives Here Is Either Human Of Elven, The Human Populati
 #### Languages
 Elvish, Common
 ### Government
-Legally Ruled By The Queen But As She Takes No Notice Clinton Ruminarus Is Currently In Charge of Hearing And Solving Everyone's Problems
+Legally Ruled By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/The Queen\|The Queen]] But As She Takes No Notice Clinton Ruminarus Is Currently In Charge of Hearing And Solving Everyone's Problems
 ### Legal System
 There Is No Prison So If You Are A Visitor Caught Committing A Crime You Are Most Likely Just Going To Be Attacked
 
 ### Differences Between Day And Night
-When Night Hits The Only Source Of Light Is Ciel. When She Is Out, The Grass Absorbs And Then Sheds Her Light Making It Possible For Everyone To See And Giving The Grass Their Blue Colour. Rogue's Light Gets Fully Absorbed Somewhat Dims The Blue Instead Of Powering It. The Difference Is Small But Some Would Say That It Is Darker On A Rogue Night Than On A Moonless Night.
+When Night Hits The Only Source Of Light Is [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel/Ciel\|Ciel]]. When She Is Out, The Grass Absorbs And Then Sheds Her Light Making It Possible For Everyone To See And Giving The Grass Their Blue Colour. [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge/Rouge\|Rouge]]'s Light Gets Fully Absorbed Somewhat Dims The Blue Instead Of Powering It. The Difference Is Small But Some Would Say That It Is Darker On A Rogue Night Than On A Moonless Night.
 ### Nature
 Literally Everything Grows Here If You Can Plant It. Unfortunately You Will Only Find Crops And Bugs Here.
 #### Landscape & Climate
 The Flattest, Calmest Land You Have Ever Seen. The Grass Tends To Tangle Around Your Feet On Rainy Days But On A Sunny Day You Can Really Just Kick Back And Relax.
 #### Animals And Plants
-No Animals Unless You Think Bugs Are Really Cool. North Gi Fotias Is Where Most Red Beetles Are Caught For Colourings. There Are Moths That Are Known For Eating The Meat Trees (Because They Need The Nutrients To Reproduce).
+No Animals Unless You Think Bugs Are Really Cool. North [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Gi Fotias\|Gi Fotias]] Is Where Most Red Beetles Are Caught For Colourings. There Are Moths That Are Known For Eating The Meat Trees (Because They Need The Nutrients To Reproduce).
 ### Public Transport
 None :(
 ### Education

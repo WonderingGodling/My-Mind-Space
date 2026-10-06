@@ -13,27 +13,27 @@
 
 
 
-# Beliefs
-## Church Goal:
-## Controversial?
+## Beliefs
+### Church Goal:
+### Controversial?
 
-# The Taboos Of 
+## The Taboos Of 
 
-# The Social Organisation And Initiations Of 
+## The Social Organisation And Initiations Of 
 
-# Places Of Worship In 
+## Places Of Worship In 
 
-# Rituals In 
+## Rituals In 
 
-# Prayers
+## Prayers
 
-# Sacrifices In 
-# Imagery  Related To 
+## Sacrifices In 
+## Imagery  Related To 
 
-# Monuments In 
+## Monuments In 
 
 
-# Terminology
+## Terminology
 
 
 

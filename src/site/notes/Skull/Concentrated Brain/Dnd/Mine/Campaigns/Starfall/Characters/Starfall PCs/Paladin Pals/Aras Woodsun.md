@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Aras","permalink":"/Aras/","title":"Aras","tags":["Tagless"],"dgShowToc":true,"noteIcon":null,"updated":"2026-10-05T21:58:00","dg-note-properties":{"Type":"Dnd Character","group":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Paladin Pals]]"],"down":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Aras"],"title":"Aras","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date-Created":null,"Date-Modified":"2026-10-05T21:57:00","Session Number":null,"description:":null,"icon":null,"Dead":null,"description":null,"Lineage":"Human","gender":"Male","class":"Celestial Warlock","Allies":null,"Enemies":null,"Player Character":true,"Character Level":"1","Dnd World":"[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Harmony]]","up":null,"Yesterday":null,"Tomorrow":null}}
+{"dg-publish":true,"dg-permalink":"Aras","permalink":"/Aras/","title":"Aras","tags":["Tagless"],"dgShowToc":true,"noteIcon":null,"updated":"2026-10-05T21:58:00","dg-note-properties":{"Type":"Dnd Character","group":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Paladin Pals]]"],"down":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Aras"],"title":"Aras","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date-Created":null,"Date-Modified":"2026-10-05T21:57:00","Session Number":null,"description:":null,"icon":null,"Dead":null,"description":null,"Lineage":"Human","gender":"Male","class":"Celestial Warlock","Allies":null,"Enemies":null,"Player Character":true,"Character Level":"1","Dnd World":"[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Harmony]]","Yesterday":null,"Tomorrow":null}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
@@ -8,7 +8,7 @@
 }
 </style>
 
-
+<!--  
 # <center><span style="color:#6CAB3C">Aras Woodsun</span></center>
 ![nout_5_finished_1.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/nout_5_finished_1.png)
 ![Aras Token.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Aras%20Token.png)
@@ -202,7 +202,7 @@ Watcher's Eye (You can easily find the local outpost of the guild or a similar o
 }
 </style>
 
-
+--> 
 # <center><span style="color:#6CAB3C">Aras Woodsun</span></center>
 ![nout_5_finished_1.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/nout_5_finished_1.png)
 ![Aras Token.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Aras%20Token.png)
