@@ -22,7 +22,7 @@
 		- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Magic Items/Tinfoil Hat\|Tinfoil Hat]]
 		- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Magic Items/Sticky Dagger\|Sticky Dagger]]
 		- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Magic Items/Wizards Orb Of Ponderance\|Wizards Orb Of Ponderance]]
-		- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Magic Items/Constitutional Democracy\|Constitutional Democracy]]
+		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Items/Starfall Magic Items/Kent Experimental Gear/Constitutional Democracy\|Constitutional Democracy]]
 		- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Magic Items/Big Bonk\|Big Bonk]]
 	- The Physical Building (Walls, Doors, Etc) Doesnt Reset But Everything Inside It Does
 
