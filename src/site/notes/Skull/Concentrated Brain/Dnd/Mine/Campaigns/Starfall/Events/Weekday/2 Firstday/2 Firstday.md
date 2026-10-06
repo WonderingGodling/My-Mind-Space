@@ -52,8 +52,8 @@ Wherever Bee Is [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/We
 	- "Usually More Expensive"
 	- "As Long As You [[Branches/People\|People]] Dont Go In I Dont Care"
 - Evil-Murderer-Guy That Gets The Group To Work For Him But Is Really Nice
-	- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Aviresh/Chol\|Chol]]
+	- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Aviresh/Chol\|Chol]]
 	- Leads A Gang But Isnt A Gang Leader
-	- From [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]]
+	- From [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Dolad/Named Towns And Cities/Kent\|Kent]]
 	- Wants Them To Get A Helmet From Police Storage And Will Organise Transport To Kent For Them Since He Is Heading That Way Anyway
 		- Its His Helmet, Made Of Gold And Has Purple Plumage

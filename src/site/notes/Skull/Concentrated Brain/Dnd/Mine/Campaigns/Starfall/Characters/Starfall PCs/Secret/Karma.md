@@ -25,7 +25,7 @@ She could be Pretending To Be from a family that is pretty honorable, like knigh
 so there is a big visual divide between the history of her family and what karma is
 also showing that her lifestyle is a choice, she wasn't pushed into this, she actively chooses to work in such a vile sector
 
-Family From [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Dolad/Kent\|Kent]]
+Family From [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Dolad/Named Towns And Cities/Kent\|Kent]]
 
 Big Enough City, Talk To The Right People, Can Find People Willing To Help In Illegal Activity
 
