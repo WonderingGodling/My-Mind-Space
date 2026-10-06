@@ -11,7 +11,7 @@
 
 # <center><span style="color:#FEDCBA"></span></center>
 ![Delmar.jpg](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Delmar.jpg)
-![Delmar Token (2) 2.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Delmar%20Token%20(2)%202.png)
+![[Delmar Token (2) 2.png\|Delmar Token (2) 2.png]]
 
 Elvish
 
@@ -111,7 +111,7 @@ Lady, Trooper, Sage
 
 # <center><span style="color:#6CBB3C">Delmar Edmund Luvenia</span></center>
 ![Delmar.jpg](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Delmar.jpg)
-![Delmar Token (2) 2.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Delmar%20Token%20(2)%202.png)
+![Delmar Token 2.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Delmar%20Token%202.png)
 ### Likes
 Skybasking
 
