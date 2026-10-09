@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/template/dnd-place/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"location":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"],"Named City/Town":null,"Mapped":null,"Map Co-Ordinate":null}}
+{"dg-publish":true,"permalink":"/template/dnd-place/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"Up":null,"Location":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"Comments":true,"tags":["Tagless"],"Named City/Town":null,"Mapped":null,"Map Co-Ordinate":null}}
 ---
 
 Known For And/Or Slogan

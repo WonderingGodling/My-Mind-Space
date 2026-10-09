@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Thought Emporium Or Whatever","permalink":"/Thought Emporium Or Whatever/","title":"Filtered Thoughts","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)|Constant Commment]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Thoughts","Rambles"],"title":"Filtered Thoughts","comments":true,"tags":["Tagless"]}}
+{"dg-publish":true,"dg-permalink":"Thought Emporium Or Whatever","permalink":"/Thought Emporium Or Whatever/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"Up":"[[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)|Constant Commment]]","Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Thoughts","Rambles"],"Title":"Filtered Thoughts","Comments":true,"tags":["Tagless"],"Featured":"![[Files And Shit/thumbnails/external/4a33ea3a756e00c12a105a629df464e2.png]]","Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"282·10·2026 0:38 (Friday)"}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
@@ -70,7 +70,7 @@ But Does Armpit Porn Even Exist?
 
 You should see
 
-I Was Gonna Say "Im [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]" But When Have I Ever Not Been Curious Of The Top Ten Images Three Of Them Have Actual Armpits As A Focus Almost All Of Pornhubs Results Are Just Other Porn But Also Armpits Exist But Theres A Few Videos Of [[Branches/People\|People]] Licking Them And One Video Titled "Armpit Joi" So I Guess Its Straight Up Not A Thing
+I Was Gonna Say "Im [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]" But When Have I Ever Not Been Curious Of The Top Ten Images Three Of Them Have Actual Armpits As A Focus Almost All Of Pornhubs Results Are Just Other Porn But Also Armpits Exist But Theres A Few Videos Of [[Branches/People Branch\|People Branch]] Licking Them And One Video Titled "Armpit Joi" So I Guess Its Straight Up Not A Thing
 
 
 The Stanley Parable 
@@ -98,7 +98,7 @@ That Would Be A Great Update To Human Biology
 
 I Found Out One Of [[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|My Friends]] Is Into Rope Bondage 
 He Doesn't Live In England 
-Most Of The [[Branches/People\|People]] Begging To Be Roped Live Way Too Far Or Are Way Too Busy 
+Most Of The [[Branches/People Branch\|People Branch]] Begging To Be Roped Live Way Too Far Or Are Way Too Busy 
 Pointless
 
 Someone Should Make An Algorithm That Analyses The Frames Of Tv Shows And Switches Between Episodes Smoothly
@@ -150,8 +150,8 @@ Speech To Text Making An Appearance
 Count Bin Face Is Active Again
 
 
-I Wanna Put Together A Dnd Party Of [[Branches/People\|People]] Who Explicitly Arent Friends; Mainly To See How Player Chemistry Would Form From Scratch Or If It Even Will
-Itll Be Interesting To See If Two [[Branches/People\|People]] Hate Each Other Do They Reflect That In-Game Or Vice Versa
+I Wanna Put Together A Dnd Party Of [[Branches/People Branch\|People Branch]] Who Explicitly Arent Friends; Mainly To See How Player Chemistry Would Form From Scratch Or If It Even Will
+Itll Be Interesting To See If Two [[Branches/People Branch\|People Branch]] Hate Each Other Do They Reflect That In-Game Or Vice Versa
 
 ## End Of Copy And PAste
 

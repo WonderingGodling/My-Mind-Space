@@ -1,21 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/venting-or-something/okay/","title":"Okay?","tags":["Vent","RandomThoughts","Rambling","Okay","Emotion","Happy"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"up":"[[Branches/Venting Or Something]]","Yesterday":null,"Tomorrow":null,"title":"Okay?","comments":false,"tags":["Vent","RandomThoughts","Rambling","Okay","Emotion","Happy"]}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/media/books-i-have-read/homestuck/homestuck-quotes/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"],"Featured":"![[Files And Shit/thumbnails/external/a7bb9cdf79ac20d087ce70733f0f66ba.gif]]"}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
-"Okay?"
-"Am I Okay?"
-No I Am Very Obviously Not Okay
-I Dont Think I Ever Have Been Nor Ever Will Be Okay
-Am I Happy?
-Sure
-Quite Often In Fact
-Am I Alive?
-More So Than I Would Like To Admit
-But "Okay"?
-You Dare Even Know Of My Existence And Consider The Idea That I Might Be Okay?
-Youre Not Allowed To Enter **My** Mind Space And Insinuate A Possibility Or Correctness
-So No
-To Summarise
-Im Not Okay And For As Long Bas That Question Remains As A Whisper In The Collective Of The Human Psyche  I Hope That Nobody Else Is Either
+
+# <center><span style="color:#4bec13">Homestuck Quotes</span></center>
+
+
+A young man stands in his bedroom. It just so happens that today, the 13th of April, 2009, is this young man's birthday. Though it was thirteen years ago he was given life, it is only today he will be given a name!  
+What will the name of this young man be?
+
+![](https://i.imgur.com/9on5UkL.gif)
+
+
+
+
+
+
+
+
+
+
+<center><sub>Absond</sub></center>

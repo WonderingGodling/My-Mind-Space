@@ -1,21 +1,25 @@
 ---
-{"dg-publish":true,"dg-permalink":"Cum","permalink":"/Cum/","hideInGraph":true,"tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":"Amalgam","up":"[[Branches/spam]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":["cum","Sperm","Jizz","Splooge","Orgasm"],"Next":null,"Previous":null,"title":null,"comments":true,"tags":["Tagless"],"Featured":"![[images/Pasted image 20231201013046.png]]"}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/media/the-magnus-archives/mag-lines/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 
-# <span style="color:#FFFFFF">Cum</span>
+# <center><span style="color:#9FCC2E">The Magnus Archives</span></center>
+<center><span style="color:#9FCC2E">Lines To Live By</span></center>
+
+<span style="color:#4B0101">Its A Good Day To Go For A Run</span>
+— 31 First Hunt
+
+<span style="color:#072A32">How Sharp Are The Knees Meant To Be?</span>
+— 34 Anatomy Class
 
 
-Flowers Cant Cum :(
-
-
-![Pasted image 20231201013046.png](/img/user/images/Pasted%20image%2020231201013046.png)
 
 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/QLTHbfD"  ><a href="//imgur.com/a/QLTHbfD"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+
 
 
 <center><sub>Done :)</sub></center>

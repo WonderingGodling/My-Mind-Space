@@ -23,25 +23,25 @@ This Lecturer, Despite Not having Started Yet, Doesn't strike [[Explicitly Showc
 
 I Was Right, Hes Apent The First Eighteen Minutes Riffing About Ice Cream
 
-The Most Annoying [[Branches/People\|People]] Ever Are Sitting To My Right; Im Not Sure How They Got Here; Id Ve Surprised If They Can Spell Their Own Names 
+The Most Annoying [[Branches/People Branch\|People Branch]] Ever Are Sitting To My Right; Im Not Sure How They Got Here; Id Ve Surprised If They Can Spell Their Own Names 
 
 I Shouldn't Be Here
-The Lectures Slow, The [[Branches/People\|People]] Are Gross, The Contents Important But The Powerpoints Are Shared Anyway; My Presence Is Just Leading To Suffering <sup>(Title Of My Autobiography)</sup>
+The Lectures Slow, The [[Branches/People Branch\|People Branch]] Are Gross, The Contents Important But The Powerpoints Are Shared Anyway; My Presence Is Just Leading To Suffering <sup>(Title Of My Autobiography)</sup>
 
 
 This Lecturer- Emma [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]- Has A Power Complex (Though To Be Fair Most Educators Do) But Whats Happening Is That Whenever She Notices That Someone Is Talking She Stops So That Dhe Can Stare At Them
-And It Isnt So that She Can Be Heard Properly Because There Is This Really Loud Drilling Noise Which Occasionally Comes From Behind Her And Shes Just Ignored It Every Time; I Can Only Conclude The Issue Id That The Idea Of Other [[Branches/People\|People]] Not Sacrificing The Entirety Of Their Attention Id Being Treated As A Criminal Act
+And It Isnt So that She Can Be Heard Properly Because There Is This Really Loud Drilling Noise Which Occasionally Comes From Behind Her And Shes Just Ignored It Every Time; I Can Only Conclude The Issue Id That The Idea Of Other [[Branches/People Branch\|People Branch]] Not Sacrificing The Entirety Of Their Attention Id Being Treated As A Criminal Act
 
 [Told To Arrive Early]
 [No Lecturer, No Instruction]
 9k!
-None Of The [[Branches/People\|People]] I Talk To Are Even Here So Im Just Gonna Die
+None Of The [[Branches/People Branch\|People Branch]] I Talk To Are Even Here So Im Just Gonna Die
 
 I Feel Like My Bones Want To Eat [[Explicitly Showcased/Me/Me\|Me]] Whole
 I Guess Back To Video Games :D
 
 I Keep Feeling Like This Is It; Im Finally Going To Break Then Someone Messages [[Explicitly Showcased/Me/Me\|Me]] And Im Like "Im Fine Why Do You Ask :)"
-Really Channelling My Inner [[Skull/Concentrated Brain/Random Thoughts/TMA/Aspects/Spider\|Spider]]
+Really Channelling My Inner [[Skull/Concentrated Brain/Media/The Magnus Archives/Aspects/Spider\|Spider]]
 
 havent.... Havent Slept, Dont Really Want To
 Its Mothers Day Tomorrow And I Havent Preped, Dont Really Want To

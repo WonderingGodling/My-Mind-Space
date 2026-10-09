@@ -27,7 +27,7 @@ You Shouldnt Have To Figure Out If Its Better To Buy A Ticket There And Back Or 
 ### Sometimes Im Just Like Whyyyyyy
 
 At The Moment My Hands Smell Like Artificial Vanilla Which Is Not Helping With The Derealisation 
-A Slight Feeling That My Entire Perception Of The World Is Fabricated Accompanied By My Hands Smelling Like A Playdoh Cookie Before [[Branches/People\|People]] Were Worried About Kids Killing Themselves 
+A Slight Feeling That My Entire Perception Of The World Is Fabricated Accompanied By My Hands Smelling Like A Playdoh Cookie Before [[Branches/People Branch\|People Branch]] Were Worried About Kids Killing Themselves 
 Its Not Even A Good Vanilla Smell So Smelling It Provides An Indescribable Feeling
 
 ## This Is Imported
@@ -38,7 +38,7 @@ So You Have To Be A Student To [[READ\|READ]]
 The Chemistry Is By Textiles 
 The Psychology Is Above Renewable [[Energy\|Energy]] 
 And It Seems To Be Alphabetical Within The Subject? 
-I Got To My [[Class\|Class]] And There Already [[Branches/People\|People]] There (ETA: Not My [[Branches/People\|People]] Other [[Branches/People\|People]])
+I Got To My [[Class\|Class]] And There Already [[Branches/People Branch\|People Branch]] There (ETA: Not My [[Branches/People Branch\|People Branch]] Other [[Branches/People Branch\|People Branch]])
 
 First Time Ive Touched My Phone For An Hour Or Two 
 Im Becoming More Familiar With The Back Of My Eyelids Than The Contents Of My Imagination 
@@ -82,16 +82,16 @@ Thank You For Coming To My Ted Talk
 Zoned Out So Hard Buy Only For An Hour So We're Good I Think
 
 Im Currently Doing [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] On This Train 
-My [[Template/Book\|Book]] And Headphones Are In My Bag And Getting Either Will Take Way More [[Energy\|Energy]] Than I Have
+My [[Template/Media Review\|Media Review]] And Headphones Are In My Bag And Getting Either Will Take Way More [[Energy\|Energy]] Than I Have
 
 **"Whats The Point Of Trying To [[Skull/Concentrated Brain/Projects/Hamilton/Stay Alive\|Stay Alive]] All This Time....If Im Going To Die By My Own Hand"**
 
-I Think Most [[Branches/People\|People]] With Low Self-Esteem Or Shitty [[Skull/Concentrated Brain/Dnd/Characters/CHaracters Who Have Nothing/Pancake And Relay/The Memory Of Pancake And Relay/Characters/Key/Parents/Parents\|Parents]] Feel A Deep Desire To Be Loved But I Feel Like It Just Made [[Explicitly Showcased/Me/Me\|Me]] Hate The Concept 
+I Think Most [[Branches/People Branch\|People Branch]] With Low Self-Esteem Or Shitty [[Skull/Concentrated Brain/Dnd/Characters/CHaracters Who Have Nothing/Pancake And Relay/The Memory Of Pancake And Relay/Characters/Key/Parents/Parents\|Parents]] Feel A Deep Desire To Be Loved But I Feel Like It Just Made [[Explicitly Showcased/Me/Me\|Me]] Hate The Concept 
 Maybe Thats [[WHAT\|WHAT]] Dads From The Seventies Were Aiming For 
 "If I Hate My Son He'll Become Emotionally Unavailable Then I'll Never Have To Deal With It Again" 
 Well Ive Got Good News And Bad News For Ya 
 The Good News Is: I Want To Kill Myself More Than I Want To Be [[Happy\|Happy]] 
-The Bad News Is I Dont Hate Gay [[Branches/People\|People]] So....Sorry Dad
+The Bad News Is I Dont Hate Gay [[Branches/People Branch\|People Branch]] So....Sorry Dad
 
 I Just Took A Pepper Grinder From The Kitchen From My Room For No Reason 
 I Have Mcdonalds; Why Would I Want Mcdonalds To Taste Good 
@@ -122,7 +122,7 @@ Why Do We Bother
 
 Im Trying To Cook But My [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] Is A Few Actions Before My Brain So I Haven't Technically Started 
 
-I Think The Worst Part About Being Raped To Death Is That while Your Name, Face And Family Are All Across The News There Will Be countless Police Officers, Investigators/Detectives, Forensics, Mortuars and So Many Other [[Branches/People\|People]] Poking Around You Insides Like; Really? This Is So Not The Time For That! I Think Id Least Want [[Branches/People\|People]] Touching My Dead [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] If The Cause Of My Death Was Someone Touching My Live [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]]
+I Think The Worst Part About Being Raped To Death Is That while Your Name, Face And Family Are All Across The News There Will Be countless Police Officers, Investigators/Detectives, Forensics, Mortuars and So Many Other [[Branches/People Branch\|People Branch]] Poking Around You Insides Like; Really? This Is So Not The Time For That! I Think Id Least Want [[Branches/People Branch\|People Branch]] Touching My Dead [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] If The Cause Of My Death Was Someone Touching My Live [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]]
 
 I Always Feel Like I Shouldnt Be In This [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] But Recently Ive Felt That My [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] Doesn't Belong With [[Explicitly Showcased/Me/Me\|Me]] In It
 
@@ -140,7 +140,7 @@ I Just Realised I've Felt Quite "...." This Evening Which Is Very Impressive Whe
 
 •1440 Lets See How Late I Sleep In
 
-I Really Need to Type Stuff Up More Because Keeping It In Is Driving [[Explicitly Showcased/Me/Me\|Me]] Towards Madness And The [[Branches/People\|People]] Who At Least Pretend To Care All Have Actual Things That Go On On Their Actual Lives--
+I Really Need to Type Stuff Up More Because Keeping It In Is Driving [[Explicitly Showcased/Me/Me\|Me]] Towards Madness And The [[Branches/People Branch\|People Branch]] Who At Least Pretend To Care All Have Actual Things That Go On On Their Actual Lives--
 
 Whatd The Opposite Of Cooking Because Thats [[WHAT\|WHAT]] Im Doing--
 Rotting Works Surprisingly Well For That Actually; Prolonged Uncookery And Suffering 
@@ -149,7 +149,7 @@ Maybe If I Was The Hunt Id Feel Better; I Can Definitely See How A Light [[Skull
 Every Time I See A Picture Of Myself The Best I Can Do To Describe My Attitude Towards It Is Stranger; I Feel Like When Im In An Image Or A Video The Thing That Is [[Explicitly Showcased/Me/Me\|Me]] Is Wrong
 I Know Thats Some Form Of [[Skull/Concentrated Brain/Venting Or Something/Body\|Body]] Dysmorphia Or Whatever And I Also Know That I Dont Really Care Enough About It To Do Anything
 I Guess Its Just That I Would Find Most Of My Life To Be Easier If I Weren'tAble To Be Perceived
-Really Wish The SEP Existed So [[Branches/People\|People]] Would Just Let [[Explicitly Showcased/Me/Me\|Me]] Be 
+Really Wish The SEP Existed So [[Branches/People Branch\|People Branch]] Would Just Let [[Explicitly Showcased/Me/Me\|Me]] Be 
 
 Watching Myself On The Edge Of Disassociation (Im Not Spelling That Right); Watching Myself Not Pay Attention
 
@@ -187,20 +187,20 @@ Gonna Blow My Brains Out I Hate This I Hate This I Hate This I Hate This I Hatie
 <b>SIGH</b>
 
 I Haven't Talked To [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Moirail]] In Over A Week And Its Actually Killing [[Explicitly Showcased/Me/Me\|Me]] And I Cant Talk To Anyone About It Because Best Case Scenario Literally Gets [[Explicitly Showcased/Me/Me\|Me]] Nowhere And Worse Case Scenario Probably Gets [[Explicitly Showcased/Me/Me\|Me]] Starved To Death
-I Haven't Been Able To Write Anything Because All Im Thinking All Day Is "Aaaaaaaaaaahhhhhhhhhhhhhhhh!!!!!!!!!!!!!!" And I Just Want To Stop Existing Or At The Very Least Stop Functioning But My Worthless [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]] cant Even Figure Out How To Cry Which Is Step Two Of Being Depressed, Overwhelming Self Hatred And Hoping For Your Own Doom Is Usually Much Later For Normal [[Branches/People\|People]] (Not That If Be Faliliar With That)
-This Week Ive Tried Going On Walks And Skating And Watching Movies  And Tv Shows And Social [[Branches/Media\|Media]] And Pornography And Books And [[Template/Podcast\|Podcast]] And Hanging Out With Friends And Doing [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] Each For Literal Hours At A Time Hoping That Maybe If Im Absorbed Enough In It The Dull Sense That My Interacting With The World I Slowly Making It Worse Will Fade Into The Background But Theres No such Thing As Relief I Guess
+I Haven't Been Able To Write Anything Because All Im Thinking All Day Is "Aaaaaaaaaaahhhhhhhhhhhhhhhh!!!!!!!!!!!!!!" And I Just Want To Stop Existing Or At The Very Least Stop Functioning But My Worthless [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]] cant Even Figure Out How To Cry Which Is Step Two Of Being Depressed, Overwhelming Self Hatred And Hoping For Your Own Doom Is Usually Much Later For Normal [[Branches/People Branch\|People Branch]] (Not That If Be Faliliar With That)
+This Week Ive Tried Going On Walks And Skating And Watching Movies  And Tv Shows And Social [[Branches/Media\|Media]] And Pornography And Books And [[Podcast\|Podcast]] And Hanging Out With Friends And Doing [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] Each For Literal Hours At A Time Hoping That Maybe If Im Absorbed Enough In It The Dull Sense That My Interacting With The World I Slowly Making It Worse Will Fade Into The Background But Theres No such Thing As Relief I Guess
 
 Im Weirdly Out Of Fucks
 I Have A Bunch Of Stuff I Want To Do But Theres None Of It That I Want To Do
 
 Its 1361·253·24 And I Did Wholeheartedly Plan On Updating This Earlier But Not Like This
-It Was Gonna Be A Quick Update On [[WHAT\|WHAT]] I Did Over The Past Few Weeks, The Places Ive Gone, The [[Branches/People\|People]] Ive Talked To, But Overall I Just Feel Like Shit Barely Scraping By Every Day, Not Taking Care Of Myself, Not Even Enjoying Myself Really But Thats Whatever
+It Was Gonna Be A Quick Update On [[WHAT\|WHAT]] I Did Over The Past Few Weeks, The Places Ive Gone, The [[Branches/People Branch\|People Branch]] Ive Talked To, But Overall I Just Feel Like Shit Barely Scraping By Every Day, Not Taking Care Of Myself, Not Even Enjoying Myself Really But Thats Whatever
 
 I Hope If I Update This Again Its More Of The Norm And Less Of The Depression And Everybody-Hates-Meness That Has Been Thrust Upon [[Explicitly Showcased/Me/Me\|Me]]
 
 Like Even [[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!\|Mai Wife!!]], Who Is The Best And Can Do No Wrong, Will Be  Online And Not [[READ\|READ]] My Messages Sometimes
 An Obvious Dagger To The [[Explicitly Showcased/People/Special Ones/Heart\|Heart]] But At The Same Time I Will Usually Hear From Her After A Bit, Or Get A Liked [[Message\|Message]] Notification And The Dagger Will Be Removed
-Some Other [[Branches/People\|People]] Though Open My Messages To Figure Out How To Better Arrange Daggers Into My Chest Cavity
+Some Other [[Branches/People Branch\|People Branch]] Though Open My Messages To Figure Out How To Better Arrange Daggers Into My Chest Cavity
 
 The Entire Last Paragraph And A Bit Werent Meamnt To Exist, I Guess Im Just That Passionate About How Much I Want To Be Wiped Off The Face Of The Earth Sometiemes
 
