@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Honey","permalink":"/Honey/","title":"Honey","hideInGraph":true,"tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"title":"Honey","comments":true,"Type":"Just A Thing For Ash","up":"[[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"tags":["Tagless"]}}
+{"dg-publish":true,"dg-permalink":"Honey","permalink":"/Honey/","hideInGraph":true,"tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Title":"Honey","comments":true,"Type":"Just A Thing For Ash","Up":"[[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin]]","Down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"tags":["Tagless"],"Featured":"![[images/desktop-wallpaper-best-honey-in-high-quality-honey-backgrounds-honey-bee.jpg]]"}}
 ---
 
 ![desktop-wallpaper-best-honey-in-high-quality-honey-backgrounds-honey-bee.jpg](/img/user/images/desktop-wallpaper-best-honey-in-high-quality-honey-backgrounds-honey-bee.jpg)
@@ -7,7 +7,7 @@
 
 Heyy Honey
 I Just Want You To Know That Youre Like....Gay
-Is It Gay To Say I Like Gay [[Branches/People\|People]]?
+Is It Gay To Say I Like Gay [[Branches/People Branch\|People Branch]]?
 Either Way Youre Pretty Cool So Whatever
 
 Also Youre Like Pretty Cool

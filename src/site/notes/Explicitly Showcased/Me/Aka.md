@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-permalink":"aliases","permalink":"/aliases/","title":"Names","tags":["Tagless"],"dgShowToc":true,"noteIcon":"[[BleedingEye.svg]]","dg-note-properties":{"Type:":"Name List","up:":"[[Branches/Explicitely Showcased]]","down:":null,"Yesterday:":null,"Tomorrow:":null,"alias:":["Alias","Aliases","Names","Call Me"],"Next:":null,"Previous:":null,"title":"Names","comments":true,"tags":["Tagless"],"dv_type":"Name List","dv_up":"[[Branches/Explicitely Showcased]]","dv_alias":["Alias","Aliases","Names","Call Me"],"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"Similarly Rooted":null,"aliases":null,"Date-Created":null,"Date-Modified":null,"Session Number":null,"description:":null,"icon":"[[Explicitly Showcased/Me/Files And Shit/BleedingEye.svg]]"}}
+{"dg-publish":true,"dg-permalink":"aliases","permalink":"/aliases/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Title":"Names","comments":true,"tags":["Tagless"],"Type":"Name List","Up":"[[Branches/Explicitely Showcased]]","aliases":["Alias","Aliases","Names","Call Me"],"Yesterday":null,"Tomorrow":null,"Embedded":null,"Similarly Rooted":null,"Date Created":null,"Session Number":null,"Icon":"[[Explicitly Showcased/Me/Files And Shit/BleedingEye.svg]]"}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <span style="color:#00FFFF">Aliases!</span>
 ## <span style="color:#00FFFF">And pronouns</span>
-I Forgot That This Matters To Some [[Branches/People\|People]] And Not Everyone Knows So: I Go By Literally Any Pronouns And Most Nickames But If Im Being More Specific
+I Forgot That This Matters To Some [[Branches/People Branch\|People Branch]] And Not Everyone Knows So: I Go By Literally Any Pronouns And Most Nickames But If Im Being More Specific
 
 # Names
  
