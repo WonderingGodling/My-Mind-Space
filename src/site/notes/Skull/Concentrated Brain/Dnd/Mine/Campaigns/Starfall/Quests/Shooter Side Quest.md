@@ -20,7 +20,7 @@ Shooter, Old, Grouchy, ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/E
 		- The Robes They Were Wearing Have Tracking [[Magic\|Magic]] On Them
 - Cannot Be Tracked Down Via Theives Or Other Criminals Because It Wasnt An Organised Killing
 	- Killed Bee Out Of A Misunderstanding Instead Of For A Job
-		- Some [[Branches/People\|People]] May Have Seen [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Fishy And/Or Heard The Shot But Nobody Saw The Man
+		- Some [[Branches/People Branch\|People Branch]] May Have Seen [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Fishy And/Or Heard The Shot But Nobody Saw The Man
 	- Can Be Found Heading North Towards [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Clitburry/Redscheap/Dirtcheap\|Dirtcheap]] Via [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Military road\|Military road]] → [[The Frosty Enigma road\|The Frosty Enigma road]] → [[Flame highway\|Flame highway]] → [[Celestial road\|Celestial road]] →
 	 
 	- Leaves In A Carriage So Can Be Found Near:

@@ -18,7 +18,7 @@ Surprisingly Little Foliage
 	Possibly Removed On Purpose
 
 The Cannibalism Has Been A Thing In Recent History
-	They Started Eating [[Branches/People\|People]] Condemned To Death 
+	They Started Eating [[Branches/People Branch\|People Branch]] Condemned To Death 
 	They Dont Make A Big Thing Out Of It Outside Of Tourism
 
 8 Silver [[Jewels\|Jewels]] Under A Trap Door Under The Outside Stage
@@ -37,7 +37,7 @@ The Cannibalism Has Been A Thing In Recent History
 - Players On Different Sides Of Fountain
 	- Can Go Around The Town Doing Whatever
 		- Most Shops Are Open But Low On Supply And Whatnot
-	- Can Notice [[Branches/People\|People]] Keep Flooding Into This Building ([[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town#The Hatchet Town Hideout\|#The Hatchet Town Hideout]])
+	- Can Notice [[Branches/People Branch\|People Branch]] Keep Flooding Into This Building ([[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town#The Hatchet Town Hideout\|#The Hatchet Town Hideout]])
 		- Cant Enter Building Without Password 
 			- The Biggest Shadows Under The Brightest [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]]
 			- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Khan Doorman\|Khan Doorman]]
@@ -56,7 +56,7 @@ The Cannibalism Has Been A Thing In Recent History
 
 Theres A House With: 2 Rations, Half A Cooked Bird, A Loaf Of Bread
 	
-Can Notice [[Branches/People\|People]] Keep Flooding In To A Specific Building ([[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town#The Hatchet Town Hideout\|#The Hatchet Town Hideout]])
+Can Notice [[Branches/People Branch\|People Branch]] Keep Flooding In To A Specific Building ([[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town#The Hatchet Town Hideout\|#The Hatchet Town Hideout]])
 	Cant Enter Hideout Without Password (The Biggest Shadows Under The Brightest [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]])
 	Doorman (Khan)
 	Inside Everyone Is Wearing Wine-[[Red\|Red]] Hoodless Cloaks Which You Need In Order To Participate
@@ -69,7 +69,7 @@ Can Notice [[Branches/People\|People]] Keep Flooding In To A Specific Building (
 - Opening Speech
 	- "Thank You All For Coming Tonight! [Pauses For Applause] Yes, Yes We've All Waited So Very Long For This Momentous Occasion And Im Sure All Of You Would Love To Get Straight Out There And Do Your Thing. (Ive Heard That Some Of You Already Have). But We Do Unfortunately Have Rules That We Need To Follow So If It Shimmers With All In Attendance Lets Get To The Itinerary...."
 		- "Faith"
-	- "Lets See....The Town Has Been Secured The East Wing Has Been Checked For Goblins And Is Clear. Parlence Has Been Spread. Reminder That If You See The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]] You Are To Avoid Them. This Should Be Common Knowledge But [[Branches/People\|People]] Keep Asking [[Explicitly Showcased/Me/Me\|Me]] Where They Fit Into The Plan. We Are On....What Are We On"
+	- "Lets See....The Town Has Been Secured The East Wing Has Been Checked For Goblins And Is Clear. Parlence Has Been Spread. Reminder That If You See The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]] You Are To Avoid Them. This Should Be Common Knowledge But [[Branches/People Branch\|People Branch]] Keep Asking [[Explicitly Showcased/Me/Me\|Me]] Where They Fit Into The Plan. We Are On....What Are We On"
 		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor\|Advisor]] Hold Up Right Amount Of Fingers
 	- "We Are On [Number] Which So Far Means [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]" [Improv From Here, Say It Mopstly Seems Like Admin Stuff And Ask If The Group Wants To Stay To Till The End]
 - "Throwing To The Floor Real Quick" And Someone From The Congregation Shouts Out
@@ -93,7 +93,7 @@ Mouth Is Full Of Inky Blackness That Spills Out If She Tries To Talk
 Lisa (Astronomer For The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Fruitless Sky\|Fruitless Sky]])
 	Writing (Poorly) About The Starts In A Dark [[Blue\|Blue]] Notebook
 	Doing Experiments
-	Writing Letters To The [[Branches/People\|People]] Who Couldnt Make It To This Hideout With Equally Bad Handwritting
+	Writing Letters To The [[Branches/People Branch\|People Branch]] Who Couldnt Make It To This Hideout With Equally Bad Handwritting
 Lots Of Random Since Equipment Spread Out, Monitors Temperatures, Densities, Responsiveness To Different [[Magic\|Magic]] Forms
 Segments Of Monster Corpses Spread Around
 	Some Hooked Into/Between Devices
@@ -119,7 +119,7 @@ Old Inn (The Local Tavern) Has A Young Man Called Trill
 		- 1 Bronze Bread
 ## Hatchet Town Hideout 
 The Doors Arent Painted
-Reception, Lots Of Chairs, [[Branches/People\|People]] Wearing Cloaks And Chatting
+Reception, Lots Of Chairs, [[Branches/People Branch\|People Branch]] Wearing Cloaks And Chatting
 Cloak Room (East & West), Conference Room North)
 Outside Rooms Have Cats
 ###### VIP Cloaks
@@ -227,7 +227,7 @@ Surprisingly Little Foliage
 	Possibly Removed On Purpose
 
 The Cannibalism Has Been A Thing In Recent History
-	They Started Eating [[Branches/People\|People]] Condemned To Death 
+	They Started Eating [[Branches/People Branch\|People Branch]] Condemned To Death 
 	They Dont Make A Big Thing Out Of It Outside Of Tourism
 
 8 Silver [[Jewels\|Jewels]] Under A Trap Door Under The Outside Stage
@@ -246,7 +246,7 @@ The Cannibalism Has Been A Thing In Recent History
 - Players On Different Sides Of Fountain
 	- Can Go Around The Town Doing Whatever
 		- Most Shops Are Open But Low On Supply And Whatnot
-	- Can Notice [[Branches/People\|People]] Keep Flooding Into This Building ([[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town#The Hatchet Town Hideout\|#The Hatchet Town Hideout]])
+	- Can Notice [[Branches/People Branch\|People Branch]] Keep Flooding Into This Building ([[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town#The Hatchet Town Hideout\|#The Hatchet Town Hideout]])
 		- Cant Enter Building Without Password 
 			- The Biggest Shadows Under The Brightest [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]]
 			- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Khan Doorman\|Khan Doorman]]
@@ -265,7 +265,7 @@ The Cannibalism Has Been A Thing In Recent History
 
 Theres A House With: 2 Rations, Half A Cooked Bird, A Loaf Of Bread
 	
-Can Notice [[Branches/People\|People]] Keep Flooding In To A Specific Building ([[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town#The Hatchet Town Hideout\|#The Hatchet Town Hideout]])
+Can Notice [[Branches/People Branch\|People Branch]] Keep Flooding In To A Specific Building ([[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town#The Hatchet Town Hideout\|#The Hatchet Town Hideout]])
 	Cant Enter Hideout Without Password (The Biggest Shadows Under The Brightest [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]])
 	Doorman (Khan)
 	Inside Everyone Is Wearing Wine-[[Red\|Red]] Hoodless Cloaks Which You Need In Order To Participate
@@ -278,7 +278,7 @@ Can Notice [[Branches/People\|People]] Keep Flooding In To A Specific Building (
 - Opening Speech
 	- "Thank You All For Coming Tonight! [Pauses For Applause] Yes, Yes We've All Waited So Very Long For This Momentous Occasion And Im Sure All Of You Would Love To Get Straight Out There And Do Your Thing. (Ive Heard That Some Of You Already Have). But We Do Unfortunately Have Rules That We Need To Follow So If It Shimmers With All In Attendance Lets Get To The Itinerary...."
 		- "Faith"
-	- "Lets See....The Town Has Been Secured The East Wing Has Been Checked For Goblins And Is Clear. Parlence Has Been Spread. Reminder That If You See The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/The Cult Of The Wicked\|The Cult Of The Wicked]] You Are To Avoid Them. This Should Be Common Knowledge But [[Branches/People\|People]] Keep Asking [[Explicitly Showcased/Me/Me\|Me]] Where They Fit Into The Plan. We Are On....What Are We On"
+	- "Lets See....The Town Has Been Secured The East Wing Has Been Checked For Goblins And Is Clear. Parlence Has Been Spread. Reminder That If You See The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/The Cult Of The Wicked\|The Cult Of The Wicked]] You Are To Avoid Them. This Should Be Common Knowledge But [[Branches/People Branch\|People Branch]] Keep Asking [[Explicitly Showcased/Me/Me\|Me]] Where They Fit Into The Plan. We Are On....What Are We On"
 		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor\|Advisor]] Hold Up Right Amount Of Fingers
 	- "We Are On [Number] Which So Far Means [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]" [Improv From Here, Say It Mopstly Seems Like Admin Stuff And Ask If The Group Wants To Stay To Till The End]
 - "Throwing To The Floor Real Quick" And Someone From The Congregation Shouts Out
@@ -302,7 +302,7 @@ Mouth Is Full Of Inky Blackness That Spills Out If She Tries To Talk
 Lisa (Astronomer For The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Fruitless Sky\|Fruitless Sky]])
 	Writing (Poorly) About The Starts In A Dark [[Blue\|Blue]] Notebook
 	Doing Experiments
-	Writing Letters To The [[Branches/People\|People]] Who Couldnt Make It To This Hideout With Equally Bad Handwritting
+	Writing Letters To The [[Branches/People Branch\|People Branch]] Who Couldnt Make It To This Hideout With Equally Bad Handwritting
 Lots Of Random Since Equipment Spread Out, Monitors Temperatures, Densities, Responsiveness To Different [[Magic\|Magic]] Forms
 Segments Of Monster Corpses Spread Around
 	Some Hooked Into/Between Devices
@@ -328,7 +328,7 @@ Old Inn (The Local Tavern) Has A Young Man Called Trill
 		- 1 Bronze Bread
 ## Hatchet Town Hideout 
 The Doors Arent Painted
-Reception, Lots Of Chairs, [[Branches/People\|People]] Wearing Cloaks And Chatting
+Reception, Lots Of Chairs, [[Branches/People Branch\|People Branch]] Wearing Cloaks And Chatting
 Cloak Room (East & West), Conference Room North)
 Outside Rooms Have Cats
 ###### VIP Cloaks
@@ -436,7 +436,7 @@ Surprisingly Little Foliage
 	Possibly Removed On Purpose
 
 The Cannibalism Has Been A Thing In Recent History
-	They Started Eating [[Branches/People\|People]] Condemned To Death 
+	They Started Eating [[Branches/People Branch\|People Branch]] Condemned To Death 
 	They Dont Make A Big Thing Out Of It Outside Of Tourism
 
 8 Silver [[Jewels\|Jewels]] Under A Trap Door Under The Outside Stage
@@ -455,7 +455,7 @@ The Cannibalism Has Been A Thing In Recent History
 - Players On Different Sides Of Fountain
 	- Can Go Around The Town Doing Whatever
 		- Most Shops Are Open But Low On Supply And Whatnot
-	- Can Notice [[Branches/People\|People]] Keep Flooding Into This Building ([[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town#The Hatchet Town Hideout\|#The Hatchet Town Hideout]])
+	- Can Notice [[Branches/People Branch\|People Branch]] Keep Flooding Into This Building ([[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town#The Hatchet Town Hideout\|#The Hatchet Town Hideout]])
 		- Cant Enter Building Without Password 
 			- The Biggest Shadows Under The Brightest [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]]
 			- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Khan Doorman\|Khan Doorman]]
@@ -474,7 +474,7 @@ The Cannibalism Has Been A Thing In Recent History
 
 Theres A House With: 2 Rations, Half A Cooked Bird, A Loaf Of Bread
 	
-Can Notice [[Branches/People\|People]] Keep Flooding In To A Specific Building ([[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town#The Hatchet Town Hideout\|#The Hatchet Town Hideout]])
+Can Notice [[Branches/People Branch\|People Branch]] Keep Flooding In To A Specific Building ([[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town#The Hatchet Town Hideout\|#The Hatchet Town Hideout]])
 	Cant Enter Hideout Without Password (The Biggest Shadows Under The Brightest [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]])
 	Doorman (Khan)
 	Inside Everyone Is Wearing Wine-[[Red\|Red]] Hoodless Cloaks Which You Need In Order To Participate
@@ -487,7 +487,7 @@ Can Notice [[Branches/People\|People]] Keep Flooding In To A Specific Building (
 - Opening Speech
 	- "Thank You All For Coming Tonight! [Pauses For Applause] Yes, Yes We've All Waited So Very Long For This Momentous Occasion And Im Sure All Of You Would Love To Get Straight Out There And Do Your Thing. (Ive Heard That Some Of You Already Have). But We Do Unfortunately Have Rules That We Need To Follow So If It Shimmers With All In Attendance Lets Get To The Itinerary...."
 		- "Faith"
-	- "Lets See....The Town Has Been Secured The East Wing Has Been Checked For Goblins And Is Clear. Parlence Has Been Spread. Reminder That If You See The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/The Cult Of The Wicked\|The Cult Of The Wicked]] You Are To Avoid Them. This Should Be Common Knowledge But [[Branches/People\|People]] Keep Asking [[Explicitly Showcased/Me/Me\|Me]] Where They Fit Into The Plan. We Are On....What Are We On"
+	- "Lets See....The Town Has Been Secured The East Wing Has Been Checked For Goblins And Is Clear. Parlence Has Been Spread. Reminder That If You See The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/The Cult Of The Wicked\|The Cult Of The Wicked]] You Are To Avoid Them. This Should Be Common Knowledge But [[Branches/People Branch\|People Branch]] Keep Asking [[Explicitly Showcased/Me/Me\|Me]] Where They Fit Into The Plan. We Are On....What Are We On"
 		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor\|Advisor]] Hold Up Right Amount Of Fingers
 	- "We Are On [Number] Which So Far Means [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]" [Improv From Here, Say It Mopstly Seems Like Admin Stuff And Ask If The Group Wants To Stay To Till The End]
 - "Throwing To The Floor Real Quick" And Someone From The Congregation Shouts Out
@@ -511,7 +511,7 @@ Mouth Is Full Of Inky Blackness That Spills Out If She Tries To Talk
 Lisa (Astronomer For The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Fruitless Sky\|Fruitless Sky]])
 	Writing (Poorly) About The Starts In A Dark [[Blue\|Blue]] Notebook
 	Doing Experiments
-	Writing Letters To The [[Branches/People\|People]] Who Couldnt Make It To This Hideout With Equally Bad Handwritting
+	Writing Letters To The [[Branches/People Branch\|People Branch]] Who Couldnt Make It To This Hideout With Equally Bad Handwritting
 Lots Of Random Since Equipment Spread Out, Monitors Temperatures, Densities, Responsiveness To Different [[Magic\|Magic]] Forms
 Segments Of Monster Corpses Spread Around
 	Some Hooked Into/Between Devices
@@ -537,7 +537,7 @@ Old Inn (The Local Tavern) Has A Young Man Called Trill
 		- 1 Bronze Bread
 ## Hatchet Town Hideout 
 The Doors Arent Painted
-Reception, Lots Of Chairs, [[Branches/People\|People]] Wearing Cloaks And Chatting
+Reception, Lots Of Chairs, [[Branches/People Branch\|People Branch]] Wearing Cloaks And Chatting
 Cloak Room (East & West), Conference Room North)
 Outside Rooms Have Cats
 ###### VIP Cloaks

@@ -13,7 +13,7 @@
 
 - [ ] Hivemind
 	- [ ] Villain 
-	- [ ] Gains Powers Of [[Branches/People\|People]] It Minds
+	- [ ] Gains Powers Of [[Branches/People Branch\|People Branch]] It Minds
 	- [ ] Grease Somewhere
 	- [ ] Doesnt Start Until Provoked
 		- [ ] Provocation Is 

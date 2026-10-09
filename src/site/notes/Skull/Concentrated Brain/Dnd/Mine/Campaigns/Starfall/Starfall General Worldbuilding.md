@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-general-worldbuilding/","title":"Worldbuilding","tags":["Tagless"],"dgShowToc":true,"noteIcon":null,"dg-note-properties":{"Type":null,"up":["[[Branches/Starfall]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["General Worldbuilding","Starfall Worldbuilding"],"title":"Worldbuilding","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date-Created":null,"Date-Modified":null,"Session Number":null,"description:":null,"icon":null}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-general-worldbuilding/","title":"Worldbuilding","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":["[[Branches/Starfall]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["General Worldbuilding","Starfall Worldbuilding"],"title":"Worldbuilding","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":null,"Session Number":null,"Icon":null}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
@@ -41,7 +41,7 @@ Pira: About The Size Of A Human Eyeball
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Stories Behind The Stars\|Stories Behind The Stars]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Jewels (Currency)\|Jewels (Currency)]]
 - [ ] (Lobster) Immortality Is Mostly Handed Out To Anybody Influential Enough
-	- [ ] Some [[Branches/People\|People]] And Races Are Even Born With It
+	- [ ] Some [[Branches/People Branch\|People Branch]] And Races Are Even Born With It
 	- [ ] Plot Armour Though? Thats Unique
 	- [ ] When You Die Its Judged Whether It Was Climactic Enough Before Possibly Bringing You Back
 	- [ ] Other Than Spells That Bring You Back From The Brink Of Non-Existence Thats The Best There Is For Mortals
@@ -51,7 +51,7 @@ Pira: About The Size Of A Human Eyeball
 - [ ] In The Future A Large Amount Of Refined Platinum Jewels Can Be Turned Into Abiogenerated Soul ("Synth") Gems
 - [ ] The First God To Return Is Said To Have Never Left But Instead Took A Step Back To Precent The World From Fracturing
 - [ ] Sirens Are The Defacto [[Branches/Gods\|Gods]] of the Sea
-- [ ] "The First God" Appointed A Bunch Of [[Branches/People\|People]] Who Became The Original Seeds For The Different Nations
+- [ ] "The First God" Appointed A Bunch Of [[Branches/People Branch\|People Branch]] Who Became The Original Seeds For The Different Nations
 - [ ] University: East Phygrian School Of Historical Interventions
 - [ ] Main Bases In Gi Gotias (Counsil Originally Moved Because There Was A Long Travel Time For Most But Now That There Are Portals The Main Campus Is Still There But The Meetings Happen in Phygria)
 - [ ] Specialises In Rewriting Mytholigies To Match What We Know Historically
@@ -91,7 +91,7 @@ Pira: About The Size Of A Human Eyeball
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Stories Behind The Stars\|Stories Behind The Stars]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Jewels (Currency)\|Jewels (Currency)]]
 - [ ] (Lobster) Immortality Is Mostly Handed Out To Anybody Influential Enough
-	- [ ] Some [[Branches/People\|People]] And Races Are Even Born With It
+	- [ ] Some [[Branches/People Branch\|People Branch]] And Races Are Even Born With It
 	- [ ] Plot Armour Though? Thats Unique
 	- [ ] When You Die Its Judged Whether It Was Climactic Enough Before Possibly Bringing You Back
 	- [ ] Other Than Spells That Bring You Back From The Brink Of Non-Existence Thats The Best There Is For Mortals
@@ -101,7 +101,7 @@ Pira: About The Size Of A Human Eyeball
 - [ ] In The Future A Large Amount Of Refined Platinum Jewels Can Be Turned Into Abiogenerated Soul ("Synth") Gems
 - [ ] The First God To Return Is Said To Have Never Left But Instead Took A Step Back To Precent The World From Fracturing
 - [ ] Sirens Are The Defacto [[Branches/Gods\|Gods]] of the Sea
-- [ ] "The First God" Appointed A Bunch Of [[Branches/People\|People]] Who Became The Original Seeds For The Different Nations
+- [ ] "The First God" Appointed A Bunch Of [[Branches/People Branch\|People Branch]] Who Became The Original Seeds For The Different Nations
 - [ ] University: East Phygrian School Of Historical Interventions
 - [ ] Main Bases In Gi Gotias (Counsil Originally Moved Because There Was A Long Travel Time For Most But Now That There Are Portals The Main Campus Is Still There But The Meetings Happen in Phygria)
 - [ ] Specialises In Rewriting Mytholigies To Match What We Know Historically

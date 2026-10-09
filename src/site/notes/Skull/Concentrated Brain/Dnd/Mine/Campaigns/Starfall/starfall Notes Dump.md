@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-notes-dump/","title":"Starfall Notes","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Branches/Starfall]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Starfall","Dnd Notes","Notes Dump"],"title":"Starfall Notes","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date-Created":null,"Date-Modified":null,"Session Number":null,"description:":null}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-notes-dump/","title":"Starfall Notes","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Branches/Starfall]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Starfall","Dnd Notes","Notes Dump"],"title":"Starfall Notes","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":null,"Session Number":null}}
 ---
 
 a<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
@@ -342,7 +342,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Recreate [[Skull/Concentrated Brain/Riddles/Riddles\|Puzzles]] As Spreadsheet 
 - [ ] Add More Cats And Other Animals
 - [ ] Hot Npcs
-- [ ] [[Branches/Homestuck\|Homestuck]] NPCs
+- [ ] [[Branches/Homestuck\|Branches/Homestuck]] NPCs
  - [ ] **Go All Out For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Starfall NPC\|NPC]] Icons**
  - [ ] Way More Dragons
 - [ ] Default Sheets
@@ -446,7 +446,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] More Moon Festival Stuff
 - [ ] Town Imports And Exports
 - [ ] Take And Leave System
-	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Naga\|Naga]] Has A Pocket Dimention System That "Exotic Or Monsterous" [[Branches/People\|People]] Can Use In Times Of Need
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Naga\|Naga]] Has A Pocket Dimention System That "Exotic Or Monsterous" [[Branches/People Branch\|People Branch]] Can Use In Times Of Need
 - [ ] Write Stuff Up North
 - [ ] Sword With Modifier Equal To Negative Strength
 	- [ ] Mental Strength Dungeon Reward
@@ -476,7 +476,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Large Encounters
 - [ ] Toy Bear That Watches You
 - [ ] If [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Group 1/Qutes\|Qutes]] Uses The Demon killing Weapon They Still Come Back On A [[Loop\|Loop]] And She Earns Rubys Eyre
-- [ ] Giant Pumpkins With A Chance To Be Evil And Eat [[Branches/People\|People]]
+- [ ] Giant Pumpkins With A Chance To Be Evil And Eat [[Branches/People Branch\|People Branch]]
 	- [ ] Fermented Are Popular With Huge Monsters
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Starfall Reset Rules\|Resets]] Are Based On Soul Versus Self
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/KAijin\|KAijin]]
@@ -528,7 +528,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Biological Catalyst
 - [ ] Big Cities Have Wrigtht That Detect Darkness And Float Orbs To Replace [[WHAT\|WHAT]] Would Be Street-Lamps
 - [ ] Add More Stuff To Shops
-- [ ] Still Write [[Template/Book\|Book]]
+- [ ] Still Write [[Template/Media Review\|Media Review]]
 - [ ] Each Fallen Star Has A Celestial At It
 - [ ] Antimagic Node
 - [ ] Node-Specificity
@@ -546,7 +546,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] The Furnace
 - [ ] Mass Distribution Blacksmiths Within Owned Grounds (Organisations, Palaces, Barracks)
 	- [ ] Personal Blacksmiths In Cities
-	- [ ] Personal Smithies Usually Have Different [[Branches/People\|People]] For Different Specialities So Write Those Too
+	- [ ] Personal Smithies Usually Have Different [[Branches/People Branch\|People Branch]] For Different Specialities So Write Those Too
 	- [ ] Three Legendary Resistances In The Form Of Drawing His Sword
 - [ ] Closed Gates Of A City/Fort Form A [[Branches/Wrighth\|Wrighth]] That Prevents All Methods Of Trespass 
 - [ ] Roadside Shops And Other Travel Interactions
@@ -554,7 +554,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Write More On
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Crushed Survivors\|Crushed Survivors]]
 		- [ ] [I Cannot Currently Think Of AS Snappy Summary For This One]
-- [ ] Town Where Guns Cannot Kill [[Branches/People\|People]]
+- [ ] Town Where Guns Cannot Kill [[Branches/People Branch\|People Branch]]
 - [ ] Add Pets
 - [ ] Write Radio Reports That Are Separate From News Papers
 	- [ ] Upcoming And Outgoing Events
@@ -596,7 +596,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Write Room Availabilities
 - [ ] Frankenstein Trees
 - [ ] Write The Anarchists Guide To BLOWING THE FUCK UP
-	- [ ] ([[Template/Book\|Book]] About Explosive [[Skull/Spam/Fire\|Fire]] And Charisma)
+	- [ ] ([[Template/Media Review\|Media Review]] About Explosive [[Skull/Spam/Fire\|Fire]] And Charisma)
 - [ ] Add More Creatures With Blindsight, Temmor SEnse, Truesight Etc
 - [ ] Sports Stuff
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Stratus Saepta/Locations/Planes/Planes\|Planes]] Stuff
@@ -612,7 +612,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Add Scifi Biopunk Stuff That Exists Now
 - [ ] Write Tragedies
 - [ ] grung thing
-- [ ] [[Template/Book\|Book]] Thats Too Powerful So Is Kept In A Wooden Sleeve
+- [ ] [[Template/Media Review\|Media Review]] Thats Too Powerful So Is Kept In A Wooden Sleeve
 - [ ] When [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Bad Enough Happens The World Stops And Multiple Councils Go Over The Events
 - [ ] Add Some Mountain Ranges
 - [ ] Shooting Range Minigame
@@ -676,7 +676,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Before "Nightfall" The [[Skull/Concentrated Brain/Random Thoughts/PetPlay Stuffs\|Owner]] Of [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Quests/Constant Quests/The Moonlit Tavern\|The Moonlit Tavern]] Kicks Everyone Out
 		- [ ] He Has His Own little Stand At The Festival
 - [ ] Prep More Trauma
-- [ ] Have Some [[Branches/People\|People]] Be Scared Of Knights/Platemail
+- [ ] Have Some [[Branches/People Branch\|People Branch]] Be Scared Of Knights/Platemail
 - [ ] More Cursed Items
 	- [ ] Shoes That Turn Your Feet Into Hands Until Someone Else Wears Them
 		- [ ] Guy Selling Expensive Looking Shoes "Name Your Price" "Need To Get Rid Of Them Before [[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|My Husband]] Sees"

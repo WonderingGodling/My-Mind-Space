@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/1-day-de-les-phantoms/1-day-de-les-phantoms/","title":"Day De Les Phantoms","tags":["Tagless"],"dgShowToc":true,"noteIcon":null,"dg-note-properties":{"Type":"Weekday","up":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/Weekday]]"],"down":null,"Yesterday":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/0 Moon Day]]"],"Tomorrow":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/2 Firstday/2 Firstday]]"],"Embedded":null,"aliases":["Day 1","Day De Les Phantoms"],"title":"Day De Les Phantoms","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date-Created":null,"Date-Modified":null,"Session Number":null,"description:":null,"icon":null}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/1-day-de-les-phantoms/1-day-de-les-phantoms/","title":"Day De Les Phantoms","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":"Weekday","up":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/Weekday]]"],"down":null,"Yesterday":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/0 Moon Day]]"],"Tomorrow":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/2 Firstday/2 Firstday]]"],"Embedded":null,"aliases":["Day 1","Day De Les Phantoms"],"title":"Day De Les Phantoms","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":null,"Session Number":null,"Icon":null,"Featured":"![[Files And Shit/thumbnails/external/5f9468aaf432ec6e125e019300f007be.png]]"}}
 ---
 
 # 1 Day De Les Phantoms
@@ -24,14 +24,14 @@
 - Lots Of Cats
 - King Calling Poeple In To Their Palace And They Dont Come Out
 	- Nothing Bad Happens
-- Very Busy Streets As [[Branches/People\|People]] Try To Get Back To Their Homes Or To Work Or Whatever
+- Very Busy Streets As [[Branches/People Branch\|People Branch]] Try To Get Back To Their Homes Or To Work Or Whatever
 - [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Zeliaphus\|Zeliaphus]] (Hell's Supreme) Calling Poeple In To Their Palace And They Dont Come Out
 	- [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] Bad Happens
 - "Hear Ye! Last Weeks Miss Hollywood Has Been Voided!"
 	- Most Of The Contestants Found Cheating
 		- No Evidence Against The Winner
 - Restaurant (Kizzy)
-	- No [[Branches/People\|People]] In It
+	- No [[Branches/People Branch\|People Branch]] In It
 	- [[Skull/Spam/Fire\|Fire]]
 		- Small One, Started By Candles
 	- There Is A Cloud That Own It And Can Be Heard Crying In The Back

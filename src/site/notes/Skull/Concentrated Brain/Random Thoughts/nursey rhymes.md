@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/nursey-rhymes/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":false,"tags":["Tagless"]}}
 ---
 
-For [[Skull/Concentrated Brain/Random Thoughts/Moomoo\|Moomoo]]
+For [[Explicitly Showcased/People/Moomoo\|Moomoo]]
 ###### Nursery Rhymes
 Baa, baa, black sheep, have you any wool?  
 Yes sir, yes sir, three bags full.  

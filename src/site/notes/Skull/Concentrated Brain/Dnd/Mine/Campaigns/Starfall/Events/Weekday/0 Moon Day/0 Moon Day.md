@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/0-moon-day/0-moon-day/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type:":"Days Events","Starting location:":"Luna","description:":null,"Type":"Session","Session Number":0,"Finishing location":null,"up":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/Weekday]]","down":null,"aliases":null,"Next":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/1 Day De Les Phantoms/1 Day De Les Phantoms]]","Previous":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/8 Sol/8 Sol]]","same":null,"tags":["Tagless"],"description":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"title":null,"comments":true}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/0-moon-day/0-moon-day/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Starting Location":null,"Session Number":0,"Finishing Location":null,"Up":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/Weekday]]","Down":null,"aliases":null,"Next":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/1 Day De Les Phantoms/1 Day De Les Phantoms]]","Previous":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/8 Sol/8 Sol]]","Same":null,"tags":["Tagless"],"Yesterday":null,"Tomorrow":null,"Embedded":null,"Title":null,"Comments":true,"Date Created":"278·10·2026 21:24 (Monday)","Date Modified":"282·10·2026 0:54 (Friday)"}}
 ---
 
 
@@ -24,7 +24,7 @@ Time: Sunset
 - Spawned A Cloak Room
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris]] Says She Lost Her Cloak
 - Sena Tells Khan To Get Her A Cloak
-- [[Branches/People\|People]] Start Leaving
+- [[Branches/People Branch\|People Branch]] Start Leaving
 - Sena Opens The Door Into The Cloak Room, Mostly Empty
 	- Last Guy In The Cloak Room Meran (Self Important)
 - Sena Demands Someone Gets Her A Cloak
@@ -60,7 +60,7 @@ Back In The Hideout
 	- Opening Speech
 		- "Thank You All For Coming Tonight! [Pauses For Applause] Yes, Yes We've All Waited So Very Long For This Momentous Occasion And Im Sure All Of You Would Love To Get Straight Out There And Do Your Thing. (Ive Heard That Some Of You Already Have). But We Do Unfortunately Have Rules That We Need To Follow So If It Shimmers With All In Attendance Lets Get To The Itinerary...."
 			- "Faith"
-		- "Lets See....The Town Has Been Secured The East Wing Has Been Checked For Goblins And Is Clear. Parlence Has Been Spread. Reminder That If You See The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]] You Are To Avoid Them. This Should Be Common Knowledge But [[Branches/People\|People]] Keep Asking [[Explicitly Showcased/Me/Me\|Me]] Where They Fit Into The Plan. We Are On....What Are We On"
+		- "Lets See....The Town Has Been Secured The East Wing Has Been Checked For Goblins And Is Clear. Parlence Has Been Spread. Reminder That If You See The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]] You Are To Avoid Them. This Should Be Common Knowledge But [[Branches/People Branch\|People Branch]] Keep Asking [[Explicitly Showcased/Me/Me\|Me]] Where They Fit Into The Plan. We Are On....What Are We On"
 			- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor\|Advisor]] Hold Up Right Amount Of Fingers
 		- "We Are On [Number] Which So Far Means [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]" [Improv From Here, Say It Mopstly Seems Like Admin Stuff And Ask If The Group Wants To Stay To Till The End]
 - "Throwing To The Floor Real Quick" And Someone From The Congregation Shouts Out
@@ -82,7 +82,7 @@ Back In The Hideout
 
 - A Girl (Lisa) Writing About [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]] In A Notebook For The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Fruitless Sky\|Fruitless Sky]]
 - Lisa Has Bad Handwritting
-- Wants [[Branches/People\|People]] To Not Touch Anytthing Because Its All Sensitive And/Or Dangerous
+- Wants [[Branches/People Branch\|People Branch]] To Not Touch Anytthing Because Its All Sensitive And/Or Dangerous
 - [[Magic\|Magic]] Detection By The Lab Doors
 - Passively Studying Monster Corpse Stuff
 	- Mentions Of Goblins Stuff And Hints Towards The Goblins Knowing The Star Stuff
@@ -346,7 +346,7 @@ Free Spirit- One Death Save
 - [ ] Whats' Names
 - [ ] Picture Frames
 - [ ] Leather Goods
-- [ ] (At A Push) Trevor Francis Tracksuits From A Mush In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Chronosburgh/Satellia/Shepards Bush\|Shepards Bush]]
+- [ ] (At A Push) Trevor Francis Tracksuits From A Mush In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Shepards Bush\|Shepards Bush]]
 
 ###### Misc
 Without Influence [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Group 1/Qutes\|Qutes]] Makes 350 Silver Max (Check Her Pricing)

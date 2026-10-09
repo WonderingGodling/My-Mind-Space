@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Constant Comment","permalink":"/Constant Comment/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type:":"Brain Dump","down:":null,"Yesterday:":null,"Tomorrow:":null,"title":"Constant Comment","comments":true,"tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"aliases":["Constant Commment","Mega Note","I Dont Know What Im Saying"],"up":"[[Branches/Random Thoughts]]","Type":null,"down":null,"Yesterday":null,"Tomorrow":null,"Next":null,"Previous":null}}
+{"dg-publish":true,"dg-permalink":"Constant Comment","permalink":"/Constant Comment/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"title":"Constant Comment","comments":true,"tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"aliases":["Constant Commment","Mega Note","I Dont Know What Im Saying"],"up":"[[Branches/Random Thoughts]]","down":null,"Yesterday":null,"Tomorrow":null,"Next":null,"Previous":null,"Featured":"![[Files And Shit/thumbnails/external/d3fa751840104994fe98790d4e99b6e6.png]]"}}
 ---
 
 
@@ -74,7 +74,7 @@ That One Doesnt Count; Go To [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawsh
 43•2024• Maybe Fixed The [[Explicitly Showcased/Home Page I Guess/Home Page\|Website]] 
 
 
-And So I Keep Reading [[Skull/Concentrated Brain/Media/House Of Leaves/HOL Mega Note\|HOL]] (For Which I have Untranscribed Notes)
+And So I Keep Reading [[Skull/Concentrated Brain/Media/Books I Have Read/House Of Leaves/HOL Mega Note\|HOL]] (For Which I have Untranscribed Notes)
 
 That Was A Waste Of Time; I'll Try To Update This As Much As Possible Though
 
@@ -84,7 +84,7 @@ Had To Get The 5 Train Back Dx
 Lex Is Great 
 Shout Out Lex
 
-Also Im Thinking Of Separating This Into Multiple Pages If It Gets Too Long; Thats A Long Way Down the Road Though So Dont Worry (Xei Said To The Zero [[Branches/People\|People]] Reading)
+Also Im Thinking Of Separating This Into Multiple Pages If It Gets Too Long; Thats A Long Way Down the Road Though So Dont Worry (Xei Said To The Zero [[Branches/People Branch\|People Branch]] Reading)
 Im Also Going To Put Up My Lecture Notes When I Start Making Them So Theres That To Look Forward To
 
 On The Same Note (Knowing I'll Move The Previous Entry) I Started Playing Persona Three Reload Yesterday And Its A Great Game Which I Probably Would Have Had [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] To Say About But That Was Last Night And Im Forgetful 
@@ -710,7 +710,7 @@ Scheduling Thing https://www.when2meet.com/
 Really Been Struggling To Do Anything Recently And Its Been Driving [[Explicitly Showcased/Me/Me\|Me]] [[Skull/Spam/Crazy\|Crazy]]
 The Goal At The Moment Is To Do Some Revision 
 Also Imma Listen To The Sinners Soundtrack Later If I [[Explicitly Showcased/People/Dont Forget/Dont Forget\|Dont Forget]]
-Also Bee Struggling To Talk To [[Branches/People\|People]] And I Feel Bad About That :(
+Also Bee Struggling To Talk To [[Branches/People Branch\|People Branch]] And I Feel Bad About That :(
 
 Also Decided To Centre Line This
 Nope Cant Figure Out How To Not Break Everything ^^
@@ -963,7 +963,7 @@ Theres No Reason To
 Increase Festival Payouts Over Time
 Horse Game Trainer ID 646 879 707 933
 [[Explicitly Showcased/People/Ollie\|Ollie]]
-[[Skull/Concentrated Brain/Random Thoughts/Moomoo\|Moomoo]]
+[[Explicitly Showcased/People/Moomoo\|Moomoo]]
 Julie Wants To Do Teams Meetings About Next Semester
 
 Oh Yeah One Of My Friends Recommended A Webtoon To Me And I Read It The Other Day

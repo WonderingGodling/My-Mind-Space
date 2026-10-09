@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/sessions/loop-0/day-0/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/sessions/loop-0/day-0/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 
@@ -20,14 +20,14 @@ Fun Facts: [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Session
 Harbinger Leads Them To The Hideout
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma]] Tries To Trick The Doorman (Khan), Fails, (Is Being Watched By Someone)
 	Eventually Shoots Then Charms The Doorman, Becomes Friendly And Suggestable Gets Let In By The Doorman
-Reception, Lots Of Chairs, [[Branches/People\|People]] Wearing Cloaks And Chatting
+Reception, Lots Of Chairs, [[Branches/People Branch\|People Branch]] Wearing Cloaks And Chatting
 Khan Goes Off To Get <span style="color:rgb(75, 236, 19)">VIP Cloaks</span> ([[Red\|Red]], Gold Hourglass Embroidered On It)
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma]] Says She's A [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hunter\|Hunter]] Khan Responds "Are You One Of The Tamers?"
 Khan Panics When Told About The Fog "Being Weakened"
 Spawned 2 Cloak Rooms (East And West), Conference Room Prespawned (North)
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Aris]] Says She Lost Her Cloak
 Sena Tells Khan To Get Her A Cloak
-[[Branches/People\|People]] Start Leaving
+[[Branches/People Branch\|People Branch]] Start Leaving
 Sena Opens The Door Into The Cloak Room, Mostly Empty
 	Demands Someone (Meran, Self Important) Gets Her A Cloak
 	Fails Intimidation Check And Gets Gusted To The Floor

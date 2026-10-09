@@ -50,7 +50,7 @@ Wherever Bee Is [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/We
 			- Door Opens If You Are "The Knower"
 			- Get Electrocuted If You Tie Or Fuck Emil
 	- "Usually More Expensive"
-	- "As Long As You [[Branches/People\|People]] Dont Go In I Dont Care"
+	- "As Long As You [[Branches/People Branch\|People Branch]] Dont Go In I Dont Care"
 - Evil-Murderer-Guy That Gets The Group To Work For Him But Is Really Nice
 	- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Aviresh/Chol\|Chol]]
 	- Leads A Gang But Isnt A Gang Leader
