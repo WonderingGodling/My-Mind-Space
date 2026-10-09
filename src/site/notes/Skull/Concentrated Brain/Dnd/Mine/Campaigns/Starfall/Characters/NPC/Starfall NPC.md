@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/npc/starfall-npc/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Campaign/Starfall/Characters/Starfall Characters|Starfall Characters]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/npc/starfall-npc/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Campaign/Starfall/Characters/Starfall Characters|Starfall Characters]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"]}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";srstac:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
@@ -33,14 +33,14 @@
 		- [ ] At The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Crazy Dungeon\|Crazy Dungeon]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Old Fisherman\|Old Fisherman]] (Highhish Level)
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Branson/Fission Chipz\|Fission Chipz]]
-- [ ] Original Arcane Rifleman Looking For Her [[Template/Book\|Book]]
+- [ ] Original Arcane Rifleman Looking For Her [[Template/Media Review\|Media Review]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Laurence\|Laurence (She/Her)]]
 - [ ] Thing That Directed [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Group 1/Qutes\|Qutes]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma]] There (Evil) 
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Blood Lich\|Blood Lich]] 
 - [ ] Someone With Time Travel Skates 
 - [ ] Ninja Girl 
 - [ ] Make Someones Icon Scott Pilgrim
-- [ ] Groups Of [[Branches/People\|People]] Anonymously Giving Group S Information
+- [ ] Groups Of [[Branches/People Branch\|People Branch]] Anonymously Giving Group S Information
 	- [ ] Letters
 	- [ ] Not [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]]
 	- [ ] If Anything Big Happens They Get A Breif Explanation Of The Previous [[Session\|Session]]
@@ -101,7 +101,7 @@
 	- [ ] Unaffiliated With Any [[Branches/Gods\|Gods]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Mr Misery\|Mr Misery]] Starts Saying Things That Are Consistent On Loop Four
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Mr Misery\|Mr Misery]]
-- [ ] Guy Who Makes [[Branches/People\|People]] Stick To Things 
+- [ ] Guy Who Makes [[Branches/People Branch\|People Branch]] Stick To Things 
 	- [ ] Fae Rules
 - [ ] Creature You Can Find And Free But Then It Hunts You Forever
 - [ ] Devil That Tricks Players Into FREING IT
@@ -123,13 +123,13 @@
 		- [ ] Just Picks An Effect From The Tables
 	- [ ] "You Wont Find A Better  Magician In All The Lands- Actually All The Realms."
 - [ ] Persone Stealing [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]] Parts And Organs To Incorporate Into Themself 
-	- [ ] The [[Branches/People\|People]] Are Unharmed On Loop Unless They Also Are Uneffected By Loops
+	- [ ] The [[Branches/People Branch\|People Branch]] Are Unharmed On Loop Unless They Also Are Uneffected By Loops
 - [ ] Guy Actively Casting A Spell That Makes The Keep (Castle Area) In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Named Towns And Cities/Knuts/Lei\|Lei]] Living And Breathing
 	- [ ] Hes In The Basement, Eyes Black And Chanting Something That Doesn't Seem To Repeat
 		- [ ] "Ilamira tosira oligor pas na telio kin far nuu misen bi mon graint mee juumir no roring hor mer insurai...."
 - [ ] Villain Who Wants The Hero To Defeat Them
 	- [ ] Can Not Stop Themselves From Doing Evil And Hates It
-- [ ] Guy With A Little [[Template/Book\|Book]] Of [[Skull/Concentrated Brain/Riddles/Riddles\|Riddles]]
+- [ ] Guy With A Little [[Template/Media Review\|Media Review]] Of [[Skull/Concentrated Brain/Riddles/Riddles\|Riddles]]
 - [ ] Guy Who Does Magic
 	- [ ] Like Actual Magic but Its All Set Up Like Stage Magic
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Generic Shopkeep Sheet 2\|Generic Shopkeep Sheet 2]]
@@ -156,7 +156,7 @@
 	- [ ] Shoes That Turn Your Feet Into Hands Until Someone Else Wears Them
 - [ ] Ten Year Old Vampire Girl
 	- [ ] Kind, Creepy, Her Insides Hurt
-	- [ ] Forgets Events, Remembers [[Branches/People\|People]]
+	- [ ] Forgets Events, Remembers [[Branches/People Branch\|People Branch]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Tari\|Tari]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Silas\|Silas]]
 - [ ] [[Trinity\|Trinity]]
@@ -201,14 +201,14 @@
 		- [ ] At The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Crazy Dungeon\|Crazy Dungeon]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Old Fisherman\|Old Fisherman]] (Highhish Level)
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Branson/Fission Chipz\|Fission Chipz]]
-- [ ] Original Arcane Rifleman Looking For Her [[Template/Book\|Book]]
+- [ ] Original Arcane Rifleman Looking For Her [[Template/Media Review\|Media Review]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Laurence\|Laurence (She/Her)]]
 - [ ] Thing That Directed [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Group 1/Qutes\|Qutes]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma]] There (Evil) 
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Blood Lich\|Blood Lich]] 
 - [ ] Someone With Time Travel Skates 
 - [ ] Ninja Girl 
 - [ ] Make Someones Icon Scott Pilgrim
-- [ ] Groups Of [[Branches/People\|People]] Anonymously Giving Group S Information
+- [ ] Groups Of [[Branches/People Branch\|People Branch]] Anonymously Giving Group S Information
 	- [ ] Letters
 	- [ ] Not [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]]
 	- [ ] If Anything Big Happens They Get A Breif Explanation Of The Previous [[Session\|Session]]
@@ -269,7 +269,7 @@
 	- [ ] Unaffiliated With Any [[Branches/Gods\|Gods]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Mr Misery\|Mr Misery]] Starts Saying Things That Are Consistent On Loop Four
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Mr Misery\|Mr Misery]]
-- [ ] Guy Who Makes [[Branches/People\|People]] Stick To Things 
+- [ ] Guy Who Makes [[Branches/People Branch\|People Branch]] Stick To Things 
 	- [ ] Fae Rules
 - [ ] Creature You Can Find And Free But Then It Hunts You Forever
 - [ ] Devil That Tricks Players Into FREING IT
@@ -291,13 +291,13 @@
 		- [ ] Just Picks An Effect From The Tables
 	- [ ] "You Wont Find A Better  Magician In All The Lands- Actually All The Realms."
 - [ ] Persone Stealing [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]] Parts And Organs To Incorporate Into Themself 
-	- [ ] The [[Branches/People\|People]] Are Unharmed On Loop Unless They Also Are Uneffected By Loops
+	- [ ] The [[Branches/People Branch\|People Branch]] Are Unharmed On Loop Unless They Also Are Uneffected By Loops
 - [ ] Guy Actively Casting A Spell That Makes The Keep (Castle Area) In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Named Towns And Cities/Knuts/Lei\|Lei]] Living And Breathing
 	- [ ] Hes In The Basement, Eyes Black And Chanting Something That Doesn't Seem To Repeat
 		- [ ] "Ilamira tosira oligor pas na telio kin far nuu misen bi mon graint mee juumir no roring hor mer insurai...."
 - [ ] Villain Who Wants The Hero To Defeat Them
 	- [ ] Can Not Stop Themselves From Doing Evil And Hates It
-- [ ] Guy With A Little [[Template/Book\|Book]] Of [[Skull/Concentrated Brain/Riddles/Riddles\|Riddles]]
+- [ ] Guy With A Little [[Template/Media Review\|Media Review]] Of [[Skull/Concentrated Brain/Riddles/Riddles\|Riddles]]
 - [ ] Guy Who Does Magic
 	- [ ] Like Actual Magic but Its All Set Up Like Stage Magic
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Generic Shopkeep Sheet 2\|Generic Shopkeep Sheet 2]]
@@ -324,7 +324,7 @@
 	- [ ] Shoes That Turn Your Feet Into Hands Until Someone Else Wears Them
 - [ ] Ten Year Old Vampire Girl
 	- [ ] Kind, Creepy, Her Insides Hurt
-	- [ ] Forgets Events, Remembers [[Branches/People\|People]]
+	- [ ] Forgets Events, Remembers [[Branches/People Branch\|People Branch]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Tari\|Tari]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Silas\|Silas]]
 - [ ] [[Trinity\|Trinity]]
@@ -369,14 +369,14 @@
 		- [ ] At The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Crazy Dungeon\|Crazy Dungeon]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Old Fisherman\|Old Fisherman]] (Highhish Level)
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Branson/Fission Chipz\|Fission Chipz]]
-- [ ] Original Arcane Rifleman Looking For Her [[Template/Book\|Book]]
+- [ ] Original Arcane Rifleman Looking For Her [[Template/Media Review\|Media Review]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Laurence\|Laurence (She/Her)]]
 - [ ] Thing That Directed [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Group 1/Qutes\|Qutes]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma]] There (Evil) 
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Blood Lich\|Blood Lich]] 
 - [ ] Someone With Time Travel Skates 
 - [ ] Ninja Girl 
 - [ ] Make Someones Icon Scott Pilgrim
-- [ ] Groups Of [[Branches/People\|People]] Anonymously Giving Group S Information
+- [ ] Groups Of [[Branches/People Branch\|People Branch]] Anonymously Giving Group S Information
 	- [ ] Letters
 	- [ ] Not [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/The Cult Of The Wicked\|The Cult Of The Wicked]]
 	- [ ] If Anything Big Happens They Get A Breif Explanation Of The Previous [[Session\|Session]]
@@ -437,7 +437,7 @@
 	- [ ] Unaffiliated With Any [[Branches/Gods\|Gods]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Mr Misery\|Mr Misery]] Starts Saying Things That Are Consistent On Loop Four
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Mr Misery\|Mr Misery]]
-- [ ] Guy Who Makes [[Branches/People\|People]] Stick To Things 
+- [ ] Guy Who Makes [[Branches/People Branch\|People Branch]] Stick To Things 
 	- [ ] Fae Rules
 - [ ] Creature You Can Find And Free But Then It Hunts You Forever
 - [ ] Devil That Tricks Players Into FREING IT
@@ -459,13 +459,13 @@
 		- [ ] Just Picks An Effect From The Tables
 	- [ ] "You Wont Find A Better  Magician In All The Lands- Actually All The Realms."
 - [ ] Persone Stealing [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]] Parts And Organs To Incorporate Into Themself 
-	- [ ] The [[Branches/People\|People]] Are Unharmed On Loop Unless They Also Are Uneffected By Loops
+	- [ ] The [[Branches/People Branch\|People Branch]] Are Unharmed On Loop Unless They Also Are Uneffected By Loops
 - [ ] Guy Actively Casting A Spell That Makes The Keep (Castle Area) In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Named Towns And Cities/Knuts/Lei\|Lei]] Living And Breathing
 	- [ ] Hes In The Basement, Eyes Black And Chanting Something That Doesn't Seem To Repeat
 		- [ ] "Ilamira tosira oligor pas na telio kin far nuu misen bi mon graint mee juumir no roring hor mer insurai...."
 - [ ] Villain Who Wants The Hero To Defeat Them
 	- [ ] Can Not Stop Themselves From Doing Evil And Hates It
-- [ ] Guy With A Little [[Template/Book\|Book]] Of [[Skull/Concentrated Brain/Riddles/Riddles\|Riddles]]
+- [ ] Guy With A Little [[Template/Media Review\|Media Review]] Of [[Skull/Concentrated Brain/Riddles/Riddles\|Riddles]]
 - [ ] Guy Who Does Magic
 	- [ ] Like Actual Magic but Its All Set Up Like Stage Magic
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Generic Shopkeep Sheet 2\|Generic Shopkeep Sheet 2]]
@@ -492,7 +492,7 @@
 	- [ ] Shoes That Turn Your Feet Into Hands Until Someone Else Wears Them
 - [ ] Ten Year Old Vampire Girl
 	- [ ] Kind, Creepy, Her Insides Hurt
-	- [ ] Forgets Events, Remembers [[Branches/People\|People]]
+	- [ ] Forgets Events, Remembers [[Branches/People Branch\|People Branch]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Tari\|Tari]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Silas\|Silas]]
 - [ ] [[Trinity\|Trinity]]
