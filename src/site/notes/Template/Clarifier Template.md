@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/template/clarifier-template/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"Description":"{{description}}","Up":null,"Embedded":null,"Next":null,"Previous":null,"Similarly Rooted":null,"aliases":null,"Title":null,"Comments":true,"tags":["Tagless"],"Date-Created":null,"Date-Modified":"281·10·2026 13:43 (Thursday)","Icon":"{{favicon}}","Banner":"{{image}}","Featured":null}}
+{"dg-publish":true,"permalink":"/template/clarifier-template/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"Description":"{{description}}","Up":null,"Embedded":null,"Next":null,"Previous":null,"Similarly Rooted":null,"aliases":null,"Title":null,"Comments":true,"tags":["Tagless"],"Date Created":null,"Date Modified":"281·10·2026 13:43 (Thursday)","Icon":"{{favicon}}","Banner":"{{image}}","Featured":null}}
 ---
 
 

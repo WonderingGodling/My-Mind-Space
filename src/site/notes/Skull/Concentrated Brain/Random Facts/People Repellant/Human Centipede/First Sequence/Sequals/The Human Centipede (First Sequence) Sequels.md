@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/sequals/the-human-centipede-first-sequence-sequels/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Yesterday":null,"Tomorrow":null}}
+{"dg-publish":true,"dg-permalink":"true","permalink":"/true/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Yesterday":null,"Tomorrow":null}}
 ---
 
 

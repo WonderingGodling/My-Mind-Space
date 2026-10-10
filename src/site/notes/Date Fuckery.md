@@ -38,10 +38,10 @@ Date Countdown Progress Bar
     at asyncEvalInContext (plugin:dataview:19038:32)
     at DataviewJSRenderer.render (plugin:dataview:19064:19)
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:883194)
+    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:883194)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
     at DataviewCompiler.eval (plugin:digitalgarden:13372:21)
-    at next (&lt;anonymous&gt;)
+    at Generator.next (&lt;anonymous&gt;)
     at eval (plugin:digitalgarden:105:61)</pre>
 
 
@@ -74,9 +74,9 @@ console.log(getDatePercent())
 
 
 
-<p><span><strong>Day %age</strong>     <progress max="100" value="34.510416666666664" style="height:10px;width:20%"></progress></span></p>
+<p><span><strong>Day %age</strong>     <progress max="100" value="61.09375" style="height:10px;width:20%"></progress></span></p>
 
 
-[[[Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/281·10·2026 (Thursday).md\|281·10·2026 (Thursday)]]]
+[[[Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/283·10·2026 (Saturday).md\|283·10·2026 (Saturday)]]]
 
 
