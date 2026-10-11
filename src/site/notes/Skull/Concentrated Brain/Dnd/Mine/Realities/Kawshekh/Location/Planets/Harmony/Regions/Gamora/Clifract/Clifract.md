@@ -1,10 +1,10 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/gamora/clifract/clifract/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":["[[Gamora]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"],"permalink":null}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/gamora/clifract/clifract/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Gamora]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Date Created":"203·07·2026 17:03 (Wednesday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 Known For And/Or Slogan
 Location: (Country And Number)
-
 
 ## Named Cities And Towns
 ## Map
@@ -15,7 +15,7 @@ Location: (Country And Number)
 
 ## Extra
 
-### description & Details
+### Description & Details
 #### Stuff You Can Find
 - Thing
 

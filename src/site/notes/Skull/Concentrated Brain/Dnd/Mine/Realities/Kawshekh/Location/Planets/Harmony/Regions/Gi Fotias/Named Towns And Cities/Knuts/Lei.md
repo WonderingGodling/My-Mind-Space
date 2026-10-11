@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/gi-fotias/named-towns-and-cities/knuts/lei/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Similarly Rooted":null,"Date Created":null,"Session Number":null,"Description":null,"Named City/Town":null,"Mapped":null,"Map Co-Ordinate":15,"Featured":"![Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Named Towns And Cities/Knuts/97a01f7d9bb46440aab9f821aa0b37f4.jpg](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi%20Fotias/Named%20Towns%20And%20Cities/Knuts/97a01f7d9bb46440aab9f821aa0b37f4.jpg)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/gi-fotias/named-towns-and-cities/knuts/lei/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Similarly Rooted":null,"Date Created":"278·10·2026 16:54 (Monday)","Session Number":null,"Description":null,"Icon":null,"Named City/Town":null,"Mapped":null,"Map Co-Ordinate":15,"Featured":"![[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Named Towns And Cities/Knuts/97a01f7d9bb46440aab9f821aa0b37f4.jpg]]","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -10,16 +11,10 @@
 
 # <center><span style="color:#D3DED0">Lei</span></center>
 
-
 > [!SUCCESS] Where Harmony Has Made Home
 >  Gi Fotias 15
 > Population Of 12 Million Happy People
 > ![97a01f7d9bb46440aab9f821aa0b37f4.jpg](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi%20Fotias/Named%20Towns%20And%20Cities/Knuts/97a01f7d9bb46440aab9f821aa0b37f4.jpg)
-
-
-
-
-
 
 - Statue Of A Horned Paladin With His Sword Embedded In The Floor
 	- Is Dragon Defence
@@ -34,7 +29,7 @@
 
 ## Extra
 
-### description & Details
+### Description & Details
 #### Stuff You Can Find
 - Thing
 

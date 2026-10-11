@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/grease/athens/shadow-archer/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Featured":"![Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Athens/Files And Shit/Shadow Archer.jpg](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Athens/Files%20And%20Shit/Shadow%20Archer.jpg)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/grease/athens/shadow-archer/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Featured":"![[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Athens/Files And Shit/Shadow Archer.jpg]]","Date Created":"212·07·2026 12:02 (Friday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -14,7 +15,7 @@ Real Name Morgan Lesh
 ![Shadow Archer Token.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Athens/Files%20And%20Shit/Shadow%20Archer%20Token.png)
 
 ## General
- Race:  Shadar-Kai
+ Race: Shadar-Kai
  Class: Ranger
 
 ## Stats
@@ -46,6 +47,7 @@ Real Name Morgan Lesh
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
 | Death Fails |     |     |     |
+
 ### Attacks
 
 | Attack                       | To-Hit          | Damage                                                               |
@@ -58,6 +60,7 @@ Roll To Hit, Highest AC Person Gets Hit
 	+2 To Rolls With ranged Weapons
 Adds 100/100 To Range
 Arrows Do Magical Piercing
+
 # Inventory
 
 # Extra
@@ -65,7 +68,7 @@ Resistances: Necrotic
 Advantage: Against Charm
 Languages: Common, Elvish, Undercommon, Celestial
 
-# Notes: 
+# Notes:
 Can Teleport 40ft Three Times And Gain Resistance Until The Turn After
 Devil's Sight
 Doesnt Need To Sleep
@@ -74,10 +77,10 @@ Favoured terrrain Underdark
 	This Guy Uses The Train Passages A Lot
 While in darkness, you are invisible to any creature that relies on darkvision to see you in that darkness.
 
-# Characteristics 
-Despite His Daunting Cloaked Appearance, With His Hood Down Varjo Looks Like A Rather Frail Elf, With Long Soft Hair And Smooth Glass Eyes. He Looks Like A Man Who May Have Never Faced Direct Conflict And Definitely Hasnt Faced The Sun. His Pale Skin Practically Reflects Any Light That Shines Onto Him. He Never Makes Eye Contact,  Preferring To Watch The Surrounding Terrain Than To Watch Peoples Faces. 
+# Characteristics
+Despite His Daunting Cloaked Appearance, With His Hood Down Varjo Looks Like A Rather Frail Elf, With Long Soft Hair And Smooth Glass Eyes. He Looks Like A Man Who May Have Never Faced Direct Conflict And Definitely Hasnt Faced The Sun. His Pale Skin Practically Reflects Any Light That Shines Onto Him. He Never Makes Eye Contact, Preferring To Watch The Surrounding Terrain Than To Watch Peoples Faces. 
 
-His Cloak Is Long But Leaves His Lengthy  Arms Bare For Range Of Motion. At First Glance His Arms Look Like They Are Just Bone But Its Actually That All The Muscle Is At His Biceps. Developed From His Work With The Bow Even Though He Hasnt Been Eating As Much Protein As One Should.
+His Cloak Is Long But Leaves His Lengthy Arms Bare For Range Of Motion. At First Glance His Arms Look Like They Are Just Bone But Its Actually That All The Muscle Is At His Biceps. Developed From His Work With The Bow Even Though He Hasnt Been Eating As Much Protein As One Should.
 
 The Best Way To Identify Varjo Is Through His Posture. He Spends Most Of His Time Crouching Or Hunched Over. When Sneaking He Walks On All-Fours Like A Cautious Meerkat.
 

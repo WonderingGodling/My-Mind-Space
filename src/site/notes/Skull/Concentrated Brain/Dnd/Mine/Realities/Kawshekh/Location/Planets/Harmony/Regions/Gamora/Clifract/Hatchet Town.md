@@ -1,9 +1,9 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/gamora/clifract/hatchet-town/","tags":["Tagless","Beachside"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":["[[Clifract]]","[[Starfall Location Events]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Hatchet Town"],"Title":null,"comments":true,"tags":["Tagless","Beachside"],"permalink":"Hatchet Town"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/gamora/clifract/hatchet-town/","tags":["Tagless","Beachside"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Clifract]]","[[Branches/Starfall Location Events]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Hatchet Town"],"Title":null,"comments":true,"tags":["Tagless","Beachside"],"permalink":"Hatchet Town","Date Created":"233·08·2026 0:55 (Friday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#600000">Hatchet Town </span></center>
 To Eat Their Own
@@ -23,7 +23,6 @@ The Cannibalism Has Been A Thing In Recent History
 
 8 Silver [[Jewels\|Jewels]] Under A Trap Door Under The Outside Stage
 
-
 ## Moon Day
 
 - Dense Fog Seeping Out From Every Nook And Cranny, Reaches The Well And Spouts Up
@@ -31,7 +30,7 @@ The Cannibalism Has Been A Thing In Recent History
 	- Well Water Inflicts Poison And Short-Term Memory Loss
 	- A Few Crow Calls Heard In The Distance
 
-[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/The Harbinger\|The Harbinger]] Is There  And Is Reluctant To Help Anybody
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/The Harbinger\|The Harbinger]] Is There And Is Reluctant To Help Anybody
 
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/The Harbinger\|The Harbinger]] Is There 
 - Players On Different Sides Of Fountain
@@ -60,7 +59,7 @@ Can Notice [[Branches/People Branch\|People Branch]] Keep Flooding In To A Speci
 	Cant Enter Hideout Without Password (The Biggest Shadows Under The Brightest [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]])
 	Doorman (Khan)
 	Inside Everyone Is Wearing Wine-[[Red\|Red]] Hoodless Cloaks Which You Need In Order To Participate
-		There Are VIP Cloaks  ([[Red\|Red]], Gold Hourglass Embroidered On It)
+		There Are VIP Cloaks ([[Red\|Red]], Gold Hourglass Embroidered On It)
 		Can Get Cloaks From The Locker Room If They Have A Key
 			Can *Find* Cloaks In The Store Room, Shop, Stolen From Laundry/Lost And Found, 
 	Only The Outside Door Is Painted
@@ -101,9 +100,6 @@ Goblins Seem To Know About The Astronomy Stuff Better Than The [[Skull/Concentra
 	Theyre Trying To Catch Up And Predict The Goblins Next Move
 No Goblins Have Been Tamed
 
-
-
-
 ### Olde Inn
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris]] Finds A Building (The Local Inn) With A Person (Trill) Looking After His Dads Place
 	Has Potions, Has Bread
@@ -117,14 +113,17 @@ Old Inn (The Local Tavern) Has A Young Man Called Trill
 	- Manned By Trill (30 Year-Old Son)
 		- 2 Gold Health Potions
 		- 1 Bronze Bread
-## Hatchet Town Hideout 
+
+## Hatchet Town Hideout
 The Doors Arent Painted
 Reception, Lots Of Chairs, [[Branches/People Branch\|People Branch]] Wearing Cloaks And Chatting
 Cloak Room (East & West), Conference Room North)
 Outside Rooms Have Cats
+
 ###### VIP Cloaks
 ([[Red\|Red]], Gold Hourglass Embroidered On It)
 Full HP (Cooldown), Cant Have Negative Modiers In The Hideout, Disadvantage On Deception If Both Parties Are Wearing The Cloak
+
 ### Rooms
 - Nook, No Exits
 - Stage, Four Exits 
@@ -213,7 +212,6 @@ Full HP (Cooldown), Cant Have Negative Modiers In The Hideout, Disadvantage On D
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
-
 # <center><span style="color:#600000">Hatchet Town </span></center>
 To Eat Their Own
 
@@ -232,7 +230,6 @@ The Cannibalism Has Been A Thing In Recent History
 
 8 Silver [[Jewels\|Jewels]] Under A Trap Door Under The Outside Stage
 
-
 ## Moon Day
 
 - Dense Fog Seeping Out From Every Nook And Cranny, Reaches The Well And Spouts Up
@@ -240,7 +237,7 @@ The Cannibalism Has Been A Thing In Recent History
 	- Well Water Inflicts Poison And Short-Term Memory Loss
 	- A Few Crow Calls Heard In The Distance
 
-[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/The Harbinger\|The Harbinger]] Is There  And Is Reluctant To Help Anybody
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/The Harbinger\|The Harbinger]] Is There And Is Reluctant To Help Anybody
 
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/The Harbinger\|The Harbinger]] Is There 
 - Players On Different Sides Of Fountain
@@ -269,7 +266,7 @@ Can Notice [[Branches/People Branch\|People Branch]] Keep Flooding In To A Speci
 	Cant Enter Hideout Without Password (The Biggest Shadows Under The Brightest [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]])
 	Doorman (Khan)
 	Inside Everyone Is Wearing Wine-[[Red\|Red]] Hoodless Cloaks Which You Need In Order To Participate
-		There Are VIP Cloaks  ([[Red\|Red]], Gold Hourglass Embroidered On It)
+		There Are VIP Cloaks ([[Red\|Red]], Gold Hourglass Embroidered On It)
 		Can Get Cloaks From The Locker Room If They Have A Key
 			Can *Find* Cloaks In The Store Room, Shop, Stolen From Laundry/Lost And Found, 
 	Only The Outside Door Is Painted
@@ -310,9 +307,6 @@ Goblins Seem To Know About The Astronomy Stuff Better Than The [[Skull/Concentra
 	Theyre Trying To Catch Up And Predict The Goblins Next Move
 No Goblins Have Been Tamed
 
-
-
-
 ### Olde Inn
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris]] Finds A Building (The Local Inn) With A Person (Trill) Looking After His Dads Place
 	Has Potions, Has Bread
@@ -326,14 +320,17 @@ Old Inn (The Local Tavern) Has A Young Man Called Trill
 	- Manned By Trill (30 Year-Old Son)
 		- 2 Gold Health Potions
 		- 1 Bronze Bread
-## Hatchet Town Hideout 
+
+## Hatchet Town Hideout
 The Doors Arent Painted
 Reception, Lots Of Chairs, [[Branches/People Branch\|People Branch]] Wearing Cloaks And Chatting
 Cloak Room (East & West), Conference Room North)
 Outside Rooms Have Cats
+
 ###### VIP Cloaks
 ([[Red\|Red]], Gold Hourglass Embroidered On It)
 Full HP (Cooldown), Cant Have Negative Modiers In The Hideout, Disadvantage On Deception If Both Parties Are Wearing The Cloak
+
 ### Rooms
 - Nook, No Exits
 - Stage, Four Exits 
@@ -422,7 +419,6 @@ Full HP (Cooldown), Cant Have Negative Modiers In The Hideout, Disadvantage On D
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
-
 # <center><span style="color:#600000">Hatchet Town </span></center>
 To Eat Their Own
 
@@ -441,7 +437,6 @@ The Cannibalism Has Been A Thing In Recent History
 
 8 Silver [[Jewels\|Jewels]] Under A Trap Door Under The Outside Stage
 
-
 ## Moon Day
 
 - Dense Fog Seeping Out From Every Nook And Cranny, Reaches The Well And Spouts Up
@@ -449,7 +444,7 @@ The Cannibalism Has Been A Thing In Recent History
 	- Well Water Inflicts Poison And Short-Term Memory Loss
 	- A Few Crow Calls Heard In The Distance
 
-[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/The Harbinger\|The Harbinger]] Is There  And Is Reluctant To Help Anybody
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/The Harbinger\|The Harbinger]] Is There And Is Reluctant To Help Anybody
 
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/The Harbinger\|The Harbinger]] Is There 
 - Players On Different Sides Of Fountain
@@ -478,7 +473,7 @@ Can Notice [[Branches/People Branch\|People Branch]] Keep Flooding In To A Speci
 	Cant Enter Hideout Without Password (The Biggest Shadows Under The Brightest [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]])
 	Doorman (Khan)
 	Inside Everyone Is Wearing Wine-[[Red\|Red]] Hoodless Cloaks Which You Need In Order To Participate
-		There Are VIP Cloaks  ([[Red\|Red]], Gold Hourglass Embroidered On It)
+		There Are VIP Cloaks ([[Red\|Red]], Gold Hourglass Embroidered On It)
 		Can Get Cloaks From The Locker Room If They Have A Key
 			Can *Find* Cloaks In The Store Room, Shop, Stolen From Laundry/Lost And Found, 
 	Only The Outside Door Is Painted
@@ -519,9 +514,6 @@ Goblins Seem To Know About The Astronomy Stuff Better Than The [[Skull/Concentra
 	Theyre Trying To Catch Up And Predict The Goblins Next Move
 No Goblins Have Been Tamed
 
-
-
-
 ### Olde Inn
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris]] Finds A Building (The Local Inn) With A Person (Trill) Looking After His Dads Place
 	Has Potions, Has Bread
@@ -535,14 +527,17 @@ Old Inn (The Local Tavern) Has A Young Man Called Trill
 	- Manned By Trill (30 Year-Old Son)
 		- 2 Gold Health Potions
 		- 1 Bronze Bread
-## Hatchet Town Hideout 
+
+## Hatchet Town Hideout
 The Doors Arent Painted
 Reception, Lots Of Chairs, [[Branches/People Branch\|People Branch]] Wearing Cloaks And Chatting
 Cloak Room (East & West), Conference Room North)
 Outside Rooms Have Cats
+
 ###### VIP Cloaks
 ([[Red\|Red]], Gold Hourglass Embroidered On It)
 Full HP (Cooldown), Cant Have Negative Modiers In The Hideout, Disadvantage On Deception If Both Parties Are Wearing The Cloak
+
 ### Rooms
 - Nook, No Exits
 - Stage, Four Exits 
