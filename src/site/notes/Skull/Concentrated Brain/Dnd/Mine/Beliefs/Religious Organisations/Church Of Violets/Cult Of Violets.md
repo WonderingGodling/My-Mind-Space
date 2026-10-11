@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"CoV","permalink":"/CoV/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"tags":["Tagless"],"Type":null,"Up":["[[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Church]]"],"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["CoV"],"Title":null,"comments":true}}
+{"Publish":true,"Permalink":"CoV","permalink":"/CoV/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"tags":["Tagless"],"Type":null,"Up":["[[Church]]"],"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["CoV"],"Title":null,"comments":true}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Constantine","permalink":"/Constantine/","title":"Connie","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Branches/My PCs]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":"Connie","comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/constantine/constantine/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[My PCs]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":"Connie","comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":"Constantine","Featured":"![images/Pasted image 20251202185710.png](/img/user/images/Pasted%20image%2020251202185710.png)"}}
 ---
 
 

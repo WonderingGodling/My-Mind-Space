@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-permalink":"true","permalink":"/true/","hideInGraph":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Icon":"[[Template/Files And Shit/CalendarRange.svg]]","Featured":""}}
+{"Publish":true,"permalink":"/template/daily/","hideInGraph":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Featured":"","Yesterday":null,"Tomorrow":null}}
 ---
 
 
 
 
-<p><span><strong>Day Age</strong>     <progress max="100" value="61.339120370370374" style="height:10px;width:20%"></progress>    61.339120370370374 </span></p>
-[[|Yesterday]]
+<p><span><strong>Day Age</strong>     <progress max="100" value="9.913194444444445" style="height:10px;width:20%"></progress>    9.913194444444445 </span></p>
+
 
 ```
 <%*

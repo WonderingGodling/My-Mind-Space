@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/2-firstday/2-firstday/","title":"Firstday","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/Weekday]]"],"down":null,"Yesterday":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/1 Day De Les Phantoms/1 Day De Les Phantoms]]"],"Tomorrow":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/3 Cratey/3 Cratey]]"],"Embedded":null,"aliases":["Day 2","Firstday"],"title":"Firstday","comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/2-firstday/2-firstday/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":["[[Weekday]]"],"down":null,"Yesterday":["[[1 Day De Les Phantoms]]"],"Tomorrow":["[[3 Cratey]]"],"Embedded":null,"aliases":["Day 2","Firstday"],"Title":"Firstday","comments":true,"tags":["Tagless"]}}
 ---
 
 # Firstday

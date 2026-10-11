@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Constant Comment","permalink":"/Constant Comment/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"title":"Constant Comment","comments":true,"tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"aliases":["Constant Commment","Mega Note","I Dont Know What Im Saying"],"up":"[[Branches/Random Thoughts]]","down":null,"Yesterday":null,"Tomorrow":null,"Next":null,"Previous":null,"Featured":"![[Files And Shit/thumbnails/external/d3fa751840104994fe98790d4e99b6e6.png]]"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/constant-comment-not-the-tea/","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Title":"Constant Comment","comments":true,"show-local-graph":null,"tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"aliases":["Constant Commment","Mega Note","I Dont Know What Im Saying"],"up":"[[Random Thoughts]]","permalink":"Constant Comment","down":null,"Yesterday":null,"Tomorrow":null,"Next":null,"Previous":null,"Featured":"![Files And Shit/thumbnails/external/d3fa751840104994fe98790d4e99b6e6.png](/img/user/Files%20And%20Shit/thumbnails/external/d3fa751840104994fe98790d4e99b6e6.png)"}}
 ---
 
 
@@ -359,7 +359,7 @@ Needles
 ![](https://i.imgur.com/W1Wnbrl.png)
 Still Dont Know How I Did That
 
-Done [[[[Nothing\|[[Nothing]]]] All Day
+Done [[[[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]]] All Day
 Missed Some Stuff Out- I Need To be Better At This
 
 Father Called

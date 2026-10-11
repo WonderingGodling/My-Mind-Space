@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"dg-permalink":"true","permalink":"/true/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Company":null,"Location":null,"Title":null,"Email":null,"Website":null,"aliases":null}}
+{"Publish":true,"permalink":"/template/people/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{}}
 ---
 
-tags = `= this.dv_tags`
+---
+Purchased:
+Price:
+URL:
+dg-publish: "true"
+Permalinkgs = `= this.dv_tags`
 
-
-## Notes
-- 
-
-## Meetings
-| File | Created | Summary |
-| ---- | ------- | ------- |
-
-{ .block-language-dataview}
+# 
+Permalinks
+ -
