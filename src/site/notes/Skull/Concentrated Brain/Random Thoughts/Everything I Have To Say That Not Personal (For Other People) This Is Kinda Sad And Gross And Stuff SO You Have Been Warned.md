@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/everything-i-have-to-say-that-not-personal-for-other-people-this-is-kinda-sad-and-gross-and-stuff-so-you-have-been-warned/","hideInGraph":true,"tags":["Tagless"],"dgShowLocalGraph":true,"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Skull/Concentrated Brain/Random Thoughts/Thought Emporium Or Whatever|Thoughts]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":null,"Session Number":null,"Icon":null,"Banner":null}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/everything-i-have-to-say-that-not-personal-for-other-people-this-is-kinda-sad-and-gross-and-stuff-so-you-have-been-warned/","hideInGraph":true,"tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Thought Emporium Or Whatever|Thoughts]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"show-local-graph":true,"tags":["Tagless"],"permalink":null,"Similarly Rooted":null,"Date Created":null,"Session Number":null,"Banner":null}}
 ---
 
 

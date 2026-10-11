@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uni/2/5-ab-molecular-biosciences/5-ab-030-analytical-techniques-in-biosciences/5-ab-030-portfolio-assignment/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/uni/2/5-ab-molecular-biosciences/5-ab-030-analytical-techniques-in-biosciences/5-ab-030-portfolio-assignment/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"![Uni/2/5AB Molecular Biosciences/5AB030 Analytical Techniques in Biosciences/Files And Shit/Pasted image 20260504010708.png](/img/user/Uni/2/5AB%20Molecular%20Biosciences/5AB030%20Analytical%20Techniques%20in%20Biosciences/Files%20And%20Shit/Pasted%20image%2020260504010708.png)"}}
 ---
 
 

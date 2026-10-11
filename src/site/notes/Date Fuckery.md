@@ -74,7 +74,7 @@ console.log(getDatePercent())
 
 
 
-<p><span><strong>Day %age</strong>     <progress max="100" value="9.811342592592593" style="height:10px;width:20%"></progress></span></p>
+<p><span><strong>Day %age</strong>     <progress max="100" value="10.582175925925926" style="height:10px;width:20%"></progress></span></p>
 
 
 [[[Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/283·10·2026 (Saturday).md\|283·10·2026 (Saturday)]]]

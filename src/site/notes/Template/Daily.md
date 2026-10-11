@@ -5,7 +5,7 @@
 
 
 
-<p><span><strong>Day Age</strong>     <progress max="100" value="9.913194444444445" style="height:10px;width:20%"></progress>    9.913194444444445 </span></p>
+<p><span><strong>Day Age</strong>     <progress max="100" value="10.679398148148149" style="height:10px;width:20%"></progress>    10.679398148148149 </span></p>
 
 
 ```
