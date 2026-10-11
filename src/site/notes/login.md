@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/login/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null}}
+{"Publish":true,"permalink":"/login/","tags":["Tagless","f1f1f1","ddd","04AA6D","f44336","474e5d","fefefe","ccc"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless","f1f1f1","ddd","04AA6D","f44336","474e5d","fefefe","ccc"],"permalink":null,"Date Created":"200·07·2026 12:36 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
 
 
@@ -111,7 +111,7 @@ hr {
 /* Change styles for cancel button and signup button on extra small screens */
 @media screen and (max-width: 300px) {
   .cancelbtn, .signupbtn {
-     width: 100%;
+	 width: 100%;
   }
 }
 </style>
@@ -123,12 +123,12 @@ hr {
 <div id="id01" class="modal">
   <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
   <form class="modal-content" action="/action_page.php">
-    <div class="container">
-      <h1>Sign Up</h1>
-      <p>Please fill in this form to create an account.</p>
-      <hr>
-      <label for="email"><b>Email</b></label>
-      <input type="text" placeholder="Enter Email" name="email" required>
+	<div class="container">
+	  <h1>Sign Up</h1>
+	  <p>Please fill in this form to create an account.</p>
+	  <hr>
+	  <label for="email"><b>Email</b></label>
+	  <input type="text" placeholder="Enter Email" name="email" required>
 
       <label for="psw"><b>Password</b></label>
       <input type="password" placeholder="Enter Password" name="psw" required>
@@ -157,7 +157,7 @@ var modal = document.getElementById('id01');
 // When the user clicks anywhere outside of the modal, close it
 window.onclick = function(event) {
   if (event.target == modal) {
-    modal.style.display = "none";
+	modal.style.display = "none";
   }
 }
 </script>
@@ -283,11 +283,11 @@ span.psw {
 /* Change styles for span and cancel button on extra small screens */
 @media screen and (max-width: 300px) {
   span.psw {
-     display: block;
-     float: none;
+	 display: block;
+	 float: none;
   }
   .cancelbtn {
-     width: 100%;
+	 width: 100%;
   }
 }
 </style>
@@ -301,10 +301,10 @@ span.psw {
 <div id="id01" class="modal">
   
   <form class="modal-content animate" action="/action_page.php" method="post">
-    <div class="imgcontainer">
-      <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
-      <img src="img_avatar2.png" alt="Avatar" class="avatar">
-    </div>
+	<div class="imgcontainer">
+	  <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+	  <img src="img_avatar2.png" alt="Avatar" class="avatar">
+	</div>
 
     <div class="container">
       <label for="uname"><b>Username</b></label>
@@ -332,9 +332,9 @@ var modal = document.getElementById('id01');
 
 // When the user clicks anywhere outside of the modal, close it
 window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
-    }
+	if (event.target == modal) {
+		modal.style.display = "none";
+	}
 }
 </script>
 
@@ -350,11 +350,11 @@ window.onclick = function(event) {
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Track Page Views</title>
   <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      // Function to get the page view count from session storage
-      function getPageViewCount() {
-        return parseInt(sessionStorage.getItem('pageViewCount')) || 0;
-      }
+	document.addEventListener('DOMContentLoaded', () => {
+	  // Function to get the page view count from session storage
+	  function getPageViewCount() {
+		return parseInt(sessionStorage.getItem('pageViewCount')) || 0;
+	  }
 
       // Function to increment the page view count and update session storage
       function incrementPageViewCount() {

@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/beliefs/religious-organisations/pow-scenario/the-pow-scenario/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"Up":"[[Church]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/beliefs/religious-organisations/pow-scenario/the-pow-scenario/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"Up":"[[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Church]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -21,17 +22,17 @@ The God Will Make A Vessel Of Anyone Who Comes To Him, Will Bless Anyone Who Tru
 While Most Taboos Are Decided Amongst The Indoctrinated The Most Important Doctrine To Protect Is That Of Putting On A Front
 While On The Surface Powder Seems To Value Physical Strength The Most She Actually Thinks The Highest Of Emotional Strength And Believes That The Best Way To Desplay Your Emotional Strength Is Through Being Able To Physically Present It And Do What Must Be Done
 
-## Places Of Worship In 
+## Places Of Worship In
 The Only Physical Church Is In Grease
 
-## Rituals In 
+## Rituals In
 
 ## Prayers
 
-## Sacrifices In 
-## Imagery  Related To 
+## Sacrifices In
+## Imagery Related To
 
-## Monuments In 
+## Monuments In
 
 
 # Terminology

@@ -1,14 +1,13 @@
 ---
-{"Publish":true,"Permalink":"Church Of The Next","permalink":"/Church Of The Next/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":["[[Church]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["The Next"],"Title":"Church Of The Next","comments":true,"tags":["Tagless"]}}
+{"Publish":true,"Permalink":"Church Of The Next","permalink":"/Church Of The Next/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Church]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["The Next"],"Title":"Church Of The Next","comments":true,"tags":["Tagless"],"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:AC00AC">The Church Of The Next</span></center>
 
 A Following Of The Goddess That Guides Souls To The Afterlife
-
 
 # Beliefs
 The God Of The Next (Lady Death) Guides Souls To The Domains That They Need In Order To Find Rest. Women Tend To Be Closer To The Realm Of The Dead Than Most And Can Help Soothe Spirits On Their Way To The Next 
@@ -23,17 +22,18 @@ The Clergy Is Mostly Comprised Of Females
 Official Churches Of The Next, Consecrated By Lady Death Herself. Mostly Situated In Cities With Large Frequent Wars And Female Dominated Populations.
 
 # Rituals In The Church Of The Next
-funerals would be different,  thinking the two coins over the eyes as well as making  the mouth hang slightly open through rigor mortise cause its  believed the soul comes out through the mouth during the ceremony and the eyes are kept covered so then they do not see the material world
-another thing very important for her church is the tarot  (kinda a revamped version of the major arcana)  for example pulling the death card just means lady death looks kindly upon you and a reversed death is lady death has ire against you
-
+funerals would be different, thinking the two coins over the eyes as well as making the mouth hang slightly open through rigor mortise cause its believed the soul comes out through the mouth during the ceremony and the eyes are kept covered so then they do not see the material world
+another thing very important for her church is the tarot (kinda a revamped version of the major arcana) for example pulling the death card just means lady death looks kindly upon you and a reversed death is lady death has ire against you
 
 # Prayers
 
 # Sacrifices In The Church Of The Next
 for offerings it would be as simple as bones,hearts and specially minted gold coins
-oh its specifically the bones and hearts of creatures that  never got a real funeral (decayed animal remains for example) so with no body to send below they are offered up so then lady death may find the lost soul in limbo to help
-# Imagery  Related To The Church Of The Next
+oh its specifically the bones and hearts of creatures that never got a real funeral (decayed animal remains for example) so with no body to send below they are offered up so then lady death may find the lost soul in limbo to help
+
+# Imagery Related To The Church Of The Next
 A Gold Coin With A Blunted Scythe On One Side And A Skull On The Other, The Skull Usually Reflects That Of The Race Of The Bearer
+
 # Monuments In The Church Of The Next
 
 

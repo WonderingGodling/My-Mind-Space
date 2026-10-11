@@ -1,19 +1,19 @@
 ---
-{"Publish":true,"permalink":"/kanji-radicals/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Featured":"![images/_-order 2.gif](/img/user/images/_-order%202.gif)"}}
+{"Publish":true,"permalink":"/kanji-radicals/","noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Featured":"[[Files And Shit/_-order 2.gif]]","Date Created":"200·07·2026 12:36 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
 
 
 | No. | Radical (variants) | Stroke Order        | Meaning and reading                                     | Frequency | Jōyō freq | Group       |
 | --- | ------------------ | ------------------- | ------------------------------------------------------- | --------- | --------- | ----------- |
-| 1   | 一                  | ![_-order 2.gif](/img/user/images/_-order%202.gif)  | one (いち, _ichi_; 一)                                     | 42        | 50        |             |
-| 2   | 丨                  | ![_-order 3.gif](/img/user/images/_-order%203.gif)  | line, stick (ぼう, _bō_; 棒)                               | 21        |           |             |
-| 3   | 丶                  | ![_-order 4.gif](/img/user/images/_-order%204.gif)  | dot (てん, _ten_; 点)                                      | 10        |           |             |
-| 4   | 丿                  | ![_-order 5.gif](/img/user/images/_-order%205.gif)  | bend, possessive particle _no_ (の, _no_; ノ)             | 33        |           |             |
-| 5   | 乙 (乚)              | ![_-order 6.gif](/img/user/images/_-order%206.gif)  | second, latter (おつ, _otsu_; 乙)                          | 42        |           |             |
-| 6   | 亅                  | ![_-order 7.gif](/img/user/images/_-order%207.gif)  | hook, hooked stick (はねぼう, _hanebō_; 撥棒)                 | 19        |           |             |
-| 7   | 二                  | ![_-order 8.gif](/img/user/images/_-order%208.gif)  | two (に, _ni_; 二)                                        | 29        |           |             |
-| 8   | 亠                  | ![_-order 9.gif](/img/user/images/_-order%209.gif)  | pot lid (なべぶた, _nabebuta_; 鍋蓋)                          | 38        |           |             |
-| 9   | 人 (亻,𠆢)           | ![_-order 10.gif](/img/user/images/_-order%2010.gif) | human (ひと, _hito_; 人)                                   | 794       | 83        | Top 25%     |
+| 1   | 一                  | ![_-order 2.gif](/img/user/Files%20And%20Shit/_-order%202.gif)  | one (いち, _ichi_; 一)                                     | 42        | 50        |             |
+| 2   | 丨                  | ![_-order 3.gif](/img/user/Files%20And%20Shit/_-order%203.gif)  | line, stick (ぼう, _bō_; 棒)                               | 21        |           |             |
+| 3   | 丶                  | ![_-order 4.gif](/img/user/Files%20And%20Shit/_-order%204.gif)  | dot (てん, _ten_; 点)                                      | 10        |           |             |
+| 4   | 丿                  | ![_-order 5.gif](/img/user/Files%20And%20Shit/_-order%205.gif)  | bend, possessive particle _no_ (の, _no_; ノ)             | 33        |           |             |
+| 5   | 乙 (乚)              | ![_-order 6.gif](/img/user/Files%20And%20Shit/_-order%206.gif)  | second, latter (おつ, _otsu_; 乙)                          | 42        |           |             |
+| 6   | 亅                  | ![_-order 7.gif](/img/user/Files%20And%20Shit/_-order%207.gif)  | hook, hooked stick (はねぼう, _hanebō_; 撥棒)                 | 19        |           |             |
+| 7   | 二                  | ![_-order 8.gif](/img/user/Files%20And%20Shit/_-order%208.gif)  | two (に, _ni_; 二)                                        | 29        |           |             |
+| 8   | 亠                  | ![_-order 9.gif](/img/user/Files%20And%20Shit/_-order%209.gif)  | pot lid (なべぶた, _nabebuta_; 鍋蓋)                          | 38        |           |             |
+| 9   | 人 (亻,𠆢)           | ![_-order 10.gif](/img/user/Files%20And%20Shit/_-order%2010.gif) | human (ひと, _hito_; 人)                                   | 794       | 83        | Top 25%     |
 | 10  | 儿                  |                     | legs, human underneath (にんにょう, _ninnyō_; 人繞)            | 52        |           |             |
 | 11  | 入 (𠆢)             |                     | enter (いる, _iru_; 入)                                    | 28        |           |             |
 | 12  | 八 (ハ)              |                     | eight, eight-head (はちがしら, _hachigashira_; 八頭)           | 44        |           |             |

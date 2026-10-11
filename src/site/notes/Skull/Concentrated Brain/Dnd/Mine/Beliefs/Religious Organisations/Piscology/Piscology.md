@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/beliefs/religious-organisations/piscology/piscology/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"Up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/beliefs/religious-organisations/piscology/piscology/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·07·2026 13:46 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -17,20 +18,20 @@ An Organisation That Venerates The Creator Of The Universe
 ## Church Goal:
 ## Controversial?
 
-# The Taboos Of 
+# The Taboos Of
 
-# The Social Organisation And Initiations Of 
+# The Social Organisation And Initiations Of
 
-# Places Of Worship In 
+# Places Of Worship In
 
-# Rituals In 
+# Rituals In
 
 # Prayers
 
-# Sacrifices In 
-# Imagery  Related To 
+# Sacrifices In
+# Imagery Related To
 
-# Monuments In 
+# Monuments In
 
 
 # Terminology

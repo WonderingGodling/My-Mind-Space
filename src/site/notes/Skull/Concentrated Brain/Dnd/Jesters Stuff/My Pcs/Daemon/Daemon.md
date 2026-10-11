@@ -1,23 +1,21 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/jesters-stuff/my-pcs/daemon/daemon/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"Up":["[[My PCs]]"],"Down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Featured":"![images/Pasted image 20241014200139.png](/img/user/images/Pasted%20image%2020241014200139.png)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/jesters-stuff/my-pcs/daemon/daemon/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"Up":["[[Branches/My PCs]]"],"Down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/Pasted image 20241014200139.png]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#32114e">Daemon Barrabas</span></center>
 
 
 
-![Pasted image 20241014200139.png](/img/user/images/Pasted%20image%2020241014200139.png)
-
+![Pasted image 20241014200139.png](/img/user/Files%20And%20Shit/Pasted%20image%2020241014200139.png)
 
 ## General
- Race:  [[Yuan-Ti\|Yuan-Ti]]
+ Race: [[Yuan-Ti\|Yuan-Ti]]
  Class: [[Wizard\|Wizard]] 3 [[Blood Magic\|Blood Magic]]
  Alignment: Neutral Evil
  Background: [[Ruined\|Ruined]]
-
 
 ## Stats
 
@@ -48,6 +46,7 @@
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
 | Death Fails |     |     |     |
+
 ### Attacks
 
 | Attack                | To-Hit | Damage         |
@@ -58,6 +57,7 @@
 
 | Wisdom | 14  | +6+1 |
 |:------:|:---:|:----:|
+
 [[Poison Spray\|Poison Spray]] (20)
 [[animal Friendship\|Snake Friendship]]
 [[Prestidigitation\|Prestidigitation]]
@@ -81,7 +81,7 @@
 [[Morganas Blood bomb\|Morganas Blood bomb]]
 
 2nd
-[[Suggestion\|Suggestion]]  (60) (Conc)
+[[Suggestion\|Suggestion]] (60) (Conc)
 [[Scorching Ray\|Scorching Ray]] 240
 [[Kinetic Jaunt\|Kinetic Jaunt]] (b)
 [[Morganas Blood wave\|Morganas Blood wave]]
@@ -106,7 +106,7 @@ Weapons: Daggers, darts, slings, quarterstaffs, light crossbows
 Tools: Dragonchess set, astronomers kit, planewalking kit
 Languages: Common, Undercommon, Abyssal, and Draconic
 
-# Notes: 
+# Notes:
 [[Arcane Recovery\|Arcane Recovery]]
 [[Blood Channeling\|Blood Channeling]]
 [[Sanguine Burst\|Sanguine Burst]]
@@ -123,6 +123,4 @@ Languages: Common, Undercommon, Abyssal, and Draconic
 [[Spell Sniper\|Spell Sniper]]
 [[Wild Talent\|Wild Talent]]
 
-
-# Characteristics 
-
+# Characteristics

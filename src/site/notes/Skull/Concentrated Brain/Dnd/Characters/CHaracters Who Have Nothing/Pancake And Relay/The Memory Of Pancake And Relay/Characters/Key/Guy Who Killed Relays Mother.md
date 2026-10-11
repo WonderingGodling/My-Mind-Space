@@ -1,18 +1,19 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/characters/c-haracters-who-have-nothing/pancake-and-relay/the-memory-of-pancake-and-relay/characters/key/guy-who-killed-relays-mother/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/characters/c-haracters-who-have-nothing/pancake-and-relay/the-memory-of-pancake-and-relay/characters/key/guy-who-killed-relays-mother/","noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
 
-# 
+
+
+#
 
 ## General
  Race: 
  Class: 
  Alignment:
 
-
 ## Stats
- # Base
+# Base
 
  |   Hit Dice   | xd6 |     |
  |:------------:|:---:|:---:|
@@ -23,26 +24,30 @@
  | Inteligence  |   |   |
  |    Wisdom    |   |   |
  |   Charima    |   |   |
- # Passive
- 
+
+# Passive
+
  | passive Perception | 10+ Wisdom |
  | ------------------ | --- |
  |      Passive Investigation              |    10+ Wisdom|
  |          Passive Insight          |    10+ Wisdom |
- # Combat
-   
+
+# Combat
+
    | Speed             | 30  |
    | ----------------- | --- |
    | AC                |    10+Dexterity |
    | Proficiency Bonus |     |
    | Initiative                  |   Dexterity  |
- # spells
- 
+
+# Spells
+
   | Spell Modifier | Spell Modifier   |
   | -------------- | --- |
   | Spell DC       |  8+Spellcasting Modifier+Proficiency Bonus   |
   | Hit Modifier               |   Proficiency+Spellcasting Modifier  |
- # Extra
+
+# Extra
   Resistances:
   Vulnerabilities:
   Conditions:
@@ -55,7 +60,6 @@
   Languages:
   Notes:
   Inventory:
-
 
 ## Tier Advantages
  

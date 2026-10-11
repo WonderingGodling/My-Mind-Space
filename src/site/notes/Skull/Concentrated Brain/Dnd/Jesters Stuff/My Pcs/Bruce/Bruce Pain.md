@@ -1,23 +1,20 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/jesters-stuff/my-pcs/bruce/bruce-pain/","tags":["Tagless","Bruce"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"Up":"[[My PCs]]","Down":null,"Yesterday":null,"Tomorrow":null,"aliases":["Bruce"],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless","Bruce"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/jesters-stuff/my-pcs/bruce/bruce-pain/","tags":["Tagless","Bruce"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 4:30 (Sunday)","dg-note-properties":{"Type":null,"Up":"[[Branches/My PCs]]","Down":null,"Yesterday":null,"Tomorrow":null,"aliases":["Bruce"],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless","Bruce"],"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 4:30 (Sunday)","Featured":"[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Bruce/Files And Shit/Pasted image 20261011042815.png]]"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
-
 # <center><span style="color:#2A251D">Bruce Pain</span></center>
-![[285d0cb5-c657-4130-b9a9-f7dacdbf0804.jpg\|285d0cb5-c657-4130-b9a9-f7dacdbf0804.jpg]]
-
-
+![Pasted image 20261011042815.png](/img/user/Skull/Concentrated%20Brain/Dnd/Jesters%20Stuff/My%20Pcs/Bruce/Files%20And%20Shit/Pasted%20image%2020261011042815.png)
 
 ## General
- Race:  [[Shifter\|Shifter]]
- Class:  [[Monk\|Monk]] 1, [[Brawler\|Brawler]] 3
-​    ​‍​    ​‍Fisticuffs: 2d6
-​    ​‍​    ​‍Style Points: 3
+ Race: [[Shifter\|Shifter]]
+ Class: [[Monk\|Monk]] 1, [[Brawler\|Brawler]] 3
+​ ​‍​ ​‍Fisticuffs: 2d6
+​ ​‍​ ​‍Style Points: 3
  Alignment: Lawful Good
  Background: [[Giant Foundling\|Giant Foundling]]
-
 
 ## Stats
 
@@ -54,6 +51,7 @@
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
 | Death Failes |     |     |     |
+
 ### Attacks
 
 | Attack         | To-Hit | Damage               |
@@ -64,10 +62,11 @@
 
 | Sickle | +6  | 1d6 (Slashing) +6 |
 | ------ | --- | ----------------- |
+
 # Inventory
 
 Money: 25gp, 12sp
-Inventory:  Sickle, 19 darts
+Inventory: Sickle, 19 darts
 2 backpacks, crowbar, hammer, 10 pitons, 10 torches, tinderbox, 10 days of rations, waterskin(Well Water), 50 feet of hempen rope, a set of traveler's clothes, playing Cards, **Headband**
 a small stone that reminds you of home, Throne Marble (Knuckles)
 
@@ -80,37 +79,36 @@ Conditions:
 
 # Proficiencies
 		
-Armor:  Light Armor,medium,heavy armor
+Armor: Light Armor,medium,heavy armor
 Weapons: Simple weapons, shortswords, Improvised Weapons, Whip, Derringer 
 Tools: Smith's Tools, Flute, Playing Cards
 Languages: Giant, Common, Dwarvish, Orcish
 
-# Notes: 
+# Notes:
 
 [[Monk#Unarmored Defense\|Unarmoured Defence ]]
 [[Monk#Martial Arts\|Martial Arts]]
 [[Strike of the Giants\|Strike of the Giants]] 2/rest
-​    ​‍​    ​‍Storm Strike, 1d6 DC10
+​ ​‍​ ​‍Storm Strike, 1d6 DC10
 [[Blindsight\|Blindsight]] 15ft
 [[Keen Senses\|Keen Senses]]
 [[Shifter#Shifting.\|Shifting]] 2/rest
-​    ​‍​    ​‍Beasthide 1d6, +1AC
+​ ​‍​ ​‍Beasthide 1d6, +1AC
 [[Brawler#Fisticuffs\|Fisticuffs]]
 [[Brawler#Style\|Style]]
-​​    ​‍​    [[Brawler#Headbutt\|Headbutt]] (Con Save Stun)
-     ​‍​   [[Brawler#Chokehold\|Chokehold]] (Grapple)
-    ​‍​    [[Brawler#Down but not out\|Down but not out]] (0hp, Strike + Prone)
+​​ ​‍​ [[Brawler#Headbutt\|Headbutt]] (Con Save Stun)
+	 ​‍​ [[Brawler#Chokehold\|Chokehold]] (Grapple)
+	​‍​ [[Brawler#Down but not out\|Down but not out]] (0hp, Strike + Prone)
 [[Brawler#Street Smart\|Street Smart]]
 [[Brawler#Adrenaline rush\|Adrenaline Rush]] Reactioni
 [[Brawler#Fighting style\|Fighting Style]]
-    ​‍​    [[Brawler#Street fighter\|Street Fighter]]
+	​‍​ [[Brawler#Street fighter\|Street Fighter]]
 [[Brawler#Brass is better than bone\|Brass is better than bone]]
 [[Brawler#Sly shot\|Sly shot ]]
 
 Skill Expert
 
-
-# Characteristics 
+# Characteristics
 Wolf-Like,Seven And A Half Feet Tall, musclular, pointed ears; most shifters also have prominent canine teeth
 He Doesnt Know How He Looks, And If He Did He Wouldnt Know That Hes More Intimidating Than Other People
 Has An Unplaceable Acccent Because Giant Is His First Language
