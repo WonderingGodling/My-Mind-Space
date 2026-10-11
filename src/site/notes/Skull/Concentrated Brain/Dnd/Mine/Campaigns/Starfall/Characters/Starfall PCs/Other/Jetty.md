@@ -1,13 +1,13 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/starfall-p-cs/other/jetty/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":["[[Other Pcs]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Jettrenya","Jetty"],"Title":null,"comments":true,"tags":["Tagless"],"Featured":"![Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Other/Files And Shit/MissyCommSFW.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Other/Files%20And%20Shit/MissyCommSFW.png)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/starfall-p-cs/other/jetty/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":["[[Other Pcs]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Jettrenya","Jetty"],"Title":null,"comments":true,"tags":["Tagless"],"Featured":"![[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Other/Files And Shit/MissyCommSFW.png]]","Date Created":"230·08·2026 16:19 (Tuesday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
  float: right;
 }
 </style>
-
 
 # <center><span style="color:#FE9CBA">ettrenya Nirill Revona Cosmia</span></center>
 
@@ -16,7 +16,7 @@
 [the life and death of jetty cosmia](https://docs.google.com/document/d/1tXLoWsc_8z61a-UfeZkfqz24dFC3u2OKPy-BBP2iNfI/edit?tab=t.0)
 <iframe src="/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Other/Files%20And%20Shit/Jetty%20cosmia.pdf" width="100%" height="900px" title="Jetty cosmia.pdf" style="border:1px solid #ccc;"></iframe>
 
-##### Likes: 
+##### Likes:
 women, night workers, fighting arts, tattoos, weapon manufacturing, animals, matriarchy, romance novels and smoking 
 
   

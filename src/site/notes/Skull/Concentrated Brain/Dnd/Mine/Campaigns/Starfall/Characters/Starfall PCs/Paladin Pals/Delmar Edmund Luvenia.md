@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"Permalink":"Delmar","permalink":"/Delmar/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":"Dnd Character","Group":"[[Paladin Pals]]","down":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Delmar","Del","Delmar Luvenia"],"Title":"Delmar","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":null,"Session Number":null,"Dead":null,"Lineage":"Yuan-ti","Allies":null,"Enemies":null,"Player Character":true,"Character Level":"2","Dnd World":"[[Harmony]]","up":["[[Delmar Edmund Luvenia|Delmar]]"],"Featured":"![Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Files And Shit/Delmar.jpg](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Delmar.jpg)"}}
+{"Publish":true,"Permalink":"Delmar","permalink":"/Delmar/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":"Dnd Character","Group":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Paladin Pals]]","down":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Delmar","Del","Delmar Luvenia"],"Title":"Delmar","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":"278·10·2026 21:24 (Monday)","Session Number":null,"Icon":null,"Dead":null,"Lineage":"Yuan-ti","Allies":null,"Enemies":null,"Player Character":true,"Character Level":"2","Dnd World":"[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Harmony]]","up":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Delmar Edmund Luvenia|Delmar]]"],"Featured":"![[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Files And Shit/Delmar.jpg]]","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -19,6 +20,7 @@ No Fortune Until He Is More Comfortable As A Snake (Which Would Require Him To G
 
 ## Public Appearance
 Social With Close-Knit Friends
+
 ### As A Snake
 Other Yuan-ti Will See Del As Lesser And Royal Non-Snakes Will Be Distrusting Of Him, Assuming Him A Spy
 
@@ -58,7 +60,7 @@ Now he still wants to have fun in similar ways, but is more reserved, not trusti
 	- [ ] Its On The Map But Small With No People Coming In And Out
 	- [ ] Most Poor Families Have A Purpose
 	- [ ] No Roads
-	- [ ] Closest Town Is A Day By Horse,  8 Days On Foot
+	- [ ] Closest Town Is A Day By Horse, 8 Days On Foot
 
 - [ ] Del: No Fortune Until He Is More Comfortable As A Snake
 
@@ -67,7 +69,7 @@ Delmar is a young, blonde, tall and pretty faced lad. He has some brownish scale
 Delmar Edmund Luvenia(pc, yuan ti, oath of vengeance paladin) Elliana Jane Luvenia(human, rogue)-sly, sarcastic, pargmatic Corwin Wright(human, fighter)-responsible, anxious Kaitlyn Ignard(half-elf, sorcerer)-happy-go-lucky, very friendly
 
 1. he loved getting into trouble with his friends, drinking, brothels, exploring random places, messing with older people ect. He also would go hunting with them which didnt end well the last time he did. He would also just love randomly befriending strangers on nights out for shits and giggles
-    
+	
 2. Now he still wants to have fun in similar ways, but is more reserved, not trusting others fully to let loose fully
 
 also he really doesnt like people behind his back, so youd see him standing next to walls
@@ -89,6 +91,7 @@ Thanks
 Probably Wouldn't Have Thought To Write Their Parents If You Hadn't Brought This Up
 
 the way del would wish to go about his revenge is to kill his friends one by one leaving his sister last to mess with them mentaly, but if this doesnt work with what you have written or planned FORGET I SAID ANYTHING
+
 ## Pi-Thons
 Snake! Snake! Snaaaake!
 You Have Three Snakes That Stick With You Through Thick And Thin. They Count As Three Familiars And Will Help You Out As Long As It Would Not Put Them In Too Much Danger. You Are Unsure Why Or How But When One Dies Its Body Evaporates And Returns When You Rest
@@ -108,10 +111,10 @@ Lady, Trooper, Sage
 }
 </style>
 
-
 # <center><span style="color:#6CBB3C">Delmar Edmund Luvenia</span></center>
 ![Delmar.jpg](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Delmar.jpg)
 ![Delmar Token 2.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Delmar%20Token%202.png)
+
 ### Likes
 Skybasking
 
@@ -140,6 +143,7 @@ SERPENTINE And Regular SPELLCASTING
 MAGIC RESISTANCE
 POISON RESILIENCE
 FIGHTING STYLE: DEFENSE
+
 ## Pi-Thons
 <sub>Snake! Snake! Snaaaake!</sub>
 You Have Three Snakes That Stick With You Through Thick And Thin. They Count As Three Familiars And Will Help You Out As Long As It Would Not Put Them In Too Much Danger. You Are Unsure Why Or How But When One Dies Its Body Evaporates And Returns When You Rest

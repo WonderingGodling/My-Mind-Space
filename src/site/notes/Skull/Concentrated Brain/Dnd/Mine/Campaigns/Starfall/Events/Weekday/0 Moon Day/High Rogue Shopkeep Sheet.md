@@ -1,9 +1,9 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/0-moon-day/high-rogue-shopkeep-sheet/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[generic Sheets]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/0-moon-day/high-rogue-shopkeep-sheet/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/generic Sheets]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#323456"> </span></center>
 
@@ -14,7 +14,6 @@
  Class: Rogue 20
  Alignment: True Neutral
  Background: 
-
 
 ## Stats
 
@@ -29,7 +28,6 @@
 | Inteligence  |  8   |  -1   |       5       |
 |    Wisdom    |  20  |   5   |      11       |
 |   Charima    |  14  |   2   |       2       |
-
 
 | Skills                | Bonus | Skills                | Bonus |
 | --------------------- |:-----:| --------------------- |:-----:|
@@ -46,6 +44,7 @@
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
 | Death Fails |     |     |     |
+
 ### Attacks
 
 | Attack | To-Hit | Damage |
@@ -56,6 +55,7 @@
 
 Money: 
 Inventory: Serpent Scale Armor, [Storm Boomerang](https://dnd5e.wikidot.com/wondrous-items:storm-boomerang), rapier, shortbow and quiver of 20 arrows, burglar's pack, and thieves' tools, two (sloth) poison daggers (DC 13+[Infliction #], -1 Dex, -5 speed)
+
 # Extra
 Resistances: 
 Advantage: 
@@ -65,12 +65,12 @@ Conditions:
 
 # Proficiencies
 		
-Armor:  Light armor
+Armor: Light armor
 Weapons: Simple weapons, hand crossbows, longswords, rapiers, shortswords
 Tools: Thieves' tools
 Languages: 
 
-# Notes: 
+# Notes:
 ### Expertise
 
 At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
@@ -131,11 +131,12 @@ By 15th level, you have acquired greater mental strength. You gain proficiency i
 
 Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated.
 
-### Stroke of Luck
+### Stroke Of Luck
 
 At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
+
 ### Skirmisher
 
 Starting at 3rd level, you are difficult to pin down during a fight. You can move up to half your speed as a reaction when an enemy ends its turn within 5 feet of you. This movement doesn’t provoke opportunity attacks.
@@ -153,11 +154,9 @@ At 9th level, your walking speed increases by 10 feet. If you have a climbing or
 Starting at 13th level, you excel at leading ambushes and acting first in a fight.
 
 You have advantage on initiative rolls. In addition, the first creature you hit during the first round of a combat becomes easier for you and others to strike; attack rolls against that target have advantage until the start of your next turn.
+
 ### Sudden Strike
 
 Starting at 17th level, you can strike with deadly speed. If you take the Attack action on your turn, you can make one additional attack as a bonus action. This attack can benefit from your Sneak Attack even if you have already used it this turn, but you can't use your Sneak Attack against the same target more than once in a turn.
 
-
-
-# Characteristics 
-
+# Characteristics

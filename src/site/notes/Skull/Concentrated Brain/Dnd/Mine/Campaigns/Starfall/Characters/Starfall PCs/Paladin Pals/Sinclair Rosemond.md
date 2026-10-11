@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"Permalink":"Sinclair","permalink":"/Sinclair/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":"Dnd Character","Group":"[[Paladin Pals]]","down":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Sinclair","Sin"],"Title":"Sinclair","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":null,"Session Number":null,"Dead":null,"Lineage":"Human Varient","Allies":null,"Enemies":null,"Player Character":true,"Character Level":"1","Dnd World":"[[Harmony]]","Featured":"![Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Files And Shit/Sinclair.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Sinclair.png)"}}
+{"Publish":true,"Permalink":"Sinclair","permalink":"/Sinclair/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":"Dnd Character","Group":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Paladin Pals]]","down":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Sinclair","Sin"],"Title":"Sinclair","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":"278·10·2026 21:24 (Monday)","Session Number":null,"Icon":null,"Dead":null,"Lineage":"Human Varient","Allies":null,"Enemies":null,"Player Character":true,"Character Level":"1","Dnd World":"[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Harmony]]","Featured":"![[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Files And Shit/Sinclair.png]]","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -8,12 +9,12 @@
 }
 </style>
 
-
 # <center><span style="color:#e6e2e3">Sinclair Rosemond</span></center>
 ![Sinclair.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Sinclair.png)
 ![Sinclair Token.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Sinclair%20Token.png)
+
 ## General
- Race:  Human
+ Race: Human
  Class: Paladin
  Alignment: 
  Background: Rewarded
@@ -29,7 +30,7 @@ People Who Spend Enough Time Surrounded By Servitude Will Be Able To Recognise S
 A Legacy Servant Of The Fontaines, And A Lover Of Folk Lore Had Made Her Not The Most Liked In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Unnamed Villages/Gi Fotias 25\|The Two-Five]] But Amongst The Most Respected (Aside From Nobility)
 
 ### Backstory
-The Proud Daughter Of [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Sienna Rosemond\|Sienna]] And  [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Viggo Rosemond\|Viggo]] Rosemond Made Prouder By The Favouritism She Didnt Know She Was Experiencing Growing Up. Everybody Gave Her Space To "Work" On Her Maid Duties More So That They Could Avoid Her Than So That She Could Do The Best Job Possible (Which She Always Tried To Do). 
+The Proud Daughter Of [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Sienna Rosemond\|Sienna]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Viggo Rosemond\|Viggo]] Rosemond Made Prouder By The Favouritism She Didnt Know She Was Experiencing Growing Up. Everybody Gave Her Space To "Work" On Her Maid Duties More So That They Could Avoid Her Than So That She Could Do The Best Job Possible (Which She Always Tried To Do). 
 
 She Never Had Any Misconceptions Regarding Her Position In The Household Despite Being The Daughter Of A Beloved Maid And The Best Friend Of Earl [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Everett De La Fontaine\|Everett]] De La Fontaine. She ~~Knew~~ Believed That Her Place As A Maid Was Always One Mistake Away From Being Revoked So She Put Her All Into Helping Her Friend. For Sinclair There Was No Time To Relax And Have A "Me Day" Or To Put Herself On Top Of The Food Chain But At The Same Time Laying Low Was Just Not An Option She Knew Existed
 
@@ -38,7 +39,6 @@ As The Years Grew So Did The Amount Of Passion She Had For Who She Would Eventua
 One Day Something Happened To [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Everett De La Fontaine\|Everett]]. Something Similar To [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Cirquelle\|Cirquelle]] But More Spontaneous. Something That Sinclair Couldnt Fix....Yet.
 
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Renata\|Renata]] Was The Name Of Her Mentor. There Was, As Always, No Time To Mess Around So Sin Put All Of Her Free Time Into Learning How To Be A Guard— A Knight For Her Liege. [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Everett De La Fontaine\|Everett]] Had Chosen Her To Accompany Him Alone Across Harmony And She Would Ensure This Quest A Success! 
-
 
 ## Relationships
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Sienna Rosemond\|Sienna Rosemond]]
@@ -57,13 +57,13 @@ Inventory: Bottle of black ink, Ink pen, Five sheets of paper, Signet Ring, Play
 Tools: Playing cards
 Languages: Common, Elvish, Draconic
 
-## Abilities: 
+## Abilities:
 #### Features & Traits
 
-##### Divine Sense	
-##### Lay on Hands				
-##### Sentinel					
-##### Lucky					
+##### Divine Sense
+##### Lay On Hands
+##### Sentinel
+##### Lucky
 ##### Holy Smokes
 <sub>Every Breath Brings You Closer To God</sub>
 Smoking One Of These These Gives 1d4+4 Temporary Health For The Next Hour. Can Be Used Four Times
@@ -80,7 +80,7 @@ You Must Find This Person And Cause His End
 Killing Ev On Purpose Gives The Cigs **That Was Close**: If The Next Source Of Damage Would Reduce You To 0 Go To 1 Instead
 
 - Sin Can Only Learn New Combat Stuff From Private Trainers Or One Of The Schools
-- If Sin Gets An Actual Education From Combat B They Can Get  A Different Combat Feat
+- If Sin Gets An Actual Education From Combat B They Can Get A Different Combat Feat
 
 - People Who Are Very High Class Can Recognise Sinclairs "Servential Body Language"
 	- Sinclaire Knows Folk Lore

@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"Permalink":"Magic Moss","permalink":"/Magic Moss/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":"Dnd Character","up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"Similarly Rooted":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"],"Date Created":null,"Session Number":null,"Group":null,"Dead":null,"Lineage":null,"Allies":null,"Enemies":null,"Player Character":null,"Character Level":null,"Dnd World":null}}
+{"Publish":true,"Permalink":"Magic Moss","permalink":"/Magic Moss/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":"Dnd Character","up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"Similarly Rooted":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"278·10·2026 22:55 (Monday)","Session Number":null,"Icon":null,"Group":null,"Dead":null,"Lineage":null,"Allies":null,"Enemies":null,"Player Character":null,"Character Level":null,"Dnd World":null,"Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -11,15 +12,15 @@
 # <center><span style="color:#323456">Maurice </span></center>
 
 
-The Inventor Of The Safe Fall Potion. Close Friend And Advisor Of  [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Mary De La Fontaine\|Mary]] And  [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Roland De La Fontaine\|Roland]] Fontaine. He Has Spent 300 Years Studying Magicraft And Potionomics.
+The Inventor Of The Safe Fall Potion. Close Friend And Advisor Of [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Mary De La Fontaine\|Mary]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Roland De La Fontaine\|Roland]] Fontaine. He Has Spent 300 Years Studying Magicraft And Potionomics.
 
 <!-- A Man By The Name Of Moss Was Messing Around With His New Idea For How Written Magic Could Be Carried Out. He Turned His Basement into A Magic Circle. He Stole The Finest Equipment He Could. He Spent A Week Performing A Ritual That Was Supposed To Create A Spellbook— Arcanomicon That Had Incantations Matching Any Spell Scroll He Could Get His Hands On. Instead The Lines Fizzled And He Passed Out. A Few Minutes Later --> 
+
 ## General
  Lineage:  
- Class:  Wizard 7 Artificer 2
+ Class: Wizard 7 Artificer 2
  Alignment: 
  Background: 
-
 
 ## Stats
 
@@ -50,6 +51,7 @@ The Inventor Of The Safe Fall Potion. Close Friend And Advisor Of  [[Skull/Conce
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
 | Death Fails |     |     |     |
+
 ### Attacks
 
 | Attack | To-Hit | Damage |
@@ -62,12 +64,10 @@ The Inventor Of The Safe Fall Potion. Close Friend And Advisor Of  [[Skull/Conce
 | :----------: | :--: | :---: |
 |              |      |       |
 
-
 |  Level  | Total | Expended | Requirements | Duration |
 | :-----: | :---: | :------: | :----------: | :------: |
 |    0    |   ∞   |    ∞     |              |          |
 | [Spell] |   <   |    <     |              |          |
-
 
 | Abilities |    <     |     <     |      <       |
 | :-------: | :------: | :-------: | :----------: |
@@ -78,6 +78,7 @@ The Inventor Of The Safe Fall Potion. Close Friend And Advisor Of  [[Skull/Conce
 
 Money: 
 Inventory: 
+
 # Extra
 Resistances: 
 Advantage: 
@@ -92,11 +93,11 @@ Weapons:
 Tools: 
 Languages: 
 
-# Notes: 
+# Notes:
 
 
 
-# Characteristics 
+# Characteristics
 
 
 

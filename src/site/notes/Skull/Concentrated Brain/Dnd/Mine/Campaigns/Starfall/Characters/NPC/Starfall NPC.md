@@ -1,13 +1,13 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/npc/starfall-npc/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Campaign/Starfall/Characters/Starfall Characters|Starfall Characters]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/npc/starfall-npc/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Campaign/Starfall/Characters/Starfall Characters|Starfall Characters]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"278·10·2026 21:24 (Monday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";srstac:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
  float: right;
 }
 </style>
-
 
 # <center><span style="color:#FEDCBA"></span></center>
 
@@ -96,7 +96,7 @@
 - [ ] Level 2 Sword Fighter Who Has Been Learning For Sixteen Years
 - [ ] One Guy Who Is The Local Radio Reporter Everywhere 
 	- [ ] Like A Nurse Joy Thing
-		- [ ] They Are All The Same  [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Mr Misery\|Mr Misery]] But They Are Not The Same Person
+		- [ ] They Are All The Same [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Mr Misery\|Mr Misery]] But They Are Not The Same Person
 		- [ ] Like The Distortion
 	- [ ] Unaffiliated With Any [[Branches/Gods\|Gods]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Mr Misery\|Mr Misery]] Starts Saying Things That Are Consistent On Loop Four
@@ -121,7 +121,7 @@
 - [ ] Woman Whos Mother Was A God
 	- [ ] Level 21 Wild Magic Sorcerer
 		- [ ] Just Picks An Effect From The Tables
-	- [ ] "You Wont Find A Better  Magician In All The Lands- Actually All The Realms."
+	- [ ] "You Wont Find A Better Magician In All The Lands- Actually All The Realms."
 - [ ] Persone Stealing [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]] Parts And Organs To Incorporate Into Themself 
 	- [ ] The [[Branches/People Branch\|People Branch]] Are Unharmed On Loop Unless They Also Are Uneffected By Loops
 - [ ] Guy Actively Casting A Spell That Makes The Keep (Castle Area) In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Named Towns And Cities/Knuts/Lei\|Lei]] Living And Breathing
@@ -175,7 +175,6 @@
  float: right;
 }
 </style>
-
 
 # <center><span style="color:#FEDCBA"></span></center>
 
@@ -264,7 +263,7 @@
 - [ ] Level 2 Sword Fighter Who Has Been Learning For Sixteen Years
 - [ ] One Guy Who Is The Local Radio Reporter Everywhere 
 	- [ ] Like A Nurse Joy Thing
-		- [ ] They Are All The Same  [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Mr Misery\|Mr Misery]] But They Are Not The Same Person
+		- [ ] They Are All The Same [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Mr Misery\|Mr Misery]] But They Are Not The Same Person
 		- [ ] Like The Distortion
 	- [ ] Unaffiliated With Any [[Branches/Gods\|Gods]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Mr Misery\|Mr Misery]] Starts Saying Things That Are Consistent On Loop Four
@@ -289,7 +288,7 @@
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Cirquelle\|Cirquelle]] Woman Whos Mother Was A God
 	- [ ] Level 21 Wild Magic Sorcerer
 		- [ ] Just Picks An Effect From The Tables
-	- [ ] "You Wont Find A Better  Magician In All The Lands- Actually All The Realms."
+	- [ ] "You Wont Find A Better Magician In All The Lands- Actually All The Realms."
 - [ ] Persone Stealing [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]] Parts And Organs To Incorporate Into Themself 
 	- [ ] The [[Branches/People Branch\|People Branch]] Are Unharmed On Loop Unless They Also Are Uneffected By Loops
 - [ ] Guy Actively Casting A Spell That Makes The Keep (Castle Area) In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Named Towns And Cities/Knuts/Lei\|Lei]] Living And Breathing
@@ -343,7 +342,6 @@
  float: right;
 }
 </style>
-
 
 # <center><span style="color:#FEDCBA"></span></center>
 
@@ -432,7 +430,7 @@
 - [ ] Level 2 Sword Fighter Who Has Been Learning For Sixteen Years
 - [ ] One Guy Who Is The Local Radio Reporter Everywhere 
 	- [ ] Like A Nurse Joy Thing
-		- [ ] They Are All The Same  [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Mr Misery\|Mr Misery]] But They Are Not The Same Person
+		- [ ] They Are All The Same [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Mr Misery\|Mr Misery]] But They Are Not The Same Person
 		- [ ] Like The Distortion
 	- [ ] Unaffiliated With Any [[Branches/Gods\|Gods]]
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Mr Misery\|Mr Misery]] Starts Saying Things That Are Consistent On Loop Four
@@ -457,7 +455,7 @@
 - [ ] Woman Whos Mother Was A God
 	- [ ] Level 21 Wild Magic Sorcerer
 		- [ ] Just Picks An Effect From The Tables
-	- [ ] "You Wont Find A Better  Magician In All The Lands- Actually All The Realms."
+	- [ ] "You Wont Find A Better Magician In All The Lands- Actually All The Realms."
 - [ ] Persone Stealing [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]] Parts And Organs To Incorporate Into Themself 
 	- [ ] The [[Branches/People Branch\|People Branch]] Are Unharmed On Loop Unless They Also Are Uneffected By Loops
 - [ ] Guy Actively Casting A Spell That Makes The Keep (Castle Area) In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Named Towns And Cities/Knuts/Lei\|Lei]] Living And Breathing

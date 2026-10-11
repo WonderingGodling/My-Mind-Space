@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/npc/related-np-cs/corwin-wright/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":["Corwin"],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Featured":"![Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Files And Shit/Corwin.jpg](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Corwin.jpg)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/npc/related-np-cs/corwin-wright/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":["Corwin"],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Featured":"![[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Files And Shit/Corwin.jpg]]","Date Created":"215·08·2026 16:38 (Monday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -12,14 +13,11 @@
 ![Corwin.jpg](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Corwin.jpg)
 ![Corwin.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Corwin.png)
 
-
-
 ## General
  Race:  
  Class: 
  Alignment: 
  Background: 
-
 
 ## Stats
 
@@ -50,6 +48,7 @@
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
 | Death Fails |     |     |     |
+
 ### Attacks
 
 | Attack | To-Hit | Damage |
@@ -65,6 +64,7 @@
 
 Money: 
 Inventory: 
+
 # Extra
 Resistances: 
 Advantage: 
@@ -79,9 +79,8 @@ Weapons:
 Tools: 
 Languages: 
 
-# Notes: 
+# Notes:
 
 
 
-# Characteristics 
-
+# Characteristics

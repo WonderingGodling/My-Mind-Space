@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/npc/high-grease-knights-stat-sheet/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Featured":"![Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Files And Shit/Greasian Knight.jpg](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Files%20And%20Shit/Greasian%20Knight.jpg)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/npc/high-grease-knights-stat-sheet/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Featured":"![[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Files And Shit/Greasian Knight.jpg]]","Date Created":"200·07·2026 13:48 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -12,9 +13,8 @@
 ![Greasian Knight.jpg](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Files%20And%20Shit/Greasian%20Knight.jpg)
 ![Knight Token.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Files%20And%20Shit/Knight%20Token.png)
 
-
 ## General
- Race:  Human
+ Race: Human
  Class: [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Greasian Knights\|Greasian Knight]]
 considered to be Large
 
@@ -35,12 +35,14 @@ considered to be Large
 | Death Saves |     |     |     |
 | ----------- | --- | --- | --- |
 | Death Fails |     |     |     |
+
 ### Attacks
 
 | Attack          | To-Hit | Damage |
 | --------------- | ------ | ------ |
 | Greatsword      | 9      | 1d10+9 |
 | Greatsword +1AC | 9      | 2d10+9 |
+
 Two Attacks
 
 Sword With Cleave, If To-Hit Beats The AC Of Multiple Targets Within 5ft The Damage Is Split Evenly Among Them 
@@ -48,6 +50,7 @@ Sword With Cleave, If To-Hit Beats The AC Of Multiple Targets Within 5ft The Dam
 ##### Bonus Actions
 Heavy Strike: next attack deals 1d6 additional damage
 defensive Break: Next Attack Lowers The Targets AC By Their Proficiency Until The Start Of Their Next Turn
+
 ##### Reaction
 Battle Cry (4): A Shout That Activates ON Of The Following 
 - You gain a number of temporary hit points equal to twice your proficiency bonus.
@@ -57,12 +60,14 @@ Battle Cry (4): A Shout That Activates ON Of The Following
 
 # Inventory
 Plate Armour
+
 # Extra
 Resistances: 
 Advantage: Knocked Prone
 Conditions: Frightened
   
-# Notes: 
+
+# Notes:
 These Knights Are More Defensive And More Offensive, They Weild Two Weapons For Offensive And Defensive Purposes
 whenever you take damage from a melee attack, you can use your reaction to rebuke that attack. The attacker must succeed on a Dexterity saving throw. On a failed save, the attacker take damage equal to your [Heavy Strike](https://www.dandwiki.com/wiki/Dreadnaught_\(5e_Class\)#Heavy_Strike) additional damage dice and is pushed 5 feet back. On a failure, it takes half that damage and is not pushed.
 whenever you are wearing heavy armor, a critical hit against you is treated as a normal hit

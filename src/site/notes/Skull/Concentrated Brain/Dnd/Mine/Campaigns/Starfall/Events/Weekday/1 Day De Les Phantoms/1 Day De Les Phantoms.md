@@ -1,25 +1,26 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/1-day-de-les-phantoms/1-day-de-les-phantoms/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":"Weekday","up":["[[Weekday]]"],"down":null,"Yesterday":["[[0 Moon Day]]"],"Tomorrow":["[[2 Firstday]]"],"Embedded":null,"aliases":["Day 1","Day De Les Phantoms"],"Title":"Day De Les Phantoms","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":null,"Session Number":null,"Featured":"![Files And Shit/thumbnails/external/5f9468aaf432ec6e125e019300f007be.png](/img/user/Files%20And%20Shit/thumbnails/external/5f9468aaf432ec6e125e019300f007be.png)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/1-day-de-les-phantoms/1-day-de-les-phantoms/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":"Weekday","up":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/Weekday]]"],"down":null,"Yesterday":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/0 Moon Day]]"],"Tomorrow":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/2 Firstday/2 Firstday]]"],"Embedded":null,"aliases":["Day 1","Day De Les Phantoms"],"Title":"Day De Les Phantoms","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":"278·10·2026 21:24 (Monday)","Session Number":null,"Icon":null,"Featured":"[[Files And Shit/external/5f9468aaf432ec6e125e019300f007be.png]]","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 # 1 Day De Les Phantoms
 
 
 -   Different Town Killed By Living Statues
-    
+	
 -   Rumours Of Demon Kingdom Gaining Power
-
 
 ### [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/waterside Down\|WATERSIDE DOWN]] (Grim)
 
 ### [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Biedenbach\|BiedenBach]] (Missy)
 
-### [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Roque\|Roque]] 
+### [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Roque\|Roque]]
 -   Mind Reader
 	- Mostly Cold Reading
 	- Mind Flayer
 		- http://dndroll.wikidot.com/creatures:mind-flayer Leveled Up To 13
 		- Harmless Unless Provokec
+
 ### [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]] (Group 1)
 - Lots Of Cats
 - King Calling Poeple In To Their Palace And They Dont Come Out
@@ -46,7 +47,6 @@
 - Metal Armour Is Low Price
 - Inn A Silver A Night
 
-
 ### Lytescomia, [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Naga\|naga]]
 - If In The Party Will Be Approached By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/4 Atal/Panda\|Panda]] To fight The Invading Goblin Army If Not Today Everyone Is Dead
 	- Seperate To The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Aviresh/Phigdilk\|Phigdilk]] Goblin War On [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/4 Atal/4 Atal\|4 Atal]]
@@ -57,15 +57,4 @@
 	- ![](https://i.imgur.com/H6Kwhx2.png)
 
 
-	    
-
-
-
-
-
-
-
-
-
-
-
+		

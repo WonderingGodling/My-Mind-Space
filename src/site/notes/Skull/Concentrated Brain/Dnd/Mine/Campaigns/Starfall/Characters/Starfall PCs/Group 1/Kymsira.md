@@ -1,18 +1,18 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/starfall-p-cs/group-1/kymsira/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"],"Featured":"![images/Kymsira wings.png](/img/user/images/Kymsira%20wings.png)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/starfall-p-cs/group-1/kymsira/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/Kymsira wings.png]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#000000"></span></center>
 
 
 
 
-![Kymsira wings.png](/img/user/images/Kymsira%20wings.png)
+![Kymsira wings.png](/img/user/Files%20And%20Shit/Kymsira%20wings.png)
 
-![Kymsira.png](/img/user/images/Kymsira.png)
+![Kymsira.png](/img/user/Files%20And%20Shit/Kymsira.png)
 
 
 
@@ -24,7 +24,6 @@ Kymira grew up not among drow, but among floating gems and ancient thoughts. She
 
 At the dawn of her 18th birthday Aerynthalas advised her she should leave the lair to experience mortal life. Telling her that, while her life span is longer, she is still mortal and should have the memories of one. But he told her when she was ready to come back he would be waiting there with open wings. So, armed with her knowledge and a single purple dragon scale she set off to experience the world. Now Kym works as a simple tavern maiden. Waiting for some grand adventure that she can tell the tales of to Aerynthalas when she finally sees him again
 
-
 ###### Weakness Modifiers
 If Hit +Prof Dmg
 Damage Type (Add A Hit-Dice)
@@ -32,16 +31,18 @@ Heavy (Auto-Crit)
 
 ##### Grim Dragons
 Reflected In The Dragons That Raised Them
+
 ###### 1
 Acid/Fire Resistance
 1d10 Acid/Fire/Poison Breath Weapon (30ft Line)
 Proficiency Bonus Uses
 
-######  2
+###### 2
 Lightning Resistance
 Action Gain Resistance To Acid/Fire For 1 Minute
 One Use Per Long Rest
-######  3
+
+###### 3
 Poison Resistance
 
 ###### 4
@@ -50,6 +51,7 @@ Cold Resistance
 ###### 5
 Transform Into A Pseudodragon http://dndroll.wikidot.com/creatures:pseudodragon
 Proficiency Bonus Uses
+
 ###### 6
 Acid/Fire Resistance
 

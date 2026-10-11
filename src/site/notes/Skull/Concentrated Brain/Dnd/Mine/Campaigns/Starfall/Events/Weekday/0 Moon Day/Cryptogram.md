@@ -1,12 +1,11 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/0-moon-day/cryptogram/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"],"Featured":"![Files And Shit/thumbnails/external/a3873fb24aa29cb81615bca5e2cb45cb.png](/img/user/Files%20And%20Shit/thumbnails/external/a3873fb24aa29cb81615bca5e2cb45cb.png)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/0-moon-day/cryptogram/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/external/a3873fb24aa29cb81615bca5e2cb45cb.png]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 ![](https://i.imgur.com/KcGi4Ku.png)
 ![](https://i.imgur.com/BqzlVTn.png)
 ![](https://i.imgur.com/cDlUUX3.png)
-
-
 
 # <center><span style="color:#000000"></span></center>
 

@@ -1,9 +1,9 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/npc/generic-occultist-sheet/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/npc/generic-occultist-sheet/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
-a<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+a<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#323456">Occultist</span></center>
 
@@ -14,7 +14,6 @@ a<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;fon
  Class: Occultist
  Alignment: True Neutral 
  Background: Hermit
-
 
 ## Stats
 
@@ -45,6 +44,7 @@ a<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;fon
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
 | Death Fails |     |     |     |
+
 ### Attacks
 
 | Attack | To-Hit | Damage |
@@ -67,9 +67,11 @@ Mage Hand
 Message
 Fire Bolt
 Disguise Self
+
 ##### 1St 4
 Id Insinuation
 Infallible Relay
+
 ##### 2nd 2
 Misty Step
 
@@ -77,6 +79,7 @@ Misty Step
 
 Money: 5
 Inventory: Scale mail, martial weapon, scholar’s pack, dagger and a Handaxe, Grimoire, A scroll case stuffed full of notes from your studies or prayers, a winter blanket, a set of common clothes, an herbalism kit
+
 # Extra
 Resistances: 
 Advantage: 
@@ -86,12 +89,12 @@ Conditions:
 
 # Proficiencies
 		
-Armor:  Light armor, medium armor, shields
+Armor: Light armor, medium armor, shields
 Weapons: Simple weapons, martial weapons
 Tools: Herbalism kit
 Languages: Common, One Other, Read All
 
-# Notes: 
+# Notes:
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Generic Occultist Sheet#Pact of the Blade\|#Pact of the Blade]]
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Generic Occultist Sheet#Pact of the Chain\|#Pact of the Chain]]
 Spellcasting
@@ -106,11 +109,8 @@ Occult Specialization
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Generic Occultist Sheet#Improved Sinister Calling\|#Improved Sinister Calling]]
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Generic Occultist Sheet#Mask of Many Faces\|#Mask of Many Faces]]
 
-
-
-
 # Dump
-#### Pact of the Blade
+#### Pact Of The Blade
 
 Starting at 1st level, you can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it (see the Weapons section for weapon options). You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. When you attack with your pact weapon, you can use your Charisma modifier, instead of Strength or Dexterity, for the attack and damage rolls.
 
@@ -120,7 +120,7 @@ Your pact weapon disappears if it is more than 5 feet away from you for 1 minute
 
 You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
 
-#### Pact of the Chain
+#### Pact Of The Chain
 
 Also at 1st level, you learn the find familiar spell and can cast it as a ritual.
 
@@ -134,17 +134,17 @@ Beginning at 2nd level, your deep studies of the occult have lead you to hear si
 
 You learn the Eldritch Blast cantrip which you can cast at will. Charisma is your spellcasting ability for this spell.
 
-#### Pact of the Tome
+#### Pact Of The Tome
 
 The sinister voices lead you to uncover a grimoire called the Book of Shadows which binds itself to your soul. When you gain this feature, choose three cantrips from any class’s spell list (the three needn’t be from the same list). While the book is on your person, you can cast those cantrips at will.
 
 If you lose your Book of Shadows, the sinister voices will lead you to it. The book returns to your person if it is destroyed. The book turns to ash when you die.
 
-#### Master of the Elements
+#### Master Of The Elements
 
 Starting at 3rd level, you can use your sinister powers to manipulate the elements of nature itself. You learn the Gust, Shape Water, Mold Earth, and Control Flames cantrips and can cast them at will.
 
-#### Eyes of the Rune Keeper
+#### Eyes Of The Rune Keeper
 
 Beginning at 3rd level, you can read all writing.
 
@@ -172,6 +172,6 @@ A creature can only be affected by one of these effects per turn, and only ONCE 
 
 In addition, when you cast Eldritch Blast, add your Charisma modifier to the damage it deals on a hit.
 
-#### Mask of Many Faces
+#### Mask Of Many Faces
 
 Starting at 6th level, you can cast Disguise Self at will.

@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"Permalink":"Aras","permalink":"/Aras/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":"Dnd Character","Group":["[[Paladin Pals]]"],"down":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Aras"],"Title":"Aras","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":null,"Session Number":null,"Dead":null,"Lineage":"Human","Allies":null,"Enemies":null,"Player Character":true,"Character Level":"1","Dnd World":"[[Harmony]]","Yesterday":null,"Tomorrow":null,"Featured":"![Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Files And Shit/nout_5_finished_1.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/nout_5_finished_1.png)"}}
+{"Publish":true,"Permalink":"Aras","permalink":"/Aras/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":"Dnd Character","Group":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Paladin Pals]]"],"down":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Aras"],"Title":"Aras","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":"278·10·2026 21:24 (Monday)","Session Number":null,"Icon":null,"Dead":null,"Lineage":"Human","Allies":null,"Enemies":null,"Player Character":true,"Character Level":"1","Dnd World":"[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Harmony]]","Yesterday":null,"Tomorrow":null,"Featured":"![[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Files And Shit/nout_5_finished_1.png]]","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -9,6 +10,7 @@
 </style>
 
 <!--  
+
 # <center><span style="color:#6CAB3C">Aras Woodsun</span></center>
 ![nout_5_finished_1.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/nout_5_finished_1.png)
 ![Aras Token.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Aras%20Token.png)
@@ -23,7 +25,6 @@
  Class: Celestial Warlock
  Alignment: 
  Background: 
-
 
 ### Attacks
 
@@ -40,6 +41,7 @@
 
 Money: 
 Inventory: 
+
 # Extra
 Resistances: 
 Advantage: 
@@ -54,11 +56,11 @@ Weapons:
 Tools: 
 Languages: 
 
-# Notes: 
+# Notes:
 
 
 
-# Characteristics 
+# Characteristics
 
 
 ## Backstory
@@ -103,7 +105,7 @@ Juul – A very confident girl who was bullied as a kid. Beth and Aras befriende
 Parents: Mom – neglectful and mean spirited.
 Dad - well meaning but not around much.
 
-## Fun facts:
+## Fun Facts:
 
 He got a scar from an explosion when he caught some bandits trying to blow up a piece of rock so they could get rubble on the road. He was out for a couple of days but his friends caught the bandits.
 
@@ -124,7 +126,7 @@ He is trans.
 ### Sports
 As a kid he probably played soccer and stuff with the other kids. As an adult he tried archery but it wasn’t his thing and he does bouldering and swimming. Next to that he played games like basketball during pauses and after work.
 
-## When roleplaying:
+## When Roleplaying:
 
 Remember to ask questions about others emotional state. Example redundant
 
@@ -142,7 +144,7 @@ Talk about nature stuff. Example talk about which birds there are when walking t
 
 He has a quiet personality and keeps to himself. He is careful with approaching others on a deeper level. He is stubborn and focuses on his goals. He cares for others but has a hard time showing that in ways that aren’t acts of serves. He acts nervous around others and seems like he is always on guard, but does show kindness and a want to help others.
 
-## Plants 
+## Plants
 ### Uses
 - Nightshade (bad, kills people)
 - Senna (makes you poop)
@@ -156,7 +158,7 @@ He has a quiet personality and keeps to himself. He is careful with approaching 
 - Thyme (for sore throats)
 - Lemongrass (reliefs stress).
 
-### Favo plant
+### Favo Plant
 Myosotis, forget me nots
 
 Fines, moss, grass,
@@ -164,8 +166,6 @@ Fines, moss, grass,
 Only birch trees, probably had some kind of disaster happen.
 
 Birch, ash, Eucalyptus, Douglas Fir, Mangroves, Eastern Red Cedar, Black Willow, Maple, Beech, oak, spruce, Hemlock tree
-
-
 
 ## Powers
 Pact Magic
@@ -203,6 +203,7 @@ Watcher's Eye (You can easily find the local outpost of the guild or a similar o
 </style>
 
 --> 
+
 # <center><span style="color:#6CAB3C">Aras Woodsun</span></center>
 ![nout_5_finished_1.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/nout_5_finished_1.png)
 ![Aras Token.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Aras%20Token.png)
@@ -253,7 +254,7 @@ Juul – A very confident girl who was bullied as a kid. Beth and Aras befriende
 Parents: Mom – neglectful and mean spirited.
 Dad - well meaning but not around much.
 
-## Fun facts:
+## Fun Facts:
 
 He got a scar from an explosion when he caught some bandits trying to blow up a piece of rock so they could get rubble on the road. He was out for a couple of days but his friends caught the bandits.
 
@@ -274,7 +275,7 @@ He is trans.
 ### Sports
 As a kid he probably played soccer and stuff with the other kids. As an adult he tried archery but it wasn’t his thing and he does bouldering and swimming. Next to that he played games like basketball during pauses and after work.
 
-## When roleplaying:
+## When Roleplaying:
 
 Remember to ask questions about others emotional state. Example redundant
 
@@ -292,7 +293,7 @@ Talk about nature stuff. Example talk about which birds there are when walking t
 
 He has a quiet personality and keeps to himself. He is careful with approaching others on a deeper level. He is stubborn and focuses on his goals. He cares for others but has a hard time showing that in ways that aren’t acts of serves. He acts nervous around others and seems like he is always on guard, but does show kindness and a want to help others.
 
-## Plants 
+## Plants
 ### Uses
 - Nightshade (bad, kills people)
 - Senna (makes you poop)
@@ -306,7 +307,7 @@ He has a quiet personality and keeps to himself. He is careful with approaching 
 - Thyme (for sore throats)
 - Lemongrass (reliefs stress).
 
-### Favo plant
+### Favo Plant
 Myosotis, forget me nots
 
 Fines, moss, grass,
@@ -314,8 +315,6 @@ Fines, moss, grass,
 Only birch trees, probably had some kind of disaster happen.
 
 Birch, ash, Eucalyptus, Douglas Fir, Mangroves, Eastern Red Cedar, Black Willow, Maple, Beech, oak, spruce, Hemlock tree
-
-
 
 ## Powers
 Pact Magic

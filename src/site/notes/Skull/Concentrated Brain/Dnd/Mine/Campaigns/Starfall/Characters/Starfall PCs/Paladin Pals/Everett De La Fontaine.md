@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"Permalink":"Everett","permalink":"/Everett/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":"Dnd Character","Group":"[[Paladin Pals]]","down":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Everett","Ev","Everett Fontaine"],"Title":"Everett","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":null,"Session Number":null,"Dead":null,"Lineage":"Eladrin","Allies":null,"Enemies":null,"Player Character":true,"Character Level":"2","Dnd World":"[[Harmony]]","Featured":"![Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Files And Shit/Ev And Sin.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Ev%20And%20Sin.png)"}}
+{"Publish":true,"Permalink":"Everett","permalink":"/Everett/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":"Dnd Character","Group":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Paladin Pals]]","down":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Everett","Ev","Everett Fontaine"],"Title":"Everett","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":"278·10·2026 21:24 (Monday)","Session Number":null,"Icon":null,"Dead":null,"Lineage":"Eladrin","Allies":null,"Enemies":null,"Player Character":true,"Character Level":"2","Dnd World":"[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Harmony]]","Featured":"![[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Files And Shit/Ev And Sin.png]]","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -8,14 +9,14 @@
 }
 </style>
 
-
 # <center><span style="color:#4a4e2b">Everett De La Fontaine</span></center>
 ![Ev And Sin.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Ev%20And%20Sin.png)
 ![[Everret Token.png\|Everret Token.png]]
+
 ## General
- Race:  Eladrin
+ Race: Eladrin
  Class: Wild Magic Sorcerer 2
- Background:  Noble
+ Background: Noble
 
 ### Bio
 Young eladrin noble (early 20’s in human years) treated with overt caution his entire life, which makes him centred around wanting to get validation and to be recognized as someone capable. Snarky, quick witted and sometimes coming off as rude / arrogant, however his heart lies in the right place, as he does look at the world in a very optimistic light.
@@ -35,7 +36,7 @@ They Sort Of Tried To Teach Everett Magic When He Was In His Teens And It Never 
 
 Times Were Desperate.
 
-His Parents Asked The Wisest People They Knew And Eventually [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Richter\|Richter]] Suggested That Ev Be Sent Out Into The World To Find Answers. "There Is only So Much We Can Do For The Lad In The Middle Of Nowhere. If He Were To Find A Big City He Could Find Someone More Capable". [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Mary De La Fontaine\|Mary]] And  [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Roland De La Fontaine\|Roland]] Agreed To This On Account That His Uses This Time To Learn Not Just About His Magic But Also About The World Around Him.....Safely. With Guards And Rogues And Advisors— Sinclair Alone, His Most Trusted, Is Who Ended Up Traveling With Him. 
+His Parents Asked The Wisest People They Knew And Eventually [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Richter\|Richter]] Suggested That Ev Be Sent Out Into The World To Find Answers. "There Is only So Much We Can Do For The Lad In The Middle Of Nowhere. If He Were To Find A Big City He Could Find Someone More Capable". [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Mary De La Fontaine\|Mary]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Roland De La Fontaine\|Roland]] Agreed To This On Account That His Uses This Time To Learn Not Just About His Magic But Also About The World Around Him.....Safely. With Guards And Rogues And Advisors— Sinclair Alone, His Most Trusted, Is Who Ended Up Traveling With Him. 
 
 It Took Months To Prepare For His Venture. Sinclair Thinks She Knows Who To Look For But Not Where To Look For Them.
 
@@ -44,8 +45,9 @@ It Took Months To Prepare For His Venture. Sinclair Thinks She Knows Who To Look
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Roland De La Fontaine\|Roland De La Fontaine]]
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Richter\|Richter]]
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Sinclair Rosemond\|Sinclair]]
+
 ## Inventory
-Money:  20.99
+Money: 20.99
 Inventory: Fine Clothing, Signet Ring, Scroll of Pedigree, Explorer Pack (backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin, 50m rope), [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Items/Starfall Magic Items/Transmission Stone\|Transmission Stone]] to call parents, Arcane Focus, Darts, Daggers x2,
 
 ## Proficiencies
@@ -55,21 +57,20 @@ Languages: Common, Elven, Abyssal
 
 ### Extra
 Darkvision (60ft)	
-Resistances:  Charmed, Frightened	
+Resistances: Charmed, Frightened	
 
-## Abilities: 
+## Abilities:
 
 #### Features & Traits
 ##### Fey Step (Spring)
-##### Trance 
+##### Trance
 ##### Wild Magic Surge
-##### Tides of Fate
+##### Tides Of Fate
 ##### Styled Magic Surge
 <sub>The House Always Wins And Its Coming Home</sub>
 Whenever you roll on the Wild Magic Table you can spend any amount of Hit Dice to take damage equal to the total number rolled. You can add or substract a number from your Wild Magic roll, up to the damage taken. After this, a Wild Magic Surge is triggered at the start of your turn for a number of turns equal to the damage taken, divided by your Charisma Modifier (rounded down). This ability cannot be used on the Wild Magic Surges caused by itself
 
-
-## Notes: 
+## Notes:
 
 <!--
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Everett De La Fontaine\|Everett De La Fontaine]] From No-Name Settlement 
@@ -98,10 +99,3 @@ You Must Find This Person And Cause His End
 
 Killing Sin On Purpose Makes It So That "If The New Surge Would Purposefully Hurt An Ally Get A Warning"  
 --> 
-
-
-
-
-
-
-
