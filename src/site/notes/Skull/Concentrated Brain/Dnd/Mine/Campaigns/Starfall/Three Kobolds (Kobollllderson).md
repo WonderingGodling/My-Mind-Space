@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/three-kobolds-kobollllderson/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Featured":"![images/Lancelot.png](/img/user/images/Lancelot.png)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/three-kobolds-kobollllderson/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Featured":"[[Files And Shit/Lancelot.png]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
  img{
@@ -8,20 +9,17 @@
 }
 </style>
 
-
 # <center><span style="color:#323456"> Three Kobolds</span></center>
-![Lancelot.png](/img/user/images/Lancelot.png)
-![Kobolds Full 1.jpg](/img/user/images/Kobolds%20Full%201.jpg)
-<iframe src="/img/user/images/Three%20Kobolds.pdf" width="100%" height="900px" title="Three Kobolds.pdf" style="border:1px solid #ccc;"></iframe>
-
+![Lancelot.png](/img/user/Files%20And%20Shit/Lancelot.png)
+![Kobolds Full 1.jpg](/img/user/Files%20And%20Shit/Kobolds%20Full%201.jpg)
+<iframe src="/img/user/Files%20And%20Shit/Three%20Kobolds.pdf" width="100%" height="900px" title="Three Kobolds.pdf" style="border:1px solid #ccc;"></iframe>
 
 ## General
- Race:  Kobold
+ Race: Kobold
  Class: https://www.dandwiki.com/wiki/Con_Artist_(5e_Class) 10
  Alignment: Chaotic Good
  Background: 
  7 Ft 2
-
 
 ## Stats
 
@@ -52,18 +50,22 @@
 | Death Saves |     |     |     |
 | ----------- | --- | --- | --- |
 | Death Fails |     |     |     |
+
 ### Attacks
 
 | Attack  | To-Hit | Damage |
 | ------- | ------ | ------ |
 | Unarmed | 2      | d4+2   |
+
 UnarmEd Strike As Action And Bonus Action
 
 https://dnd5e.wikidot.com/spell:friends
+
 # Inventory
 
 Money: 
 Inventory: Entertainer's Pack, Playing Card Set, Forgery Kit, Dagger
+
 # Extra
 Resistances: 
 Advantage: 
@@ -81,7 +83,7 @@ Weapons: Daggers
 Tools: Forgery Kit, Disguise Kit
 Languages: 
 
-# Notes: 
+# Notes:
 
 Self Defense
 
@@ -93,5 +95,4 @@ Blameless
 
 At 9th level you have mastered the art of shifting blame off of yourself, and often onto other people.You have advantage on Charisma (Deception) checks to convince someone of your innocence. If your check passes, you can roll a Charisma (Deception) check contested by a Charisma (Persuasion) check to shift the blame to another creature of your choosing.
 
-# Characteristics 
-
+# Characteristics

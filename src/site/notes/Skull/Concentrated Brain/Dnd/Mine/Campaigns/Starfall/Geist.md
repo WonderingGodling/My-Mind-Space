@@ -1,9 +1,9 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/geist/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/geist/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#000000">Geist</span></center>
 
@@ -41,8 +41,6 @@ Some geists long to be reconnected with the natural world that they revered in l
 
 Some geists are projections of the animating principles of the mind. Vicious or obsessive thinking, as well as collective human memories, come to life by attracting enough latent aether around them to become autonomous entities. They carry on as obsessive ghosts—repeated knocking, patterning, arranging, stacking, marking, etc. They can also possess one's mind and cause repetitive movements, speech, epilepsy, obsessive behavior, schizophrenia, and other such maladies of the mind. These are also the geists most drawn to the water, storms, frost, and mist—even the mist of the breath.
 
-  
-
 |   |
 |---|
 |**Design Note:** If you choose to be a geist that was once a living race you do not benefit from any of that races racial's, such as traits, movement speed, size, ability score increases, etc.|
@@ -55,27 +53,38 @@ _**[Age](https://www.dandwiki.com/wiki/5e_SRD:About_Races#Age "5e SRD:About Race
 _**[Alignment](https://www.dandwiki.com/wiki/5e_SRD:About_Races#Alignment "5e SRD:About Races").**_ Geists tend to retain the alignment they had in their life or be within one factor of their original alignment.  
 _**[Size](https://www.dandwiki.com/wiki/5e_SRD:About_Races#Size "5e SRD:About Races").**_ The height of a geist varies based on the geist's original race, however, regardless of your original race. Your size is Medium.  
 _**[Speed](https://www.dandwiki.com/wiki/5e_SRD:About_Races#Speed "5e SRD:About Races").**_ You have a base walking speed of 30 feet.  
+
 ### Ethereal
 Your ethereal form grants you a host of benefits. Your Armor Class is calculated using your Charisma or Intelligence" instead of your Dexterity. While unarmored your Armor Class is equal to 10 + your Charisma or Intelligence modifier. 
 You are resistant to nonmagical bludgeoning, piercing and slashing damage. In addition, you may free swap your walking speed for a hover speed equal to your walking speed. And you can pick up objects as normal, but if an object was moving and you try to grab it, it stays for a bit, but then goes through you (example: if something is thrown, you can catch it as normal, but after a few seconds, it will pass through you, same with other body parts, this also applies to a rolling object).  
+
 ### Ethereal Sight
 A geist can see 60 feet into the [Ethereal Plane](https://www.dandwiki.com/wiki/5e_SRD:The_Planes_of_Existence "5e SRD:The Planes of Existence") when it is on the [Material Plane](https://www.dandwiki.com/wiki/5e_SRD:The_Planes_of_Existence "5e SRD:The Planes of Existence"), and vice versa. You can see in [dim light](https://www.dandwiki.com/wiki/5e_SRD:Dim_Light "5e SRD:Dim Light") within 60 feet of you as if it were [bright light](https://www.dandwiki.com/wiki/5e_SRD:Bright_Light "5e SRD:Bright Light"), and in [darkness](https://www.dandwiki.com/wiki/5e_SRD:Vision_and_Light "5e SRD:Vision and Light") as if it were [dim light](https://www.dandwiki.com/wiki/5e_SRD:Dim_Light "5e SRD:Dim Light"). You can't discern color in [darkness](https://www.dandwiki.com/wiki/5e_SRD:Vision_and_Light "5e SRD:Vision and Light"), only shades of gray.  
+
 ### Ghostly Touch
 A gheist does not use physical strength to lift objects due to their form, instead, they use their influence over the ethereal. You may use your Charisma or Intelligence score in place of your Strength or Dexterity scores and may manipulate objects you can see within 5 feet of you. For example, you would make a Charisma or Intelligence) (Athletics check to grapple a target instead of a Strength (Athletics.) 
+
 ### Incorporeal Movement
 Like most spectral undead, physical structures do not impede you. You can move through other creatures and objects as if they were difficult terrain. You take 1d10 force damage if you end your turn inside an object.  
+
 ### Poltergeist
 You know the _[thaumaturgy](https://www.dandwiki.com/wiki/5e_SRD:Thaumaturgy "5e SRD:Thaumaturgy")_ cantrip. Charisma or Intelligence) is your spellcasting ability for it.  
+
 ### Possession
 You gain the ability to possess a humanoid within 5 feet of you. The humanoid must succeed a Charisma or Intelligence) saving throw or become possessed. You then disappears, and the target is [incapacitated](https://www.dandwiki.com/wiki/5e_SRD:Conditions#Incapacitated "5e SRD:Conditions") and loses control of its body. You now control the body but you can't deprive the possessed target of awareness. You can't be targeted by any attack, spell, or other effect, except ones that turn undead, and you retains your alignment, Intelligence"), Wisdom and Charisma scores. You otherwise uses the possessed target's statistics but doesn't gain access to the target's knowledge, class features, or proficiencies. The possession lasts until the body drops to 0 [hit points](https://www.dandwiki.com/wiki/5e_SRD:Hit_Points "5e SRD:Hit Points"), you ends it as a bonus action or reaction, or you are turned or forced out by an effect like the _[dispel evil and good](https://www.dandwiki.com/wiki/5e_SRD:Dispel_Evil_and_Good "5e SRD:Dispel Evil and Good")_ spell. When the possession ends, you reappear in an unoccupied space within 5 feet of the body. The target is immune to your Possession for 24 hours after succeeding on the saving throw or after the possession ends. You regain use of this trait once you have completed a long rest.  
+
 ### Restless
 You don’t need to sleep. Instead, you reconnect to the energies that sustain you, remaining semiconscious, for 4 hours a day. While doing this, you dream in a fashion; such dreams are actually the pull toward the Æther. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.  
+
 ### Undead Nature
 Your creature type is undead. As a form of undead, you are not healed by healing spells and other effects that would target humanoids. If you die, you are sent to the [astral plane](https://www.dandwiki.com/wiki/5e_SRD:The_Planes_of_Existence "5e SRD:The Planes of Existence") for 3 days and then return to where you died. In addition, you don't require air, food, drink, or sleep.  
+
 ### Unholy Nature
 While your form grants you a host of benefits it has a number of flaws as well. You have disadvantage on Strength and Dexterity saving throws. Your hit point maximum decreases by 1, and it decreases by 1 every time you gain a level. You are forbidden from entering consecrated ground areas such as temples and shrines, or passing over a circle of salt. In addition, you are vulnerability to radiant damage.  
+
 ### [Languages](https://www.dandwiki.com/wiki/5e_SRD:About_Races#Languages "5e SRD:About Races")
 You are able to speak, read and write Common and one extra language of your choice. This is usually one of the languages you knew before death.  
+
 ### Indefinite Madness
 As a type of ghost, the process of returning to the realm of the living has taken its toll on you. As such you have been afflicted with one of the following indefinite madnesses. This madness cannot be cured.
 

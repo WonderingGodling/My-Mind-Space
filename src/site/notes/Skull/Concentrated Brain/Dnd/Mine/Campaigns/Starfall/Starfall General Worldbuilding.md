@@ -1,13 +1,13 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-general-worldbuilding/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":["[[Starfall]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["General Worldbuilding","Starfall Worldbuilding"],"Title":"Worldbuilding","comments":true,"tags":["Tagless"],"permalink":null,"Similarly Rooted":null,"Date Created":null,"Session Number":null}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-general-worldbuilding/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":["[[Branches/Starfall]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["General Worldbuilding","Starfall Worldbuilding"],"Title":"Worldbuilding","comments":true,"tags":["Tagless"],"permalink":null,"Similarly Rooted":null,"Date Created":"278·10·2026 16:25 (Monday)","Session Number":null,"Icon":null,"Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
  float: right;
 }
 </style>
-
 
 # <center><span style="color:#FEDCBA"></span></center>
 
@@ -28,6 +28,7 @@ Classes Are Admired For Their Resilience.  Clerics Who Devote Themselves More, 
 Lesh: About 5ft
 Kraa: Within Arms ReacH
 Pira: About The Size Of A Human Eyeball
+
 ## Misc
 - [ ] Reverse Ice ([[Skull/Spam/Fire\|Fire]] Cubes)
 - [ ] Wright Doesnt Reset Ever
@@ -47,7 +48,7 @@ Pira: About The Size Of A Human Eyeball
 	- [ ] Other Than Spells That Bring You Back From The Brink Of Non-Existence Thats The Best There Is For Mortals
 - [ ] Daylight
 	- [ ] There Is A Newish God Whom Exists To Protect [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Harmony\|Harmony]] From The Tumultuous nature Of Reality
-		- [ ] This Protection Has The Side-Effect Of Blocking Out The Sun So The God Must Perform Its Equivilent Of  ALong Deep Exhale Which Lights Up The Sky With Magic
+		- [ ] This Protection Has The Side-Effect Of Blocking Out The Sun So The God Must Perform Its Equivilent Of ALong Deep Exhale Which Lights Up The Sky With Magic
 - [ ] In The Future A Large Amount Of Refined Platinum Jewels Can Be Turned Into Abiogenerated Soul ("Synth") Gems
 - [ ] The First God To Return Is Said To Have Never Left But Instead Took A Step Back To Precent The World From Fracturing
 - [ ] Sirens Are The Defacto [[Branches/Gods\|Gods]] of the Sea
@@ -75,7 +76,6 @@ Pira: About The Size Of A Human Eyeball
 }
 </style>
 
-
 # <center><span style="color:#FEDCBA"></span></center>
 
 
@@ -97,7 +97,7 @@ Pira: About The Size Of A Human Eyeball
 	- [ ] Other Than Spells That Bring You Back From The Brink Of Non-Existence Thats The Best There Is For Mortals
 - [ ] Daylight
 	- [ ] There Is A Newish God Whom Exists To Protect [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Harmony\|Harmony]] From The Tumultuous nature Of Reality
-		- [ ] This Protection Has The Side-Effect Of Blocking Out The Sun So The God Must Perform Its Equivilent Of  ALong Deep Exhale Which Lights Up The Sky With Magic
+		- [ ] This Protection Has The Side-Effect Of Blocking Out The Sun So The God Must Perform Its Equivilent Of ALong Deep Exhale Which Lights Up The Sky With Magic
 - [ ] In The Future A Large Amount Of Refined Platinum Jewels Can Be Turned Into Abiogenerated Soul ("Synth") Gems
 - [ ] The First God To Return Is Said To Have Never Left But Instead Took A Step Back To Precent The World From Fracturing
 - [ ] Sirens Are The Defacto [[Branches/Gods\|Gods]] of the Sea

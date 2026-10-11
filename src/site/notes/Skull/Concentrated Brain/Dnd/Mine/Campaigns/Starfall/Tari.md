@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/tari/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Featured":"![Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Files And Shit/Tari.jpg](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Files%20And%20Shit/Tari.jpg)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/tari/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Featured":"![[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Files And Shit/Tari.jpg]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -19,7 +20,7 @@ Only Uses A Sword When He Is First Introduced But Eventually Begins Summoning Va
 Tari Directs People To The Skeleton Dungeon
 
 ## General
- Race:  Human
+ Race: Human
  Class: [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Greasian Knights\|Greasian Knight]]
 considered to be Large
 
@@ -52,6 +53,7 @@ considered to be Large
 | Death Saves |     |     |     |
 | ----------- | --- | --- | --- |
 | Death Fails |     |     |     |
+
 ### Attacks
 
 | Attack                              | To-Hit | Damage |
@@ -71,6 +73,7 @@ Double Damage if Riding A Dragon
 Combo: On Crit Gain An Action
 Defensive Break: All Attacks Lower The Targets AC By Your Proficiency Until The End Of Their Next Turn
 19 Is Crit
+
 ##### Bonus Actions
 Lunge: Move Up To 20ft in A Direction And Make Another Attack
 
@@ -80,15 +83,18 @@ Battle Cry (6): A Shout That scares everyone (DC 20) within 30ft Activates The F
 - When a creature that can see and hear the battle cry makes an attack against a creature other than you, that attack is made at disadvantage.
 
 Legendary Action: Dodges An Attack By Moving To The Opponents Blind Spot And Pushes Them Missing Health (Rounded Down To 5) Feet
+
 # Inventory
-Modified Plate Armour 15 + Dex (Max 2)  Str Rec 20 Disadvantage On Stealth 70lb 
+Modified Plate Armour 15 + Dex (Max 2) Str Rec 20 Disadvantage On Stealth 70lb 
 	The Idea Behind It Is That With Less Armour Coverage But More Battle Sense You Can Use Yourself To Block Attacks
+
 # Extra
 Resistances: 
 Advantage: Knocked Prone
 Conditions: Frightened
   
-# Notes: 
+
+# Notes:
 These Knights Are Less Defensive And More Offensive, They Lose Their Shield To Two-Hand Their Weapon
 whenever you take damage from a melee attack, you can use your reaction to rebuke that attack. The attacker must succeed on a Dexterity saving throw. On a failed save, the attacker take damage equal to your [Heavy Strike](https://www.dandwiki.com/wiki/Dreadnaught_\(5e_Class\)#Heavy_Strike) additional damage dice and is pushed 5 feet back. On a failure, it takes half that damage and is not pushed.
 whenever you are wearing heavy armor, a critical hit against you is treated as a normal hit
@@ -98,9 +104,7 @@ At 20th level, your [Strength](https://www.dandwiki.com/wiki/5e_SRD:Strength "5e
 
 In addition, whenever you roll initiative and have no battle cries, you gain 1 additional battle cry.
 
-
-
-# Characteristics 
+# Characteristics
 - [ ] Level Clear Guy 
 
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Tari\|Tari]] Has Not Slain Dragons But Has Met A Lot
@@ -120,7 +124,8 @@ In addition, whenever you roll initiative and have no battle cries, you gain 1 a
 - [ ] The Three Of Them Are One Of Each Subclass
 - [ ] https://www.dandwiki.com/wiki/Dreadnaught_(5e_Class)
 - [ ] Rewrite To Make Stronger For Them And Make [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Tari\|Tari]] Stronger Still
-###### Loops 
+
+###### Loops
 5 
 Kills Modo
 
