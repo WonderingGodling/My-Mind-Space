@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/stratus-saepta/templates/none-player-character/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/stratus-saepta/templates/none-player-character/","tags":["npc"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"tags":["npc"],"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 
 
@@ -9,10 +10,11 @@
  Class:
   Subclass:
  Alignment:
+
 # Apperarence
 
 # Stats
- # Base
+# Base
   Health
   Strength:
   Desterity:
@@ -20,19 +22,20 @@
   Inteligence:
   Wisdom:
   Charisma:
- # Passive
+# Passive
   Passive perseption:
   Passive Investigation:
   Passive Insight:
- # Combat
+# Combat
    Speed:
    AC:
    Proficiency Bonus:
    Initiative:
- # spells
+# Spells
   Spell DC:
   Hit Modifier:
   Spell Modifier:
+
 # Extra
  Resistances:
  Vulnerabilities:
