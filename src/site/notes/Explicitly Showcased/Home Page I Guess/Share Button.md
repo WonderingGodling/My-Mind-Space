@@ -1,13 +1,13 @@
 ---
-{"Publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/share-button/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/share-button/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
  float: right;
 }
 </style>
-
 
 # <center><span style="color:#FEDCBA"></span></center>
 
@@ -21,13 +21,9 @@ This IS Going To Be Some Sort Of Media Archive
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:0WVvjWYXyV_tcp5kf631Jw/729147951762505728/v2" data-did="945d63eecd58b6a0bd44d5f12bb9abce89656c19" ><a href="https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english">https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
 
-
-
 #### Tumblr Link??
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:0WVvjWYXyV_tcp5kf631Jw/729147951762505728/v2" data-did="945d63eecd58b6a0bd44d5f12bb9abce89656c19" ><a href="https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english">https://www.tumblr.com/thydungeonguy/729147951762505728/as-someone-who-has-actually-studied-the-english</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
-
-
 
 ## Sneaky Imports
 

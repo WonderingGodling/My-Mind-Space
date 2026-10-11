@@ -1,9 +1,9 @@
 ---
-{"Publish":true,"permalink":"/explicitly-showcased/people/special-ones/cory/cory/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"aliases":["Cor","Core"],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Featured":"![Files And Shit/thumbnails/external/3dbc405537ed60ac31068dec90219afe.jpg](/img/user/Files%20And%20Shit/thumbnails/external/3dbc405537ed60ac31068dec90219afe.jpg)"}}
+{"Publish":true,"permalink":"/explicitly-showcased/people/special-ones/cory/cory/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"aliases":["Cor","Core"],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/external/3dbc405537ed60ac31068dec90219afe.jpg]]","Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#000000"></span></center>
 
@@ -19,7 +19,7 @@ Not Comning Back Until Saturday But Is Free All Days After
 Been Walking 
 "Our holidays always manage to be really physically exhausting so they dont really feel like a break"
 Sent Him A Video "I 3D Printed A $1,224 Chair" By Morley Kert (I Should Watch More Of Those) 
-​​    ​‍Actually Was A Good Video; guy-- Why Am I Explaining It
+​​ ​‍Actually Was A Good Video; guy-- Why Am I Explaining It
 https://youtu.be/ThXu-zyltSM
 
 Also This Real Quick
@@ -48,7 +48,6 @@ I Think Corys Artificer Is Gonna Be Called "Ian Vlaim Son Of Ars" As Per My Requ
 
 "Til that Volt-amps are actually different to watts. It's mostly applicable to AC where you can have current 'sloshing' between inductors, which means that the actual amount of power used by a device (i.e watts) is different to the amount of power which travels through the cables due to the device (volt-amps)"
 
-
 ##### Cory
 Played Stardew Valley With Him
 He Passed Out Multiple Times, Fished At One AM And Wanted To Sort Our Chests Into Green And Not Green
@@ -74,9 +73,9 @@ also pictured: the result of me entirely losing the will to continue to fight th
 
 
 <script src="https://utteranc.es/client.js"
-        repo="WonderingGodling/My-Mind-Space"
-        issue-term="title"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
+		repo="WonderingGodling/My-Mind-Space"
+		issue-term="title"
+		theme="preferred-color-scheme"
+		crossorigin="anonymous"
+		async>
 </script>

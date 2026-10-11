@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"Permalink":"Sunshine","permalink":"/Sunshine/","tags":["Sunshine","Love"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"Sunshie","comments":false,"tags":["Sunshine","Love"],"aliases":["Sunshie","Sunny","Vesper","Vie"],"Type":"Just A Thing For Sunny","Up":"[[Moirail]]","Featured":"![images/Screenshot_20240303_184239_WhatsApp.png](/img/user/images/Screenshot_20240303_184239_WhatsApp.png)"}}
+{"Publish":true,"Permalink":"Sunshine","permalink":"/Sunshine/","tags":["Sunshine","Love"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"Sunshie","comments":false,"tags":["Sunshine","Love"],"aliases":["Sunshie","Sunny","Vesper","Vie"],"Type":"Just A Thing For Sunny","Up":"[[Explicitly Showcased/People/Special Ones/Sunshine/Moirail]]","Featured":"[[Files And Shit/Screenshot_20240303_184239_WhatsApp.png]]","Date Created":"278·10·2026 16:53 (Monday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
+
 
 ~~<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>~~
 
@@ -8,7 +9,7 @@
 
 ~~Heyyyy Cutie~~
 ~~How You Doing? Hope Youre Okay~~
-~~If Youre Reading This And You Havent Told Me About Your Day: why Not?  Go Do  It Right Now!~~
+~~If Youre Reading This And You Havent Told Me About Your Day: why Not? Go Do It Right Now!~~
 ~~More Importantly Though (Just As Importantly? (Its Had To Tell The Scale Of Importance When Both Things Involve You)) I Want You To Know I Love You <3 And Thats Pretty Cool~~
 ~~Youre Pretty Cool~~
 ~~I Dont Actually Have Anything Else To Say for Now Just I Love You ^^~~
@@ -34,7 +35,7 @@
 ~~Also Just As A Reminder Im Here Like Always~~
 ~~So Message Me~~
 ~~Dont Forget To Tell Me Stuff Because Youre Allpwed To Repeat Yoursels~~
-~~Any Excuse To Hear/Read You Talk Is A Good Excuse And One I Will Gladly Take Advantage Of  ^^~~
+~~Any Excuse To Hear/Read You Talk Is A Good Excuse And One I Will Gladly Take Advantage Of ^^~~
 
 ~~Also You Should Know (You Probably Already Do)~~
 ~~But If I Were A Demon And You Were A Demon Then Id Invite You To Possess People And Scare Exorsists And Stuff~~
@@ -59,7 +60,7 @@
 ~~You Never Check This But If You Ever Do Can We Talk Aboug How Hot You Are? Youre Like Illegaly Attractive And I Want To Know How You Pull It Off~~
 ~~Magic Right?~~
 
-~~![Screenshot_20240303_184239_WhatsApp.png](/img/user/images/Screenshot_20240303_184239_WhatsApp.png)~~
+~~![Screenshot_20240303_184239_WhatsApp.png](/img/user/Files%20And%20Shit/Screenshot_20240303_184239_WhatsApp.png)~~
 
 ~~I Love The Way Your Brain Works, When Your Brain Works, And Id Love It If You Keep Showing Me How Wonderful Your Insides Are ^^~~
 
@@ -77,7 +78,7 @@
 ~~Id Check Up On You But That Doesn't....Do Anything~~ 
 
 ~~Also~~
-~~![IMG-20240302-WA0000.jpg](/img/user/images/IMG-20240302-WA0000.jpg)~~
+~~![IMG-20240302-WA0000.jpg](/img/user/Files%20And%20Shit/IMG-20240302-WA0000.jpg)~~
 ~~Those Look So Good And I Cant Believe You Didnt Give Me Any >:(~~
 ~~Youre Evil!!~~
 
@@ -123,8 +124,8 @@
 
 
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#000000"></span></center>
 
@@ -145,11 +146,10 @@ I Just Hope That They Appreciate It As Much As I Do
 <center><sub>Mwah ♡</sub></center>
 
 
-
 </div></div>
 ~~
 
-~~![Pasted image 20230825141100.png](/img/user/images/Pasted%20image%2020230825141100.png)~~
+~~![Pasted image 20230825141100.png](/img/user/Files%20And%20Shit/Pasted%20image%2020230825141100.png)~~
 
 ~~Copy And PAsting All The Thigns Ive Said~~
 

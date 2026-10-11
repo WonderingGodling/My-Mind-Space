@@ -1,15 +1,18 @@
 ---
-{"Publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/socials/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":"Stuff About Me","Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":null,"Session Number":null,"Featured":"![Explicitly Showcased/Home Page I Guess/Pasted image 20261002211227.png](/img/user/Explicitly%20Showcased/Home%20Page%20I%20Guess/Pasted%20image%2020261002211227.png)"}}
+{"Publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/socials/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":"Stuff About Me","Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":"278·10·2026 16:25 (Monday)","Session Number":null,"Icon":null,"Featured":"![[Explicitly Showcased/Home Page I Guess/Pasted image 20261002211227.png]]","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
  float: right;
 }
 </style>
+
 # <center><span style="color:#FEACBA">Socials</span></center>
 
 Best Bet To Get Me Is Whatsapp But In The Case That You (Or Someone Without My Number) Needs To Get To Me Elsewhere
+
 ## <span style="color:#D00009">Discord @ [wonderinggodling](https://discordapp.com/users/275743514581532672)</span>
 ![Pasted image 20261002211227.png](/img/user/Explicitly%20Showcased/Home%20Page%20I%20Guess/Pasted%20image%2020261002211227.png)
 

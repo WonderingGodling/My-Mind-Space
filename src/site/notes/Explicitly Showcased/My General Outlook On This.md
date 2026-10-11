@@ -1,11 +1,12 @@
 ---
-{"Publish":true,"permalink":"/explicitly-showcased/my-general-outlook-on-this/","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Title":"Constant Comment","comments":true,"tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"aliases":["Constant Commment","Rambles","Mega Note","Thoughts","I Dont Know What Im Saying"],"Up":"[[Random Thoughts]]","Yesterday":null,"Tomorrow":null}}
+{"Publish":true,"permalink":"/explicitly-showcased/my-general-outlook-on-this/","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Title":"Constant Comment","comments":true,"tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"aliases":["Constant Commment","Rambles","Mega Note","Thoughts","I Dont Know What Im Saying"],"Up":"[[Branches/Random Thoughts]]","Yesterday":null,"Tomorrow":null,"Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
+
 
 Using a named example of each, Compare and Contrast Prokaryotic and Eukaryotic  
 cell structure# My General Outlook On This
 
-#### ‫‬‭‮‪‫‬‭‮҉   ‫‬‭‮҉‫‬‭‮‪‫‬‭‮ My General Outlook On This
+#### ‫‬‭‮‪‫‬‭‮҉ ‫‬‭‮҉‫‬‭‮‪‫‬‭‮ My General Outlook On This
 
 <div><iframe allowfullscreen="" width="100%" height="400px" frameborder="1" name="myiFrame" style="border:1px #000 solid" src="https://plaza.one/" sandbox="allow-forms allow-modals allow-presentation allow-popups allow-same-origin allow-scripts"></iframe></div>
 

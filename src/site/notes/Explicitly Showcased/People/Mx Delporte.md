@@ -1,13 +1,13 @@
 ---
-{"Publish":true,"Permalink":"Mx EUgene Delporte 1955","permalink":"/Mx EUgene Delporte 1955/","hideInGraph":true,"tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"Up":"[[€|eugene]]","Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":"Mx Delporte <3","comments":true,"tags":["Tagless"],"Featured":"![images/Pasted image 20260324140140.png](/img/user/images/Pasted%20image%2020260324140140.png)"}}
+{"Publish":true,"Permalink":"Mx EUgene Delporte 1955","permalink":"/Mx EUgene Delporte 1955/","hideInGraph":true,"tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"Up":"[[Explicitly Showcased/People/€|eugene]]","Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":"Mx Delporte <3","comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/Pasted image 20260324140140.png]]","Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
  float: right;
 }
 </style>
-
 
 # <center><span style="color:#003399">Eugene</span></center>
 
@@ -19,7 +19,7 @@ Even Back When Neither Of Us Were Doing Great I Used Her As A Reason To Try To I
 
 Other Than That I Have No Intention To Go Back And Add Stuff Its Fine
 
-![Pasted image 20260324140140.png](/img/user/images/Pasted%20image%2020260324140140.png)
+![Pasted image 20260324140140.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260324140140.png)
 
 I Got Her Drunk The Other Day And I Feel Bad That I Didnt Look After Her As Well As I Could Have
 Im Pretty Sure She Wont Drink Again But I Really Should Have Been Better
@@ -39,17 +39,17 @@ Everyone I Met Was Nice, The Neuros, Nerds And Queers Are All Cool Which Is Good
 Eugene Is Going To Be PResident Of The European Society And opefully The President Of Europe Some Day >:D
 Fix The World My Dear! You Can Do It!
 
-![Pasted image 20260324140208.png](/img/user/images/Pasted%20image%2020260324140208.png)
+![Pasted image 20260324140208.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260324140208.png)
 
 I Do Miss Her Already
-![Pasted image 20260324140129.png](/img/user/images/Pasted%20image%2020260324140129.png)
+![Pasted image 20260324140129.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260324140129.png)
 I Think She Misses Me Too
 That Actually Makes Me Really Happy (I Am So Lame)
 
 I Both Can And Cant Beleive I Spent So Much Money One Her
 Gonna Take A While To Financially Recover From This But Worth It XD
 
-![Pasted image 20260329102743.png](/img/user/images/Pasted%20image%2020260329102743.png)
+![Pasted image 20260329102743.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260329102743.png)
 I Am Canon!
 Chose Magnus Archives Green While I Stare At People >:)
 
@@ -66,7 +66,7 @@ Give Her Snacks, Cook Her Food, Keep Her Safe
 I Need To Take Crispy Chili Oil Next Time I Go To London
 
 I Miss Eugene A Lot
-It as Been A While Since I Have Experienced Positive Physical Contact And Getting So Much From Someone  Care About As Much As Her Seems To Have Left My Brain A Little Bit Fried
+It as Been A While Since I Have Experienced Positive Physical Contact And Getting So Much From Someone Care About As Much As Her Seems To Have Left My Brain A Little Bit Fried
 That Being Said My Only Regret Is That I Didnt Sniff Her More
 At The Time I Would Say She Smelled Okay But Now I Wish I Had Taken Time To Memorize That While I Had The Chance
 ….Or I Could Have Like Made Her Sweat A Lot Or Something, Collected A Range Of Smells
@@ -76,7 +76,7 @@ Big EU Meeting Seems To Have Gone Over Well!
 She Looked Awesome, Met One Of The Commisioners, Got OOfficially Dubbed EUgene (As She Totally Should Becasue Its A Badass Name)
 "There is actually a shockingly high concentration of incredibly pretty women here lol" Yeah Dummy Because Youre There
 
-![Pasted image 20260329101246.png](/img/user/images/Pasted%20image%2020260329101246.png)
+![Pasted image 20260329101246.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260329101246.png)
 I Am So Happy And So Sorry That I Have Got Her Touching Wet Paint XD
 If Youre Reading This I Love You Keep Being Whimsical
 
@@ -143,4 +143,4 @@ Sent Eugene My Live Location
 
 
 
-<center><sub>Thank You For Everything  ♡</sub></center>
+<center><sub>Thank You For Everything ♡</sub></center>

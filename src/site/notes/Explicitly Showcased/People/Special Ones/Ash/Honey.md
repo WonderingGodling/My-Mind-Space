@@ -1,8 +1,10 @@
 ---
-{"Publish":true,"Permalink":"Honey","permalink":"/Honey/","hideInGraph":true,"tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Title":"Honey","comments":true,"Type":"Just A Thing For Ash","Up":"[[Tiddy Gremlin]]","Down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"tags":["Tagless"],"Featured":"![images/desktop-wallpaper-best-honey-in-high-quality-honey-backgrounds-honey-bee.jpg](/img/user/images/desktop-wallpaper-best-honey-in-high-quality-honey-backgrounds-honey-bee.jpg)"}}
+{"Publish":true,"Permalink":"Honey","permalink":"/Honey/","hideInGraph":true,"tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Title":"Honey","comments":true,"Type":"Just A Thing For Ash","Up":"[[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin]]","Down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"tags":["Tagless"],"Featured":"[[Files And Shit/desktop-wallpaper-best-honey-in-high-quality-honey-backgrounds-honey-bee.jpg]]","Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
 
-![desktop-wallpaper-best-honey-in-high-quality-honey-backgrounds-honey-bee.jpg](/img/user/images/desktop-wallpaper-best-honey-in-high-quality-honey-backgrounds-honey-bee.jpg)
+
+![desktop-wallpaper-best-honey-in-high-quality-honey-backgrounds-honey-bee.jpg](/img/user/Files%20And%20Shit/desktop-wallpaper-best-honey-in-high-quality-honey-backgrounds-honey-bee.jpg)
+
 # Honey
 
 Heyy Honey
@@ -21,7 +23,7 @@ Go Pet The Kat
 
 
 8·2023 He Walked In The Rain To Buy Cookie Ingredients And Because The Shop Was Closed They Went To A Different One And Bought Overpriced Chocolate
-    The Incomplete Cookies Were Still Good
+	The Incomplete Cookies Were Still Good
 
 They Just told Me The Shapes From Triangle To Hexagon And Stopped (They Cant Name Any More); I Love Learning Stuff About My Little Boy
 Goofball
@@ -68,7 +70,7 @@ Like An Overcharged Battery
 I Tell Myself That I Should Ignore You Bevause I Dont Need To Be Your Guardian Angel All The Time
 I Walk Back In The Room And Your Stuffs Exploded
 
-![Screenshot_20240303_182052_WhatsApp.png](/img/user/images/Screenshot_20240303_182052_WhatsApp.png)
+![Screenshot_20240303_182052_WhatsApp.png](/img/user/Files%20And%20Shit/Screenshot_20240303_182052_WhatsApp.png)
 
 Sorry If It Seems Like Im Not Paying A Lot Of Attention To You But I Really Am And Youre Amazing 
 Im Just Not Feeling Very Conversational As Of Late <3

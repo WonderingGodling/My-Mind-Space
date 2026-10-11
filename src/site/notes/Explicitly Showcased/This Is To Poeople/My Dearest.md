@@ -1,9 +1,9 @@
 ---
-{"Publish":true,"Permalink":"My Dearest","permalink":"/My Dearest/","hideInGraph":true,"tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":"Letter","Up":"[[This Is To Poeople]]","Down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"Title":"Love You","comments":true,"tags":["Tagless"],"Featured":"![images/20231126_214954.jpg](/img/user/images/20231126_214954.jpg)"}}
+{"Publish":true,"Permalink":"My Dearest","permalink":"/My Dearest/","hideInGraph":true,"tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":"Letter","Up":"[[Branches/This Is To Poeople]]","Down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":"Love You","comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/20231126_214954.jpg]]","Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <span style="color:#800085">I Just Wanted You To Know....</span>
 
@@ -75,7 +75,7 @@ Youre One Of My favourite People So I Wish To Know More But That Goes Without Sa
 You Should Know You Light Up My Existence By Now So Why Wouldn't I Want More
 
 
-<span style="color:#F0F8FF">Did You Know That Alice Blue Is Its Own Specific Shade  ​‍#f0f8ff Theres Like No Way You Didnt Know That But Now You Know The Hex Code</span>
+<span style="color:#F0F8FF">Did You Know That Alice Blue Is Its Own Specific Shade ​‍#f0f8ff Theres Like No Way You Didnt Know That But Now You Know The Hex Code</span>
 
 If I Could Have Any Well Known Superpower It Would Be Teleportation
 One Of The Things I Hate Most About The Universe Is Time Existing And If I Could Move Across Continents Instantly I Could Just Pretend It Doesnt
@@ -113,12 +113,12 @@ Keep Being A Blessing
 
 
 <center><sub>I Love You ♥︎</sub></center>
-![20231126_214954.jpg](/img/user/images/20231126_214954.jpg)
+![20231126_214954.jpg](/img/user/Files%20And%20Shit/20231126_214954.jpg)
 
 <script src="https://utteranc.es/client.js"
-        repo="WonderingGodling/My-Mind-Space"
-        issue-term="title"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
+		repo="WonderingGodling/My-Mind-Space"
+		issue-term="title"
+		theme="preferred-color-scheme"
+		crossorigin="anonymous"
+		async>
 </script>

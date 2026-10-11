@@ -1,9 +1,9 @@
 ---
-{"Publish":true,"Permalink":"Roodolf","permalink":"/Roodolf/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":"Password Gate","Up":"[[People Branch]]","Down":"[[Roo]]","Yesterday":null,"Tomorrow":null,"aliases":["Roo","Rujul","Roodolf","Roo's","Slut","Slut Cage","Horny Piece Of Shit"],"Next":null,"Previous":null,"Title":"Secret?","comments":true,"tags":["Tagless"],"Featured":"![Files And Shit/thumbnails/external/9fc077fa4396374cbdbb25cf5437d08a.jpg](/img/user/Files%20And%20Shit/thumbnails/external/9fc077fa4396374cbdbb25cf5437d08a.jpg)"}}
+{"Publish":true,"Permalink":"Roodolf","permalink":"/Roodolf/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":"Password Gate","Up":"[[Branches/People Branch]]","Down":"[[Explicitly Showcased/People/Special Ones/Roo/Roo]]","Yesterday":null,"Tomorrow":null,"aliases":["Roo","Rujul","Roodolf","Roo's","Slut","Slut Cage","Horny Piece Of Shit"],"Next":null,"Previous":null,"Title":"Secret?","comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/external/9fc077fa4396374cbdbb25cf5437d08a.jpg]]","Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#000000"></span></center>
 
@@ -22,11 +22,11 @@
 
 
 <script src="https://utteranc.es/client.js"
-        repo="WonderingGodling/My-Mind-Space"
-        issue-term="title"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
+		repo="WonderingGodling/My-Mind-Space"
+		issue-term="title"
+		theme="preferred-color-scheme"
+		crossorigin="anonymous"
+		async>
 </script><style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 ![](https://i.imgur.com/qFLPagi.jpeg)
 
@@ -45,7 +45,7 @@ Also, If There Arent Any Already, There Will Be Links To Other Parts Of My Websi
 
 ## <center>Bio (Kinda)</center>
 
-So, If You Dont Know, Roo (Originally █████ ██████) Is A They/them Pain In The Ass That Ive Been Friends With Since Some Point 2019(?)  Im Bad At Time But I Remember That It Was Pre-Lockdown At Talliah ████'s Party. They Were Such A Huge Weeb That They Wore A Tokyo Ghoul Shirt To Like A Party Party Because Thats Like Cool Right? 
+So, If You Dont Know, Roo (Originally █████ ██████) Is A They/them Pain In The Ass That Ive Been Friends With Since Some Point 2019(?) Im Bad At Time But I Remember That It Was Pre-Lockdown At Talliah ████'s Party. They Were Such A Huge Weeb That They Wore A Tokyo Ghoul Shirt To Like A Party Party Because Thats Like Cool Right? 
 Doesnt Matter, I Own That Shirt Now So I Win, They Had Fun, Talli's Dead Or Something (I Dont Know) But Everybodys Happy....
 Can I Link To Within The Page.... [[Explicitly Showcased/People/Special Ones/Roo/Roodolf#Roo's Shirt\|Shirt]] 
 Thanks Now I Know That
@@ -54,7 +54,6 @@ Thanks Now I Know That
 
 If I Had To Guess, Roodolf Is A Time Player Who Would Easily Sink Into The Desolation If Given Half A Chance, I Also Feel Like The Hunt Wouldnt Be A Terrible Guess? Animalistic And All That
 While We're On The Topic, They Are Terrified Of Spiders <3
-
 
 ## <center>Likes And Stuff</center>
 
@@ -65,7 +64,7 @@ Obviously A Bratz Fan
 
 #### Loves
 
-#####     The Hots
+##### The Hots
 Roo Said To Include Everything So I Cant Forget To Mention Their Insane Thirst For Godzilla, Mothra, Ghost Face, Your Mom, Cthulu, They Would Fuck A Werewolf, They Wouldnt Fuck A Really Big Dog (Consent Is Important)
 Also **Major** Piss Kink
 
@@ -93,26 +92,26 @@ Tokyo Ghoul, Cute Other Stuff I'll Write Later
 
 <html>
 <head>
-    <title>Secret?</title>
+	<title>Secret?</title>
 </head>
 <body>
 <form>
-    <label for="pswd">What Do We Say When We Want Something? </label>
-    <input type="password" id="pswd">
-    <input type="button" value="Submit" onclick="checkPswd();" />
+	<label for="pswd">What Do We Say When We Want Something? </label>
+	<input type="password" id="pswd">
+	<input type="button" value="Submit" onclick="checkPswd();" />
 </form>
 
 <script type="text/javascript">
-    function checkPswd() {
-        var confirmPassword = "woof woof boss";
-        var password = document.getElementById("pswd").value;
-        if (password == confirmPassword) {
-             window.location="https://my-mind-space.vercel.app/explicitly-showcased/people/special-ones/roo/roo/";
-        }
-        else{
-            alert("Not Quite");
-        }
-    }
+	function checkPswd() {
+		var confirmPassword = "woof woof boss";
+		var password = document.getElementById("pswd").value;
+		if (password == confirmPassword) {
+			 window.location="https://my-mind-space.vercel.app/explicitly-showcased/people/special-ones/roo/roo/";
+		}
+		else{
+			alert("Not Quite");
+		}
+	}
 </script>
 </body>
 </html>
