@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"true","permalink":"/true/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{}}
+{"Publish":true,"permalink":"/template/tracker/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{}}
 ---
 
 > [!todo]+ Tracker

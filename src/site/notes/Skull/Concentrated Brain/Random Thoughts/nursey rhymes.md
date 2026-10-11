@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/nursey-rhymes/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":false,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/nursey-rhymes/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":false,"show-local-graph":null,"tags":["Tagless"],"permalink":null}}
 ---
 
 For [[Explicitly Showcased/People/Moomoo\|Moomoo]]

@@ -1,0 +1,60 @@
+---
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/stratus-saepta/templates/player-character/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":"PC","Dead":null,"Race":null,"up":null,"Same":null,"down":null,"Allies":null,"Enemies":null,"Player Character":null,"Character Level":null}}
+---
+
+
+# Name
+
+# General
+ Race: 
+ Class:
+  Subclass:
+ Alignment:
+# Stats
+ # Base
+
+ Health: 
+ 
+ |Stat|Strength|Dexterity|Constitution|Inteligence|Wisdom|Charima|
+ |---|------|------|--------|--------|----|-----| 
+ | Number    | |         |            |           |      |       |
+ | Modifier |  |         |            |           |    |         |
+
+| Stat     | Strength | Dexterity | Constitution | Inteligence | Wisdom | Charima |
+| -------- | -------- | --------- | ------------ | ----------- | ------ | ------- |
+| Number   |          |           |              |             |        |         |
+| Modifier |          |           |              |             |        |         |
+
+
+
+ # Passive
+
+| Passive perseption | Passive Investigation | Passive Insight |
+| ------------------ | --------------------- | --------------- |
+|                    |                       |                 |
+
+
+ Speed: 
+ AC:
+ Proficiency Bonus:
+ Initiative:
+ 
+ # spells
+  Spell DC:
+  Hit Modifier:
+  Spell Modifier:
+# Extra
+ Resistances:
+ Vulnerabilities:
+ Conditions:
+ Proficiencies
+  Saving Throws:
+  Skills:
+  Armor:
+  Weapons:
+  Tools:
+  Languages:
+ Notes:
+ Inventory:
+ 
+ 

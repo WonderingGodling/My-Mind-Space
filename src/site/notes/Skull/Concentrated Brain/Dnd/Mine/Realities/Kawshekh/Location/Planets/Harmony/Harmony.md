@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/harmony/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Kawshekh]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Harmony"],"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/harmony/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Kawshekh]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Harmony"],"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Featured":"![Files And Shit/thumbnails/external/40f10867a5bd93186c6e3fe493c764f2.jpg](/img/user/Files%20And%20Shit/thumbnails/external/40f10867a5bd93186c6e3fe493c764f2.jpg)"}}
 ---
 
 ![](https://i.imgur.com/fbl3wIz.jpeg)

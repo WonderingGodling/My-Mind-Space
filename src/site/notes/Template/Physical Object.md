@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"dg-permalink":"true","permalink":"/true/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Purchased":null,"Price":null,"URL":null}}
+{"Publish":true,"permalink":"/template/physical-object/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{}}
 ---
 
+---
+Purchased:
+Price:
+URL:
+dg-publish: "true"
+Permalink---
 tags = `= this.dv_tags`
 
 # 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Honey","permalink":"/Honey/","hideInGraph":true,"tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Title":"Honey","comments":true,"Type":"Just A Thing For Ash","Up":"[[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin]]","Down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"tags":["Tagless"],"Featured":"![[images/desktop-wallpaper-best-honey-in-high-quality-honey-backgrounds-honey-bee.jpg]]"}}
+{"Publish":true,"Permalink":"Honey","permalink":"/Honey/","hideInGraph":true,"tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Title":"Honey","comments":true,"Type":"Just A Thing For Ash","Up":"[[Tiddy Gremlin]]","Down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"tags":["Tagless"],"Featured":"![images/desktop-wallpaper-best-honey-in-high-quality-honey-backgrounds-honey-bee.jpg](/img/user/images/desktop-wallpaper-best-honey-in-high-quality-honey-backgrounds-honey-bee.jpg)"}}
 ---
 
 ![desktop-wallpaper-best-honey-in-high-quality-honey-backgrounds-honey-bee.jpg](/img/user/images/desktop-wallpaper-best-honey-in-high-quality-honey-backgrounds-honey-bee.jpg)

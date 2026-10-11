@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/hollywood/named-cities-and-towns/natheas/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"Comments":true,"tags":["Tagless"],"Featured":"![[images/Generic Hollywood Town.jpg]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"282·10·2026 0:40 (Friday)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/hollywood/named-cities-and-towns/natheas/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"282·10·2026 0:40 (Friday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"Comments":true,"tags":["Tagless"],"permalink":null,"Featured":"![images/Generic Hollywood Town.jpg](/img/user/images/Generic%20Hollywood%20Town.jpg)","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"282·10·2026 0:40 (Friday)"}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
@@ -53,7 +53,7 @@ Exports: Coal Plants, Hot Berries (Like Blueberry Sized Chillies), And Natural M
 ##### Tavern
 ![Fifb2mrXkAASByb-2430682952.jpg](/img/user/images/Fifb2mrXkAASByb-2430682952.jpg)
 ##### Hollywood Home Of The Dead (morgue)
-![Underground-Sanctuary-battle-map-Large-preview.webp](/img/user/images/Underground-Sanctuary-battle-map-Large-preview.webp)![Anatomy Theatre_4K_18x24_Base_Gridless_Logo [Classroom, Alchemy, Study].jpg](/img/user/images/Anatomy%20Theatre_4K_18x24_Base_Gridless_Logo%20%5BClassroom,%20Alchemy,%20Study%5D.jpg)
+![Underground-Sanctuary-battle-map-Large-preview.webp](/img/user/images/Underground-Sanctuary-battle-map-Large-preview.webp)![[Anatomy Theatre_4K_18x24_Base_Gridless_Logo [Classroom, Alchemy, Study].jpg]]
 ## Days 
 ### Day 1
 

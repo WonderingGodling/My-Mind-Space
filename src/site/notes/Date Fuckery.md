@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/date-fuckery/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":null,"Session Number":null,"Icon":null,"Banner":null}}
+{"Publish":true,"permalink":"/date-fuckery/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":null,"Session Number":null,"Banner":null}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
@@ -40,9 +40,9 @@ Date Countdown Progress Bar
     at DataviewJSRenderer.onload (plugin:dataview:18606:14)
     at DataviewJSRenderer.load (app://obsidian.md/app.js:1:883194)
     at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:13372:21)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:105:61)</pre>
+    at DataviewCompiler.eval (plugin:digitalgarden:12473:23)
+    at next (&lt;anonymous&gt;)
+    at eval (plugin:digitalgarden:90:61)</pre>
 
 
 
@@ -74,7 +74,7 @@ console.log(getDatePercent())
 
 
 
-<p><span><strong>Day %age</strong>     <progress max="100" value="61.09375" style="height:10px;width:20%"></progress></span></p>
+<p><span><strong>Day %age</strong>     <progress max="100" value="8.922453703703704" style="height:10px;width:20%"></progress></span></p>
 
 
 [[[Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/283·10·2026 (Saturday).md\|283·10·2026 (Saturday)]]]
