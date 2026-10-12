@@ -5,35 +5,65 @@
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
-# <center><span style="color:#11A98A">Bee</span></center>
+# <center><span style="color:#A1198A">Bee</span></center>
 ![HPYg2PaW4AA98Bk.jpg](/img/user/Explicitly%20Showcased/People/Special%20Ones/Bee/Files%20And%20Shit/HPYg2PaW4AA98Bk.jpg)
 
 ## Facts
 ### Birthday
 14/12/2006
-
+### Appearence
+- Hazel Eyes
+- 6'0 (183cm)
+- Soft Hair
 ## Opinions
 ### Likes
+- games 
+- hideo kojima
+- cars
+- hot baths
+- guns
 #### Philias/Loves
+- monster
+	- Mango Loco
+- lego
+- birds
+	- Corvids
+- pizza
+- Burger
+- spring
 ### Dislikes
+- Puzzles
 #### Phobias/Hates
+- Any Overwatch Character
+- Raw Ginger Or Olives
 ### Media
 #### Games
 Resident Evil
 Finals
 Apex
 Yakuza
+Metal Gear
 
 ## Activities
 ### Time Sinks/Hobbies
+- Playing Videogames
+- Talking With Friends Online
+- Stressing About Things
 
 ### Skills
+- First Person Shooters
+- Lego Building
 ### Struggles
+- Maths
 ### Relaxes By
-
+- Being A Puppy
+- Playing Video Games
 ### Probably The Best At
-
-
+- Stealing Scraps Of Food While You Cook
+- Connecting Two Of Her Interests In Conversation
+## The Big Questions
+Would Rather Be In A Mall With Five Cobras Than One Gorilla
+If She Could Have Any Traditional Superpower It Would Either Be Shapeshifting Or Teleportation 
 
 
 
@@ -59,7 +89,7 @@ Yakuza
 
 <script type="text/javascript">
 	function checkPswd() {
-		var confirmPassword = "pretty puppy";
+		var confirmPassword = "im a pretty puppy";
 		var password = document.getElementById("pswd").value;
 		if (password == confirmPassword) {
 			 window.location="https://my-mind-space.vercel.app/My Precious Little Puppy <3";
