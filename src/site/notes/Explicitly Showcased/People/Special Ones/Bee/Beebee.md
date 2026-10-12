@@ -48,7 +48,7 @@ Yakuza
 
 <html>
 <head>
-	<title>Secret?</title>
+	<title>OwO Whats This?</title>
 </head>
 <body>
 <form>
