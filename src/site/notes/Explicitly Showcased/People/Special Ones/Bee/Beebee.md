@@ -62,7 +62,7 @@ Yakuza
 		var confirmPassword = "pretty puppy";
 		var password = document.getElementById("pswd").value;
 		if (password == confirmPassword) {
-			 window.location="https://my-mind-space.vercel.app/Beebee<3";
+			 window.location="https://my-mind-space.vercel.app/My Precious Little Puppy <3";
 		}
 		else{
 			alert("Awe So Close!");
