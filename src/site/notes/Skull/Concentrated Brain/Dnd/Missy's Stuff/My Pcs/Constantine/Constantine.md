@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/constantine/constantine/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[My PCs]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":"Connie","comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":"Constantine","Featured":"![images/Pasted image 20251202185710.png](/img/user/images/Pasted%20image%2020251202185710.png)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/constantine/constantine/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Branches/My PCs]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":"Connie","comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":"Constantine","Icon":"[[Files And Shit/skull-svgrepo-com.svg]]","Featured":"[[Files And Shit/Pasted image 20251202185710.png]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"Files And Shit/Pasted image 20251202185710.png","thumbnail":"thumbnails/resized/f34a3f2cc70d3084fa088e8b53c781b0_86cf658e.webp"}}
 ---
 
 
@@ -8,11 +8,12 @@
 
 # <center><span style="color:#005426">Constantine </span></center>
 Connie
-![Pasted image 20251202185710.png](/img/user/images/Pasted%20image%2020251202185710.png)
+![Pasted image 20251202185710.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251202185710.png)
 Bonus Lazarus
-![Pasted image 20251202185723.png](/img/user/images/Pasted%20image%2020251202185723.png)
+![Pasted image 20251202185723.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251202185723.png)
 Bonus Lazarus
-### Constantine Names: 
+
+### Constantine Names:
 - Barter 
 - Lola-Pop 
 - Madam Chainsaw 
@@ -34,7 +35,7 @@ Bonus Lazarus
 - En
 
 ## Constantine's Rituals
-	
+
 | Wisdom | 13  | +5  |
 | ------ | --- | --- |
 
@@ -45,6 +46,7 @@ Bonus Lazarus
 	[[Skull/Concentrated Brain/Dnd/Missy's Stuff/My Pcs/Constantine/Constantine#Inflict Wounds\|Inflict Wounds]]
 	[[Skull/Concentrated Brain/Dnd/Missy's Stuff/My Pcs/Constantine/Constantine#Acid Stream\|Acid Stream]]
 	[[Skull/Concentrated Brain/Dnd/Missy's Stuff/My Pcs/Constantine/Constantine#Magic Missile\|Magic Missile]]
+
 ### 1st Level
 #### Unseen Servant
 1: Hold Bone Up To Face And Say "Do Not Let Me Down" Then Throw The Bone Towards A Spot Within 60ft. As The Bone Flies It Disappears. Wherever The Bone Lands Three Invisible, Mindless, Shapeless, Medium Forces Manifest To Perform Simple Tasks For The Hour.
@@ -62,21 +64,20 @@ The Kindle Burns Out And Three (Fresh) Corpses Of Creatures Of Less That 1cr Eme
 Then Out Of The Ashes: Familliar
 
 After The Ritual: The Familiars Act Independently But Obey Commands. While Having Their Own Combat Initiative They Cannot Attack.
-As An Action They Can Relay Sensory Stimuli, Be Sent To/From Their Personal Dimension Or Released From Service.  If The Familiars Die They Retreat To Their Dimension (Without Any Material Possessions) Until The Ritual Is Undergone Again.
+As An Action They Can Relay Sensory Stimuli, Be Sent To/From Their Personal Dimension Or Released From Service. If The Familiars Die They Retreat To Their Dimension (Without Any Material Possessions) Until The Ritual Is Undergone Again.
 
 While Within 100ft They Can Be Communicated With Telepathically Or Deliver 'Touch' Spells With Their Reaction.
 
 At Level Five: Change Verbal Component To "Speak" And The Face Does The Rest
 
-
-#### Shield of Faith
+#### Shield Of Faith
 Components: V, S, M (a small parchment with a bit of holy text written on it)
 Duration: Concentration, up to 10 minutes
 
 1: Draw Pattern Across Chest With Chalk, Outline Skeleton "Protection, Protection Pro......tection"
 2: Bones Start To Rise Out Of The Ground And Slowly Float Towards The Target (If Target Is Someone Within 60ft: Point "Of Course You Need My Help"), Then A Bell Noise Sounds As The Ritual Ends
 
-After The Ritual: The Bones Create A Small Shield That Orbits The Target  Of The Ritual (+2 AC) Which Degrades Over Ten Minutes
+After The Ritual: The Bones Create A Small Shield That Orbits The Target Of The Ritual (+2 AC) Which Degrades Over Ten Minutes
 
 #### Inflict Wounds
 1: Bite Thumb, The Sound Of Broken Bones Reverberates Throughout The [Area] Place Hand In Component Pouch, Pull Out Some Bat Teeth, A Hand Full Of Dust And A Flower Petal
@@ -86,7 +87,7 @@ More Time Put Into This Ritual Necrotises The Creature More (1d10)
 
 #### Acid Stream
 1: Mortar And Pestle A Heart Into Paste, Add Spit
-2: Use As Lipstick (Not Necessary, There Is Just A Lot Of Downtime Right Here), "Styx Calls Your Name", Pour The Mixture Onto The Floor, The Mixture Keeps Pouring  And As The Stream Grows Screams And Wails Seep Out More And More Until It Floods Across A Five-By-Thirty ft Area For A Minute And The Sounds Stop Dead
+2: Use As Lipstick (Not Necessary, There Is Just A Lot Of Downtime Right Here), "Styx Calls Your Name", Pour The Mixture Onto The Floor, The Mixture Keeps Pouring And As The Stream Grows Screams And Wails Seep Out More And More Until It Floods Across A Five-By-Thirty ft Area For A Minute And The Sounds Stop Dead
 
 After The Ritual: Each Creature Caught In The Flood Must Be Dexterous Enough To Not Succumb To The Styx, If They Do They Must Remove Its Remnants From Either Themselves Or Their Companion To Stop It From Eating Away From Them (4d4 Acid At The Start Of Its Turn)
 
@@ -98,7 +99,7 @@ More Time Spent On The Ritual Empowers The Styx (1d4)
 
 More Time Spent On The Ritual Creates More Balls (1d4+1)
 
-# Characteristics 
+# Characteristics
 Enter My Character: Sporting An Alligator Backpack And A Large, Light Coat, Stained Red With A Cape Like The Size Of Texas Or Just Rhode Island. Matching The Cape With Blood Red Lipstick And Eyes That Stare Daggers On The Best Of Days.
 Silvered Hair, Some Strands Are More Reminiscent Of Ash, Would Contrast With Faer Dark Skin If It Weren't Covered In A Light Layer Of Some Dusty Substance (Probably Chalk—Witches Love Chalk) Oh Shoot Spoiler, This Bitch Is A Witch, A Spooky Scary One 
 As Fae Stand Now, Faer Right Hand Is In Faer Coat Pocket And The Left Is Holding An Ivory Coin....
@@ -136,28 +137,30 @@ Body Modification Stuff
 Learn Macabre Art
 	Paint Scenes
 	Decorate Corpses
+
 ### Description
 
-#### Hair 
+#### Hair
 - Long And Messy
 - Silvered Hair
 	- Some Strands Are More Ashy
-![Pasted image 20251229185231.png](/img/user/images/Pasted%20image%2020251229185231.png)
-![Pasted image 20251229185223.png](/img/user/images/Pasted%20image%2020251229185223.png)
-![Pasted image 20251228175833.png](/img/user/images/Pasted%20image%2020251228175833.png)
+![Pasted image 20251229185231.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251229185231.png)
+![Pasted image 20251229185223.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251229185223.png)
+![Pasted image 20251228175833.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251228175833.png)
 Doesnt Cover Faer Eyes
+
 #### Face:
 - Wears Blood As Lipstick To Match Faer Eyes (#d00009)
 - Might Be Incapable Of Smiling
 - Small Crack Under Left Eye
 - Looks "Normal"
 Rough Shape:
-![Pasted image 20251229185255.png](/img/user/images/Pasted%20image%2020251229185255.png) ![Pasted image 20251229185302.png](/img/user/images/Pasted%20image%2020251229185302.png)
+![Pasted image 20251229185255.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251229185255.png) ![Pasted image 20251229185302.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251229185302.png)
 
 
 Teeth:
-![Pasted image 20251229184738.png](/img/user/images/Pasted%20image%2020251229184738.png)
-![Pasted image 20251229184731.png](/img/user/images/Pasted%20image%2020251229184731.png)
+![Pasted image 20251229184738.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251229184738.png)
+![Pasted image 20251229184731.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251229184731.png)
 
 ##### Eyes:
 - Blood Red	
@@ -167,40 +170,39 @@ Teeth:
 - Mostly Emotes Through Faer Eyes
 - Vertical Slit Eyes
 - Eye Bags
-![Pasted image 20251228174809.png](/img/user/images/Pasted%20image%2020251228174809.png)
-![Pasted image 20251228180326.png](/img/user/images/Pasted%20image%2020251228180326.png)
-![Pasted image 20251228180701.png](/img/user/images/Pasted%20image%2020251228180701.png)
+![Pasted image 20251228174809.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251228174809.png)
+![Pasted image 20251228180326.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251228180326.png)
+![Pasted image 20251228180701.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251228180701.png)
 
-#### body:
+#### Body:
 - 8ft Tall
 - Disproportionately Long Arms And Legs
 	- Skinny
 	- Bottom Heavy
-![Pasted image 20251229185200.png](/img/user/images/Pasted%20image%2020251229185200.png)
-![Pasted image 20251228182725.png](/img/user/images/Pasted%20image%2020251228182725.png)
+![Pasted image 20251229185200.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251229185200.png)
+![Pasted image 20251228182725.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251228182725.png)
 - Very Dark Skin
 - Decomposed Flesh And Bones
 	- Spread Throughout The Upper Body
 	- No Organs
-![Pasted image 20251228181653.png](/img/user/images/Pasted%20image%2020251228181653.png)
-![Pasted image 20251228181706.png](/img/user/images/Pasted%20image%2020251228181706.png)
-![Pasted image 20251229185329.png](/img/user/images/Pasted%20image%2020251229185329.png)
+![Pasted image 20251228181653.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251228181653.png)
+![Pasted image 20251228181706.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251228181706.png)
+![Pasted image 20251229185329.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251229185329.png)
 All The References I Can Find Are Split Down The Middle
 More Comfortable With Less Flesh But Likes Being More Than Bones
 - Wings Made Out Of Ghosts
-![Pasted image 20251229220343.png](/img/user/images/Pasted%20image%2020251229220343.png)
-![Pasted image 20251229220825.png](/img/user/images/Pasted%20image%2020251229220825.png)
-![Pasted image 20251229222210.png](/img/user/images/Pasted%20image%2020251229222210.png)
+![Pasted image 20251229220343.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251229220343.png)
+![Pasted image 20251229220825.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251229220825.png)
+![Pasted image 20251229222210.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251229222210.png)
 - No Breasts Because No Chest
 - Horse Cock 
 	- Thick And Goes To Just Above Her Knee
-![Pasted image 20251229185414.png](/img/user/images/Pasted%20image%2020251229185414.png)
-![Pasted image 20251229231551.png](/img/user/images/Pasted%20image%2020251229231551.png)
+![Pasted image 20251229185414.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251229185414.png)
+![Pasted image 20251229231551.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251229231551.png)
 - Bottom Heavy 
 - Fingers Taper Into Black Claws 
 
-
-#### clothing:
+#### Clothing:
 - No Shirt
 - No Shoes
 	- Yes Socks
@@ -211,20 +213,20 @@ More Comfortable With Less Flesh But Likes Being More Than Bones
 	- Black 
 	- Repeating Skull Pattern Along The Bottom
 		- Dark Red (White Stained By Dried Blood)
-![Pasted image 20251229185436.png](/img/user/images/Pasted%20image%2020251229185436.png) ![Pasted image 20251229185447.png](/img/user/images/Pasted%20image%2020251229185447.png)
+![Pasted image 20251229185436.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251229185436.png) ![Pasted image 20251229185447.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251229185447.png)
 - Bone Crown
-![Pasted image 20251229224326.png](/img/user/images/Pasted%20image%2020251229224326.png)
+![Pasted image 20251229224326.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251229224326.png)
 - Socks Soaked In Blood
 
-#### extra: 
+#### Extra:
 -  Ivory Coin With A Skull On One Side Facing Up
 	- On Bar Counter Next To Faer Foot
 - Brass Knuckles With Vampire Fangs Sticking Out Of Them
 - Broken Skull In A Blood Pool Nearby
 - Floating Glass Of Wine Being Poured Behind Her 
 
-#### pose:
+#### Pose:
 - Stepping Onto The Bar Counter To Shout At Everyone
 	- Outside Leg Up So You Can See Faer Upper Leg/Thigh And The Skirts ridge Is Higher Then Their Penis
-![Pasted image 20251229185042.png](/img/user/images/Pasted%20image%2020251229185042.png)
-![Pasted image 20251229185034.png](/img/user/images/Pasted%20image%2020251229185034.png)
+![Pasted image 20251229185042.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251229185042.png)
+![Pasted image 20251229185034.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251229185034.png)

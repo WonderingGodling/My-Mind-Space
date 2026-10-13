@@ -1,9 +1,9 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/media/books-i-have-read/house-of-leaves/hol-mega-note/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"down":null,"Type":null,"up":null,"Yesterday":null,"Tomorrow":null,"aliases":["House Of Leaves","hol"],"Next":null,"Previous":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"![images/IMG-20240120-WA0011.jpeg](/img/user/images/IMG-20240120-WA0011.jpeg)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/media/books-i-have-read/house-of-leaves/hol-mega-note/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"down":null,"Type":null,"up":null,"Yesterday":null,"Tomorrow":null,"aliases":["House Of Leaves","hol"],"Next":null,"Previous":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"[[Files And Shit/IMG-20240120-WA0011.jpeg]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"Files And Shit/IMG-20240120-WA0011.jpeg","thumbnail":"thumbnails/resized/3675c9d047867a9fdf80723a872b0cf5_86cf658e.webp"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#013f01">House Of Leaves</span></center>
 
@@ -12,7 +12,7 @@
 I think it's pretty safe to assume. There's no lab sophisticated enough yet to synthesise the kind of chemicals I need.
 
 
-I'd been involved thrills of looking for an apartment after a little difficulty with a landlord who woke up one morning convinced he was Charles De Gaulle. I was so stunned by this announcement that before I could think twice I'd already told him how in my humble estimation. He did not at all resemble an airport, though the thought of A 757 landing on him was not at all disagreeable.  I was promptly evicted.
+I'd been involved thrills of looking for an apartment after a little difficulty with a landlord who woke up one morning convinced he was Charles De Gaulle. I was so stunned by this announcement that before I could think twice I'd already told him how in my humble estimation. He did not at all resemble an airport, though the thought of A 757 landing on him was not at all disagreeable. I was promptly evicted.
 He just like me for real.
 
 
@@ -104,14 +104,14 @@ Perhaps at that moment I was even thinking about what
 the two would look like in a cat fight.
 
 Last Page
-![IMG-20240120-WA0011.jpeg](/img/user/images/IMG-20240120-WA0011.jpeg)
+![IMG-20240120-WA0011.jpeg](/img/user/Files%20And%20Shit/IMG-20240120-WA0011.jpeg)
 <center><sub>Done :)</sub></center>
 
 
 <script src="https://utteranc.es/client.js"
-        repo="WonderingGodling/My-Mind-Space"
-        issue-term="title"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
+		repo="WonderingGodling/My-Mind-Space"
+		issue-term="title"
+		theme="preferred-color-scheme"
+		crossorigin="anonymous"
+		async>
 </script>

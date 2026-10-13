@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/projects/hamilton/cabinet-battle-1/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/projects/hamilton/cabinet-battle-1/","noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
+
 
 [WASHINGTON]
 Ladies and gentlemen, you coulda been anywhere in the world tonight, but you’re here with us in New York City. Are you ready for a cabinet meeting???

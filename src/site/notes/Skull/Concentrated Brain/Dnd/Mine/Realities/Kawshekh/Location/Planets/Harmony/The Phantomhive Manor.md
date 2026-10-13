@@ -1,6 +1,8 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/the-phantomhive-manor/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/the-phantomhive-manor/","noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
+
 
 
 # The Phantomhive Manor
@@ -9,8 +11,8 @@ In the depths of a sparse forest, a warm iron gate sticks out of the twinkling b
 ## Layout
 The double door entrance leads to a large foyer 
 
-### Foyer 
-The foyer has a fountain in the middle. The fountain has a deep bowl of ice blue water and five metres above the centre,  a black orb spouting the water out into the room. The water streams weave around the room and converge back into the bowl.
+### Foyer
+The foyer has a fountain in the middle. The fountain has a deep bowl of ice blue water and five metres above the centre, a black orb spouting the water out into the room. The water streams weave around the room and converge back into the bowl.
 
 The foyer has a red carpet which leads around the room, circling the fountain, leading to the exits and traveling up the stairs. Underneath the carpet is a bright white marble in a hash pattern.
 
