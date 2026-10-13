@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/uni/3/6-ab-020-honours-project/honours-project/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"278·10·2026 16:55 (Monday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
+{"Publish":true,"permalink":"/uni/3/6-ab-020-honours-project/honours-project/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"286·2026 (Tuesday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"278·2026 (Monday)","Date Modified":"286·2026 (Tuesday)"}}
 ---
 
 
@@ -66,8 +66,26 @@ TSA, [TSB](https://www.fishersci.com/store/msds?partNumber=R455052&productDescri
 2% [NaOH](https://www.fishersci.com/store/msds?partNumber=BP359500&productDescription=SODIUM+HYDROXIDE+500G&vendorId=VN00033897&countryCode=US&language=en)
 
 ## PRODUCTION of BACTERIAL CELLULOSE
-### 10:00 Tuesday 6th October Make And Sterilise HS Medium
+### Wednesday 7th 11:15 Make And Sterilise HS Medium
 Plan Outline: Make And Sterilise 100ml of HS medium (in 250 ml conical flask) to be inoculated with highly mucoid colony of G. xylinus and incubated for 72hrs on the orbital shaker at 30oC
+
+- Used A Measuring Cylinder To Measure Out 1200ml of deionised water
+	- 1000 + 200
+- That 1200 went into a container to be stirred (magnetic stirrer)
+- The H.S medium is made with glucose (20g/l), bacto peptone (5g/l), yeast extract (5g/l), ciric acid (1.15g/l), disodium phosphate (2.7g/l)
+	- Since the final volume is supposed to be 1.5l (1500ml) that means it requires
+		- Glucose: 30g
+		- Bacto peptone: 7.5g
+		- Yeast extract: 7.5g
+		- Citric acid: 1.73g
+			- 1.8g was added due to measuring complications
+		- Disodium phosphate 4.05g
+			- 4.2 g was added due to measuring complications
+- The components were added while the stirrer was on and remained on until the mixture was visibly homogenous
+- The magnetic stirrer was then removed and 300ml of deionised water was added
+	- later processes revealed that the total volume was between 1.6l and 1.7l
+- The pH was measured as 6.4 so citric acid was added dropwise to get it to 6
+- 240ml of the medium solution was then poured into six (6) 300ml conical flasks labled with the date, my initials and the flask number "7/10/26 H.S By DW F1-6"
 ### Wednesday 14th 11:15 Inoculating Starter Cultures For BC Production
 Plan Outline: PREPARATION OF BACTERIAL CELLULOSE STATIC MICROBIAL CULTURES (5 x 500 ml conical flasks each)
 - Transfer 10 ml of the starter culture* with Gluconacetobacter xylinus into sterile flasks (500 ml flasks) containing 240 ml sterile HS medium.  
@@ -120,8 +138,10 @@ Cover sheet
 #### Discussion
 #### Conclusion
 #### References
+#### Bibliography
+
 #### Appendix/Supplementary Material
-#### Press Release
+
 
 
 ## Presentation?

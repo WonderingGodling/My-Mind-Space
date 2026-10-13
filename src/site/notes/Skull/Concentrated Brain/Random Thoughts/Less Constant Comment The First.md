@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/less-constant-comment-the-first/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 4:21 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":"[[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)]]","aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"[[Files And Shit/thumb-1920-944979.png]]","Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 4:21 (Sunday)","feature":"Files And Shit/thumb-1920-944979.png","thumbnail":"thumbnails/resized/39b939304458efe560b614dca50fcfa4_86cf658e.webp"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/less-constant-comment-the-first/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"286·2026 (Tuesday)","dg-note-properties":{"Type":null,"up":"[[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":"[[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)]]","aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"[[Files And Shit/thumb-1920-944979.png]]","Date Created":"200·2026 (Sunday)","Date Modified":"286·2026 (Tuesday)","feature":"Files And Shit/thumb-1920-944979.png","thumbnail":"thumbnails/resized/39b939304458efe560b614dca50fcfa4_86cf658e.webp"}}
 ---
 
 
@@ -33,3 +33,47 @@ Because Cows Are So Important ^^
 
 
 [[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)\|Wait "Previous"?]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+[[[Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/286·2026 (Tuesday).md\|286·2026 (Tuesday)]]]

@@ -1,13 +1,13 @@
 ---
-{"Publish":true,"permalink":"/uni/2/5-bm-061-evolution-and-development/evo-devo-essay/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"![Uni/2/5BM061 Evolution & Development/Files And Shit/Pasted image 20260531185113.png](/img/user/Uni/2/5BM061%20Evolution%20&%20Development/Files%20And%20Shit/Pasted%20image%2020260531185113.png)"}}
+{"Publish":true,"permalink":"/uni/2/5-bm-061-evolution-and-development/evo-devo-essay/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"![[Uni/2/5BM061 Evolution & Development/Files And Shit/Pasted image 20260531185113.png]]","Date Created":"278·10·2026 16:55 (Monday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Uni/2/5BM061 Evolution & Development/Files And Shit/Pasted image 20260531185113.png","thumbnail":"thumbnails/resized/685e0f8f0dd8543c66f5bb2c987d04ad_86cf658e.webp"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
  float: right;
 }
 </style>
-
 
 # <center><span style="color:#FEDCBA">Sexual Coercion</span></center>
 
@@ -36,7 +36,7 @@
 Some animals (usually the males of the species) have physical, behavioural or
 physiological methods of mating with reluctant members of the opposite sex (Sentenská, Šedo and Pekár, 2020).
 Exchange of services, and similar social benefits. (McFarland and Majolo, 2011). Defensive measures cause Intrasexual competition supposing more reproductive fitness (Pizzari, 2001) (Grayson et al., 2012). Bypasses luring and pursiading. (Sentenská, Šedo and Pekár, 2020)
-Male ground running spiders bite and bind females allowing them  to mate for longer, increasing their chance of reproduction. (Sentenská, Šedo and Pekár, 2020). 
+Male ground running spiders bite and bind females allowing them to mate for longer, increasing their chance of reproduction. (Sentenská, Šedo and Pekár, 2020). 
 The female ground running spiders lose hunting efficacy (Sentenská, Šedo and Pekár, 2020). Repeated aggression and the loss of social benefits (McFarland and Majolo, 2011). 
 
 (McFarland and Majolo, 2011)
@@ -45,7 +45,7 @@ The female ground running spiders lose hunting efficacy (Sentenská, Šedo and P
 - [x] Shortly after conflict, those who were conflicting are more likely to be on the recieving end of aggressive behaviour, their social status is uncertain at that point
 - [x] reconciliation is a behaviour shown by the victim in Barbary macaques, often reduces the risk of being the target of aggression again and makes their social status less erratic
 	- [x] Agressor sometimes displays grooming coercion, if they dont recieve the service they desire they will repeat their agressive action
-	- [x] relationship repair is a valued service with certain relashionships being treated as more important to individuals  (in terms of how benefitial the relationship is)
+	- [x] relationship repair is a valued service with certain relashionships being treated as more important to individuals (in terms of how benefitial the relationship is)
 
 
 (Sentenská, Šedo and Pekár, 2020)
@@ -97,7 +97,7 @@ The female ground running spiders lose hunting efficacy (Sentenská, Šedo and P
 	- female resistance/solicitation
 	- female's distress call 
 	- [x] Female red junglefowl, when mated with, let out a sound which directs competitive male attention 
-		- [ ] makking it more likely that a  lower-ranking male will be replaced by a higher-ranking one
+		- [ ] makking it more likely that a lower-ranking male will be replaced by a higher-ranking one
 			- [ ] Females fowl manipulate male behaviour
 			- [ ] this could be seen as higher-ranking males taking advantage of females by being the better choice
 
@@ -163,7 +163,6 @@ Mitoyen, C., Quigley, C. and Fusani, L. (2019). Evolution and function of multim
 }
 </style>
 
-
 # <center><span style="color:#FEDCBA">Sexual Coercion</span></center>
 
 1500 Words
@@ -175,7 +174,7 @@ physiological methods of mating with reluctant members of the opposite sex (Sent
 -  What are the benefits to the animals engaging in these sexually coercive behaviours? 
 Exchange of services, and similar social benefits. (McFarland and Majolo, 2011). Defensive measures cause Intrasexual competition supposing more reproductive fitness (Pizzari, 2001) (Grayson et al., 2012). Bypasses luring and pursiading. (Sentenská, Šedo and Pekár, 2020)
  - discuss how sexually coercive behaviours can improve an organisms’ reproductive fitness
-Male ground running spiders bite and bind females allowing them  to mate for longer, increasing their chance of reproduction. (Sentenská, Šedo and Pekár, 2020). <span style="color:rgb(75, 236, 19)">[Find More Examples]</span>
+Male ground running spiders bite and bind females allowing them to mate for longer, increasing their chance of reproduction. (Sentenská, Šedo and Pekár, 2020). <span style="color:rgb(75, 236, 19)">[Find More Examples]</span>
 - What are the costs to the recipient of those behaviours?
 The female ground running spiders lose hunting efficacy (Sentenská, Šedo and Pekár, 2020). Repeated aggression and the loss of social benefits (McFarland and Majolo, 2011). <span style="color:rgb(75, 236, 19)">[Find More Examples]</span>
 - <span style="color:rgb(75, 236, 19)">Sexually coercive behaviours in different animal taxa</span>
@@ -198,7 +197,7 @@ The female ground running spiders lose hunting efficacy (Sentenská, Šedo and P
 - [ ] Shortly after conflict, those who were conflicting are more likely to be on the recieving end of aggressive behaviour, their social status is uncertain at that point
 - [ ] reconciliation is a behaviour shown by the victim in Barbary macaques, often reduces the risk of being the target of aggression again and makes their social status less erratic
 	- [ ] Agressor sometimes displays grooming coercion, if they dont recieve the service they desire they will repeat their agressive action
-	- [ ] relationship repair is a valued service with certain relashionships being treated as more important to individuals  (in terms of how benefitial the relationship is)
+	- [ ] relationship repair is a valued service with certain relashionships being treated as more important to individuals (in terms of how benefitial the relationship is)
 
 
 (Sentenská, Šedo and Pekár, 2020)
@@ -243,7 +242,7 @@ The female ground running spiders lose hunting efficacy (Sentenská, Šedo and P
 	- The males social status
 	- female resistance/solicitation
 	- female's distress call 
-	- [ ] Female red junglefowl, when mated with, let out a sound which directs competitive male attention makking it more likely that a  lower-ranking male will be replaced by a higher-ranking one
+	- [ ] Female red junglefowl, when mated with, let out a sound which directs competitive male attention makking it more likely that a lower-ranking male will be replaced by a higher-ranking one
 		- [ ] Females fowl manipulate male behaviour
 
 (Gage et al., 2002)
@@ -280,7 +279,6 @@ CLUTTON-BROCK, T.H. and PARKER, G.A. (1995). Sexual coercion in animal societies
 }
 </style>
 
-
 # <center><span style="color:#FEDCBA">Sexual Coercion</span></center>
 
 1500 Words
@@ -291,7 +289,7 @@ Some animals (usually the males of the species) have techniques or strategies to
 -  What are the benefits to the animals engaging in these sexually coercive behaviours? 
 Exchange of services, and similar social benefits. (McFarland and Majolo, 2011). Defensive measures cause Intrasexual competition supposing more reproductive fitness (Pizzari, 2001) (Grayson et al., 2012)
  - discuss how sexually coercive behaviours can improve an organisms’ reproductive fitness
-Male ground running spiders bite and bind females allowing them  to mate for longer, increasing their chance of reproduction. (Sentenská, Šedo and Pekár, 2020). <span style="color:rgb(75, 236, 19)">[Find More Examples]</span>
+Male ground running spiders bite and bind females allowing them to mate for longer, increasing their chance of reproduction. (Sentenská, Šedo and Pekár, 2020). <span style="color:rgb(75, 236, 19)">[Find More Examples]</span>
 - What are the costs to the recipient of those behaviours?
 The female ground running spiders lose hunting efficacy (Sentenská, Šedo and Pekár, 2020). <span style="color:rgb(75, 236, 19)">[Find More Examples]</span>
 - <span style="color:rgb(75, 236, 19)">Sexually coercive behaviours in different animal taxa</span>
@@ -342,7 +340,7 @@ The female ground running spiders lose hunting efficacy (Sentenská, Šedo and P
 	- The males social status
 	- female resistance/solicitation
 	- female's distress call 
-	- [ ] Female red junglefowl, when mated with, let out a sound which directs competitive male attention makking it more likely that a  lower-ranking male will be replaced by a higher-ranking one
+	- [ ] Female red junglefowl, when mated with, let out a sound which directs competitive male attention makking it more likely that a lower-ranking male will be replaced by a higher-ranking one
 		- [ ] Females fowl manipulate male behaviour
 
 (Gage et al., 2002)

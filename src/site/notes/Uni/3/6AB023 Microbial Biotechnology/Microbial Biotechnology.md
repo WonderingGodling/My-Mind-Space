@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"Permalink":"Micro-Biotech","permalink":"/Micro-Biotech/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":["[[Branches/Real UnI Stuff]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Microbial Biotechnology"],"Title":"Microbial Biotechnology","comments":true,"tags":["Tagless"],"Feature":"Pasted image 20260930102900.png","Thumbnail":"thumbnails/resized/f0a50197617e9f395a5c079c55b031d0_86cf658e.webp","Featured":"![[Pasted image 20260930102900.png]]","Date Created":"278·10·2026 16:55 (Monday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Pasted image 20260930102900.png","thumbnail":"thumbnails/resized/f0a50197617e9f395a5c079c55b031d0_86cf658e.webp"}}
+{"Publish":true,"Permalink":"Micro-Biotech","permalink":"/Micro-Biotech/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":["[[Branches/Real UnI Stuff]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Microbial Biotechnology"],"Title":"Microbial Biotechnology","comments":true,"tags":["Tagless"],"Feature":"Files And Shit/Pasted image 20260930102900.png","Thumbnail":"thumbnails/resized/f0a50197617e9f395a5c079c55b031d0_86cf658e.webp","Featured":"![[Files And Shit/Pasted image 20260930102900.png]]","Date Created":"278·10·2026 16:55 (Monday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Files And Shit/Pasted image 20260930102900.png","thumbnail":"thumbnails/resized/f0a50197617e9f395a5c079c55b031d0_86cf658e.webp"}}
 ---
 
 
@@ -10,7 +10,7 @@
 </style>
 
 # <center><span style="color:#FEDCBA">Microbial Biotechnology</span></center>
-![Pasted image 20260930102900.png](/img/user/Pasted%20image%2020260930102900.png)
+![Pasted image 20260930102900.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260930102900.png)
 
 ## Week 1 Biotechnology?
 The creation of products from raw materials with the aid of living organisms
@@ -81,7 +81,7 @@ mindmap
 
 ### Nutritional And Cultural Requirements For The Growth Of Microorganisms
 
-![Pasted image 20260925094310.png](/img/user/Pasted%20image%2020260925094310.png)
+![Pasted image 20260925094310.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260925094310.png)
 
 **Product:** commercially valuable resultant
 Product Examples: amino acids to improve food taste, quality or preservation, enzymes, vitamins or pigments, hydrogen
@@ -276,7 +276,7 @@ Only a limited amount of the carbon source can be used which limits generation o
 
 ##### Fed Batch Fermentation
 
-![Pasted image 20260930093054.png](/img/user/Pasted%20image%2020260930093054.png)
+![Pasted image 20260930093054.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260930093054.png)
 DOT: dissolved oxygen tension
 
 ```mermaid
@@ -313,7 +313,7 @@ the design of a fermenter to carry out a fermentation in an efficient and predet
 ##### Stirred Tank Reactor (STR) Or Stirred Tank Fermenter (STF)
 STR has mechanically moving impellers within baffled cylindrical vessel Whereas The STF Has No Moving Internals
 
-![Pasted image 20260930112257.png\|500](/img/user/Pasted%20image%2020260930112257.png)
+![Pasted image 20260930112257.png\|500](/img/user/Files%20And%20Shit/Pasted%20image%2020260930112257.png)
 
 ![Continuous-flow-stirred-tank-reactor1.png\|500](/img/user/Uni/3/6AB023%20Microbial%20Biotechnology/Continuous-flow-stirred-tank-reactor1.png)
 A schematic of a continuous flow stirred tank reactor
@@ -327,9 +327,9 @@ Fungal morphology observed in free-cell stirred-tank (STF) and immobilized-cell 
 | - fungal mycelia grew everywhere<br>                                                          | - all fungal mycelia were attached to the rotating fibrous matrix, forming a homogeneous biofilm,<br> |
 | - large clumps of biomass was attached to the agitation shaft, pH and DO probes, reactor wall | - fermentation broth was clear.                                                                       |
 
-![Pasted image 20260925103758.png](/img/user/Pasted%20image%2020260925103758.png)
+![Pasted image 20260925103758.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260925103758.png)
 
-![Pasted image 20260925103808.png](/img/user/Pasted%20image%2020260925103808.png)
+![Pasted image 20260925103808.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260925103808.png)
 
 ##### Z®RP Bioreactor
 
@@ -348,7 +348,7 @@ mindmap
 Small Fermenters Produce Less Waste
 
 ###### Z®RP Implant Blanks
-![Pasted image 20260925103851.png](/img/user/Pasted%20image%2020260925103851.png)
+![Pasted image 20260925103851.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260925103851.png)
 A - SEM capture of chondrocytes in ECM, long-term culture on Sponceram® HA surface (5000-times magnification)- skin-like tissue
 B- Cartilage layer, grown in vitro on Sponceram® HA cell carrier (courtesy of TU Hamburg-Harburg) - bone-like
 
@@ -376,11 +376,11 @@ mindmap
 		liquid begins to rise again
 ```
 
-![Pasted image 20260925104101.png](/img/user/Pasted%20image%2020260925104101.png)
+![Pasted image 20260925104101.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260925104101.png)
 a) draft-tube configuration, b) a split cylinder device, c) an external loop system
 
 ##### Photobioreactors
-![Bioreaktor_quer2.jpg](/img/user/Bioreaktor_quer2.jpg)
+![Bioreaktor_quer2.jpg](/img/user/Files%20And%20Shit/Bioreaktor_quer2.jpg)
 
 ###### Scale-up Of Oldenlandia Affinis Cultures In Air-lift Photobioreactors
 - Plants are source of a large number of useful pharmaceuticals.
@@ -457,7 +457,7 @@ Restrictions:
 - optimal temperature
 
 #### Biosensor In Monitoring And Control
-![Pasted image 20260930095701.png](/img/user/Pasted%20image%2020260930095701.png)
+![Pasted image 20260930095701.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260930095701.png)
 
 ```mermaid
 flowchart TB
@@ -484,8 +484,8 @@ flowchart TB
 - The resulting current is proportional to the concentration of the substrate
 
 #### Penicillin Biosensor
-![Pasted image 20260930095818.png](/img/user/Pasted%20image%2020260930095818.png)
-![Pasted image 20260930095831.png](/img/user/Pasted%20image%2020260930095831.png)
+![Pasted image 20260930095818.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260930095818.png)
+![Pasted image 20260930095831.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260930095831.png)
 
 ### Transducer
 A physical element which converts the stimulus generated by the bioactive layer to an electrical signal.
@@ -568,7 +568,7 @@ mindmap
 ```
 
 ### Foaming
-![foamtakaawa-150x150.jpg](/img/user/foamtakaawa-150x150.jpg)
+![foamtakaawa-150x150.jpg](/img/user/Files%20And%20Shit/foamtakaawa-150x150.jpg)
  Foaming is caused when:
 - microbial cultures excrete high levels of proteins and/or emulsifiers
 - high aeration rates are used
@@ -578,7 +578,7 @@ Excess foaming causes loss of culture volume and may result in culture contamina
 Foaming is controlled by use of a foam-breaker and/or the addition of anti-foaming agents (silicon-based reagents)
 
 #### SPINNING CONES AS FOAM CONTROLLERS
-![foambeater-150x150.jpg](/img/user/foambeater-150x150.jpg)
+![foambeater-150x150.jpg](/img/user/Files%20And%20Shit/foambeater-150x150.jpg)
 
 ## Week 2 Biodegradable Polymers.
 
@@ -621,7 +621,7 @@ Classification by susceptibility to microorganism/enzymatic attack:
 ### Polymers And Plastics
 Plastics are materials formulated and prepared for use  
 The main components of plastics are the polymers with additives  
-![Pasted image 20261002000902.png](/img/user/Pasted%20image%2020261002000902.png)
+![Pasted image 20261002000902.png](/img/user/Files%20And%20Shit/Pasted%20image%2020261002000902.png)
 
 ### Biopolymers & Microbes
 
@@ -669,27 +669,27 @@ Identification (FTIR, NMR)
 Molecular weight (GPC)
 
 #### Yield
-![Pasted image 20261002002255.png](/img/user/Pasted%20image%2020261002002255.png)
+![Pasted image 20261002002255.png](/img/user/Files%20And%20Shit/Pasted%20image%2020261002002255.png)
 
 #### XRD
-![Pasted image 20261002002338.png](/img/user/Pasted%20image%2020261002002338.png)
+![Pasted image 20261002002338.png](/img/user/Files%20And%20Shit/Pasted%20image%2020261002002338.png)
 
 #### Molecular Weight
 
 #### Medium E
-![Pasted image 20261002002437.png](/img/user/Pasted%20image%2020261002002437.png)
+![Pasted image 20261002002437.png](/img/user/Files%20And%20Shit/Pasted%20image%2020261002002437.png)
 
 #### Medium GS
-![Pasted image 20261002002447.png](/img/user/Pasted%20image%2020261002002447.png)
+![Pasted image 20261002002447.png](/img/user/Files%20And%20Shit/Pasted%20image%2020261002002447.png)
 
 #### Hemolytic Activity
-![Pasted image 20261002002524.png](/img/user/Pasted%20image%2020261002002524.png) 
+![Pasted image 20261002002524.png](/img/user/Files%20And%20Shit/Pasted%20image%2020261002002524.png) 
 
 #### Lecithinase Activity
-![Pasted image 20261002002601.png](/img/user/Pasted%20image%2020261002002601.png)
+![Pasted image 20261002002601.png](/img/user/Files%20And%20Shit/Pasted%20image%2020261002002601.png)
 
 #### PCR Of Genes Encoding Toxins
-![Pasted image 20261002002635.png](/img/user/Pasted%20image%2020261002002635.png)
+![Pasted image 20261002002635.png](/img/user/Files%20And%20Shit/Pasted%20image%2020261002002635.png)
 
 #### Probiotics
 Live microorganisms that when administered in adequate amounts confer a health benefit on the host
@@ -700,14 +700,14 @@ Storage
 Ingestion  
 
 #### Viability Of B. Breve In Simulated Gastric Juice (Free Cells And Polymer Protected Cells)
-![Pasted image 20261002002813.png](/img/user/Pasted%20image%2020261002002813.png)
+![Pasted image 20261002002813.png](/img/user/Files%20And%20Shit/Pasted%20image%2020261002002813.png)
 
 ### Cancer Therapies
 
 Use of oncolytic adenovirus coated with γ- PGA for effective and safe cancer therapy.
 Smart Adenovirus Nano complexes as a Therapeutic Vehicle
 
-![Pasted image 20261002003029.png](/img/user/Pasted%20image%2020261002003029.png)
+![Pasted image 20261002003029.png](/img/user/Files%20And%20Shit/Pasted%20image%2020261002003029.png)
 
 #### Oncolytic Ad
 - preferentially infects and kills cancer cells 
@@ -729,7 +729,7 @@ Encapsulation efficiency 93%
 (Proof That The Particle Can Get Into The Cell)
 - Visible clear attachment and/or internalisation of NPs  
 - PGA can boost cellular uptake possibly through a specific receptor-mediated pathwayFITC-labelled γ-PGA-chitosan NPs  
-![Pasted image 20261002003320.png](/img/user/Pasted%20image%2020261002003320.png)
+![Pasted image 20261002003320.png](/img/user/Files%20And%20Shit/Pasted%20image%2020261002003320.png)
 
 ###### Sustainability
 Needs To Be Cheap To Become Commercial/Viable
@@ -789,7 +789,7 @@ Alzheimer's disease, Parkinson's diseases, amyotrophic lateral sclerosis, dement
 - Are produced bacteria as a carbon and energy storage material  
 - Synthesized as intracellular granules  
 - Accumulated as a result of nutrient limitation in the presence of excess supply of carbon source 
-![Pasted image 20261002004029.png](/img/user/Pasted%20image%2020261002004029.png)
+![Pasted image 20261002004029.png](/img/user/Files%20And%20Shit/Pasted%20image%2020261002004029.png)
 
 #### Bacterial PHB
 - Homopolimer -A-A-A-A-A-  
@@ -797,12 +797,12 @@ Alzheimer's disease, Parkinson's diseases, amyotrophic lateral sclerosis, dement
 - High molecular weight and melting point (~180 oC)  
 - Biodegradable and non-toxic  
 - BUT rather brittle  
-![Pasted image 20261002004115.png](/img/user/Pasted%20image%2020261002004115.png)
+![Pasted image 20261002004115.png](/img/user/Files%20And%20Shit/Pasted%20image%2020261002004115.png)
 
 Copolymers -A-A-A-B-B-A-C-  
 - different monomers, almost always 3-hydroxy fatty acids  
 - BUT may also contain 4-, 5- and 6- hydroxy fatty acids or monomers with aromatic rings  
-![Pasted image 20261002004209.png](/img/user/Pasted%20image%2020261002004209.png)
+![Pasted image 20261002004209.png](/img/user/Files%20And%20Shit/Pasted%20image%2020261002004209.png)
 - Mixed carbon sources needed
 
 ##### Biomaterial Properties
@@ -845,7 +845,7 @@ reduce production costs significantly…’
 #### Electrospun Fibres Of Polyhydroxybutyrate Synthesized By Ralstonia Eutropha From Different Carbon Sources
 
 
-![Pasted image 20261002004713.png](/img/user/Pasted%20image%2020261002004713.png)
+![Pasted image 20261002004713.png](/img/user/Files%20And%20Shit/Pasted%20image%2020261002004713.png)
 
 #### PHA As Biomaterials
 - biomedical/pharmaceutical areas have been approved by FDA in 2007  
@@ -865,7 +865,7 @@ MTT assay with HEK293 shows the horizontally printed specimen tended to produce 
 - Surgical stitching and coronary stents  
 - Time release capsules  
 
-![Pasted image 20261002004902.png](/img/user/Pasted%20image%2020261002004902.png)
+![Pasted image 20261002004902.png](/img/user/Files%20And%20Shit/Pasted%20image%2020261002004902.png)
 
 #### Bacterial Cellulose
 - Bacterial cellulose (BC) is a natural biopolymer synthesized in abundance by different strains of bacteria  
@@ -885,11 +885,11 @@ MTT assay with HEK293 shows the horizontally printed specimen tended to produce 
 - Ultra fine network
 
 ##### Why It Is Produced
-![Pasted image 20261002004951.png](/img/user/Pasted%20image%2020261002004951.png)
+![Pasted image 20261002004951.png](/img/user/Files%20And%20Shit/Pasted%20image%2020261002004951.png)
 Virulence
 
 ##### Where Has It Been Applied?
-![Pasted image 20261002005015.png](/img/user/Pasted%20image%2020261002005015.png)
+![Pasted image 20261002005015.png](/img/user/Files%20And%20Shit/Pasted%20image%2020261002005015.png)
 
 ## Week 3 MONOCLONAL ANTIBODIES
 
@@ -1520,4 +1520,4 @@ Sandlie I. Nat Rev Drug Discov. 2003 Jan;2(1):52-62.
 ## Annotations
 
 Phylogenetic tree of bacteria and archaea, highlighting those that carry out fermentation
-![Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png](/img/user/Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png)
+![Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png](/img/user/Files%20And%20Shit/Phylogenetic_tree_of_bacteria_and_archaea,_highlighting_those_that_carry_out_fermentation.png)

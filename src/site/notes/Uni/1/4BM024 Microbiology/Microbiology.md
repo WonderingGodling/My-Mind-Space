@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"permalink":"/uni/1/4-bm-024-microbiology/microbiology/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Uni Db.base]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":"Microbiology","comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":"Microbiology stuff","Featured":"![Files And Shit/thumbnails/external/cb6ce8101e2e55f09212c28072247d46.jpg](/img/user/Files%20And%20Shit/thumbnails/external/cb6ce8101e2e55f09212c28072247d46.jpg)"}}
+{"Publish":true,"permalink":"/uni/1/4-bm-024-microbiology/microbiology/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Uni Db.base]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":"Microbiology","comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":"Microbiology stuff","Featured":"[[Files And Shit/external/cb6ce8101e2e55f09212c28072247d46.jpg]]","Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"thumbnails/external/cb6ce8101e2e55f09212c28072247d46.jpg","thumbnail":"thumbnails/resized/ad47fd835e4d8b43554678bef445c927_86cf658e.webp"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important} 
 img{
@@ -8,11 +9,9 @@ img{
 }
 h1, h2, h3, h4, h5, h6
 {
-    color: #4BF024;
+	color: #4BF024;
 }
 </style>
-
-
 
 # <h1> <center>Microbiology</center> </h1>
 
@@ -26,30 +25,28 @@ h1, h2, h3, h4, h5, h6
 [[Uni/1/4BM024 Microbiology/Microbiology#Week 8 The Structure of viruses\|The Structure of viruses]] 
 [[Uni/1/4BM024 Microbiology/Microbiology#Definitions\|Definitions]]</sub>
 
-## week 2 Classification, structure and function of microbes
+## Week 2 Classification, Structure And Function Of Microbes
 
-### Classification of Cellular microbes
+### Classification Of Cellular Microbes
 ![](https://i.imgur.com/sXN61XY.jpeg)
 
-
-
 #### Three-Domain System
-Proposed by Woese and Fox in 1977 and based on the [[Uni/1/4BM024 Microbiology/Microbiology#phylogenetic tree\|phylogenetic tree]] using the 16[[Uni/1/4BM024 Microbiology/Microbiology#Svedberg (S)\|s]]  [[Uni/1/4BM024 Microbiology/Microbiology#ribosomal RNA (rRNA)\|rRNA]] 
- [[Uni/1/4BM024 Microbiology/Microbiology#The Bacteria (eubacteria)\|Bacteria]],  [[Uni/1/4BM024 Microbiology/Microbiology#The Archaea (archaebacteria)\|Archaea]], [[Uni/1/4BM024 Microbiology/Microbiology#The Eukarya (eukaryotes)\|Eukarya]]
+Proposed by Woese and Fox in 1977 and based on the [[Uni/1/4BM024 Microbiology/Microbiology#phylogenetic tree\|phylogenetic tree]] using the 16[[Uni/1/4BM024 Microbiology/Microbiology#Svedberg (S)\|s]] [[Uni/1/4BM024 Microbiology/Microbiology#ribosomal RNA (rRNA)\|rRNA]] 
+ [[Uni/1/4BM024 Microbiology/Microbiology#The Bacteria (eubacteria)\|Bacteria]], [[Uni/1/4BM024 Microbiology/Microbiology#The Archaea (archaebacteria)\|Archaea]], [[Uni/1/4BM024 Microbiology/Microbiology#The Eukarya (eukaryotes)\|Eukarya]]
 
 #### Prokaryotes
-##### The Bacteria (eubacteria)
+##### The Bacteria (Eubacteria)
 - Membranes- unbranched fatty acid chains
 	- Ester bonded to glycerol
 - Cell walls contain Peptidoglycan
 
-##### The Archaea (archaebacteria)
+##### The Archaea (Archaebacteria)
 - Live in extreme harsh environments
 - Membranes- branched fatty acid chains
 	- Ether bonded to glycerol
 
 #### Eukaryotes
-##### The Eukarya (eukaryotes)
+##### The Eukarya (Eukaryotes)
 - Membranes- unbranched fatty acid chains
 	- Ester bonded to glycerol
 - Some have cell walls
@@ -71,39 +68,39 @@ Proposed by Woese and Fox in 1977 and based on the [[Uni/1/4BM024 Microbiology/M
 |    Harsh Environments     |   Vulnerable   |  Can Survive   |     Vulnerable     |
 |  Antibiotic Sensitivity   |   Sensitive    |   Resistant    |     Sensitive      |
 
-
 ### Classification
+
 | Classical Characteristics |                                         Molecular                                          |
 | :-----------------------: | :----------------------------------------------------------------------------------------: |
 |        Morphology         |                      Compare genomes to estimate taxonomic similarity                      |
 |        Physiology         | rRNA from small ribosomal  subunits  (18=eukaryote) |
 |       Biochemistry        |                                                                                            |
 
-#### Colitis (Clostridium difficile)
+#### Colitis (Clostridium Difficile)
 - Gram positive
 - persistent spores
 - colonises the colon causing colitis/diarrhoea
 
-#### Bubonic Plague (ersinia pestis)
+#### Bubonic Plague (Ersinia Pestis)
 - Gram negative
 - Transmitted via fleas
 
-#### Lyme Disease (Borrelia burgdorferi)
+#### Lyme Disease (Borrelia Burgdorferi)
 - transmitted via ticks
 
 ### PARASITES
 
-#### Ascariasis (Ascaris lumbricoides)
+#### Ascariasis (Ascaris Lumbricoides)
 - Animal
 - Transmitted via eggs
 - lay eggs in gut of host
 
-#### Amoebic Dysentery (Entamoeba histolytica)
+#### Amoebic Dysentery (Entamoeba Histolytica)
 - Protist
 - transmitted via drinking contaminated water
 	- (Contaminated by cysts in faecal matter)
 
-#### Cryptosporidiosis (Cryptosporidium parvum)
+#### Cryptosporidiosis (Cryptosporidium Parvum)
 - Protist
 - type of Zoonosis
 - transmitted via drinking contaminated water/food or direct contact with animals
@@ -111,7 +108,7 @@ Proposed by Woese and Fox in 1977 and based on the [[Uni/1/4BM024 Microbiology/M
 
 ### Fungi
 
-#### Candidiasis aka Thrush (Candida albicans)
+#### Candidiasis Aka Thrush (Candida Albicans)
 - Fungi
 - Already in body, unnoticeable unless immunocompromised
 
@@ -136,7 +133,7 @@ Proposed by Woese and Fox in 1977 and based on the [[Uni/1/4BM024 Microbiology/M
 ##### COVID-19 (Severe Acute Respiratory Syndrome COronaVirus 2)
 - type of Zoonosis
 
-##### Spanish Flu (influenza A/H1N1)
+##### Spanish Flu (Influenza A/H1N1)
 
 ### THE BACTERIAL CELL
 ![](https://i.imgur.com/adZfGB4.png)
@@ -186,17 +183,17 @@ Hans Christian Gram (Danish physician) discovered grams in bacterial walls in 18
 - Thickness of peptidoglycan determines Gram reaction (thick=positive, thin=negative)
 - Carbohydrate backbone of 2 alternating hexose sugars
 	- N-acetylglucosamine (NAG)
-	- N-acetylmuramic acid  (NAM)
+	- N-acetylmuramic acid (NAM)
 		- NAM residues are cross-linked to peptides
 
 #### Gram-positive Cell Wall
 Single layer of peptidoglycan outside plasma membrane
 
-##### Teichoic acids
+##### Teichoic Acids
 - Polymers of glycerol or ribitol joined by phosphate groups  
 - Wall teichoic acids - covalently linked to NAM residues of peptidoglycan  
 
-##### Lipoteichoic acids 
+##### Lipoteichoic Acids
 - covalently linked to lipids in the plasma membrane 
 - Anchors cell wall to plasma membrane - maintains cell structure  
 - Facilitates attachment of Gram-positive pathogens
@@ -237,7 +234,7 @@ Single layer of peptidoglycan outside plasma membrane
 	- Regulate membrane rigidity
 	- Permeability barrier
 
-##### Fluid mosaic model
+##### Fluid Mosaic Model
 - Bilayer of amphipathic phospholipids  
 - Outer surface of hydrophilic heads  
 - Inner surface of hydrophobic tails
@@ -261,7 +258,7 @@ Single layer of peptidoglycan outside plasma membrane
 ##### Ribosomes
 - site of protein synthesis
 - Excluded from the nucleoid
-- Composed primarily of  [[Uni/1/4BM024 Microbiology/Microbiology#ribosomal RNA (rRNA)\|rRNA]] 
+- Composed primarily of [[Uni/1/4BM024 Microbiology/Microbiology#ribosomal RNA (rRNA)\|rRNA]] 
 - Site of action of some antibiotics
 
 ##### Inclusion Bodies
@@ -300,11 +297,10 @@ Single layer of peptidoglycan outside plasma membrane
 	- Fine appendages thinner and shorter than flagella  
 	- Grow by adding subunits of pilin protein to their base
 
-
-## Week 3 Bacterial growth and Genetics
+## Week 3 Bacterial Growth And Genetics
 ![](https://i.imgur.com/5IQeekL.png)
 
-### Bacterial growth and replication
+### Bacterial Growth And Replication
 **Binary fission:**
 - Process results in two identical daughter cells  
 - Time to division depends on environmental factors and species  
@@ -318,7 +314,7 @@ Septation/division follows
 Lag: inactivity
 stationary: equal replication and death rate
 
-#### Measurement of bacterial growth
+#### Measurement Of Bacterial Growth
 Can be measured directly or indirectly
 Direct:
 - Microscopy
@@ -330,7 +326,7 @@ Indirect:
 - Biomass
 - Measuring cell products - C0
 
-##### The viable count
+##### The Viable Count
 Allows the approximate quantity of living organisms measured from a sample
 Examples for Bacteria and yeasts: 
 - Spread plates  
@@ -342,14 +338,14 @@ Doesn't take into account viable but non-culturable organisms (underestimate)
 Bacterial Number can be estimated using spectroscopy.  
 When a growth curve is plotted using plate counts and the optical density of a sample is high (550 - 600 nm) then the bacterial number can be determined using only turbidity
 
-##### Growth can be used to identify an organism
+##### Growth Can Be Used To Identify An Organism
 As bacterial cells grow they utilise nutrients/carbon sources in different ways producing enzymes, allowing a metabolic fingerprint to be obtained (specific to the organism)  
 
 Many systems developed to exploit differences:
 Manual -agar plates - biochemical tests  
 Mechanised - robotic biochemical assays  
 
-### The bacterial chromosome
+### The Bacterial Chromosome
 - Double stranded circular DNA molecule
 - Condensed into the nucleiod
 - No nuclear membrane
@@ -363,7 +359,7 @@ Must happen for cell division
 - Bi-directional  
 - Uses a large collection of enzymes - Replisome
 
-#### Chromosome size
+#### Chromosome Size
 - Size varies significantly between species  
 	- Can infect more species - larger chromosomes
 - Efficient methods for genome sequencing available only from 1995  
@@ -371,22 +367,21 @@ Must happen for cell division
 - Venter & Smith: 1st to sequence Haemophilus influenzae & Mycoplasma genitalium  
 - Now many available - whole genomes sequenced through automated processes - important strains  
 
-### Bacterial gene expression
+### Bacterial Gene Expression
 ![](https://i.imgur.com/brwkY85.png)
 
-#### Operons  
+#### Operons
 - Functionally linked genes are grouped together  
 - expression controlled by a single operator (called OPERONs)  
 	- All the genes in an operon are transcribed onto one large messenger RNA molecule  
 - ensures that all the genes required for a particular metabolic task are expressed and active at the same time
 
-#### Control of gene expression  
+#### Control Of Gene Expression
 Controlled by proteins which regulate the rate of gene transcription: 
 - REPRESSORs (negative control - down regulate)  
 - ACTIVATORs (positive control - up regulate) 
 - REGULONs: a group of operons that is co-regulated - e.g. toxins 
 Can be specific proteins or products such as levels of catabolites - glucose  
-
 
 #### Plasmids
 
@@ -395,65 +390,63 @@ Extra-chromosomal material replicated independently from host chromosome and are
 	- 300 isolated from strains of E. coli alone  
 	- Possible to make them in the lab - plasmid vectors for cloning
 
-##### Spread naturally by CONJUGATION  
+##### Spread Naturally By CONJUGATION
 Replication is similar to chromosome replication and starts at the origin (ori V)
 Between a donor cell and recipient cell - sex pilus  
 Typically circular, DS and < 5% size of chromosomes - 1 to 5 x 105 bp  
 
-
-##### Medical importance of plasmids
-###### Antibiotic resistance  
+##### Medical Importance Of Plasmids
+###### Antibiotic Resistance
 Aka R factors were first discovered in Japan in 1959
 Increase of R plasmids correlates with increasing use of antibiotics
 Usually enzymatic inactivation of the antibiotic:
 - β- lactamases - penicillin resistance  
 - Prevent uptake by modifying cell wall  
 
-
-### Mutation and recombination
+### Mutation And Recombination
 ![](https://i.imgur.com/e02m9FR.png)
 
-#### Mutation in bacterial genes  
+#### Mutation In Bacterial Genes
 An inheritable change within a nucleotide (DNA) sequence. This can be:
-- spontaneous  (natural radiation, errors during DNA replication)  
-- induced  (chemical mutagens)
+- spontaneous (natural radiation, errors during DNA replication)  
+- induced (chemical mutagens)
 
-#### Types of mutation  
+#### Types Of Mutation
 - Point mutation - affects one base pair  
 - Insertion or deletion of large DNA fragment  
 - Inversions and duplications
 
-#### Examples of mutations altering gene function  
+#### Examples Of Mutations Altering Gene Function
 - Replacement of nucleotide resulting in amino acid substitution in a protein (missense) 
 - Premature termination of protein synthesis (nonsense)  
 - Change in expression levels due to changed regulation  
 	- deletions or insertions
 
-#### Recombination  
+#### Recombination
 - Genes in two separate bacterial cells brought together in one  
 - Occurs by transfer of genetic information between bacteria (COMMON GENE POOL)  
 - Swap genes through horizontal gene transfer  
 - Includes genes on plasmids  
 - Happens through - Transformation, Conjugation and transduction
 
-#### Transformation  
+#### Transformation
 - Uptake of pure (naked) DNA from medium surrounding cell  
 - Released into medium from lysed cells  
 - DNA must integrate into chromosome to transform recipient cell (Transformants)  
 - Can be induced in the lab (Plasmids)
 
-#### Transduction  
+#### Transduction
 - DNA transferred cell to cell by Bacteriophages (bacterial viruses)  
 - Bacteriophage picks up partially degraded bacterial DNA by mistake, making new virus (Transducing phage)  
 - Not all bacteriophages can transduce and not all bacteria are transducible
 
-#### Conjugation  
+#### Conjugation
 - Cell-to-cell contact allowing transfer of DNA  
 - Plasmids are self-transmissible by CONJUGATION  
 	- encode the sex pilus and other transfer genes (tra region) 
 	-  is the major mechanism of transfer of antibiotic resistance genes on R plasmids
 
-## Week 4 Terrestrial Microbiology Part 1: Soil as a Habitat
+## Week 4 Terrestrial Microbiology Part 1: Soil As A Habitat
 ![](https://i.imgur.com/1JYANrs.png)
 
 ### Soil
@@ -464,7 +457,7 @@ An inheritable change within a nucleotide (DNA) sequence. This can be:
 - Huge diversity of microbes  
 - Each climate and soil type has own microbial community
 
-#### Microorganisms in soil
+#### Microorganisms In Soil
 - Many microbes live in pores in soil  
 - Others are associated with plants:  
 	- Rhizoplane (on root surface)  
@@ -474,17 +467,17 @@ An inheritable change within a nucleotide (DNA) sequence. This can be:
 	- Take organic C from plant  
 - Subsurface microbiota - (microbial communities deep beneath the top-soil)
 
-##### Importance of soil microorganisms
+##### Importance Of Soil Microorganisms
 - Global geochemical cycle  
 - Essential role in agriculture & maintaining environmental quality  
 - Production of Soil Organic Matter
 
-### Types of soil
+### Types Of Soil
 ![](https://i.imgur.com/KFBr4I8.png)
 Most of Earths soil is mineral soil (less than 20% carbon)
 \> 20% is organic soil
 
-Soil Organic Matter (SOM):  all living, or once-living, materials within, or added to, the soil
+Soil Organic Matter (SOM): all living, or once-living, materials within, or added to, the soil
 - Retain nutrients, maintaining soil structure, hold water for plants  
 - Can be degraded by microbes
 
@@ -497,9 +490,7 @@ SOM can be enhanced using fertiliser
 | Many soils Have limited N2 Content |   Excess into lakes and streams   |
 | nitrates in water (Health implications)  | Excessive growth of Cyanobacteria |
 
-
-
-#### Production of SOM
+#### Production Of SOM
 Three step process with breakdown of:  
 1. Soluble carbohydrates & proteins  
 2. Complex CHOs e.g. cellulose  
@@ -511,12 +502,12 @@ Microbes involved (covered in Part 2)
 - Bacillus 
 - Basidiomycete fungi
 
-#### How to study soil microorganisms
+#### How To Study Soil Microorganisms
 
 Traditionally bacterial culture (only identified ~ 1% of community)
 Advances in technology allow us to sequence the DNA in environments by Focusing on small subunit ribosomal RNA (ssrRNA) or total DNA sequencing (metagenomics)
 
-## Week 4 Terrestrial Microbiology Part 2: Microbes in the soil
+## Week 4 Terrestrial Microbiology Part 2: Microbes In The Soil
 ![](https://i.imgur.com/lTkf9t9.png)
 
 #### Streptomyces
@@ -527,7 +518,7 @@ Advances in technology allow us to sequence the DNA in environments by Focusing 
 - Important antibiotic producer  
 - e.g. tetracycline, erythromycin, chloramphenicol
 
-#### Pseudomonas  
+#### Pseudomonas
 - Gram negative  
 - Straight or curved, motile rods  
 - Ecologically important in water & soil  
@@ -538,7 +529,7 @@ Advances in technology allow us to sequence the DNA in environments by Focusing 
 - Some are pathogenic (P. aeruginosa)  
 - UTI, burns, cystic fibrosis  
 
-#### Bacillus  
+#### Bacillus
 - Gram positive rod  
 - Spore former  
 - Range of species  
@@ -547,7 +538,7 @@ Advances in technology allow us to sequence the DNA in environments by Focusing 
 - B. cereus  
 - Food intoxication (rice)
 
-#### Cyanobacteria  
+#### Cyanobacteria
 - “Blue-green algae”  
 - Originally thought to be algae  
 - Cell structure is prokaryotic  
@@ -556,7 +547,7 @@ Advances in technology allow us to sequence the DNA in environments by Focusing 
 - Found in soil, fresh & marine water  
 - Produce pigments to prevent damage to DNA by light
 
-##### Positive significance of Cyanobacteria  
+##### Positive Significance Of Cyanobacteria
 - Important contribution to CO2 fixation  
 - Use up to ½ CO2 in their environments  
 - Common in all aquatic environments  
@@ -564,7 +555,7 @@ Advances in technology allow us to sequence the DNA in environments by Focusing 
 - Require light & CO2  
 - Contribute to N2 fixation in aquatic environments
 
-##### Negative impact of Cyanobacteria
+##### Negative Impact Of Cyanobacteria
 - Gas vacuolate species  
 - Nuisance blooms in freshwater  
 - Mid-summer/autumn  
@@ -575,14 +566,14 @@ Advances in technology allow us to sequence the DNA in environments by Focusing 
 - Kill animals (cattle & dogs)  
 - Kill humans ingesting contaminated animals
 
-#### Other microbes in soil  
+#### Other Microbes In Soil
 - Bacteria, Archaea, Fungi & Protozoa  
 - Bacterial populations are high  
 - 109-1010 cells/g dry weight  
 - Fungi  
 - Several hundred metres of hyphae/g
 
-#### Mega fungi  
+#### Mega Fungi
 - Armillaria bulbosa  
 - Tree roots in hardwood forests, Michigan  
 - Mycorrhizae spread over 30 acres  
@@ -590,7 +581,7 @@ Advances in technology allow us to sequence the DNA in environments by Focusing 
 - 1500 years old  
 - Among largest & most ancient organisms on earth  
 
-### Soil Microbes and Human Health  
+### Soil Microbes And Human Health
 - Humans are in constant contact with soil (dirt)  
 - Direct contact or unwashed raw, leafy veg  
 - Can contain a variety of pathogens  
@@ -598,7 +589,7 @@ Advances in technology allow us to sequence the DNA in environments by Focusing 
 - e.g. Clostridium  
 - Moulds associated with buildings
 
-#### Clostridium spp.
+#### Clostridium Spp.
 - Gram positive  
 - Spore forming rods  
 - Strict anaerobes  
@@ -607,7 +598,7 @@ Advances in technology allow us to sequence the DNA in environments by Focusing 
 - Spores produced under anaerobic conditions  
 - \>120 species
 
-##### Diseases caused by Clostridium  
+##### Diseases Caused By Clostridium
 - Wound & tissue infections  
 - Gas gangrene C. perfringens  
 - Tetanus C. tetani  
@@ -617,7 +608,7 @@ Advances in technology allow us to sequence the DNA in environments by Focusing 
 - Many due to release of exotoxins  
 - Botulinum toxin (Botulin) is the most potent microbial toxin known!
 
-### Soil use for new antibiotics  
+### Soil Use For New Antibiotics
 - New class of antibiotic isolated  
 - Teixobactin  
 - From previously uncharacterised bacteria  
@@ -626,18 +617,19 @@ Advances in technology allow us to sequence the DNA in environments by Focusing 
 - Effective against Gram positive bacteria  
 - In development currently
 
-## Week 5 Nutrition and Respiration
-### random information to start
+## Week 5 Nutrition And Respiration
+### Random Information To Start
 Cells are NCHOPS
 Most Abuntant Macromolecules: Proteins
 Cofactors And Enzymes Manipulate Internal Reactions
-        Cofactors can be classified into two types: prosthetic groups (inorganic) and coenzymes (organic)
+		Cofactors can be classified into two types: prosthetic groups (inorganic) and coenzymes (organic)
 Glycolysis is a thing
 Krebs Cycle is also a thing
 Anaerobic less energy
 
 Actual Lesson:
-### Facts- bacterial nutrition & respiration  
+
+### Facts- Bacterial Nutrition & Respiration
 - Cells are primarily composed of the elements H, O, C, N, P and S.  
 - Proteins are the most abundant class of macromolecules in the cell.  
 - Apart from enzymes, some other compounds involved in controlling metabolic as well as chemical reactions of a body are cofactors.  
@@ -646,12 +638,12 @@ Actual Lesson:
 - Krebs cycle is also called TCA cycle (tricarboxylic acid cycle) or Citric acid cycle.  
 - Anaerobic respiration transfers less energy than aerobic respiration.
 
-### Need for Nutrients  
+### Need For Nutrients
 - Growth defined as increase in number of cells  
 - Reproduce by binary fission  
 - In order to grow, bacteria need nutrients to supply energy
 
-### Composition of a Microbial Cell  
+### Composition Of A Microbial Cell
 - Water: 70-80% of wet weight of the cell  
 - Macromolecules & their building blocks:  
 - Proteins: ................  
@@ -660,14 +652,14 @@ Actual Lesson:
 - Polysaccharides:............  
 - Proteins: Around 55 % of cell dry weight
 
-### Nutritional Requirements  
+### Nutritional Requirements
 - Macronutrients vs. Micronutrients  
 - Macronutrients (CHNOPS) required in large amounts  
 - Essential elements for bacterial growth  
 - Carbon, nitrogen, phosphorus, sulphur, etc.  
 - P, S, K, Mg and Se combined less than 5% of cell dry weight
 
-### Micronutrients/Trace metals  
+### Micronutrients/Trace Metals
 - Required in very small amounts  
 - Function as cofactors for enzymes  
 - Iron: cellular respiration  
@@ -677,7 +669,7 @@ Tungsten, Vanadium, Zinc
 - E.g. vitamins which function as coenzymes; Nicotinic acid (Niacin) is  
 a precursor of NAD + ; Riboflavin is a precursor of FAD.
 
-### Types of Bacterial Nutrition  
+### Types Of Bacterial Nutrition
 - Autotrophic Nutrition  
 - Manufactures organic materials  
 from inorganic raw material  
@@ -687,23 +679,23 @@ from inorganic raw material
 - Carotenoids  
 - Oxygen is not evolved
 
-### Autotrophic nutrition  
+### Autotrophic Nutrition
 
-#### Oxygenic Photosynthetic Bacteria  
+#### Oxygenic Photosynthetic Bacteria
 - They use H 2O as an electron donor and oxygen is produced in the reaction.  
 - They do not possess chloroplasts  
 - Photosynthetic pigments are present in the cytosol.  
 - 6CO 2 + 12H 2O + light energy → C 6H 12O 6 + 6O 2 + 6H 2O  
 - Cyanobacteria (blue-green algae) perform oxygenic photosynthesis.  
 
-#### Anoxygenic Photosynthetic Bacteria  
+#### Anoxygenic Photosynthetic Bacteria
 - Most of the photosynthetic bacteria are anoxygenic  
-- They do not utilise water as an electron donor, instead, they use H 2S, H 2 or thiosulphate  as reducing agent and hydrogen sources.  
+- They do not utilise water as an electron donor, instead, they use H 2S, H 2 or thiosulphate as reducing agent and hydrogen sources.  
 - Photosynthetic pigment: Bacteriochlorophyll (Purple bacteria)  
 - Chlorobium chlorophyll (Green S bacteria)  
 - Oxygen is not evolved
 
-### Chemoautotrophs  
+### Chemoautotrophs
 - Produce their organic food from inorganic raw materials with the help of energy derived form exergonic  
 chemical reactions. They use this energy for their metabolic needs.  
 1. Sulphur oxidising bacteria e.g. Thiobacillus thioxidans oxidises sulphur to sulphate state:  
@@ -723,7 +715,8 @@ CH4 + 2O2 → CO2 + 2H2O + Energy
 
 ### Heterotrophic Nutrition
 Rely on others for their nutrition needs as they can’t manufacture their food  
-#### Saprophytes  
+
+#### Saprophytes
 - Feed on dead or decaying matter.  
 - Fungi, bacteria generally come under the category of saprophytes.  
 - Referred to as nature's scavengers because they feed on dead and decaying substances thus,  
@@ -732,12 +725,14 @@ cleaning our earth.
 hence working as scavengers.  
 - They also release materials after the breakdown of organic matter that makes the soil fertile and  
 creates humus.  
-#### Parasites  
+
+#### Parasites
 - Parasitism is defined as the relationship between different species in which one organism lives on  
 or in the other organism and benefits from it by causing some harm.  
 - e.g. Vibrio cholerae, Clostridium tetani, Mycobacterium tuberculosis, Mycobacterium leprae,  
 Salmonella typhi
-####   Symbiotic  
+
+#### Symbiotic
 - Bacteria that live in a symbiotic relationship with other organisms.  
 - Like rhizobium bacteria associated with root nodules, both the host and the pathogen  
 benefit from the symbiotic interaction.  
@@ -749,7 +744,7 @@ from the plant's nutrients.
 - As a result, nitrogen is produced for the process of nitrogen fixation, also known as  
 biological nitrogen-fixing.
 
-### Bacterial metabolism  
+### Bacterial Metabolism
 - Carbon and energy are required for  
 - Cell structure  
 - Synthesis of enzymes, nucleic acids, polysaccharides,  
@@ -759,7 +754,7 @@ phospholipids
 - Transport  
 - Motility
 
-### High energy compounds  
+### High Energy Compounds
 - Energy released from redox reactions is transferred  
 to phosphate compounds in the form of high  
 energy phosphate bonds  
@@ -767,7 +762,7 @@ energy phosphate bonds
 - Main carrier generated during exergonic reactions  
 and used to drive endergonic reactions
 
-### Bacterial Growth Curve  
+### Bacterial Growth Curve
 - Lag phase, log phase, stationary phase, and death phase  
 - Factors influencing each phase  
 - Nutrition concentration.  
@@ -777,14 +772,14 @@ and used to drive endergonic reactions
 - Water  
 - Osmotic pressure
 
-### Overview of Bacterial Respiration  
+### Overview Of Bacterial Respiration
 Definition of respiration in bacteria  
 - Respiration is the chemical process by which organic compounds release  
 energy.  
 - The compounds change into different ones by exergonic reactions (Royal  
 Society of Biology).
 
-### Types of Respiration  
+### Types Of Respiration
 
 #### Aerobic Respiration
 -  Cellular respiration that uses oxygen to produce energy from food
@@ -794,25 +789,25 @@ Glucose + Oxygen → Carbon dioxide + Water + Energy
 - Cellular respiration does not use oxygen to produce energy
 Fermentation: Glucose → Alcohol + Carbon dioxide + Energy
 
-### Types of Bacterial Respiration  
+### Types Of Bacterial Respiration
 
-#### Aerobic: Occurs in the presence of oxygen  
+#### Aerobic: Occurs In The Presence Of Oxygen
 - Obligate aerobes: Can respire only aerobically e.g. Mycobacterium  
 tuberculosis, Bacillus subtilis.  
 - Facultative aerobes: Respire aerobically under normal conditions but  
 switch over to anaerobic mode of respiration if oxygen becomes deficient  
 e.g. Rhodopseudomonas.  
 
-#### Anaerobes: Occurs without oxygen  
+#### Anaerobes: Occurs Without Oxygen
 - Obligate anaerobes: Can respire only anaerobically e.g. Clostridium  
 botulinum.  
 - Facultative anaerobes: Respire anaerobically under normal conditions  
 but switch over to aerobic mode of respiration if oxygen becomes  
 available e.g. Escherichia coli.
 
-### Aerobic Respiration- Glycolysis  
+### Aerobic Respiration- Glycolysis
 
-#### Catabolic or Anabolic?  
+#### Catabolic Or Anabolic?
 - No oxygen required  
 - Although it doesn't require oxygen, hence  
 its purpose in anaerobic respiration, it is also  
@@ -830,10 +825,10 @@ oxygen to generate high-energy phosphate
 bonds in the form of adenosine  
 triphosphate (ATP)
 
-## week 6 Industrial Microbiology And Biotechnology
+## Week 6 Industrial Microbiology And Biotechnology
 
 
-## week 7 Marine Microbiology
+## Week 7 Marine Microbiology
 
 - The marine micro-environment is complex  
 	- A variety of oxygen availabilities  
@@ -842,28 +837,28 @@ triphosphate (ATP)
 	- A variety of pressures  
 	- Contains a wide variety of often specialised prokaryotic and eukaryotic organisms
 
-### The marine environment  
+### The Marine Environment
 - The marine environment is divided by depth and availability of sunlight  
 - The neuston  
 - The euphotic (photic) zone  
 - The aphotic zone  
 - The benthos (sea floor)- includes the abyssal environment
 
-#### The photic zones  
+#### The Photic Zones
 - The invisible rain forest of the earth  
 - The neuston  
 - Extends to about 10um below the surface  
 - Contains the highest concentration of microorganisms  
 - A wide variety of autotrophic organisms in
 
-##### The euphotic zone -  
+##### The Euphotic Zone -
 - 100 - approx. 300m of water column  
 - Depends on proximity to coastal shelf  
 - Main site or primary production  
 - About half of the world photosynthesis is carried out here as sunlight available  
 - The pelagic euphotic zone (open ocean) contains many species of planktonic microorganisms
 
-##### Microbes of the photic zone  
+##### Microbes Of The Photic Zone
 - Microbial Plankton  
 - Free floating marine photosynthetic and non-photosynthestic bacteria, eukaryotes (protists) and viruses  
 - Grouped depending on approx. size  
@@ -879,7 +874,7 @@ triphosphate (ATP)
 - Pico - bacteria and small eukaryotes  
 - Femto - viruses
 
-#### Diatoms  
+#### Diatoms
 - The glass ornaments of the sea  
 - Largest group of algal unicellular protists  
 - Many different species  
@@ -892,7 +887,7 @@ triphosphate (ATP)
 - Found in all marine environments  
 - Consist of an inner box and outer lid of silicon dioxide pierced with holes for gas exchange
 
-#### Dinoflagellates  
+#### Dinoflagellates
 - The fire plants of the ocean  
 - The second largest group of algal protists  
 - Approx.3,400 spp  
@@ -900,21 +895,21 @@ triphosphate (ATP)
 - Most are marine species and can be photosynthetic and endosymbionts in coral and sponges  
 - Many bioluminescent species
 
-### The role of viruses  
+### The Role Of Viruses
 - Viruses are essential to nutrient cycles  
 - All levels of microbial plankton undergo predation by viruses  
 - Cell lysis breaks down approx. half of planktonic biomass  
 - Essential in acceleration of return of nutrients to system - nitrogen and carbon  
 - Bacteriophages are numerous and exchange genes and control bacterial populations - cyanobacteria - >106 pfu/ml
 
-#### The aphotic zone  
+#### The Aphotic Zone
 - Life in the dark  
 - Defined as a place where <1% of sunlight penetrates  
 - Depending on turbidity extends from 200-300 - sea floor  
 - Divided into bathyal (200 - 2000M), abyssal (2000-6000M and hadal (6000M - sea bed) zones  
 - All life here relies on POM and DOM
 
-##### Microbes of the aphotic zone  
+##### Microbes Of The Aphotic Zone
 - Life is hard  
 - All microbes are heterotrophic and lithotrophic  
 - Nutrients are very limited and comes from sinking detritus and colonisation of sinking particles  
@@ -922,7 +917,7 @@ triphosphate (ATP)
 - Colonised during its fall and mineralised  
 - <1% of photosynthetically derived material remains once on sea bed
 
-#### Microbial metabolism   
+#### Microbial Metabolism
 1. How the organism obtains carbon:  
 - Autotrophic - carbon is obtained from inorganic compounds e.g CO2  
 - Heterotrophic - carbon is obtained from organic compounds e.g. sugars  
@@ -934,14 +929,14 @@ triphosphate (ATP)
 - Organotrophic - reducing equivalents (electrons) are obtained from organic compounds (e.g. carbohydrates, proteins, lipids)  
 - These terms can be combined to describe the organism - e.g. photolithoautotrophs (plants), chemoorganoheterotrophs (animals)
 
-#### The Benthic zone  
+#### The Benthic Zone
 - At rock bottom!  
 - Includes where the water column meets the ocean floor and the sediment on the bottom  
 - Includes barophilic, thermophilic and psychrophilic organisms - complex nutrition  
 - Many examples of symbiotic associations  
 - Sediment is a thriving microbial community
 
-##### Microbes of the benthos  
+##### Microbes Of The Benthos
 - Life under pressure  
 - Most organisms are Barophilic  
 - Can only survive at pressures up to 1100 atm.  
@@ -950,18 +945,19 @@ triphosphate (ATP)
 - Carbon provided by marine snow for heterotrophs  
 - Hydrothermal vents and cold seeps can provide reduced inorganic power for growth
 
-#### Cold seeps  
+#### Cold Seeps
 - Life in the cold  
 - Cold seeps are regions were methane or petroleum leek through the ocean floor  
 - Pools of Methane hydrates are produced by Archaea in cages of crystalline water !  
 - Covert acetate to methane that psycrophilic methanogens can use for nutrition.  
 - Many form symbioses with large slow growing animals
 
-## week 8 Transmission Entry and colonisation
+## Week 8 Transmission Entry And Colonisation
 ![](https://i.imgur.com/Vm7dxyo.png)
 
 Transmission occurs via 3 main mechanisms: Direct, indirect, or airborne  
-#### Direct Contact 
+
+#### Direct Contact
 - Skin, mucous membranes, puncture wounds  
 - Human - human or animal - human  
 - Animals - Zoonoses / Zoonosis  
@@ -973,11 +969,11 @@ Transmission occurs via 3 main mechanisms: Direct, indirect, or airborne
 -  Airborne (droplets)
 	- Coughing, sneezing, laughing Transmission of pathogens 
 
-### Vectors - insects  
+### Vectors - Insects
 Mechanical or Biological. Can be from bites, faeces or from body or mouth parts.   
 Often reservoirs of disease agents
 
-### Human to human transmission   
+### Human To Human Transmission
 - The commonest diseases are spread by  
 	- The respiratory route  
 	- The faecal-oral route  
@@ -1008,7 +1004,7 @@ Often reservoirs of disease agents
 	- Infection via respiratory tract much more acute  
 	- Also depends on nutrition, genetics, age
 
-### Entry and exit of pathogens  
+### Entry And Exit Of Pathogens
 - Once transmitted to a new host the organism must enter and attach, and evade before colonisation and disease is produced  
 	- Many portals of entry  
 		- Mucous membranes - GI, nasopharynx, eyes, ears, genitals  
@@ -1017,13 +1013,15 @@ Often reservoirs of disease agents
 	- Entry sites can also be sites of exit  
 		- Secretions  
 		- Skin - skin scales, blooEntry and exit of pathogens 
-#### The skin  
+
+#### The Skin
 - Very good barrier to infection  
 	- Normal flora - competition and antimicrobials  
 	- Dry and low pH  
 - Entry through: cuts, abrasions, bites, puncture wounds, hair folicles. Burns are particularly prone to infection  
 - Also a disease vehicle (skin scales - 108 scales/day)
-#### The respiratory tract  
+
+#### The Respiratory Tract
 - Approx. 10,000 viable organisms inhaled/day  
 - Removed by entrapment in mucous and swallowing  
 	- Aerodynamic baffle design - Nasal turbinates  
@@ -1038,14 +1036,15 @@ To colonise the respiratory tract a pathogen must:
 - Resist macrophage killing  
 	- Mycobacterium tuberculosis
 
-##### Transmission from the respiratory tract  
+##### Transmission From The Respiratory Tract
 - Respiratory pathogens damage respiratory tract  
 	- Mucous production  
 	- Sneezing  
 	- Coughing  
 - Results in microbial contamination of surfaces and infectious aerosol production  
 	- Creates fomites
-#### The Gastrointestinal (GI) tract  
+
+#### The Gastrointestinal (GI) Tract
 - Adherence to host cell receptors is very important  
 	- E. coli - adhesins on pili and fimbrae  
 - Invasion of underlying tissues  
@@ -1065,7 +1064,8 @@ To colonise the respiratory tract a pathogen must:
 	- Hand washing important  
 - Water treatment, sanitation and purification reduced incidence in 1st world  
 	- Water borne disease still common in third worlds  
-#### The Urinary tract  
+
+#### The Urinary Tract
 - Two main types of infection  
 	- Urinary tract infections (UTI’s)  
 	- Sexually transmitted diseases (STD’s)  
@@ -1088,7 +1088,8 @@ To colonise the respiratory tract a pathogen must:
 	- Touching  
 	- Sexual intercourse  
 - Those that form blisters, growths or puss are transmitted the best!
-#### The blood  
+
+#### The Blood
 - Type of disease vehicle - new hosts  
 - Spread within the body - within host  
 - Pathogens in the blood can enter and exit a host by parenteral routes  
@@ -1099,22 +1100,23 @@ To colonise the respiratory tract a pathogen must:
 			- iatrogenic infection  
 - Mother to baby - Transplacental transmission
 
-## Week 8 The Structure of viruses  
+## Week 8 The Structure Of Viruses
 
 
-Viruses are acellular,  They are obligate parasites. They must hijack a host cells metabolic and synthetic machinery to  survive and make more virus.
+Viruses are acellular, They are obligate parasites. They must hijack a host cells metabolic and synthetic machinery to survive and make more virus.
 
-
-
-### General structure  
+### General Structure
 ![](https://i.imgur.com/GhPgOzT.png)
-#### Genome (nucleic acid core)  
+
+#### Genome (Nucleic Acid Core)
 - Contains the genetic information as [[Uni/1/4BM024 Microbiology/Microbiology#ds\|ds]] /[[Uni/1/4BM024 Microbiology/Microbiology#ss\|ss]] - RNA or DNA  
-#### Capsid  
+
+#### Capsid
 - Protein shell for genome - Gives protection during transmission  
 - Target for host immune response  
 - Made up of protein sub-units called CAPSOMERS
-#### Envelope (viral membrane)  
+
+#### Envelope (Viral Membrane)
 - Not present in all viruses  
 - Contains host membrane components  
 	- CSM or nuclear membrane  
@@ -1123,38 +1125,39 @@ Viruses are acellular,  They are obligate parasites. They must hijack a host cel
 - May have other proteins between envelope and capsid  
 - Used for entry to cells
 
-### Shape:  
+### Shape:
 
 ![](https://i.imgur.com/STMiA31.png) 
 - Majority of viruses rod or sphere shaped  
 - Rods are said to have helical symmetry and spheres have icosahedral symmetry  
 - Can be a combination of both and have complex symmetry.
-#### Helical capsids.  
+
+#### Helical Capsids.
 - These are assembled from rings of protomeres  
 - This type of symmetry enables very stable rods to be assembled  
 - Straight and flexible rods formed
 
-#### Icosahedral capsids  
+#### Icosahedral Capsids
 - 20 faces 
-	- Asymmetric capsomeres arranged in an equilateral triangle  (Minimum 60 capsomeres)
+	- Asymmetric capsomeres arranged in an equilateral triangle (Minimum 60 capsomeres)
 - 30 edges  
 - 12 vertices
 
-#### Complex viruses  
+#### Complex Viruses
 - Helical or icosahedral or neither  
 - May possess additional structures  
 - Pox viruses  
 - Small pox  
 - White pox
 
-### The main aims of a virus are:  
+### The Main Aims Of A Virus Are:
 - To infect host cells  
 - Make more virus  
 - Infect more cells  
 - Be released  
 To infect the body virus must first reach a suitable entry site or portal of entry. Virus life cycle begins after it enters a cell
 
-### Portals of entry for viruses  
+### Portals Of Entry For Viruses
 Mucous membranes  
 1. Respiratory tract  
 2. Gastrointestinal tract (GI)  
@@ -1166,16 +1169,16 @@ Skin
 7. Iatrogenic infection.
 Penetration and uncoating is essential in viral infection of cells as it allows the release of the viral genome and starts the replication cycle
 
-
-### Replication strategies  
-#### Attachment and Entry - infection of susceptible  cells.  
+### Replication Strategies
+#### Attachment And Entry - Infection Of Susceptible Cells.
 - Virus must first bind to permissive cells using receptors  
 - Entry is then through:  
 	- Direct penetration - naked (non-enveloped) viruses  
 	- Fusion with the cell membrane - enveloped viruses  
 	- Entry via ENDOCYTOSIS or engulfment- enveloped viruses  
 - Allows uncoating - loss of envelope and capsid Replication strategies  
-#### Exit of virus from cells  
+
+#### Exit Of Virus From Cells
 - Direct lysis (bursting) of the infected cell  
 	- Often naked viruses  
 	- Most enteroviruses do this - Polio v  
@@ -1183,58 +1186,68 @@ Penetration and uncoating is essential in viral infection of cells as it allows 
 - Budding through/from the cell membrane or nuclear membrane  
 	- Enveloped viruses - HIV, HSV, influenza  
 - Both part of lytic life cycle Replication strategies  
-#### Infection and replication  
-- Replication in susceptible (permissive) cells at site of  entry  
+
+#### Infection And Replication
+- Replication in susceptible (permissive) cells at site of entry  
 - Overcome local innate defences  
 - Spread from site of inoculation - viraemia  
 - Undergo further replication in target organ  
-- Escape from host in large enough numbers to infect  new host
+- Escape from host in large enough numbers to infect new host
 
-#### Consequences of infection  
-- Symptoms of viral infection are not caused by  products of the virus - no metabolites!  
+#### Consequences Of Infection
+- Symptoms of viral infection are not caused by products of the virus - no metabolites!  
 - Symptoms of disease often caused by  
 	- Deregulation of cellular function  
 	- Direct damage to cells from viral replication  
 	- Host immune response to infection
 
-### Recovery from viral infection  
+### Recovery From Viral Infection
 - Destruction of virus infected cells  
 	- Innate and specific immune responses  
-- Immune response directed towards  capsid/binding proteins - important viral  antigens  
+- Immune response directed towards capsid/binding proteins - important viral antigens  
 - Immune response can prevent re-infection
 
-
-
 ## Definitions
-###### phylogenetic tree
+###### Phylogenetic Tree
 a diagram that depicts the lines of evolutionary descent of different species, organisms, or genes from a common ancestor.
-###### Svedberg (S) 
+
+###### Svedberg (S)
 a non-standard unit of time (10^-13 seconds) that measures the [[Uni/1/4BM024 Microbiology/Microbiology#Sedimentation Rate\|sedimentation rate]] of particles
+
 ###### Sedimentation Rate
 the time it takes for particles to settle at the bottom of a container often in reference to ultracentrifugation
-###### Ribonucleic acid (RNA) 
+
+###### Ribonucleic Acid (RNA)
 a molecule made of ribose nucleotides. The nitrogenous bases for RNA are adenine(a), guanine(g), uracil(u), and cytosine(c). 
-###### ribosomal RNA (rRNA) 
-molecule in cells that forms part of the protein-synthesizing organelle (ribosomes). [[Uni/1/4BM024 Microbiology/Microbiology#ribosomal RNA (rRNA)\|rRNA]] goes to the cytoplasm to help translate [[Uni/1/4BM024 Microbiology/Microbiology#messenger RNA (mRNA)\|mRNA]]  into proteins
-###### messenger RNA (mRNA)
+
+###### Ribosomal RNA (rRNA)
+molecule in cells that forms part of the protein-synthesizing organelle (ribosomes). [[Uni/1/4BM024 Microbiology/Microbiology#ribosomal RNA (rRNA)\|rRNA]] goes to the cytoplasm to help translate [[Uni/1/4BM024 Microbiology/Microbiology#messenger RNA (mRNA)\|mRNA]] into proteins
+
+###### Messenger RNA (mRNA)
 a molecule containimg the instructions for making a protein
-###### ss
+
+###### Ss
 Single stranded 
-###### ds
+
+###### Ds
 Double stranded 
 
-###### Pathogen  
+###### Pathogen
 An organism that can cause disease (damage) in a host  
-###### Pathogenicity  
+
+###### Pathogenicity
 The ability to cause disease (Damage)  
-###### Virulence  
+
+###### Virulence
 A relative measure of disease causing potential  
-###### Virulence factor  
+
+###### Virulence Factor
 A pathogen derived substance or structure that contributes to virulence/damage
-###### virion
+
+###### Virion
 
 
-## Week 9 Bacteria, Fungi and Parasites
+## Week 9 Bacteria, Fungi And Parasites
 
 Some useful definitions  
 - Pathogen  
@@ -1246,15 +1259,16 @@ Some useful definitions
 - Virulence factor  
 	- A pathogen derived substance or structure that contributes to virulence/damage
 
-### Bacteria  
-- Unicellular microscopic organisms which vary in  morphology, nutritional requirements & motility  
+### Bacteria
+- Unicellular microscopic organisms which vary in morphology, nutritional requirements & motility  
 - First observed in 1683 using primitive microscope  
 - Evolutionarily ancient  
 - Ubiquitous - largest component of earth biomass  
 - Ecosystem depends upon bacterial activity
-#### Role of bacteria  
+
+#### Role Of Bacteria
 In nature:  
-- Fixation of atmospheric nitrogen to allow plant growth and  degrade organic matter  
+- Fixation of atmospheric nitrogen to allow plant growth and degrade organic matter  
 - Rain - DMS  
 - Production of vitamins - B12  
 
@@ -1263,34 +1277,37 @@ For industry:
 
 Negatives:
 - Degradation of industrial material (E.g. Fuels, Plastics, metals)  
-- Food spoilage  (E.g. Disease of crops/ animals/ contamination) 
-- Disease in humans  (E.g. Mild transient/ Deadly persistent)
+- Food spoilage (E.g. Disease of crops/ animals/ contamination) 
+- Disease in humans (E.g. Mild transient/ Deadly persistent)
 
-#### Bacteria and infection  
+#### Bacteria And Infection
 Bacterial infections can be broadly divided into 3 types:  
 - Acute infections (Often rapid onset, Severe symptoms, short lived)  
 - Chronic infections (Slow progression, Long lasting)  
-- Latent infections  (Pathogen present and viable but no disease - chronic disease)
+- Latent infections (Pathogen present and viable but no disease - chronic disease)
 
-#### Bacterial pathogens  
+#### Bacterial Pathogens
 
-##### Staphylococcus aureus  
+##### Staphylococcus Aureus
 - Gram positive cocci that grows in clumps  
 -  Found in throats of 100% healthy people, faeces of 20% healthy people, skin of 5% healthy people  
 - Transmitted though droplets, sputum, food, dust - skin scales  
 - Produces a very wide variety of illnesses
-###### Conditions caused by Staphylococcus aureus  
+
+###### Conditions Caused By Staphylococcus Aureus
 - Food poisoning 4-6 h onset, 24hr duration  
 - Scalded skin syndrome, toxic shock syndrome  
 - Wound and skin infections  
 - Septicaemia, Pneumonia, endocarditis, Osteomyelitis  
 - May be fatal
-##### Streptococcus pyogenes  
+
+##### Streptococcus Pyogenes
 - Gram- positive cocci that grows in ‘chains’  
-- Commensal of the respiratory tract, gastrointestinal  tract, female genital tract, skin  
+- Commensal of the respiratory tract, gastrointestinal tract, female genital tract, skin  
 - Transmission is through droplet, skin scales, sputum, food, dust.  
 - Produces a variety of illnesses due to action of toxins and other factors it produces.
-###### Conditions caused by Streptococcus pyogenes  
+
+###### Conditions Caused By Streptococcus Pyogenes
 - Pharyngitis  
 - Scarlet fever  
 - Rheumatic fever  
@@ -1298,7 +1315,7 @@ Bacterial infections can be broadly divided into 3 types:
 - Puerperal fever  
 - Necrotising fasciitis
 
-### Fungi  
+### Fungi
 - Eukaryotic organisms  
 - Contain a nucleus  
 - NOT PLANTS - Lack chlorophyll  
@@ -1311,18 +1328,19 @@ Fungi are sometimes pathogenic to animals
 - Few are actual pathogens
 
 Fungi are also important in industry  
-- Degradative enzymes   (E.g. Cellulases, Amylases, Ligninases)  
-- Ethanol production  (E.g. Saccharomyces - recreational alcohols) 
+- Degradative enzymes (E.g. Cellulases, Amylases, Ligninases)  
+- Ethanol production (E.g. Saccharomyces - recreational alcohols) 
 - Food (E.g. Bread, Mycoproteins - Quorn - Fusarium venenatum)
  
 
 
-#### Fungal infections in humans  
-- Superficial mycoses  (E.g. Skin, hair, nails or mucous membranes (outermost) ) 
+#### Fungal Infections In Humans
+- Superficial mycoses (E.g. Skin, hair, nails or mucous membranes (outermost) ) 
 - Cutaneous mycoses (E.g. Skin, hair, nails - invasive to epidermis)  
 - Subcutaneous mycoses (E.g. Involves the dermis, soft tissues, muscle & bone)  
 - Systemic mycoses (E.g. Lungs and spread to many organs
-##### Superficial and cutaneous mycoses  
+
+##### Superficial And Cutaneous Mycoses
 - Caused by deposition of fungal material on surface of the body (E.g. Skin, Hair, Nails)
 - Low virulence organisms (less pathogenic)  
 - Mostly remain confined to the superficial surface  
@@ -1338,7 +1356,8 @@ Fungi are also important in industry
 - Chronic infections in the dermis, soft tissues and bone  
 - Introduction of fungi directly into skin and deeper dermis (E.g. Penetrating wounds - feet)  
 - Chronic inflammatory infection involving lymphatic system (E.g. Develop slowly - May become polymicrobial)
-###### Transmission of subcutaneous and cutaneous mycoses  
+
+###### Transmission Of Subcutaneous And Cutaneous Mycoses
 Human to human  
 - Direct contact - Often highly contagious  
 - Indirect - Swimming pools, Jacuzzis, gym  
@@ -1346,14 +1365,13 @@ Zoonotic
 - pets or farm animals - Direct or Indirect - Gateposts on farms
 - Transmission of subcutaneous and cutaneous mycoses  
 
-
 ### Parasite
 Macroscopic or microscopic eukaryotic organism that is part of a parasitic relationship with a host  
 Can be unicellular or extremely large  
 The parasite may be harmful and be a pathogen depending on host/ pathogen factors, If not harmful - commensal
 
-#### Introduction  
-#### Parasite / host relationships  
+#### Introduction
+#### Parasite / Host Relationships
 - Facultative  
 	- Free living & parasitic, can survive without a host  
 - Obligate  
@@ -1362,7 +1380,8 @@ The parasite may be harmful and be a pathogen depending on host/ pathogen factor
 	- live on the surface of a host  
 - Endoparasites  
 	- live inside the host
-##### Parasite life cycles are often complex  
+
+##### Parasite Life Cycles Are Often Complex
 - Transmission horizontal or vertical  
 - Have evolved to exploit habits of host spp.  
 - May involve intermediate hosts  
@@ -1371,12 +1390,13 @@ The parasite may be harmful and be a pathogen depending on host/ pathogen factor
 - Final host may be completely unrelated species  
 	- Dicrocoelium dendriticum - Lancet fluke
 
-#### Classification of parasitic organisms  
+#### Classification Of Parasitic Organisms
 - Those that infect humans are divided into 3 groups:  
 	- The Protozoa  
 	- The Helminths  
 	- Arthropods  
 - The groups are subdivided (Describes different morphological characteristics)
+
 ##### Protozoa
 - Amoebae  
 	- move via extending pseudopodia (Entamoeba histolytica)  
@@ -1386,7 +1406,8 @@ The parasite may be harmful and be a pathogen depending on host/ pathogen factor
 	- Move by beating a covering of hair like cilia (Balantidium coli)  
 - Sporozoa (apicomplexia)  
 	- No obvious method of locomotion. All members are parasites and most intracellular
-##### Helminths  
+
+##### Helminths
 - Parasitic round and flat worms  
 	- May be very large  
 	- Often enter through digestive system  
@@ -1394,7 +1415,7 @@ The parasite may be harmful and be a pathogen depending on host/ pathogen factor
 - Nematodes - round worms  
 - Trematodes - flukes
 
-#### Damage to the host by parasites  
+#### Damage To The Host By Parasites
 - Direct damage to cells  
 - Tissue damage as the result of blockage  
 	- Blockage of lymph ducts - Elephantiasis  
@@ -1402,15 +1423,16 @@ The parasite may be harmful and be a pathogen depending on host/ pathogen factor
 	- Induction of allergic reactions hypersensitivity - antigens  
 - Vector of other diseases - malaria mosquito
 
-#### Important parasitic diseases  
-##### Malaria  
+#### Important Parasitic Diseases
+##### Malaria
 - 300 million cases & over 2 million deaths per year  
 - Africa - kills a child every 30 sec  
 - Caused by protozoa - Plasmodium falciparum, P. vivax, P. ovale, P. malariae o P. Knowlesii  
 	- P. faliciparum most severe  
 - Carried by the female Anopheles mosquito  
 - Infection occurs when a mosquito feeds
-##### Filarial nematodes  
+
+##### Filarial Nematodes
 - Nematodes - roundworms  
 - Large group causing Lymphatic Filariasis:  
 	- Wucheria bancrofti (90%)  
@@ -1423,14 +1445,15 @@ The parasite may be harmful and be a pathogen depending on host/ pathogen factor
 - Asymptomatic but have hidden lymphatic pathology & kidney damage  
 - Affect genital and leg area- gross enlargement  
 	- elephantiasis
-#### The Plasmodium Life cycle  
+
+#### The Plasmodium Life Cycle
 The Plasmodium life cycle is bi-phasic consisting of asexual replication in the liver (exoerythrocytic) and in the blood (erythrocytic) followed by sexual replication in the mosquito
 
-## Week 10 Damage and pathophysiology of microbial disease  
+## Week 10 Damage And Pathophysiology Of Microbial Disease
 
 
 
-### Introduction  
+### Introduction
 Visible disease is a consequence of host damage  
 Direct interactions: 
 - Production and utilisation of offensive virulence factors  
@@ -1440,7 +1463,8 @@ Indirect interactions
 	- Inflammation, puss formation, kidney malfunctions due to antibody complexes, endotoxic shock - LPS  
 - Work together to produce symptoms
   
-### Microbial toxins  
+
+### Microbial Toxins
 Toxins fall into 2 basic main categories:  
 Exotoxins - secreted from the cell  
 Endotoxins – cell wall associated
@@ -1453,7 +1477,8 @@ Endotoxins – cell wall associated
 - Degredative enzymes can also be classed as virulence factors - Invasins  
 	- Collagenase  
 	- Hyaluronidase
-##### Bacterial Exotoxins  
+
+##### Bacterial Exotoxins
 - Soluble, heat labile secondary protein metabolites produced during growth  
 - Have functions in liberation of nutrients from host and immune avoidance  
 - Mostly produced in G +ves  
@@ -1461,49 +1486,54 @@ Endotoxins – cell wall associated
 - Many carried on plasmids or mobile elements  
 - bacteriophage  
 - Targets for vaccine design - toxoids
-##### The AB toxins  
+
+##### The AB Toxins
 Protein toxins produced in two parts  
-###### A - is the toxic subunit  
+
+###### A - Is The Toxic Subunit
 - Acts intracellularly on a specific mechanism  
 - Many different activities  
 - ADP-ribosylation is a common mechanism  
-###### B - is the protective or binding subunit  
+
+###### B - Is The Protective Or Binding Subunit
 - Allows entry of A subunit  
 - Allows translocation to the cytosol of cell  
 - Determines cell tropism  
 - Induces endocytosis or forms pores  
 	- Oligomers - pentamers, heptamers
 
-##### Site specific toxins  
+##### Site Specific Toxins
 Work at a particular site in the body  
-###### Neurotoxins  
+
+###### Neurotoxins
 - Ingested preformed in food or produced at wound sites  
 - Effect neurones of gut to cause vomiting  
 	- S. aureus entrotoxin B, B. cereus emetic toxin  
 - Botx - once ingested causes flaccid paralysis  
 - Tetx - produced by organism in wounds - rigid paralysis  
-###### Enterotoxins  
+
+###### Enterotoxins
 - Directly affect fluid secretion or kills cells of GI tract 
 	- Cholera toxin - Choleragen  
-###### Cytotoxins  
+
+###### Cytotoxins
 - Generally affect tissue and damage cells directly
 
-#### Endotoxins  
+#### Endotoxins
 Exert biological effects by interaction with and over stimulation of the immune system
 - Intrinsic components of the bacterial or fungal cell wall  
 - Lipopolysaccharide (LPS) - Lipid A - Gram - ve’s  
 - lipoteichoic acids - Gram + ves  
 - Zymozan - component of yeast membranes  
 
-
-#### Diphtheria toxin  
-The mode of action of A - B  toxin produced by C. diptheriae.  
-A and B are internalised through endocytosis where  the toxic A portion is released  
+#### Diphtheria Toxin
+The mode of action of A - B toxin produced by C. diptheriae.  
+A and B are internalised through endocytosis where the toxic A portion is released  
 in the cytosol.  
 The A subunit is an enzyme that modifies a protein essential for protein synthesis. This results in protein synthesis being stopped and the cell dies
 
-### Virulence factors  
-#### Membrane damaging toxins  
+### Virulence Factors
+#### Membrane Damaging Toxins
 Cause lysis by disrupting membrane integrity  
 - Pore forming  
 	- Kills cells by changing osmotic balance  
@@ -1514,8 +1544,8 @@ Cause lysis by disrupting membrane integrity
 	- Remove charged portion of membrane phospholipids  
 	- C. perfringens alpha toxin
 
-#### Super antigen toxins  
-Produced by some bacteria and viruses  (such as: S. aureus - Toxic shock syndrome toxin and enterotoxin B)  
+#### Super Antigen Toxins
+Produced by some bacteria and viruses (such as: S. aureus - Toxic shock syndrome toxin and enterotoxin B)  
 - ‘Short circuit’ the immune system  
 	- Allow non-specific activation of immunity  
 	- Switches on cells that produce chemical messengers  
@@ -1523,8 +1553,8 @@ Produced by some bacteria and viruses  (such as: S. aureus - Toxic shock syndrom
 		- Can activate >30% of total T cells to produce cytokines  
 		- Leads to damage of blood vessels, shock and multi-organ failure
 
-### Enzymes used in invasion  
-#### Invasins promote spread  
+### Enzymes Used In Invasion
+#### Invasins Promote Spread
 - Degredative enzymes used often used in nutrition  
 - Increase severity of disease by allowing penetration to deeper tissues  
 - Kill cells directly, destroy structure of tissue, destroy clotts  
@@ -1532,7 +1562,7 @@ Produced by some bacteria and viruses  (such as: S. aureus - Toxic shock syndrom
 	- Extensive destruction of subcutaneous fat and muscle 
 	- Production of Hyaluronidase  
 	- Streptokinase produced that prevents blood clotting  
-	- Net effect is massive and rapid destruction of whole soft  tissue areas.
+	- Net effect is massive and rapid destruction of whole soft tissue areas.
 - Invasins promote spread  
 - Degredative enzymes used often used in nutrition  
 - Increase severity of disease by allowing penetration to deeper tissues  
@@ -1543,8 +1573,8 @@ Produced by some bacteria and viruses  (such as: S. aureus - Toxic shock syndrom
 	- Streptokinase produced that prevents blood clotting  
 	- Net effect is massive and rapid destruction of whole soft tissue areas.
 
-### Non-secreted toxic components  
-#### Endotoxin  
+### Non-secreted Toxic Components
+#### Endotoxin
 Intrinsic factor found only in G - ve bacteria  
 - Forms a large component of the outer membrane  
 	- Lipopolysaccahride - LPS  
@@ -1555,27 +1585,28 @@ Intrinsic factor found only in G - ve bacteria
 	- Endotoxaemia  
 	- 1 ng introduced intravenously = temp > 1 deg C
 
-#### toxins can  
-- Interfer with cellular processes  (Increase cAMP, stop protein synthesis)  
+#### Toxins Can
+- Interfer with cellular processes (Increase cAMP, stop protein synthesis)  
 - Cause lysis (Form pores or disrupt membranes)  
 - Hyper activation of processes (Super antigens, cAMP levels causing fluid imbalances)  
 - Effect neurones at synapses (Tetanus and botulinum toxin)
 
-### The role of toxins in disease  
-#### Gangrene  
+### The Role Of Toxins In Disease
+#### Gangrene
 Causative agent - Clostridium perfringens  
 - G +ve anaerobic rod  
 - Infects deep wounds - post operative infections  
 	- Very common before antibiotics  
 - Produces a variety of secreted factors  
 	- α - toxin - phospholipase C - hydrolyses phospholipids  
-		- Detergent like  (liquidises fat)
+		- Detergent like (liquidises fat)
 	- β - toxin - haemolysin  
 	- Collagenase  
 - Colonises areas of no blood flow  
 	- Very difficult to treat - defences, drug delivery  
 	- smells bad - production of volatile amines
-#### Tetanus  
+
+#### Tetanus
 Systemic intoxication caused by Clostridium tetani  
 - Gram + ve anaerobic rod  
 - Contaminates deep wounds where O2 conc is very low  
@@ -1586,8 +1617,9 @@ Systemic intoxication caused by Clostridium tetani
 	- Induces continuous stimulation and contraction of muscules  
 	- Causes a RIDGID PARALYSIS  
 	- Contraction of respiratory system leads to death
-#### Botulism  
-Systemic intoxication caused by Clostridium  botulinum  
+
+#### Botulism
+Systemic intoxication caused by Clostridium botulinum  
 - Gram +ve anaerobic rod  
 - Germination of spores and growth in foods liberates botulinum toxin  
 	- Damaged canned goods, honey, hazelnut yogurt?  
@@ -1597,7 +1629,7 @@ Systemic intoxication caused by Clostridium  botulinum
 	- Death occurs through respiratory / cardiac failure  
 	- May be used medically or in cosmetic surgery
 
-#### Cholera  
+#### Cholera
 Toxigenic disease caused by enterotoxin produced by Vibrio cholerae  
 - Gram -ve Comma shaped organism found in faecally contaminated water  
 	- Non-invasive colonisation of the intestinal mucosa  

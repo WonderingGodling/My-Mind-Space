@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/uni/3/6-bc-012-advanced-topics-in-biological-sciences/advanced-topics-in-biological-sciences/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"![[Pasted image 20260909215319.png]]","Date Created":"253·09·2026 13:41 (Thursday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Pasted image 20260909215319.png","thumbnail":"thumbnails/resized/5eae44d4f5845c1b1831371c8437d46d_86cf658e.webp"}}
+{"Publish":true,"permalink":"/uni/3/6-bc-012-advanced-topics-in-biological-sciences/advanced-topics-in-biological-sciences/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"![[Files And Shit/Pasted image 20260909215319.png]]","Date Created":"253·09·2026 13:41 (Thursday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Files And Shit/Pasted image 20260909215319.png","thumbnail":"thumbnails/resized/5eae44d4f5845c1b1831371c8437d46d_86cf658e.webp"}}
 ---
 
 
@@ -62,7 +62,7 @@ Microbial Biotechnology
 Biochemistry
 
 As applied to a single topic
-![Pasted image 20260909215319.png](/img/user/Pasted%20image%2020260909215319.png)
+![Pasted image 20260909215319.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260909215319.png)
 **IR 7.** ‘Bacterial engineers ‘ -  critically discuss their role in  production of functional biomaterials.
 **GM 6**. For a named bacterial pathogen discuss its key pathogenic mechanisms and one of the methods that was used to identify them.
 

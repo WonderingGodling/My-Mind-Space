@@ -14,7 +14,7 @@
 ## Misc
 
 <p><span>  
-    <progress title="Page 97 of {{totalPage}}" style="width:80%; height:16px;" value="0" max="100"></progress>
-    <strong>97/{{totalPage}} (0% )</strong>
+    <progress title="Page 0 of {{totalPage}}" style="width:80%; height:16px;" value="0" max="100"></progress>
+    <strong>0/{{totalPage}} (0% )</strong>
   </span></p>
 

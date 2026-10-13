@@ -173,7 +173,7 @@ Healing Light
 Watcher's Eye (You can easily find the local outpost of the guild or a similar organization, and just as easily pick out the dens of criminal activity in a community)
 
 ## Poacher
-![20260405_154155.jpg](/img/user/20260405_154155.jpg)
+![20260405_154155.jpg](/img/user/Files%20And%20Shit/20260405_154155.jpg)
 ![Poacher.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Files%20And%20Shit/Poacher.png)
 
 ## Notes
@@ -322,7 +322,7 @@ Healing Light
 Watcher's Eye (You can easily find the local outpost of the guild or a similar organization, and just as easily pick out the dens of criminal activity in a community)
 
 ## Poacher
-![20260405_154155.jpg](/img/user/20260405_154155.jpg)
+![20260405_154155.jpg](/img/user/Files%20And%20Shit/20260405_154155.jpg)
 ![Poacher.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Files%20And%20Shit/Poacher.png)
 
 

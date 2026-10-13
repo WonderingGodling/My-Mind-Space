@@ -1006,7 +1006,7 @@ Got New Speakers
 
 Just Got The Arcane S2 Soundtrack On CD Because Half Price
 
-Thanks [[Explicitly Showcased/People/Special Ones/Claire/Val\|Val]]
+Thanks [[Explicitly Showcased/People/Special Ones/Claire/Claire Bear\|Claire Bear]]
 
 
 Its So Cool That Me And Claire Have The Same Speakers!

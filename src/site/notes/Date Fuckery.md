@@ -32,7 +32,7 @@
 
 Date Countdown Progress Bar
 
-<p><span><strong>COUNTDOWN</strong>     <progress max="238" value="0" style="height:10px;width:20%"></progress>    <strong>0%</strong> | 10 days remaining</span></p>
+<p><span><strong>COUNTDOWN</strong>     <progress max="223" value="0" style="height:10px;width:20%"></progress>    <strong>0%</strong> | 10 days remaining</span></p>
 
 ```javascript
 var now = moment();
@@ -60,6 +60,6 @@ function getDatePercent() {
 console.log(getDatePercent())
 ```
 
-<p><span><strong>Day %age</strong>     <progress max="100" value="4.1782407407407405" style="height:10px;width:20%"></progress></span></p>
+<p><span><strong>Day %age</strong>     <progress max="100" value="70.67824074074075" style="height:10px;width:20%"></progress></span></p>
 
-[[[Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/285·2026 (Monday).md\|285·2026 (Monday)]]]
+[[[Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/286·2026 (Tuesday).md\|286·2026 (Tuesday)]]]

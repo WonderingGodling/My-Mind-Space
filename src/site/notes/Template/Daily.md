@@ -1,11 +1,11 @@
 ---
-{"Publish":true,"permalink":"/template/daily/","hideInGraph":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Icon":"[[Files And Shit 1/CalendarRange.svg]]","Featured":"","Yesterday":null,"Tomorrow":null}}
+{"Publish":true,"permalink":"/template/daily/","hideInGraph":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Icon":"[[Files And Shit/CalendarRange.svg]]","Featured":"","Yesterday":null,"Tomorrow":null}}
 ---
 
 
 # <center><span style="color:#AAAAFF">{{date}}</span></center>
 
-<p><span><strong>Day Age</strong>     <progress max="100" value="49.90625" style="height:10px;width:20%"></progress>    49.90625 </span></p>
+<p><span><strong>Day Age</strong>     <progress max="100" value="70.79745370370371" style="height:10px;width:20%"></progress>    70.79745370370371 </span></p>
 
 
 ```

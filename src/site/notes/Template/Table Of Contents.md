@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/template/table-of-contents/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{}}
+{"Publish":true,"permalink":"/template/table-of-contents/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Icon":null}}
 ---
 
 
