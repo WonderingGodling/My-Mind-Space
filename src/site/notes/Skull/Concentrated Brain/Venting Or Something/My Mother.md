@@ -1,9 +1,9 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/venting-or-something/my-mother/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Venting Or Something]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"![images/20231212_000310.jpg](/img/user/images/20231212_000310.jpg)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/venting-or-something/my-mother/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Branches/Venting Or Something]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"[[Files And Shit/20231212_000310.jpg]]","Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Files And Shit/20231212_000310.jpg","thumbnail":"thumbnails/resized/bc0fe72e70af8d243dd5effb0c21cc86_86cf658e.webp"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#F00000">My Mother: A Failure In Three Acts Part Who Gives A Fuck (I Know She Doesnt)</span></center>
 
@@ -41,7 +41,7 @@ same day she buys food from a chip shop (Because she hasnt cooked in a week or t
 My Brother Comes To Get [[Explicitly Showcased/Me/Me\|Me]] From My Room And When We Get Back Shes Setting Out The Food, My Brothers' In A Plate, Bread Being Buttered To Go Along With It
 The Two Of Them Have A Chat And In The Middle Of This Chat My Food (Still In The Bag Gets Thrusted Towards [[Explicitly Showcased/Me/Me\|Me]]")
 So I Just Watched Her Be Nice To My Brother While Waiting For Her To Move So I Can Get A Fork
-Im Not  Saying Dont Have Favourites, I Am Saying Dont Neglect Your Child (I Still Got Food So I Know We'll Both Count It As A Win)
+Im Not Saying Dont Have Favourites, I Am Saying Dont Neglect Your Child (I Still Got Food So I Know We'll Both Count It As A Win)
 
 She Thinks Shes Some Kind of Saint Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] 
 She Put Some Random Food In The Oven Last Night For The First Time In Two Weeks And Then Said Absolutely [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] To [[Explicitly Showcased/Me/Me\|Me]] Until Today 
@@ -89,7 +89,7 @@ Maybe Ill Start Including Every Interaction We Have
 I Mean Other Than I Was In Her Room On Saturday I Think Youre All Caught Up For The Month
 ‍
 For Anyone Who Wants To See The Huge, Unforgivable Mess I Made In The Kitchen
-![20231212_000310.jpg](/img/user/images/20231212_000310.jpg)
+![20231212_000310.jpg](/img/user/Files%20And%20Shit/20231212_000310.jpg)
 <sub>That Has Food In It By The Way
 I Didnt Trust My Mother To Not Let Us Starve So I Made Enough To Eat TomorrowAs Well</sub>
 
@@ -149,4 +149,4 @@ My [[Skull/Concentrated Brain/Venting Or Something/My Mother\|Mother]] Was Talki
 
   ‍​ 
 
-<center><span style="color:#F00000"><sub>Over And Out  /̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿ (╥﹏╥)</sub></span></center>
+<center><span style="color:#F00000"><sub>Over And Out /̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿ (╥﹏╥)</sub></span></center>

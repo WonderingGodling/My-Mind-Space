@@ -1,8 +1,10 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/the-human-centipede-first-sequence/","tags":["HumanCentipede"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"Human Centipede (First Sequence)","comments":false,"show-local-graph":false,"tags":["HumanCentipede"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/the-human-centipede-first-sequence/","tags":["HumanCentipede"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"Human Centipede (First Sequence)","comments":false,"show-local-graph":false,"tags":["HumanCentipede"],"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
+
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
+
 # (First Sequence)
 
 
@@ -19,6 +21,7 @@ According to Six, the concept arose from a joke he had made with friends about p
 When approaching investors to fund the project, Six did not mention the premise of the film for fear of putting off potential backers; financiers did not discover the full nature of the film until completion.
 
 The film held its premiere at the London FrightFest Film Festival on 30 August 2009. It received a limited theatrical release in the United States on 30 April 2010. Despite a mixed critical reception, the film won several accolades at international film festivals. Two sequels that were also written and directed by Six—Full Sequence and Final Sequence—were released in 2011 and 2015, respectively. The entire trilogy was combined into a single film in 2016, titled Complete Sequence, which Six described as a "movie centipede" due to each Sequence leading into its successor while simultaneously working as a separate standalone film.
+
 
 </div></div>
 
@@ -40,6 +43,7 @@ Andreas Leupold as Detective Kranz, a police officer.
 Peter Blankenstein as Detective Voller, a police officer.
 
 <center><sub>Done :)</sub></center>
+
 
 </div></div>
 
@@ -74,6 +78,7 @@ Two detectives, Kranz and Voller, visit the house to investigate the disappearan
 
 Upon returning to Heiter's home, the detectives conduct separate searches as Heiter, injured, hides near his swimming pool. Kranz finds the ward along with Heiter's victims. Voller begins to feel ill from the earlier drugging, and Heiter stabs him with the scalpel pulled from his foot during Katsuro's attack. Upon finding Voller dead, Kranz is shot by Heiter with Voller's sidearm. Kranz responds by fatally shooting Heiter in the head before succumbing to his wounds. Back in the house, Jenny and Lindsay hold hands as Jenny dies. Lindsay sobs as she is left alone in the house, trapped between her deceased fellow captives.
 
+
 </div></div>
 
 
@@ -91,7 +96,8 @@ Upon returning to Heiter's home, the detectives conduct separate searches as Hei
 
 
 
-# Human Centipede (First Sequence) Production 
+
+# Human Centipede (First Sequence) Production
 
 ## Writing
 
@@ -118,6 +124,7 @@ Six stated in the director's commentary for The Human Centipede that he has a pe
 ### Funding
 While seeking funding for the film, Six pitched the idea of a surgeon who sewed people together. He did not initially reveal that the victims would be joined mouth-to-anus, as he believed this idea would stand no chance of receiving investments. His backers felt that the idea of a surgeon sewing people together was original and Six received funding. However, they did not learn the exact details of the film until it had been completed. Six claimed that they were very happy with the finished film. Before signing on, the actors were given an outline of the storyboard rather than a complete script. They were also shown sketches of how the centipede would be formed.
 
+
 </div></div>
 
 
@@ -127,7 +134,8 @@ While seeking funding for the film, Six pitched the idea of a surgeon who sewed 
 
 
 
-# Production 
+
+# Production
 
 ## Filming
 
@@ -156,6 +164,7 @@ Many of the sound effects in The Human Centipede were created by manipulating 
 #### Toll
 Due to the discomfort of spending long periods on their hands and knees, the actors playing the centipede were given massages at the end of each day of filming. Yennie stated that she and Williams experienced jaw pain from holding a bit in their mouths during filming, but overall she did not feel that the physical side of filming had been excessively difficult.
 
+
 </div></div>
 
 
@@ -165,7 +174,8 @@ Due to the discomfort of spending long periods on their hands and knees, the act
 
 
 
-# Human Centipede (First Sequence) Production 
+
+# Human Centipede (First Sequence) Production
 
 ## Editing
 
@@ -188,6 +198,7 @@ When Heiter's window is repaired after Lindsay's escape attempt, the use of a t
 </div></div>
 
 
+
 </div></div>
 
 
@@ -198,6 +209,7 @@ When Heiter's window is repaired after Lindsay's escape attempt, the use of a t
 
 
 # Release
+
 
 </div></div>
 
@@ -219,6 +231,7 @@ The plot of Full Sequence involves a man who, after becoming sexually obsessed w
 The third and final film in the trilogy, The Human Centipede 3 (Final Sequence), received a limited theatrical release on 22 May 2015. The film features the largest human centipede in the series, composed of five hundred victims, as Six says, "each film is a reaction to the other. And the film got so big, it was a pop culture phenomenon, and people wanted more: a bigger centipede, helicopters and things… it had to be bigger and bigger. And what I did, I used the idea and almost made a parody on the human centipede films itself." As Full Sequence was intended to make First Sequence look like My Little Pony in comparison, Final Sequence was intended to make Full Sequence resemble a Disney film. The movie features the tag-line "100% Politically Incorrect". Both Dieter Laser and Full Sequence star Laurence R. Harvey returned in starring, albeit different, roles.
 
 The Human Centipede (Final Sequence) was nominated for two Golden Raspberry Awards in the categories of "Worst Director" and "Worst Prequel, Remake, Rip-Off, or Sequel", respectively. It was also named the second worst movie of 2015 by Entertainment Weekly and The A.V. Club. In 2016, a compilation film of the entire trilogy titled The Human Centipede (Complete Sequence): The Movie Centipede was released, running a total of 275 minutes.
+
 
 </div></div>
 
@@ -276,7 +289,6 @@ Body Count: 6
 
 This is the only Human Centipede film where the villain dies at the end of the film.
 
-
 #### Continuity
 When Lindsay spills her drugged glass of water, it is nearly empty, and approximately 3/4 of an inch (one centimeter) of liquid remains. In the next scene, after Dr. Heiter goes downstairs and the woman says, "It's freaking me out!" the glass is half-filled with water again.
 
@@ -310,4 +322,6 @@ When the human centipede is being trained to fetch the newspaper, Lindsay can be
 
 When Lindsey is hiding in the doctor's bedroom and screams, "You're a sick man; you need help!" you can see a face move in the mirror behind her (which is definitely not hers because of the hair).
 
+
 </div></div>
+

@@ -1,9 +1,9 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/human-centipede/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"![Files And Shit/thumbnails/external/9d2001ed9127b007e68ae118567761ea.failed.png](/img/user/Files%20And%20Shit/thumbnails/external/9d2001ed9127b007e68ae118567761ea.failed.png)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/human-centipede/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"[[Files And Shit/external/9d2001ed9127b007e68ae118567761ea.failed.png]]","Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"thumbnails/external/9d2001ed9127b007e68ae118567761ea.failed.png","thumbnail":"thumbnails/resized/5e3ec682aee40a28264ce99e4a9b7654_86cf658e.webp"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#656005">Human Centipede</span></center>
 
@@ -21,7 +21,6 @@ When approaching investors to fund the project, Six did not mention the premise 
 
 The film held its premiere at the London FrightFest Film Festival on 30 August 2009. It received a limited theatrical release in the United States on 30 April 2010. Despite a mixed critical reception, the film won several accolades at international film festivals. Two sequels that were also written and directed by Six—Full Sequence and Final Sequence—were released in 2011 and 2015, respectively. The entire trilogy was combined into a single film in 2016, titled Complete Sequence, which Six described as a "movie centipede" due to each Sequence leading into its successor while simultaneously working as a separate standalone film.
 
-
 ## Cast
 
 Dieter Laser as Josef Heiter, a retired surgeon who specialised in the separation of conjoined twins, but in retirement is more interested in joining creatures together. Casting for the role of Heiter took place in Berlin, and Six intended to cast Laser before he had even read for the part, after Six saw a DVD of one of Laser's previous films. Laser had previously appeared in over 60 mostly German-language films, including [![](data:image/png;base64,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)Der Unhold](https://en.wikipedia.org/wiki/TheOgre\(1996film\) "The Ogre (1996 film)") and Baltic Storm (he speaks German in parts of First Sequence as well). Upon meeting him in Berlin, Six gave Laser a shot-by-shot explanation of Heiter's scenes, and Laser, impressed by Six's dedication and passion, agreed to take part in the film Laser contributed considerably to the development of Heiter's character. For example, because Heiter views the "centipede" as his pet, Laser felt that it was important that Heiter appear naked during a scene in which he swam in full view of his victims, because Laser said "you aren't ashamed to be naked" around a pet.  
@@ -31,7 +30,6 @@ Akihiro Kitamura as Katsuro, a Japanese tourist and front section of the centip
 Rene de Wit as Truck Driver, one of Heiter's victims. De Wit had previously worked with Six in his 2008 film I Love Dries.  
 Andreas Leupold as Detective Kranz, a police officer.  
 Peter Blankenstein as Detective Voller, a police officer.
-
 
 ## Plot
 
@@ -56,7 +54,6 @@ Heiter is displeased with the realization that Lindsay is constipated. He propo
 Two detectives, Kranz and Voller, visit the house to investigate the disappearance of the three tourists. Heiter comes up with an idea to add them as replacements for Jenny in a new creation: a four-segment centipede. He offers the detectives water spiked with Rohypnol. After being given the drugged water, the detectives become suspicious and obtain a search warrant for his home. When the detectives leave Heiter's home, the victims attempt to escape. Katsuro attacks Heiter. Their attempt to escape fails. Katsuro confesses to Heiter that he deserves this fate because he treated his family poorly, then takes his own life by slitting his throat with a glass shard, trapping the girls.
 
 Upon returning to Heiter's home, the detectives conduct separate searches as Heiter, injured, hides near his swimming pool. Kranz finds the ward along with Heiter's victims. Voller begins to feel ill from the earlier drugging, and Heiter stabs him with the scalpel pulled from his foot during Katsuro's attack. Upon finding Voller dead, Kranz is shot by Heiter with Voller's sidearm. Kranz responds by fatally shooting Heiter in the head before succumbing to his wounds. Back in the house, Jenny and Lindsay hold hands as Jenny dies. Lindsay sobs as she is left alone in the house, trapped between her deceased fellow captives.
-
 
 ## Human Centipede (First Sequence) Production
 
@@ -146,9 +143,6 @@ The rain when Jenny and Lindsay's car breaks down was added digitally in post-pr
 
 When Heiter's window is repaired after Lindsay's escape attempt, the use of a tracking shot through the window pane required the reflection of the crew to be digitally removed from the glass. The film contains a large number of long tracking shots; Six has cited the influence of Takashi Miike who also uses many tracking shots in his films.
 
-
-
-
 # Sequels
 
 When [Tom Six](app://obsidian.md/Tom%20Six) began creating the Human Centipede sequels, he envisioned a trilogy that works as a "movie centipede". Each sequel opens with the ending of the previous film, as the events of that film influence said sequel. Although every film works as a standalone movie, they can all be connected to form a single 4.5-hour-long film.
@@ -161,10 +155,6 @@ The third and final film in the trilogy, The Human Centipede 3 (Final Sequence),
 
 The Human Centipede (Final Sequence) was nominated for two Golden Raspberry Awards in the categories of "Worst Director" and "Worst Prequel, Remake, Rip-Off, or Sequel", respectively. It was also named the second worst movie of 2015 by Entertainment Weekly and The A.V. Club. In 2016, a compilation film of the entire trilogy titled The Human Centipede (Complete Sequence): The Movie Centipede was released, running a total of 275 minutes.
 
-
-
-
-
 # Full Sequence
 
 # The Human Centipede (Full Sequence) Summary
@@ -172,7 +162,6 @@ The Human Centipede (Final Sequence) was nominated for two Golden Raspberry Awar
 The Human Centipede 2 (Full Sequence) is a 2011 psychological body horror film written, directed, and co-produced by [[Skull/Concentrated Brain/Random Facts/People/I Dont Know/Tom Six\|Tom Six]]. An international co-production of the Netherlands and the United Kingdom, and the sequel to Six's 2009 film The Human Centipede (First Sequence), the film stars Laurence R. Harvey as a psychiatrically and intellectually impaired English man who watches and becomes obsessed with the first Human Centipede film, and decides to make his own "centipede" consisting of 12 people, including Ashlynn Yennie, an actress from the first film.
 
 The Human Centipede 2 (Full Sequence) received substantial attention and controversy for its graphic depictions of violence, sexual violence and body horror. It was subject to heavy censorship throughout the world, where it was sometimes edited to remove objectionable content or banned altogether. It was critically panned, with much criticism focused on its acting, plot, and violence, although Harvey's performance received some praise.
-
 
 # The Human Centipede (Full Sequence) Plot
 
@@ -199,6 +188,7 @@ The scene cuts back to the tollbooth, with Martin rewatching the credits of [[S
 # The Human Centipede (Final Sequence) Summary
 
 The Human Centipede (Final Sequence) is a 2015 English-language Dutch black comedy body horror film written and directed by [[Skull/Concentrated Brain/Random Facts/People/I Dont Know/Tom Six\|Tom Six]]. It is the conclusion to Six's The Human Centipede trilogy Starring Dieter Laser and Laurence R. Harvey, the leading actors from the first two films, in new roles, The Human Centipede 3 was released both theatrically and on video on demand on 22 May 2015. The film was slammed with negative reviews from critics due to its overwhelming gore and repetitive plot to its predecessors.
+
 # The Human Centipede (Final Sequence) Plot
 
 At George H. W. Bush State Prison in the Southwestern United States, William "Bill" Boss, a cannibalistic, psychopathic warden, watches the end of [[Skull/Concentrated Brain/Random Facts/People Repellant/Human Centipede/Full Sequence/The Human Centipede (Full Sequence)\|The Human Centipede (Full Sequence)]] with his accountant, Dwight Butler.
@@ -217,6 +207,7 @@ In an alternate ending, Doctor Josef Heiter lays in his bed, implying that the p
 
 # Facts
 - ### First Sequence Facts
+
 #### Meta
 
 Director [Tom Six](app://obsidian.md/Tom%20Six) showed a drawing of the human centipede to all the actresses who showed up to the casting sessions. Many actresses walked out in disgust after discovering what the role actually entailed.

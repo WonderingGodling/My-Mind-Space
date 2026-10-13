@@ -1,13 +1,13 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/hypotheticals/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/hypotheticals/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
  float: right;
 }
 </style>
-
 
 # <center><span style="color:#FEDCBA">Hypotheticals</span></center>
 
@@ -20,9 +20,9 @@
 
 ## You Walk Into A Room And You See Your Best Friend Elbow Deep In A Futuristic Looking Sex Robot. They Look Paniced And Say "Hey, Its Not What It Looks Like. I'm Stuck!". Obviously You Help Them (Or At Least Try) They Are, In Fact, Stuck. How Long Do You Try To Help Before You Give Up.
 
-## If you and you're SO switched bodies for 24 hours, would you have sex with them
+## If You And You're SO Switched Bodies For 24 Hours, Would You Have Sex With Them
 
-## Would you still jack off if when you came your semen was just one big sperm?
+## Would You Still Jack Off If When You Came Your Semen Was Just One Big Sperm?
 ### What If You Had To Kill It Afterwards
 
 ## Your Best Friend Invites You To Their House And Gives You A Christmas Gift Despite You Agreeing That You Were Skipping This Year. It Is The Sex Robot That They Were Stuck In That One Time. On A Scale Of One To Ten How Happy Do You Pretend To Be Receiving This Gift.

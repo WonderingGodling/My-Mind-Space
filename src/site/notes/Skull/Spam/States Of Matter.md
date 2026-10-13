@@ -1,10 +1,11 @@
 ---
-{"Publish":true,"permalink":"/skull/spam/states-of-matter/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Remember]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null}}
+{"Publish":true,"permalink":"/skull/spam/states-of-matter/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Remember]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
+
 
 Here’s the most inclusive list of states of matter, including the ones that haven’t been previously mentioned. This should now cover the entire spectrum of both classical and exotic states of matter:
 
-### **Low-energy States of Matter:**
+### **Low-energy States Of Matter:**
 1. **Solid**  
 2. **Amorphous Solid**  
 3. **Crystalline Solid**  
@@ -17,7 +18,7 @@ Here’s the most inclusive list of states of matter, including the ones that ha
    - Supercritical Fluid  
 8. **Plasma**  
 
-### **Condensates, Superfluids, and Superconductors:**
+### **Condensates, Superfluids, And Superconductors:**
 9. **Bose-Einstein Condensate (BEC)**  
 10. **Fermionic Condensate**  
 11. **Superconductor**  
@@ -43,7 +44,7 @@ Here’s the most inclusive list of states of matter, including the ones that ha
 24. **Charge Ordering**  
 25. **Charge Density Wave**  
 
-### **Topological States of Matter:**
+### **Topological States Of Matter:**
 26. **Quantum Hall State**  
 27. **Fractional Quantum Hall State**  
 28. **Quantum Spin Hall State**  
@@ -57,7 +58,7 @@ Here’s the most inclusive list of states of matter, including the ones that ha
    - Dirac Semimetal  
 35. **Topological Superconductor**  
 
-### **Classification by Conductivity:**
+### **Classification By Conductivity:**
 36. **Metal**  
    - Fermi Liquid  
    - Non-Fermi Liquid  
@@ -78,7 +79,7 @@ Here’s the most inclusive list of states of matter, including the ones that ha
    - Ferroelastic State  
 45. **Photon Molecule**  
 
-### **High-Energy States of Matter:**
+### **High-Energy States Of Matter:**
 46. **Degenerate Matter**  
    - Electron-degenerate Matter  
    - Neutron-degenerate Matter  
@@ -88,7 +89,7 @@ Here’s the most inclusive list of states of matter, including the ones that ha
 50. **Color Superconductivity**  
 51. **Quark–Gluon Plasma**  
 
-### **Additional or Theoretical States:**
+### **Additional Or Theoretical States:**
 52. **Rydberg Matter**  
    - A phase where atoms are in a highly excited Rydberg state with outer electrons at high energy levels.  
 53. **Photonic Matter**  
@@ -112,7 +113,7 @@ Here’s the most inclusive list of states of matter, including the ones that ha
 62. **Quasi-Periodic States**  
    - States where matter exhibits order and structure, but not in the form of traditional periodicity, potentially applicable in materials like quasicrystals.
 
-### **Other Hypothetical and Extreme Forms:**
+### **Other Hypothetical And Extreme Forms:**
 63. **Quantum Gravity States**  
    - Theoretical states of matter that would emerge under the extreme conditions where quantum mechanics and gravity both play crucial roles, potentially involving quantum black holes or other phenomena.  
 64. **Planck Matter**  

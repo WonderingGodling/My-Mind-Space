@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/thought-emporium-or-whatever/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"282·10·2026 0:38 (Friday)","dg-note-properties":{"Type":null,"Up":"[[Constant Comment (Not The Tea)|Constant Commment]]","Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Thoughts","Rambles"],"Title":"Filtered Thoughts","Comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":"Thought Emporium Or Whatever","Featured":"![Files And Shit/thumbnails/external/4a33ea3a756e00c12a105a629df464e2.png](/img/user/Files%20And%20Shit/thumbnails/external/4a33ea3a756e00c12a105a629df464e2.png)","Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"282·10·2026 0:38 (Friday)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/thought-emporium-or-whatever/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"Up":"[[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)|Constant Commment]]","Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Thoughts","Rambles"],"Title":"Filtered Thoughts","Comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":"Thought Emporium Or Whatever","Featured":"[[Files And Shit/external/4a33ea3a756e00c12a105a629df464e2.png]]","Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"thumbnails/external/4a33ea3a756e00c12a105a629df464e2.png","thumbnail":"thumbnails/resized/286b2e44db81999b9671afed76766543_86cf658e.webp"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -37,7 +38,7 @@ And Yeah.... I Did Forget About This
 
 ### Back To Random
 
-Also I Miss My [[Explicitly Showcased/People/Special Ones/Sunshine/Vie\|Vie]]
+Also I Miss My [[Explicitly Showcased/People/Forsaken/Sunshine/Vie\|Vie]]
 We Need To Talk More
 
 ### We Imported Still
@@ -164,22 +165,22 @@ Itll Be Interesting To See If Two [[Branches/People Branch\|People Branch]] Hate
 
 <body>
 <form>
-    <label for="pswd">One More Time</label>
-    <input type="password" id="pswd">
-    <input type="button" value="Submit" onclick="checkPswd();" />
+	<label for="pswd">One More Time</label>
+	<input type="password" id="pswd">
+	<input type="button" value="Submit" onclick="checkPswd();" />
 </form>
 
 <script type="text/javascript">
-    function checkPswd() {
-        var confirmPassword = "I, Of Sound Body And Mind Commit To Reading This";
-        var password = document.getElementById("pswd").value;
-        if (password == confirmPassword) {
-             window.location="https://my-mind-space.vercel.app/skull/concentrated-brain/random-thoughts/everything-i-have-to-say-that-not-personal-for-other-people-this-is-kinda-sad-and-gross-and-stuff-so-you-have-been-warned/";
-        }
-        else{
-            alert("Sounds Like You Do Not Belong Here");
-        }
-    }
+	function checkPswd() {
+		var confirmPassword = "I, Of Sound Body And Mind Commit To Reading This";
+		var password = document.getElementById("pswd").value;
+		if (password == confirmPassword) {
+			 window.location="https://my-mind-space.vercel.app/skull/concentrated-brain/random-thoughts/everything-i-have-to-say-that-not-personal-for-other-people-this-is-kinda-sad-and-gross-and-stuff-so-you-have-been-warned/";
+		}
+		else{
+			alert("Sounds Like You Do Not Belong Here");
+		}
+	}
 </script>
 </body>
 </html>

@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/projects/hamilton/who-lives-who-dies-who-tells-your-story/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/projects/hamilton/who-lives-who-dies-who-tells-your-story/","noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
+
 
 [WASHINGTON]
 Let me tell you what I wish I’d known

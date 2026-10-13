@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/things-i-was-thinking-while-being-attacked-by-insomnia/","tags":["RandomThoughts","Insomnia","TmaReference","Rambling"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"I Was Tired","comments":true,"show-local-graph":false,"tags":["RandomThoughts","Insomnia","TmaReference","Rambling"],"Type":"Rambling","Up":"[[Random Thoughts]]"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/things-i-was-thinking-while-being-attacked-by-insomnia/","tags":["RandomThoughts","Insomnia","TmaReference","Rambling"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"I Was Tired","comments":true,"show-local-graph":false,"tags":["RandomThoughts","Insomnia","TmaReference","Rambling"],"Type":"Rambling","Up":"[[Branches/Random Thoughts]]","Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
@@ -13,5 +14,3 @@ I Know [[WHAT\|WHAT]] Youre Thinking And Yes
 We Should Bring That Back
 
 I Never Could Sleep Well To Be Fair
-
-

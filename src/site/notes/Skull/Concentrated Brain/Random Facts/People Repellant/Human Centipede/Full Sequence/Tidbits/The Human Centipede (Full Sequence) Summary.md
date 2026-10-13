@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/full-sequence/tidbits/the-human-centipede-full-sequence-summary/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Yesterday":null,"Tomorrow":null}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/full-sequence/tidbits/the-human-centipede-full-sequence-summary/","noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 # The Human Centipede (Full Sequence) Summary
 

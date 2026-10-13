@@ -1,8 +1,10 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/phobophilia/","tags":["fear","RandomThoughts","Love","Psychological"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"Phobophilia","comments":true,"show-local-graph":false,"tags":["fear","RandomThoughts","Love","Psychological"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/phobophilia/","tags":["fear","RandomThoughts","Love","Psychological"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"Phobophilia","comments":true,"show-local-graph":false,"tags":["fear","RandomThoughts","Love","Psychological"],"Date Created":"278·10·2026 16:55 (Monday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
 
+
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
+
 # Phobophilia
 
 So Basically Most [[Branches/People Branch\|People Branch]] Are Scared Of [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Right
@@ -17,9 +19,6 @@ Thats The Fear Of Knowledge Or Learning [[Skull/Concentrated Brain/Poetry Appare
 I Feel Most Comfortable Opposing This So Estemophilia
 Which Ill Describe As A Desire To Acquire More, New Information
 
-This Is An Unrelated Thought Im Adding In Editing But Love[^1] You <hide> [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|██]] </hide>
+This Is An Unrelated Thought Im Adding In Editing But Love[^1] You <hide> [[Explicitly Showcased/People/Forsaken/Sunshine/Moirail\|██]] </hide>
 
-
-
-
-[^1]:  Loved
+[^1]: Loved

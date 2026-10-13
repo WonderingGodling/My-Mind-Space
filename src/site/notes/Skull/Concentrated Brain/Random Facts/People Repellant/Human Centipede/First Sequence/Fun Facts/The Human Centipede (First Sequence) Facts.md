@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/fun-facts/the-human-centipede-first-sequence-facts/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"permalink":"The Human Centipede (First Sequence) Facts"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/fun-facts/the-human-centipede-first-sequence-facts/","noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"permalink":"The Human Centipede (First Sequence) Facts","Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
 
@@ -49,7 +49,6 @@ The special effects team was led by Rob and Erik Hillenbrink, father and son. Th
 Body Count: 6
 
 This is the only Human Centipede film where the villain dies at the end of the film.
-
 
 #### Continuity
 When Lindsay spills her drugged glass of water, it is nearly empty, and approximately 3/4 of an inch (one centimeter) of liquid remains. In the next scene, after Dr. Heiter goes downstairs and the woman says, "It's freaking me out!" the glass is half-filled with water again.

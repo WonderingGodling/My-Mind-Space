@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/everything-i-have-to-say-that-not-personal-for-other-people-this-is-kinda-sad-and-gross-and-stuff-so-you-have-been-warned/","hideInGraph":true,"tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Thought Emporium Or Whatever|Thoughts]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"show-local-graph":true,"tags":["Tagless"],"permalink":null,"Similarly Rooted":null,"Date Created":null,"Session Number":null,"Banner":null}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/everything-i-have-to-say-that-not-personal-for-other-people-this-is-kinda-sad-and-gross-and-stuff-so-you-have-been-warned/","hideInGraph":true,"tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Skull/Concentrated Brain/Random Thoughts/Thought Emporium Or Whatever|Thoughts]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":true,"tags":["Tagless"],"permalink":null,"Similarly Rooted":null,"Date Created":"200·07·2026 12:40 (Sunday)","Session Number":null,"Icon":null,"Banner":null,"Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
 
 
@@ -8,7 +8,6 @@
  float: right;
 }
 </style>
-
 
 # <center><span style="color:#FFDCAA">Everything I Have To Say That Not Personal (For Other People) This Is Kinda Sad And Gross And Stuff SO You Have Been Warned</span></center>
 

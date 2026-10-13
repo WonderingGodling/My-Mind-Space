@@ -1,9 +1,9 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/venting-or-something/the-comment-was-a-rant/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Constant Comment (Not The Tea)]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Rant","Vent","Ugh"],"Title":"Ranting Dump","comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/venting-or-something/the-comment-was-a-rant/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Skull/Concentrated Brain/Random Thoughts/Constant Comment (Not The Tea)]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Rant","Vent","Ugh"],"Title":"Ranting Dump","comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#4219a7">The Comment Was A Rant</span></center>
 
@@ -134,11 +134,11 @@ Its Been Over A Week Since Ive Said Anything And That New Installment Is Lamenti
 Being Perceived Isnt For Everybody 
 I Know Its Not For [[Explicitly Showcased/Me/Me\|Me]]
 
-•9314
+-9314
 I Just Realised I've Felt Quite "...." This Evening Which Is Very Impressive When You Consider That On Any Given Day: I Cant Feel
 [[WHAT\|WHAT]] That Means Is ~~I've Simply Been Rotting..............Complacent~~! Ive Simply Been Rotting Complacently Without Realising That Either The Rotting Or The Complacency Was An Option
 
-•1440 Lets See How Late I Sleep In
+-1440 Lets See How Late I Sleep In
 
 I Really Need to Type Stuff Up More Because Keeping It In Is Driving [[Explicitly Showcased/Me/Me\|Me]] Towards Madness And The [[Branches/People Branch\|People Branch]] Who At Least Pretend To Care All Have Actual Things That Go On On Their Actual Lives--
 
@@ -159,7 +159,7 @@ Ive Been Up For Like Two Hours, Done [[Skull/Concentrated Brain/Poetry Apparentl
 
 I Haven't Really Eaten Or Drank Anything All Day And My [[Skull/Concentrated Brain/Venting Or Something/My Mother\|My Mother]]'s Been Camping The Kitchen For Hours
 
-[[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Moirail]]'s Too Busy Cleaning To Deal With [[Explicitly Showcased/Me/Me\|Me]] Dx
+[[Explicitly Showcased/People/Forsaken/Sunshine/Moirail\|Moirail]]'s Too Busy Cleaning To Deal With [[Explicitly Showcased/Me/Me\|Me]] Dx
 
 Why The [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]] Are Family So Damn Loud
 It Doesn't Help That My Aunt Can Drown Out The Cries Of A Tortured Hyena, Nor That Everyones Response To The Calamity That Spills From Her Lips Is To Shout Over It
@@ -186,9 +186,9 @@ Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 Gonna Blow My Brains Out I Hate This I Hate This I Hate This I Hate This I Hatie This I Hate This I Hate This I Haite This
 <b>SIGH</b>
 
-I Haven't Talked To [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Moirail]] In Over A Week And Its Actually Killing [[Explicitly Showcased/Me/Me\|Me]] And I Cant Talk To Anyone About It Because Best Case Scenario Literally Gets [[Explicitly Showcased/Me/Me\|Me]] Nowhere And Worse Case Scenario Probably Gets [[Explicitly Showcased/Me/Me\|Me]] Starved To Death
+I Haven't Talked To [[Explicitly Showcased/People/Forsaken/Sunshine/Moirail\|Moirail]] In Over A Week And Its Actually Killing [[Explicitly Showcased/Me/Me\|Me]] And I Cant Talk To Anyone About It Because Best Case Scenario Literally Gets [[Explicitly Showcased/Me/Me\|Me]] Nowhere And Worse Case Scenario Probably Gets [[Explicitly Showcased/Me/Me\|Me]] Starved To Death
 I Haven't Been Able To Write Anything Because All Im Thinking All Day Is "Aaaaaaaaaaahhhhhhhhhhhhhhhh!!!!!!!!!!!!!!" And I Just Want To Stop Existing Or At The Very Least Stop Functioning But My Worthless [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]] cant Even Figure Out How To Cry Which Is Step Two Of Being Depressed, Overwhelming Self Hatred And Hoping For Your Own Doom Is Usually Much Later For Normal [[Branches/People Branch\|People Branch]] (Not That If Be Faliliar With That)
-This Week Ive Tried Going On Walks And Skating And Watching Movies  And Tv Shows And Social [[Branches/Media\|Media]] And Pornography And Books And [[Podcast\|Podcast]] And Hanging Out With Friends And Doing [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] Each For Literal Hours At A Time Hoping That Maybe If Im Absorbed Enough In It The Dull Sense That My Interacting With The World I Slowly Making It Worse Will Fade Into The Background But Theres No such Thing As Relief I Guess
+This Week Ive Tried Going On Walks And Skating And Watching Movies And Tv Shows And Social [[Branches/Media\|Media]] And Pornography And Books And [[Podcast\|Podcast]] And Hanging Out With Friends And Doing [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]] Each For Literal Hours At A Time Hoping That Maybe If Im Absorbed Enough In It The Dull Sense That My Interacting With The World I Slowly Making It Worse Will Fade Into The Background But Theres No such Thing As Relief I Guess
 
 Im Weirdly Out Of Fucks
 I Have A Bunch Of Stuff I Want To Do But Theres None Of It That I Want To Do
@@ -198,8 +198,8 @@ It Was Gonna Be A Quick Update On [[WHAT\|WHAT]] I Did Over The Past Few Weeks, 
 
 I Hope If I Update This Again Its More Of The Norm And Less Of The Depression And Everybody-Hates-Meness That Has Been Thrust Upon [[Explicitly Showcased/Me/Me\|Me]]
 
-Like Even [[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!\|Mai Wife!!]], Who Is The Best And Can Do No Wrong, Will Be  Online And Not [[READ\|READ]] My Messages Sometimes
-An Obvious Dagger To The [[Explicitly Showcased/People/Special Ones/Heart\|Heart]] But At The Same Time I Will Usually Hear From Her After A Bit, Or Get A Liked [[Message\|Message]] Notification And The Dagger Will Be Removed
+Like Even [[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!\|Mai Wife!!]], Who Is The Best And Can Do No Wrong, Will Be Online And Not [[READ\|READ]] My Messages Sometimes
+An Obvious Dagger To The [[Explicitly Showcased/People/Heartbiter/Heart\|Heart]] But At The Same Time I Will Usually Hear From Her After A Bit, Or Get A Liked [[Message\|Message]] Notification And The Dagger Will Be Removed
 Some Other [[Branches/People Branch\|People Branch]] Though Open My Messages To Figure Out How To Better Arrange Daggers Into My Chest Cavity
 
 The Entire Last Paragraph And A Bit Werent Meamnt To Exist, I Guess Im Just That Passionate About How Much I Want To Be Wiped Off The Face Of The Earth Sometiemes
