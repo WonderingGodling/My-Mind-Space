@@ -1,10 +1,10 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/grease/omihami/wruilt/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"],"permalink":null}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/grease/omihami/wruilt/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 Known For And/Or Slogan
 Location: (Country And Number)
-
 
 ## Named Cities And Towns
 ## Map
@@ -15,7 +15,7 @@ Location: (Country And Number)
 
 ## Extra
 
-### description & Details
+### Description & Details
 #### Stuff You Can Find
 - Thing
 

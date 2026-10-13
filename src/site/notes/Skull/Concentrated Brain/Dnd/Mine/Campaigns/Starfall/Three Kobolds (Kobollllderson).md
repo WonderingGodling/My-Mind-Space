@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/three-kobolds-kobollllderson/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Featured":"[[Files And Shit/Lancelot.png]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/three-kobolds-kobollllderson/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Featured":"[[Files And Shit/Lancelot.png]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"Files And Shit/Lancelot.png","thumbnail":"thumbnails/resized/cedc6fefa5c0cb33ff9a5cdc1314c7e1_86cf658e.webp"}}
 ---
 
 

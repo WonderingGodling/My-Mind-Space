@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/lair/roads/the-misty-forest-route/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Harmony Roads]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/lair/roads/the-misty-forest-route/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Roads/Harmony Roads]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -8,14 +9,13 @@
 }
 </style>
 
-
 # <center><span style="color:#FEDCBA">Lair Highway</span></center>
 
 
 
 ### Capital Centric Convergance
 #### Sangwoo Convergance
-North [[Explicitly Showcased/Me/Aka\|Aka]] "Bridge Walk":  Ithvanalon River Bridge -> NNE Crossroads → Theluna Fork Bridge → Iunylath Ar Bridge → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Charmillli/Anoress\|Anoress]] → draunyesesi River Bridge → Wassadhel River Bridge → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Mytheas/Canwichbou\|Canwichbou]] → NNW Crossroads -> [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Sangwoo\|Sangwoo]]
+North [[Explicitly Showcased/Me/Aka\|Aka]] "Bridge Walk": Ithvanalon River Bridge -> NNE Crossroads → Theluna Fork Bridge → Iunylath Ar Bridge → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Charmillli/Anoress\|Anoress]] → draunyesesi River Bridge → Wassadhel River Bridge → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Mytheas/Canwichbou\|Canwichbou]] → NNW Crossroads -> [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Sangwoo\|Sangwoo]]
 
 North East: NNE Crossroads → Theluna Fork Bridge → Iunylath Ar Bridge → draunyesesi River Bridge → Sshanse Fork Bridge → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Mytheas/Dodbrolive\|Dodbrolive]] → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Soroughwark\|Soroughwark]] → Towcesbury River-> NENW Crossroads → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Burlowbury\|Burlowbury]] Convergance → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Tetfordbury\|Tetfordbury]] → Meethasa River Bridge → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Olterming\|Olterming]] → [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Sangwoo\|Sangwoo]]
 

@@ -1,9 +1,9 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/grease/athens/lite-n-inn/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":["[[Athens]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Featured":"![Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Athens/Files And Shit/TC_Inn+the+Mountain+01+Great+Hall_No+Grid_22x34.jpg](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Athens/Files%20And%20Shit/TC_Inn+the+Mountain+01+Great+Hall_No+Grid_22x34.jpg)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/grease/athens/lite-n-inn/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":["[[Athens]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Featured":"![[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Athens/Files And Shit/TC_Inn+the+Mountain+01+Great+Hall_No+Grid_22x34.jpg]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Athens/Files And Shit/TC_Inn+the+Mountain+01+Great+Hall_No+Grid_22x34.jpg","thumbnail":"thumbnails/resized/18d026cc6da850aff10d241e393b54b0_86cf658e.webp"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#123456">Lite N Inn</span></center>
 Formerly N Lite N Inn
@@ -41,19 +41,18 @@ This Week Nobody is Allowed Their Own Room
 Known For And/Or Slogan
 Location: (Country And Number)
 
-
-
 ## Maps
 ![TC_Inn+the+Mountain+01+Great+Hall_No+Grid_22x34.jpg](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Athens/Files%20And%20Shit/TC_Inn+the+Mountain+01+Great+Hall_No+Grid_22x34.jpg)
 ![[the-hotel-dabo-50-x-24-details-in-comments-v0-llc83qjhhjac1-3066870170 1.jpg\|the-hotel-dabo-50-x-24-details-in-comments-v0-llc83qjhhjac1-3066870170 1.jpg]]
 ![DFH PNG 30x40.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Athens/Files%20And%20Shit/DFH%20PNG%2030x40.png)
+
 ### Travel
 
 ## Roads
 
 ## Extra
 
-### description & Details
+### Description & Details
 #### Stuff You Can Find
 - Thing
 
@@ -85,7 +84,7 @@ Location: (Country And Number)
 #### Exports:
 
 ### Social
-#### Fashion: 
+#### Fashion:
 ##### Popular Colours
 #### Hierarchies
 #### Families

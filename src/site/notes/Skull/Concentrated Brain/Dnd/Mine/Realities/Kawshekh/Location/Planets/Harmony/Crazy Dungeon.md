@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/crazy-dungeon/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Featured":"[[Files And Shit/Screenshot_20250407_193434_Chrome.png]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/crazy-dungeon/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Featured":"[[Files And Shit/Screenshot_20250407_193434_Chrome.png]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"Files And Shit/Screenshot_20250407_193434_Chrome.png","thumbnail":"thumbnails/resized/82e132b8fafe5d059b76e3af68376169_86cf658e.webp"}}
 ---
 
 
