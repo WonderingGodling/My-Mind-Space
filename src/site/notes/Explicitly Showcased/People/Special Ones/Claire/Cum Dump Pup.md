@@ -24,8 +24,10 @@ I Figured Out The File Name Dont Worry
 - Capybaras
 - Mismatching Socks
 - Fried Veggies
-- Seedless Grapes
-- Mango Monster
+- Grapes
+	- Seedless 
+-  Monster
+	- Mango
 - Ducks
 - Guns
 - Doughnuts
@@ -60,7 +62,7 @@ I Figured Out The File Name Dont Worry
 	- Orange
 	- Black
 - Pickles
-	- Grilled Cheese
+-  Grilled Cheese
 - White Chocolate Mocha
 - Eggs
 	- Boiled

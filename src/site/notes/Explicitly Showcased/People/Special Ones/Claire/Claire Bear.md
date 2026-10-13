@@ -14,10 +14,77 @@
 
 # <center><span style="color:#AED4F1">Claire</span></center>
 
+## Facts
+### Birthday
+6/12
+## Opinions
+### Likes
+- Capybaras
+- Mismatching Socks
+- Fried Veggies
+- Ducks
+- Guns
+- Doughnuts
+- Apples
+- Sanrio
+- Toast
+- Grape Tomatoes 
+- Orange Juice
+- Pizza
+	- Hawaiian
+	- Meat Lover's
+- Pilk
+- Skirts
 
+#### Philias/Loves
+- Donburu
+- Hungry Jack's
+- KFC
+- vegemite
+- Fairy Bread
+- Ferrets
+- Teriyaki Beef Donburi
+- Dr Pepper
+- Big Hats
+- Blahaj
+- Cats
+- Pickles
+- Grilled Cheese
+- White Chocolate Mocha
+- Eggs
+- Spam
+- Cherries
+- Strawberry Nesquik
+- Plushies
+- Housewifing
+- Starwberries
+- Watermelons
 
+### Dislikes
+- Liquorice
+#### Phobias/Hates
+- Peanuts
 
-
+### Media
+#### Games
+- Rainbow 6
+- Tarkov
+- Cities Skylines
+- Magic The Gathering
+- Balatro
+- If Found
+- Ready or Not
+- Valorant
+#### Movies
+- Spiderverse Movies
+#### Shows
+- Chainsaw Man
+## Activities
+### Probably the Best At
+- Cooking/Baking Things That I Like
+- Making Me Smile
+- Saying 6 7
+- Being A Heartwarming Little Creature
 
 <html>
 <head>
