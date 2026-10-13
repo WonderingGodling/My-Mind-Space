@@ -1,6 +1,7 @@
 ---
-{"Publish":true,"permalink":"/uni/2/5-ab-molecular-biosciences/5-ab-031-cellular-and-organismal-biosciences/cellular-and-organismal-biosciences/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null}}
+{"Publish":true,"permalink":"/uni/2/5-ab-molecular-biosciences/5-ab-031-cellular-and-organismal-biosciences/cellular-and-organismal-biosciences/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -8,8 +9,7 @@
 }
 </style>
 
-
-# <center><span style="color:#A0DF6A">Cellular and Organismal Biosciences</span></center>
+# <center><span style="color:#A0DF6A">Cellular And Organismal Biosciences</span></center>
 
 
 ## The Plant Extracellular Matrix
@@ -19,41 +19,42 @@
 - The plant extracellular matrix consists of a number of major interactive molecular components which interact with both intrinsic and extrinsic proteins of the plasma membrane and these in turn interact directly or indirectly with the actin filaments and microtubules of the cortical cytoskeleton.
 - All these elements together constitute the plant cell surface and it is this CELL SURFACE that is at the heart of many key events in plant growth and development.
 - The structure and function of the plant extracellular matrix impacts cell signalling and communications, the rate and direction of cell growth, and the organisation of cellular events at the tissue level.
-- Therefore, only by analysing the synthesis, architecture and interactions between the component parts of this structure can we hope to understand its  role in the aforementioned processes in agronomically important species.
+- Therefore, only by analysing the synthesis, architecture and interactions between the component parts of this structure can we hope to understand its role in the aforementioned processes in agronomically important species.
 
-### The structure of the plant extracellular matrix
+### The Structure Of The Plant Extracellular Matrix
 - Plant cells deposit their cell walls as a series of layers.
 	- Middle lamella: Earliest formed layer located at the centre of a double wall formed by two adjacent cells. This is derived from the cell plate laid down at cell division. This layer of the extracellular matrix is extremely pectin-rich.
 - Primary cell wall: Once the cell plate is complete and the middle lamella has been formed, the daughter cells proceed to deposit what is termed the primary cell wall. This is deposited continuosly whilst a cell is increasing in volume and is 0.1 - 1.0μmthick.
  - Secondary cell wall: Most plant cells only possess a middle lamella and a primary cell wall, but certain specialised cells such as sclerenchyma cells (eg: stone cells) proceed to lay down a third layer after the cell has ceased to grow termed the secondary cell wall is often to strengthen and rigidify the cell and is lignin-rich.
 
-### Secondary thickening in xylem elements
+### Secondary Thickening In Xylem Elements
 Secondary cell wall model showing lignin phenolics filling in spaces between cellulose microfibrils to make a rigid, impermeable wall.
 
-#### the structure of plywood.
+#### The Structure Of Plywood.
 - It is important to note that the composition of the cell walls in different plant species and within different tissues and organs of an individual species differ widely
 - Since the primary cell wall is the most important layer of the extracellular matrix in relation to plant/growth and development I shall limit the remainder of this lecture to a discussion of this structure.
 
-### The Primary cell wall
+### The Primary Cell Wall
 Cellulose: (β 1, 4- Glucan)
 - Hemicelluloses: xylan, glucomannan, mannan, galactomannan, xyloglucan and arabinogalactan.
 - Pectins: Rhamnogalactan I, arabinan, galactan, arabinogalactan I, homogalacturonan.
 - Proteins:
 	- Structural proteins: Arabinogalactan-proteins, proline-rich proteins, glycine-rich proteins, extensins and solanaceous lectins.
 	- Enzymes Which function to modify the structure of specific cell wall components.
+
 #### THE STRUCTURE OF THE PRIMARY CELL WALL
 The primary cell wall of the majority of plant species consists of three major interactive components:
 - The cellulose/xyloglucan network (scaffolding)
 - The pectin/hemicellulose network (matrix)
 - The structural protein network (matrix)
 
-#### Polysaccharide Components of the Primary Cell Wall
-##### Structure and function of cellulose
+#### Polysaccharide Components Of The Primary Cell Wall
+##### Structure And Function Of Cellulose
 - Cellulose, an unbranched β 1,4-glucan in a linear form, is the major component of the primary cell wall and comprises 20-30% of the walls’ dry weight.
 - The chains of cellulose self associate into structures termed microfibrils that have a diameter 5-15 nm and are elliptical in cross-section.
 - Cellulose is a component of all higher plant cell walls, but the “matrix” components (pectins, hemicelluloses and proteins) differ widely between (graminaceous monocots) and (dicots+non gram. monocots).
 - The matrix components of the former are characterised by low levels of pectin, xyloglucan and structural protein, and high levels of arabinoxylans and β-1-3, 1-4-glucans. The reverse is true of dicots+ non-graminaceous monocots. Proposed functions
-- Binds to the hemicellulose xyloglucan to form the cellulose/xyloglucan network of the primary cell wall that  forms the ‘scaffolding’ of the wall, around which the ‘matrix’ polysaccharides and structural proteins are deposited 
+- Binds to the hemicellulose xyloglucan to form the cellulose/xyloglucan network of the primary cell wall that forms the ‘scaffolding’ of the wall, around which the ‘matrix’ polysaccharides and structural proteins are deposited 
 
 ###### Hemicellulose
 - Hemicellulose is the term used to describe all non-cellulosic polysaccharides other than pectin.
@@ -61,14 +62,16 @@ The primary cell wall of the majority of plant species consists of three major i
 - The backbone of xyloglucan is identical to cellulose, but attached to 70-80% of the glucose residues are side chains, mostly of xylose residues linked to glucose.
 Proposed function:
 - Purified xyloglucans associate strongly in vitro with purified cellulose. In the wall it seems that they stick to microfibrils by hydrogen bonding between the cellulose molecules to form the cellulose/XG network. 
+
 ###### Pectins
 - Pectins are a heterogenous, branched and highly hydrated group of polysaccharides rich in D-galacturonic acid.
 - Pectins are often described as ‘block’ polymers since they consist of ‘smooth’ blocks of contigous unbranched α-D- galacturonic acid residues punctuated by the occasional rhamnose, with intervening homoGal blocks sometimes not.
 Pectins also contain so-called ‘hairy’ blocks that contain numerous other sugars )
 Proposed functions:
 - Dicot pectins are known to form rigid insoluble gels in the presence of Ca 2+ . Pectins are thought to function to cement adjacent cells together (abundant in middle lamella) since the use of pectinolytic enzymes and chelating agents causes rapid release of single cells from many soft plant tissues.
+
 #### STRUCTURAL PROTEIN COMPONENTS OF THE PRIMARY CELL WALL
-##### Glycine-rich proteins (GRPs)
+##### Glycine-rich Proteins (GRPs)
 - Rich in glycine can contain up to 70%.
 - Repeat motif of Gly-X where X is most often Glycine!
 - Two broad classes of GRPs:
@@ -76,7 +79,8 @@ Proposed functions:
 	- Cytoplasmically regulated by a variety of stress conditions.
 Putative function:
 - There is strong evidence that GRPs act as the scaffold for the deposition of lignin in the xylem.
-##### Extensins 
+
+##### Extensins
 First cell wall associated protein to be discovered (1960) Dr. D. Lamport.
 Abundant in dicot primary cell walls and are charcterised by the following features:
 - Rich in hydoxyproline and serine and some combination of valine, tryrosine, lysine and histidine.
@@ -89,7 +93,8 @@ Abundant in dicot primary cell walls and are charcterised by the following featu
 Proposed function:
 - Contribution to the control of cell wall expansion - high levels of extensin cause decrease in cell growth, similar role to collagen in animal tissues (rigidify wall).
 - Resistance to pathogenic attack - Stimuli increase its levels. Charge on extensin may interact with surface of pathogens and cause them to agglutinate.
-##### Proline-rich proteins (PRPs)
+
+##### Proline-rich Proteins (PRPs)
 - Rich in proline.
 - Repeat sequences of a.a. motif : pro-pro-x-y-z
 - The second proline in this sequence is often modified to hydroxyproline.
@@ -116,8 +121,9 @@ characteristics:
 - Core proteins most often rich in hydroxyproline, alanine, serine, threonine and glycine.
 - Associated with cell wall, plasma membrane and intercellular spaces in both lower and higher plants.
 Role(s):
-- Despite no definitive role as yet being assigned to AGPs, in recent years they have been shown to be associated with a number of developmental processes which suggest their involvement in cell-cell recognition and communication  vents.
-#### Mannose containing polysaccharides
+- Despite no definitive role as yet being assigned to AGPs, in recent years they have been shown to be associated with a number of developmental processes which suggest their involvement in cell-cell recognition and communication vents.
+
+#### Mannose Containing Polysaccharides
 Glucomannans 
 - Major hemicellulosic    
 - component of secondary gymnosperm cell walls
@@ -129,7 +135,7 @@ Galactomann
 Glucuronomannans     
 - Found in small amounts in wide range of cell walls. 
 - Function(s) unclear.
-- Pure mannansPure mannans     - Only found in cell walls of    - Only found in cell walls of seed endosperms and cotyledons. Able to formseed endosperms and cotyledons. Able to form very hard,crystalline structures e.g. Date seeds.very hard,crystalline structures e.g. Date seeds.
+- Pure mannansPure mannans - Only found in cell walls of - Only found in cell walls of seed endosperms and cotyledons. Able to formseed endosperms and cotyledons. Able to form very hard,crystalline structures e.g. Date seeds.very hard,crystalline structures e.g. Date seeds.
 - Mannose is a cell wall constituent found in a wide variety of non-cellulosic polysaccharides, several of which are of agronomic importance.
 - In Arabidopsis thaliana, mannose constitutes 4-9% of the neutral sugars present in the leaf tissue (Reiter et al, 1997), but the biological function(s) of these mannose-containing polysaccharides is as yet unknown.
 
@@ -163,7 +169,7 @@ Amorphophallus konjac
 - Nutraceutical
 No claim Health claim Drug claim
 “Let food be thy medicine and medicine be thy food.”
-    - Hippocrates (400 B.C.)
+	- Hippocrates (400 B.C.)
 Use of konjac as functional food in
 Traditional Chinese Medicine (TCM)
 - First recorded as a disease-curing herb in Shen Nong’s Materia Medica (Western Han Dynasty, 206 B.C.- 08 A.D.)
@@ -188,7 +194,7 @@ KGM
 Growth cycle
 (All images by courtesy of Chua F.Y.)
 Dormant corm (with offsets)
-(October     - March) Anthesis (April)
+(October - March) Anthesis (April)
 Corm with shoot emergence (April-May)
 Fully developed leaves
 (June-September)
@@ -203,8 +209,6 @@ Six developmental stages of Amorphophallus konjac. - dormancy, - shoot
 emergence, - shoot elongation, - leaflet emergence, - leaf expansion and
 - leaf senescence.
 
-
-
 ### The Animal Extracellular Matrix
 extracellular matrix: Definition and Function
 The acellular material surrounding animal cells is termed the animal
@@ -215,11 +219,13 @@ extracellular matrix (extracellular matrix) Function:
 - Influences cell development and differentiation.
 - Coordinates cellular functions through signaling with cellular adhesion receptors.
 - Reservoir for extracellular signaling molecules
-#### Structure of extracellular matrix:
+
+#### Structure Of Extracellular Matrix:
 - Fibers: collagen and elastin, which provide strength and flexibility.
 - Proteoglycans: protein    
 	- saccharide complexes.
 - Adhesive glycoproteins: ‘glue’ cells and extracellular matrix, e.g. fibronectin and laminin.
+
 ##### Connective Tissues
 A histological classification:
 - Loose connective tissue: supports epithelia and organs.
@@ -232,7 +238,7 @@ A histological classification:
 - Cartilage: provides support and flexibility (rib cage, trachea, bronchi, joints).
 - Bone: body support.
 
-##### Specialised cells reside in the extracellular matrix
+##### Specialised Cells Reside In The Extracellular Matrix
 - blasts: create the extracellular matrix
 - cytes: maintain the extracellular matrix
 - clasts: extracellular matrix breakdown and remodeling.
@@ -252,7 +258,7 @@ ER/Golgi: Pro-a-chains are produced,
 hydroxylated and glycosylated at selected
 Lys and Pro residues.
 - A lack of vitamin C prevents hydroxylation -> impaired fibril formation (scurvy).
-- Processed pro-peptides assemble in to triple     - helical pro-collagen.
+- Processed pro-peptides assemble in to triple - helical pro-collagen.
 - Golgi: Disulphide bonds form btwn the N- and C- termini of procollagen.
 -After exocytosis, N- and C-termini are trimmed, allowing fibril assembly.
 Fibrous extracellular matrix Proteins: Elastin
@@ -354,7 +360,8 @@ together.
 
 #### BACTERIAL CELL ENVELOPES
 With emphasis on Gram positive Cell Wall & Outer Membrane
-##### Walls and Envelopes
+
+##### Walls And Envelopes
 ENVELOPE
 - ALL structures that ENVELOP the cytoplasm
 - cell membrane
@@ -711,7 +718,7 @@ So:
 - Tropomyosin (TM) ‘blocks the track’
 - Troponin (TN) is the lever moving it in/out of the way
 
-#### Cross-Bridge Cycling in Skeletal Muscle
+#### Cross-Bridge Cycling In Skeletal Muscle
 - Sliding Filament Theory in Animated
 Form
 Sliding Filament Theory: Short Version:
@@ -731,7 +738,7 @@ Skeletal Muscle Contraction
 - Polymerises = filaments
 - Extend throughout cell to form a mesh
 
-#### Actin structures
+#### Actin Structures
 Filopodia:
 - long thin transient processes
 - extend out from cell surface
@@ -797,9 +804,9 @@ Proteins control (de)polymerisation and
 these, in turn, are controlled by other
 proteins.
 One end grows faster than other
-- + end grows faster than    - end
+- + end grows faster than - end
 - critical concentration at which
-polymerisation occurs is greater for     - end
+polymerisation occurs is greater for - end
 - Actin filaments may form bundles via cross-linking
 proteins
 - Dimeric or have two actin-binding domains
@@ -923,7 +930,8 @@ PIP2 binds profilin:
 - Signal-activated PIP2 hydrolysis releases profilin,
 - May promote actin polymerization adjacent to plasma
 membrane.
-#### Regulation of Assembly of Actin Cytoskeleton
+
+#### Regulation Of Assembly Of Actin Cytoskeleton
 Learning Outcomes
 - Actin-containing cellular structures
 - Microfilaments
@@ -1051,7 +1059,7 @@ Models for transport of proteins etc. through the Golgi to
 the cell surface
 - It is known that newly made proteins, lipids etc are
 made in the ER and delivered to the cis face of the Golgi.
-They exit, fully processed, at the opposite end     - the
+They exit, fully processed, at the opposite end - the
 trans face.
 - But how do they traverse the Golgi stack? This
 question that has puzzled cell biologists since the 1960s!
@@ -1237,10 +1245,10 @@ Where?
 mins
 Mesosome functions
 - in cell division:
-    - may be involved in cell wall formation
-    - site of phospholipid synthesis
-    - site for attachment of DNA (chromosome) during replication
-    - Not a site of respiratory enzymes!
+	- may be involved in cell wall formation
+	- site of phospholipid synthesis
+	- site for attachment of DNA (chromosome) during replication
+	- Not a site of respiratory enzymes!
 Magnetosomes
 Magnetosome formation by TEM.
 Whole cells of M. gryphiswaldense strains -, -, C), - -.
@@ -1264,11 +1272,11 @@ http://tidepool.st.usm.edu/pix/prochloron.gif.
 Achromatium spp
 Gas vesicle membrane
 - Structure
-    - Non-unit membrane
-    - Protein only (Gvp)
-    - C.3.5% of total cell
+	- Non-unit membrane
+	- Protein only (Gvp)
+	- C.3.5% of total cell
 protein in Microcystis
-    - Freely permeable to
+	- Freely permeable to
 gases, the partial
 pressure of gases in the
 vesicle is in equilibrium
@@ -1313,14 +1321,14 @@ infiltration of water.
 Figure 1 (Source: Taiz and Zeigler, 2002)Figure 1 (Source: Taiz and Zeigler, 2002)
 - Classification (NOTE: 1,000 m = 1 mm)
 - Fine particles
-    - Clay (less than 2 m);
-    - Silt (2 m - 64 m)
+	- Clay (less than 2 m);
+	- Silt (2 m - 64 m)
 - Sand grade particles
-    - Fine sand (64 m     - 125 m)
-    - Medium sand (125 m     - 500 m)
-    - Coarse sand (500 m     - 2,000 m)
-- Granules (2     - 4 mm)
-- Pebbles (4     - 64 mm)
+	- Fine sand (64 m - 125 m)
+	- Medium sand (125 m - 500 m)
+	- Coarse sand (500 m - 2,000 m)
+- Granules (2 - 4 mm)
+- Pebbles (4 - 64 mm)
 - Then cobbles and boulders
 Particle size
 - When a soil is heavily watered the water percolates
@@ -1742,7 +1750,7 @@ primary endosperm nucleus. The result of which is a
 triploid primary endosperm cell which later develops to
 form the endosperm in the seed.
 
-## Animal Reproduction and Development
+## Animal Reproduction And Development
 Learning Outcomes
 Types of reproduction:
 -Asexual
@@ -2184,13 +2192,13 @@ CORTEX
 Filtrate
 Loop of
 Henle
-H2O K⁺ HCO3    -
-H⁺  NH3
+H2O K⁺ HCO3 -
+H⁺ NH3
 Proximal tubule
 NaCl Nutrients
 Distal tubule
 K⁺ H⁺  
-HCO3    -
+HCO3 -
 H2O
 H2O
 NaCl
@@ -2293,7 +2301,7 @@ Learning Outcomes
 - Adaptations to environments
 - Hormonal Regulation
 
-Plant     - Animal Interactions
+Plant - Animal Interactions
 Seed Dispersal
 Life cycle of a plant
 - Seed dispersal is at the end of
@@ -2310,7 +2318,7 @@ Why do seeds disperse?
 - Possible movement to more favourable growth environments.
 Dispersers and Non-Dispersers
 - Plants need to determine whether the benefits of seed dispersal
-outweigh the costs     - and to what extent
+outweigh the costs - and to what extent
 - Specialisation must increase dispersal success whether
 morphological, physiological or behavioural
 Different types of seeds
@@ -2342,47 +2350,47 @@ When to eat
 - Sir David talking about fruits - Video
 Syndromes
 - Technical term encompassing different methods of dispersal
-- Seed dispersal syndromes     - often in gymnosperms (produce ‘naked’
+- Seed dispersal syndromes - often in gymnosperms (produce ‘naked’
 seeds)
-- Plant pollinator syndromes     - often in angiosperms (previous lecture)
+- Plant pollinator syndromes - often in angiosperms (previous lecture)
 Meet the Chory’s
-- Chory     - technical term for seed dispersal
+- Chory - technical term for seed dispersal
 - Preceded by term that relates to method of dispersal i.e. hydrochory
 - Sir David talking about seed dispersal - Video
 Meet the chory’s
-- Allochory     - the passive dispersal of seeds by external means i.e.
+- Allochory - the passive dispersal of seeds by external means i.e.
 dispersal via animals or wind
-- Autochory     - dispersing seeds by the plant’s own means i.e. explosion
+- Autochory - dispersing seeds by the plant’s own means i.e. explosion
 (ballochory) or dropping to the ground (barochory).
 Meet the chory’s
-Zoochory     - seed dispersal by animals
+Zoochory - seed dispersal by animals
 - Hooked fruits
 - Sticky fruits and seeds
 - Fleshy fruits
 - Edible fruits
-- Endozoochory     - seeds eaten and pass through digestive tract
-- Epizoochory/Ectozoochory     - seeds or spores accidentally attached to
+- Endozoochory - seeds eaten and pass through digestive tract
+- Epizoochory/Ectozoochory - seeds or spores accidentally attached to
 the animals body and become detached later
-- Synzoochory     - seeds or spores intentionally carried (usually in the
+- Synzoochory - seeds or spores intentionally carried (usually in the
 mouth) to be eaten later.
 Endozoochory
 - Animals ingest seeds and excrete them
-- Some seeds are enclosed in fleshy edible fruits     - ideal food source for
+- Some seeds are enclosed in fleshy edible fruits - ideal food source for
 frugivores
-- Fruit isn’t well chewed     - seed ingested whole
-- Pulp is digested and seeds excreted     - with fertiliser!
+- Fruit isn’t well chewed - seed ingested whole
+- Pulp is digested and seeds excreted - with fertiliser!
 - Seed needs protection from digestion such as a coating
 Endozoochory
 - Coevolved mutualistic relationship
 - Plants may advertise food resource using colour
 - Some studies have found increased advantage in germination
-- Video     - endo and ectozoochory
+- Video - endo and ectozoochory
 - Number of seeds in droppings can be quite a lot!
 - In a study on seeds found in droppings of 11 parrot species in
 Ecuador, Peru, Brazil, Chile and Argentina
 - Intact seeds found
 - Numbers ranged usually from 1-60
-- In one dropping from a Lear’s Macaw Anodoryhnchus leari     -
+- In one dropping from a Lear’s Macaw Anodoryhnchus leari -
 almost 500 seeds from blue column cactus Pilosocereus
 pachycladus.
 Parasitism Through Endozoochory
@@ -2395,7 +2403,7 @@ Benefits of Endozoochory
 - Better light conditions
 - Avoidance of predators
 - Opportunity to colonise new habitats
-- Higher germination rates     - digestion removes physical layers or any
+- Higher germination rates - digestion removes physical layers or any
 chemical compounds that inhibit seed germination
 Challenges of Endozoochory
 - Reliance on external influences for dispersal
@@ -2403,27 +2411,27 @@ Challenges of Endozoochory
 digestion (chemicals)
 Endozoochory in Ruminants
 - Spitting of seeds whilst chewing the cud
-- Cud     - stage of rumination process. Semi
+- Cud - stage of rumination process. Semi
 degraded and bought back up for 2nd chewing
 - 21 species of ruminants found to aid seed
 dispersal
-- Most plants consumed are shrubs or trees     -
+- Most plants consumed are shrubs or trees -
 fleshy or dry fruits not commonly dispersed
 by defecation.
 Jays and Oaks
-- Oaks have a poor ability to reproduce     - 1st acorn production can
+- Oaks have a poor ability to reproduce - 1st acorn production can
 take up to 20 years
 - Many will drop and rot or be eaten and damaged during the
 process
 - Any that drop and germinate will be overshadowed by parent
 - Jays Garrulus glandarius are known as the ‘chattering acorn
 gatherer’
-- Can carry up to 6 at a time     - only chooses the best available (no
+- Can carry up to 6 at a time - only chooses the best available (no
 parasites). Can plant over 7000 in 4 weeks
-- Buries acorns separately at the base of bushes near to grassland     -
+- Buries acorns separately at the base of bushes near to grassland -
 hoping to jog memory in the future of where it was buried
 - Those that aren’t eaten will germinate
-- Jays may then eat the cotyledons     - first leaves full of stored
+- Jays may then eat the cotyledons - first leaves full of stored
 energy below ground
 - Jays pull up oak to eat cotyledons- oak can survive this attack due
 to long tap root.
@@ -2455,7 +2463,7 @@ predator that then carries
 the seed further before
 depositing it.
 Caliochory
-- Dispersal by birds     - but not
+- Dispersal by birds - but not
 through endozoochory
 - When birds create nests
 - Often use plant material or mud
@@ -2466,15 +2474,15 @@ Chiropterochory
 - Frugivorous bats
 - Eat fleshy fruits
 - Usually defecates within 20 minutes in flight
-- Important role in regeneration of forests     - more efficient than birds and
+- Important role in regeneration of forests - more efficient than birds and
 mammals at seed dispersal
 - Also known to have fern spores in faecal pellets
-- Fern spore dispersal associated with anemochory     - wind dispersal
-- Bats are also important in pollination     - passing on pollen whilst feeding on
+- Fern spore dispersal associated with anemochory - wind dispersal
+- Bats are also important in pollination - passing on pollen whilst feeding on
 nectar
 - Video
 Malachochory
-- Molluscs     - mainly terrestrial snails
+- Molluscs - mainly terrestrial snails
 - Slugs and snails able to eat small seeds
 - Research shows some damage to seeds during digestive process is
 common.
@@ -2484,7 +2492,7 @@ Ichthyochory
 species/flooded forest
 - Seeds can travel up to 5km from
 parent plant
-- Poorly studied field     - not known
+- Poorly studied field - not known
 whether this is by ‘chance’ or
 intentional feeding regimes in
 some areas
@@ -2501,10 +2509,10 @@ iguana (Iguana iguana) found more
 effective for germination than being
 consumed and excreted.
 Mymrecochory
-- Seed dispersal by ants     - mutualistic
+- Seed dispersal by ants - mutualistic
 relationship
 - Some seeds covered by an elaisome which
-attracts ants     - rich in lipids and proteins
+attracts ants - rich in lipids and proteins
 - Ants carry seeds into colonies and feed
 elaisome to their larvae
 - Rest of seed is discarded in underground
@@ -2518,7 +2526,7 @@ motility
 populations
 - Some stick and leaf insect eggs
 have a similar appearance to the
-elaisome which attracts the ant     -
+elaisome which attracts the ant -
 capitulum
 - Insects drop or flick their eggs and
 wait for the ants to take them away
@@ -2531,33 +2539,32 @@ Ant-dispersed seeds © P.Gomez,
 W.Stuppy, H.Morales, G.Hoyle,
 E.Vaes/RBG Kew.
 Synzoochory
-- Seed caching animals     - often birds
+- Seed caching animals - often birds
 - Collect food over winter
 - Commonly birds carrying seeds or diaspores in their beak
 - The European mistle thrush, Turdus viscivorus, deposits the
 viscid seeds of European mistletoe (Viscum album) on
 potential host plants when, after a meal of the berries, it
 whets its bill on branches or simply regurgitates the seeds
-- Birds caching seeds in holes of trees     - sometimes forgotten
-- Caches can be stolen from by rodents     - can aid in dispersal
+- Birds caching seeds in holes of trees - sometimes forgotten
+- Caches can be stolen from by rodents - can aid in dispersal
 - In Germany an average jay may transport about 4,600 acorns
 per season, over distances of up to 4 km (2.5 miles)
 - Is this seed dispersal or seed predation?
 Anthropochory
 - Inadvertent dispersal by humans
-- On clothes/shoes     - same as animals
+- On clothes/shoes - same as animals
 Hemerochory
-- Most widespread and intense variety of seed spreading     - agriculture
-(conscious spreading     - ethelochory)
+- Most widespread and intense variety of seed spreading - agriculture
+(conscious spreading - ethelochory)
 - Create optimum conditions for growth
 - Transport means dispersal can be global
 - Unintentional dispersal via transport - agochory
 - Can cause invasive species problems
-- Seed bombing/guerrilla gardening     - pros and cons.
+- Seed bombing/guerrilla gardening - pros and cons.
 Threats to seed dispersal
 - Declining populations, fragmentation, habitat loss, invasive species
-- Video     - habitat fragmentation.
-
+- Video - habitat fragmentation.
 
 ## Bacterial Osmoregulation
  Cellular and Organismal Biosciences
@@ -2570,7 +2577,7 @@ Microorganisms
 - Pressure
 Water Activity aw
 - Water Activity aw
-- Measure of the “free” water available for metabolic reactions     - scale 0 - 1
+- Measure of the “free” water available for metabolic reactions - scale 0 - 1
 - Water of solvation - not available
 - Water involved in keeping solutes in solution.
 - Concentrated solutions
@@ -2589,7 +2596,8 @@ Water Activity Ranges aw
 - Fungi & Yeasts
 - 0.999 <- 0.70 (0.63)
 - Polypaecilum pisce 0.99-0.70 (0.96 - 0.91)
-- Basipetospora halophila 0.99 - 0.70 (0.89     - 0.86)
+- Basipetospora halophila 0.99 - 0.70 (0.89 - 0.86)
+
 ##### Terminology
 - Halophile
 - Salt loving must have low aw for optimum growth.
@@ -2602,7 +2610,7 @@ Water Activity Ranges aw
 - Xerophile
 - Very dry conditions
 Isotonic - 0.85% NaCl - blood plasma
-Hypotonic     - high internal [solute]
+Hypotonic - high internal [solute]
 - H20 -> enters cell -> cell rupture
 - Internal [solute] falls
 - Internal pressure rises
@@ -2614,7 +2622,7 @@ Animal cell
 Bacterial/Plant cell
 Solute concentrations & effect on cell
 - Hypertonic - high external solute conc
-- H2O →  leaves cell → cell shrinks (plasmolysis)
+- H2O → leaves cell → cell shrinks (plasmolysis)
 - Internal [solute] rises
 - internal pressure falls
 - internal aw falls
@@ -2646,7 +2654,7 @@ Compatable Solutes
 - Heterotrophic bacteria
 	- Amino acids and derivatives: glutamic acid & proline; betaine, trimethylamine
 - Halophilic bacteria
-	- K⁺  and Na⁺ ions, betaine (Archaea use salt-in/salt-out)
+	- K⁺ and Na⁺ ions, betaine (Archaea use salt-in/salt-out)
 - Cyanobacteria
 	- Sugars (sucrose and trehalose), sugar alcohols (glucosyl-glycerol) betaine
 - Eukaryotic: Yeasts, fungi
@@ -2659,7 +2667,7 @@ Synthesis, import & release of compatible solutes
 - Accumulate compatible solutes via either synthesis or import
 - Hypo-osmotic conditions, the cells rapidly jettison, in a nonspecific fashion, organic and inorganic compounds via mechanosensitive channels (Msc) to counter water influx
 - An aquaporin is a water- conduction channel (e.g., AqpZ)
-- 40     - 50 ATP molecules to synthesise a compatible solute molecule
+- 40 - 50 ATP molecules to synthesise a compatible solute molecule
 - 2 ATP molecules to import a compatible solute
 
 Compatible solutes & environment
@@ -2674,7 +2682,7 @@ Compatible solute example
 Membrane modifications
 - Low aw and microbial membranes
 1. Deleya halophila
-- Compatible solute is K⁺  : high concentration
+- Compatible solute is K⁺ : high concentration
 - Fatty acid side chains of membrane phospholipids become less flexible
 - Increased saturation
 - Reduces membrane fluidity and helps retain high K⁺ levels in the cytoplasm.
@@ -2693,24 +2701,25 @@ Bacterial Osmoregulation
 - Spores
 - Membrane changes
 
-## Microbial growth: Bacterial cell division
+## Microbial Growth: Bacterial Cell Division
 
 
 Growth- a steady, balanced increase in all the components of the cell, leading to an increase in cell size and usually followed by cell division
 Vegetative cell cycle- the sequence of events which occur when normal vegetative cell, newly formed by cell division, grows and divides
 Differentiation- events initiated by transcriptional and translational changes in the cell cycle leading to the formation of a new type of cell e.g. spore or a modified cell e.g. cyst
-### Measuring & plotting microbial growth
+
+### Measuring & Plotting Microbial Growth
 Prokaryotes (Bacteria) Divide by a process of binary fission
 - Asexual    
-    -  genetically identical daughter cells
-    - Do not have a nucleus
-    - single super-coiled circular chromosome 
-        - nucleoid
-        - Copied during division
-    - During division (cytokinesis) a number of other events must take place
+	-  genetically identical daughter cells
+	- Do not have a nucleus
+	- single super-coiled circular chromosome 
+		- nucleoid
+		- Copied during division
+	- During division (cytokinesis) a number of other events must take place
 - Cell wall synthesis, septation and separatation
 
-### Bacterial growth and division
+### Bacterial Growth And Division
 
 Characteristic shapes produced on cell division- can be used to help identify bacteria e.g. Streptococcus pneumoniae, Staphylococcus aureus, Micrococcus luteus
 Some Bacteria Reproduce by Methods Other than Binary Fission. 
@@ -2718,12 +2727,12 @@ Stalked cells attached to a substrate undergo asymmetric binary fission, produci
 The swarmer cell swims freely and synthesizes pili until it settles, ejects its flagella, and forms a stalk.
 Only stalked cells can divide. 
 
-### Cell cycle
+### Cell Cycle
 - 4 events must occur before a cell can divide
-    - There must be a reproductive signal
-    - Replication of DNA
-    - The replicated DNA must be distributed to each of the two new cells (Partitioning)
-    - The cell membrane and cell wall must grow to separate the two new cells in a process called septation which leads to cytokinesis (division)
+	- There must be a reproductive signal
+	- Replication of DNA
+	- The replicated DNA must be distributed to each of the two new cells (Partitioning)
+	- The cell membrane and cell wall must grow to separate the two new cells in a process called septation which leads to cytokinesis (division)
 Cell Cycle of E. coli. An increase in cell mass triggers replication initiation. The origin of replication migrates to the centre of the cell and proteins that make up the replisome assemble. In this illustration, one round of DNA replication is completed before the cell divides. In rapidly growing cultures, second and third rounds of DNA replication initiate before the original cell division is complete. Thus the daughter cells inherit partially replicated DNA.
 
 DNA replication
@@ -2733,22 +2742,22 @@ DNA replication
 - Replication = 40 mins at 37oC
 - Replication is Bi-directional and semi-conservative
 - Each chromosome has;
-    - Origin of replication (Ori C)     
-        -  where replication begins
-    - Terminus     
-        - where replication finishes
-    - Orientated to each pole of the cell in newly formed cells
+	- Origin of replication (Ori C)     
+		-  where replication begins
+	- Terminus     
+		- where replication finishes
+	- Orientated to each pole of the cell in newly formed cells
 - Early in the growth cycle of the cell when initiation mass reached - terminus and origin migrate to the mid cell
 - Replisome is formed at the origin
-    - Proteins and enzymes for DNA synthesis collect together
+	- Proteins and enzymes for DNA synthesis collect together
 - DNA replication proceeds in both directions
-    - DNA thought to spool through replisome
-    - New origins form and move to opposite ends of cell
-- In a slow growing culture (30oC) DNA replication and division     - 60 mins
+	- DNA thought to spool through replisome
+	- New origins form and move to opposite ends of cell
+- In a slow growing culture (30oC) DNA replication and division - 60 mins
 - In a fast growing culture (37oC) division - 20 mins
-    - DNA replication always takes 40 mins??
+	- DNA replication always takes 40 mins??
 - Over comes this by having more than one Ori C and by starting DNA replication early
-    - DNA synthesis is continuous DNA partitioning
+	- DNA synthesis is continuous DNA partitioning
 - Mechanism of partitioning still being defined
 - Studied in model organisms: B subtilis & C. crescentus
 - Various active biological protein systems that drive sister chromosomes apart
@@ -2760,24 +2769,25 @@ DNA replication
 - Microfluidic device with Mbp long genome then add back proteins to study their role
 - Further insight needed & may lead to first synthetic cell
 
-#### DNA partitioning in C. crescentus
+#### DNA Partitioning In C. Crescentus
 The ParAB/parS Partitioning System of Caulobacter crescentus. ParB binds parS sites on the daughter chromosomes. A gradient of ParA proteins directs the partition complex of ParB/parS to the opposite pole of the cell in a relay mechanism.
-#### Septation and cytokinesis
+
+#### Septation And Cytokinesis
 - In cytokinesis cell elongation and septum formation must occur Requires:
 - Termination of DNA replication
 - A number of regulatory and functional proteins
-    - Septum formation and constriction
-    - New cell wall synthesis
-    - Final cytokinesis to give two daughtercells
+	- Septum formation and constriction
+	- New cell wall synthesis
+	- Final cytokinesis to give two daughtercells
 - Septation occurs through formation of the Z ring 
-    - divides cell by constriction
-        - Formed from FtsZ
-            - tubulin homologue
-        - Attaches to the plasma membrane and cell wall
-    - Constriction forms the septum
-    - Must be formed for division to occur
-    - Z ring formation regulated and occurs only in the centre due to MinC,D,E proteins - antagonistic
-    - Depolymerisation of Z ring = constriction of cell
+	- divides cell by constriction
+		- Formed from FtsZ
+			- tubulin homologue
+		- Attaches to the plasma membrane and cell wall
+	- Constriction forms the septum
+	- Must be formed for division to occur
+	- Z ring formation regulated and occurs only in the centre due to MinC,D,E proteins - antagonistic
+	- Depolymerisation of Z ring = constriction of cell
 Mechanisms to Establish the Site of Septum Formation. The Min system (blue) oscillates between the poles to prevent FtsZ polymerization at the poles. Nucleoid (green) occlusion prevents Z-ring formation until the two nucleoids have separated. Both mechanisms restrict Z-ring formation to the center of the cell.
 
 Cross-sectional View of a Dividing Bacterial Cell.
@@ -2786,29 +2796,30 @@ ZapA and ZapB link the Z- ring to the chromosome replication terminus (ter) to e
 
 - Requires the break down and rebuilding of the peptidoglycan cell wall
 - Site of cell wall synthesis differs between morphological types
-    - Gram Positive cocci     - one or few growth zones along centre
-    - Gram Negative ve rods     - Synthesis occurs at site of septation and along cell length
+	- Gram Positive cocci - one or few growth zones along centre
+	- Gram Negative ve rods - Synthesis occurs at site of septation and along cell length
 Areas of cell wall synthesis in cocci and rod shaped bacterial species
 
-#### Peptidoglycan extension
+#### Peptidoglycan Extension
 - Occurs in 3 stages utilising 3 different enzyme systems
 - Allows synthesis without any gaps (autolysis)
 1. Autolysins - break the glycosidic bonds between the peptidoglycan monomers and break peptide cross-bridges- create small holes in cell wall
 2. Transglycosidase - enzymes insert and link new peptidoglycan monomers into the breaks in the peptidoglycan
 3. Transpeptidase - enzymes reform the peptide cross-links between the rows and layers of peptidoglycan.
-#### Peptidoglycan structure
+
+#### Peptidoglycan Structure
 Hydrophobic Lipid carrier molecule
 Penicillin target (Penicillin Binding Proteins) 
 
 Summary
 - Number of events must occur for growth and division in bacterial cells
-    - Chromosome replication and partitioning, Z ring formation and septation and cell wall synthesis     
-        -  cytokinesis
+	- Chromosome replication and partitioning, Z ring formation and septation and cell wall synthesis     
+		-  cytokinesis
 - Chromosome replication is bidirectional and semi-conservative     
 	- enzyme systems in replisome.
 - Septation requires Z ring formation     
 	- complex protein and enzyme system
-- New cell wall is produced and inserted to allow cytokinesis     - autolysins, transglycosidases, transpeptidases.
+- New cell wall is produced and inserted to allow cytokinesis - autolysins, transglycosidases, transpeptidases.
 
 ### Bacterial Temperature Stress
 #### Growth Temperature
@@ -2951,7 +2962,9 @@ Effect of temperature on proteins
 - hydrolysis of peptide bonds
 Effect of temperature on proteins
 - Thermostable proteins
+
 - >100OC for several days, in dilute buffer.
+
 - None of the changes seen with mesophilic proteins occur - WHY?
 - Primary structures are slightly different
 - Amino acid sequences show 95% to 85% homology with equivalent mesophilic proteins.
@@ -3027,9 +3040,9 @@ Cold Environment
 - Freezing
 Freezing
 - Drastic reduction in gas diffusion
-    - liquid water vs. solid water
+	- liquid water vs. solid water
 - Drastic reduction in enzyme function
-    - Reduced molecular mobility
+	- Reduced molecular mobility
 - Structural disruption of enzymes
 - Mechanical disruption of cell membranes
 - Osmotic dehydration due to freezing of extracellular water
@@ -3049,7 +3062,7 @@ Ectotherms in Cold Environments
 Freezing point depression e.g. insects:
 - Produce high levels of glycerol
 - Lowers freezing point
-- Willow gallfly larvae can supercool to     -60 °C
+- Willow gallfly larvae can supercool to -60 °C
 1. Anti-freeze in blood:
 - Surface dwelling fish of Hebron Fjord produce glycoproteins & polypeptides
 Ectotherms in Cold Environments
@@ -3061,7 +3074,7 @@ Ectotherms in Cold Environments
 - Examples: wood-frog & spring peepers use glucose as antifreeze
 Many freeze tolerant organisms have ice-nucleating agents:
 - Promotes ice-crystal formation in extracellular fluid
-- Draws water out of cells, ↑  intracellular concentrations & ↓ freezing point
+- Draws water out of cells, ↑ intracellular concentrations & ↓ freezing point
 - Helps prevent crystal formation inside cells
 - Prevents mechanical damage
 - Fat, round body
@@ -3115,7 +3128,7 @@ Temp decreases but not to ambient temperature:
 - Not “true” hibernation
 - = winter sleep
 Temperature Regulation in Cold Environments
-Option 1     - Controlled Hypothermia (Dormancy or
+Option 1 - Controlled Hypothermia (Dormancy or
 Torpor):
 Hibernation: In winter
 - Animal lowers body temperature a significant amount:
@@ -3137,7 +3150,7 @@ Daily Torpor
 - Decrease in T not as great as in hibernators
 - usually to about 15 C
 Thermoregulation in Cold Environments
-Hibernation     - Estivation     - Daily torpor Cycle
+Hibernation - Estivation - Daily torpor Cycle
 - A means to escape the demands of homeothermy
 - Torpor
 - Controlled hypothermia
@@ -3146,7 +3159,7 @@ Hibernation     - Estivation     - Daily torpor Cycle
 - During summer -> estivation
 - During certain part of day → daily torpor
 Option 2 - Body Size and Metabolism:
-- Bergmann’s Rule     -mammals from colder climates tend to be larger than similar/same species from warmer climates
+- Bergmann’s Rule -mammals from colder climates tend to be larger than similar/same species from warmer climates
 - Surface to Volume ratios
 - Body mass may change seasonally
 - Consequences of long thin shape
@@ -3157,15 +3170,15 @@ Option 3 - Insulation Changes:
 - Increase in thickness of subcutaneous fat layer
 - Increase in insulation decreases Lower Critical Temperature
 - Upper Critical Temperature may also be lowered e.g. Arctic fox:
-- LCT of     -40C in winter; decreased need for food in a cold environment
+- LCT of -40C in winter; decreased need for food in a cold environment
 Thermoregulation in Cold Environments
 Arctic Fox (summer)Arctic Fox (winter)
-Option 4     - Appendages:
-- Allen’s Rule     - Appendages of mammals in colder environments are shorter than those of animals of same species found in warmer climates
+Option 4 - Appendages:
+- Allen’s Rule - Appendages of mammals in colder environments are shorter than those of animals of same species found in warmer climates
 - Regional Heterothermy & Countercurrent heat exchange:
 - Found in nose, legs, tails, ears, flipper of marine mammals
 Thermoregulation in Cold Environments
-Option 5     - Coloration:
+Option 5 - Coloration:
 - Gloger’s rule: species in warm and humid areas are more heavily pigmented than those in cool and dry areas
 - Color change in some mammals
 - White coloration in many arctic mammals; a thermal advantage?
@@ -3260,7 +3273,7 @@ Upper critical temperature:
 Lower lethal temperature:
 - heat loss to environment > metabolic heat production
 Upper lethal temperature:
-- heat gain from environment >  evaporative cooling
+- heat gain from environment > evaporative cooling
 Metabolic rate & Thermoregulation
 Regulating Body Temperature in Humans
 Ectotherm vs Endotherm
@@ -3315,9 +3328,9 @@ Endothermy in Insects
 - Higher temperature, more efficient flying -> more energy & heat produced
 Temporal & spatial heterothermy:
 - Endothermy when active only
-    - thorax muscles
-    - control blood circulation from thorax to abdomen
-    - varying degree of body insulation 
+	- thorax muscles
+	- control blood circulation from thorax to abdomen
+	- varying degree of body insulation 
 - controlling muscle activity e.g: bumble bee:
 - flight muscles used for shivering
 - warm themselves before able to fly (sun exposure & shivering)
@@ -3328,8 +3341,7 @@ Warm-bodied fishes
    - higher metabolic rate in these muscles -> heat production
    - in order not to lose it through blood circulation → counter-current mechanism
 
-
-## An introduction to tropical rain forests.
+## An Introduction To Tropical Rain Forests.
 
 - European knowledge of tropical forests began when Alexander the Great crossed the Khyber pass in 327 BC, into the Punjab. ‘His army saw mangrove swamps (which upset their view of trees), jackfruit, mangoes, bananas, cotton and Banyans’.
 These amazing observations were incorporated in the

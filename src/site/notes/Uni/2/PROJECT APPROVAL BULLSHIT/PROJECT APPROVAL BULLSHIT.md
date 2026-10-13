@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/uni/2/project-approval-bullshit/project-approval-bullshit/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null}}
+{"Publish":true,"permalink":"/uni/2/project-approval-bullshit/project-approval-bullshit/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
 
 
@@ -17,7 +17,7 @@ Prof. Iza Radecka i.radecka@wlv.ac.uk
 IKR01 Investigation of antimicrobial activities of silver-loaded zeolites
 To examine the antimicrobial efficiency of the zeolite polymers compared to conventional polymers and other silver-containing antimicrobials, for the inhibition of a range of microorganisms. Tests will be performed against suitable examples of microbes relevant to food hygiene, including infectious enteric bacteria, bacteria spoiling stored foods or/and fungal spores of a common mould species. Following the identification of antimicrobial activity, the project will try to identify molecular targets in the microbial cell, for example inhibition of key enzymes in fatty acid biosynthesis.
 
-# Application for GM02. Risks associated with use of raw pet food in the home – Dimitri Williams
+# Application For GM02. Risks Associated With Use Of Raw Pet Food In The Home – Dimitri Williams
 4 Porters Drive, Kings Heath, Birmingham, B14 6QD
 [D.Williams30@wlv.ac.uk](mailto:D.Williams30@wlv.ac.uk)
 07542 279925
@@ -35,8 +35,7 @@ Thank you for reviewing my cover letter and CV, I am eagerly awaiting your reply
 Yours sincerely,
 Dimitri Williams
 
-
-# Application for IKR01 Investigation of antimicrobial activities of silver-loaded zeolites – Dimitri Williams
+# Application For IKR01 Investigation Of Antimicrobial Activities Of Silver-loaded Zeolites – Dimitri Williams
 4 Porters Drive, Kings Heath, Birmingham, B14 6QD
 [D.Williams30@wlv.ac.uk](mailto:D.Williams30@wlv.ac.uk)
 07542 279925

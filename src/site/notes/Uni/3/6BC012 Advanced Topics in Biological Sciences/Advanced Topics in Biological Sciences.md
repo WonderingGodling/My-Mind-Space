@@ -1,13 +1,13 @@
 ---
-{"Publish":true,"permalink":"/uni/3/6-bc-012-advanced-topics-in-biological-sciences/advanced-topics-in-biological-sciences/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"![Pasted image 20260909215319.png](/img/user/Pasted%20image%2020260909215319.png)"}}
+{"Publish":true,"permalink":"/uni/3/6-bc-012-advanced-topics-in-biological-sciences/advanced-topics-in-biological-sciences/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"![[Pasted image 20260909215319.png]]","Date Created":"253·09·2026 13:41 (Thursday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Pasted image 20260909215319.png","thumbnail":"thumbnails/resized/5eae44d4f5845c1b1831371c8437d46d_86cf658e.webp"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
  float: right;
 }
 </style>
-
 
 # <center><span style="color:#FEDCBA"> Advanced Biological Sciences</span></center>
 
@@ -18,17 +18,17 @@
 ## Intro
 Prepare a literature review (dissertation) where you consider specific
 aspects of
-• Biological Sciences
-• Genetics and Molecular Biology
-• Microbial Biotechnology
-• Biochemistry
+- Biological Sciences
+- Genetics and Molecular Biology
+- Microbial Biotechnology
+- Biochemistry
 
 Your dissertation will pay reference to current and developing areas of research.
-• Investigate subject matter through primary literature sources
-• Engage in one-to-one tutorials for advice and guidance
-• Prepare material obtained from the literature.
-• Individual, one-to-one, supervision from staff
-• Assessment: One written dissertation (~2000 words)
+- Investigate subject matter through primary literature sources
+- Engage in one-to-one tutorials for advice and guidance
+- Prepare material obtained from the literature.
+- Individual, one-to-one, supervision from staff
+- Assessment: One written dissertation (~2000 words)
 
 What you are going to do 2:
 Work in a team (~3 people) to prepare and present a short presentation
@@ -40,8 +40,7 @@ Microbial Biotechnology
 may contribute to answering one of the current “Big Questions” in Biosciences
 Your presentation should be concise (10-15 mins) and aimed at an interested/intelligent audience
 
-
-### group presentation assessment
+### Group Presentation Assessment
 (How to win the bacterial arms race: the future of antibiotics? IR)
 
 addresses how:
@@ -55,7 +54,7 @@ Effective group working
 Clarity of presentation /understanding
 Ability to clearly answer/address questions
 
-### Dissertation assessment:
+### Dissertation Assessment:
 Prepare a dissertation where you consider specific aspects of
 Biological Sciences
 Genetics and Molecular Biology
@@ -67,9 +66,9 @@ As applied to a single topic
 **IR 7.** ‘Bacterial engineers ‘ -  critically discuss their role in  production of functional biomaterials.
 **GM 6**. For a named bacterial pathogen discuss its key pathogenic mechanisms and one of the methods that was used to identify them.
 
-• Investigate subject matter through primary literature sources
-• Engage in one-to-one tutorials for advice and guidance
-• Prepare material obtained from the literature.
+- Investigate subject matter through primary literature sources
+- Engage in one-to-one tutorials for advice and guidance
+- Prepare material obtained from the literature.
 
 Your essay should include:
 - An abstract (~200 words)
@@ -79,7 +78,7 @@ Your essay should include:
 - A reference list
 - Word count ~2000
 
-#### Bacterial engineers ‘ - critically discuss their role in production of functional biomaterials
+#### Bacterial Engineers ‘ - Critically Discuss Their Role In Production Of Functional Biomaterials
 
 
  Microbes have the ability to produce polymers with diverse structures. They

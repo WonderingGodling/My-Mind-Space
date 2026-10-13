@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/uni/2/5-ab-molecular-biosciences/5-ab-030-analytical-techniques-in-biosciences/5-ab-030-portfolio-assignment/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"![Uni/2/5AB Molecular Biosciences/5AB030 Analytical Techniques in Biosciences/Files And Shit/Pasted image 20260504010708.png](/img/user/Uni/2/5AB%20Molecular%20Biosciences/5AB030%20Analytical%20Techniques%20in%20Biosciences/Files%20And%20Shit/Pasted%20image%2020260504010708.png)"}}
+{"Publish":true,"permalink":"/uni/2/5-ab-molecular-biosciences/5-ab-030-analytical-techniques-in-biosciences/5-ab-030-portfolio-assignment/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"![[Uni/2/5AB Molecular Biosciences/5AB030 Analytical Techniques in Biosciences/Files And Shit/Pasted image 20260504010708.png]]","Date Created":"278·10·2026 16:55 (Monday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Uni/2/5AB Molecular Biosciences/5AB030 Analytical Techniques in Biosciences/Files And Shit/Pasted image 20260504010708.png","thumbnail":"thumbnails/resized/c115714d907059239254e15998e3d136_86cf658e.webp"}}
 ---
 
 
@@ -10,13 +10,12 @@
 	- What are the major lipoprotein particles in human serum, their relative abundance, and how do they change during disease? 
 - [x] Short report on cell culture (15%)
 - [x] Project preparation documents (10%) 
-    - [x] An updated cv (4%)
-    - [x] A cover letter as though applying for your research project (4%)
-    - [x] A completed project approval form (2%)
+	- [x] An updated cv (4%)
+	- [x] A cover letter as though applying for your research project (4%)
+	- [x] A completed project approval form (2%)
 
-
-## Statistics workshop
-### Abstract  
+## Statistics Workshop
+### Abstract
 Provide a summary of less than 100 words.  
 	Include the purpose (aim), a brief summary of methods, results, and any conclusions drawn.  
 	contain all the essential information
@@ -31,11 +30,12 @@ Mice given the drug-treated diet provided serums that were less intensely colour
 - Conclusion
 The exposure to the drug over the testing period significantly lowered the production of cholesterol and phospholipid
 - More
-### Introduction  
+
+### Introduction
 - Start with three or four sentences stating the objective of the experiment.  
 Cholestyramine is an anti-hypercholesterolemia drug that increases cholesterol metabolism and is sometimes used to lower the concentration of low-density lipoprotein in a patient (Newman et al., 2024). Throughout this experiment the aim is to determine if drug therapy using this anti-hyperglycaemic drug is an effective option using mice as a biological stand-in. This difference will be quantified through analysing the spectrophotometric differences between the sera of cholestyramine treated mice and control mice (to use as a statistical reference point). This would ideally show that both cholesterol and choline-containing phospholipid concentration decreases. 
 - Brief discussion of the theory behind the experiment and any new techniques used. 
-Cholestyramine (and other anti-glycaemic drugs like mevinolin) is a bile acid sequestrant, not being able to be absorbed bile acid and fats get excreted  and cholesterol becomes less present in the blood (Newman et al., 2024). If there is less cholesterol or phosphatidyl choline ( these react similarly as you can see in figure 1 and figure 2) then the cholesterol oxidase has less to react with and will produce less hydrogen peroxide—the chemical that reacts with phenol and amino-antipyrene to produce quinone-imine detects—and therefore less colouration to be picked up by the Spectrophotometer.
+Cholestyramine (and other anti-glycaemic drugs like mevinolin) is a bile acid sequestrant, not being able to be absorbed bile acid and fats get excreted and cholesterol becomes less present in the blood (Newman et al., 2024). If there is less cholesterol or phosphatidyl choline ( these react similarly as you can see in figure 1 and figure 2) then the cholesterol oxidase has less to react with and will produce less hydrogen peroxide—the chemical that reacts with phenol and amino-antipyrene to produce quinone-imine detects—and therefore less colouration to be picked up by the Spectrophotometer.
 - Include relevant biochemical reactions where appropriate (use figures from the booklet if needed).  
 Figure 1 
 ![Pasted image 20260504010708.png](/img/user/Uni/2/5AB%20Molecular%20Biosciences/5AB030%20Analytical%20Techniques%20in%20Biosciences/Files%20And%20Shit/Pasted%20image%2020260504010708.png) 
@@ -44,7 +44,8 @@ Figure 2
 ![Pasted image 20260504010729.png](/img/user/Uni/2/5AB%20Molecular%20Biosciences/5AB030%20Analytical%20Techniques%20in%20Biosciences/Files%20And%20Shit/Pasted%20image%2020260504010729.png)
 University of Wolverhampton (2026)
   
-### Materials and Methods  
+
+### Materials And Methods
 - List all reagents, materials, and instrumentation used.  
 Drugged mouse serum, normal mouse serum, cholesterol standard, H2O, cuvettes, cholesterol oxidase, dye (phenol and amino-antipyrene), water bath, tris buffer, spectrophotometer, LP3 tubes with plastic caps, 100μl pipette. 
 - experimental procedure,
@@ -52,7 +53,7 @@ Drugged mouse serum, normal mouse serum, cholesterol standard, H2O, cuvettes, ch
 To start of 10μl of a cholestyramine-treated mouse's serum was pipetted into one cuvette and two LP3 tubes, the same was done with an untreated-mouse's serum. A test and control is made out of each serum, the tests having 100μl of phospholipase D and the controls having 100μl of tris buffer. A blank was created with 100μl of tris buffer and 10μl of water. Along with these three tubes were filled with 100μl of phospholipase, one with 10μl of water, one with 10μl of 25nmM Choline, and one with 10μl of 12nmM Choline. All tubes were sealed, mixed and incubated at 37°C for 45 minutes.
 The results for cholesterol were generated by measuring the absorbance values of each at 500nm with water as the zero. The results for phospholipids were zeroed against the water standard.
 
-### Results and Calculations  
+### Results And Calculations
 - Record all raw data and present it clearly in tables, graphs, or figures.  
 ![Pasted image 20260504023653.png](/img/user/Uni/2/5AB%20Molecular%20Biosciences/5AB030%20Analytical%20Techniques%20in%20Biosciences/Files%20And%20Shit/Pasted%20image%2020260504023653.png)
 Figure 3
@@ -91,23 +92,22 @@ For further information See tables 1, 2 and 3 in the appendix.
 Cholesterol
 ![Pasted image 20260504032744.png](/img/user/Uni/2/5AB%20Molecular%20Biosciences/5AB030%20Analytical%20Techniques%20in%20Biosciences/Files%20And%20Shit/Pasted%20image%2020260504032744.png)
 Figure 6
-    P value	0.0006
-    Significantly different
-    Difference between means and standard error 2.234 ± 0.6330
-    The highest concentrations are found in the untreated group, and the lowest in the treated group
+	P value	0.0006
+	Significantly different
+	Difference between means and standard error 2.234 ± 0.6330
+	The highest concentrations are found in the untreated group, and the lowest in the treated group
 
 Phospholipid
 ![Pasted image 20260504042729.png](/img/user/Uni/2/5AB%20Molecular%20Biosciences/5AB030%20Analytical%20Techniques%20in%20Biosciences/Files%20And%20Shit/Pasted%20image%2020260504042729.png)
 Figure 7
-    P value	0.1545
-    Not significantly different so there is a possibility these results were coincidence
-    Difference between means and standard error 0.2087 ± 0.2023 so the error bars overlap
+	P value	0.1545
+	Not significantly different so there is a possibility these results were coincidence
+	Difference between means and standard error 0.2087 ± 0.2023 so the error bars overlap
 
 
 - Compare the "drugged" (cholestyramine) group against the "control" group to determine the probability (P value) that differences occurred by chance.  
 
-
-### Discussion and Conclusions  
+### Discussion And Conclusions
 - Evaluate whether you achieved the original objective.  
 The experiment was carried out as expected and the cholesterol concentrations of the mice that were tested had decreased significantly (~3mM) over the seven days. This is similar to the results shown in a previous paper showing a large decrease in the serum cholesterol of children (West and Lloyd, 1975). However the perceived decrease in the choline concentrations of the tested mice were within the expected values and were not significant. Overall I think that the goal was still reached as the decrease in cholesterol is more important to the process of decreasing LDL. Making drug therapy via cholestyramine an effective option for lowing the LDL of a hyperglycaemic patient.
 - Discuss the significance of your data and compare it with known values from literature.  
@@ -140,9 +140,8 @@ As pointed west pointed out in that study, there is a flaw in not having adult h
 | HH    | 2.9         | 3.27        | 94    |     | HH    | 0.4          | 2.16         | 94    |
 | FF    | 3.36        | 3.21        | 31    |     | FF    | 0.98         | 2.22         | 31    |
 | P     | 0.547       | 1.051       | 16    |     | P     | 0.103        | 0.137        | 16    |
+
 Table 1
-
-
 
 | cholesterol results  |                   |     |
 | -------------------- | ----------------- | --- |
@@ -151,6 +150,7 @@ Table 1
 | Treated (Mouse P)    | 0.547             | 3   |
 | Cholesterol Standard | 1.006             | 6   |
 | Water                | 0                 | 0   |
+
 Table 2
 
 | Phospholipid results |                  |        |               |     |
@@ -164,8 +164,8 @@ Table 2
 | 6                    | Mouse P Control  | 0.068  | 0.032<br>     | 2   |
 | 7                    | Mouse 16 Test    | 0.137  | 0.101         | 6   |
 | 8                    | Mouse 16 Control | 0.125  | 0.089         | 5   |
-Table 3
 
+Table 3
 
 ### References
 Newman, N.K., Monnier, P.M., Rodrigues, R.R., Gurung, M., Vasquez-Perez, S., Hioki, K.A., Greer, R.L., Brown, K., Andrey Morgun and Shulzhenko, N. (2024). Host response to cholestyramine can be mediated by the gut microbiota. _Microbiome Research Reports_, [online] 3(3). doi:https://doi.org/10.20517/mrr.2023.82.
@@ -177,7 +177,7 @@ Cai, J.-S. and Chen, J.-H. (2014). The Mechanism of Enterohepatic Circulation in
 ‌
 
 
-## cell report
+## Cell Report
 ### Section A
 
  Exercise 2
@@ -197,7 +197,8 @@ It is important to determine the toxicity of a substance so that the people who 
 - Why is cell viability a good measure of toxicity?
 Cell viability is used as a measure for toxicity because it has a lot of guidelines surrounding how to carry out and interpret tests for it; it gets used by a lot of microbiologists and has a fairly trust-worthy reputation as accurate (Khalef et al., 2024;Riss et al., 2016). The idea is that if a cell's metabolic activity is insufficient following exposure to a substance it can be assumed that it was (if statistically significant) because of the substance. If a cell can be made to inviable by a drug then this method deems it to be toxic.
 - MTT assay will be used. Why is MTT assay a good assay technique (talk briefly about the mechanism of MTT assay)
-In the MTT assay, the MTT gets metabolised by cells, indicating mitochondrial activity(van Meerloo, Kaspers and Cloos, 2011;Riss et al., 2016).  If the metabolism of the solution used alongside the MTT leads to a decrease or termination of metabolism then it can be concluded that there was a cytotoxic effect within the cell.
+In the MTT assay, the MTT gets metabolised by cells, indicating mitochondrial activity(van Meerloo, Kaspers and Cloos, 2011;Riss et al., 2016). If the metabolism of the solution used alongside the MTT leads to a decrease or termination of metabolism then it can be concluded that there was a cytotoxic effect within the cell.
+
 #### 2.0 MATERIALS AND METHODS
 
 2.2 Methods
@@ -210,6 +211,7 @@ The plates were removed from the incubator before each well (of last weeks plate
 
 2.3 Statistical analysis
 Data were analysed using GraphPad Prism . Values are Mean ± SEM with n = 4. Datasets were compared using One Way Analysis of Variance with Dunnett’s post hoc test. Data were considered to be statistically significantly different if P<0.05.
+
 #### 3.0 RESULTS
 
 #### 4.0 DISCUSSION
@@ -218,7 +220,6 @@ Cite any previous publication that present results of MTT
 Limitation ? – one week interval
 
 The cell culture created was exposed to controlled concentrations of alyteserin-1b to determine how it effects the viability of cells in vitro. The results of the experiment show that there was a decrease in the relative viability of the cells after they were exposed to the drug. Though MTT is not perfect due to inability to control factors it provides a good visual medium that allows us to conclude that the results were of a significant difference and the drug is toxic to theese cells even at relatively low concentrations (Khalef et al., 2024;Riss et al., 2016). A Possible problem with these results could be the timeframe they were produced in, some steps of the process could have been optimised by allocating less time to them (for example the cells do not need a week in the media to be effected by them).
-
 
 ### References
 Weiskirchen, S., Schröder, S.K., Buhl, E.M. and Weiskirchen, R. (2023). A Beginner’s Guide to Cell Culture: Practical Advice for Preventing Needless Problems. _Cells_, [online] 12(5), p.682. doi:https://doi.org/10.3390/cells12050682.
@@ -238,13 +239,12 @@ Riss, T.L., Moravec, R.A., Niles, A.L., Duellman, S., Benink, H.A., Worzella, T.
 	- What are the major lipoprotein particles in human serum, their relative abundance, and how do they change during disease? 
 - [x] Short report on cell culture (15%)
 - [ ] Project preparation documents (10%) 
-    - [x] An updated cv (4%)
-    - [x] A cover letter as though applying for your research project (4%)
-    - [ ] A completed project approval form (2%)
+	- [x] An updated cv (4%)
+	- [x] A cover letter as though applying for your research project (4%)
+	- [ ] A completed project approval form (2%)
 
-
-## Statistics workshop
-### Abstract  
+## Statistics Workshop
+### Abstract
 Provide a summary of less than 100 words.  
 	Include the purpose (aim), a brief summary of methods, results, and any conclusions drawn.  
 	contain all the essential information
@@ -259,11 +259,12 @@ Mice given the drug-treated diet provided serums that were less intensely colour
 - Conclusion
 The exposure to the drug over the testing period significantly lowered the production of cholesterol and phospholipid
 - More
-### Introduction  
+
+### Introduction
 - Start with three or four sentences stating the objective of the experiment.  
 Cholestyramine is an anti-hypercholesterolemia drug that increases cholesterol metabolism and is sometimes used to lower the concentration of low-density lipoprotein in a patient (Newman et al., 2024). Throughout this experiment the aim is to determine if drug therapy using this anti-hyperglycaemic drug is an effective option using mice as a biological stand-in. This difference will be quantified through analysing the spectrophotometric differences between the sera of cholestyramine treated mice and control mice (to use as a statistical reference point). This would ideally show that both cholesterol and choline-containing phospholipid concentration decreases. 
 - Brief discussion of the theory behind the experiment and any new techniques used. 
-Cholestyramine (and other anti-glycaemic drugs like mevinolin) is a bile acid sequestrant, not being able to be absorbed bile acid and fats get excreted  and cholesterol becomes less present in the blood (Newman et al., 2024). If there is less cholesterol or phosphatidyl choline ( these react similarly as you can see in figure 1 and figure 2) then the cholesterol oxidase has less to react with and will produce less hydrogen peroxide—the chemical that reacts with phenol and amino-antipyrene to produce quinone-imine detects—and therefore less colouration to be picked up by the Spectrophotometer.
+Cholestyramine (and other anti-glycaemic drugs like mevinolin) is a bile acid sequestrant, not being able to be absorbed bile acid and fats get excreted and cholesterol becomes less present in the blood (Newman et al., 2024). If there is less cholesterol or phosphatidyl choline ( these react similarly as you can see in figure 1 and figure 2) then the cholesterol oxidase has less to react with and will produce less hydrogen peroxide—the chemical that reacts with phenol and amino-antipyrene to produce quinone-imine detects—and therefore less colouration to be picked up by the Spectrophotometer.
 - Include relevant biochemical reactions where appropriate (use figures from the booklet if needed).  
 Figure 1 
 ![Pasted image 20260504010708.png](/img/user/Uni/2/5AB%20Molecular%20Biosciences/5AB030%20Analytical%20Techniques%20in%20Biosciences/Files%20And%20Shit/Pasted%20image%2020260504010708.png) 
@@ -272,7 +273,8 @@ Figure 2
 ![Pasted image 20260504010729.png](/img/user/Uni/2/5AB%20Molecular%20Biosciences/5AB030%20Analytical%20Techniques%20in%20Biosciences/Files%20And%20Shit/Pasted%20image%2020260504010729.png)
 University of Wolverhampton (2026)
   
-### Materials and Methods  
+
+### Materials And Methods
 - List all reagents, materials, and instrumentation used.  
 Drugged mouse serum, normal mouse serum, cholesterol standard, H2O, cuvettes, cholesterol oxidase, dye (phenol and amino-antipyrene), water bath, tris buffer, spectrophotometer, LP3 tubes with plastic caps, 100μl pipette. 
 - experimental procedure,
@@ -280,7 +282,7 @@ Drugged mouse serum, normal mouse serum, cholesterol standard, H2O, cuvettes, ch
 To start of 10μl of a cholestyramine-treated mouse's serum was pipetted into one cuvette and two LP3 tubes, the same was done with an untreated-mouse's serum. A test and control is made out of each serum, the tests having 100μl of phospholipase D and the controls having 100μl of tris buffer. A blank was created with 100μl of tris buffer and 10μl of water. Along with these three tubes were filled with 100μl of phospholipase, one with 10μl of water, one with 10μl of 25nmM Choline, and one with 10μl of 12nmM Choline. All tubes were sealed, mixed and incubated at 37°C for 45 minutes.
 The results for cholesterol were generated by measuring the absorbance values of each at 500nm with water as the zero. The results for phospholipids were zeroed against the water standard.
 
-### Results and Calculations  
+### Results And Calculations
 - Record all raw data and present it clearly in tables, graphs, or figures.  
 ![Pasted image 20260504023653.png](/img/user/Uni/2/5AB%20Molecular%20Biosciences/5AB030%20Analytical%20Techniques%20in%20Biosciences/Files%20And%20Shit/Pasted%20image%2020260504023653.png)
 Figure 3
@@ -319,23 +321,22 @@ For further information See tables 1, 2 and 3 in the appendix.
 Cholesterol
 ![Pasted image 20260504032744.png](/img/user/Uni/2/5AB%20Molecular%20Biosciences/5AB030%20Analytical%20Techniques%20in%20Biosciences/Files%20And%20Shit/Pasted%20image%2020260504032744.png)
 Figure 6
-    P value	0.0006
-    Significantly different
-    Difference between means and standard error 2.234 ± 0.6330
-    The highest concentrations are found in the untreated group, and the lowest in the treated group
+	P value	0.0006
+	Significantly different
+	Difference between means and standard error 2.234 ± 0.6330
+	The highest concentrations are found in the untreated group, and the lowest in the treated group
 
 Phospholipid
 ![Pasted image 20260504042729.png](/img/user/Uni/2/5AB%20Molecular%20Biosciences/5AB030%20Analytical%20Techniques%20in%20Biosciences/Files%20And%20Shit/Pasted%20image%2020260504042729.png)
 Figure 7
-    P value	0.1545
-    Not significantly different so there is a possibility these results were coincidence
-    Difference between means and standard error 0.2087 ± 0.2023 so the error bars overlap
+	P value	0.1545
+	Not significantly different so there is a possibility these results were coincidence
+	Difference between means and standard error 0.2087 ± 0.2023 so the error bars overlap
 
 
 - Compare the "drugged" (cholestyramine) group against the "control" group to determine the probability (P value) that differences occurred by chance.  
 
-
-### Discussion and Conclusions  
+### Discussion And Conclusions
 - Evaluate whether you achieved the original objective.  
 The experiment was carried out as expected and the cholesterol concentrations of the mice that were tested had decreased significantly (~3mM) over the seven days. This is similar to the results shown in a previous paper showing a large decrease in the serum cholesterol of children (West and Lloyd, 1975). However the perceived decrease in the choline concentrations of the tested mice were within the expected values and were not significant. Overall I think that the goal was still reached as the decrease in cholesterol is more important to the process of decreasing LDL. Making drug therapy via cholestyramine an effective option for lowing the LDL of a hyperglycaemic patient.
 - Discuss the significance of your data and compare it with known values from literature.  
@@ -368,9 +369,8 @@ As pointed west pointed out in that study, there is a flaw in not having adult h
 | HH    | 2.9         | 3.27        | 94    |     | HH    | 0.4          | 2.16         | 94    |
 | FF    | 3.36        | 3.21        | 31    |     | FF    | 0.98         | 2.22         | 31    |
 | P     | 0.547       | 1.051       | 16    |     | P     | 0.103        | 0.137        | 16    |
+
 Table 1
-
-
 
 | cholesterol results  |                   |     |
 | -------------------- | ----------------- | --- |
@@ -379,6 +379,7 @@ Table 1
 | Treated (Mouse P)    | 0.547             | 3   |
 | Cholesterol Standard | 1.006             | 6   |
 | Water                | 0                 | 0   |
+
 Table 2
 
 | Phospholipid results |                  |        |           |     |
@@ -392,8 +393,8 @@ Table 2
 | 6                    | Mouse P Control  | 0.068  | 0.032<br> | 2   |
 | 7                    | Mouse 16 Test    | 0.137  | 0.101     | 6   |
 | 8                    | Mouse 16 Control | 0.125  | 0.089     | 5   |
-Table 3
 
+Table 3
 
 ### References
 Newman, N.K., Monnier, P.M., Rodrigues, R.R., Gurung, M., Vasquez-Perez, S., Hioki, K.A., Greer, R.L., Brown, K., Andrey Morgun and Shulzhenko, N. (2024). Host response to cholestyramine can be mediated by the gut microbiota. _Microbiome Research Reports_, [online] 3(3). doi:https://doi.org/10.20517/mrr.2023.82.
@@ -405,7 +406,7 @@ Cai, J.-S. and Chen, J.-H. (2014). The Mechanism of Enterohepatic Circulation in
 ‌
 
 
-## cell report
+## Cell Report
 ### Section A
 
  Exercise 2
@@ -425,7 +426,8 @@ It is important to determine the toxicity of a substance so that the people who 
 - Why is cell viability a good measure of toxicity?
 Cell viability is used as a measure for toxicity because it has a lot of guidelines surrounding how to carry out and interpret tests for it; it gets used by a lot of microbiologists and has a fairly trust-worthy reputation as accurate (Khalef et al., 2024;Riss et al., 2016). The idea is that if a cell's metabolic activity is insufficient following exposure to a substance it can be assumed that it was (if statistically significant) because of the substance. If a cell can be made to inviable by a drug then this method deems it to be toxic.
 - MTT assay will be used. Why is MTT assay a good assay technique (talk briefly about the mechanism of MTT assay)
-In the MTT assay, the MTT gets metabolised by cells, indicating mitochondrial activity(van Meerloo, Kaspers and Cloos, 2011;Riss et al., 2016).  If the metabolism of the solution used alongside the MTT leads to a decrease or termination of metabolism then it can be concluded that there was a cytotoxic effect within the cell.
+In the MTT assay, the MTT gets metabolised by cells, indicating mitochondrial activity(van Meerloo, Kaspers and Cloos, 2011;Riss et al., 2016). If the metabolism of the solution used alongside the MTT leads to a decrease or termination of metabolism then it can be concluded that there was a cytotoxic effect within the cell.
+
 #### 2.0 MATERIALS AND METHODS
 
 2.2 Methods
@@ -438,6 +440,7 @@ The plates were removed from the incubator before each well (of last weeks plate
 
 2.3 Statistical analysis
 Data were analysed using GraphPad Prism . Values are Mean ± SEM with n = 4. Datasets were compared using One Way Analysis of Variance with Dunnett’s post hoc test. Data were considered to be statistically significantly different if P<0.05.
+
 #### 3.0 RESULTS
 
 #### 4.0 DISCUSSION
@@ -446,7 +449,6 @@ Cite any previous publication that present results of MTT
 Limitation ? – one week interval
 
 The cell culture created was exposed to controlled concentrations of alyteserin-1b to determine how it effects the viability of cells in vitro. The results of the experiment show that there was a decrease in the relative viability of the cells after they were exposed to the drug. Though MTT is not perfect due to inability to control factors it provides a good visual medium that allows us to conclude that the results were of a significant difference and the drug is toxic to theese cells even at relatively low concentrations (Khalef et al., 2024;Riss et al., 2016). A Possible problem with these results could be the timeframe they were produced in, some steps of the process could have been optimised by allocating less time to them (for example the cells do not need a week in the media to be effected by them).
-
 
 ### References
 Weiskirchen, S., Schröder, S.K., Buhl, E.M. and Weiskirchen, R. (2023). A Beginner’s Guide to Cell Culture: Practical Advice for Preventing Needless Problems. _Cells_, [online] 12(5), p.682. doi:https://doi.org/10.3390/cells12050682.
@@ -466,13 +468,12 @@ Riss, T.L., Moravec, R.A., Niles, A.L., Duellman, S., Benink, H.A., Worzella, T.
 	- What are the major lipoprotein particles in human serum, their relative abundance, and how do they change during disease? 
 - [x] Short report on cell culture (15%)
 - [ ] Project preparation documents (10%) 
-    - [x] An updated cv (4%)
-    - [x] A cover letter as though applying for your research project (4%)
-    - [ ] A completed project approval form (2%)
+	- [x] An updated cv (4%)
+	- [x] A cover letter as though applying for your research project (4%)
+	- [ ] A completed project approval form (2%)
 
-
-## Statistics workshop
-### Abstract  
+## Statistics Workshop
+### Abstract
 Provide a summary of less than 100 words.  
 	Include the purpose (aim), a brief summary of methods, results, and any conclusions drawn.  
 	contain all the essential information
@@ -487,11 +488,12 @@ Mice given the drug-treated diet provided serums that were less intensely colour
 - Conclusion
 The exposure to the drug over the testing period significantly lowered the production of cholesterol and phospholipid
 - More
-### Introduction  
+
+### Introduction
 - Start with three or four sentences stating the objective of the experiment.  
 Cholestyramine is an anti-hypercholesterolemia drug that increases cholesterol metabolism and is sometimes used to lower the concentration of low-density lipoprotein in a patient (Newman et al., 2024). Throughout this experiment the aim is to determine if drug therapy using this anti-hyperglycaemic drug is an effective option using mice as a biological stand-in. This difference will be quantified through analysing the spectrophotometric differences between the sera of cholestyramine treated mice and control mice (to use as a statistical reference point). This would ideally show that both cholesterol and choline-containing phospholipid concentration decreases.
 - Brief discussion of the theory behind the experiment and any new techniques used. 
-Cholestyramine is a bile acid sequestrant, not being able to be absorbed bile acid and fats get excreted  and cholesterol becomes less present in the blood (Newman et al., 2024). If there is less cholesterol or phosphatidyl choline ( these react similarly as you can see in figure 1 and figure 2) then the cholesterol oxidase has less to react with and will produce less hydrogen peroxide—the chemical that reacts with phenol and amino-antipyrene to produce quinone-imine detects—and therefore less colouration to be picked up by the Spectrophotometer.
+Cholestyramine is a bile acid sequestrant, not being able to be absorbed bile acid and fats get excreted and cholesterol becomes less present in the blood (Newman et al., 2024). If there is less cholesterol or phosphatidyl choline ( these react similarly as you can see in figure 1 and figure 2) then the cholesterol oxidase has less to react with and will produce less hydrogen peroxide—the chemical that reacts with phenol and amino-antipyrene to produce quinone-imine detects—and therefore less colouration to be picked up by the Spectrophotometer.
 - Include relevant biochemical reactions where appropriate (use figures from the booklet if needed).  
 Figure 1 
 ![Pasted image 20260504010708.png](/img/user/Uni/2/5AB%20Molecular%20Biosciences/5AB030%20Analytical%20Techniques%20in%20Biosciences/Files%20And%20Shit/Pasted%20image%2020260504010708.png) 
@@ -500,7 +502,8 @@ Figure 2
 ![Pasted image 20260504010729.png](/img/user/Uni/2/5AB%20Molecular%20Biosciences/5AB030%20Analytical%20Techniques%20in%20Biosciences/Files%20And%20Shit/Pasted%20image%2020260504010729.png)
 University of Wolverhampton (2026)
   
-### Materials and Methods  
+
+### Materials And Methods
 - List all reagents, materials, and instrumentation used.  
 Drugged mouse serum, normal mouse serum, cholesterol standard, H2O, cuvettes, cholesterol oxidase, dye (phenol and amino-antipyrene), water bath, tris buffer, spectrophotometer, LP3 tubes with plastic caps, 100μl pipette. 
 - experimental procedure,
@@ -508,7 +511,7 @@ Drugged mouse serum, normal mouse serum, cholesterol standard, H2O, cuvettes, ch
 To start of 10μl of a cholestyramine-treated mouse's serum was pipetted into one cuvette and two LP3 tubes, the same was done with an untreated-mouse's serum. A test and control is made out of each serum, the tests having 100μl of phospholipase D and the controls having 100μl of tris buffer. A blank was created with 100μl of tris buffer and 10μl of water. Along with these three tubes were filled with 100μl of phospholipase, one with 10μl of water, one with 10μl of 25nmM Choline, and one with 10μl of 12nmM Choline. All tubes were sealed, mixed and incubated at 37°C for 45 minutes.
 The results for cholesterol were generated by measuring the absorbance values of each at 500nm with water as the zero. The results for phospholipids were zeroed against the water standard.
 
-### Results and Calculations  
+### Results And Calculations
 - Record all raw data and present it clearly in tables, graphs, or figures.  
 ![Pasted image 20260504023653.png](/img/user/Uni/2/5AB%20Molecular%20Biosciences/5AB030%20Analytical%20Techniques%20in%20Biosciences/Files%20And%20Shit/Pasted%20image%2020260504023653.png)
 Figure 3
@@ -531,8 +534,7 @@ For further information See tables 1, 2 and 3 in the appendix.
   
 - Compare the "drugged" (cholestyramine) group against the "control" group to determine the probability (P value) that differences occurred by chance.  
 
-
-### Discussion and Conclusions  
+### Discussion And Conclusions
 - Evaluate whether you achieved the original objective.  
 - Discuss the significance of your data and compare it with known values from literature.  
 - If you encountered problems, discuss them and suggest remedies for future experiments.  
@@ -562,9 +564,8 @@ For further information See tables 1, 2 and 3 in the appendix.
 | MM    | 3.68        | 7.12        | 50    |     | MM    | 0.82         | 1.25         | 50    |
 | HH    | 2.9         | 3.27        | 94    |     | HH    | 0.4          | 2.16         | 94    |
 | FF    | 3.36        | 3.21        | 31    |     | FF    | 0.98         | 2.22         | 31    |
+
 Table 1
-
-
 
 | cholesterol results  |                   |
 | -------------------- | ----------------- |
@@ -573,6 +574,7 @@ Table 1
 | Treated (Mouse P)    | 0.547             |
 | Cholesterol Standard | 1.006             |
 | Water                | 0                 |
+
 Table 2
 
 | Phospholipid results |                         |        |
@@ -586,8 +588,8 @@ Table 2
 | 6                    | Drugged Serum Control   | 0.068  |
 | 7                    | Undrugged Serum Test    | 0.137  |
 | 8                    | Undrugged Serum Control | 0.125  |
-Table 3
 
+Table 3
 
 ### References
 Newman, N.K., Monnier, P.M., Rodrigues, R.R., Gurung, M., Vasquez-Perez, S., Hioki, K.A., Greer, R.L., Brown, K., Andrey Morgun and Shulzhenko, N. (2024). Host response to cholestyramine can be mediated by the gut microbiota. _Microbiome Research Reports_, [online] 3(3). doi:https://doi.org/10.20517/mrr.2023.82.
@@ -595,7 +597,7 @@ University of Wolverhampton (2026) '5AB030 Lipid assay practical booklet 2026' 5
 ‌
 
 
-## cell report
+## Cell Report
 ### Section A
 
  Exercise 2
@@ -615,7 +617,8 @@ It is important to determine the toxicity of a substance so that the people who 
 - Why is cell viability a good measure of toxicity?
 Cell viability is used as a measure for toxicity because it has a lot of guidelines surrounding how to carry out and interpret tests for it; it gets used by a lot of microbiologists and has a fairly trust-worthy reputation as accurate (Khalef et al., 2024;Riss et al., 2016). The idea is that if a cell's metabolic activity is insufficient following exposure to a substance it can be assumed that it was (if statistically significant) because of the substance. If a cell can be made to inviable by a drug then this method deems it to be toxic.
 - MTT assay will be used. Why is MTT assay a good assay technique (talk briefly about the mechanism of MTT assay)
-In the MTT assay, the MTT gets metabolised by cells, indicating mitochondrial activity(van Meerloo, Kaspers and Cloos, 2011;Riss et al., 2016).  If the metabolism of the solution used alongside the MTT leads to a decrease or termination of metabolism then it can be concluded that there was a cytotoxic effect within the cell.
+In the MTT assay, the MTT gets metabolised by cells, indicating mitochondrial activity(van Meerloo, Kaspers and Cloos, 2011;Riss et al., 2016). If the metabolism of the solution used alongside the MTT leads to a decrease or termination of metabolism then it can be concluded that there was a cytotoxic effect within the cell.
+
 #### 2.0 MATERIALS AND METHODS
 
 2.2 Methods
@@ -628,6 +631,7 @@ The plates were removed from the incubator before each well (of last weeks plate
 
 2.3 Statistical analysis
 Data were analysed using GraphPad Prism . Values are Mean ± SEM with n = 4. Datasets were compared using One Way Analysis of Variance with Dunnett’s post hoc test. Data were considered to be statistically significantly different if P<0.05.
+
 #### 3.0 RESULTS
 
 #### 4.0 DISCUSSION
@@ -636,7 +640,6 @@ Cite any previous publication that present results of MTT
 Limitation ? – one week interval
 
 The cell culture created was exposed to controlled concentrations of alyteserin-1b to determine how it effects the viability of cells in vitro. The results of the experiment show that there was a decrease in the relative viability of the cells after they were exposed to the drug. Though MTT is not perfect due to inability to control factors it provides a good visual medium that allows us to conclude that the results were of a significant difference and the drug is toxic to theese cells even at relatively low concentrations (Khalef et al., 2024;Riss et al., 2016). A Possible problem with these results could be the timeframe they were produced in, some steps of the process could have been optimised by allocating less time to them (for example the cells do not need a week in the media to be effected by them).
-
 
 ### References
 Weiskirchen, S., Schröder, S.K., Buhl, E.M. and Weiskirchen, R. (2023). A Beginner’s Guide to Cell Culture: Practical Advice for Preventing Needless Problems. _Cells_, [online] 12(5), p.682. doi:https://doi.org/10.3390/cells12050682.
@@ -656,13 +659,12 @@ Riss, T.L., Moravec, R.A., Niles, A.L., Duellman, S., Benink, H.A., Worzella, T.
 	- What are the major lipoprotein particles in human serum, their relative abundance, and how do they change during disease? 
 - [x] Short report on cell culture (15%)
 - [ ] Project preparation documents (10%) 
-    - [x] An updated cv (4%)
-    - [x] A cover letter as though applying for your research project (4%)
-    - [ ] A completed project approval form (2%)
+	- [x] An updated cv (4%)
+	- [x] A cover letter as though applying for your research project (4%)
+	- [ ] A completed project approval form (2%)
 
-
-## Statistics workshop
-### Abstract  
+## Statistics Workshop
+### Abstract
 Provide a summary of less than 100 words.  
 	Include the purpose (aim), a brief summary of methods, results, and any conclusions drawn.  
 	contain all the essential information
@@ -677,26 +679,30 @@ Results
 Conclusion
 - The exposure to the drug over the testing period significantly lowered the production of cholesterol and phospholipid
 More
-### Introduction  
+
+### Introduction
 Start with three or four sentences stating the objective of the experiment.  
 - 
 Brief discussion of the theory behind the experiment
 Discuss the theory behind the experiment and any new techniques used.  
 Include relevant biochemical reactions where appropriate (use figures from the booklet if needed).  
   
-### Materials and Methods  
+
+### Materials And Methods
 - List all reagents, materials, and instrumentation used.  
 - experimental procedure,
 	- Provide enough detail for a fellow student to reproduce your work.  
 	  
-### Results and Calculations  
+
+### Results And Calculations
 - Record all raw data and present it clearly in tables, graphs, or figures.  
 - You must show the full method of calculation for at least one series of measurements.  
 - Include statistical analysis using a one-tailed unpaired t-test.  
   
 - Compare the "drugged" (cholestyramine) group against the "control" group to determine the probability (P value) that differences occurred by chance.  
   
-### Discussion and Conclusions  
+
+### Discussion And Conclusions
 - Evaluate whether you achieved the original objective.  
 - Discuss the significance of your data and compare it with known values from literature.  
 - If you encountered problems, discuss them and suggest remedies for future experiments.  
@@ -706,7 +712,7 @@ Include relevant biochemical reactions where appropriate (use figures from the b
 
 
 
-## cell report
+## Cell Report
 ### Section A
 
  Exercise 2
@@ -726,7 +732,8 @@ It is important to determine the toxicity of a substance so that the people who 
 - Why is cell viability a good measure of toxicity?
 Cell viability is used as a measure for toxicity because it has a lot of guidelines surrounding how to carry out and interpret tests for it; it gets used by a lot of microbiologists and has a fairly trust-worthy reputation as accurate (Khalef et al., 2024;Riss et al., 2016). The idea is that if a cell's metabolic activity is insufficient following exposure to a substance it can be assumed that it was (if statistically significant) because of the substance. If a cell can be made to inviable by a drug then this method deems it to be toxic.
 - MTT assay will be used. Why is MTT assay a good assay technique (talk briefly about the mechanism of MTT assay)
-In the MTT assay, the MTT gets metabolised by cells, indicating mitochondrial activity(van Meerloo, Kaspers and Cloos, 2011;Riss et al., 2016).  If the metabolism of the solution used alongside the MTT leads to a decrease or termination of metabolism then it can be concluded that there was a cytotoxic effect within the cell.
+In the MTT assay, the MTT gets metabolised by cells, indicating mitochondrial activity(van Meerloo, Kaspers and Cloos, 2011;Riss et al., 2016). If the metabolism of the solution used alongside the MTT leads to a decrease or termination of metabolism then it can be concluded that there was a cytotoxic effect within the cell.
+
 #### 2.0 MATERIALS AND METHODS
 
 2.2 Methods
@@ -739,6 +746,7 @@ The plates were removed from the incubator before each well (of last weeks plate
 
 2.3 Statistical analysis
 Data were analysed using GraphPad Prism . Values are Mean ± SEM with n = 4. Datasets were compared using One Way Analysis of Variance with Dunnett’s post hoc test. Data were considered to be statistically significantly different if P<0.05.
+
 #### 3.0 RESULTS
 
 #### 4.0 DISCUSSION
@@ -747,7 +755,6 @@ Cite any previous publication that present results of MTT
 Limitation ? – one week interval
 
 The cell culture created was exposed to controlled concentrations of alyteserin-1b to determine how it effects the viability of cells in vitro. The results of the experiment show that there was a decrease in the relative viability of the cells after they were exposed to the drug. Though MTT is not perfect due to inability to control factors it provides a good visual medium that allows us to conclude that the results were of a significant difference and the drug is toxic to theese cells even at relatively low concentrations (Khalef et al., 2024;Riss et al., 2016). A Possible problem with these results could be the timeframe they were produced in, some steps of the process could have been optimised by allocating less time to them (for example the cells do not need a week in the media to be effected by them).
-
 
 ### References
 Weiskirchen, S., Schröder, S.K., Buhl, E.M. and Weiskirchen, R. (2023). A Beginner’s Guide to Cell Culture: Practical Advice for Preventing Needless Problems. _Cells_, [online] 12(5), p.682. doi:https://doi.org/10.3390/cells12050682.

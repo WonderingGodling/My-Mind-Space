@@ -1,13 +1,13 @@
 ---
-{"Publish":true,"permalink":"/wrighth-stuff/wrighthers/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null}}
+{"Publish":true,"permalink":"/wrighth-stuff/wrighthers/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
  float: right;
 }
 </style>
-
 
 # <center><span style="color:#FEDCBA"></span></center>
 
@@ -24,7 +24,7 @@ Readers (Those being Taught The Craft) Are Only Permitted To Learn Theory Until 
 ### Definition
 A Curio Is A Unique Tool That Enhances A Wrighthers Abilities And Sometimes Grants More. The Only Thing One Can Do Without A Curio Is The Wrighthing Itself.
 
-### Founding 
+### Founding
 Founding A Curio Is About Founding Yourself Therefor Using A Curio Is About Using Yourself. 
 It Is Encouraged That Wrighthers Found And Use Their Own Curio For A Myriad Of Reasons:
 - You Can Only Benefit From The Additional Abilities Of Your Own Curio
@@ -33,6 +33,7 @@ It Is Encouraged That Wrighthers Found And Use Their Own Curio For A Myriad Of R
 - To Use A Curio One Must Impart A Segment Of Their Being Into The Object, Doing So With A Curio Owned By Somebody Other Than Oneself Is Ill-Advised For Obvious Reasons
 
 Founding Yourself Is Done In A Different Way by Every Person, The Only Similarity Is The End Point. If Done Correctly One Will Know Who They Are And Who They Are Will Be A Part Of The Curio. 
+
 ### Capabilities
 Curios Can:
 - Increase The Power/Potency Of The Wrighth
@@ -42,6 +43,7 @@ Curios Can:
 ### Styles
 Activating A Curio Usually Comes At A temporary Cost But That Cost Never Gets In The Way Of Ones Wrighthing Ability. 
 Curios Take Different Styles Which Other Wrighthers May Be Able To Interpret At A Glance For Example A Pen Curio Usually Has Implications Of Blind Dedication And Those Who Use Them Are Less Likely To Make Mistakes
+
 ### Typical Styles
 Pen: Swaps Your Vision For Blindsight (30ft), Allows The User To Wrighth Without Contact With A Surface And Grants Understanding Of Wrighthing
 

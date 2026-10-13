@@ -1,11 +1,11 @@
 ---
-{"Publish":true,"permalink":"/template/daily/","hideInGraph":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Featured":"","Yesterday":null,"Tomorrow":null}}
+{"Publish":true,"permalink":"/template/daily/","hideInGraph":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Icon":"[[Files And Shit 1/CalendarRange.svg]]","Featured":"","Yesterday":null,"Tomorrow":null}}
 ---
 
 
+# <center><span style="color:#AAAAFF">{{date}}</span></center>
 
-
-<p><span><strong>Day Age</strong>     <progress max="100" value="10.679398148148149" style="height:10px;width:20%"></progress>    10.679398148148149 </span></p>
+<p><span><strong>Day Age</strong>     <progress max="100" value="49.90625" style="height:10px;width:20%"></progress>    49.90625 </span></p>
 
 
 ```
@@ -68,16 +68,25 @@ notice.hide();
 ## Todays Plans:
 - [ ] 
 
+### Tomorrow
 
-##  Health Stats 
+## Stats
 
+### Health
 
 Blood Pressure Dia::  
 Blood Pressure Sys::  
 Heart Rate::
 Steps::
 
+### Games
+
 ## Food
+
+### Breakfast
+
+
+### Dinner
 
 ## To-Dos
 
