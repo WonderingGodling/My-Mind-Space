@@ -150,7 +150,7 @@
 	- [ ] Hes Also So Sleepy And Needs A Hug
 	- [ ] Carries A Plush Lion With Two Heads
 - [ ] Snakeskin Salesmen
-- [ ] One Kid Who Has A [[Explicitly Showcased/People/Special Ones/Heart\|Heart]] Attack If Anything Bad Happens To Him
+- [ ] One Kid Who Has A [[Explicitly Showcased/People/Heartbiter/Heart\|Heart]] Attack If Anything Bad Happens To Him
 	- [ ] ([[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Bad Always happens To Him)
 - [ ] Guy Selling Expensive Looking Shoes "Name Your Price" "Need To Get Rid Of Them Before [[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|My Husband]] Sees"
 	- [ ] Shoes That Turn Your Feet Into Hands Until Someone Else Wears Them
@@ -317,7 +317,7 @@
 	- [ ] Hes Also So Sleepy And Needs A Hug
 	- [ ] Carries A Plush Lion With Two Heads
 - [ ] Snakeskin Salesmen
-- [ ] One Kid Who Has A [[Explicitly Showcased/People/Special Ones/Heart\|Heart]] Attack If Anything Bad Happens To Him
+- [ ] One Kid Who Has A [[Explicitly Showcased/People/Heartbiter/Heart\|Heart]] Attack If Anything Bad Happens To Him
 	- [ ] ([[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Bad Always happens To Him)
 - [ ] Guy Selling Expensive Looking Shoes "Name Your Price" "Need To Get Rid Of Them Before [[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|My Husband]] Sees"
 	- [ ] Shoes That Turn Your Feet Into Hands Until Someone Else Wears Them
@@ -484,7 +484,7 @@
 	- [ ] Hes Also So Sleepy And Needs A Hug
 	- [ ] Carries A Plush Lion With Two Heads
 - [ ] Snakeskin Salesmen
-- [ ] One Kid Who Has A [[Explicitly Showcased/People/Special Ones/Heart\|Heart]] Attack If Anything Bad Happens To Him
+- [ ] One Kid Who Has A [[Explicitly Showcased/People/Heartbiter/Heart\|Heart]] Attack If Anything Bad Happens To Him
 	- [ ] ([[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Bad Always happens To Him)
 - [ ] Guy Selling Expensive Looking Shoes "Name Your Price" "Need To Get Rid Of Them Before [[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|My Husband]] Sees"
 	- [ ] Shoes That Turn Your Feet Into Hands Until Someone Else Wears Them

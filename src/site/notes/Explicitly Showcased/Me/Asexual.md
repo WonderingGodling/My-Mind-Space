@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/explicitly-showcased/me/asexual/","tags":["Me","Sexuality","Pride","Love"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:23 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"Asexual","comments":true,"tags":["Me","Sexuality","Pride","Love"],"Featured":"[[Files And Shit/Pasted image 20230826043356.png]]","Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:23 (Sunday)"}}
+{"Publish":true,"permalink":"/explicitly-showcased/me/asexual/","tags":["Me","Sexuality","Pride","Love"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:23 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"Asexual","comments":true,"tags":["Me","Sexuality","Pride","Love"],"Featured":"[[Files And Shit/Pasted image 20230826043356.png]]","Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:23 (Sunday)","feature":"Files And Shit/Pasted image 20230826043356.png","thumbnail":"thumbnails/resized/7095be2b039ccbe840535a68639de555_86cf658e.webp"}}
 ---
 
 

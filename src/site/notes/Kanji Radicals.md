@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/kanji-radicals/","noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Featured":"[[Files And Shit/_-order 2.gif]]","Date Created":"200·07·2026 12:36 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
+{"Publish":true,"permalink":"/kanji-radicals/","noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Featured":"[[Files And Shit/_-order 2.gif]]","Date Created":"200·07·2026 12:36 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Files And Shit/_-order 2.gif","thumbnail":"thumbnails/resized/d66a0a7522e9e194c7437b0f02b1b72c_86cf658e.webp"}}
 ---
 
 

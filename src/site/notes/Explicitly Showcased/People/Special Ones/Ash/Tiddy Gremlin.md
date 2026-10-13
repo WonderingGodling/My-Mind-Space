@@ -34,7 +34,7 @@
 		var confirmPassword = "Honey";
 		var password = document.getElementById("pswd").value;
 		if (password == confirmPassword) {
-			 window.location="https://my-mind-space.vercel.app/explicitly-showcased/people/ash/honey/";
+			 window.location="https://my-mind-space.vercel.app/Noodle Fleshlight >:D;
 		}
 		else{
 			alert(">:O Imposter!!");

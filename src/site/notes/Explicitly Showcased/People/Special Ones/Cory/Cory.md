@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/explicitly-showcased/people/special-ones/cory/cory/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"aliases":["Cor","Core"],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/external/3dbc405537ed60ac31068dec90219afe.jpg]]","Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
+{"Publish":true,"permalink":"/explicitly-showcased/people/special-ones/cory/cory/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"aliases":["Cor","Core"],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/external/3dbc405537ed60ac31068dec90219afe.jpg]]","Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"thumbnails/external/3dbc405537ed60ac31068dec90219afe.jpg","thumbnail":"thumbnails/resized/8304541d1fab154b33d410e90c42e350_86cf658e.webp"}}
 ---
 
 

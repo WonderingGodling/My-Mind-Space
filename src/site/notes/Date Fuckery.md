@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/date-fuckery/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":"200·07·2026 12:36 (Sunday)","Session Number":null,"Icon":null,"Banner":null,"Date Modified":"284·10·2026 3:24 (Sunday)"}}
+{"Publish":true,"permalink":"/date-fuckery/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·2026 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":"200·2026 (Sunday)","Session Number":null,"Icon":null,"Banner":null,"Date Modified":"284·2026 (Sunday)"}}
 ---
 
 
@@ -32,17 +32,7 @@
 
 Date Countdown Progress Bar
 
-<pre class="dataview dataview-error">Evaluation Error: SyntaxError: Invalid left-hand side expression in postfix operation
-    at DataviewInlineApi.eval (plugin:dataview:19027:21)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at DataviewJSRenderer.load (app://obsidian.md/app.js:1:883194)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:13476:21)
-    at next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:105:61)</pre>
+<p><span><strong>COUNTDOWN</strong>     <progress max="238" value="0" style="height:10px;width:20%"></progress>    <strong>0%</strong> | 10 days remaining</span></p>
 
 ```javascript
 var now = moment();
@@ -70,6 +60,6 @@ function getDatePercent() {
 console.log(getDatePercent())
 ```
 
-<p><span><strong>Day %age</strong>     <progress max="100" value="53.276620370370374" style="height:10px;width:20%"></progress></span></p>
+<p><span><strong>Day %age</strong>     <progress max="100" value="4.1782407407407405" style="height:10px;width:20%"></progress></span></p>
 
-[[[Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/284·10·2026 (Sunday).md\|284·10·2026 (Sunday)]]]
+[[[Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/285·2026 (Monday).md\|285·2026 (Monday)]]]

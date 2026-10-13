@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/explicitly-showcased/people/special-ones/edie/dee/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"Up":"[[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!]]","Down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
+{"Publish":true,"Permalink":"TheMythicalEdie","permalink":"/TheMythicalEdie/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"285·2026 (Monday)","dg-note-properties":{"Type":null,"Up":"[[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!]]","aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·2026 (Sunday)","Date Modified":"285·2026 (Monday)","Name":"Edie","Nickname":"Deedus :)","Pronouns":"She/Her","Why Pronouns":"Because woman i think","Orientation":"Pansexual","Birthday":"20th Feb 2005","Contact Info":[447908870302,"edieadavies@gmail.com"],"Picked Number":17,"Favourite Number":21,"Favourite (Mixture Of) Smell(s)":"LOVE smoky and rummy and sandalwoody things","Favourite Skull":"Elk or Deer","Favourite Animal":"Deer or Bear","Favourite Parasocial":"Alexander Skarsgard i suppose","Last Sing Occasion":"Today, all the time","Big Scare":"Being stuck emotionally","Allergic Or Hates":"I hate scrambled eggs","Counting Visual":"I count on my fingers:)","Opposite Of Coffee":"Not having the shits","Thoughts On Sun Fire":"Yeah... i think it is?","Character Flaw":"Unwavering ambition","One Gorilla Or Five Cobras":"Gorilla","Traditional Superpower":"Invisibility","Drink They Are":"A horrible flavoured beer","The One Food To Rule Them All":"big samdwich","Jack Off Elephant":"No","Toddler Fight":10,"Tasty Poison":"Any funky coloured mushroom","Experience To Share":"This DICK","Enough Effection":"Plenty","Unfortunate Interest":"Boot cleaning lol I feel like thats an ancient kink","Biggest Insert":"Maybe like 2 whole hotdogs in my mouth"}}
 ---
 
 
@@ -7,6 +7,11 @@
 
 # <center><span style="color:#000000">Dee</span></center>
 Muse;Spider, Flesh
+
+<p><span>   Born 7905 days ago</span></p>
+
+
+
 
 # Good Day
 I Hung Out With Dee Today (The Light Of My Life, Beacon Of Hope And The Best Woman Since Adam Got Married) And She Is Always So Freaking Amazing!
@@ -60,13 +65,7 @@ Maybe With Reviews!
 
 
 
-<center><sub>Done :)</sub></center>
+<center><sub>Love You Babe</sub></center>
 
 
-<script src="https://utteranc.es/client.js"
-		repo="WonderingGodling/My-Mind-Space"
-		issue-term="title"
-		theme="preferred-color-scheme"
-		crossorigin="anonymous"
-		async>
-</script>
+

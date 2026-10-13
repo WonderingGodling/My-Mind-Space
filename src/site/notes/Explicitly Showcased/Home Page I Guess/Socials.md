@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/socials/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":"Stuff About Me","Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":"278·10·2026 16:25 (Monday)","Session Number":null,"Icon":null,"Featured":"![[Explicitly Showcased/Home Page I Guess/Pasted image 20261002211227.png]]","Date Modified":"284·10·2026 3:24 (Sunday)"}}
+{"Publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/socials/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·2026 (Sunday)","dg-note-properties":{"Type":"Stuff About Me","Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":"278·2026 (Monday)","Session Number":null,"Icon":null,"Featured":"![[Explicitly Showcased/Home Page I Guess/Pasted image 20261002211227.png]]","Date Modified":"284·2026 (Sunday)","feature":"Explicitly Showcased/Home Page I Guess/Pasted image 20261002211227.png","thumbnail":"thumbnails/resized/04df37cbd259f46e2375b09c20d5b35f_86cf658e.webp"}}
 ---
 
 
@@ -24,6 +24,7 @@ Best Bet To Get Me Is Whatsapp But In The Case That You (Or Someone Without My N
 
 
 
-
+##### I Also Have An [Instagram](https://www.instagram.com/wonderinggodling/) But I Nevr Really use It
+![Pasted image 20261011131423.png](/img/user/Explicitly%20Showcased/Home%20Page%20I%20Guess/Files%20And%20Shit/Pasted%20image%2020261011131423.png)
 
 <center><sub>Done :)</sub></center>

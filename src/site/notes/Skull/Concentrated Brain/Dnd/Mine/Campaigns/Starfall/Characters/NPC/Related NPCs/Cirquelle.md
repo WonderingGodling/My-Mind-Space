@@ -20,6 +20,10 @@ Most Famous, Most Powerful Sorceress Alive
 	- [ ] Level 21 Wild Magic Sorcerer
 		- [ ] Just Picks An Effect From The Tables
 [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Merlington\|Merlington]]
+She Is Mostly What  I Meant By Not Being Done With Sins Page
+She Is This Magic Person Who Has Inexplicable Powers
+The Story Is That She Used To Be The Daughter Of This Magic Shop Owner Who At One Point In Her Childhood (Like Fifty Years Ago) Suddenly Became Magic
+Now She Is Known As The Most Powerful Sorcerer
 
 --> 
 

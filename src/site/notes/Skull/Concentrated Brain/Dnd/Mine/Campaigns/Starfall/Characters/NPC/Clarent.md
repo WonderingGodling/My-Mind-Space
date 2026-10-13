@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/npc/clarent/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Starfall NPC]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/WfzBgk3q.jpg]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/npc/clarent/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Starfall NPC]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/WfzBgk3q.jpg]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"Files And Shit/WfzBgk3q.jpg","thumbnail":"thumbnails/resized/aaee91c552c078c84f554cd95f01152b_86cf658e.webp"}}
 ---
 
 

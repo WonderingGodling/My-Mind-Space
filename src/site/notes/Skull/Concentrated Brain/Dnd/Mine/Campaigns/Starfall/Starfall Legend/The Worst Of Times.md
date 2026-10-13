@@ -1,13 +1,13 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-legend/the-worst-of-times/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[The Stars' Legacy]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":"The Betrayal","comments":true,"tags":["Tagless"],"permalink":"The Worst Of Times"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-legend/the-worst-of-times/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Starfall Legend/The Stars' Legacy]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":"The Betrayal","comments":true,"tags":["Tagless"],"permalink":"The Worst Of Times","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
  float: right;
 }
 </style>
-
 
 # <center><span style="color:#FAE000">The Worst Of Times</span></center>
 
@@ -23,8 +23,3 @@ It Used To Be That Monsters Came Into Our World Via Portals The Size Of Dragons.
 Since You-Know-When, Monsters Merely Coalesce On The Spot. Which Has Lead To People Needing To Know How To Protect Themselves From Sudden Appearances Or Overtakings. Using Harpies As An Example: When They Set Up A Territory It Is Important That Young Men Do Not Get Lost Among Them. Because Of This It Is Now Taught As A General Rule That All Harpies Are Men Stealers.
 
 I Know Who Put This In Motion But I Am Not Here To Point Fingers. I Just Hope That Once Im Gone People Will Learn How To Deal With The Monster Problem In A Way That Comes With Less Colterol. The World Was Better Before Those Things intervened So I Know That They They Can Be Better In The Future <span style="color: transparent;">Even If The Only Soluton Is For Those Terrors To Be Consumed By The Monsters They Despise</span>
-
-
-
-
-

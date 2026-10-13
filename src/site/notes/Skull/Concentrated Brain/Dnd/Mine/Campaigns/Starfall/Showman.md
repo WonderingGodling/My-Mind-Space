@@ -1,9 +1,9 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/showman/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"Title":null,"comments":true,"tags":["Tagless"],"permalink":null}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/showman/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#BADA55">Showman</span></center>
 
@@ -34,8 +34,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - (_a_) Entertainer's Pack or (_b_) Burglar's Pack or (_c_) Explorer's Pack
 - If you are using starting wealth, you have 5d4 x 10 GP in funds.
 
-
 #### Table: The Showman
+
 | Level | [Proficiency Bonus | Features                             | Cards |
 | ----- | ------------------ | ------------------------------------ | ----- |
 | 1st   | +2                 | Cards, Spellcasting                  | 3     |
@@ -71,7 +71,7 @@ Also at 1st level you have an innate ability to replicate magic that you have se
 
 Starting at 2nd level, you may burn a Card to re-roll any single die for any reason, you must take the second outcome.
 
-#### Smoke and Mirrors
+#### Smoke And Mirrors
 
 Also at 2nd level, if an attack made against you deals damage, you may use your reaction to burn a card and teleport to an unoccupied space within 10 feet, that you can see. Opportunity attacks are not granted by teleporting. You still suffer the damage caused by the attack.
 
@@ -91,7 +91,7 @@ When you reach 4th level, and again at 8th, 12th, 16th and 19th level, you can i
 
 Starting at 5th level when you cast a Spell that has a casting time of 1 Action, you can burn 2 Cards to change the casting time to 1 Bonus Action for that casting.
 
-#### Up the Sleeve
+#### Up The Sleeve
 
 Also at 5th level you now regain 1 Card back up to your max when you land a critical hit on an attack
 
@@ -99,7 +99,7 @@ Also at 5th level you now regain 1 Card back up to your max when you land a crit
 
 Starting at 7th level you may burn a Card once per round to gain another reaction or bonus action
 
-#### Mist and Reflection
+#### Mist And Reflection
 
 Also at 7th level Smoke and Mirrors may now reduce damage by half rounded down and can teleport an additional 10 feet away
 
@@ -119,7 +119,7 @@ Starting at 11th level as an action you may burn a card to force a creature you 
 
 Starting 13th level as an action you may burn up to 5 Cards and as an additional action or bonus action on this or a subsequent turn you may deal force damage to a single creature you can see equal to 1d4 + 1 per card burned.
 
-#### Master of the Arts
+#### Master Of The Arts
 
 Also at 13 level you gain expertise in one of your choice from Deception, Insight, Persuasion, Performance or Slight of hand. You may also choose a skill of your choice to gain proficiency in.
 
@@ -127,7 +127,7 @@ Also at 13 level you gain expertise in one of your choice from Deception, Insigh
 
 Starting 15th level when a saving throw is rolled by a creature you can see you may as a reaction burn a Card to cause disadvantage on the roll
 
-#### Shade and Silver
+#### Shade And Silver
 
 Also at 15th level Smoke and Mirrors now reduces damage by half rounded down and can teleport up to 20 feet away
 
@@ -151,7 +151,7 @@ Also at 18th level when you land a Critical hit, you may burn 2 Cards to roll 3 
 
 Upon reaching 20th level when an attack hits you and you have at least 5 cards, as a reaction you may burn all remaining cards to take only half damage and deal force damage equal to the amount taken back to the attacker.
 
-## Acts of Performance
+## Acts Of Performance
 
 Starting at 3rd level you chose a Performance Act Choose from Illusionist, Beast Tamer, Gambler, Arcane Arms or Fortune Teller. Each Act's features are listed below
 
@@ -215,7 +215,7 @@ Starting when you select this Act at 3rd level, you may burn a Card to gain adva
 
 Also at 3rd Level you also gain the ability to throw your cards as ranged weapons, which you are proficient with. Throwing Cards have a range of 15/30 and deal 1d6 Piercing Damage and use your Dex mod for an attack modifier.
 
-#### Coin of fate
+#### Coin Of Fate
 
 Starting at 6th level, as an Action you may burn a Card and roll a D10 or flip a coin (heads=even/tails=odd), any attack made against you until the start of your next turn must match the number rolled as being even or odd, after modifiers, otherwise it misses(if you roll a 2 or lands on heads, then the attack total must be an even number to hit) Even if the number doesn’t beat your AC it still hits for half DMG if the number matches
 
@@ -227,7 +227,7 @@ Starting at 10th level, throwing Cards have a range of 25/50 and deal 1d8 Pierci
 
 Also at 10th, when you roll a natural 20 in any situation you now regain 1 card. You now regain cards equal to your Charisma modifier when you roll a critical hit during an attack.
 
-#### Roll the Dice
+#### Roll The Dice
 
 Also at 10th level, when you or an ally is attacked on either damage or chance to hit you may use your reaction to burn a Card and force a full re-roll (All Dice Rolled), they must take the second outcome
 

@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/explicitly-showcased/people/special-ones/edie/mai-wife/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"aliases":["The Light Of My Life","Beacon Of Hope","The Best Woman Since Adam Got Married","Dee","Edie","Dee's","Edie's","Wife","My Wife","Wife's"],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
+{"Publish":true,"permalink":"/explicitly-showcased/people/special-ones/edie/mai-wife/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"286·2026 (Tuesday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"aliases":["The Light Of My Life","Beacon Of Hope","The Best Woman Since Adam Got Married","Dee","Edie","Dee's","Edie's","Wife","My Wife","Wife's"],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·2026 (Sunday)","Date Modified":"286·2026 (Tuesday)"}}
 ---
 
 
@@ -8,7 +8,11 @@
 # <center><span style="color:#000000"></span></center>
 
 
-#### Dee
+#### Dee She/Her
+
+## Facts
+### Birthday
+20th Feb 2005
 
 
 
@@ -16,7 +20,6 @@
 
 
 
-Dee Should Let Me Give Her Head Frfr
 
 
 
@@ -25,27 +28,10 @@ Dee Should Let Me Give Her Head Frfr
 
 
 
+<center><sub>
+Dee Should Let Me Give Her Head Frfr</sub></center>
 
 
-<center><sub>Done :)</sub></center>
-
-
-<script src="https://utteranc.es/client.js"
-		repo="WonderingGodling/My-Mind-Space"
-		issue-term="title"
-		theme="preferred-color-scheme"
-		crossorigin="anonymous"
-		async>
-</script>
-
-
-<script src="https://utteranc.es/client.js"
-		repo="WonderingGodling/My-Mind-Space"
-		issue-term="title"
-		theme="preferred-color-scheme"
-		crossorigin="anonymous"
-		async>
-</script>
 <html>
 <head>
 	<title>Secret?</title>
@@ -62,7 +48,7 @@ Dee Should Let Me Give Her Head Frfr
 		var confirmPassword = "Feed Me";
 		var password = document.getElementById("pswd").value;
 		if (password == confirmPassword) {
-			 window.location="https://my-mind-space.vercel.app/explicitly-showcased/people/special-ones/edie/dee/";
+			 window.location="[https://my-mind-space.vercel.app/explicitly-showcased/people/special-ones/edie/dee/](https://my-mind-space.vercel.app/TheMythicalEdie)";
 		}
 		else{
 			alert("Not Quite");

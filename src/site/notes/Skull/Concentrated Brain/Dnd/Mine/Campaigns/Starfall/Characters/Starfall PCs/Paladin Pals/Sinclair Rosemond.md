@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"Permalink":"Sinclair","permalink":"/Sinclair/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":"Dnd Character","Group":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Paladin Pals]]","down":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Sinclair","Sin"],"Title":"Sinclair","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":"278·10·2026 21:24 (Monday)","Session Number":null,"Icon":null,"Dead":null,"Lineage":"Human Varient","Allies":null,"Enemies":null,"Player Character":true,"Character Level":"1","Dnd World":"[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Harmony]]","Featured":"![[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Files And Shit/Sinclair.png]]","Date Modified":"284·10·2026 3:25 (Sunday)"}}
+{"Publish":true,"Permalink":"Sinclair","permalink":"/Sinclair/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":"Dnd Character","Group":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Paladin Pals]]","down":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Sinclair","Sin"],"Title":"Sinclair","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":"278·10·2026 21:24 (Monday)","Session Number":null,"Icon":null,"Dead":null,"Lineage":"Human Varient","Allies":null,"Enemies":null,"Player Character":true,"Character Level":"1","Dnd World":"[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Harmony]]","Featured":"![[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Files And Shit/Sinclair.png]]","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Files And Shit/Sinclair.png","thumbnail":"thumbnails/resized/8a28bf44781beaba151ca3e647dabc1e_86cf658e.webp"}}
 ---
 
 
@@ -86,4 +86,23 @@ Killing Ev On Purpose Gives The Cigs **That Was Close**: If The Next Source Of D
 	- Sinclaire Knows Folk Lore
 		- Write More For Her To Know
 	- Sinclaire Is Treated With Bare Minimum Respect In The Settlement
+Yk how Sinclair wears no make up and the markings on her face (the leopard marks + darker lips) are actual birthmarks?
+I imagine that despite her being a human, down the line of her bloodline there's probably a Goliath, who notoriously have natural body markings
+That's probably where she got her height and muscle mass from, too
+The fact that her mouth is black made me realize that the inside of her mouth is probably darker as well considering how markings like these usually work
+But I'm definitely making the Goliath thing canon
+Because it fits the explanation of everything really well
+It would be funny if the Goliath blood is from her mother's side too
+O my god imagine being one of the people that thought she was a weirdo when they were kids and then one day you accidentally run into this 6'2 unit of a woman
+Actually do you think those people would even recognize her? Since she used to be a pretty scrawny kid
+I think it would be funny if Sinclair started praying to the god of the Pow Scenario, purely because she has nothing else to pray to and she's read somewhere that paladins are supposed to do that or whatever
+So she just picked the first god that came to her mind
+And she's gonna roll with it
+She knows nothing other than give knights and warriors alike power to do their duties better
++ Pow Scenario God is literally the first god that came to her mind when she would think about something to pray to
+Not because of anything in particular
+It's genuinely just the first god that came to her mind
+Don't ask her to perform any rituals in the god's name because she doesn't know any
+Dude Sin's prayers to the God of Pow Scenario are going to be the most polite prayers anyone has ever heard 
+It's just gonna be her ranting and then being like "Well, I hope you have a good day, if time has any meaning to you anymore"
  --> 

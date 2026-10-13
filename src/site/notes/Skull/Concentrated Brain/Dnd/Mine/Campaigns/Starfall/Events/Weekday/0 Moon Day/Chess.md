@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/0-moon-day/chess/","noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Featured":"[[Files And Shit/external/cb9e40fc564a280bcecc6e838f1a5b65.jpg]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/0-moon-day/chess/","noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Featured":"[[Files And Shit/external/cb9e40fc564a280bcecc6e838f1a5b65.jpg]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"thumbnails/external/cb9e40fc564a280bcecc6e838f1a5b65.jpg","thumbnail":"thumbnails/resized/38242959afbcca23bbe65918206fb151_86cf658e.webp"}}
 ---
 
 

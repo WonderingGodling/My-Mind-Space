@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"Permalink":"Bee","permalink":"/Bee/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"285·2026 (Monday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Bee","BeeBee","Pupbee"],"Title":"BeeBee","comments":true,"tags":["Tagless"],"Date Created":"278·2026 (Monday)","Date Modified":"285·2026 (Monday)","feature":"Explicitly Showcased/People/Special Ones/Bee/Files And Shit/HPYg2PaW4AA98Bk.jpg","thumbnail":"thumbnails/resized/e377b75760eadca36e2e983f419f815e_86cf658e.webp","Icon":"[[Explicitly Showcased/People/Special Ones/Bee/Files And Shit/Kiss My Dog.png]]"}}
+{"Publish":true,"Permalink":"Bee","permalink":"/Bee/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"286·2026 (Tuesday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Bee","BeeBee","Pupbee"],"Title":"BeeBee","comments":true,"tags":["Tagless"],"Date Created":"278·2026 (Monday)","Date Modified":"286·2026 (Tuesday)","feature":"Explicitly Showcased/People/Special Ones/Bee/Files And Shit/HPYg2PaW4AA98Bk.jpg","thumbnail":"thumbnails/resized/e377b75760eadca36e2e983f419f815e_86cf658e.webp","Icon":"[[Explicitly Showcased/People/Special Ones/Bee/Files And Shit/Kiss My Dog.png]]"}}
 ---
 
 
@@ -7,6 +7,7 @@
 
 # <center><span style="color:#A1198A">Bee</span></center>
 ![HPYg2PaW4AA98Bk.jpg](/img/user/Explicitly%20Showcased/People/Special%20Ones/Bee/Files%20And%20Shit/HPYg2PaW4AA98Bk.jpg)
+
 
 ## Facts
 ### Birthday
@@ -22,6 +23,11 @@
 - cars
 - hot baths
 - guns
+	- Glocks
+	- Revolvers
+- Bugs
+- caramel
+- roguelikes
 #### Philias/Loves
 - monster
 	- Mango Loco
@@ -29,20 +35,53 @@
 - birds
 	- Corvids
 - pizza
+	- pineapple
+	- mushroom
 - Burger
+	- Burger King
 - spring
+- Bees
+- smell of pine
+- zipties
+- cherry coke
+- eating breakfast for dinner
+- flavored water
+- Seafood
+- tiramisu
+- oranges
+- Lizards
+- Modded Minecraft
 ### Dislikes
 - Puzzles
+- Repetition
+- Fabric Mouth Feel
+- Resident Evil
+- Fighting Games
+- peanut butter
+- Boiled Mushroom
+- Boats
+
 #### Phobias/Hates
 - Any Overwatch Character
-- Raw Ginger Or Olives
+- Raw Olives
+- Ginger
+- Vacuums
 ### Media
 #### Games
-Resident Evil
-Finals
-Apex
-Yakuza
-Metal Gear
+- Resident Evil
+- Finals
+- Apex
+- Yakuza
+- Metal Gear
+
+#### Movies
+- Scott Pilgrim
+- How To Train Your Dragon
+#### Shows
+- breaking bad
+#### Music
+- radiohead
+- tame impala
 
 ## Activities
 ### Time Sinks/Hobbies

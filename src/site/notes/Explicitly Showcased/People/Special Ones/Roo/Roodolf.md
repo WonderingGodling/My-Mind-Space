@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"Permalink":"Roodolf","permalink":"/Roodolf/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":"Password Gate","Up":"[[Branches/People Branch]]","Down":"[[Explicitly Showcased/People/Special Ones/Roo/Roo]]","Yesterday":null,"Tomorrow":null,"aliases":["Roo","Rujul","Roodolf","Roo's","Slut","Slut Cage","Horny Piece Of Shit"],"Next":null,"Previous":null,"Title":"Secret?","comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/external/9fc077fa4396374cbdbb25cf5437d08a.jpg]]","Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
+{"Publish":true,"Permalink":"Roodolf","permalink":"/Roodolf/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"286·2026 (Tuesday)","dg-note-properties":{"Type":"Password Gate","Up":"[[Branches/People Branch]]","Down":"[[Explicitly Showcased/People/Special Ones/Roo/Roo]]","Yesterday":null,"Tomorrow":null,"aliases":["Roo","Rujul","Roodolf","Roo's","Slut","Slut Cage","Horny Piece Of Shit"],"Next":null,"Previous":null,"Title":"Secret?","comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/external/9fc077fa4396374cbdbb25cf5437d08a.jpg]]","Date Created":"200·2026 (Sunday)","Date Modified":"286·2026 (Tuesday)","feature":"thumbnails/external/9fc077fa4396374cbdbb25cf5437d08a.jpg","thumbnail":"thumbnails/resized/c131c31075acb5b9df1e794ee0a66d21_86cf658e.webp"}}
 ---
 
 
@@ -45,7 +45,7 @@ Also, If There Arent Any Already, There Will Be Links To Other Parts Of My Websi
 
 ## <center>Bio (Kinda)</center>
 
-So, If You Dont Know, Roo (Originally █████ ██████) Is A They/them Pain In The Ass That Ive Been Friends With Since Some Point 2019(?) Im Bad At Time But I Remember That It Was Pre-Lockdown At Talliah ████'s Party. They Were Such A Huge Weeb That They Wore A Tokyo Ghoul Shirt To Like A Party Party Because Thats Like Cool Right? 
+So, If You Dont Know, Roo (Originally █████ ██████) Is A She/Her Pain In The Ass That Ive Been Friends With Since Some Point 2019(?) Im Bad At Time But I Remember That It Was Pre-Lockdown At Talliah ████'s Party. They Were Such A Huge Weeb That They Wore A Tokyo Ghoul Shirt To Like A Party Party Because Thats Like Cool Right? 
 Doesnt Matter, I Own That Shirt Now So I Win, They Had Fun, Talli's Dead Or Something (I Dont Know) But Everybodys Happy....
 Can I Link To Within The Page.... [[Explicitly Showcased/People/Special Ones/Roo/Roodolf#Roo's Shirt\|Shirt]] 
 Thanks Now I Know That

@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/jaxys-stuff/raven/raven/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Embedded":null,"Featured":"[[Files And Shit/external/714d35a817ae9e5a1f4fa7f2eca7202d.jpg]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/jaxys-stuff/raven/raven/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Embedded":null,"Featured":"[[Files And Shit/external/714d35a817ae9e5a1f4fa7f2eca7202d.jpg]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"thumbnails/external/714d35a817ae9e5a1f4fa7f2eca7202d.jpg","thumbnail":"thumbnails/resized/20bbde70f0881a3610ffa4acb4980036_86cf658e.webp"}}
 ---
 
 

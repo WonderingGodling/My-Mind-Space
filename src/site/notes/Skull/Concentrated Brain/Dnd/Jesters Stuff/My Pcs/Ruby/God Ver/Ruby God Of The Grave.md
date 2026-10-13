@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/jesters-stuff/my-pcs/ruby/god-ver/ruby-god-of-the-grave/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/external/e3f3f37634dce3e0118a2d6301ad6217.jpg]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/jesters-stuff/my-pcs/ruby/god-ver/ruby-god-of-the-grave/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/external/e3f3f37634dce3e0118a2d6301ad6217.jpg]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"thumbnails/external/e3f3f37634dce3e0118a2d6301ad6217.jpg","thumbnail":"thumbnails/resized/064622f634e475cf4e5df52fb16a819f_86cf658e.webp"}}
 ---
 
 

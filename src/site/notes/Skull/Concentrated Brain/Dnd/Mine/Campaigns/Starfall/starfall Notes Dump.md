@@ -1,9 +1,9 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-notes-dump/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Starfall]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Starfall","Dnd Notes","Notes Dump"],"Title":"Starfall Notes","comments":true,"tags":["Tagless"],"permalink":null,"Similarly Rooted":null,"Date Created":null,"Session Number":null}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-notes-dump/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Branches/Starfall]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Starfall","Dnd Notes","Notes Dump"],"Title":"Starfall Notes","comments":true,"tags":["Tagless"],"permalink":null,"Similarly Rooted":null,"Date Created":"278·10·2026 16:25 (Monday)","Icon":null,"Session Number":null,"Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
-a<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+a<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#D9C942">starfall Notes Dump</span></center>
 
@@ -222,7 +222,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Some Other Immortals Were Poisoned, Crushed, Or Spirited By It
 - [ ] Dels Friend Kaitlyn Is The Countdown Vendors Sister
 - [ ] Phoenix Sorcerer
-	- [ ] Level Del +2 Then Stays  That Level When They Meet
+	- [ ] Level Del +2 Then Stays That Level When They Meet
 		- [ ] Currently Looking For The Level 21 Sorcerer ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Cirquelle\|Cirquelle]]) So Is In That City ([[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Merlington\|Merlington]])
 - [ ] Really Loud [Insert Class Here] That Thinks Its A (It/Its) Ninja/Samurai 
 	- [ ] Maybe A Half Spellcasting Class So That They Have To Get Close But Also Have To Speak For Their spells
@@ -379,7 +379,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Child Adventuring Programmes
 - [ ] Goblin Astronomy Stuff
 - [ ] Tea Tourist Merch In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hollywood\|Hollywood]]
-- [ ] Write More About  [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gahenna/Gahenna\|Gahenna]]
+- [ ] Write More About [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gahenna/Gahenna\|Gahenna]]
 - [ ] Blood Magic Stuff
 - [ ] Exorcism/Occult Items
 - [ ] Ring Of Safety
@@ -415,7 +415,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]] Beauty Competition Winner Would Become [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Queen\|Queen]] Consort Till Death Or Revolution
 	- [ ] Demons Are Upset That The Beauty Competition Was On The Same Day As Moon Day Because It Is Untraditional
 - [ ] Escape room
-- [ ] Girl Makes Boyfriend Robot  [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]]
+- [ ] Girl Makes Boyfriend Robot [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]]
 	- [ ] (Make This Weird And Creepy)
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Omihami/Sawakasato\|Sawakasato]]
 - [ ] Orb Of Annihilation
@@ -442,7 +442,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] List Facilities In Each City
 - [ ] Catch Criminal Quest 
 	- [ ] Forensic Shit
-- [ ] Municipal, State, Sovereign, Nation, Kingdom, Territory, [[Skull/Concentrated Brain/Dnd/Mine/Realities/Stratus Saepta/Locations/Domain\|Domain]],  Commune, Protectoate, Union
+- [ ] Municipal, State, Sovereign, Nation, Kingdom, Territory, [[Skull/Concentrated Brain/Dnd/Mine/Realities/Stratus Saepta/Locations/Domain\|Domain]], Commune, Protectoate, Union
 - [ ] More Moon Festival Stuff
 - [ ] Town Imports And Exports
 - [ ] Take And Leave System
@@ -469,7 +469,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease\|Grease]]
 - [ ] Qutez (Original) Only Gets One Day Out From [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Sangwoo\|Sangwoo]] Before Vanishing
 - [ ] Write [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Sangwoo\|Sangwoo]]
-	- [ ] Dragons, Dragonborns, Kobalds,  Orcs
+	- [ ] Dragons, Dragonborns, Kobalds, Orcs
 - [ ] Write News Articles
 - [ ] High [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]] Security For A Couple Days
 	- [ ] A Guard Or Two In Neighboring Cities
@@ -668,7 +668,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Add Vampire Food To The Menus!
 - [ ] Blood Bar
 - [ ] Add Some Festival Explanations To The End Of The Intro
-	- [ ] [[images/Dnd/Character Tokens/NPCs/The Queen Of Gi Fotias\|The Queen Of Gi Fotias]] Is Supposed To SHow Her Face
+	- [ ] [[Files And Shit/Dnd/Character Tokens/NPCs/The Queen Of Gi Fotias\|The Queen Of Gi Fotias]] Is Supposed To SHow Her Face
 - [ ] Officially Put Everettes Place On The Map
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Church Vantias/Vantias\|Vantias]] 
 - [ ] Add A Bit About The Subway
@@ -719,6 +719,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Like wanting to raise them up in her own immortal way
 - [ ] And since she does also belive In the four elements but just in a different avenue
 - [ ] Person In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Unnamed Villages/Gi Fotias 25\|Gi Fotias 25]]
+- [ ] Okay... Since we're going to Grease, and Tari is probably going to be there... He'd Polly know about her if she's known well enough to be written about in the books right?
 
 
 

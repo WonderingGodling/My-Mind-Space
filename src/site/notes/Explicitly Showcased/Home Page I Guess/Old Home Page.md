@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/old-home-page/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/Pasted image 20230824221117.png]]","Date Created":"278·10·2026 16:53 (Monday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
+{"Publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/old-home-page/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/Pasted image 20230824221117.png]]","Date Created":"278·10·2026 16:53 (Monday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Files And Shit/Pasted image 20230824221117.png","thumbnail":"thumbnails/resized/0c757e24612bf79f6a7d5ddc61ed9e36_86cf658e.webp"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"Permalink":"My Dearest","permalink":"/My Dearest/","hideInGraph":true,"tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":"Letter","Up":"[[Branches/This Is To Poeople]]","Down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":"Love You","comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/20231126_214954.jpg]]","Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
+{"Publish":true,"Permalink":"My Dearest","permalink":"/My Dearest/","hideInGraph":true,"tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":"Letter","Up":"[[Branches/This Is To Poeople]]","Down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":"Love You","comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/20231126_214954.jpg]]","Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Files And Shit/20231126_214954.jpg","thumbnail":"thumbnails/resized/89cc107036d636475e8d85f48e52684f_86cf658e.webp"}}
 ---
 
 

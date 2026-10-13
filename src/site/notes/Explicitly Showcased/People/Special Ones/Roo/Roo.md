@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/explicitly-showcased/people/special-ones/roo/roo/","hideInGraph":true,"tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":"Passworded Page","Up":"[[Explicitly Showcased/People/Special Ones/Roo/Roodolf]]","Down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":"Roo <3","comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/il_fullxfull.3946262024_53gi.jpg]]","Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
+{"Publish":true,"permalink":"/explicitly-showcased/people/special-ones/roo/roo/","hideInGraph":true,"tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":"Passworded Page","Up":"[[Explicitly Showcased/People/Special Ones/Roo/Roodolf]]","Down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":"Roo <3","comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/il_fullxfull.3946262024_53gi.jpg]]","Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Files And Shit/il_fullxfull.3946262024_53gi.jpg","thumbnail":"thumbnails/resized/30d75edeb900abcb398901daf68fbce2_86cf658e.webp"}}
 ---
 
 
