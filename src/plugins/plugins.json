@@ -12,7 +12,7 @@
         "src/plugins/analytics/garden-plugin.json",
         "src/plugins/analytics/templates/snippet.njk"
       ],
-      "order": 20
+      "order": 70
     },
     "breadcrumbs": {
       "repo": "oleeskild/garden-plugin-breadcrumbs",
@@ -27,7 +27,7 @@
         "src/plugins/breadcrumbs/styles/trail.scss",
         "src/plugins/breadcrumbs/templates/trail.njk"
       ],
-      "order": 10
+      "order": 60
     },
     "garden-stats": {
       "repo": "oleeskild/garden-plugin-garden-stats",
@@ -42,7 +42,7 @@
         "src/plugins/garden-stats/styles/stats.scss",
         "src/plugins/garden-stats/templates/stats.njk"
       ],
-      "order": 30,
+      "order": 80,
       "settings": {
         "topCount": 16
       }
@@ -59,7 +59,7 @@
         "src/plugins/image-lightbox/styles/lightbox.scss",
         "src/plugins/image-lightbox/templates/lightbox.njk"
       ],
-      "order": 40
+      "order": 90
     },
     "rounded-images": {
       "repo": "oleeskild/garden-plugin-rounded-images",
@@ -73,6 +73,21 @@
         "src/plugins/rounded-images/screenshot.png",
         "src/plugins/rounded-images/templates/style.njk"
       ],
+      "order": 100
+    },
+    "dg-link-preview": {
+      "order": 10
+    },
+    "dg-filetree": {
+      "order": 20
+    },
+    "dg-math": {
+      "order": 30
+    },
+    "dg-search": {
+      "order": 40
+    },
+    "dg-timestamps": {
       "order": 50
     }
   }
