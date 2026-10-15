@@ -18,7 +18,7 @@
       "repo": "oleeskild/garden-plugin-breadcrumbs",
       "installedVersion": "1.0.0",
       "installedRef": "v1.0.0",
-      "installedAt": "2026-10-03T16:05:59.615Z",
+      "installedAt": "2026-10-15T23:40:27.788Z",
       "enabled": true,
       "files": [
         "src/plugins/breadcrumbs/README.md",
@@ -51,7 +51,7 @@
       "repo": "oleeskild/garden-plugin-image-lightbox",
       "installedVersion": "1.1.0",
       "installedRef": "v1.1.0",
-      "installedAt": "2026-10-02T19:28:25.060Z",
+      "installedAt": "2026-10-15T23:40:41.299Z",
       "enabled": true,
       "files": [
         "src/plugins/image-lightbox/README.md",
@@ -65,7 +65,7 @@
       "repo": "oleeskild/garden-plugin-rounded-images",
       "installedVersion": "1.0.0",
       "installedRef": "v1.0.0",
-      "installedAt": "2026-10-02T19:28:50.729Z",
+      "installedAt": "2026-10-15T23:40:59.260Z",
       "enabled": true,
       "files": [
         "src/plugins/rounded-images/README.md",
