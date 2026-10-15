@@ -79,7 +79,8 @@
       "order": 10
     },
     "dg-filetree": {
-      "order": 30
+      "order": 30,
+      "enabled": false
     },
     "dg-math": {
       "order": 50
