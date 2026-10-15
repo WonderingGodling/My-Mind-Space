@@ -42,7 +42,7 @@
         "src/plugins/garden-stats/styles/stats.scss",
         "src/plugins/garden-stats/templates/stats.njk"
       ],
-      "order": 80,
+      "order": 90,
       "settings": {
         "topCount": 16
       }
@@ -59,7 +59,7 @@
         "src/plugins/image-lightbox/styles/lightbox.scss",
         "src/plugins/image-lightbox/templates/lightbox.njk"
       ],
-      "order": 90
+      "order": 80
     },
     "rounded-images": {
       "repo": "oleeskild/garden-plugin-rounded-images",
