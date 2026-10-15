@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"Twin Sticks","permalink":"/Twin Sticks/","title":"Twin Sticks","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Items/Starfall Magic Items/Starfall Magic Items]]","[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Dolad/Bostons Experimental Armoury]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Twin Sticks"],"title":"Twin Sticks","comments":true,"tags":["Tagless"]}}
+{"Publish":true,"Permalink":"Twin Sticks","permalink":"/Twin Sticks/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Items/Starfall Magic Items/Starfall Magic Items]]","[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Dolad/Bostons Experimental Armoury]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Twin Sticks"],"Title":"Twin Sticks","comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/Sprite-0002.png]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"Files And Shit/Sprite-0002.png","thumbnail":"thumbnails/resized/f20a864b7c6a2aeb8b7c56c8a23928b7_86cf658e.webp"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -8,9 +9,8 @@
 }
 </style>
 
-
 # <center><span style="color:#122430">Twin Sticks</span></center>
-![Sprite-0002.png\|110](/img/user/images/Sprite-0002.png)
+![Sprite-0002.png\|110](/img/user/Files%20And%20Shit/Sprite-0002.png)
 
 Two Long Metal Wands, Thirteen Inches In Length Reminiscent Of Knitting Needles. When You Cast Spells With These Wands They Heat Up Pleasantly.
 

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/jane-doe/jane-doe/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Branches/My PCs]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/jane-doe/jane-doe/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Branches/My PCs]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#FF0093">Jane Doe </span></center>
 
@@ -11,11 +11,10 @@
 
 
 ## General
- Race:  Mind Flayer
+ Race: Mind Flayer
  Class: Peace Cleric 3
  Alignment: Chaotic Good
  Background: Rewarded
-
 
 ## Stats
 
@@ -46,6 +45,7 @@
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
 | Death Fails |     |     |     |
+
 ### Attacks
 
 | Attack         | To-Hit | Damage            |
@@ -83,6 +83,7 @@
 Money: 18
 Inventory: Circlet of Human Perfection, Mace, Kusarigama, Scale Mail, Light Crossbow (20), shield, holy symbol, black ink, pen, paper (5), Dice, signet ring, fine clothes, Backpack, blanket, candle (10), tinderbox, alms box, incense (2), censer, vestments, rations (2), waterskin, Snowball Bag!!, Bag Of Gifts, coolest Candycane, Jester Access Card, 5 Copper, 20 Heart Gems, 5 Silver, Lovers Pen, Love Potion, heartbeat Necklace, Life-long Locket, 2 Heart Crystals, One Vial Of Love, Boots Of Speed, Staff Of Lovers Grasp, Cresent Moon Rose, 
 Painings: Obsidian Pillar, Unnamed Cresents, Old Gods,
+
 # Extra
 Resistances: Magic
 Advantage: Charisma, Slime Medicine, 
@@ -92,12 +93,12 @@ Conditions:
 
 # Proficiencies
 		
-Armor:  Light armor, medium armor, shields
-Weapons:  All simple weapons
+Armor: Light armor, medium armor, shields
+Weapons: All simple weapons
 Tools: Dice
 Languages: Common, Deepspeech, Undercommon, Celestial
 
-# Notes: 
+# Notes:
 
 [[Arcane charm\|Arcane charm]]
 
@@ -119,13 +120,12 @@ Harness Divine Power (1)
 [[Gift of the Gem Dragon\|Gift of the Gem Dragon]] (2) DC13 2d8 10ft
 [[Lucky\|Lucky]]
 
-
-# Characteristics 
+# Characteristics
 
 Fun Facts:
 - [ ] Became A Cleric Because She Has A Really Good Plan For Keeping Everyone Alive And Happy
 - [ ] Just Really Wants People To Like Her Not Because Shes Vein (Not That Shes Not) But More Because That Always Seems To Work Out For Them
-- [x] Has Been Looking Into Slimes Recently (Literally)  [completion:: 2025-02-10]
+- [x] Has Been Looking Into Slimes Recently (Literally) [completion:: 2025-02-10]
 - [ ] Tells Everyone She Started From The Ground Up In Solim But She Actually Moved There When She Got Her Clerical Powers As A Teen
 - [ ] She Strongly Believes That Ignorance Is Bliss And That Itd Be Better To Not Trick People Into Being happy If Need Be
 
@@ -146,7 +146,7 @@ Fouind The Entrance Througha Coffin
 Went Into Crypt With Weird Language Symbols
 
 4, 5 Or 6 People, Taken From The Side Of The Road, No Reason Why, 
-StEphanie (15 Degree CROP LINE),  Beartrice (Straight, Off Centre, Crop Line),
+StEphanie (15 Degree CROP LINE), Beartrice (Straight, Off Centre, Crop Line),
 +1 Battleaxe
 Person Found In Coffin, Other Peple In Coffins Dead0
 Old Woman Tori
@@ -169,4 +169,4 @@ Letter From Kalkav, 110g Each, 08000-2200 Protect Wearhouse, 7am Start, Any Qs, 
 Sleep Mist Or Something
 Jessie Von Clownstick/Von Clownie
 
-Building Serpent Carving On Hinges/Full Back Tattoo  "walk In Shadow"
+Building Serpent Carving On Hinges/Full Back Tattoo "walk In Shadow"

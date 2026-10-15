@@ -1,22 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/grims-stuff/agate-and-katrina/agate/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/grims-stuff/agate-and-katrina/agate/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/external/09e9a5ea3498f9144ef894a30e1a0732.png]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"thumbnails/external/09e9a5ea3498f9144ef894a30e1a0732.png","thumbnail":"thumbnails/resized/b25ee6e6465a018873729e6132f265b6_86cf658e.webp"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#666000">Agate Prop</span></center>
 
 ![](https://i.imgur.com/RPjC0b5.png)
 
-
-
 ## General
- Race:  [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin\|Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin]]
+ Race: [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin\|Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin]]
  Class: [[Curse User\|Curse User]] 3
  Alignment: True Neutral
- Background:  [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Valedictorian Backgound\|Valedictorian]] 
-
+ Background: [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Valedictorian Backgound\|Valedictorian]] 
 
 ## Stats
 
@@ -47,6 +44,7 @@
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
 | Death Fails |     |     |     |
+
 ### Attacks
 
 | Attack  | To-Hit | Damage           |
@@ -66,6 +64,7 @@ Inventory: old school crest on a scalf, Sketchbook https://docs.google.com/docum
 Unidentified Curse Tool
 
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Agate And Katrina/Agate's Creations\|Agate's Creations]]
+
 # Extra
 Resistances: 
 Advantage: 
@@ -76,12 +75,12 @@ Conditions:
 
 # Proficiencies
 		
-Armor:  Shields and light/ medium armour
+Armor: Shields and light/ medium armour
 Weapons: : Simple ranged and melee weapons
-Tools:  glAssblower, Cooks
+Tools: glAssblower, Cooks
 Languages: common
 
-# Notes: 
+# Notes:
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Attentiveness\|Attentiveness]]
 [[adrenaline rush\|adrenaline rush]]
 [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Geigermin#Radioactive aura\|Radioactive Aura]] 
@@ -107,12 +106,12 @@ Cursed healing
 Curse Domain
 	[[Skull/Concentrated Brain/Dnd/Grims Stuff/Agate And Katrina/Agate#Domain Expansion: Spilt Ink\|Spilt Ink]]
 
-
-# Characteristics 
+# Characteristics
 
 
 ##### Amulet Of The Devout
 This amulet bears the symbol of a deity inlaid with precious stones or metals. While you wear the holy symbol, you gain a bonus to spell attack rolls and the saving throw DCs of your spells. The bonus is +2. While you wear this amulet, you can use your Channel Divinity feature without expending one of the feature's uses. Once this property is used, it can't be used again until the next dawn.
+
 ##### Creative Liberty
 This Is Why You Should Separate The Art From The Artist
 The Curse Energy That Flows Through You Turns Your Will And Creativity Into Something More Than The Sum Of Its Parts. Shaping And Moulding The World Into What It Could Have Been If It Only Had The Artistic Freedom.
@@ -129,9 +128,6 @@ People Cannot Recall Your Art Without Your Permission. If A Person Has Your Perm
 
 Art-iculative
 Regardless Of What You Are Trying T0 Create With (Pictures, Clay, Words) As Long As You Have The Materials Your Will Is A Sufficient Enough Tool
-
-
-
 
 ##### Domain Expansion: Spilt Ink
 No Use Crying

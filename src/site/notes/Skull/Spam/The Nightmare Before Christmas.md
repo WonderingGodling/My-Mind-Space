@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/skull/spam/the-nightmare-before-christmas/","title":"The Nightmare Before Christmas","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type:":"Film Script","up:":"[[Remember]]","down:":null,"Yesterday:":null,"Tomorrow:":null,"alias:":["The Nightmare Before Christmas"],"Next:":null,"Previous:":null,"title":"The Nightmare Before Christmas","comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/spam/the-nightmare-before-christmas/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"The Nightmare Before Christmas","comments":true,"show-local-graph":false,"tags":["Tagless"],"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
@@ -10,9 +11,9 @@ The script to Tim Burton's The Nightmare Before Christmas
 
 **NARRATOR**
 'Twas a long time ago, longer now than it seems, in a place 
-that perhaps you've seen in your dreams.  For the story that you are 
-about to be told, took place in the holiday worlds of old.  Now, you've 
-probably wondered where holidays come from.  If you haven't, I'd say it's 
+that perhaps you've seen in your dreams. For the story that you are 
+about to be told, took place in the holiday worlds of old. Now, you've 
+probably wondered where holidays come from. If you haven't, I'd say it's 
 time you begun.
 
 	This Is Halloween
@@ -156,10 +157,10 @@ What a night!
 Great Halloween everybody.
 
 **JACK**
-I believe it was our most horrible yet!  Thank you everyone.
+I believe it was our most horrible yet! Thank you everyone.
 
 **MAYOR**
-No, thanks to  you, Jack.  Without your brilliant leadership - 
+No, thanks to you, Jack. Without your brilliant leadership - 
 
 **JACK**
 Not at all Mayor.
@@ -174,7 +175,7 @@ WITCH (little)
 You made walls fall, Jack
 
 **WITCH**
-Walls fall?  You made the very mountains crack, Jack
+Walls fall? You made the very mountains crack, Jack
 
 **DR. FINKELSTEIN**
 The deadly nightshade you slipped me wore off, Sally.  
@@ -196,7 +197,7 @@ No I'm not!
 [Sally pulls out the thread that's holding her arm on]
 
 **DR. FINKELSTEIN**
-Come back here you foolish oaf!  Ow!
+Come back here you foolish oaf! Ow!
 
 **CREATURE FROM BLACK LAGOON**
 Ooo Jack, you make wounds ooze and flesh crawl.
@@ -205,7 +206,7 @@ Ooo Jack, you make wounds ooze and flesh crawl.
 Thank you, thank you, thank you -- very much
 
 **MAYOR**
-Hold it!  We haven't given out the prizes yet!  Our first award goes to 
+Hold it! We haven't given out the prizes yet! Our first award goes to 
 the vampires for most blood drained in a single evening.
 [applause]
 
@@ -216,7 +217,7 @@ A frightening and honorable mention goes to the fabulous Dark Lagoon leeches
 Nice work, Bone Daddy.
 
 **JACK**
-Yeah, I guess so.  Just like last year and the year before that and the 
+Yeah, I guess so. Just like last year and the year before that and the 
 year before that.
 
 [entering graveyard] 
@@ -296,13 +297,13 @@ That's twice this month you've slipped deadly nightshade into my tea
 Three times!
 
 **DR. FINKELSTEIN**
-You're mine you know!  I made you with my own hands.
+You're mine you know! I made you with my own hands.
 
 **SALLY**
-You can make other creations.  I'm restless, I can't help it.
+You can make other creations. I'm restless, I can't help it.
 
 **DR. FINKELSTEIN**
-It's a phase my dear, it'll pass.  We need to be patient that's all.
+It's a phase my dear, it'll pass. We need to be patient that's all.
 
 **SALLY**
 But, I don't want to be patient.
@@ -313,13 +314,13 @@ But, I don't want to be patient.
 bark
 
 **JACK**
-No Zero, not now.  I'm not in the mood.
+No Zero, not now. I'm not in the mood.
 
 **ZERO**
 bark
 
 **JACK**
-All right.  [giving Zero a rib from himself]  Here ya go boy.
+All right. [giving Zero a rib from himself] Here ya go boy.
 
 [Zero gets rib and shows off his nose]
 
@@ -337,12 +338,12 @@ Jack, you home?
 back to happy face]
 
 **MAYOR**
-Jack?  I've got the plans for next Halloween.  I need to go over them 
+Jack? I've got the plans for next Halloween. I need to go over them 
 with you so we can get started.  
 
 MAYOR (with worried face)
 Jack, please, I'm only an elected an official here, I can't make 
-decisions by myself.  Jack, answer me!!
+decisions by myself. Jack, answer me!!
 
 [falls down steps]
 
@@ -361,7 +362,7 @@ ooooo
 [back to forest]
 
 **JACK**
-(yawning)  Where are we?  It's someplace new.
+(yawning) Where are we? It's someplace new.
 
 **ZERO**
 bark bark
@@ -500,7 +501,7 @@ Stand aside.
 grrrr
 
 **MAYOR**
-Coming through.  We've got find Jack.  There's only 365 days left till 
+Coming through. We've got find Jack. There's only 365 days left till 
 next Halloween.
 
 **WEREWOLF**
@@ -518,7 +519,7 @@ Hyde
 I tromped through the pumpkin patch.
 
 **VAMPIRE**
-I peeked behind the Cyclops's eye.  I did!  But he wasn't there.
+I peeked behind the Cyclops's eye. I did! But he wasn't there.
 
 **MAYOR**
 It's time to sound the alarms.
@@ -526,8 +527,8 @@ It's time to sound the alarms.
 [DR. FINKELSTEIN's castle]
 
 **SALLY**
-Frog's breath will overpower any odor.  Bitter.  [coughing]  Worm's 
-wart.  Where's that worm's wart?
+Frog's breath will overpower any odor. Bitter. [coughing] Worm's 
+wart. Where's that worm's wart?
 
 **DR. FINKELSTEIN**
 Sally, that soup ready yet?
@@ -536,24 +537,24 @@ Sally, that soup ready yet?
 Coming....lunch
 
 **DR. FINKELSTEIN**
-Ah, what's that?  Worm's wart, mmm, and...frog's breath.
+Ah, what's that? Worm's wart, mmm, and...frog's breath.
 
 **SALLY**
-What's wrong?  I-I thought you liked frog's breath.
+What's wrong? I-I thought you liked frog's breath.
 
 **DR. FINKELSTEIN**
 Nothing's more suspicious than frog's breath. Until you taste it I won't 
 swallow a spoonful.
 
 **SALLY**
-I'm not hungry... [knocking spoon]  Oops!
+I'm not hungry... [knocking spoon] Oops!
 
 **DR. FINKELSTEIN**
-You want me to starve.  An old man like me who hardly has strength as it 
-is.  Me, to whom you owe your very life.
+You want me to starve. An old man like me who hardly has strength as it 
+is. Me, to whom you owe your very life.
 
 **SALLY**
-Oh don't be silly.  [eats soup with trick spoon]  Mmmm, see.  Scrumptious.
+Oh don't be silly. [eats soup with trick spoon] Mmmm, see. Scrumptious.
 
 [Dr. Finkelstein eats soup] 
 
@@ -610,7 +611,7 @@ Clown
 [giggles as he hits Sally]
 
 **JACK**
-Listen everyone.  I want to tell you about Christmastown.
+Listen everyone. I want to tell you about Christmastown.
 
 	Town Meeting Song
 	Performed by Danny Elfman and Cast
@@ -774,7 +775,7 @@ Is that so, whatever for?
 I'm conducting a series of experiments.
 
 **DR. FINKELSTEIN**
-How perfectly marvelous.  Curiosity killed the cat, you know.
+How perfectly marvelous. Curiosity killed the cat, you know.
 
 **JACK**
 I know.
@@ -783,7 +784,7 @@ I know.
 Come on into the lab and we'll get you all fixed up.
 
 **SALLY**
-Hmm.  Experiments?
+Hmm. Experiments?
 
 [Jack's house]
 
@@ -800,7 +801,7 @@ Interesting reaction....but what does it mean?
 [after Sally jumps to give Jack his basket...]
 
 **DR. FINKELSTEIN**
-You can come out now if you promise to behave.  Sally.  Sally.  Oooh!  Gone 
+You can come out now if you promise to behave. Sally. Sally. Oooh! Gone 
 again!
 
 [Jack's house]
@@ -887,11 +888,11 @@ And that's exactly what I'll do
 Hee,hee,hee
 
 **JACK**
-Eureka!!  This year, Christmas will be ours!
+Eureka!! This year, Christmas will be ours!
 
 **MAYOR**
-Patience, everyone.  Jack has a special Job for each of us.  Dr. 
-Finkelstein, your Xmas assignment is ready.  Dr. Finkelstein to the front 
+Patience, everyone. Jack has a special Job for each of us. Dr. 
+Finkelstein, your Xmas assignment is ready. Dr. Finkelstein to the front 
 of the line.
 
 **VAMPIRE**
@@ -904,11 +905,11 @@ Perhaps it can be improved?
 No problem!
 
 **JACK**
-I knew it!  Dr. thank you for coming.  We need some of these.
+I knew it! Dr. thank you for coming. We need some of these.
 [showing picture of Santa and sleigh]
 
 **DR. FINKELSTEIN**
-Hmm.. their construction should be exceedingly simple.  I think.
+Hmm.. their construction should be exceedingly simple. I think.
 
 **MAYOR**
 How horrible our Xmas will be.
@@ -918,7 +919,7 @@ No--how jolly.
 
 **MAYOR**
 [switches face]
-Oh, how jolly our Xmas will be.  [gets pelted]  What are you doing here?
+Oh, how jolly our Xmas will be. [gets pelted] What are you doing here?
 
 **LOCK**
 Jack sent for us.
@@ -942,15 +943,15 @@ Barrel
 Jack, Jack it's Oogie's boys!
 
 **JACK**
-Ah, Halloween's finest trick or treaters.  The job I have for you is top 
-secret.  It requires craft, cunning, mischief.
+Ah, Halloween's finest trick or treaters. The job I have for you is top 
+secret. It requires craft, cunning, mischief.
 
 **SHOCK**
 And we thought you didn't like us, Jack.
 [giggles]
 
 **JACK**
-Absolutely no one is to know about it.  Not a soul.  Now--
+Absolutely no one is to know about it. Not a soul. Now--
 [whispers to LS&B] 
 And one more thing -- leave that no account Ooogie Boogie out of this!
 
@@ -1096,8 +1097,8 @@ Sandy Claws..hahaha
 [city hall]
 
 **JACK**
-It goes something like this.  [Jingle bells]
-How about it?  Think you can manage?
+It goes something like this. [Jingle bells]
+How about it? Think you can manage?
 
 **PERSON INSIDE BASS**
 a one, and a two, and a three, and a. . . 
@@ -1108,27 +1109,27 @@ a one, and a two, and a three, and a. . .
 Next!
 
 **JACK**
-Fantastic!  Now why don't you all practice on that and we'll be in great 
-shape.  Sally, I need your help more than anyone's.  
+Fantastic! Now why don't you all practice on that and we'll be in great 
+shape. Sally, I need your help more than anyone's.  
 
 **SALLY**
-You certainly do, Jack.  I had the most terrible vision.
+You certainly do, Jack. I had the most terrible vision.
 
 **JACK**
 That's splendid.
 
 **SALLY**
-No, it was about your Xmas.  There was smoke and fire.
+No, it was about your Xmas. There was smoke and fire.
 
 **JACK**
-That not my Xmas.  My Xmas is filled with laughter and joy and this--my 
-Sandy Claws outfit.  I want you to make it.
+That not my Xmas. My Xmas is filled with laughter and joy and this--my 
+Sandy Claws outfit. I want you to make it.
 
 **SALLY**
 Jack, please, listen to me--it's going to be a disaster.
 
 **JACK**
-How could it be--just follow the pattern.  This part is red, the trim is 
+How could it be--just follow the pattern. This part is red, the trim is 
 white.
 
 **SALLY**
@@ -1155,7 +1156,7 @@ This device is called a nutcracker.
 Jack, Jack we caught him we caught him.
 
 **JACK**
-Perfect!  Open it up.  Quickly!
+Perfect! Open it up. Quickly!
 
 [opens to reveal the Easter bunny]
 
@@ -1181,7 +1182,7 @@ We followed your instructions--
 we went through the door--
 
 **JACK**
-Which door?  There's more than one.  Sandy Claws is behind the door 
+Which door? There's more than one. Sandy Claws is behind the door 
 shaped like this.  
 
 [shows Xmas cookie in shape of tree]
@@ -1192,15 +1193,15 @@ I told you!
 [LS&B start fighting]
 
 **JACK**
-Arr!!  [making scary face at LS&B]
+Arr!! [making scary face at LS&B]
 
 **JACK**
-I'm very sorry for the inconvenience, sir.  Take him home first  and 
-apologize again.  Be careful with Sandy Claws when you fetch him.  Treat 
+I'm very sorry for the inconvenience, sir. Take him home first and 
+apologize again. Be careful with Sandy Claws when you fetch him. Treat 
 him nicely.
 
 **LOCK, SHOCK & BARREL**
-Got it.  We'll get it right next time.
+Got it. We'll get it right next time.
 
 [Dr. Finkelstein's castle]
 
@@ -1332,10 +1333,10 @@ Hee, hee, hee
 [Christmastown]
 
 **SANDY CLAWS**
-Kathleen, Bobby, Susie, yes, Susie's been nice.  Nice, nice, naughty, 
-nice, nice, nice.  There are hardly any naughty children this year.
+Kathleen, Bobby, Susie, yes, Susie's been nice. Nice, nice, naughty, 
+nice, nice, nice. There are hardly any naughty children this year.
 
-[door chime:  jingle all the way]
+[door chime: jingle all the way]
 
 **SANDY CLAWS**
 Now who could that be?
@@ -1354,16 +1355,16 @@ Huh?
 You don't look like yourself Jack, not at all.
 
 **JACK**
-Isn't that wonderful.  It couldn't be more wonderful!
+Isn't that wonderful. It couldn't be more wonderful!
 
 **SALLY**
 But you're the Pumpkin King.
 
 **JACK**
-Not anymore.  And I feel so much better now.
+Not anymore. And I feel so much better now.
 
 **SALLY**
-Jack, I know you think something's missing.  But --
+Jack, I know you think something's missing. But --
 
 [pricks Jack's finger with needle]
 
@@ -1372,11 +1373,11 @@ Jack, I know you think something's missing.  But --
 Sorry
 
 **JACK**
-You're right, something is missing but what?  I've got the beard, the 
+You're right, something is missing but what? I've got the beard, the 
 coat, the boots --
 
 **LOCK, SHOCK & BARREL**
-Jack, Jack  this time we bagged him!
+Jack, Jack this time we bagged him!
 
 **LOCK**
 This time we really did!
@@ -1391,46 +1392,46 @@ And heavy!
 Let me out!
 
 **JACK**
-Sandy Claws in person.  What a pleasure to meet you.  Why you have 
-hands!  You don't have claws at all.
+Sandy Claws in person. What a pleasure to meet you. Why you have 
+hands! You don't have claws at all.
 
 **SANDY CLAWS**
 Where am I?
 
 **JACK**
-Surprised aren't you?  I knew you would be.  You don't need to have 
+Surprised aren't you? I knew you would be. You don't need to have 
 another worry about Xmas this year.  
 
 **SANDY CLAWS**
 What?
 
 **JACK**
-Consider this a vacation Sandy,  a reward.  It's your turn to take it easy.
+Consider this a vacation Sandy, a reward. It's your turn to take it easy.
 
 **SANDY CLAWS**
 But there must be some mistake!
 
 **JACK**
-See that he's comfortable.  Just a second fellows.  Of course, that's 
+See that he's comfortable. Just a second fellows. Of course, that's 
 what I'm missing.  
 
 **SANDY CLAWS**
 But --
 
 **JACK**
-Thanks!  [took Sandy's hat]
+Thanks! [took Sandy's hat]
 
 **SANDY CLAWS**
-You just can't...  Hold on where are we going now?
+You just can't... Hold on where are we going now?
 
 **JACK**
 ho ho ho
 
 **SALLY**
-This is worse than I thought, much worse.  I know...
+This is worse than I thought, much worse. I know...
 
 **SANDY CLAWS**
-Me?  On vacation on Xmas eve?
+Me? On vacation on Xmas eve?
 
 **BARREL**
 Where are we taking him?
@@ -1439,8 +1440,8 @@ Where are we taking him?
 Where?
 
 **LOCK**
-To Oogie boogie, of course.  There isn't anywhere in the whole world more 
-comfortable than that and Jack said to make him comfortable.  Didn't he?
+To Oogie boogie, of course. There isn't anywhere in the whole world more 
+comfortable than that and Jack said to make him comfortable. Didn't he?
 
 **SHOCK & BARREL**
 Yes he did.
@@ -1461,7 +1462,7 @@ This'll stop Jack.
 [working on new creation to replace Sally]
 
 **DR. FINKELSTEIN**
-What a joy to think of all we'll have in common.  We'll have 
+What a joy to think of all we'll have in common. We'll have 
 conversations worth having.
 
 [Oogie's]
@@ -1470,13 +1471,13 @@ conversations worth having.
 [laughing]
 
 **SANDY CLAWS**
-Don't do this.  Naughty children never get any presents.
+Don't do this. Naughty children never get any presents.
 
 **SHOCK**
 I think he might be too big.
 
 **LOCK**
-No he's not.  If he can go down a chimney, he can fit down here!
+No he's not. If he can go down a chimney, he can fit down here!
 
 [in Oogie's lair]
 
@@ -1578,7 +1579,7 @@ And you ain't going nowhere
 
 **MAYOR**
 Think of us as you soar triumphantly through the sky outshining every 
-star.  Your silhouette a dark blot on the moon, you who are our pride, 
+star. Your silhouette a dark blot on the moon, you who are our pride, 
 you who are our glory, you who have frightened billions into an early grave.  
 
 [the fog starts to get worse]
@@ -1587,7 +1588,7 @@ you who are our glory, you who have frightened billions into an early grave.
 You who have eh, devastated the souls of the living...
 
 **JACK**
-Oh no!  We can't take off in this!  The reindeer can't see an inch in 
+Oh no! We can't take off in this! The reindeer can't see an inch in 
 front of their noses.
 
 **SALLY**
@@ -1606,14 +1607,14 @@ Thicker!
 There go all of my hope, my precious plans, my glorious dreams.
 
 Kid
-[crying]  There goes Xmas.
+[crying] There goes Xmas.
 
 **ZERO**
 barks
 
 **JACK**
-No Zero, down boy.  My what a brilliant nose you have.  The better to 
-light my way!  To the head of the team, Zero!  We're off!
+No Zero, down boy. My what a brilliant nose you have. The better to 
+light my way! To the head of the team, Zero! We're off!
 
 **SALLY**
 Wait Jack, no!
@@ -1626,7 +1627,7 @@ Wait Jack, no!
 ho ho ha ha ha 
 
 **SALLY**
-Good bye Jack, my dearest Jack.  Oh how I hope my premonition is wrong.
+Good bye Jack, my dearest Jack. Oh how I hope my premonition is wrong.
 
 	Sally's Song
 	Performed by Catherine O'Hara
@@ -1661,17 +1662,17 @@ ho ho ho ho ho ho he he he
 A little kid
 Santa!
 [sees Jack]
-[gasps]  Santa?
+[gasps] Santa?
 
 **JACK**
-Merry Xmas!  And what is your name?
+Merry Xmas! And what is your name?
 
 Kid
 uh uh
 
 **JACK**
-That's all right.  I have a special present for you anyway.
-There you go sonny.  Hohohohehehe 
+That's all right. I have a special present for you anyway.
+There you go sonny. Hohohohehehe 
 
 [goes back up chimney]
 
@@ -1689,7 +1690,7 @@ Cop
 **[ON PHONE]**
 Hello, police.
 [frantic peanuts-type talk]
-Attacked by Xmas toys?  That's strange.  That's the second toy complaint 
+Attacked by Xmas toys? That's strange. That's the second toy complaint 
 we've had.
 
 **JACK**
@@ -1733,7 +1734,7 @@ the perpetrator of this heinous crime.
 
 **SALLY**
 [over the Newscaster]
-Jack, someone has to help Jack.  Where'd they take that Sandy Claws?
+Jack, someone has to help Jack. Where'd they take that Sandy Claws?
 
 Newscaster
 --Come back and save Xmas
@@ -1744,7 +1745,7 @@ Look Zero, search lights!
 [firing at Jack]
 
 **JACK**
-They're celebrating!  They're thanking us for doing such a good job.
+They're celebrating! They're thanking us for doing such a good job.
 
 [almost hits Zero]
 
@@ -1755,12 +1756,12 @@ Whoa, careful down there, you almost hit us.
 bark
 
 **JACK**
-It's ok, Zero.  Head higher!
+It's ok, Zero. Head higher!
 
 [Oogie lair]
 
 **OOGIE BOOGIE**
-Are you a gamblin man, Sandy?  Let's play.   
+Are you a gamblin man, Sandy? Let's play.   
 
 [sees sally's leg]
 
@@ -1770,30 +1771,30 @@ Mmmm.. my, my....what have we here?
 [Sally's hands start to rescue Sandy]
 
 **SALLY**
-[whispering]  I'll get you out of here.
+[whispering] I'll get you out of here.
 
 **OOGIE BOOGIE**
-Ah, lovely.  Tickle, tickle, tickle.  Tickle, tickle, tickle.
+Ah, lovely. Tickle, tickle, tickle. Tickle, tickle, tickle.
 
 [Sally's hands untie Sandy]
 
 [Oogie realizes that there's no body to the leg]
 
 **OOGIE BOOGIE**
-What?!?  You trying to make a dupe out of me?
+What?!? You trying to make a dupe out of me?
 
 [Oogie sucks Sandy and Sally back in]
 
 [back to Jack]
 
 **JACK**
-Who's next on my list.  Ah, little Harry and Jordan.  Won't they be 
+Who's next on my list. Ah, little Harry and Jordan. Won't they be 
 surprised.
 
 [sleigh gets hit]
 
 **JACK**
-They're trying to hit us!  ZERO!
+They're trying to hit us! ZERO!
 
 **ZERO**
 Bark
@@ -1811,17 +1812,17 @@ Merry Xmas to all and to all a good night...
 howl!
 
 MAYOR (with white face)
-I knew this Xmas thing was a bad idea.  I felt it in my gut.  Terrible 
-news folks.  The worst tragedy of our times.  Jack has been blown to 
-smithereens.  Terrible, terrible news.
+I knew this Xmas thing was a bad idea. I felt it in my gut. Terrible 
+news folks. The worst tragedy of our times. Jack has been blown to 
+smithereens. Terrible, terrible news.
 
 [back to "normal" town]
 
 Cop
 [in car]
-Attention, attention citizens.  Terrible news.  There's still no sign of 
-Santa Claus.  Although the impostor has been shot down, it looks like 
-Xmas will have to be canceled this year.  I repeat the impostor has been 
+Attention, attention citizens. Terrible news. There's still no sign of 
+Santa Claus. Although the impostor has been shot down, it looks like 
+Xmas will have to be canceled this year. I repeat the impostor has been 
 shot down but there's still no sign ......
 
 [Jack in cemetery]
@@ -1867,18 +1868,18 @@ Sandy Claws, hmm
 [Oogie lair]
 
 **SALLY**
-You wait till Jack hears about this.  By the time he's through with you, 
+You wait till Jack hears about this. By the time he's through with you, 
 you'll be lucky if you... 
 
 **MAYOR**
-The king of Halloween has been blown to smithereens.  Skeleton Jack is 
+The king of Halloween has been blown to smithereens. Skeleton Jack is 
 now a pile of dust.
 
 **SALLY**
 [gasp]
 
 **JACK**
-Come on Zero.  Xmas isn't over yet!
+Come on Zero. Xmas isn't over yet!
 
 **OOGIE BOOGIE**
 What's that you were saying about luck, rag doll?
@@ -1899,10 +1900,10 @@ one 2 3 4 5 6 7 -- hahaha
 This can't be happening!
 
 **OOGIE BOOGIE**
-Ashes to ashes, and dust to dust.  Oh, I'm feeling weak...with hunger.
-One more roll of the dice oughta do it.  Haha [rolls dice]
-What!  Snake eyes.  [bang on table]
-Eleven!  Haha  looks like I won the jackpot!
+Ashes to ashes, and dust to dust. Oh, I'm feeling weak...with hunger.
+One more roll of the dice oughta do it. Haha [rolls dice]
+What! Snake eyes. [bang on table]
+Eleven! Haha looks like I won the jackpot!
 Bye bye doll face and sandman.
 Ha, ha, ha
 [about to dump Sally & Sandy Claus into the lava]
@@ -1912,20 +1913,20 @@ What the...
 Hello Oogie
 
 **OOGIE BOOGIE**
-Jack, but they said you were dead.  You must be double dead.
+Jack, but they said you were dead. You must be double dead.
 Well come on bone man.
 
 **ZERO**
 bark bark
 
 **OOGIE BOOGIE**
-oooo ooo ooo.  Pull an arm.  ha ha
+oooo ooo ooo. Pull an arm. ha ha
 
 **SALLY**
 Jack look out!
 
 **OOGIE BOOGIE**
-So long, Jack.  haha
+So long, Jack. haha
 
 **JACK**
 How dare you treat my friends so shamefully.
@@ -1933,15 +1934,15 @@ How dare you treat my friends so shamefully.
 [Jack pulls the thread that came loose that held Oogie together]
 
 **OOGIE BOOGIE**
-Now look what you've done.  My bugs, my bugs, my bugs, bye bye bye
+Now look what you've done. My bugs, my bugs, my bugs, bye bye bye
 
 **JACK**
 Forgive me Mr. claws, I'm afraid I've made a terrible mess
 of your holiday.
 
 **SANDY CLAWS**
-Bumpy sleigh ride, Jack?  The next time you get the urge to take over 
-someone else's holiday, I'd listen to her!  She's the only one who makes 
+Bumpy sleigh ride, Jack? The next time you get the urge to take over 
+someone else's holiday, I'd listen to her! She's the only one who makes 
 any sense around this insane asylum!
 Skeletons....
 
@@ -1949,12 +1950,12 @@ Skeletons....
 I hope there's still time--
 
 **SANDY CLAWS**
-To fix Xmas?  Of course there is, I'm Santa Claus!
+To fix Xmas? Of course there is, I'm Santa Claus!
 
 [and laying a finger aside of his nose, up Oogie's chimney he rose]
 
 **SALLY**
-He'll fix things Jack.  He knows what to do.
+He'll fix things Jack. He knows what to do.
 
 **JACK**
 How did you get down here Sally?
@@ -1990,9 +1991,9 @@ Grab a hold my boy!
 whoa!
 
 **NEWSCASTER**
-Good news, folks.  Santa Claus, the one and only has finally been 
-spotted.  Old Saint Nick appears to be traveling at supersonic speed.  
-He's setting things right, bringing joy and cheer wherever he goes.  Yes 
+Good news, folks. Santa Claus, the one and only has finally been 
+spotted. Old Saint Nick appears to be traveling at supersonic speed.  
+He's setting things right, bringing joy and cheer wherever he goes. Yes 
 folks, Kris Kringle has pulled it out of the bag and delivered Xmas to 
 excited children all over the world!
 

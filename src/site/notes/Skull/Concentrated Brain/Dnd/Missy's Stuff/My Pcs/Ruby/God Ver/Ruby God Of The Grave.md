@@ -1,23 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/ruby/god-ver/ruby-god-of-the-grave/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/ruby/god-ver/ruby-god-of-the-grave/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"[[Files And Shit/external/e3f3f37634dce3e0118a2d6301ad6217.jpg]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"thumbnails/external/e3f3f37634dce3e0118a2d6301ad6217.jpg","thumbnail":"thumbnails/resized/064622f634e475cf4e5df52fb16a819f_86cf658e.webp"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#FF0000">Ruby God Of The Grave</span></center>
 ![](https://i.imgur.com/Hql7vwe.jpeg)
 
-
-
-
-
 ## General
- Race:  Aasimar
+ Race: Aasimar
  Class: [[Bloodhunter\|Bloodhunter]] ([[Ghostslayer\|Ghostslayer]]) 20 [[Fighter\|Fighter]] 2
  Alignment: Chaotic Good
  Background: [[Folk Hero\|Folk Hero]]
-
 
 ## Stats
 
@@ -54,6 +49,7 @@
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
 | Death Failes |     |     |     |
+
 ### Attacks
 
 | Attack        | To-Hit | Damage                          |
@@ -61,12 +57,14 @@
 | War Sythe     | +12    | 1d12+9 Slashing                 |
 | hand Crossbow | +9     | 1d6+9 Piercing                  |
 | Bloody Mary   | +23    | 2d12 Slashing + 1d12 Poison +23 |
- ### Spells
+
+### Spells
 
 | Spell Modifier | Wisdom |
 | :------------: | :----: |
 |    Spell DC    |   25   |
 |  Hit Modifier  |   17   |
+
 ### Spell List
 
 Free
@@ -77,11 +75,10 @@ Free
 | **2nd**     | [[Rime's Binding Ice\|Rime's Binding Ice]] |                   |
 | **3rd**     | [[Counterspell\|Counterspell]]       |                   |
 
-
 # Inventory
 
 Money: 5gp
-Inventory:  Scale Mail Armour
+Inventory: Scale Mail Armour
 Backpack, bedroll, mess kit, tinderbox, torch (10), rations (10), waterskin, hempen rope, Alchemist Supplies, Cartographers Tools, a shovel, an iron pot, a set of common clothes, 2 Perfumes
 
 # Extra
@@ -93,38 +90,39 @@ Conditions:
 
 # Proficiencies
 		
-Armor:  all armor and sheilds
+Armor: all armor and sheilds
 Weapons: Simple weapons, martial weapons
 Tools: Alchemist's supplies, Cartographers, Land Vehicles
 Languages: Common & Celestial
 	 
-# Notes: 
+
+# Notes:
 
 [[Darkvision\|Darkvision]] 60
 [[Celestial Resistance\|Celestial Resistance]]
 [[Healing Hands\|Healing Hands]] 9d4
 [[Light Bearer\|Light Bearer]]
 [[Celestial Revelation\|Celestial Revelation]]
-    [[Radiant Soul\|Radiant Soul]]
+	[[Radiant Soul\|Radiant Soul]]
 
 [[Rustic Hospitality\|Rustic Hospitality]]
 
 [[Hunter's Bane\|Hunter's Bane]]
 [[Blood Maledict\|Blood Maledict]] 5
-    [[Blood Curse of Binding\|Blood Curse of Binding]]
-    [[Blood Curse of the Marked\|Blood Curse of the Marked]]
-    [[Blood Curse of Exposure\|Blood Curse of Exposure]]
-    [[Blood Curse of the Fallen Puppet\|Blood Curse of the Fallen Puppet]]
-    [[Blood Curse of the Exorcist\|Blood Curse of the Exorcist]]
+	[[Blood Curse of Binding\|Blood Curse of Binding]]
+	[[Blood Curse of the Marked\|Blood Curse of the Marked]]
+	[[Blood Curse of Exposure\|Blood Curse of Exposure]]
+	[[Blood Curse of the Fallen Puppet\|Blood Curse of the Fallen Puppet]]
+	[[Blood Curse of the Exorcist\|Blood Curse of the Exorcist]]
 [[Fighting Style\|Fighting Style]]
-    [[Great Weapon Fighting\|Great Weapon Fighting]]
+	[[Great Weapon Fighting\|Great Weapon Fighting]]
 [[Crimson Rite\|Crimson Rite]]
-     Necrotic
-     Cold
-     Radiance
-     Psychic
+	 Necrotic
+	 Cold
+	 Radiance
+	 Psychic
 [[Rite Focus\|Rite Focus]]
-        The Grave
+		The Grave
 [[Extra Attack\|Extra Attack]]
 [[Brand of Castigation\|Brand of Castigation]]
 [[Aether Walk\|Aether Walk]]
@@ -164,9 +162,7 @@ Languages: Common & Celestial
 
 [[Six Feet Under\|Six Feet Under]]
 
-
-
-##### Brand 
+##### Brand
 
 psychic twice Heamo Modifier, Cant Dash, If Teleport 4d6 psychic, Wisdom Throw To Succeed
 deals damage to you or a creature you can see within 5 feet of you, the branded creature takes psychic damage equal to your Hemocraft modifier

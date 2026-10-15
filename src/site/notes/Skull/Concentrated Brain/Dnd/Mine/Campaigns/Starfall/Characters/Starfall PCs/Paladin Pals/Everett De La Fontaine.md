@@ -1,161 +1,101 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/starfall-p-cs/paladin-pals/everett-de-la-fontaine/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/paladin Pals]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Everett"],"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"Permalink":"Everett","permalink":"/Everett/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":"Dnd Character","Group":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Paladin Pals]]","down":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Everett","Ev","Everett Fontaine"],"Title":"Everett","comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":"278·10·2026 21:24 (Monday)","Session Number":null,"Icon":null,"Dead":null,"Lineage":"Eladrin","Allies":null,"Enemies":null,"Player Character":true,"Character Level":"2","Dnd World":"[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Harmony]]","Featured":"![[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Files And Shit/Ev And Sin.png]]","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Files And Shit/Ev And Sin.png","thumbnail":"thumbnails/resized/4d1dde354956e1e10becefaf46111f23_86cf658e.webp"}}
 ---
 
+
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
  float: right;
 }
 </style>
 
-
-# <center><span style="color:#FEDCBA"></span></center>
+# <center><span style="color:#4a4e2b">Everett De La Fontaine</span></center>
 ![Ev And Sin.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Ev%20And%20Sin.png)
-![Everret Token.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Paladin%20Pals/Files%20And%20Shit/Everret%20Token.png)
-Young eladrin noble (early 20’s in human years) treated with overt caution his entire life, which makes him centred around wanting to get validation and to be recognized as someone capable. Snarky, quick witted and sometimes coming off as rude / arrogant, however his heart lies in the right place, as he does look at the world in a very optimistic light.
-
-Excited to finally go out and live an actual life outside of his home, basically a kid who gets to adventure for the first time (very prone for trauma :DD). Generally doesn’t pick fights, however if his / a friend of his honor is stained his fuse is quite short, which is represented by his magic being controlled poorly.
-
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Everett De La Fontaine\|Everett De La Fontaine]] From No-Name Settlement 
-	- [ ] Family Was Big Enough To Comfortably Move Out Of Town A Few Years Ago And Faded Into Relative Obscurity
-	- [ ] Mansion, Surrounding People And Limited Facilities
-	- [ ] Mostly Farmland And Private Religious Grounds (Like A Small Meeting Place For A Church Or Two)
-	- [ ] Doctors From Gi Fotias Recognise Everret As "The Magic Freak"
-	- [ ] Backlash When People Interact With Everrets Inate Magic
-	- [ ] Write More Reasons That Everret Cant Just Learn From Any Magician
-	- [ ] Others Know Him As The Overexcited Lad
-	- [ ] Everret Always Hurts Sinclair On The Last Day
-	- [ ] DC20 Scrying Spell -15 Modifier At Midday Every Day
-		- [ ] Have His Family React To It
-	- [ ] Bully Everett A Little
-		- [ ] Keep Everett In The Dark About Things
-
-- Everett is a son to some sort of noble family, not one known across all reaches of the world but recognized in their local region (nothing crazy though we don't want batshit insane powerscaling over here)
-    
-- At some point in his life (Probably like early 20’s in human years), Everett starts to develop magical prowess that he can’t control that well, and none of the people in the court really know what’s up with it
-    
-- His parents are scared shitless thinking he’ll hurt himself with it (more on that later), try to scramble some solution
-    
-- A friend of Everett’s parents (basically kind of like an uncle to him) suggests sending him out to find some sort of wizard or other experienced spellcaster so that Everett can learn how to actually use his magic, plus he’ll get to see the world which is important in a nobleman’s life
-    
-- Parents agree, but they insist on guards / mercenary support so that their boy is safe the entire time
-    
-
-- Everett agrees to be protected, only if he gets to pick out who is guarding him, choosing Sinclair to accompany him
-    
-
-- After a month or two, they set out to look for someone who could help Everett learn more of his powers (should be flexible enough to connect to whatever is the plothook, plus the adventuring side should be more than enough reason to have a good relationship with the party)
-
-- Ev Fortune:
-- There Is A Person With Whom You Are Linked By An Invisible Chain
-- There Is A Person Who Can Bring Pleasure Or Pain
-- If What You Wish Is To Protect Your Friend 
-- You Must Find This Person And Cause His End
-- Killing Ev On Purpose Gives The Cigs
-- That Was Close: If The Next Source Of Damage Would Reduce You To 0 Go To 1 Instead
-- Only Works On Allies
-- He Has The Same Fortune 
-- He Will Get "If The New Surge Would Purposefully Hurt An Ally Get A Warning"
-
-- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Mary De La Fontaine\|Mary De La Fontaine]]
-    
-
-- [[Roland De La Fontaine\|Roland De La Fontaine]]
-    
-
-
-    
-- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Richter\|Richter]]
-    
-
-## Styled Magic Surge
-
-<sub>The House Always Wins And Its Coming Home</sub>
-People Keep Telling You That Youre In Over Your Head. Well You'll Show Them! You Have Developed A Method To Make Your "Wild" Magic Do What You Need It To. Whenever You Roll On The Wild Magic Table You Can Spend As Many Hit Dice As You Want To Take Damage, The Damage You Take Is How Far Up Or Down The Table You Can Move. The Damage Divided By Your Charisma Is The Amount Of Times You Must Force Wild Magic At The End Of One Minute (The Effects Triggering In The Order They Were Rolled). This Ability Can Be Used Multiple Times A Day But Not Multiple Times In A Row
-
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
- img{
- float: right;
-}
-</style>
-
-# <center><span style="color:#323456"> </span></center>
-
-
-
+![[Everret Token.png\|Everret Token.png]]
 
 ## General
- Race:  
- Class: 
- Alignment: 
- Background: 
+ Race: Eladrin
+ Class: Wild Magic Sorcerer 2
+ Background: Noble
+
+### Bio
+Young eladrin noble (early 20’s in human years) treated with overt caution his entire life, which makes him centred around wanting to get validation and to be recognized as someone capable. Snarky, quick witted and sometimes coming off as rude / arrogant, however his heart lies in the right place, as he does look at the world in a very optimistic light.
+
+Excited to finally go out and live an actual life outside of his home, basically a kid who gets to adventure for the first time (very prone for trauma :DD). Generally doesn’t pick fights, however if his / a friend of his honour is stained his fuse is quite short, which is represented by his magic being controlled poorly.
+
+Everett Is The Son Of Mary And Roland Fontaine, And The Great Grandchild Of The Founders Of [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Unnamed Villages/Gi Fotias 25\|Gi Fotias 25 (A.K.A The Two-Five)]]. 
+
+Though His Name Carries Little Weight Even There It Is Well Known. Potion Crafters, Architects And Fotian Nobles Recognise The Fontaines As A Respectable And Skilled Family, On Account Of Their Large Influence In The World Of Glass-Working. 
+Local Mages And Doctors Will Also Have A Strong Impression Of Everett, Having Caused Chapters Upon Chapters Of Chaos Back When His WIld Magic Was A Near-Constant Force.
+For The Most Part Though The Locals Think Of Him As Just A Lil' Guy.
+
+### Backstory
+A Few Years Ago, <!-- A Man By The Name Of Moss Was Messing Around With His New Idea For How Written Magic Could Be Carried Out. He Turned His Basement into A Magic Circle. He Stole The Finest Equipment He Could. He Spent A Week Performing A Ritual That Was Supposed To Create A Spellbook— Arcanomicon That Had Incantations Matching Any Spell Scroll He Could Get His Hands On. Instead The Lines Fizzled And He Passed Out. A Few Minutes Later --> The Slightly Younger Everett De La Fontaine Awoke To The Sound of An Explosion, A Destroyed Bed, And The Worried Attention of The People In The Fontaine Estate. Magic. 
+
+They Sort Of Tried To Teach Everett Magic When He Was In His Teens And It Never Took So This Came As A Surprise To Everybody. There Was A Rush Of Experts In And Out To Examine His Health And Perform Tests To See How Or Why Or What Or Really Any Details About This Event In Hopes To Stop It. Nobody Could Figure Out What This Arcane Phenomenon Was Nor How The Eladrin Could Control It.
+
+Times Were Desperate.
+
+His Parents Asked The Wisest People They Knew And Eventually [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Richter\|Richter]] Suggested That Ev Be Sent Out Into The World To Find Answers. "There Is only So Much We Can Do For The Lad In The Middle Of Nowhere. If He Were To Find A Big City He Could Find Someone More Capable". [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Mary De La Fontaine\|Mary]] And [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Roland De La Fontaine\|Roland]] Agreed To This On Account That His Uses This Time To Learn Not Just About His Magic But Also About The World Around Him.....Safely. With Guards And Rogues And Advisors— Sinclair Alone, His Most Trusted, Is Who Ended Up Traveling With Him. 
+
+It Took Months To Prepare For His Venture. Sinclair Thinks She Knows Who To Look For But Not Where To Look For Them.
+
+## Relationships
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Mary De La Fontaine\|Mary De La Fontaine]]
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Roland De La Fontaine\|Roland De La Fontaine]]
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Richter\|Richter]]
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Sinclair Rosemond\|Sinclair]]
+
+## Inventory
+Money: 20.99
+Inventory: Fine Clothing, Signet Ring, Scroll of Pedigree, Explorer Pack (backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin, 50m rope), [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Items/Starfall Magic Items/Transmission Stone\|Transmission Stone]] to call parents, Arcane Focus, Darts, Daggers x2,
+
+## Proficiencies
+Weapons: Daggers, darts, slings, quarterstaffs, light crossbows, Longbow, Rapier
+Tools: Weaver's Tools, Glassblower's Tools	, Dragonchess
+Languages: Common, Elven, Abyssal
+
+### Extra
+Darkvision (60ft)	
+Resistances: Charmed, Frightened	
+
+## Abilities:
+
+#### Features & Traits
+##### Fey Step (Spring)
+##### Trance
+##### Wild Magic Surge
+##### Tides Of Fate
+##### Styled Magic Surge
+<sub>The House Always Wins And Its Coming Home</sub>
+Whenever you roll on the Wild Magic Table you can spend any amount of Hit Dice to take damage equal to the total number rolled. You can add or substract a number from your Wild Magic roll, up to the damage taken. After this, a Wild Magic Surge is triggered at the start of your turn for a number of turns equal to the damage taken, divided by your Charisma Modifier (rounded down). This ability cannot be used on the Wild Magic Surges caused by itself
+
+## Notes:
+
+<!--
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Everett De La Fontaine\|Everett De La Fontaine]] From No-Name Settlement 
+	- Family Was Big Enough To Comfortably Move Out Of Town A Few Years Ago And Faded Into Relative Obscurity
+	- Mansion, Surrounding People And Limited Facilities
+	- Mostly Farmland And Private Religious Grounds (Like A Small Meeting Place For A Church Or Two)
+	- Doctors From Gi Fotias Recognise Everret As "The Magic Freak"
+	- Backlash When People Interact With Everrets Inate Magic
+	- Write More Reasons That Everret Cant Just Learn From Any Magician
+	- Others Know Him As The Overexcited Lad
+	- Everret Always Hurts Sinclair On The Last Day
+	- DC20 Scrying Spell -15 Modifier At Midday Every Day
+		- Have His Family React To It
+	- Bully Everett A Little
+		- Keep Everett In The Dark About Things
+  --> 
 
 
-## Stats
-
-|    Speed     | AC  | Bonus |  Initiative   |
-| :----------: | :-: | :---: | :-----------: |
-|      30      |     |       |               |
-|   Hit Dice   |     |       | Saving Throws |
-|    Health    |     |       |               |
-|   Strength   |     |       |               |
-|  Dexterity   |     |       |               |
-| Constitution |     |       |               |
-| Inteligence  |     |       |               |
-|    Wisdom    |     |       |               |
-|   Charima    |     |       |               |
-
-| Skills                | Bonus | Skills                | Bonus |
-| --------------------- | :---: | --------------------- | :---: |
-| Acrobatics (Dex)      |       | Medicine (Wis)        |       |
-| Animal Handling (Wis) |       | Nature (int)          |       |
-| Arcana (Int)          |       | Perception (Wis)      |       |
-| Athletics (Str)       |       | Performance (Char)    |       |
-| Deception (Char)      |       | Persuasion (Char)     |       |
-| History (Int)         |       | Religion (Int)        |       |
-| Insight (Wis)         |       | Sleight of Hand (Dex) |       |
-| Intimidation (Char)   |       | Stealth (Dex)         |       |
-| Investigation (Int)   |       | Survival (Wis)        |       |
-
-| Death Saves  |     |     |     |
-| ------------ | --- | --- | --- |
-| Death Fails |     |     |     |
-### Attacks
-
-| Attack | To-Hit | Damage |
-| ------ | ------ | ------ |
-|        |        |        |
-
-### Spells
-
-| Constitution |     |     |
-| ------------ | --- | --- |
-
-# Inventory
-
-Money: 
-Inventory: 
-# Extra
-Resistances: 
-Advantage: 
-Vulnerabilities: 
-Conditions: 
-  
-
-# Proficiencies
-		
-Armor:  
-Weapons: 
-Tools: 
-Languages: 
-
-# Notes: 
 
 
+<!--
+Ev Fortune: 
+There Is A Person With Whom You Are Linked By An Invisible Chain There Is A Person Who Can Bring Pleasure Or Pain 
+If What You Wish Is To Protect Your Friend 
+You Must Find This Person And Cause His End 
 
-# Characteristics 
-
-
-
-
-<center><sub>Done :)</sub></center>
+Killing Sin On Purpose Makes It So That "If The New Surge Would Purposefully Hurt An Ally Get A Warning"  
+--> 

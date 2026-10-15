@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-notes-dump/","title":"Starfall Notes","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Branches/Starfall]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Starfall","Dnd Notes","Notes Dump"],"title":"Starfall Notes","comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-notes-dump/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Branches/Starfall]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Starfall","Dnd Notes","Notes Dump"],"Title":"Starfall Notes","comments":true,"tags":["Tagless"],"permalink":null,"Similarly Rooted":null,"Date Created":"278·10·2026 16:25 (Monday)","Icon":null,"Session Number":null,"Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
-a<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+a<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#D9C942">starfall Notes Dump</span></center>
 
@@ -82,11 +82,9 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] The Nemo(A), Hollywone (B), And Greasian (C) Combat Institutes
 - [ ] Sins Mentor (Renata) Graduated From B
 	- [ ] A Specialised In Enduring A Long Fight
-	- [ ] B Specialised In Prempting Strong Attacks
+	- [ ] B Specialised In Pre-empting Strong Attacks
 	- [ ] C Specialises In Dominating Battlefields
-- [ ] Sin Can Only Learn New Combat Stuff From Private Trainers Or One Of The Schools
 - [ ] People From Combat B Are Immune To Sentinel And All Know Sentinel
-- [ ] If Sin Gets An Actual Education From Combat B They Can Get A Different Combat Feat
 - [ ] Stories About Mages Who Messed Around With Wrighth Until It Killed Them
 - [ ] A Story About A Spellcaster Who Gained A Gods Power And Used It Against The God Killing Him
 - [ ] Monsters That Worship Gods
@@ -157,10 +155,6 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] "I Cant Sleep If Its Below 50° So I Portal In Every Morning"
 	- [ ] Now I Need To Write A Sustained Portal Wrighth
 - [ ] For Similar Reasons Races Which End Up Having More Children Would Have More Wrighthers Because There's More Room For Professional Experimentation
-- [ ] Renata Rapier
-	- [ ] Rapier Specific Skills
-	- [ ] One Rapier Enchantment
-	- [ ] Renata Has Sentinel
 - [ ] Magic Eye That Has To Replace One Of Your Own
 	- [ ] All Spells +2
 	- [ ] Cleric/Warlock Spells Cast With This Count As One Spell Slot Higher
@@ -228,8 +222,8 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Some Other Immortals Were Poisoned, Crushed, Or Spirited By It
 - [ ] Dels Friend Kaitlyn Is The Countdown Vendors Sister
 - [ ] Phoenix Sorcerer
-- [ ] Level Del +2 Then Stays  That Level When They Meet
-	- [ ] Currently Looking For The Level 21 Sorcerer So Is In That City
+	- [ ] Level Del +2 Then Stays That Level When They Meet
+		- [ ] Currently Looking For The Level 21 Sorcerer ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Related NPCs/Cirquelle\|Cirquelle]]) So Is In That City ([[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Merlington\|Merlington]])
 - [ ] Really Loud [Insert Class Here] That Thinks Its A (It/Its) Ninja/Samurai 
 	- [ ] Maybe A Half Spellcasting Class So That They Have To Get Close But Also Have To Speak For Their spells
 - [ ] Tari Looks Human But Is Half Dragon Half Fairy
@@ -348,12 +342,12 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Recreate [[Skull/Concentrated Brain/Riddles/Riddles\|Puzzles]] As Spreadsheet 
 - [ ] Add More Cats And Other Animals
 - [ ] Hot Npcs
-- [ ] [[Branches/Homestuck\|Homestuck]] NPCs
+- [ ] [[Branches/Homestuck\|Branches/Homestuck]] NPCs
  - [ ] **Go All Out For [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Starfall NPC\|NPC]] Icons**
  - [ ] Way More Dragons
 - [ ] Default Sheets
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias\|Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias]] 
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town Events\|Hatchet Town Events]] 
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town\|Hatchet Town]] 
 - [ ] Write more about [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Cambrighton\|Cambrighton]] and [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Aerynthalas\|Aerynthalas]] (Local Dragon)
 - [ ] Write more about [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/The Underground\|The Underground]]
 - [ ] [[Wrighth Stuff/Wrighth Index\|Wrighth]]
@@ -385,7 +379,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Child Adventuring Programmes
 - [ ] Goblin Astronomy Stuff
 - [ ] Tea Tourist Merch In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Hollywood\|Hollywood]]
-- [ ] Write More About  [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gahenna/Gahenna\|Gahenna]]
+- [ ] Write More About [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gahenna/Gahenna\|Gahenna]]
 - [ ] Blood Magic Stuff
 - [ ] Exorcism/Occult Items
 - [ ] Ring Of Safety
@@ -408,7 +402,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Possession Shit
 - [ ] Pyramid Scheme
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Parachute Umbrella\|Parachute Umbrella]]
-- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town Events\|Hatchet Town Events]] Stuff And Its Implications
+- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town\|Hatchet Town]] Stuff And Its Implications
 - [ ] Day One Stuff
 - [ ] Evil Stuff
 - [ ] Gambling/Casino Stuff
@@ -421,7 +415,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]] Beauty Competition Winner Would Become [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Queen\|Queen]] Consort Till Death Or Revolution
 	- [ ] Demons Are Upset That The Beauty Competition Was On The Same Day As Moon Day Because It Is Untraditional
 - [ ] Escape room
-- [ ] Girl Makes Boyfriend Robot  [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]]
+- [ ] Girl Makes Boyfriend Robot [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Nemo/Nish/Body\|Body]]
 	- [ ] (Make This Weird And Creepy)
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease/Omihami/Sawakasato\|Sawakasato]]
 - [ ] Orb Of Annihilation
@@ -438,7 +432,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Gonna Have The Connecting Cities In My Notes
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Car Locations\|Car Locations]]
 - [ ] News Headlines
-- [ ] Write About: [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Lei (moon)\|Lei]], [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge\|Rouge]] And [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel\|Ciel]]
+- [ ] Write About: [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Lei/Lei (moon)\|Lei]], [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge/Rouge\|Rouge]] And [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel/Ciel\|Ciel]]
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Eras\|Eras]]
 - [ ] Relook At Calander
 - [ ] Group Of Armed Teens On [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Military road\|Military road]] At [[Vent Lane\|Vent Lane]] Junction On Day 2
@@ -448,11 +442,11 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] List Facilities In Each City
 - [ ] Catch Criminal Quest 
 	- [ ] Forensic Shit
-- [ ] Municipal, State, Sovereign, Nation, Kingdom, Territory, [[Skull/Concentrated Brain/Dnd/Mine/Realities/Stratus Saepta/Locations/Domain\|Domain]],  Commune, Protectoate, Union
+- [ ] Municipal, State, Sovereign, Nation, Kingdom, Territory, [[Skull/Concentrated Brain/Dnd/Mine/Realities/Stratus Saepta/Locations/Domain\|Domain]], Commune, Protectoate, Union
 - [ ] More Moon Festival Stuff
 - [ ] Town Imports And Exports
 - [ ] Take And Leave System
-	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Naga\|Naga]] Has A Pocket Dimention System That "Exotic Or Monsterous" [[Branches/People\|People]] Can Use In Times Of Need
+	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Naga/Naga\|Naga]] Has A Pocket Dimention System That "Exotic Or Monsterous" [[Branches/People Branch\|People Branch]] Can Use In Times Of Need
 - [ ] Write Stuff Up North
 - [ ] Sword With Modifier Equal To Negative Strength
 	- [ ] Mental Strength Dungeon Reward
@@ -475,14 +469,14 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Grease\|Grease]]
 - [ ] Qutez (Original) Only Gets One Day Out From [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Sangwoo\|Sangwoo]] Before Vanishing
 - [ ] Write [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Lair/Sangwoo/Sangwoo\|Sangwoo]]
-	- [ ] Dragons, Dragonborns, Kobalds,  Orcs
+	- [ ] Dragons, Dragonborns, Kobalds, Orcs
 - [ ] Write News Articles
 - [ ] High [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]] Security For A Couple Days
 	- [ ] A Guard Or Two In Neighboring Cities
 - [ ] Large Encounters
 - [ ] Toy Bear That Watches You
 - [ ] If [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Group 1/Qutes\|Qutes]] Uses The Demon killing Weapon They Still Come Back On A [[Loop\|Loop]] And She Earns Rubys Eyre
-- [ ] Giant Pumpkins With A Chance To Be Evil And Eat [[Branches/People\|People]]
+- [ ] Giant Pumpkins With A Chance To Be Evil And Eat [[Branches/People Branch\|People Branch]]
 	- [ ] Fermented Are Popular With Huge Monsters
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Starfall Reset Rules\|Resets]] Are Based On Soul Versus Self
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/KAijin\|KAijin]]
@@ -534,7 +528,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Biological Catalyst
 - [ ] Big Cities Have Wrigtht That Detect Darkness And Float Orbs To Replace [[WHAT\|WHAT]] Would Be Street-Lamps
 - [ ] Add More Stuff To Shops
-- [ ] Still Write [[Template/Book\|Book]]
+- [ ] Still Write [[Template/Media Review\|Media Review]]
 - [ ] Each Fallen Star Has A Celestial At It
 - [ ] Antimagic Node
 - [ ] Node-Specificity
@@ -552,7 +546,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] The Furnace
 - [ ] Mass Distribution Blacksmiths Within Owned Grounds (Organisations, Palaces, Barracks)
 	- [ ] Personal Blacksmiths In Cities
-	- [ ] Personal Smithies Usually Have Different [[Branches/People\|People]] For Different Specialities So Write Those Too
+	- [ ] Personal Smithies Usually Have Different [[Branches/People Branch\|People Branch]] For Different Specialities So Write Those Too
 	- [ ] Three Legendary Resistances In The Form Of Drawing His Sword
 - [ ] Closed Gates Of A City/Fort Form A [[Branches/Wrighth\|Wrighth]] That Prevents All Methods Of Trespass 
 - [ ] Roadside Shops And Other Travel Interactions
@@ -560,7 +554,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Write More On
 	- [ ] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Crushed Survivors\|Crushed Survivors]]
 		- [ ] [I Cannot Currently Think Of AS Snappy Summary For This One]
-- [ ] Town Where Guns Cannot Kill [[Branches/People\|People]]
+- [ ] Town Where Guns Cannot Kill [[Branches/People Branch\|People Branch]]
 - [ ] Add Pets
 - [ ] Write Radio Reports That Are Separate From News Papers
 	- [ ] Upcoming And Outgoing Events
@@ -602,7 +596,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Write Room Availabilities
 - [ ] Frankenstein Trees
 - [ ] Write The Anarchists Guide To BLOWING THE FUCK UP
-	- [ ] ([[Template/Book\|Book]] About Explosive [[Skull/Spam/Fire\|Fire]] And Charisma)
+	- [ ] ([[Template/Media Review\|Media Review]] About Explosive [[Skull/Spam/Fire\|Fire]] And Charisma)
 - [ ] Add More Creatures With Blindsight, Temmor SEnse, Truesight Etc
 - [ ] Sports Stuff
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Realities/Stratus Saepta/Locations/Planes/Planes\|Planes]] Stuff
@@ -618,7 +612,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Add Scifi Biopunk Stuff That Exists Now
 - [ ] Write Tragedies
 - [ ] grung thing
-- [ ] [[Template/Book\|Book]] Thats Too Powerful So Is Kept In A Wooden Sleeve
+- [ ] [[Template/Media Review\|Media Review]] Thats Too Powerful So Is Kept In A Wooden Sleeve
 - [ ] When [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Bad Enough Happens The World Stops And Multiple Councils Go Over The Events
 - [ ] Add Some Mountain Ranges
 - [ ] Shooting Range Minigame
@@ -674,7 +668,7 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Add Vampire Food To The Menus!
 - [ ] Blood Bar
 - [ ] Add Some Festival Explanations To The End Of The Intro
-	- [ ] [[images/Dnd/Character Tokens/NPCs/The Queen Of Gi Fotias\|The Queen Of Gi Fotias]] Is Supposed To SHow Her Face
+	- [ ] [[Files And Shit/Dnd/Character Tokens/NPCs/The Queen Of Gi Fotias\|The Queen Of Gi Fotias]] Is Supposed To SHow Her Face
 - [ ] Officially Put Everettes Place On The Map
 - [ ] [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Church Vantias/Vantias\|Vantias]] 
 - [ ] Add A Bit About The Subway
@@ -682,14 +676,14 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 	- [ ] Before "Nightfall" The [[Skull/Concentrated Brain/Random Thoughts/PetPlay Stuffs\|Owner]] Of [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Quests/Constant Quests/The Moonlit Tavern\|The Moonlit Tavern]] Kicks Everyone Out
 		- [ ] He Has His Own little Stand At The Festival
 - [ ] Prep More Trauma
-- [ ] Have Some [[Branches/People\|People]] Be Scared Of Knights/Platemail
+- [ ] Have Some [[Branches/People Branch\|People Branch]] Be Scared Of Knights/Platemail
 - [ ] More Cursed Items
 	- [ ] Shoes That Turn Your Feet Into Hands Until Someone Else Wears Them
 		- [ ] Guy Selling Expensive Looking Shoes "Name Your Price" "Need To Get Rid Of Them Before [[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|My Husband]] Sees"
 	- [ ] Hat That Turns Your Hair Into Functioning Prehensile Limbs
 		- [ ] But They Have A Mind Of Their Own And Only Sometimes Do [[WHAT\|WHAT]] You Want 
 		- [ ] Permanent
-- [ ] Give [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Aras\|Aras]] Some Drawbacks For Taking A God Around Everywhere
+- [ ] Give [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Paladin Pals/Aras Woodsun\|Aras Woodsun]] Some Drawbacks For Taking A God Around Everywhere
 - [ ] Also Some Rituals And Geases And Stuff To Go Along With Their Benefits 
 - [ ] Sacrifices For Boons Like One Portion Of Food = 10 Temp Hp
 - [ ] 1 Gold Jewel = Luck Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]
@@ -724,6 +718,8 @@ https://docs.google.com/spreadsheets/d/1Eeq2SN7Hk66Yq9W45WstxEde66B28g6_ZVNHdIjI
 - [ ] Thinking of having jetty incorporate the temple and the monks version of the way of four elements into her group
 - [ ] Like wanting to raise them up in her own immortal way
 - [ ] And since she does also belive In the four elements but just in a different avenue
+- [ ] Person In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Unnamed Villages/Gi Fotias 25\|Gi Fotias 25]]
+- [ ] Okay... Since we're going to Grease, and Tari is probably going to be there... He'd Polly know about her if she's known well enough to be written about in the books right?
 
 
 
@@ -737,4 +733,3 @@ Sew More Seeds For:
 
 
 <center><sub>And Here We Go Again :)</sub></center>
-

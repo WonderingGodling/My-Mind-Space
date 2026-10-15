@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/old-home-page/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/explicitly-showcased/home-page-i-guess/old-home-page/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/Pasted image 20230824221117.png]]","Date Created":"278·10·2026 16:53 (Monday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Files And Shit/Pasted image 20230824221117.png","thumbnail":"thumbnails/resized/0c757e24612bf79f6a7d5ddc61ed9e36_86cf658e.webp"}}
 ---
 
+
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
-![Pasted image 20230824221117.png](/img/user/images/Pasted%20image%2020230824221117.png)
+![Pasted image 20230824221117.png](/img/user/Files%20And%20Shit/Pasted%20image%2020230824221117.png)
+
 # <span style="color:#D00009">My Mind Is A Mess But You Can Sit Wherever You Like</span>
 
 Im Going To Be Sharing A Large Amount Of Of The Things I Think And Experience And Whatever And Its Not Going To Be Very Organised Or Anything So Youll Just Have To Live With It
@@ -34,10 +36,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSc9Hm6S3xXUvlBWbQyH7ZP9Mn-vpqVSNWIeh6I4
 
 
 <script src="https://static.elfsight.com/platform/platform.js" async></script> <div class="elfsight-app-20ee6467-81a6-47ba-81bd-de95c689049f" data-elfsight-app-lazy></div>
-###### You Got To The End 
+
+###### You Got To The End
 <sup>Well Done</sup> 
-![Pasted image 20230824220645.png](/img/user/images/Pasted%20image%2020230824220645.png)
+![Pasted image 20230824220645.png](/img/user/Files%20And%20Shit/Pasted%20image%2020230824220645.png)
 <center><sub>Rawr</sub></center>
 
 <script src="https://drive.google.com/open?id=1kI6K7o9XbkfPxMNmLslLSG4JQwoi0yrc&usp=drive_fs" data-use-service-core defer></script> <div class="elfsight-app-20ee6467-81a6-47ba-81bd-de95c689049f"></div>
-

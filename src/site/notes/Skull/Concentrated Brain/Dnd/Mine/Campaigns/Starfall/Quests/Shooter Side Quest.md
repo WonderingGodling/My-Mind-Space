@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/quests/shooter-side-quest/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/quests/shooter-side-quest/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
  float: right;
 }
 </style>
-
 
 # <center><span style="color:#FEDCBA">Shooter Side Quest</span></center>
 
@@ -20,7 +20,7 @@ Shooter, Old, Grouchy, ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/E
 		- The Robes They Were Wearing Have Tracking [[Magic\|Magic]] On Them
 - Cannot Be Tracked Down Via Theives Or Other Criminals Because It Wasnt An Organised Killing
 	- Killed Bee Out Of A Misunderstanding Instead Of For A Job
-		- Some [[Branches/People\|People]] May Have Seen [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Fishy And/Or Heard The Shot But Nobody Saw The Man
+		- Some [[Branches/People Branch\|People Branch]] May Have Seen [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Fishy And/Or Heard The Shot But Nobody Saw The Man
 	- Can Be Found Heading North Towards [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Clitburry/Redscheap/Dirtcheap\|Dirtcheap]] Via [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Military road\|Military road]] → [[The Frosty Enigma road\|The Frosty Enigma road]] → [[Flame highway\|Flame highway]] → [[Celestial road\|Celestial road]] →
 	 
 	- Leaves In A Carriage So Can Be Found Near:

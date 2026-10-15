@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"Piscologist Manifesto","permalink":"/Piscologist Manifesto/","title":"Piscologist Manifesto","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Cult]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Piscology"],"title":"Piscologist Manifesto","comments":true,"tags":["Tagless"]}}
+{"Publish":true,"Permalink":"Piscologist Manifesto","permalink":"/Piscologist Manifesto/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"Up":["[[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Cult]]"],"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Piscology"],"Title":"Piscologist Manifesto","comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/external/ba59f32b89934bec00120b1fb4876d99.jpg]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"thumbnails/external/ba59f32b89934bec00120b1fb4876d99.jpg","thumbnail":"thumbnails/resized/15523e84f1b9b0e70439e426adb9eb22_86cf658e.webp"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#00ADA4">Piscologist Manifesto</span></center>
 ## <center><span style="color:#003D54">By Roque H’ɑːd</span></center>
@@ -73,7 +73,6 @@ Table Of Contents
 
 [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/Piscology/Piscologist Manifesto#Monuments In Piscology\|Piscologist Manifesto#Monuments In Piscology]]
 
-
 # Preface
 
 If you're reading this then I'm assuming that you are somewhat aware of either Richard or piscology itself since Richard’s influence does reach outside of piscologiclly educated, however, I will nonetheless provide you with a brief explanation. Our world is large. Our reality is, of course, larger. Although we do not yet know how our world came to be, disregarding the “retcon” theorem, we do know for almost certain how our reality became what it is now.
@@ -114,7 +113,7 @@ For several decades, the Pysologist community was divided between supporters of 
 
   
 
-# Beliefs of Piscology
+# Beliefs Of Piscology
 
 Piscology offers a comprehensive explanation for a broad range of observed phenomena, including the abundance of Caviar, Big Dick Energy and large-Fish-scale structure. 
 
@@ -162,7 +161,7 @@ Despite being extremely dense at this time—far denser than is usually required
 
   
 
-### Dick’s acceleration
+### Dick’s Acceleration
 
 Independent lines of evidence imply that reality today is dominated by a mysterious form of energy known as Cuck Energy, which permeates all of Dick. The observations suggest that 73% of the total energy density of today's reality is in this form. When reality was very young, it was likely infused with Cuck Energy, but with less Dick and everything closer together, gravity predominated, and it was slowly breaking the Eruption. But eventually, after numerous billion years of Eruption, the declining density of Fish Remnants relative to the density of Cuck Energy caused the Eruption of Dick to slowly begin to accelerate.
 
@@ -173,7 +172,7 @@ Cuck Energy in its simplest formulation takes the form of the Piscological const
   
   
 
-## Observational evidence
+## Observational Evidence
 
 "The Eruption picture is too firmly grounded in data from every area to be proved invalid in its general features."
 
@@ -189,7 +188,7 @@ Precise modern models of Dick's Eruption appeal to various exotic physical pheno
 
   
 
-### The Eruption of Dick
+### The Eruption Of Dick
 
 Observations of distant realities and quasars show that these objects are Gifted:  Dick's Gift emitted from them has been shot to further distances. 
 
@@ -215,7 +214,7 @@ Big Dick Energy is landmark evidence of Dick's Eruption origin of reality. When 
   
   
 
-### Other lines of evidence
+### Other Lines Of Evidence
 
 The age of reality as estimated from the Big Dick Energy is now in good agreement with other estimates using the ages of the oldest Celestials. It is also in good agreement with age estimates based on measurements of the Eruption and measurements of gift fluctuations in the Big Dick Energy. 
 

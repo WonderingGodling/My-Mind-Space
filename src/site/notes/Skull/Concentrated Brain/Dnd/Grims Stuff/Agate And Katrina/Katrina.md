@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/grims-stuff/agate-and-katrina/katrina/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":["[[Branches/My PCs]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/grims-stuff/agate-and-katrina/katrina/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"Up":["[[Branches/My PCs]]"],"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#666000">Katrina</span></center>
 
@@ -41,6 +41,7 @@
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
 | Death Fails |     |     |     |
+
 ### Attacks
 
 | Attack  | To-Hit | Damage            |
@@ -66,6 +67,7 @@ Money:
 Inventory: old school crest on a scalf, 20 darts, chain shirt, shield [[Skull/Concentrated Brain/Dnd/Grims Stuff/Agate And Katrina/Kats grimoire\|Kats grimoire]]
 
 Unspecified curse tool
+
 # Extra
 Resistances: 
 Advantage: 
@@ -75,12 +77,12 @@ Conditions:
 
 # Proficiencies
 		
-Armor:  Shields and light/ medium armour
+Armor: Shields and light/ medium armour
 Weapons: : Simple ranged and melee weapons
-Tools:  two artisian tools 
+Tools: two artisian tools 
 Languages: common
 
-# Notes: 
+# Notes:
 endurance master
 last stand
 Adrenaline Rush
@@ -105,7 +107,7 @@ domain expansion
 
 Cursed movement
 
-##### Union Ceremony: 
+##### Union Ceremony:
 Happily Ever After
 When You Come Into Contact With Something Your Being Burrows Into It. The Being Becomes A Disposable Host For As Long As It Has Feelings Towards You, Allowing You To Manipulate It For Your Benefit. +1 Con Per Host, Hosts Curse Energy Can Power These
 
@@ -124,7 +126,7 @@ To Show Its Appreciation The Host Gives Up Some Of Its Earthly Possessions
 Protozoa
 If The Host Is A Monster Or Evil Aligned Creature Not Under Stronger Rule Its Alligiance Switches Or It Is Absorbed. You Gain Its Skills And Knowledge
 
-###### Dormant Genes: 
+###### Dormant Genes:
 Lets Hope Death Skips A Generation 
 
 You Target A creature In Sight As Something Within It Longs To Be With You, Causing An Explosion Of Energy From Its Abdomen. The New Host Takes Damage And You Gain Half Their Current Combat Stats, Speed And Energy
@@ -134,10 +136,7 @@ I Want You To Be In Good Company
 
 All Hosts In The Domain Become Perminant And Transform Into The Curse, Operating As A Hivemind During The Domains Activation. When The Domain Closes They Can Choose To Keep The Form Or Escape It. Wisdom Save To Discern The Real Katrina
 
-
-
-
-# Characteristics 
+# Characteristics
 
 
 

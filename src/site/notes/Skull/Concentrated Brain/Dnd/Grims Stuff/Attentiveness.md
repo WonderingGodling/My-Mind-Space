@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/grims-stuff/attentiveness/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/grims-stuff/attentiveness/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/external/ce4164436a26146c113d8dfc69756d97.failed.png]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"thumbnails/external/ce4164436a26146c113d8dfc69756d97.failed.png","thumbnail":"thumbnails/resized/2666cca60293c8a15afcce34e99b16c8_86cf658e.webp"}}
 ---
+
 
 # Attentiveness- Quinn
 

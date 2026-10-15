@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"Human Centipede (First Sequence) Production (Filming)","permalink":"/Human Centipede (First Sequence) Production (Filming)/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type:":"Production Segment Information","up:":[["The Human Centipede (First Sequence) Production"]],"down:":null,"Yesterday:":null,"Tomorrow:":null,"alias:":"Human Centipede 1 Filming","Next:":null,"Previous:":null}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/production/human-centipede-first-sequence-production-filming/","noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"permalink":"Human Centipede (First Sequence) Production (Filming)","Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
-# Production 
+
+# Production
 
 ## Filming
 

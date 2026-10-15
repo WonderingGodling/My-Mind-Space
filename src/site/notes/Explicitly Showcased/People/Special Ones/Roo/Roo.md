@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/explicitly-showcased/people/special-ones/roo/roo/","title":"Roo <3","hideInGraph":true,"tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":"Passworded Page","up":"[[Explicitly Showcased/People/Special Ones/Roo/Roodolf]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"title":"Roo <3","comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/explicitly-showcased/people/special-ones/roo/roo/","hideInGraph":true,"tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":"Passworded Page","Up":"[[Explicitly Showcased/People/Special Ones/Roo/Roodolf]]","Down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":"Roo <3","comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/il_fullxfull.3946262024_53gi.jpg]]","Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Files And Shit/il_fullxfull.3946262024_53gi.jpg","thumbnail":"thumbnails/resized/30d75edeb900abcb398901daf68fbce2_86cf658e.webp"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
-![il_fullxfull.3946262024_53gi.jpg](/img/user/images/il_fullxfull.3946262024_53gi.jpg)
+![il_fullxfull.3946262024_53gi.jpg](/img/user/Files%20And%20Shit/il_fullxfull.3946262024_53gi.jpg)
+
 # <center><span style="color:#40E0D0">Roo!</span></center>
-![WhatsApp Image 2024-04-14 at 18.43.54.jpeg](/img/user/images/WhatsApp%20Image%202024-04-14%20at%2018.43.54.jpeg)
+![WhatsApp Image 2024-04-14 at 18.43.54.jpeg](/img/user/Files%20And%20Shit/WhatsApp%20Image%202024-04-14%20at%2018.43.54.jpeg)
 Look At This Nerd There Isnt A Lot I Want To Say At The Moment But As Annoying As You Are, You Still Deserve Your Own Page
 
 Putting This Here:
@@ -34,12 +36,12 @@ Its Just That Amongst The Desolation Behaviour Theirs A Layer Of "Oh No, Please 
 It Could Also Be Completely Seperate; I Guess What Im Trying To Say Is The Push And Pull Game They Play Can Either Be For Fun Or By Nature And Those Two Things Mean Completely Different Manifestations 
 Anti Web Definitely 
 
-![Screenshot_20240303_181422_WhatsApp.png](/img/user/images/Screenshot_20240303_181422_WhatsApp.png)
+![Screenshot_20240303_181422_WhatsApp.png](/img/user/Files%20And%20Shit/Screenshot_20240303_181422_WhatsApp.png)
 
 
 Oh Yeah, Me, Roo Might Not Be Able To Hang Out On The Twenty-Nineth So Try To Accost Them At Some Point 
 
-![IMG-20240225-WA0014.jpg](/img/user/images/IMG-20240225-WA0014.jpg)
+![IMG-20240225-WA0014.jpg](/img/user/Files%20And%20Shit/IMG-20240225-WA0014.jpg)
 
 
 "I Saw A Tweet Earlier About A Guy Getting Hard Kissing His Girlfriend (Got Popular Because Everyone Was Bullying Him)
@@ -88,8 +90,8 @@ HandItOver
 
 Cannot Bash Roos [[Branches/Skull\|Skull]] In
 Also Minus A Star For General Insubordination
-# Star Chart
 
+# Star Chart
 
 |    Reason     | Stars |
 | :-----------: | ----- |
@@ -101,10 +103,12 @@ Also Minus A Star For General Insubordination
 | Being Special | ☆★    |
 |    Sluting    |       |
 |     Bonus     | ★★    |
+
 Stars: Six
 Protostars: Three
 Negative Stars: One
 Tenth Star: X
+
 #### Roo
 Yendi Is Ugandan If That Ever Becomes Relevant
 She Asked Him Last Night While They Were Playing Overwatch (Instead Of Playing With Me And Xander)
@@ -156,7 +160,7 @@ Roo And Dee Wild West Photoshoot
 ![](https://i.imgur.com/PGXLsKZ.jpeg)
 ![](https://i.imgur.com/4PR9JYr.jpeg)
 
-Oh Yeah They Made Me  Brownies That Were Pretty Good
+Oh Yeah They Made Me Brownies That Were Pretty Good
 Gave Them To Me When We Went To See A Quiet Place Day One
 We Also Went To Paramo Lounge And I Had A Brisket Chilly Thing That Was Okay But Also A Side Of Rice Which Was Less Okay
 I Dont Remember What Roo Had But I Do Remember They Didnt Buy Snacks Afterwards
@@ -229,4 +233,3 @@ Also Roo: mango Iced Tea: Not Ideal
 ★
 ☆
 ⛧
-

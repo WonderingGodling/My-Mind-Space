@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/0-moon-day/the-queen/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/0-moon-day/the-queen/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Featured":"![[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Files And Shit/The Queen.png]]","Date Created":"233·08·2026 0:55 (Friday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Files And Shit/The Queen.png","thumbnail":"thumbnails/resized/5da13dc78df22e0388523d92454c0497_86cf658e.webp"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -8,21 +9,25 @@
 }
 </style>
 
-# <center><span style="color:#323456"> </span></center>
+# <center><span style="color:#323456">The Queen </span></center>
 
 ![The Queen.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0%20Moon%20Day/Files%20And%20Shit/The%20Queen.png)
 
-Slox Moving
+<!--  
+Slow Moving
 Judgy
+--> 
 Fights With A Bident
 
 Has A Bed Made Of A Dragon 
+
+<!--  
+
 ## General
  Race:  
  Class: 
  Alignment: 
  Background: 
-
 
 ## Stats
 
@@ -53,6 +58,7 @@ Has A Bed Made Of A Dragon
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
 | Death Fails |     |     |     |
+
 ### Attacks
 
 | Attack | To-Hit | Damage |
@@ -68,6 +74,7 @@ Has A Bed Made Of A Dragon
 
 Money: 
 Inventory: 
+
 # Extra
 Resistances: 
 Advantage: 
@@ -82,9 +89,11 @@ Weapons:
 Tools: 
 Languages: 
 
-# Notes: 
+# Notes:
 
 
 
-# Characteristics 
+# Characteristics
 
+
+--> 

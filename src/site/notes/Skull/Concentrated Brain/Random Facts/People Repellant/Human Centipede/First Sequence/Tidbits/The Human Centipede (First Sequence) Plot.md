@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/tidbits/the-human-centipede-first-sequence-plot/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type:":"Film Plot","up:":[["The Human Centipede (First Sequence)"]],"down:":null,"Yesterday:":null,"Tomorrow:":null,"alias:":"Human Centipede 1 Plot","Next:":null,"Previous:":null}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/tidbits/the-human-centipede-first-sequence-plot/","noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
 

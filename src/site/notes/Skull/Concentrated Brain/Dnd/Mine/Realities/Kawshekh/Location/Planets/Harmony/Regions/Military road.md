@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/military-road/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/military-road/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
  float: right;
 }
 </style>
-
 
 # <center><span style="color:#FEDCBA">Military road</span></center>
 3281 Km
@@ -29,7 +29,7 @@ Hexagon Six
 Hexagon Seven
 [[Lef Arran Fork\|Lef Arran Fork]] Bridge-> 
 Hexagon Eight
-[[Nathaniels Path\|Nathaniels Path]] Junction → Ilnebelse Fork Junction → [[Ilnebelse Fork\|Ilnebelse Fork]] Bridge →  [[Ashtafetheas River\|Ashtafetheas River]] Bridge → [[Ashtafetheas Run\|Ashtafetheas Run]] Junction → [[Unnamed route segment 916\|Unnamed route segment 916]] Junction →
+[[Nathaniels Path\|Nathaniels Path]] Junction → Ilnebelse Fork Junction → [[Ilnebelse Fork\|Ilnebelse Fork]] Bridge → [[Ashtafetheas River\|Ashtafetheas River]] Bridge → [[Ashtafetheas Run\|Ashtafetheas Run]] Junction → [[Unnamed route segment 916\|Unnamed route segment 916]] Junction →
 Hexagon Nine
 [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Frosty Enigma Road\|Frosty Enigma Road]] Junction
 

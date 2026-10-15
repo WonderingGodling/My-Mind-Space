@@ -1,23 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/4-atal/panda/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/4-atal/panda/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/external/77b3033fd36816ed2b51f25a90db9e97.jpg]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"thumbnails/external/77b3033fd36816ed2b51f25a90db9e97.jpg","thumbnail":"thumbnails/resized/b247d094c2f4b28484f7069a477e36e2_86cf658e.webp"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#535656"> Panda</span></center>
 
 ![](https://i.imgur.com/P573Tpv.jpeg)
 
-
-
-
 ## General
- Race:  ~~Lunarian~~
+ Race: ~~Lunarian~~
  Class: 5 Furry
  Alignment: Chaotic Good
  Background: HUNTER
-
 
 ## Stats
 
@@ -48,18 +44,21 @@
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
 | Death Fails |     |     |     |
+
 ### Attacks
 
 | Attack | To-Hit | Damage |
 | ------ | ------ | ------ |
 |   Unarmed Strike     |     8   |  1d4 + 8 slashing      |
+
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/4 Atal/Panda#Fur-ious Blows\|#Fur-ious Blows]]
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/4 Atal/Panda#Ferocious Howl\|#Ferocious Howl]]
 
 # Inventory
 
 Money: 
-Inventory:  A blowgun with 50 needles, xplorer's pack, backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope, 2 hunting traps, traveler’s clothes, waterskin, knife, whetstone
+Inventory: A blowgun with 50 needles, xplorer's pack, backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope, 2 hunting traps, traveler’s clothes, waterskin, knife, whetstone
+
 # Extra
 immune: blindness
 Resistances: 
@@ -70,29 +69,29 @@ Conditions:
 
 # Proficiencies
 		
-Armor:  none
+Armor: none
 Weapons: Simple weapons, shortswords, hand crossbows, blowguns
 Tools: Herbalism kit, Woodcarver’s Tools
 Languages: 
 
-# Notes: 
+# Notes:
 
 
 
-# Characteristics 
+# Characteristics
 Starlight skin. As a bonus action you can choose to emit dim light in a 15ft radius 
-Astral heritage: as a reaction  when you are targeted by a projectile you can use your faint psionic power to roll a d8 and lower the damage dealt, if the damage reaches 0 you can make a ranged attack roll against the attacker instead with the projectile 
+Astral heritage: as a reaction when you are targeted by a projectile you can use your faint psionic power to roll a d8 and lower the damage dealt, if the damage reaches 0 you can make a ranged attack roll against the attacker instead with the projectile 
 Starry eyes: you are 
 
-#### Feature: Provider
+#### Feature: Provider
 
 During a long rest you are able to find enough food for yourself and your proficiency bonus number of people for a day. You can do so and still gain the benefits of a rest, but still must sleep or trance as appropriate to your race or lineage. Additionally, you have twice your proficiency bonus for your Stealth or Survival skill gained from this Background when in natural surroundings. This bonus does not stack with Expertise or similar rules at any time.
 
-#### Curse of the Fursuit
+#### Curse Of The Fursuit
 
 The fursuit on your body has made you unable to live the way you once did. As a result, you lose all action and attack-based, AC-affecting, and flight-related features exclusive to your race, but you retain ability score increases, passive traits, walking, swimming, and/or burrowing speed, size, and languages. For example, if your species was a white dragonborn, you would lose your breath weapon, but you would retain your resistance to cold damage and your strength and charisma score increases.
 
-#### Claws of the Furry
+#### Claws Of The Furry
 
 No matter what species your fursuit is based on, it has a set of razor-sharp claws on its hands and feet. Whenever you make an unarmed strike, you deal 1d4 + your strength Modifier + your Proficiency Bonus slashing (rather than bludgeoning) damage. This slashing damage cannot incite Bleeding (unless _Goring Strike_ is activated; see below)
 
@@ -126,9 +125,10 @@ When you reach 4th level, and again at 8th, 12th, 16th and 19th level, you can i
 #### Extra Attack
 
 Starting at level 5, you can take the Attack action twice during your turn. At level 11 you can take three Attack actions, and at level 18, you can take four.
+
 #### Pounce
 You hone a pouncing claw technique with your mammalian nature. Starting at level 6, as an Attack, you can spend 3 Fur Points to pounce onto them with your claws, inflicting 2d6 bludgeoning damage + 1d8 slashing damage + your Strength Modifier (does not incite Bleeding). The target must succeed on a Strength (Acrobatics) check contested by your Strength (Athletics). If you succeed, the target is pushed back 10 feet and is knocked Prone. If you fail, the target is pushed back 5 feet and is not knocked Prone. This attack does not count as an unarmed strike. 
 
-#### One with the Beasts
+#### One With The Beasts
 
 Other wild beasts begin to see you as an animal, not a humanoid, and begin treating you as such. Starting at level 7, you can understand animals. They cannot speak directly to you, nor can you to an animal, but you can sense their emotions and understand messages they are trying to convey. If an animal is of the same kingdom as your Furry Kingdom (see above), it will become friendly toward you. Your DM decides which animals fall under these Kingdoms.

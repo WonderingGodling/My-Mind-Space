@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"dg-permalink":"Constant Comment","permalink":"/Constant Comment/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type:":"Brain Dump","down:":null,"Yesterday:":null,"Tomorrow:":null,"title":"Constant Comment","comments":true,"tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"aliases":["Constant Commment","Mega Note","I Dont Know What Im Saying"],"up":"[[Branches/Random Thoughts]]","Type":null,"down":null,"Yesterday":null,"Tomorrow":null,"Next":null,"Previous":null}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/constant-comment-not-the-tea/","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·2026 (Sunday)","dg-note-properties":{"Title":"Constant Comment","comments":true,"show-local-graph":null,"tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"aliases":["Constant Commment","Mega Note","I Dont Know What Im Saying"],"up":"[[Branches/Random Thoughts]]","permalink":"Constant Comment","down":null,"Yesterday":null,"Tomorrow":null,"Next":null,"Previous":null,"Featured":"[[Files And Shit/external/d3fa751840104994fe98790d4e99b6e6.png]]","Date Created":"278·2026 (Monday)","Date Modified":"284·2026 (Sunday)","feature":"Skull/Concentrated Brain/Random Thoughts/Files And Shit/O8fvfW9.png","thumbnail":"thumbnails/resized/a6108666c024f9cd83f3ac5179d5009c_86cf658e.webp","Banner":"{{image}}","Type":null,"Description":"{{description}}","Up":null,"Embedded":null,"Similarly Rooted":null,"Comments":true,"Icon":"{{favicon}}"}}
 ---
 
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important} </style>
-
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
+ img{
+ float: right;
+}
+</style>
 # <span style="color:#CD0000">Constant Comment (Not The Tea)</span>
-![](https://i.imgur.com/O8fvfW9.png)
+![O8fvfW9.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/O8fvfW9.png)
 
 
 
@@ -38,7 +41,7 @@
 
 
 
-![IMG-20240114-WA0016 1.jpg](/img/user/images/IMG-20240114-WA0016%201.jpg)![IMG-20240114-WA0019.jpg](/img/user/images/IMG-20240114-WA0019.jpg)
+![IMG-20240114-WA0016 1.jpg](/img/user/Files%20And%20Shit/IMG-20240114-WA0016%201.jpg)![IMG-20240114-WA0019.jpg](/img/user/Files%20And%20Shit/IMG-20240114-WA0019.jpg)
 Hhhhhhhhhhhhhhhh
 
 
@@ -74,7 +77,7 @@ That One Doesnt Count; Go To [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawsh
 43•2024• Maybe Fixed The [[Explicitly Showcased/Home Page I Guess/Home Page\|Website]] 
 
 
-And So I Keep Reading [[Skull/Concentrated Brain/Media/House Of Leaves/HOL Mega Note\|HOL]] (For Which I have Untranscribed Notes)
+And So I Keep Reading [[Skull/Concentrated Brain/Media/Books I Have Read/House Of Leaves/HOL Mega Note\|HOL]] (For Which I have Untranscribed Notes)
 
 That Was A Waste Of Time; I'll Try To Update This As Much As Possible Though
 
@@ -84,7 +87,7 @@ Had To Get The 5 Train Back Dx
 Lex Is Great 
 Shout Out Lex
 
-Also Im Thinking Of Separating This Into Multiple Pages If It Gets Too Long; Thats A Long Way Down the Road Though So Dont Worry (Xei Said To The Zero [[Branches/People\|People]] Reading)
+Also Im Thinking Of Separating This Into Multiple Pages If It Gets Too Long; Thats A Long Way Down the Road Though So Dont Worry (Xei Said To The Zero [[Branches/People Branch\|People Branch]] Reading)
 Im Also Going To Put Up My Lecture Notes When I Start Making Them So Theres That To Look Forward To
 
 On The Same Note (Knowing I'll Move The Previous Entry) I Started Playing Persona Three Reload Yesterday And Its A Great Game Which I Probably Would Have Had [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] To Say About But That Was Last Night And Im Forgetful 
@@ -137,7 +140,7 @@ I Just love [[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!\|Mai Wife
 
 Also [[Explicitly Showcased/People/Special Ones/Roo/Roodolf\|Roodolf]] Is Cool, Glad Theyre Safe And All That
 
-![Tumblr_l_1160578296118.jpg](/img/user/images/Tumblr_l_1160578296118.jpg)
+![Tumblr_l_1160578296118.jpg](/img/user/Files%20And%20Shit/Tumblr_l_1160578296118.jpg)
 
 
 
@@ -151,7 +154,7 @@ Last Updated Yesterday
 Happens Every Time That I [[READ\|READ]] This
 
 
-![d2b89dd5b95cb7f7d56f0e9c5881477d.jpg](/img/user/images/d2b89dd5b95cb7f7d56f0e9c5881477d.jpg)
+![d2b89dd5b95cb7f7d56f0e9c5881477d.jpg](/img/user/Files%20And%20Shit/d2b89dd5b95cb7f7d56f0e9c5881477d.jpg)
 Cool Tattoo
 
 Eww CinemaSins Fnaf! Gonna Watch That :)
@@ -230,7 +233,7 @@ I Think It Would Be Cool To Adapt This (Or Similar) Into [[Skull/Concentrated Br
 I Dont Know About The Kings Heath Wizard Because Im A Kings Norton Girlie
 Its Not My Fault
 
-![Screenshot_20240303_183041_WhatsApp.png](/img/user/images/Screenshot_20240303_183041_WhatsApp.png)
+![Screenshot_20240303_183041_WhatsApp.png](/img/user/Files%20And%20Shit/Screenshot_20240303_183041_WhatsApp.png)
 This Is From Way Back In 2023
 No Background For Some Reason 
 
@@ -259,15 +262,15 @@ Also Roo Gets aBonusStar Because I Feel Like They Dederve It
 
 Im So Dead Right Noww
 
-![Biblically_Accurate_Furby.png](/img/user/images/Biblically_Accurate_Furby.png)
-![62f982f12118a056e8a4f81ffc9fb543ecce51a3.jpg](/img/user/images/62f982f12118a056e8a4f81ffc9fb543ecce51a3.jpg)
+![Biblically_Accurate_Furby.png](/img/user/Files%20And%20Shit/Biblically_Accurate_Furby.png)
+![62f982f12118a056e8a4f81ffc9fb543ecce51a3.jpg](/img/user/Files%20And%20Shit/62f982f12118a056e8a4f81ffc9fb543ecce51a3.jpg)
 
 Sometimes I Feel Like Ive Been Adding A Lot To This And Then I Scroll Up And Im Like....Nope
 Oh Well
 
 I Need To Write A Collective Hallucination Type Thingy 
 
-Pretty sure [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Vie]] Is Flesh, Lonely 
+Pretty sure [[Explicitly Showcased/People/Forsaken/Sunshine/Moirail\|Vie]] Is Flesh, Lonely 
 
 
 
@@ -484,11 +487,9 @@ Ash
 Tracer
 Sombra
 
-
 #### Proof Im Forgetful
 
 ETA 192·2024·8584: Gone :P
-
 
 ### Back To Basics
 Accidently Almost Opened Andy And Leyley And Bee Sent Me A Screenshot On Discord
@@ -498,7 +499,7 @@ Celebrated A Family Members Birthday In June
 It Was Scheduled For 1300 We Showed Up At 1500 And People Only Started Showing Up Like Five Minutes Later So I Guess We All Just Said "Nahh" Anyway
 
 Tomatoes Are Nightshades
-I Wonder If You Can Reverse Cultivate  Them
+I Wonder If You Can Reverse Cultivate Them
 
 # Off Topic Screenshots
 Holding Hands
@@ -552,13 +553,13 @@ Just Scrolled Up
 Last Update Was About 192, Its 208 Now
 Between Then I Have Talked At My Phone And Made A To-Do List I Have Not Revisited Once
 
-
 ## Stardew Jammables
 ### Spring
 Strawberry
 kAle
 Rhubarb
 Cauliflower
+
 ### Summer
 Starfruit
 Hops
@@ -567,6 +568,7 @@ Melon
 Radish
 Pineapple
 Tarot Root
+
 ### Fall
 Pumpkin
 GRape
@@ -616,6 +618,7 @@ The appearance of the Xenomorph can vary depending on the host in which the embr
 The Human phenotype is generally around 7–9 feet (~ 2.13 - 2.74 meters) in height and roughly 181.43 to 272.15 kilograms (400-600 pounds) in weight, with a long, muscular tail and large, curved, oblong head. (You Know, The Classic)
 
 The Scientific Name Is Internecivus raptus Which Means Murderous Thief
+
 ### More Appearence Stuff Stolen From The Wiki
 The Queen of this species is generally twice as large (although some Queens have been shown to grow even larger, some surpassing 30 meters in height if given time) and possesses superior speed, strength and intelligence compared to her common offspring.
 
@@ -665,7 +668,7 @@ So Many Red Underlines
 
 Got Way Too Distracted Making A [[Skull/Concentrated Brain/Random Thoughts/Stats\|Stats]] Page
 
-###### aaa
+###### Aaa
 miliitek, data, 52 floor,
 aarasaka 191
 	playing uberpop, arsecracks
@@ -687,7 +690,7 @@ I Was Gonna Get A Flapjack But Train Blew Up So I Was Late To Uni (I Might Have 
 
 ZOnedd Out Again ^^
 
-![Pasted image 20241028114919.png](/img/user/images/Pasted%20image%2020241028114919.png) I Never Finished Playing This
+![Pasted image 20241028114919.png](/img/user/Files%20And%20Shit/Pasted%20image%2020241028114919.png) I Never Finished Playing This
 I Was Playing It With Vie And Then Never Did A Session Two
 
 I VNEEr Singed Into Microsoft ON THis Laopop....
@@ -710,7 +713,7 @@ Scheduling Thing https://www.when2meet.com/
 Really Been Struggling To Do Anything Recently And Its Been Driving [[Explicitly Showcased/Me/Me\|Me]] [[Skull/Spam/Crazy\|Crazy]]
 The Goal At The Moment Is To Do Some Revision 
 Also Imma Listen To The Sinners Soundtrack Later If I [[Explicitly Showcased/People/Dont Forget/Dont Forget\|Dont Forget]]
-Also Bee Struggling To Talk To [[Branches/People\|People]] And I Feel Bad About That :(
+Also Bee Struggling To Talk To [[Branches/People Branch\|People Branch]] And I Feel Bad About That :(
 
 Also Decided To Centre Line This
 Nope Cant Figure Out How To Not Break Everything ^^
@@ -781,7 +784,7 @@ Literaly Doing Nothing :)
 ## London 2026 +
 79 2026
 Going TO Try To Do This More
-Also Going To Try TO Seperate This And More Diary Esque Happenings Becasue Why  Not
+Also Going To Try TO Seperate This And More Diary Esque Happenings Becasue Why Not
 
 Watch Yellowjackets!!!!
 
@@ -884,7 +887,7 @@ Stress Toy Dildo COming Tomorrow
 haha Coming
 
 Friend Hurt Himself So I Am Giving Him Some Of My Cute Plasters Tomorrow
-![20260326_231355.jpg](/img/user/images/20260326_231355.jpg)
+![20260326_231355.jpg](/img/user/Files%20And%20Shit/20260326_231355.jpg)
 
 I Have To Get To Uni At 9 For This Evo Devo Thing
 
@@ -914,7 +917,7 @@ Also Paladin Pals Have Been Reminded That They Have Twio Weeks To Solidify Any C
 It Is Somnias Birthday Today
 
 86
-![Pasted image 20260328192028.png](/img/user/images/Pasted%20image%2020260328192028.png)
+![Pasted image 20260328192028.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260328192028.png)
 
 [https://www.tumblr.com/lilaclupin/812231927890329600?source=share](https://www.tumblr.com/lilaclupin/812231927890329600?source=share "https://www.tumblr.com/lilaclupin/812231927890329600?source=share")
 I Need To Embed This But "to be trapped together in a cave-in where one of them is injured and they have to talk to keep them distracted and stay sane while they wait for help, and end up opening up about their vulnerabilities and bond and then grow desperate as one starts to slip from consciousness while the other begs them to stay awake—" Sounds Awesome
@@ -963,7 +966,7 @@ Theres No Reason To
 Increase Festival Payouts Over Time
 Horse Game Trainer ID 646 879 707 933
 [[Explicitly Showcased/People/Ollie\|Ollie]]
-[[Skull/Concentrated Brain/Random Thoughts/Moomoo\|Moomoo]]
+[[Explicitly Showcased/People/Moomoo\|Moomoo]]
 Julie Wants To Do Teams Meetings About Next Semester
 
 Oh Yeah One Of My Friends Recommended A Webtoon To Me And I Read It The Other Day
@@ -994,55 +997,56 @@ Hate This Guy Btw
 Found A Bunch Of CDs In The Shop, Lez Go
 
 Was Looking At Pretty Turntables And Then I Noticed This
-![Pasted image 20250905164554.png](/img/user/images/Pasted%20image%2020250905164554.png)
+![Pasted image 20250905164554.png](/img/user/Files%20And%20Shit/Pasted%20image%2020250905164554.png)
 https://packaged-media.redd.it/cudinx0ncrif1/pb/m2-res_854p.mp4?m=DASHPlaylist.mpd&v=1&e=1757102400&s=4c81941c51d11ef67c64cb577c059bdba31e4ebd
 
-[[Explicitly Showcased/People/Special Ones/Heart\|Heart]] Added Me To Their Server
+[[Explicitly Showcased/People/Heartbiter/Heart\|Heart]] Added Me To Their Server
 
 Got New Speakers
 
 Just Got The Arcane S2 Soundtrack On CD Because Half Price
 
-Thanks [[Explicitly Showcased/People/Claire Bear\|Claire Bear]]
+Thanks [[Explicitly Showcased/People/Special Ones/Claire/Claire Bear\|Claire Bear]]
 
 
 Its So Cool That Me And Claire Have The Same Speakers!
 
-![Pasted image 20250905170022.png](/img/user/images/Pasted%20image%2020250905170022.png)<!--⚠️Imgur upload failed, check dev console-->
-![Pasted image 20250905170032.png](/img/user/images/Pasted%20image%2020250905170032.png)
+![Pasted image 20250905170022.png](/img/user/Files%20And%20Shit/Pasted%20image%2020250905170022.png)<!--⚠️Imgur upload failed, check dev console-->
+![Pasted image 20250905170032.png](/img/user/Files%20And%20Shit/Pasted%20image%2020250905170032.png)
 
 Bee Said "those wires look yummy..." Smh
 
-    
-   The Miku Heart! ![Miku Heart.png\|20](/img/user/images/Miku%20Heart.png)
+	
+   The Miku Heart! ![Miku Heart.png\|20](/img/user/Files%20And%20Shit/Miku%20Heart.png)
 
 ![](https://cdn.discordapp.com/avatars/405286224090365954/b6cbda3337565886bac954ee01eae93e.webp?size=80)![](https://cdn.discordapp.com/avatar-decoration-presets/a_b9f89cd88eabf437777bf35f55e6126f.png?size=96&passthrough=false)
-### doll![[]](https://cdn.discordapp.com/clan-badges/874618617096990762/60dc5de06463281a8c02b907655e979c.png?size=16)ꜰɴᴀꜰ _—_ Yesterday at 22:03
+
+### doll![[]](https://cdn.discordapp.com/clan-badges/874618617096990762/60dc5de06463281a8c02b907655e979c.png?size=16)ꜰɴᴀꜰ _—_ Yesterday At 22:03
 That Doesnt Look Right....
-    
-## Anyway!    
+	
+## Anyway!
 
 Grim Was "perplexed by [My] setup" So Explanation
-    
+	
 Bottom To Top: CD Player, Tape Player, Radio, Amp/Mixer
-    
+	
 ![💛](https://discord.com/assets/4252a4264c0874b9.svg)
-    (Weird That I Can Paste So Much Of Discords UI But How Almost None Of It Looks Right)
+	(Weird That I Can Paste So Much Of Discords UI But How Almost None Of It Looks Right)
 
 CD Player Can Hold 5 CDs And Tape Player Can Hold Two Tapes
 	I Dont Use The Radio But Its Nice To Have
 Also The CD And Tape Player Are Joined By Wires At The Back (They All Are, I Wired Them) But One Of The Wires Is Like Part Of The Devices
 I Think If I Broke One Id Either Have To Live With It Or Replace Both Of Them
-    Well Those Two Are Stuck Together For Some Reason, Everythings All Kinda Connected To The Radio At The Moment— I'm Using It As A Junction For Everything Else
+	Well Those Two Are Stuck Together For Some Reason, Everythings All Kinda Connected To The Radio At The Moment— I'm Using It As A Junction For Everything Else
 There Are So Many Ports And Holes In The Back Of The Radio So Im Taking Advantage Of It
-    Theyre Also Connected To My Record Player Which Isnt In The Picture
+	Theyre Also Connected To My Record Player Which Isnt In The Picture
 So That I Can Easily Use The Mixer To Listen To Anything (Including My Computer)
-        Been Working On This For Like Months
+		Been Working On This For Like Months
 Its So Hard To Get Good Tech
-    
+	
 We Both "feel like everything is getting more expensive but made shittier"
 
-[[Explicitly Showcased/People/grim\|grim]]
+[[Explicitly Showcased/People/Forsaken/grim\|grim]]
 
 
 Readin A Book And It Describes Hells Weather As Being Like Englands
@@ -1068,7 +1072,7 @@ Aaaaaaaaaaaaaaaaa
 This Is So Jumbled Now
 Oh Well
 
-![Pasted image 20260329145252.png](/img/user/images/Pasted%20image%2020260329145252.png)
+![Pasted image 20260329145252.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260329145252.png)
 This Is Why People Loved Bec And Jade
 They Are Barely Even in Shot And They Are Still More Goals Than Most Relationships Ive Seen
 
@@ -1269,7 +1273,7 @@ I Feel Awful Righht Now But It Is Tomorrow So Fuck You Emotions I Win
 I Miss Dee So Much
 She Is Coming Back Soon!
 
-By The End Of The Year I Want To Taste All Of  Her
+By The End Of The Year I Want To Taste All Of Her
 I Have To Make Up For Lost TIme
 
 I Was Going To Make A To-Taste List But It Would Be Smarted To Make A Tasted List
@@ -1366,6 +1370,7 @@ Danez Smith
 ![Pasted image 20260722170628.png](/img/user/Skull/Concentrated%20Brain/Random%20Thoughts/Files%20And%20Shit/Pasted%20image%2020260722170628.png)
 
 I Love This Dumb Show
+
 >"Cant Get Rid Of Ted Pelikennedy..."
 >"But He Killed That Girl!"
 >"Yeah, Exactly"
@@ -1402,6 +1407,3 @@ I Love This Dumb Show
 
 
 ![](https://i.imgur.com/0hjpdF1.png)
-
-
-

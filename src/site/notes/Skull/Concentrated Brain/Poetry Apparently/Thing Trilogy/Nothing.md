@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"Nothing","permalink":"/Nothing/","title":"Nothing","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type:":"Poem","up:":"[[Branches/Thing Trilogy]]","down:":null,"Yesterday:":null,"Tomorrow:":null,"alias:":"Nothing","title":"Nothing","comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/poetry-apparently/thing-trilogy/nothing/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"Nothing","comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":"Nothing","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
@@ -40,9 +41,9 @@ Perchance There's [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Som
 
 
 <script src="https://utteranc.es/client.js"
-        repo="WonderingGodling/My-Mind-Space"
-        issue-term="title"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
+		repo="WonderingGodling/My-Mind-Space"
+		issue-term="title"
+		theme="preferred-color-scheme"
+		crossorigin="anonymous"
+		async>
 </script>

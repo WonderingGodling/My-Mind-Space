@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/2-firstday/master-bane/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/2-firstday/master-bane/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/Pasted image 20260121030859.png]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"Files And Shit/Pasted image 20260121030859.png","thumbnail":"thumbnails/resized/96f22641375d6b0e8a067b2053dba5e5_86cf658e.webp"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#000000"></span></center>
 
@@ -11,11 +11,10 @@
 
 # <center><span style="color:#323456"> Master Bane </span></center>
 
-![Pasted image 20260121030859.png](/img/user/images/Pasted%20image%2020260121030859.png)
-
+![Pasted image 20260121030859.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260121030859.png)
 
 ## General
- Race:  [Lunarian](https://docs.google.com/document/d/1o16evOy7kx3hkb0xPTgvQMzWYmOZCw1ohPusgCox0b8/edit?tab=t.0)
+ Race: [Lunarian](https://docs.google.com/document/d/1o16evOy7kx3hkb0xPTgvQMzWYmOZCw1ohPusgCox0b8/edit?tab=t.0)
  Class: 
 	Monk 6
 	Blood Witch 1
@@ -23,6 +22,7 @@
 
 survival,perception
 Strength, Dexterity
+
 ## Stats
 
 |    Speed     |    AC    |  Bonus   |  Initiative   |
@@ -52,12 +52,14 @@ Strength, Dexterity
 | Death Saves |     |     |     |
 | ----------- | --- | --- | --- |
 | Death Fails |     |     |     |
+
 ### Attacks
 
 | Attack         | To-Hit | Damage                    |
 | -------------- | ------ | ------------------------- |
 | [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/2 Firstday/Bloodshot\|Bloodshot]]  | 8      | 1d6+8 Blood 1 Bleed       |
 | Unarmed Strike | 8      | 1d6+8 Magical Bludgeoning |
+
 Deflect= 1d10 +1d8 + 11
 range of 20/60
 
@@ -70,17 +72,18 @@ Cant Be Blinded
 in dim light or darkness, as a bonus action you can teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. You then have advantage on the first melee attack you make
 
 Can spend 2 ki points to cast darkness, pass without trace, or silence.
+
 # Proficiencies
 		
-Armor:  None
+Armor: None
 Tools: fishing rod, Weaver's tools
 Languages: common, elvish
 
-# Notes: 
+# Notes:
 
 Starlight skin. As a bonus action you can choose to emit dim light in a 15ft radius 
 
-# Characteristics 
+# Characteristics
 
 
 

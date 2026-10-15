@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"shark Reproduction","permalink":"/shark Reproduction/","title":"shark Reproduction","tags":["sharks","Concentrated","RandomFacts","Sharks","RandomThoughts","Reproduction"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type:":"shark Reproduction","up:":[["Random Thoughts"]],"down:":null,"Yesterday:":null,"Tomorrow:":null,"alias:":"Shark reproduction","Next:":null,"Previous:":null,"title":"shark Reproduction","comments":true,"tags":["sharks","Concentrated","RandomFacts","Sharks","RandomThoughts","Reproduction"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/random-facts/shark-reproduction/","tags":["sharks","Concentrated","RandomFacts","Sharks","RandomThoughts","Reproduction"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"shark Reproduction","comments":true,"show-local-graph":false,"tags":["sharks","Concentrated","RandomFacts","Sharks","RandomThoughts","Reproduction"],"permalink":"shark Reproduction","Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
@@ -13,9 +14,9 @@ Well Two Cool Shark Facts
 2.  the blacktip shark can reproduce asexually
 
 First Off
-Obligitory [[Skull/Concentrated Brain/Random Facts/Sharks/Sharks\|Sharks]] Are Pretty Cool [[Template/Comment\|Comment]]
+Obligitory [[Skull/Concentrated Brain/Random Facts/Sharks/Sharks\|Sharks]] Are Pretty Cool [[Comment\|Comment]]
 Because They Are Awesome
-I Dont Want Both  Apenis And A Vagina, In Fact, I Want Neither Because I Think Both Absolutely Suck But I Do Love The Idea Of A Person Having Both Fully Functoinal
+I Dont Want Both Apenis And A Vagina, In Fact, I Want Neither Because I Think Both Absolutely Suck But I Do Love The Idea Of A Person Having Both Fully Functoinal
 You DOnt Usually get That In Humans Sadly And I Think Thats A Waste Of Portential
 Also The Ability To Reproduce Asexually Is Absolutely Amazing
 But Godling What about Biodiversity

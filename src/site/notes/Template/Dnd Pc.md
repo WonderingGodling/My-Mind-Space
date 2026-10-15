@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/template/dnd-pc/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/template/dnd-pc/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":"Dnd Character","Group":null,"Down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"Title":null,"Comments":true,"tags":["Tagless"],"Embedded":null,"Similarly Rooted":null,"Date Created":null,"Date Modified":null,"Session Number":null,"Icon":null,"Dead":null,"Description":null,"Lineage":null,"Gender":null,"Class":null,"Allies":null,"Enemies":null,"Player Character":null,"Character Level":null,"Dnd World":null}}
 ---
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
@@ -14,7 +14,7 @@
 
 
 ## General
- Race:  
+ Lineage:  
  Class: 
  Alignment: 
  Background: 
@@ -52,13 +52,26 @@
 ### Attacks
 
 | Attack | To-Hit | Damage |
-| ------ | ------ | ------ |
+| :----: | :----: | :----: |
 |        |        |        |
 
-### Spells
+### Spells And Abilities
 
-| Constitution |     |     |
-| ------------ | --- | --- |
+| Spellcasting | Save | Bonus |
+| :----------: | :--: | :---: |
+|              |      |       |
+
+
+|  Level  | Total | Expended | Requirements | Duration |
+| :-----: | :---: | :------: | :----------: | :------: |
+|    0    |   ∞   |    ∞     |              |          |
+| [Spell] |   <   |    <     |              |          |
+
+
+| Abilities |    <     |     <     |      <       |
+| :-------: | :------: | :-------: | :----------: |
+|   Name    | Max Uses | Uses Left | Refresh Time |
+|           |          |           |              |
 
 # Inventory
 

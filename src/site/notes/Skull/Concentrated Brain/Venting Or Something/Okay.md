@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/venting-or-something/okay/","title":"Okay?","tags":["Vent","RandomThoughts","Rambling","Okay","Emotion","Happy"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type:":"Vent Script","up":"[[Branches/Venting Or Something]]","down:":null,"Yesterday:":null,"Tomorrow:":null,"alias:":"Okay","Next:":null,"Previous:":null,"title":"Okay?","comments":false,"tags":["Vent","RandomThoughts","Rambling","Okay","Emotion","Happy"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/venting-or-something/okay/","tags":["Vent","RandomThoughts","Rambling","Okay","Emotion","Happy"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"up":"[[Branches/Venting Or Something]]","Yesterday":null,"Tomorrow":null,"Title":"Okay?","comments":false,"show-local-graph":false,"tags":["Vent","RandomThoughts","Rambling","Okay","Emotion","Happy"],"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
@@ -18,4 +19,4 @@ You Dare Even Know Of My Existence And Consider The Idea That I Might Be Okay?
 Youre Not Allowed To Enter **My** Mind Space And Insinuate A Possibility Or Correctness
 So No
 To Summarise
-Im Not Okay And For As Long Bas That Question Remains As A Whisper In The Collective Of The Human Psyche  I Hope That Nobody Else Is Either
+Im Not Okay And For As Long Bas That Question Remains As A Whisper In The Collective Of The Human Psyche I Hope That Nobody Else Is Either

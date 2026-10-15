@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/megalomania/megalomania/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Branches/Dnd Campaigns]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/megalomania/megalomania/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Branches/Dnd Campaigns]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#FFFFFF">Megalomania</span></center>
 
 
 ## Thunder Dome
 
-[[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Gods/Meta Gods/LIfe And Death/Yin (Deus Immortales)\|Yin]]  And [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Gods/Meta Gods/LIfe And Death/Yout (Momentus Mori)\|Yout]]  (The Meta Gods Of Life And Death) Have Been Tasked With Putting Together And Maintaining A Gladitorial Spectacle With The Given Candidates As The Main Focus
+[[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Gods/Meta Gods/LIfe And Death/Yin (Deus Immortales)\|Yin]] And [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Gods/Meta Gods/LIfe And Death/Yout (Momentus Mori)\|Yout]] (The Meta Gods Of Life And Death) Have Been Tasked With Putting Together And Maintaining A Gladitorial Spectacle With The Given Candidates As The Main Focus
 
 Fights Get Harder With Each Challenge And The Style Of The Fight Changes With Each Difficulty
 Per-player Milestone Leveling, Level Decreases When Player Dies, Fight Doesnt Change
@@ -54,7 +54,7 @@ Long Rests Are In The Recouperation Hall
 			 1. https://www.dandwiki.com/wiki/Ape_Zombie_(5e_Creature)
 		 2. https://5thsrd.org/gamemaster_rules/monsters/hell_hound/
 			 1. https://5thsrd.org/gamemaster_rules/monsters/wererat/
-3. (STUFF CHANGES)  One Guy
+3. (STUFF CHANGES) One Guy
 	- Forest
 		1. Just A Guy https://roll20.net/compendium/dnd5e/Knight#content
 		2.   https://5thsrd.org/gamemaster_rules/monsters/doppelganger/ (Highest Level)
@@ -89,8 +89,6 @@ Long Rests Are In The Recouperation Hall
 	- https://roll20.net/compendium/dnd5e/Hydra#content
 	- https://www.reddit.com/r/DnDHomebrew/comments/w4jypx/false_hydra_legendary_monster_stat_block/?rdt=64798
 
-
-
 ### Stuff To Bring Up
 
 
@@ -116,9 +114,9 @@ The World Will Collapse Around Roo And I Feel No Remorse
 
 
 <script src="https://utteranc.es/client.js"
-        repo="WonderingGodling/My-Mind-Space"
-        issue-term="title"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
+		repo="WonderingGodling/My-Mind-Space"
+		issue-term="title"
+		theme="preferred-color-scheme"
+		crossorigin="anonymous"
+		async>
 </script>

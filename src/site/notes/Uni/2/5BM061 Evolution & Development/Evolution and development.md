@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/uni/2/5-bm-061-evolution-and-development/evolution-and-development/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Evo Devo"],"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/uni/2/5-bm-061-evolution-and-development/evolution-and-development/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Evo Devo"],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"[[Files And Shit/Pasted image 20260130131758.png]]","Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Files And Shit/Pasted image 20260130131758.png","thumbnail":"thumbnails/resized/0ab9f9bec42fa5011dde46303e8dba7a_86cf658e.webp"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -8,14 +9,14 @@
 }
 </style>
 
-
 # <center><span style="color:#FEDCBA">Evo Devo</span></center>
 
 ## Selection
 ### What And How
-#### Adaptation and Evolution 
+#### Adaptation And Evolution
 processes of biological change over time
-#####  EVOLUTION 
+
+##### EVOLUTION
 change in the distribution of traits/characteristics in a population from one generation to the next.
 These traits/characteristics may be physical, physiological, or behavioural.
 
@@ -39,7 +40,7 @@ Micro evolution = Small evolution
 
 In Darwin’s eyes…
 - Species change slowly over time through small modifications (microevolution).
-- Given enough time, these small changes can accumulate, leading to the  formation of new species (macroevolution).
+- Given enough time, these small changes can accumulate, leading to the formation of new species (macroevolution).
 - If one original species changes in different directions in different environments, it can give rise to multiple new species (divergent evolution).
 
 Micro-evolution is key to this…
@@ -48,7 +49,7 @@ Micro-evolution is key to this…
 - There are cases where the “small” changes aren’t all that small at all, but that’s for another lecture
 - For now, to understand macroevolution, we will focus exclusively on microevolution for now.
 
-##### A non-genetic take on evolution
+##### A Non-genetic Take On Evolution
 EVOLUTION = change in the distribution of heritable traits/characteristics in a population from one generation to the next. These traits/characteristics may be physical or behavioural.
 
 Remember, a lot of people were talking about/thinking about evolution before Darwin/Wallace
@@ -74,10 +75,10 @@ wide audience and had a big impact.
 - Also, Wallace didn’t really ever agree with
 sexual selection as an idea…
 
-#### How do species change over time?
+#### How Do Species Change Over Time?
 -Today, we recognize four forces of evolution that can cause populations to
 change over time
-![Pasted image 20260130131758.png](/img/user/images/Pasted%20image%2020260130131758.png)
+![Pasted image 20260130131758.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260130131758.png)
 Darwin + Wallce were
 unfortunately dead
 by the time these
@@ -103,7 +104,8 @@ BASED ON 4 FUNDAMENTAL OBSERVABLE FACTS (DARWIN’S FOUR POSTULATES):
 3. STRUGGLE FOR EXISTANCE
 	3. Overproduction/Limited carrying capacity
 	4. Differential (non-random) survival and reproduction
-##### Variation 
+
+##### Variation
 Lots of variation for a given trait within a species/population
 - Height
 - Body shape
@@ -139,8 +141,8 @@ active
 - Average flower size
 - Etc…
 
-##### struggle for existence
-###### Overproduction/Limited carrying capacity
+##### Struggle For Existence
+###### Overproduction/Limited Carrying Capacity
 - There are often more offspring born than can or do survive to
 adulthood
 - Limited resources
@@ -148,7 +150,7 @@ adulthood
 - Not everyone survives long enough to produce babies, or,
 some babies produce fewer babies because they die earlier
 
-##### Differential (non-random) survival and reproduction
+##### Differential (Non-random) Survival And Reproduction
 - From Darwin’s (and Wallace’s) perspective, variation that exists among
 individuals results in some individuals fairing better than others!
 - The individuals who survive are not random…
@@ -210,7 +212,7 @@ generations.
 - Eventually, the trait became common within the
 population, making it the norm
 
-#### Peppered Moth (Biston betularia)
+#### Peppered Moth (Biston Betularia)
 - A common moth found
 throughout Britain and
 Ireland
@@ -248,7 +250,7 @@ bark on trees!
 LIGHT form stands
 out!
 
-##### Evolution by Natural Selection isn’t always slow!
+##### Evolution By Natural Selection Isn’t Always Slow!
 - Moths have a fast life history
 (they are born, and then
 reproduce relatively quickly)
@@ -275,7 +277,7 @@ pale Peppered Moths being far
 more common than the black
 forms.
 
-##### Peppered Moth illustrates
+##### Peppered Moth Illustrates
 . Evolution (change) operates on a population:
 - no individual moth ever changed color. Individuals do not “evolve”
 2. Natural selection operates on the individual:
@@ -284,7 +286,7 @@ forms.
 environment
 3. Variation had to be there in the first place
 
-#### Selection for survival
+#### Selection For Survival
 - This process where nature “selects” who
 survives is called natural selection
 - If a trait has evolved because it helps an
@@ -320,7 +322,7 @@ to get passed onto the next
 generation, mating is essential!
 Fitness = The ability to survive and reproduce
 Fitness = Reproductive success
-![Pasted image 20260130135851.png](/img/user/images/Pasted%20image%2020260130135851.png)
+![Pasted image 20260130135851.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260130135851.png)
 
 Sexual Selection - a mechanism proposed by Darwin to
 explain secondary sexual characteristics (sexual dimorphism)
@@ -337,7 +339,7 @@ sexual characteristics (traits that serve no survival
 purpose or the mechanical process of
 reproduction) to sexual selection
 
-##### secondary sexual characteristics
+##### Secondary Sexual Characteristics
 -Male-Female distinctions that appear at puberty
 – Distinctions between adult males and females that go
 beyond basic reproductive differences
@@ -347,7 +349,7 @@ ornamentation, behaviour
 species creates sexual dimorphism
 
 #### Sexual Dimorphism
-##### humans
+##### Humans
 Men and women (adult humans) differ in:
 - Hight
 - body build
@@ -368,16 +370,16 @@ adult female humans
 These are secondary sexual characteristics
 
 #### Terminology Necessity
-Darwin needed a second mechanism to explain these  because secondary sexual
+Darwin needed a second mechanism to explain these because secondary sexual
 characteristics are NOT easily explained by Natural Selection
 Are often not beneficial to survival
 Are often not beneficial to survival
 Are sometimes detrimental to survival
 Only appear after puberty…
 
-![Pasted image 20260130140902.png](/img/user/images/Pasted%20image%2020260130140902.png)
+![Pasted image 20260130140902.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260130140902.png)
 
-##### intrasexual selection
+##### Intrasexual Selection
 Most often = Male – Male competition
 Intra = on the inside; within
 Members of one sex [usually males] try to
@@ -395,7 +397,7 @@ Examples:
 - Can be plumage
 - Can be non-weapon based aggression
 
-###### Male weaponry
+###### Male Weaponry
 We expect that direct male-
 male competition should lead
 to the appearance of:
@@ -421,7 +423,8 @@ females
 - These males have evolved
 horns/antlers to fight off other males
 who try to depose them
-###### signalers
+
+###### Signalers
 - Some of these traits might just reveal
 something honest about the signaler
 - The Classic example is “expensive” signals
@@ -460,8 +463,8 @@ acoustic structure
 Some species have developed anatomic specializations for
 long-distance calls – An additional portion of the “filter”
 
-##### intersexual selection
-###### Female choice
+##### Intersexual Selection
+###### Female Choice
 Darwin hypothesized that some
 traits (mostly found in males)
 evolved not for the survival
@@ -483,7 +486,7 @@ acoustic courtship displays
 - Pelage/plumage
 - Skin colouration
 
-###### Fighting across sexes
+###### Fighting Across Sexes
 - For example. In many bird species, males
 have evolved ornate, decorative plumage
 - This plumage does NOT help them
@@ -516,9 +519,9 @@ thing to have!
 ###### Sexy Son Hypothesis
 Desireable Traits Will Be Passed On Which Increases Fitness
 
-### A deeper dive: Selection pressure, Costs, Benefits, Trade-offs, and Patterns
+### A Deeper Dive: Selection Pressure, Costs, Benefits, Trade-offs, And Patterns
 
-#### Selection (Natural and Sexual) at work
+#### Selection (Natural And Sexual) At Work
 - Darwin saw natural selection as an unguided process
 	- No planner, no intention… populations change because some variants leave more offspring than others.
 - Think of the traits possessed by a population of organisms as being set by a fader on a mixing desk
@@ -563,13 +566,12 @@ Perhaps this population lives in an environment with lots of small predators…
 - If those small predators are better at catching smaller birds, then that would decrease the number of small birds that live to reproduce
 - The selective pressure leading to increased body size here is predation
 
-##### Predation -> selective pressure -> body size
+##### Predation -> Selective Pressure -> Body Size
 - There are many documented cases where evolutionary biologists hypothesize that a population’s average body size is “shaped by” predation predator
 - Geographic Variation: Noticed that guppy populations differ in morphology across their range.
 - Size Differences: Specifically, it was already noticed that mature individuals were larger in some localities than others
 
-
-###### Predation, and Selection for Body size in prey animals
+###### Predation, And Selection For Body Size In Prey Animals
 - Selection for Larger Body Size in Guppies
 - At sites with Larger guppies, the most common predatory fish in the water is Rivulus hartii (Killifish)
 - Simply put, conditions at these sites were most amenable (predator wise) to the killifish
@@ -611,7 +613,8 @@ Selection for Smaller Body Size
 - Adaptation 
 	- The population has adapted to the abundance of Pike cichlid by evolving to be smaller on average
 - Evolution!!!
-#### Selection pressure -> Costs vs Benefits
+
+#### Selection Pressure -> Costs Vs Benefits
 - When considering selection pressures, you can usually frame that “pressure” in terms of costs and benefits
 - Benefit: When a trait has the effect of increasing an organism’s fitness
 - Ie., the trait helps the organism survive, reproduce, or both
@@ -650,12 +653,14 @@ In a different habitat, there was a different selective pressure that pushed gup
 
 In both these cases, we have seen a clear direction in terms of how selection affects a trait
 We call this [[Uni/2/5BM061 Evolution & Development/Evolution and development#Directional selection\|#Directional selection]], because individuals at one extreme of the trait distribution have higher fitness than others.
-#### Patterns of natural selection
-##### Three categories of selection
+
+#### Patterns Of Natural Selection
+##### Three Categories Of Selection
 1. [[Uni/2/5BM061 Evolution & Development/Evolution and development#Directional selection\|#Directional selection]]
 2. Stabilizing Selection
 3. Disruptive Selection
-###### Directional selection
+
+###### Directional Selection
 -  individuals at one extreme of the trait distribution have higher fitness than others.
 - As a result, the population mean shifts over generations toward that favoured direction
 - While variation around the trait may decrease or remain similar.
@@ -671,7 +676,7 @@ We’ve already looked at a few examples of directional selection
 - We still have directional selection, but in the opposite direction!
 - Selection pressure is still predation
 
-##### The Grant’s work Finch beak depth
+##### The Grant’s Work Finch Beak Depth
 - The drought discussed in the paper we read last week
 - This killed all the easy to get to foods, leaving only hard to get foods
 - Having only hard to access foods created a strong directional selection pressure
@@ -705,6 +710,7 @@ Predation pushing sizes larger ?
 What other selective forces (selective pressures) could keep our prey species from becoming HUGE, despite the fact that the smallest birds have lower fitness?
 Ideas?
 Predation pushing sizes larger ?
+
 ##### Why Selection Can Favor Staying Small (Despite Predation)
 - There are lots of possible selective pressures that will keep our birds on the smallish size, despite predation:
 	- Energetic costs
@@ -754,14 +760,15 @@ In an environment rich in food, there is less risk of starving (still some, but
 the risk is not as intence)
 Here, we might expect slightly larger birds as the cost of large body size is relaxed
 This process is called [[Uni/2/5BM061 Evolution & Development/Evolution and development#Stabilizing selection\|#Stabilizing selection]]
-##### Stabilizing selection
+
+##### Stabilizing Selection
 
 - In stabilizing selection, there are at least two selective pressures acting on a trait in opposite directions.
 - This results in a trait honing on at a specific “range” over several generations
 - A type of natural selection that favours some “intermediate” trait values, selecting against extremes.
 - It tends to reduce variation in a population over time.
 
-###### Food choice behaviours in shore crabs
+###### Food Choice Behaviours In Shore Crabs
 - Shore crabs (Carcinus maenas) eat bivalve muscles (a type of mollusc)
 - These molluscs come in many different sizes
 
@@ -779,7 +786,8 @@ There are also costs to eating large shellfish
 - The costs and benefits are reversed for crabs who eat small shellfish…
 - Benefit: Small shellfish have small adductor muscles, making them easy to access (you don’t burn lots of energy to gain access to the meat on the inside)
 - Cost: there is way less meat on the inside! You have to eat many many small shellfish to get anything out of it, and that requires crabs to spend more time and energy looking for more food!
-###### “happy medium”
+
+###### “Happy Medium”
 For a crab, maybe the optimum strategy is to choose shellfish that are “in the
 middle”
 - Avoid overly larger molluscs, because the energy you spend trying to open them makes them “not worth it”
@@ -806,7 +814,7 @@ It get’s in the way, and attracts predators (easy meal)
 Big tailed males are easily picked off by predators
 This creates “stabilizing selection” for a long, but not too long tail
 
-###### 2 options for group presentation papers related to this theme
+###### 2 Options For Group Presentation Papers Related To This Theme
 Fruit flies
 (Drosophila prolongata)
 Leaf footed bug
@@ -817,7 +825,7 @@ Fruit flies – Panda fly
 Leaf footed bug
 (Leptoscelis tricolor)
 
-#### Disruptive selection
+#### Disruptive Selection
 When selection has two or more “best answers”
 - A type of selection that favours two or more different trait values at different parts of the spectrum in the same population
 - There is selection against intermediate traits
@@ -854,7 +862,7 @@ Middle-sized birds are selected against and become rare.
 Conclusion:
 There are two successful strategies in this population, illustrating disruptive selection.
 
-###### What do we mean by a “strategy” in evolution?
+###### What Do We Mean By A “Strategy” In Evolution?
 - A strategy is a trait (or a set of traits) that affects an organism’s fitness (survival and reproduction)
 - It is not a conscious choice made by individuals
 - Strategies arise through natural/sexual selection acting on heritable variation
@@ -867,7 +875,7 @@ There are two successful strategies in this population, illustrating disruptive 
 	- They leave more offspring
 	- Their traits become more common in the population over generations
 
-##### Disruptive selection in action
+##### Disruptive Selection In Action
 Personality traits in the dumpling squid
 (Euprymna tasmanica)
 Yes, natural selection has shaped our personalities too!

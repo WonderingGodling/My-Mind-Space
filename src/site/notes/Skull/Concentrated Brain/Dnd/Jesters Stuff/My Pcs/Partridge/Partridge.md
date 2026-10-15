@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/jesters-stuff/my-pcs/partridge/partridge/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Branches/My PCs]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/jesters-stuff/my-pcs/partridge/partridge/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 4:31 (Sunday)","dg-note-properties":{"Type":null,"Up":"[[Branches/My PCs]]","Down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 4:31 (Sunday)","Featured":"[[Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Partridge/Files And Shit/Pasted image 20261011043010.png]]","feature":"Skull/Concentrated Brain/Dnd/Jesters Stuff/My Pcs/Partridge/Files And Shit/Pasted image 20261011043010.png","thumbnail":"thumbnails/resized/150b3557ca39e64ee6319c34b36d6e2b_86cf658e.webp"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
-
 # <center><span style="color:#2F2A2D">Partridge</span></center>
-![[38e8035eae7b4431f40aa0055307f01d.jpg\|38e8035eae7b4431f40aa0055307f01d.jpg]]
-
-
+![Pasted image 20261011043010.png](/img/user/Skull/Concentrated%20Brain/Dnd/Jesters%20Stuff/My%20Pcs/Partridge/Files%20And%20Shit/Pasted%20image%2020261011043010.png)
 
 ## General
- Race:  duergar
+ Race: duergar
  Class: Death Cleric 1
  Alignment: Chaotic Neutral
  Background: Haunted One
-
 
 ## Stats
 
@@ -46,6 +43,7 @@
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
 | Death Failes |     |     |     |
+
 ### Attacks
 
 | Attack               | To-Hit | Damage              |
@@ -57,14 +55,14 @@
 
 Bolts 40
 
- ### Spells
+### Spells
 
 | Spell Modifier | Wisdom |
 | :------------: | :----: |
 |    Spell DC    |   12   |
 |  Hit Modifier  |   4    |
-### Spell List
 
+### Spell List
 
 | Cantrip | [[Toll The Dead \|Toll The Dead ]] (Necro) | [[Word Of Radiance\|Word Of Radiance]]        | [[Chill Touch\|Chill Touch]]  (Necro) | [[Thaumaturgy\|Thaumaturgy]]     |                 |
 | ------- | -------------------------- | --------------------------- | ------------------------ | ------------------- | --------------- |
@@ -75,11 +73,13 @@ Bolts 40
 | 5th (0) |                            |                             |                          |                     |                 |
 | 6th (0) |                            |                             |                          |                     |                 |
 | 7th (0) |                            |                             |                          |                     |                 |
-# Inventory 
+
+# Inventory
 Money: 1sp
-Inventory:  a [Chest](http://dndroll.wikidot.com/items:chest), a [Crowbar](http://dndroll.wikidot.com/items:crowbar), a [Hammer](http://dndroll.wikidot.com/items:hammer), [three Wooden Stakes](http://dndroll.wikidot.com/items:wooden-stake), a holy symbol, a [Flask of Holy Water](http://dndroll.wikidot.com/items:holy-water-flask), a set of [Manacles](http://dndroll.wikidot.com/items:manacles), a [Steel Mirror](http://dndroll.wikidot.com/items:steel-mirror), a [Flask of Oil](http://dndroll.wikidot.com/items:oil-flask), 2 [Tinderbox](http://dndroll.wikidot.com/items:tinderbox), and [3 Torches](http://dndroll.wikidot.com/items:torch), A wineskin that refills when interred with a dead person for a night, common Clothes, scale mail, a light crossbow and 20 bolts, Shield, Longsword, Light Crossbow, Backpack, blanket, candle (10), tinderbox, alms box, block of incense (2), censer, vestments, rations (2), waterskin
+Inventory: a [Chest](http://dndroll.wikidot.com/items:chest), a [Crowbar](http://dndroll.wikidot.com/items:crowbar), a [Hammer](http://dndroll.wikidot.com/items:hammer), [three Wooden Stakes](http://dndroll.wikidot.com/items:wooden-stake), a holy symbol, a [Flask of Holy Water](http://dndroll.wikidot.com/items:holy-water-flask), a set of [Manacles](http://dndroll.wikidot.com/items:manacles), a [Steel Mirror](http://dndroll.wikidot.com/items:steel-mirror), a [Flask of Oil](http://dndroll.wikidot.com/items:oil-flask), 2 [Tinderbox](http://dndroll.wikidot.com/items:tinderbox), and [3 Torches](http://dndroll.wikidot.com/items:torch), A wineskin that refills when interred with a dead person for a night, common Clothes, scale mail, a light crossbow and 20 bolts, Shield, Longsword, Light Crossbow, Backpack, blanket, candle (10), tinderbox, alms box, block of incense (2), censer, vestments, rations (2), waterskin
 
 Holy Symbol
+
 # Extra
 Resistances: Poison, illusions, charmed, paralyzed.
 Advantage: against Poison, illusions, charmed, paralyzed
@@ -91,9 +91,9 @@ Conditions:
 # Proficiencies
 
 Expertise: Stone History
-Armor:  Light armor, medium armor, shields
-Weapons:  All simple And Martial weapons, battleaxe, handaxe, light hammer, warhammer
-Tool Proficiencies:  smith's tools
+Armor: Light armor, medium armor, shields
+Weapons: All simple And Martial weapons, battleaxe, handaxe, light hammer, warhammer
+Tool Proficiencies: smith's tools
 Languages: Common, Abyssal, Elvish, 
 
 Notes: 
@@ -129,4 +129,3 @@ Bought To Life By A Necromancer/Litch And Has No Memories Of Their Life Before, 
 
 
 <center><sub>Done :)</sub></center>
-

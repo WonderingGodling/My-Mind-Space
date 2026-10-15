@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"dg-permalink":"aliases","permalink":"/aliases/","title":"Names","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type:":"Name List","up:":"[[Branches/Explicitely Showcased]]","down:":null,"Yesterday:":null,"Tomorrow:":null,"alias:":["Alias","Aliases","Wondering Godling","Frigay","Hazel","Natalie","David","Celeste","Mo'thia","Fri","Ruby","Rose","Haze","Nat","Nate","Dave","Cel","Thia","Finch","Names"],"Next:":null,"Previous:":null,"title":"Names","comments":true,"tags":["Tagless"]}}
+{"Publish":true,"Permalink":"aliases","permalink":"/aliases/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:23 (Sunday)","dg-note-properties":{"Title":"Names","comments":true,"tags":["Tagless"],"Type":"Name List","Up":"[[Branches/Explicitely Showcased]]","aliases":["Alias","Aliases","Names","Call Me"],"Yesterday":null,"Tomorrow":null,"Embedded":null,"Similarly Rooted":null,"Date Created":"278·10·2026 16:25 (Monday)","Session Number":null,"Icon":"[[Explicitly Showcased/Me/Files And Shit/BleedingEye.svg]]","Date Modified":"284·10·2026 3:23 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
-
 # <span style="color:#00FFFF">Aliases!</span>
 ## <span style="color:#00FFFF">And pronouns</span>
-I Forgot That This Matters To Some [[Branches/People\|People]] And Not Everyone Knows So: I Go By Literally Any Pronouns And Most Nickames But If Im Being More Specific
+I Forgot That This Matters To Some [[Branches/People Branch\|People Branch]] And Not Everyone Knows So: I Go By Literally Any Pronouns And Most Nickames But If Im Being More Specific
 
 # Names
- 
+
 | Names You Might Know [[Explicitly Showcased/Me/Me\|Me]] By                               |                              Variations                              |
 | ------------------------------------------------------------ | :------------------------------------------------------------------: |
 | <span style="color:#00FFFF">Wondering Godling</span>         | <span style="color:#00DDDD">Godling, Wonder, Wonderling, God</span>  |
@@ -23,7 +23,6 @@ I Forgot That This Matters To Some [[Branches/People\|People]] And Not Everyone 
 | <span style="color:#00FFFF">Mo'thia</span>                   |               <span style="color:#00CCCC">Thia</span>                |
 | <span style="color:#00FFFF">Miscellaneous Short Ones:</span> |      <span style="color:#00CCCC">Finch, Ino, Demi, Bella</span>      |
 
-
 # [Pronouns (Any/All)](https://en.pronouns.page/@WonderingGodling)
 
 https://neopronounlist.carrd.co/
@@ -35,4 +34,4 @@ https://neopronounlist.carrd.co/
 
 
 
-<center><sub>Thats All  Buh Bye</sub></center>
+<center><sub>Thats All Buh Bye</sub></center>

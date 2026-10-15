@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/skull/spam/rat-desire/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Remember]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/spam/rat-desire/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Remember]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
+
 
 You're such an idiot, it's just hard to even imagine. If you give a man a fish, you feed him for a day; if you give a man a rat, you satisfy his rat desire. If a rat plays monopoly with another rat (and rats do that by the way, like lobsters), the little rat will always lose. That just shows you whose side God is really on. Then, the losing rat will yell at the big rat (because he's the big rat) which inevitably results in mass genocide - which is what a rabbit would do. 
