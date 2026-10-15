@@ -27,7 +27,7 @@
         "src/plugins/breadcrumbs/styles/trail.scss",
         "src/plugins/breadcrumbs/templates/trail.njk"
       ],
-      "order": 40
+      "order": 30
     },
     "garden-stats": {
       "repo": "oleeskild/garden-plugin-garden-stats",
@@ -82,7 +82,7 @@
       "order": 20
     },
     "dg-math": {
-      "order": 30
+      "order": 40
     },
     "dg-search": {
       "order": 50
