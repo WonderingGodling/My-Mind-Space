@@ -59,7 +59,7 @@
         "src/plugins/image-lightbox/styles/lightbox.scss",
         "src/plugins/image-lightbox/templates/lightbox.njk"
       ],
-      "order": 60
+      "order": 50
     },
     "rounded-images": {
       "repo": "oleeskild/garden-plugin-rounded-images",
@@ -85,7 +85,7 @@
       "order": 40
     },
     "dg-search": {
-      "order": 50
+      "order": 60
     },
     "dg-timestamps": {
       "order": 70
