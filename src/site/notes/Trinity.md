@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/trinity/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/trinity/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"![[Files And Shit/Trinity.jpg]]","Date Created":"200·07·2026 12:36 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Files And Shit/Trinity.jpg","thumbnail":"thumbnails/resized/6565b6499e53cc0e00676899b69e9121_86cf658e.webp"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
  float: right;
 }
 </style>
-
 
 # <center><span style="color:#FEDCBA"></span></center>
 ![Trinity.jpg](/img/user/Files%20And%20Shit/Trinity.jpg)![Trinity Token.png](/img/user/Files%20And%20Shit/Trinity%20Token.png)
@@ -29,7 +29,7 @@
 - [ ] Rewrite To Make Stronger For Them And Make [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Tari\|Tari]] Stronger Still
 
 ## General
- Race:  Human
+ Race: Human
  Class: [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Greasian Knights\|Greasian Knight]]
 considered to be Large
 
@@ -62,12 +62,14 @@ considered to be Large
 | Death Saves |     |     |     |
 | ----------- | --- | --- | --- |
 | Death Fails |     |     |     |
+
 ### Attacks
 
 | Attack          | To-Hit | Damage  |
 | --------------- | ------ | ------- |
 | Greatsword +2AC | 14     | 2d10+14 |
 | Greatsword +2AC | 14     | 2d10+14 |
+
 Two Attacks
 Holy Weapons
 
@@ -78,6 +80,7 @@ Combo: On Nat 20 Gain An Action
 ##### Bonus Actions
 Lunge: Move Up To 20ft in A Direction Without Provoking Opportunity And Make Another Attack
 defensive Break: Next Attack Lowers The Targets AC By Your Proficiency Until The End Of Their Next Turn
+
 ##### Reaction
 Battle Cry (6): A Shout That Activates ON Of The Following 
 - You gain a number of temporary hit points equal to twice your proficiency bonus.
@@ -86,15 +89,18 @@ Battle Cry (6): A Shout That Activates ON Of The Following
 #### Holy
 - You have advantage on saving throws against effects from aberrations, fiends, fey, undead and any evil aligned Creature
 - When you attack a fiend, fey, aberration, undead, or any evil aligned Creature the additional damage is radiant.
+
 # Inventory
-Modified Plate Armour 15 + Dex (Max 2)  Str Rec 20 Disadvantage On Stealth 70lb 
+Modified Plate Armour 15 + Dex (Max 2) Str Rec 20 Disadvantage On Stealth 70lb 
 	The Idea Behind It Is That With Less Armour Coverage But More Battle Sense You Can Use Yourself To Block Attacks
+
 # Extra
 Resistances: 
 Advantage: Knocked Prone
 Conditions: Frightened
   
-# Notes: 
+
+# Notes:
 These Knights Are Less Defensive And More Offensive, They Lose Their Shield To Two-Hand Their Weapon
 whenever you take damage from a melee attack, you can use your reaction to rebuke that attack. The attacker must succeed on a Dexterity saving throw. On a failed save, the attacker take damage equal to your [Heavy Strike](https://www.dandwiki.com/wiki/Dreadnaught_\(5e_Class\)#Heavy_Strike) additional damage dice and is pushed 5 feet back. On a failure, it takes half that damage and is not pushed.
 whenever you are wearing heavy armor, a critical hit against you is treated as a normal hit

@@ -1,16 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/production/the-human-centipede-first-sequence-production/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type:":"Information Depth Clarifier","up:":[["The Human Centipede (First Sequence)"]],"down:":null,"Yesterday:":null,"Tomorrow:":null,"alias:":"Human Centipede 1 Production","Next:":null,"Previous:":null}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/production/the-human-centipede-first-sequence-production/","noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 # Production
 
 ## 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/production/human-centipede-first-sequence-production-writing/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-# Human Centipede (First Sequence) Production 
+
+# Human Centipede (First Sequence) Production
 
 ## Writing
 
@@ -37,16 +39,18 @@ Six stated in the director's commentary for The Human Centipede that he has a pe
 ### Funding
 While seeking funding for the film, Six pitched the idea of a surgeon who sewed people together. He did not initially reveal that the victims would be joined mouth-to-anus, as he believed this idea would stand no chance of receiving investments. His backers felt that the idea of a surgeon sewing people together was original and Six received funding. However, they did not learn the exact details of the film until it had been completed. Six claimed that they were very happy with the finished film. Before signing on, the actors were given an outline of the storyboard rather than a complete script. They were also shown sketches of how the centipede would be formed.
 
+
 </div></div>
 
 
 ## 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Human Centipede (First Sequence) Production (Filming)/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/production/human-centipede-first-sequence-production-filming/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-# Production 
+
+# Production
 
 ## Filming
 
@@ -75,16 +79,18 @@ Many of the sound effects in The Human Centipede were created by manipulating 
 #### Toll
 Due to the discomfort of spending long periods on their hands and knees, the actors playing the centipede were given massages at the end of each day of filming. Yennie stated that she and Williams experienced jaw pain from holding a bit in their mouths during filming, but overall she did not feel that the physical side of filming had been excessively difficult.
 
+
 </div></div>
 
 
 ## 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/skull/concentrated-brain/random-facts/people-repellant/human-centipede/first-sequence/production/human-centipede-first-sequence-production-editing/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-# Human Centipede (First Sequence) Production 
+
+# Human Centipede (First Sequence) Production
 
 ## Editing
 
@@ -105,3 +111,4 @@ When Heiter's window is repaired after Lindsay's escape attempt, the use of a t
 
 
 </div></div>
+

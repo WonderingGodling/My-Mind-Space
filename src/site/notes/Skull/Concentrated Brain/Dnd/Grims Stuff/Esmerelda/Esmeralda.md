@@ -1,22 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/grims-stuff/esmerelda/esmeralda/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/grims-stuff/esmerelda/esmeralda/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/Pasted image 20250709224717.png]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"Files And Shit/Pasted image 20250709224717.png","thumbnail":"thumbnails/resized/bc478f2caf97a410bd85461af374a690_86cf658e.webp"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#32A456">Esmeralda Cyn</span></center>
 
 
 <!--⚠️Imgur upload failed, check dev console-->
-![Pasted image 20250709224717.png](/img/user/images/Pasted%20image%2020250709224717.png)
+![Pasted image 20250709224717.png](/img/user/Files%20And%20Shit/Pasted%20image%2020250709224717.png)
 
 ## General
- Race:  Old God
+ Race: Old God
  Class: Arcane Blade Dancer 20
  Alignment: Noble
  Background: Chaotic Good
-
 
 ## Stats
 
@@ -47,6 +46,7 @@
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
 | Death Fails |     |     |     |
+
 ### Attacks
 
 | Attack       | To-Hit | Damage           |
@@ -58,6 +58,7 @@
 
 | Charisma | 24  | 16  |
 | ------------ | --- | --- |
+
 #### Cantrips:
 Shocking Grasp
 Lightning Lure
@@ -69,6 +70,7 @@ Green-Flame Blade
 Toll the Dead
 Spare the Dying
 Word of Radiance
+
 #### Smites
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Solar Smite\|Solar Smite]]
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Planar Smite\|Planar Smite]]
@@ -79,23 +81,30 @@ Word of Radiance
 
 ### Closing Number
 An Impossible Rubicks-Style Cube, Four Squares Across, Four Squares High, And Four Squares Deep. The With Every Colour On It. Each Side Is Numbered And If Completed Corresponds To One Of The Levels (There Seems To Be More Than Six Sides To The Cube But)
-#### Side One (Green): 
+
+#### Side One (Green):
 This Side Allows An Item Can Be Consumed And Its Properties Transfered To Something That Is Uniquely Esmerelda's
-#### Side Two (Teal): 
+
+#### Side Two (Teal):
 This Side Causes A Stage To Be Placed Somewhere Of Gems Choice With Her On It, Places Chairs Somewhere Facing The Stage With People Of Your Choice On It
-#### Side Three (Magenta): 
+
+#### Side Three (Magenta):
 Something About This Side Makes People Who Look At It Feel Weird, Gem Gets Advantage On All Saves For Having Unleashed It
-#### Side Four (Pink): 
+
+#### Side Four (Pink):
 When Used Correctly This Side Lets Gem Traverse Between Different Planes Safely, Shaping Reality Around Her
-#### Side Five (Black): 
+
+#### Side Five (Black):
 Like A Beacon, This Side Forces Creatures To Only Pay Attention To Gem
-#### Side Six (Gold): 
+
+#### Side Six (Gold):
 Being Mostly Complete The Show **Must** Go On. Gem Delivers A Perfect Performance (Unless Roll A One Succeed To Some Degree)
 
 # Inventory
 
 Money: 160+
 Inventory: Fan-Knife, Arcane Blade, Three Teacups, A Pocket Wizard, https://dnd5e.wikidot.com/wondrous-items:gurts-greataxe, https://dnd5e.wikidot.com/wondrous-items:magicians-judge., https://dnd5e.wikidot.com/wondrous-items:ravens-slumber
+
 # Extra
 Immunities: 
 Resistances: radiant damage
@@ -112,7 +121,7 @@ Weapons: Simple weapons, martial weapons
 Tools: Dragonchess, Piano
 Languages: common, celestial, Draconic
 
-# Notes: 
+# Notes:
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Position of Privilege\|Position of Privilege]]
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Divine burst\|Divine burst]]
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Celestial resistance\|Celestial resistance]]
@@ -156,7 +165,9 @@ Languages: common, celestial, Draconic
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Performer (UA)\|Performer (UA)]]
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#Acrobat UA\|Acrobat UA]]
 [[Skull/Concentrated Brain/Dnd/Grims Stuff/Esmerelda/Esmeralda#\|Esmeralda#]]
+
 # Arcane Blade Properties
+
 | Attack       | To-Hit | Damage           |
 | ------------ | ------ | ---------------- |
 | Arcane Blade | +16    | 1d12+25(16+9) Slashing |
@@ -270,8 +281,7 @@ Tools:
 - Horse Armour
 - Drawn Vehicles
 
-
-# Characteristics 
+# Characteristics
 62 Years Old (Looks In Her Mid 30s), Three Foot Tall, Unnatural Looking White Skin, Dark Grey Hair That Has Been Blackening As She Got Older, Maroon Eyes That Seem To Shift Into Red When She Gets Mad At Someone Or Something, 
 
 # Backstory
@@ -333,29 +343,35 @@ Tools:
 - Increase your Charisma score by 1, to a maximum of 20.
 - You gain proficiency in the Performance skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.
 - While performing, you can try to distract one humanoid you can see who can see and hear you. Make a Charisma (Performance) check contested by the humanoid's Wisdom (Insight) check. If your check succeeds, you grab the humanoid's attention enough that it makes Wisdom (Perception) and Intelligence (Investigation) checks with disadvantage until you stop performing.
+
 ### Mage Slayer
 - When a creature within 5 feet of you casts a spell, you can use your reaction to make a melee weapon attack against that creature.
 - When you damage a creature that is concentrating on a spell, that creature has disadvantage on the saving throw it makes to maintain its concentration
 - You have advantage on saving throws against spells cast by creatures within 5 feet of you.
+
 ### Mounted Combatant
 - You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount.
 - You can force an attack targeted at your mount to target you instead.
 - If your mount is subjected to an effect that allows it to make Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+
 ### Slasher
 - Increase your Strength or Dexterity by 1, to a maximum of 20.
 - Once per turn when you hit a creature with an attack that deals slashing damage, you can reduce the speed of the target by 10 feet until the start of your next turn.
 - When you score a critical hit that deals slashing damage to a creature, you grievously wound it. Until the start of your next turn, the target has disadvantage on all attack rolls.
-### Blessing of Protection
+
+### Blessing Of Protection
 
 You gain a +1 bonus to AC and saving throws.
-### Boon of Truesight
+
+### Boon Of Truesight
 
 You have truesight out to a range of 60 feet.
 
-### Boon of Undetectability
+### Boon Of Undetectability
 
 You gain a +10 bonus to Dexterity (Stealth) checks, and you can't be detected or targeted by divination magic, including scrying sensors.
-### Boon of the Warmage
+
+### Boon Of The Warmage
 
 - You may add your spellcasting ability modifier instead of strength or dexterity to attack rolls made with weapons.
 - You may add your spellcasting ability modifier to damage rolls of weapon attacks in addition to your strength or dexterity modifier.
@@ -495,7 +511,7 @@ Starting at 20th level, your Dexterity and Charisma increase by 4, to a maximum 
 
 In addition, at the start of your turn if you have 0 combo points, you gain 1 combo point.
 
-### Dance of the Warrior
+### Dance Of The Warrior
 
 Those who seek to learn the warrior's dance follow the path of combat. These arcane blade dancers use magic as weapon, but secondary to their prowess with the swords. They use the dance steps not only to weave magic, but as a way of fighting in an unpredictable manner.
 
@@ -573,27 +589,27 @@ When you hit a creature with this smite, the creature needs to succeed on a Cons
 
 #### Blade Powers
 
-##### Blade of Sharpening
+##### Blade Of Sharpening
 
 You have +1 to attack and damage rolls with your Arcane Blade.
 
-##### Blade of the Archer
+##### Blade Of The Archer
 
 You can shape your Arcane Blade as a ranged weapon and bond with ranged weapons.
 
-##### Blade of the Conjurer
+##### Blade Of The Conjurer
 
 You can add your Dexterity modifier to damage rolls of cantrips when wielding the Arcane Blade.
 
-##### Blade of Torpor
+##### Blade Of Torpor
 
 Once on each of your turns when you hit a creature with your Arcane Blade, you can reduce that creature’s speed by 10 feet until the end of your next turn.
 
-##### Blade of the Ram
+##### Blade Of The Ram
 
 When you hit a creature with your Arcane Blade, you can push the creature up to 10 feet away from you in a straight line.
 
-##### Blade of the Hunter
+##### Blade Of The Hunter
 
 When you hit a creature with your Arcane Blade, you can cast _hunter's mark_ as a bonus action. Once you cast this spell, you can't do it again until you finish a long rest.
 
@@ -607,7 +623,7 @@ While not wearing armor, you gain +1 to your AC.
 
 While not wearing armor, you gain proficiency in the Persuasion and Performance skills. In addition, you can use your Dexterity, instead of Charisma, for checks with the Performance skill.
 
-##### Flowing With the Weave
+##### Flowing With The Weave
 
 While not wearing armor, you can cast _detect magic_ at will. When you cast detect magic using this ability, you sense the weave instead of seeing the glow, and can detect the magical auras without relying on sight.
 
@@ -615,35 +631,38 @@ While not wearing armor, you can cast _detect magic_ at will. When you cast dete
 
 While not wearing armor, you don't need to sleep, and can't be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity. You can keep your armor active during such an awake rest.
 
-###### Step of the Blind Waltz
+###### Step Of The Blind Waltz
 
 While not wearing armor, you gain blindsight up to 10 feet.
 
-##### Dance of the Magical Absorption
+##### Dance Of The Magical Absorption
 
 While not wearing armor, you can absorb the magic contained inside a suit of armor. You can have the magic of only one armor at the same time, and absorbing another will make you lose the first one.
 
 Doing so requires attunement, even if the armor normally doesnt. You must spend 1 hour touching the armor to absorb its power. If you lose the power of the absorbed magical armor, the armor recover it at the same time.
 
-##### Dance of Terror and Awe
+##### Dance Of Terror And Awe
 
 While not wearing armor, you can replace an attack to try to charm or frighten a creature. Choose a target able to see you within 30 feet. That creature must succeed on a saving throw against your spell save DC, or is either charmed or frightened (your choice) until the end of your next turn. The charmed creature has its movement speed reduced to 0 and doesn't take actions for the duration, admiring you in awe or cowering in fear.
 
 Once a creature succeeds on the saving throw against this effect, it is immune to it for the next 24 hours.
 
-##### Dance of Comprehension
+##### Dance Of Comprehension
 
 While not wearing armor, you can cast _comprehend languages_ at will
 
-##### Dance of Vigor
+##### Dance Of Vigor
 
 While not wearing armor, You can cast False Life on yourself at will as a 1st-level spell, without expending a spell slot or material components.
 
-### Glimmer of divinity
+### Glimmer Of Divinity
 you gain three cleric cantrips, charisma is your spellcasting modifier for them 
-### Celestial resistance
+
+### Celestial Resistance
 you are resistant to radiant damage and deal damage equal to your charisma modifier to any creature or structure that deals radiant damage to you 
-### Divine burst
+
+### Divine Burst
 you gain a channel divinity from a cleric domain of your choice (this domain would of been your prior one) you may use this channel divinity once per long rest but once you do so you gain two stacks of exhaustion 
-### Position of Privilege 
+
+### Position Of Privilege
 Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to.

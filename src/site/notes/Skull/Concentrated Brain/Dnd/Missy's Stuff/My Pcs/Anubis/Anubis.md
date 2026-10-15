@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/anubis/anubis/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/anubis/anubis/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#A25436"> Anubis</span></center>
 
@@ -11,11 +11,10 @@
 
 
 ## General
- Race:  [[Reborn\|Reborn]] [[Githyanki\|Githyanki]]
+ Race: [[Reborn\|Reborn]] [[Githyanki\|Githyanki]]
  Class: [[Path of the ascended\|Path of the ascended]] [[Skull/Concentrated Brain/Dnd/Jesters Stuff/Mist Walker\|Skull/Concentrated Brain/Dnd/Jesters Stuff/Mist Walker]] 4
  Alignment: True Neutral 
  Background: [[Rakdos Cultist\|Rakdos Cultist]]
-
 
 ## Stats
 
@@ -46,6 +45,7 @@
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
 | Death Fails |     |     |     |
+
 ### Attacks
 
 | Attack | To-Hit | Damage |
@@ -64,7 +64,7 @@ Mist points: 4/4
 [[Mage hand\|Mage hand]] 30 
 [[Fire Bolt\|Fire Bolt]] 120 
 [[Vicious Mockery\|Vicious Mockery]] 60 
-[[Poison Spray\|Poison Spray]]  10
+[[Poison Spray\|Poison Spray]] 10
 
 [[Magic missile\|Magic missile]] 120
 [[Silvery barbs\|Silvery barbs]] 60 R
@@ -84,6 +84,7 @@ Mist points: 4/4
 [[Fear\|Fear]] 30
 [[Haste\|Haste]] 30
 [[Fireball\|Fireball]] 150
+
 # Inventory
 
 Money: 10, a mix of Azorius and Boros 1-zino coins
@@ -98,12 +99,12 @@ Conditions:
 
 # Proficiencies
 		
-Armor:  Light Armor
+Armor: Light Armor
 Weapons: Simple Weapons, Shortswords, Scimitars, Rapiers, Whips, Longbows, hand crossbow
 Tools: Poisoner's kit, viol
 Languages: Common, Gith, Abyssal
 
-# Notes: 
+# Notes:
 
 2 rubies, 2 saphires 2 something and 2 black diamonds, 500 creds each
 11, 000 creds
@@ -111,7 +112,7 @@ ring of djin summoning
 plate armour +3
 Potion of storm giant strength
 
-# Characteristics 
+# Characteristics
 Fearsome Reputation
 Rakdos Guild Spells
 	Fire Bolt, Vicious Mockery, Burning Hands, Dissonant Whispers, Hellish Rebuke, Crown of Madness, Enthrall, Flaming Sphere

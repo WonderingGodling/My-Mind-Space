@@ -1,25 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/wrighth-stuff/wrighth-index/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/wrighth-stuff/wrighth-index/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"![[Wrighth Stuff/Files And Shit/Pasted image 20260604200411.png]]","Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Wrighth Stuff/Files And Shit/Pasted image 20260604200411.png","thumbnail":"thumbnails/resized/ceb1157244df75b64b1fd2794838a063_86cf658e.webp"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
-
 # <center><span style="color:#FFFFFF">Wrighth Index</span></center>
 Full Index
-
 
 ## Fire Resistance (On Aparrel)
 When Donned Bless Thwart Flame Stays (Example Says Keeps)
 ![Pasted image 20260604200411.png](/img/user/Wrighth%20Stuff/Files%20And%20Shit/Pasted%20image%2020260604200411.png)
 Sayts Maylf Torwth Selb Dnod New
 Bless = Sleb
+
 ## Wrighth 2, Group Revival (Status)
 Link, When Killed Break Link, When Links Void Live, Link
 Link = Kiln
 Links = Lynx
 Killed = Licked
 Live = Vil
+
 ## Wrighth 3, Wright Vision (Augmentation)
 When Donned Bid Viewed Wright Aired
 Bid = Dib

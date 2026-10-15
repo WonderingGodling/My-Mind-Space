@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/final-sequence/the-human-centipede-final-sequence/","title":"The Human Centipede (Final Sequence)","tags":["HumanCentipede"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type:":"Information Depth Clarifier","up:":[["Human Centipede"]],"down:":null,"Yesterday:":null,"Tomorrow:":null,"alias:":null,"Next:":null,"Previous:":[["The Human Centipede (Full Sequence)"]],"title":"The Human Centipede (Final Sequence)","comments":false,"tags":["HumanCentipede"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/random-facts/people-repellant/human-centipede/final-sequence/the-human-centipede-final-sequence/","tags":["HumanCentipede"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"The Human Centipede (Final Sequence)","comments":false,"show-local-graph":false,"tags":["HumanCentipede"],"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
+
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
+
 # Final Sequence
 
 

@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/explicitly-showcased/my-general-outlook-on-this/","title":"Constant Comment","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type:":"Brain Dump","down:":null,"Yesterday:":null,"Tomorrow:":null,"Next:":null,"Previous:":null,"title":"Constant Comment","comments":true,"tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"aliases":["Constant Commment","Rambles","Mega Note","Thoughts","I Dont Know What Im Saying"],"up":"[[Branches/Random Thoughts]]","Type":null,"down":null,"Yesterday":null,"Tomorrow":null,"Next":null,"Previous":null}}
+{"Publish":true,"permalink":"/explicitly-showcased/my-general-outlook-on-this/","tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Title":"Constant Comment","comments":true,"tags":["RandomThoughts","BrainDump","ThisMeansNothing","Tagless","ConstantComment","Rambles","MegaNote","Thoughts","IDontKnowWhatImSaying","Skull","ConcentrateddBrain"],"aliases":["Constant Commment","Rambles","Mega Note","Thoughts","I Dont Know What Im Saying"],"Up":"[[Branches/Random Thoughts]]","Yesterday":null,"Tomorrow":null,"Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
+
 
 Using a named example of each, Compare and Contrast Prokaryotic and Eukaryotic  
 cell structure# My General Outlook On This
 
-#### ‫‬‭‮‪‫‬‭‮҉   ‫‬‭‮҉‫‬‭‮‪‫‬‭‮ My General Outlook On This
+#### ‫‬‭‮‪‫‬‭‮҉ ‫‬‭‮҉‫‬‭‮‪‫‬‭‮ My General Outlook On This
 
 <div><iframe allowfullscreen="" width="100%" height="400px" frameborder="1" name="myiFrame" style="border:1px #000 solid" src="https://plaza.one/" sandbox="allow-forms allow-modals allow-presentation allow-popups allow-same-origin allow-scripts"></iframe></div>
 
@@ -14,7 +15,7 @@ cell structure# My General Outlook On This
 Ive Been Working On This For A Bit Now And Honestly I Dont Think Its Going To Have Too Big Of An Impact On My Life But The Thing Is I Need [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]
 Itll Be Fun To Document And Share Stuff And I Guess Have An Outlet For My [[Skull/Concentrated Brain/Random Thoughts/Thought Emporium Or Whatever\|Thought Emporium Or Whatever]] And Stuff That Extends Past A Piece Of Paper Confined In My Bedroom But Other Than That This Is Just Gonna Be [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]] Else That Gets Added To The Interest Graveyard
 
-Over Time (Knowing [[Explicitly Showcased/Me/Me\|Me]]) Im Going To Forget I Have This Or That I Can Speak To [[Branches/People\|People]] Indirectly And Go Back To Being Unsatisfied With My Indirect Communication But Until Then Im Going To Keep Updating This And Adding My [[Skull/Concentrated Brain/Random Thoughts/Thought Emporium Or Whatever\|Thought Emporium Or Whatever]] And Links In Places That Make Sense To [[Explicitly Showcased/Me/Me\|Me]]
+Over Time (Knowing [[Explicitly Showcased/Me/Me\|Me]]) Im Going To Forget I Have This Or That I Can Speak To [[Branches/People Branch\|People Branch]] Indirectly And Go Back To Being Unsatisfied With My Indirect Communication But Until Then Im Going To Keep Updating This And Adding My [[Skull/Concentrated Brain/Random Thoughts/Thought Emporium Or Whatever\|Thought Emporium Or Whatever]] And Links In Places That Make Sense To [[Explicitly Showcased/Me/Me\|Me]]
 
 Also Planning On Adding A [[Explicitly Showcased/Guestbook\|Guestbook]] Or [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Something\|Something]]
 

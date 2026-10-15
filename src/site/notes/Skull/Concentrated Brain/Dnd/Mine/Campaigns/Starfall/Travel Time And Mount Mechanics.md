@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/travel-time-and-mount-mechanics/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Starfall Mechanics]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/travel-time-and-mount-mechanics/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Starfall Mechanics]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Date Created":"278·10·2026 21:27 (Monday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -24,6 +25,7 @@ DpH = Days Per Hexagon
 |        Horse        |     1      |      1       |      2      |       1        |        3        |         3          |
 | Carriage (2 Horses) |  1dph +1   |   1dph +2    |   2dph +2   |    1dph +1     |     3dph +1     |         2          |
 |         Car         |    1/2     |      1       |      1      |      1/2       |        1        |         1          |
+
 > [!DANGER] **Hasty** Map Traversal 
 <sub>DC 13 Survival (Or Likewise) Every Hexagon Or Speed Will Be Halved</sub>
 
@@ -60,7 +62,7 @@ DpH = Days Per Hexagon
 |   Saddle, Military   |          20           |          2          |
 |      Saddlebags      |           8           |          4          |
 
-# Book Info on Wilderness Travel
+# Book Info On Wilderness Travel
 
 **Mountain Travel.** At the end of each hour, the character or NPC leading the expedition must make a DC 15 Wisdom (Survival) check. On a successful check, the hour’s journey was not hindered by weather or terrain. On a failed check, the party comes to an impasse and must backtrack, which costs an extra hour of travel. If the check fails by 5 or more, the party is caught in an avalanche as it backtracks. The avalanche starts 2d6 x 100 feet above the characters (see “Avalanches,” page 10).
 
@@ -68,6 +70,6 @@ DpH = Days Per Hexagon
 
 - **Endurance and Exhaustion.** At the given endurance duration, if a short rest is not taken, then mounts and characters on foot suffer one level of exhaustion.
 - **Hauling:**
-    - **Axe Beaks.** Axe Beaks are not known to haul sleds nor wagons due to their fickle and fiery nature. Thus they are most commonly used for a single rider and small cargo. For reference, an axe beak's carrying capacity is 420 lbs. Theoretically, a hauling axe beak could pull up to 2100 lbs.
-    - **Dogsleds.** While the maximum hauling capacity for dogs scales with the number of dogs, the given speeds in this table are for an assumed load of up to 720 lbs. This load covers the maximum hauling capacity of two dogs and constitutes the musher and light cargo or a couple passengers. If hauling a greater load than 720 lbs, then use the speed and endurance statistics for a dogsled team with two fewer dogs.
+	- **Axe Beaks.** Axe Beaks are not known to haul sleds nor wagons due to their fickle and fiery nature. Thus they are most commonly used for a single rider and small cargo. For reference, an axe beak's carrying capacity is 420 lbs. Theoretically, a hauling axe beak could pull up to 2100 lbs.
+	- **Dogsleds.** While the maximum hauling capacity for dogs scales with the number of dogs, the given speeds in this table are for an assumed load of up to 720 lbs. This load covers the maximum hauling capacity of two dogs and constitutes the musher and light cargo or a couple passengers. If hauling a greater load than 720 lbs, then use the speed and endurance statistics for a dogsled team with two fewer dogs.
 - **Mounted combat.** The agility of an Axe Beak lends itself to mounted combat, as if the rider was mounted on a riding horse. The dogsled is less flexible in this regard, while ranged attacks may be made during a chase, the lack of maneuverability and the demands of coordinating a sled team makes it prohibitive to use the dogsled as a combat mount.

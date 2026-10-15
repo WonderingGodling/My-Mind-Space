@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"Basic Plant Biology","permalink":"/Basic Plant Biology/","title":"Plants <3","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Uni Db.base]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["4AB026"],"title":"Plants <3","comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/uni/1/4-ab-026-introduction-to-plant-biology/plant-biology/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Uni Db.base]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["4AB026"],"Title":"Plants <3","comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":"Basic Plant Biology","Featured":"[[Files And Shit/external/4558922900b8db864a5963e841f518ae.png]]","Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"thumbnails/external/4558922900b8db864a5963e841f518ae.png","thumbnail":"thumbnails/resized/4346fd51b0c0ccab653d9b491a7f8405_86cf658e.webp"}}
 ---
+
 
  <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -8,10 +9,9 @@
 }
 </style>
 
-
 # <center><span style="color:#4AB026">Introduction To Plant Kingdom </span></center>
 
-## Week 1 Introduction to the Plant Kingdom
+## Week 1 Introduction To The Plant Kingdom
 ### Living Organisms
 
 5 Groups:
@@ -32,19 +32,19 @@ Can Also Be Grouped By:
 - [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology#Phytosociological\|#Phytosociological]] ([[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology#National Vegetation Classification\|#National Vegetation Classification]])
 - Horticultural communities (Habitat/botanical grouping)
 
-### Differentiating Features Of chlorophyllic Plants
+### Differentiating Features Of Chlorophyllic Plants
 [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology#Cellular Organisation\|Cellular Organisation]]
 [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology#Pigments\|Photosynthetic Pigments ]]
 [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology#Other\|Other]]
 
-#### Cellular Organisation 
+#### Cellular Organisation
 
 | Prokaryotic | <b>Eukaryotic</b> |
 |:-----------:|:----------:|
 | No membrane-bound organelles | Membrane-bound nuclei, chloroplasts & mitochondria |
 | Division Cyanophyta or Cyanobacteria| ALL other divisions |
 
-#### Pigments 
+#### Pigments
 
 3 classes of pigments
 
@@ -70,7 +70,7 @@ Using the characters described above, most classifications recognise ~14 major g
  <span style="color:rgb(84, 204, 13)">Chlorophyta</span> Is The Only Important One
 Focusing On Flowering And Agricultural Plants
 
-### Division CHLOROPHYTA (the green algae)
+### Division CHLOROPHYTA (The Green Algae)
 
 
 - Eukaryotic cell structure 
@@ -171,7 +171,7 @@ generalized plant cell type
 	- Fibres
 	- Sclereids
 
-###### Sieve tube cells
+###### Sieve Tube Cells
 - Characteristic of [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology#Phloem\|phloem]] tissue of angiosperms 
 - Fairly small, rounded, have a thin unlignified wall 
 - Difficult to distinguish from parenchyma cells in T.S. section 
@@ -198,7 +198,7 @@ Dense protoplasmic contents
 	- Companion cells
 	- Fibres
 
-##### Xylem 
+##### Xylem
 
 - Dead cells 
 - Empty of cytoplasm 
@@ -207,7 +207,7 @@ Dense protoplasmic contents
 	- Vessel elements 
 	- Tracheids
 
-##### Anatomy of dicotyledonous stems
+##### Anatomy Of Dicotyledonous Stems
 - Contains a ring of vascular bundles 
 	- Contain [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology#xylem\|xylem]] (inside) 
 	- [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology#Phloem\|Phloem]] (outside) 
@@ -218,7 +218,7 @@ Dense protoplasmic contents
 - Pith – internal to bundles
 - Epidermis – outer layer
 
-###### Secondary thickening
+###### Secondary Thickening
 
 - Starts to form at the end of the 1st year of growth 
 - Cambium joins with newly formed interfascicular 
@@ -233,7 +233,7 @@ Dense protoplasmic contents
 	- Produces phelloderm on the inside (2ndry cortex) 
 	- Impervious to air, but air enters via lenticels
 
-##### Anatomy of monocotyledonous stems 
+##### Anatomy Of Monocotyledonous Stems
 - Vascular bundles are scattered (rather than in a ring) 
 - No cambium in the vascular bundles 
 - Secondary thickening does not occur (only in a few spp.)
@@ -250,23 +250,23 @@ Dense protoplasmic contents
 - No chlorophyll 
 - Storage of starch could be a feature
 
-#### Function of Roots 
+#### Function Of Roots
 - Anchorage 
 - Storage of food 
 - Transport of water 
 
-### Anatomy of the leaf
+### Anatomy Of The Leaf
 - Thin upper epidermis covered with a waxy cuticle 
 	- Below is the mesophyll tissue 
 - Palisade [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology#Parenchyma\|parenchyma]]
 - Spongy mesophyll 
 
-#### Leaf structure
+#### Leaf Structure
 - Water & minerals arrive from the vascular bundles (vein – [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology#xylem\|xylem]] & [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology#Phloem\|phloem]], continuous with stem) 
 	- [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology#xylem\|xylem]] is on the adaxial (upper) side of the leaf 
 - [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology#xylem\|xylem]] & [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology#Phloem\|phloem]] of leaf bundles – like that in the stem
 
-##### Pea - leaf stomata 
+##### Pea - Leaf Stomata
 - regulates exchange of water vapour, oxygen and carbon dioxide 
 - Guard cells cover the stoma opening
 
@@ -278,19 +278,17 @@ Dense protoplasmic contents
 | 3 pores in pollen | 1 pore in pollen |
 | Bundled vasculature | Dispersed vasculature |
 
-
-## week 3 Plant Diversity I & II
+## Week 3 Plant Diversity I & II
 
 ### Plant Diversity I - Seed Plants
 
-### Spores v. Seeds
+### Spores V. Seeds
 Spore – most important reproductive & dispersal unit of Bryophyta (haploid)
 Seed- a reproductive structure
 Composed of a protected embryo plant
 Embryo– develops from a fertilised oosphere of a gametophyte which is at all times structurally attached to, and physiologically dependent upon, a sporophyte
 
-### 2 types of seed bearing plants
-
+### 2 Types Of Seed Bearing Plants
 
 |  Gymnosperms  | Angiosperms |
 |:-------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|
@@ -301,7 +299,7 @@ Embryo– develops from a fertilised oosphere of a gametophyte which is at all t
 |  Needle like leaves  | Deciduous – lose all leaves once per year; remain dormant in the winter |
 | Evergreen, leaves are continually replaced |   |
 
-### Progressive changes in the life cycle of land plants
+### Progressive Changes In The Life Cycle Of Land Plants
 - Dominant plant from gametophyte to sporophyte
 - From single gametophyte plant
 	- To small male gametophyte
@@ -310,7 +308,7 @@ Embryo– develops from a fertilised oosphere of a gametophyte which is at all t
 	- Microspores producing male gametophyte
 	- Megaspores producing female gametophyte
 
-###### <button type="button" class="collapsible">(Unimportant, Ignore)</button> 
+###### <button type="button" class="collapsible">(Unimportant, Ignore)</button>
 <div class="content"> <p>
 - Development of gametophyte within the spores before dispersal
 - Retention of female megaspore in the megasporangium & development of the female gametophyte
@@ -319,19 +317,19 @@ Embryo– develops from a fertilised oosphere of a gametophyte which is at all t
 	- N.B. a carpel = ovary, style & stigma
 </p> </div>
 
-### Life Cycle of Seed Plants
+### Life Cycle Of Seed Plants
 - Seed plants (spermatophytes) – show the phenomenon of alternation of generations 
 - BUT the sporophyte produces 2 types of spores: 
 	- Microspores 
 	- Megaspores
 
-#### Sporophyte generation 
+#### Sporophyte Generation
 - Sporophyte produces 2 types of spores (heterosporous) 
 - Megasporangium – undergoes meiosis to produce megaspores (female gametophyte) 
 - Microsporangium – undergoes meiosis to produce haploid microspores, germinate to produce male gametophyte (pollen) 
 - Many gymnosperms use wind for pollination and seed dispersal
 
-### Spore types in seed plants
+### Spore Types In Seed Plants
 
 Microspores (pollen grains)
 - Produced in the microsporangia (anthers)
@@ -344,14 +342,14 @@ Megaspores (ovules)
 - Produced within each megasporangium (embryo sac) 
 - Produces a vestigial female gametophyte & a single female sex cell
 
-### Seed habit
+### Seed Habit
 Many advantages over the life cycle of lower plants
 - Development of pollen grains which are transferrable by wind or animals between plants 
 - Female gametophyte is retained on the sporophyte where it is protected & nourished
 - After fertilisation the whole gametophyte & the surrounding integument becomes the seed 
 - In Angiosperms (as distinct from Gymnosperms) the seeds are surrounded by a modified ovary wall, the carpel, which often plays an important part in the successful dispersal of the seed
 
-### Seed plants - Gymnospermae
+### Seed Plants - Gymnospermae
 - Have naked seeds – no carpel is present 
 - No vessels in their [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology#xylem\|xylem]] tissue 
 - Major surviving group is the Coniferae 
@@ -360,12 +358,11 @@ Many advantages over the life cycle of lower plants
 - Double fertilisation takes place & an endosperm tissue forms within the ovule 
 - Vessels are present
 
-### Seed plants - Angiospermae 
+### Seed Plants - Angiospermae
 - Have seeds which are enclosed in the carpel – which becomes modified to aid dispersion 
 - Double fertilisation takes place & an endosperm tissue forms within the ovule
 
-
-### <button type="button" class="collapsible">Gymnosperms (Ignorable)</button> 
+### <button type="button" class="collapsible">Gymnosperms (Ignorable)</button>
 <div class="content"> 
  <p>
 
@@ -402,7 +399,7 @@ Many advantages over the life cycle of lower plants
 | Originated from seed ferns | Originated from Cordaitales |
 | Limited tropical & sub-tropical distribution | Still successful. More or less global distribution |
 
-### Significance of gymnosperms
+### Significance Of Gymnosperms
 
 Ecological importance
 - Provide food & habitat for wildlife 
@@ -418,7 +415,7 @@ Economic & commercial importance
 - Undergo an alternation of generations in which the diploid, or sporophyte, generation is dominant 
 - The haploid, gametophyte generation is exceedingly reduced & vestigial (more so than in the gymnosperms)
 
-#### Angiosperm reproduction
+#### Angiosperm Reproduction
 - Starts with the development of the anther & the carpel in the flower 
 - Meiosis gives rise to microspores & megaspores – which germinate to produce reduced gametophyte plants 
 - Give rise to gametes which fuse & the resulting zygote has divided to form the new embryo sporophyte plant
@@ -434,12 +431,12 @@ Economic & commercial importance
 - Megaspore nucleus divides mitotically to give 8 nuclei 
 	- Gives rise to the 8 nucleate embryo-sac
 
-### Pollination 
+### Pollination
 - Involves the transfer of pollen from anther to stigma 
 - self-pollination is not uncommon, but some floral mechanisms encourage transfer between individual plants (cross pollination)
 	- Hybrid vigor
 
-### Fertilisation 
+### Fertilisation
 - When in contact with the stigma the pollen grain germinates 
 - Pollen tube grows from the stigma down through the style into the ovary 
 - Ovule is penetrated via the micropyle, then the nucellus & 
@@ -451,7 +448,7 @@ finally the embryo sac
 	- Provides nutrition for the embryo & young plant 
 	- Often filled with food materials – carbs, fats & proteins present in labile form
 
-### Plant Diversity II - Aquatic macrophytes (Unimportant, Ignore)
+### Plant Diversity II - Aquatic Macrophytes (Unimportant, Ignore)
 
 ### Aquatic Plant Communities
 - Microphytes - consist of microscopic organisms like algae 
@@ -462,7 +459,7 @@ finally the embryo sac
 - May form large growths on the pond 
 weeds
 
-### Definition 
+### Definition
  - “macro” - big, “phytes” – plants, or “hydro” phytes 
 - Associated with open water or wetlands 
 - Tolerate, or prefer, having water around them or their parts 
@@ -472,7 +469,7 @@ weeds
 - May extend right across the water 
 - Or limited to the fringe or littoral region
 
-### Importance of Aquatic Plants 
+### Importance Of Aquatic Plants
 - Modify the habitat 
 - Provide shelter and a habitat to animals 
 - Source of food 
@@ -482,14 +479,14 @@ weeds
 - Plant diversity ensures animal diversity 
 - Aesthetically pleasing
 
-### Simple classification 
+### Simple Classification
 - Leaves & stems within, or floating, on water 
 - Upper leaves, or shoots, able to grow above the water 
 - Lower leaves able to grow submerged 
 - Bank plants growing above normal water level 
 - Photosynthetically active parts are permanently, or submerged in freshwater, or float on the water surface or emerge above it
 
-### Features 
+### Features
 - Respond to changes in water quality, to water level fluctuations & other environmental factors 
 - Natural component of lake ecosystems 
 - Provide habitat & food for animals 
@@ -501,18 +498,18 @@ weeds
 - Concentrate nutrients & release oxygen 
 - With increasing nutrient status their development causes its own problems (become weeds)
 
-#### 4 General Macrophyte Categories 
+#### 4 General Macrophyte Categories
 - Emergent plants – generally grow on submerged substrate with the majority of the plant growing in air, 
 - Floating leaved – leaves floating on the surface, but attached by long stems to the substrate, 
 - Submerged – plant is predominantly submerged but may have emergent reproductive structures, 
 - Free floating – grow completely unattached to substrate and generally grow at or near to the surface,
 
-#### Emergent plants 
+#### Emergent Plants
 - [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology#The root\|root]]ed in muddy soil or shallow water 
 - Close to the shore 
 - Send up tough, rigid stalks and leaves (to 6m), e.g. Phragmites australis, Typha latifolia, Sparganium erectum
 
-#### Floating-leaf plants 
+#### Floating-leaf Plants
 - [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology#The root\|root]]ed underwater 
 - Flexible, air-filled stems support broad leaves that float on the surface 
  - Limited by the length to which their stems can grow 
@@ -520,7 +517,7 @@ weeds
 	- survive in deeper water than emergent plants 
 - Floating unattached plants are relatively unrestricted by depth
 
-##### Floating Leaves – Exposed to Air & Water at the same time 
+##### Floating Leaves – Exposed To Air & Water At The Same Time
  - Ideal – strong leathery peltate leaf, circular in shape, an entire 
 margin, 
 - Water-repellent upper surface, and long pliable petiole 
@@ -528,14 +525,14 @@ margin,
 - Trend towards it in numerous species, notably the Nymphaeceae 
 - Colonise only sheltered habitats with still/slow flowing water
 
-##### Nymphaeceae - Water lily 
+##### Nymphaeceae - Water Lily
 - Leaf – peltate 
 	- Entire margin 
 	- Circular 
 - Water repellent upper surface 
 - Long pliable petiole
 
-#### Submergent plants 
+#### Submergent Plants
  - Weak stems and feathery leaves, 
 	 - grow completely underwater 
  - Can grow in still deeper water 
@@ -544,14 +541,14 @@ margin,
 	- grow completely underwater 
 - Can grow in still deeper water
 
-##### Completely submerged e.g.Elodea sp. 
+##### Completely Submerged e.g.Elodea Sp.
 - Lack stomata - gas exchange occurs though the thin, air-permeable cuticle and a thin or even absent epidermis. 
  - The leaves are very thin or thread-like which accounts for a favourable surface (high) to volume (small) ratio. 
  - The water transport system, the [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology#xylem\|xylem]], is strongly reduced as water shortage is virtually impossible. 
 - Their buoyancy derives from large intercellular cavities that protrude into stems and [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology#The root\|root]]s and thus facilitate oxygen transport. 
 - The intensity of light underwater is relatively low; a true palisade parenchyma layer is often lacking.
 
-#### Submerged leaves 
+#### Submerged Leaves
 - Thin leaves – entire, fenestrated, dissected 
 - Extremely thin cuticle 
 - Presence of chloroplasts in the epidermis 
@@ -559,14 +556,14 @@ margin,
 	- a shortened axis with a rosette of radical leaves 
 	- elongated flexuous stem clothed with leaves
 
-#### Free-floating plants 
+#### Free-floating Plants
 - Float on water surface 
 - Not limited by depth 
 - Their dangling [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology#The root\|root]]s obtain nutrients from the water 
 - Multiply rapidly and form a bright green mat on the water's surface 
 - Relatively unrestricted by depth
 
-#### Morphology 
+#### Morphology
 - Have adaptive features suitable for life under water 
 - Good supply of aerenchyma tissue 
 - Absence of cuticle from stem/leaves 
@@ -574,27 +571,27 @@ margin,
 - Resistance to wetting and tearing 
 - May show heterophylly (leaves that differ in morphology depending on whether they are submerged or emergent)
 
-#### Zonation 
+#### Zonation
 Each type of plant is limited to a range of depths, thus forming zones with different species 
 - Deeper water supports only free-floating plants 
 - Submergent plants (floating-leaf plants) grow in shallower water 
 - Emergent plants are restricted to the shallow perimeter
 
-#### Transition to Marsh 
+#### Transition To Marsh
 - Presence of a substantial amount of emergent vegetation marks the transition from pond to marsh 
 - Eventually the marsh dries and is taken over by grasses 
  - Then moisture-tolerant woody species giving rise to carr woodland (willow or alder) 
  - Eventually – larger deciduous trees or Scots pine 
 conifers
 
-#### Classic hydrosere zonation (Lentic habitat) 
+#### Classic Hydrosere Zonation (Lentic Habitat)
 - Central open water 
 - Shallower water 
 - Transition zone 
 - Carr dominated by 
 	- Willow (Salix spp.) and alder (Alnus spp.)
 
-#### Succession 
+#### Succession
 - Series of replacements of one community by another 
 - Occurs in a pond as organisms die and fall to the bottom 
 - Pond gradually fills in & becomes more shallow, <2000 years 
@@ -602,7 +599,7 @@ conifers
 - Stages of succession - reflected by pattern of zonation - from open water to dry land 
 - From pond community to more advanced successional communities
 
-#### Factors affecting lake colonisation 
+#### Factors Affecting Lake Colonisation
 - Latitude & altitude 
 - Basin formation 
 - Bank slope 
@@ -613,12 +610,12 @@ conifers
 - Size 
 - Fetch
 
-##### Regional factors 
+##### Regional Factors
 - Latitude 
 - Altitude 
 - Biogeographic history 
 
-##### Local Factors 
+##### Local Factors
 - Bedrock and soil type 
 - Surrounding land use 
 - Size and shape of the lake 
@@ -628,14 +625,14 @@ conifers
 - Competition 
 - Herbivory 
 
-#### Factors affecting distribution of aquatic vegetation
+#### Factors Affecting Distribution Of Aquatic Vegetation
 
-##### Regional factors 
+##### Regional Factors
 - Latitude 
 - Altitude 
 - Biogeographic history 
 
-##### Local Factors 
+##### Local Factors
 - Bedrock and soil type 
 - Surrounding land use 
 - Size and shape of the lake 
@@ -645,9 +642,9 @@ conifers
 - Competition 
 - Herbivory 
 
-#### Factors affecting distribution of aquatic vegetation
+#### Factors Affecting Distribution Of Aquatic Vegetation
 
-##### Factors responsible for variations in macrophyte distribution 
+##### Factors Responsible For Variations In Macrophyte Distribution
  - Basin formation – slope & depth 
 - Basin geology & substrate 
 - Aspect, especially prevailing wind 
@@ -659,7 +656,7 @@ conifers
 - Size of the lake, affecting the fetch 
 - Plant distribution will vary from basin to basin
 
-#### River & stream (Lotic) habitats 
+#### River & Stream (Lotic) Habitats
 - Longitudinal distribution downstream 
 - Local level zonation patterns 
 - Velocity 
@@ -671,8 +668,7 @@ conifers
 - If habitats are similar in other respects similar vegetation occurs in streams of similar flow types 
 - Typing of rivers using macrophytes has been developed for conservation & management
 
-
-#### Lotic macrophyte communities 
+#### Lotic Macrophyte Communities
 - Show similar traits to those of still waters 
 - Typical communities associated with different river types Communities may prefer certain soil types 
 - Changes respond to water substrate, channel width & slope, flow patterns, nutrients & biotic interactions 
@@ -685,7 +681,7 @@ conifers
  - Dominant pattern is of longitudinal zonation from headstream to lowlands 
  - Identified at least 40 river types – Haslam (1978)
 
-#### Important Physical Variables in Lotic Environments 
+#### Important Physical Variables In Lotic Environments
 - Water movement, or flow 
 - Soil or substrate on the bed of the watercourse 
 - Width of the channel 
@@ -699,12 +695,12 @@ conifers
 - Drainage order, i.e. position of the channel in the river system 
  - Downwards slope (gradient) of the channel
 
-#### 3 Basic Types of Lotic Communities 
+#### 3 Basic Types Of Lotic Communities
 - Mountainous (resistant geology) – fast flows & spates, coarse substrate & nutrient poor. Limited diversity, few channel species and regular washing out. 
 - Upland, oligo-mesotrophic rivers – not so steep & severe, few spates, sediment accumulates, trophic status rises. Often well developed species-rich fringing communities and channel species. 
 - Lowland (often alluvial, eutrophic) – steady flow, rich in nutrients, shallow with stable substrate, or may have large channels with unstable substrate, may have marked zonal changes. Fringing species may line the banks.
 
-#### Plants as Indicators 
+#### Plants As Indicators
 - Plants are sensitive indicators of the conditions in which they live 
 - Much can be deduced about the site from the plants 
 - If the habitat is known the expected vegetation can be predicted 
@@ -712,7 +708,7 @@ conifers
 
 ## Week 4 Plant Development
 
-#### Processes of plant development
+#### Processes Of Plant Development
 Plants respond to changes in the environment. Favourable changes are exploited, unfavourable changes are countered. 
 Responses fall into one of two types: 
 - rapid and reversible 
@@ -736,7 +732,7 @@ These occupy fixed positions, and resume cell division again later to build addi
 
 All types of cells, at any stage in their development, may respond to changes in the environment, individually or collectively as a group (as in a meristem), by altering the progress or nature of development to increase the survival chances of the plant.
 
-####  <span style="color:rgb(84, 204, 13)">APICAL MERISTEMS</span> 
+#### <span style="color:rgb(84, 204, 13)">APICAL MERISTEMS</span>
 ![](https://i.imgur.com/EpiiWOR.png)
 Each apical meristem is a small (approx. 100-250 um) dome of dividing cells at the very tip of every shoot or root. Both root and shoot apical meristems consist of a central group of cells the function of which is thought to be organisational and outer layers of cells dividing rapidly to generate new tissue. 
 
@@ -753,11 +749,12 @@ Moving back from the apex, patterns of <span style="color:rgb(204, 85, 13)">mito
 - Roots show a clear and simple sequence of overlapping zones: an apical zone of cell elongation &, in tissue more basal, a separate zone of differentiation of root hairs & casparian strip as well as xylem and phloem. 
 - Up in the shoot, development is made much more complicated by : leaf morphogenesis
 
-####  <span style="color:rgb(84, 204, 13)">LEAF MORPHOGENESIS</span> 
+#### <span style="color:rgb(84, 204, 13)">LEAF MORPHOGENESIS</span>
 ![](https://i.imgur.com/phEJ0jX.png)
 - Leaf shape and size is generated by a sequence of meristems, each independently controlled.
 - During morphogenesis, a not-yet-fully formed leaf is called a primordium. 
-#####  <span style="color:rgb(84, 204, 13)">PHASES OF LEAF MORPHOGENESIS</span> 
+
+##### <span style="color:rgb(84, 204, 13)">PHASES OF LEAF MORPHOGENESIS</span>
 Phase 1 (Determines Late Flowering Position): 
 - Accelerated cell division & expansion some few cell layers under the surface of the flanks of the apical dome heaves up a bump or buttress, the position of which is determined only by the 2 nearest primordia (inhibitory) so that the leaves arise in a constant arrangement w.r.t. older leaves, a pattern of leaf position/arrangement known as the <span style="color:rgb(204, 85, 13)">phyllotaxis</span>. 
 
@@ -783,13 +780,13 @@ Phase 5 (Determines Late Flowering Thickness):
 The plate meristem. 
 - A sudden wave of periclinal divisions from tip to base, generate the final 7 to 10 cell thickness. 
 
-######  <span style="color:rgb(84, 204, 13)">DIFFERENT LEAF SHAPES</span> 
+###### <span style="color:rgb(84, 204, 13)">DIFFERENT LEAF SHAPES</span>
 - Different leaf shapes are achieved by restricting the duration and/or distribution of individual phases
 	- e.g. conifer needles are generated by a similar sequence except the activity of the marginal meristem is very limited. 
 - Differences between spp are genetically determined, but phases 4 & 5 can be under environmental control for production of specific features.
 NB* Counter predation, fenestrations in leaf as in nettles. 
 
-######  <span style="color:rgb(84, 204, 13)">DIFFERENTIATION IN LEAVES</span> 
+###### <span style="color:rgb(84, 204, 13)">DIFFERENTIATION IN LEAVES</span>
 - The cell division phase is followed by a phase of cell expansion & diffn in which the spongy mesophyll cells stop expanding earlier than other cells & therefore get ripped apart and give rise to large intercellular spaces. 
 - Cell expansion stops first in the leaf tip, passing as a wave back down to the petiole, if there is one, who's entire devlp is v. much later than the rest of the leaf. 
 - The cell expansion phase of the petiole often lasts the entire life of the leaf so that growth adjustments for the direction of light can be made.
@@ -808,25 +805,24 @@ CELL EXPANSION
 	- Example celery petioles
 	- Collenchyma is distributed in stems as a strengthening tube. The cells are very long & thin in LS by the time stem elongation is complete. 
 
-### </span>SIZE-DETERMINING MERISTEMS IN THE STEM</span> 
+### </span>SIZE-DETERMINING MERISTEMS IN THE STEM</span>
 - Stems have various subsidiary ‘meristems’ - : zones of cell division basal to the shape determining apical meristem. 
 - One of these, known in dicots as the <span style="color:rgb(204, 85, 13)">subapical meristem</span>, controls internode elongation in a simple, quantitative way. Divisions are predominantly anticlinal ie. Add to the length, but not to the thickness of the axis separating out this activity keeps the upper internodes v. short & as a result the developing leaves protect the apical dome and younger leaves.
 - In many plants, especially grasses, the meristematic activity which leads to internode elongation persists, becoming confined to a region at the base of the internode with fully diff’ned tissue above as well as below. 
 - This ‘intercalated’ meristematic tissue is called an intercalary meristem & also occurs in the base of grasses leaf sheath ( how grass can grow again after mowing!)
 
-
-
-## Week 4 Control of Plant Development
+## Week 4 Control Of Plant Development
  
-###  <span style="color:rgb(84, 204, 13)">PLANT GROWTH REGULATORS</span>
- [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology# <span style="color:rgb(84, 204, 13)">PLANT GROWTH REGULATORS</span>\|PGRs]]  play an important role. At different times they can function in either of 2 rather different types of interaction: 
+### <span style="color:rgb(84, 204, 13)">PLANT GROWTH REGULATORS</span>
+ [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology# <span style="color:rgb(84, 204, 13)">PLANT GROWTH REGULATORS</span>\|PGRs]] play an important role. At different times they can function in either of 2 rather different types of interaction: 
 1)  [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology# <span style="color:rgb(84, 204, 13)">PLANT GROWTH REGULATORS</span>\|PGRs]] may be generated by development in one part of the plant (xylem differentiation in leaves → auxin, senescence or ripening → ethylene, plastid differentiation → gibberellins, ripening fruit tissue → abscisic acid, cell division in root tips → cytokinin). 
 2)  [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology# <span style="color:rgb(84, 204, 13)">PLANT GROWTH REGULATORS</span>\|PGRs]] may be synthesized in response to an environmental signal (drought → abscisic acid, light → gibberellins, mineral nutrients → cytokinins, physical stress → ethylene).
 The same PGR is produced every time but the response always varies, contributing to adaptations.
-### CONTROL OF PRIMARY GROWTH: 
-####  <span style="color:rgb(84, 204, 13)">CELL EXPANSION</span>
+
+### CONTROL OF PRIMARY GROWTH:
+#### <span style="color:rgb(84, 204, 13)">CELL EXPANSION</span>
 - The most important co-ordinating influence on primary vegetative growth, and differentiation, shoot branching and cambial activity is <span style="color:rgb(204, 85, 13)">auxin</span> synthesized in developing leaves.
-- This auxin moves to roots  by a process termed <span style="color:rgb(204, 85, 13)">polar transport (at 1cm per hr)</span> as the xylem differentiates and the contents of vessels lyse through the living parenchyma cells of the <span style="color:rgb(204, 85, 13)">stele</span>. 
+- This auxin moves to roots by a process termed <span style="color:rgb(204, 85, 13)">polar transport (at 1cm per hr)</span> as the xylem differentiates and the contents of vessels lyse through the living parenchyma cells of the <span style="color:rgb(204, 85, 13)">stele</span>. 
 - Cell expansions determination of internode length is auxin-dependent. The developing leaf influences the size of internodes below it that will support and supply it. 
 - <span style="color:rgb(204, 85, 13)">Tropic curvature</span> enables the expanding internodes to respond to light and gravity, but the mechanism remains obscure. The <span style="color:rgb(204, 85, 13)">environmental signals are detected by specialized plastids</span> (chloroplasts, chromoplasts, amyloplasts & aleoplasts’).
 - <span style="color:rgb(204, 85, 13)">Statoliths</span> are large amyloplasts which do not disappear when the plant is starved and, unlike other starch grains, are ‘loose’ inside the cell, rolling down to the lowest point when the plant is tilted. 
@@ -838,8 +834,8 @@ The same PGR is produced every time but the response always varies, contributing
 - Cell expansion is also sensitive to ethylene, part of a response to physical stress. The production of ethylene by plant tissues increases when you bend, shake or stress them. Elevated ethylene alters the orientation of cortical utubules in expanding cells, which alters the orientation of cellulose microfibrils synthesized. (See figure 1) 
 - Subsequently, so as to increase radial cell expansion at the expense of longitudinal expansion → STOUTER AXIS, able to push up paving stones!
 
-###  <span style="color:rgb(84, 204, 13)">VASCULAR TISSUE</span> 
-###  <span style="color:rgb(84, 204, 13)">MERISTEMOIDS</span> 
+### <span style="color:rgb(84, 204, 13)">VASCULAR TISSUE</span>
+### <span style="color:rgb(84, 204, 13)">MERISTEMOIDS</span>
 The way plants generate the little, tiny organs which have only a few cells, in what appears to be a homogenous array of identical cells, divide assymmetrically.
 
 - First the nucleus moves to one end of the cell, which may show a ‘gradient’ of organelles across it, oriented to some outside influence e.g. a meristem. 2 cells are formed : a small cell, from the dense end, which goes on to something exciting, & a large cell from the other end of the gradient which usually does not. (See figures 2 & 3). 
@@ -847,15 +843,16 @@ The way plants generate the little, tiny organs which have only a few cells, in 
 - The stomata arise from meristemoids in the epidermis
 
  
-###  <span style="color:rgb(84, 204, 13)">Control</span> 
+### <span style="color:rgb(84, 204, 13)">Control</span>
 The purpose of meristemoids seems to be to allow independent control of the development of these ‘tiny’ organs, e.g. the timing of maturation and the spacing of the guard cells is obviously important for the leaf. 
-####  <span style="color:rgb(84, 204, 13)">CONTROL OF SECONDARY GROWTH: BRANCHING</span> 
+
+#### <span style="color:rgb(84, 204, 13)">CONTROL OF SECONDARY GROWTH: BRANCHING</span>
 Lateral roots arise deep inside the root. From a single layer - the <span style="color:rgb(204, 85, 13)">PERICYCLE - just inside the endodermis</span> so that the integrity of the stele isn’t breached. Shoot branches arise from similarly arrested cells, but in pockets on the outside surface of the axis where they monitor light. The mechanisms of control of shoot branching vary from plant to plant.
 
-####  <span style="color:rgb(84, 204, 13)">COLLECTIVE DEVELOPMENTAL TRANSITIONS</span> 
+#### <span style="color:rgb(84, 204, 13)">COLLECTIVE DEVELOPMENTAL TRANSITIONS</span>
 Plant organs and especially meristems, sometimes undergo a major shift in biochemistry and/or pattern of growth. Rather like differentiation for a single cell, but this time for a whole group of cells there is a coordinated, synchronous change from the expression of one set of genes to the expression of a new set. Such changes we refer to as ‘transformations’. Transformations are large scale qualitative transitions which form the life cycle of organs and individuals. 
 
-#####  <span style="color:rgb(84, 204, 13)">Senscence</span> 
+##### <span style="color:rgb(84, 204, 13)">Senscence</span>
 This is terminal transformation for any tissue/individual, involving the breakdown of cell structures & macromolecules.
 Note that the initiation of this phase is by gene de-repression + synthesis of a range of hydrolytic enzymes = energy-consuming, so waterlogged, dried or poisoned leaves stay green!
 
@@ -866,35 +863,36 @@ Note that the initiation of this phase is by gene de-repression + synthesis of a
 In some spp, the entire plant may be ‘switched over’ into senescence: monocarpic species (die at end of fruiting season e.g. banana plant). In soybean (Glycine max) it is the maturing seeds which induce the onset of whole plant senescence which in spp where it occurs, usually follows flowering & seed formation. 
 Not only annual/biennial herbs though:Tachigalia versicolor in Panama, a large (40m) dicot tree, produces 70,000 winged seeds & promptly dies. Also, bamboos & Agave - the Century tree.
 
-#####  <span style="color:rgb(84, 204, 13)">Induction of flowering</span> 
+##### <span style="color:rgb(84, 204, 13)">Induction Of flowering</span>
 1. Developmental control 
 For many plants the switch is part of the internal development of the individual (therefore we cannot control it). Sometimes we observe that the transition is related to the accumulation of a fixed number of leaves (8 leaves in Datura ‘thorn apple’ 30 to 40 years growth in beech).
 
 2. Environmental control 
 (therefore we can control it and do expts!) For plants which grow in regions away frm the equator, the shoot meristems → producing flws is adaptively entrained to daylength to make the plant flower at a precise time of the year. (See Figure 5) 
-######  <span style="color:rgb(84, 204, 13)">PHOTOPERIODISM</span>
-For other plants, especially biennials, the entrainment is to a prolonged period of chilling (equiv temperate winter):  <span style="color:rgb(204, 85, 13)">vernalisation</span>. 
+
+###### <span style="color:rgb(84, 204, 13)">PHOTOPERIODISM</span>
+For other plants, especially biennials, the entrainment is to a prolonged period of chilling (equiv temperate winter): <span style="color:rgb(204, 85, 13)">vernalisation</span>. 
 - For photoperiodism, the ‘detector’ system is phytochrome as primary light sensor, linked to the endogenous circadian rhythm, which connects phytochrome → apex at a fixed time after sunset every night.
 
 The detector system is in the developing leaves. These <span style="color:rgb(204, 85, 13)">developing leaves produce</span> the bulk of the <span style="color:rgb(204, 85, 13)">gibberellic acid & auxin &</span> as they mature produce the bulk of the <span style="color:rgb(204, 85, 13)">Abscisic acid & relay all thecytokinins</span>, which arrives from the root, on to the shoot apical meristem. 
-- The ‘detector’ system triggers an altered pattern of GR production/relay by the leaf which the shoot meristems are adapted to interpret by transforming into floral  meristems. Sometimes the connection is simple, e.g. effective [GA] rises in long days, & in some plants which flower in long days exogenous GA will induce flowering, but mostly the interactions are: 
+- The ‘detector’ system triggers an altered pattern of GR production/relay by the leaf which the shoot meristems are adapted to interpret by transforming into floral meristems. Sometimes the connection is simple, e.g. effective [GA] rises in long days, & in some plants which flower in long days exogenous GA will induce flowering, but mostly the interactions are: 
 1. <span style="color:rgb(204, 85, 13)">complex & prolonged</span>, because the transition to flowering is critical for survival & is therefore subject to careful, multiple cross-checking,
 2. <span style="color:rgb(204, 85, 13)">species-specific</span>, because the transition to flowering forms part of the machinery for adaptation to the environment by individual spp in a very wide range of environments. 
 
-#####  <span style="color:rgb(84, 204, 13)">GERMINATION</span> 
+##### <span style="color:rgb(84, 204, 13)">GERMINATION</span>
 Many seeds will germinate as soon as the chemical inhibitors of the fruit sap have been washed off & conditions are favourable: water & warmth. Other types stubbornly refuse they have an innate dormancy. There are 3 basic types, characterised by the treatment required to break dormancy. 
-1. ‘<span style="color:rgb(204, 85, 13)">After ripening</span>’ - no  germination unless dry at room temp for several weeks
+1. ‘<span style="color:rgb(204, 85, 13)">After ripening</span>’ - no germination unless dry at room temp for several weeks
 	- e.g. grasses & cereals, clover & the evening primrose (Oenothera).
 2. <span style="color:rgb(204, 85, 13)">Chilling requirement</span>. Seed needs to have imbibed before it responds & several weeks at 0 to 5o C are required = stratification. 
 	- Same ‘dectector’ system as vernalisation. 
 3. <span style="color:rgb(204, 85, 13)">Light requirement.</span> Mediated by phytochrome : Pfr = primary sensor (Pr inhibits). 
-	- Chilling and light trigger increases in GA, cytokinins, or both, & these  [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology# <span style="color:rgb(84, 204, 13)">PLANT GROWTH REGULATORS</span>\|PGRs]] initiate the mobilisation of reserves in the seed, ending metabolic dormancy. The dormant state, then, is stable until these growth substances trigger the transformation to active growth.
+	- Chilling and light trigger increases in GA, cytokinins, or both, & these [[Uni/1/4AB026 Introduction to Plant Biology/Plant Biology# <span style="color:rgb(84, 204, 13)">PLANT GROWTH REGULATORS</span>\|PGRs]] initiate the mobilisation of reserves in the seed, ending metabolic dormancy. The dormant state, then, is stable until these growth substances trigger the transformation to active growth.
 
-## Week 5 Floral biology and pollination
+## Week 5 Floral Biology And Pollination
 
-### Floral biology and pollination (Part I)
+### Floral Biology And Pollination (Part I)
 
-####  <span style="color:rgb(84, 204, 13)">Agencies of pollination</span> 
+#### <span style="color:rgb(84, 204, 13)">Agencies Of pollination</span>
 The agencies of pollination fall into two groups: 
 1) <span style="color:rgb(204, 85, 13)">Abiotic agencies</span> : wind, water, rain. 
 2) <span style="color:rgb(204, 85, 13)">Biotic agencies</span> : insects, birds, monkeys, small mammals (bats, rats) and small reptiles (geckos), ants, water skaters. 
@@ -919,8 +917,8 @@ Whichever agency is employed in pollination the plant is usually a passive partn
 
 These exceptions are not entirely confined to animal-pollinated species. There are also explosive discharges of pollen into the air by the anemophilous species Ricinus communis and Parietaria diffusa.
 
-#### ABIOTIC POLLINATION AGENCIES 
-#####  <span style="color:rgb(84, 204, 13)">Anemophily (wind pollination)</span> 
+#### ABIOTIC POLLINATION AGENCIES
+##### <span style="color:rgb(84, 204, 13)">Anemophily (Wind pollination)</span>
 Oldest type of pollination. 
 The gymnosperms, are wind-pollinated at the present day and were presumably so earlier. 
 Flowers of plants which rely on the wind for pollination are generally small and inconspicuous, and possess none of the attractive attributes of entomophilous species, but are often only composed of the essential organs only.
@@ -941,7 +939,7 @@ Ulmus, Betula and Myrica and the grasses.
 and as a result the wind is able to gather the pollen without hinderance and the grains don’t get trapped in the foliage so increasing the chances of successful pollination. 
 Not many wind pollinated species exist in tropical rain forests because there isnt much wind
 
-####  <span style="color:rgb(84, 204, 13)">Hydrophily (Water pollination)</span> 
+#### <span style="color:rgb(84, 204, 13)">Hydrophily (Water pollination)</span>
  Angiosperms which have “ returned to the water” show differing degrees of adaptation to their environment. 
 The conservation of the flower is now exhibited in an entirely different way. 
  Eelgrass is an example of an angiosperm which bears totally submerged flowers in tropical oceans, that use hydrophilous pollination. 
@@ -955,7 +953,7 @@ The conservation of the flower is now exhibited in an entirely different way.
  The male flower is a single sessile anther. The anther wall has no endothecium as have the land plants, and when it is mature it dehisces by absorbing water which causes the innermost cells to swell and burst the sac. 
  The pollen grains are very long and thread-like in shape. They have no exine and are shed naked into the sea. They are non-motile and coil around the stigma of the female flowers if they drift against them.
 
-#####  <span style="color:rgb(84, 204, 13)">Rain pollination</span> 
+##### <span style="color:rgb(84, 204, 13)">Rain pollination</span>
  The significance of rain as a pollinating agency in certain angiosperms was only recognised relatively recently (1950’s). Hagerup (1950) reported that in the 
 Faroe islands (Danish group of islands in North Sea) that flowers of the Creeping Buttercup (Ranunculus repens) were wide open even on rainy days. 
  In these islands the rainfall is very high, but is very gentle and frequent, and this climate is of great importance to the pollination biology of these species growing in this region.
@@ -968,14 +966,14 @@ it dislodges pollen from the anthers on the glossy part of the petal and runs do
 
  The location of the carpels is such that the water rises by capillarity between them and the pollen is deposited on the stigma. There is a leak of water through gaps between the bases of the petals so that just enough water is held in the cup as is necessary for pollination 
 
-####  <span style="color:rgb(84, 204, 13)">Biotic agencies of pollination</span> 
+#### <span style="color:rgb(84, 204, 13)">Biotic Agencies Of pollination</span>
  Other species of flowering plants adopt a different strategy. To reduce wastage of energy (oils, proteins in pollen) in production of the huge amounts of pollen 
 produced by wind pollinated species, they use animal messengers to collect the pollen and deliver it directly to the stigma of other plants of the same species.
 
-### Floral biol. and pollination II
+### Floral Biol. And Pollination II
 
-#### TYPES OF ANIMAL POLLINATORS 
-##### Pollination by insects (entomophily) 
+#### TYPES OF ANIMAL POLLINATORS
+##### Pollination By Insects (Entomophily)
 There are three main classes of flower visiting insects: 
 1) Hymenoptera (social/solitary bees and wasps). 
 2) Diptera (flies). 
@@ -993,7 +991,7 @@ advances to the male bees! It does this even more effectively than first thought
 
  The bee fails but in the process the flower descends a curved petal structure which contains both female and male reproductive organs and “glues” a pair of pollinia on to his head. If the next orchid he visits has already despatched its pollinia then the column will collect his pollinia and thereby the orchid is fertilised.
 
-#####  <span style="color:rgb(84, 204, 13)">Pollination by birds (Ornithophily)</span> 
+##### <span style="color:rgb(84, 204, 13)">Pollination By Birds (Ornithophily)</span>
 How birds came to be pollinators 
  As flying animals with a rough outer surface, birds possess good external prerequisites to act as plant pollinators. 
 Q: How and why did birds evolve to become pollinators? 
@@ -1002,7 +1000,7 @@ Q: How and why did birds evolve to become pollinators?
  It has also been proposed that wood-peckers may have been tempted to change their diet (fruit eating) A third explanation proposes that birds obtained this habit from chasing insects into flowers, and just happened by chance to find the nectar or to puncture succulent tissues; or fourthly that some species may have originally drunk water collected in the blossoms to quench their thirst in tropical forests. 
  No matter whether any or all of these explanations is true or not, certain bird species did somehow co-adapt with certain tropical/sub tropical plant species, and gave rise to the marvellous symbiotic relationships we can observe today.
 
-######  <span style="color:rgb(84, 204, 13)">The biology of bird pollination</span> 
+###### <span style="color:rgb(84, 204, 13)">The Biology Of Bird pollination</span>
  Birds differ from the insect pollinators in that they can obtain only one of their staple foodstuffs from flowers, namely nectar, a Hummingbird may eat up to half its body weight in sugar daily! These species do not usually eat pollen, except incidentally whilst drinking nectar, and in order to obtain the protein component of their diet they eat small insects. These bird species can only exist in regions of the world that can provide an abundant and continuous supply of insects and nectar throughout the year ie. The tropics and subtropics of the world. The equatorial belt in America between 50 North and 50 South, is the main centre of the Hummingbirds (Trochilidae).
 
  The tropics and sub-tropics of Africa and S.E. Asia is the home of the Sunbirds (Nectrinidae); the sugarbirds (Promeropidae) are found in South Africa and the 
@@ -1031,7 +1029,7 @@ Birds are relatively large animals compared to insects therefore bird-pollinated
 
  So, if you are in a tropical or sub-tropical country and you see a flower that is large, robust, red and lacks scent, it is most likely that this flower is pollinated by birds! The most highly specialised of all nectar-feeding bird species are the hummingbirds. They closely resemble Sunbirds found in S.E. Asia in size and shape. However, they can beat their wings so swiftly and move them so precisely that they can hang in the air in front of a flower. In response Central American plants attract these species with delicate flowers which face downwards so that they can only be entered from the air.
 
-####  <span style="color:rgb(84, 204, 13)">Pollination by bats (cheiropterophily)</span> 
+#### <span style="color:rgb(84, 204, 13)">Pollination By Bats (cheiropterophily)</span>
  One family of mammals has been of particular importance to species of flowering plants namely - BATS. Bats are nocturnal animals, small bat species are essentially insect eaters it is the larger species with relatively good vision that serve as plant pollinators. Bat species which pollinate flowers include the Eonyteris and Macroglossus which include some of the biggest bat species of S.E. Asia. These species have long slender noses and very long tongues. (See figure 9 )
 
  When drinking nectar the tongue moves very fast in and out of the flower. They also eat large quantities of pollen. These bat species are colour blind, but pale flowers are visible to them. 

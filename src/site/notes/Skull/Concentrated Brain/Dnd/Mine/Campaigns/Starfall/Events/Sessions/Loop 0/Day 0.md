@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/sessions/loop-0/day-0/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/sessions/loop-0/day-0/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
-
 
 # <center><span style="color:#FAE000">Day 0</span></center>
 
@@ -20,14 +19,14 @@ Fun Facts: [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Session
 Harbinger Leads Them To The Hideout
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma]] Tries To Trick The Doorman (Khan), Fails, (Is Being Watched By Someone)
 	Eventually Shoots Then Charms The Doorman, Becomes Friendly And Suggestable Gets Let In By The Doorman
-Reception, Lots Of Chairs, [[Branches/People\|People]] Wearing Cloaks And Chatting
+Reception, Lots Of Chairs, [[Branches/People Branch\|People Branch]] Wearing Cloaks And Chatting
 Khan Goes Off To Get <span style="color:rgb(75, 236, 19)">VIP Cloaks</span> ([[Red\|Red]], Gold Hourglass Embroidered On It)
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma]] Says She's A [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hunter\|Hunter]] Khan Responds "Are You One Of The Tamers?"
 Khan Panics When Told About The Fog "Being Weakened"
 Spawned 2 Cloak Rooms (East And West), Conference Room Prespawned (North)
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Aris]] Says She Lost Her Cloak
 Sena Tells Khan To Get Her A Cloak
-[[Branches/People\|People]] Start Leaving
+[[Branches/People Branch\|People Branch]] Start Leaving
 Sena Opens The Door Into The Cloak Room, Mostly Empty
 	Demands Someone (Meran, Self Important) Gets Her A Cloak
 	Fails Intimidation Check And Gets Gusted To The Floor
@@ -57,7 +56,6 @@ Canibalism Is Recent History
 House Loot: 2 Rations, Half A Cooked Bird, A Loaf Of Bread
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Aris]] And Sena Converse About The General Situation
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Sessions/Loop 0/Karma]] Gets Found By Tavernis And Takes Her To The Inn
-
 
 ## Group 1
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Group 1/Qutes\|Qutes]] Keeps Staff

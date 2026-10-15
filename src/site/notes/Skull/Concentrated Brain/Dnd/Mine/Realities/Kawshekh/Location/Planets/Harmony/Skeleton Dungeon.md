@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/skeleton-dungeon/","title":"Skel Hole","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Starfall Dungeons]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Skelly Dungeon","Skeleton  Dungeon","Skel Hole","Skell Hole"],"title":"Skel Hole","comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/skeleton-dungeon/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Starfall Dungeons]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":["Skelly Dungeon","Skeleton  Dungeon","Skel Hole","Skell Hole"],"Title":"Skel Hole","comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"[[Files And Shit/Skeleton Dungeon Outside.jpg]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"Files And Shit/Skeleton Dungeon Outside.jpg","thumbnail":"thumbnails/resized/3c3337b258ad0dbae08e28fdfd071e3d_86cf658e.webp"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important} </style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important} </style>
 
 # <center><span style="color:#FEFCFA">Skel Hole</span></center>
 
@@ -22,28 +22,30 @@
 - High Ceilings
 
 ### The Summit
-![Skeleton Dungeon Outside.jpg](/img/user/images/Skeleton%20Dungeon%20Outside.jpg)
+![Skeleton Dungeon Outside.jpg](/img/user/Files%20And%20Shit/Skeleton%20Dungeon%20Outside.jpg)
 - Empty Door Frame With Wrighth on It
 	- "One Way View" A Wall Of Darkness From The Outside
 		- Won, weigh/whey, 
 - The Walls Are Made Out Of [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Pegmatite\|Pegmatite]]
 	- The Walls Shimmer Like Gemstones If You Cast Light On Them
+
 ### Antechamber
-![Skeleton Dungeon 1.jpg](/img/user/images/Skeleton%20Dungeon%201.jpg)
+![Skeleton Dungeon 1.jpg](/img/user/Files%20And%20Shit/Skeleton%20Dungeon%201.jpg)
 - The White (Quartz) Floor
 - Torches Unlit
-- There Is  Notebook Full Of Abstract Drawings Made By Lone Skelly
+- There Is Notebook Full Of Abstract Drawings Made By Lone Skelly
 	- They All Use Various Shades Of Grey And Are More Focused on The Textures And Densities of The Drawings Than The Fullness Of Pages
 
 - One Lone Skeleton
 	- Half Health, Half Speed
 	- Comes Back To Life Every Minute
-	- The Bones Make A Loud Clicking  Noise As They Go Back In Their Socket
-![Pasted image 20260119010814.png](/img/user/images/Pasted%20image%2020260119010814.png)
+	- The Bones Make A Loud Clicking Noise As They Go Back In Their Socket
+![Pasted image 20260119010814.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260119010814.png)
 Languages: Orcish (Native), Dwarvish, Abyssal, Infernal
 Used To Be The Owner Of The Only Quarry In Grease
+
 ## The First Layer
-![Skeleton Dungeon 2 1.jpg](/img/user/images/Skeleton%20Dungeon%202%201.jpg)
+![Skeleton Dungeon 2 1.jpg](/img/user/Files%20And%20Shit/Skeleton%20Dungeon%202%201.jpg)
 - If You Fall Off Plank In Room 4: 3d6 Bludgeoning
 	- Gets Stuck In Hidden Room 3 On Floor Three Until Someone Gets You Out
 - Skeleton Thats Extremely Physically Strong But Is Sad About Being Bald
@@ -54,8 +56,9 @@ Used To Be The Owner Of The Only Quarry In Grease
 - Room With Torn Tapestry Describing The First Skeleton Getting Cursed By Another Skeleton (In Purple Robes)
 	- Room 4, On The Wall
 	- Two Other Tapestry Scraps Throughout The Dungeon
+
 ## Midfloor
-![Skeleton Dungeon 3 1.jpg](/img/user/images/Skeleton%20Dungeon%203%201.jpg)
+![Skeleton Dungeon 3 1.jpg](/img/user/Files%20And%20Shit/Skeleton%20Dungeon%203%201.jpg)
 - Skeleton That Keeps Throwing Up Into The Water
 	- Acid Breath Weapon
 	- Room 4
@@ -65,8 +68,9 @@ Used To Be The Owner Of The Only Quarry In Grease
 	- Room 2
 - Other Tapestry
 	- Soaked On The Floor In Room 8
+
 ## Communal Floor
-![Skeleton Dungeon 4.jpg](/img/user/images/Skeleton%20Dungeon%204.jpg)
+![Skeleton Dungeon 4.jpg](/img/user/Files%20And%20Shit/Skeleton%20Dungeon%204.jpg)
 - Skeleton That Sits On A Stool Alone
 	- Room 2
 	- Talking In Abyssal About The Woes That Have Been Experienced Within These Halls
@@ -86,8 +90,9 @@ Used To Be The Owner Of The Only Quarry In Grease
 	- Room 6
 - Other Other Tapestry
 	- Room 9
+
 ## The Depth
-![Skeleton Dungeon Finale.jpg](/img/user/images/Skeleton%20Dungeon%20Finale.jpg)
+![Skeleton Dungeon Finale.jpg](/img/user/Files%20And%20Shit/Skeleton%20Dungeon%20Finale.jpg)
 -  Shattered Skeletons Throughout The Hallways Up To The Main Floor
 - Stuck Door (DC 18 Strength Check) That Slams Back Shut If Nobody Holds It
 	- 10ft Drop Into The Water To Skip The Door

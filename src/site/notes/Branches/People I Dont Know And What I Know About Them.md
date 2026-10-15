@@ -1,0 +1,4 @@
+---
+{"Publish":true,"permalink":"/branches/people-i-dont-know-and-what-i-know-about-them/","noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Type":"Information Depth Clarifier","Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
+---
+

@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"dg-permalink":"Goings Ons","permalink":"/Goings Ons/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Branches/Random Thoughts]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/the-goings-ons/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Branches/Random Thoughts]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":"Goings Ons","Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
  float: right;
 }
 </style>
-
 
 # <center><span style="color:#FEDCBA">The Goings Ons</span></center>
 
@@ -21,23 +21,23 @@ This Will Function Kind Of Like A Shitty Diary So Wish [[Explicitly Showcased/Me
 
 
 
+
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
-
-# <span style="color:#00FFAB">Lovejoy</span> 
+# <span style="color:#00FFAB">Lovejoy</span>
 
 
 
 Went To A Lovejoy Concert And It Was Actually Really Fun
-I Got To Town Early So I Walked Around And There Were So Many [[Branches/People\|People]] Who Kinda Just Looked/Vibed That They Were Definitely Also Going To The Concert
+I Got To Town Early So I Walked Around And There Were So Many [[Branches/People Branch\|People Branch]] Who Kinda Just Looked/Vibed That They Were Definitely Also Going To The Concert
 I Also Got Four Monsters And Was Going To Down Them All But Dan Took One (Which Is Understandable I Had A Lot Of Caffeine)
 
 When I Got To The Venue It Was Like Two Hours Early But The Line Still Stretched Down The Entire Road And Around The Corner So I Joined The Line To Save A Space Which Was Definitely The Best Move
 It Looked Like The Line Wrapped Around The Whole Block And I Was **Not** Standing At The Back Of That :)
-We Saw So Many Cool Gay [[Branches/People\|People]] With Pride Flags And L'manburgh Flags (I Guess Those Are The Same Thing Now That I Think About It) But [[Explicitly Showcased/Me/Me\|Me]] And Dan Signed The L'manburgh Flag Which Was Cool
-We Also Saw One Or Two Juggalos! I Couldnt Tell If It Was The Same Person Walking Past [[Explicitly Showcased/Me/Me\|Me]] Twice (In The Same Direcrtion) Or If It Was Two Different [[Branches/People\|People]] With Similar Outfits And Makeup
+We Saw So Many Cool Gay [[Branches/People Branch\|People Branch]] With Pride Flags And L'manburgh Flags (I Guess Those Are The Same Thing Now That I Think About It) But [[Explicitly Showcased/Me/Me\|Me]] And Dan Signed The L'manburgh Flag Which Was Cool
+We Also Saw One Or Two Juggalos! I Couldnt Tell If It Was The Same Person Walking Past [[Explicitly Showcased/Me/Me\|Me]] Twice (In The Same Direcrtion) Or If It Was Two Different [[Branches/People Branch\|People Branch]] With Similar Outfits And Makeup
 Either Way I Didnt See Them Again That Night
-And A Couple [[Branches/People\|People]] Loved My Hello Kitty Hoodie 
+And A Couple [[Branches/People Branch\|People Branch]] Loved My Hello Kitty Hoodie 
 
 The Venue Was Warm (More About That Later) We Got Near The Front But To The Side Pretty Early On And Kinda Stayed There
 
@@ -57,10 +57,10 @@ Like A Standing Ragdoll With All The Lights Turning Off For A Second
 The Lights Were Fantastic! Whoever Was In Charge Of The Lighting Effects Deserves A Raise
 
 It Was Really Hot
-I Didnt Feel It That Much But There Was A Constant Increase In [[Branches/People\|People]] Passing Out Throughout The Concert
+I Didnt Feel It That Much But There Was A Constant Increase In [[Branches/People Branch\|People Branch]] Passing Out Throughout The Concert
 so We Had To Keep Stopping The Concert To Make Sure That Whoever Passed Out Doesnt Just Die In The Middle Of The Concert
 There Was Water That Was Being Handed Out But Wilbur Told The Bar To Also Keep Handing Out Water For The Rest Of The Night
-Because [[Branches/People\|People]] Kept Fucking Dying Lovejoy Left The Stage Dfor A Bit So That [[Branches/People\|People]] Felt Less Pressure To Be Super Hyped An Energetic In The Middle Of The Crowd And Thus More Encouraged To Walk To The Back Of The Room And Get Drinks Or Step Outside So That They Can Breathe
+Because [[Branches/People Branch\|People Branch]] Kept Fucking Dying Lovejoy Left The Stage Dfor A Bit So That [[Branches/People Branch\|People Branch]] Felt Less Pressure To Be Super Hyped An Energetic In The Middle Of The Crowd And Thus More Encouraged To Walk To The Back Of The Room And Get Drinks Or Step Outside So That They Can Breathe
 All In All Though I Dont Think The Bodies Made The Concert Any Worse
 Everytime I Saw Someone Leave The Crowd I Felt The Room Get Colder
 Human [[Skull/Concentrated Brain/Venting Or Something/Body\|Skull/Concentrated Brain/Venting Or Something/Body]] Temperature Is Such A Weird Concept
@@ -77,14 +77,16 @@ I Should Go To More Concerts
 
 
 <script src="https://utteranc.es/client.js"
-        repo="WonderingGodling/My-Mind-Space"
-        issue-term="title"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
+		repo="WonderingGodling/My-Mind-Space"
+		issue-term="title"
+		theme="preferred-color-scheme"
+		crossorigin="anonymous"
+		async>
 </script>
 
+
 </div></div>
+
 
 ### Randomness :3
 
@@ -95,7 +97,7 @@ You Wont Notice
 
 Interesting: I Can Boot Multiple Instances Of This Application Which (Since Its Locked) Means That I Cant Close Any Instances Of It
 
-I Went Back And Added Some Stuff I Said To My [[Explicitly Showcased/People/Special Ones/Sunshine/Moirail\|Moirail]]
+I Went Back And Added Some Stuff I Said To My [[Explicitly Showcased/People/Forsaken/Sunshine/Moirail\|Moirail]]
 
 Just Diagnosed Someone With Autism And They Were Like "....Yep"
 
@@ -139,7 +141,7 @@ We Got Spooked Together <3
 
 ## More Imports
 
-Wearing  CCs Shirt For The First Time And On My Way To Town They Said They Were Getting The Train In So We Should Meet Up 
+Wearing CCs Shirt For The First Time And On My Way To Town They Said They Were Getting The Train In So We Should Meet Up 
 They Didnt Notice I Was Wearing Her Shirt Until I Pointed It Out Smh
 
 Just Read A Yuri Manga And The More I Read The More I Was Like "This Is Not A Healthy Thing To Read" 
@@ -155,6 +157,7 @@ I Just Deepthroated A Knife
 One Of My Discord Friends Got Paws
 
 [[Skull/Concentrated Brain/Venting Or Something/Okay\|Okay]]
+
 ## Back To Normal?
 
 Did Some Messing Around And I Should Be Able To Edit The Website On The Go So....
@@ -193,7 +196,7 @@ Cant Wait To Marry Her For The Eighteenth Time In A Row
 
 I Just Got Dissapointed Because I Mistakenly Thought I Spotted A Free Box Of Floor Tampons
 
-Finally Got My Hands On A Copy Of [[Skull/Concentrated Brain/Media/House Of Leaves/HOL Mega Note\|House Of Leaves]]
+Finally Got My Hands On A Copy Of [[Skull/Concentrated Brain/Media/Books I Have Read/House Of Leaves/HOL Mega Note\|House Of Leaves]]
 Its A Second Edition Copy Published In 2001 
 
 I Wasnt Listening To The New [[Skull/Concentrated Brain/Media/The Magnus Protocol/The Magnnus Protocol\|Magnus Protocol]] Episode Because I Was Freaking Over The Small Details

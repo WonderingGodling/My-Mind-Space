@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/jesters-stuff/my-pcs/spinel/spinel/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/jesters-stuff/my-pcs/spinel/spinel/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#C43456"> Spinel </span></center>
 
@@ -11,11 +11,10 @@
 
 
 ## General
- Race:  Aasimar
+ Race: Aasimar
  Class: Lycan Bloodhunter 3
  Alignment: Lawful Good
  Background: Mercinary
-
 
 ## Stats
 
@@ -54,12 +53,10 @@
 | Rapier       |   5     | 1d8+5 Piercing      |
 |   Shield     | 5       |     1d6+5 Slashing   |
 
-
 # Inventory
 
 Money: 
 Inventory: A uniform of your company (traveler's clothes in quality), an insignia of your rank, Dice, scale mail armor, Backpack, bedroll, mess kit, tinderbox, torch (10), rations (10), waterskin, 50ft hempen rope, Boomerang Shield
-
 
 # Extra
 Resistances: 
@@ -70,12 +67,12 @@ Conditions:
 
 # Proficiencies
 		
-Armor:  Light armor, medium armor, shields
+Armor: Light armor, medium armor, shields
 Weapons: Simple weapons, martial weapons
 Tools: Alchemist's supplies, Dice set, vehicles (land)
 Languages: Common, Celestial
 
-# Notes: 
+# Notes:
 Darkvision (60) 
 Celestial Resistance 
 Healing Hands (2)d4 
@@ -98,5 +95,4 @@ Shopping List: Halfplate, Grappling Hook, rope, Locks, Manacles, portable ram, C
 Magic Items: Brooch of Shielding, Gloves of Missile Snaring, Immovable Rod
 Feats I Want: Adrenaline Rush, Savage Attacker, **Piercer**, Mobile, Medium Armor Master, Defensive Duelist, Fighting Initiate
 
-# Characteristics 
-
+# Characteristics

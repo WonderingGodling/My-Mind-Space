@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/0-moon-day/minesweeper/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/0-moon-day/minesweeper/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/external/c5e20935a593977db5662a467ec788cb.png]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"thumbnails/external/c5e20935a593977db5662a467ec788cb.png","thumbnail":"thumbnails/resized/a67c25f96c7a28a19126f73a43a673be_86cf658e.webp"}}
 ---
 
-# Beginner 
+
+# Beginner
 ![](https://i.imgur.com/7wXcb1E.png)
 ![](https://i.imgur.com/U2iKxI1.png)
 ![](https://i.imgur.com/En4yoiH.png)
@@ -21,4 +22,3 @@
 ![](https://i.imgur.com/jRSiVXi.png)
 ![](https://i.imgur.com/MyxOVgD.png)
 ![](https://i.imgur.com/BslVkfi.png)
-

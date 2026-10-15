@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/2-firstday/2-firstday/","title":"Firstday","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/Weekday]]"],"down":null,"Yesterday":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/1 Day De Les Phantoms/1 Day De Les Phantoms]]"],"Tomorrow":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/3 Cratey/3 Cratey]]"],"Embedded":null,"aliases":["Day 2","Firstday"],"title":"Firstday","comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/2-firstday/2-firstday/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/Weekday]]"],"down":null,"Yesterday":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/1 Day De Les Phantoms/1 Day De Les Phantoms]]"],"Tomorrow":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/3 Cratey/3 Cratey]]"],"Embedded":null,"aliases":["Day 2","Firstday"],"Title":"Firstday","comments":true,"tags":["Tagless"],"Date Created":"278·10·2026 21:24 (Monday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 # Firstday
 ## Global
@@ -15,6 +16,7 @@ Wherever Bee Is [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/We
 	- Sellers Gets Rich
 		- Small Magus Order ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/The Seventh Snake\|The Seventh Snake]])
 			- Snake Tattoo All Up Their Arms
+
 ### [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Roque\|Roque]]
 
 
@@ -32,13 +34,13 @@ Wherever Bee Is [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/We
 
 ### Lei
 -   Ominous Chanting From Nearby Ruins (Some Piscologists Remember)
-    
+	
 ### Lair Somewhere
 -   First Prince Lancelot Searches For Dragons Eggs
 
 ### Krypton Somewhere
 - Three Kobolds
-    
+	
 ### Hell
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Emil\|Emil]] Is Having [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Sakka\|Sakka]]Cheap Come And Add Protection Spells TO Her Place
 	- [[Black\|Black]] Carvings On The Handle, Decorated With [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]] And Swirls
@@ -50,9 +52,9 @@ Wherever Bee Is [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/We
 			- Door Opens If You Are "The Knower"
 			- Get Electrocuted If You Tie Or Fuck Emil
 	- "Usually More Expensive"
-	- "As Long As You [[Branches/People\|People]] Dont Go In I Dont Care"
+	- "As Long As You [[Branches/People Branch\|People Branch]] Dont Go In I Dont Care"
 - Evil-Murderer-Guy That Gets The Group To Work For Him But Is Really Nice
-	- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Aviresh/Chol\|Chol]]
+	- [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Aviresh/Chol\|Chol]]
 	- Leads A Gang But Isnt A Gang Leader
 	- From [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Krypton/Krypton States/Dolad/Named Towns And Cities/Kent\|Kent]]
 	- Wants Them To Get A Helmet From Police Storage And Will Organise Transport To Kent For Them Since He Is Heading That Way Anyway

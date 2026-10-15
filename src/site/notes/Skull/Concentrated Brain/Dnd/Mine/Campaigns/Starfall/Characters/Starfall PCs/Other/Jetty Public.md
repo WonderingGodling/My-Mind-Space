@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"Jetty","permalink":"/Jetty/","title":"Jetty","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Other/Jetty]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":"Jetty","comments":true,"tags":["Tagless"]}}
+{"Publish":true,"Permalink":"Jetty","permalink":"/Jetty/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Other/Jetty]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":"Jetty","comments":true,"tags":["Tagless"],"Featured":"![[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Other/Files And Shit/MissyCommSFW.png]]","Date Created":"230·08·2026 16:04 (Tuesday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Other/Files And Shit/MissyCommSFW.png","thumbnail":"thumbnails/resized/1c5e332e6fc54fc2045f7389106ddcd9_86cf658e.webp"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -8,18 +9,16 @@
 }
 </style>
 
-
 # <center><span style="color:#FE9CBA">Jettrenya Nirill Revona Cosmia</span></center>
 
 ![MissyCommSFW.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Other/Files%20And%20Shit/MissyCommSFW.png)
 ![token_1.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall%20PCs/Other/Files%20And%20Shit/token_1.png)
 
-###### Likes: 
+###### Likes:
 women, night workers, fighting arts, tattoos, weapon manufacturing, animals, matriarchy, romance novels and smoking 
 
-##### Dislikes: 
+##### Dislikes:
 men, patriarchy, other crime families, the weak(especially those weak of will), unfounded ego, artificial sweetener, most vegetables, centipede and her full name  
-
 
 ## History
 Year 0: mercil cosmia makes a deal with a devil in order to be able to bare children, this causes jetty to have demon blood after her birth 

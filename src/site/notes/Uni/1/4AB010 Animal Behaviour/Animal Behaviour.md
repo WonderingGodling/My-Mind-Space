@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/uni/1/4-ab-010-animal-behaviour/animal-behaviour/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Uni Db.base]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/uni/1/4-ab-010-animal-behaviour/animal-behaviour/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Uni Db.base]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#0000A7">Animal Behaviour</span></center>
 
@@ -44,9 +44,6 @@ Possible Correct Answers
 - Because purring was adaptive/beneficial to ancestral cats, who used purring to form bonds with their mothers, so this ability was passed down many generations... purring is adaptive  
 - Because your cat learned to purr as she grew up, because her previous owner/caretaker gave her lots of love when she purred, so she learned to purr to get attention
 
-
-
-
 ## Why Do We Study Behaviour
 - Humans Have Been Interested In Animal Behaviour For A Long Time
 	- Likely To Eat You
@@ -74,7 +71,7 @@ Possible Correct Answers
 
 ### Common Methods Used To Define Behaviour
 Identify and study definable, repeatable, recognizable, manageable units  
-- Often times, these are sequences or combinations of  smaller “behaviours”
+- Often times, these are sequences or combinations of smaller “behaviours”
 - Identify sequences/combinations to which you can ascribe some sort of purpose (AKA a “function” to the sequence)
 
 How You Define Behaviour Is Based On What Youre Studying
@@ -91,11 +88,11 @@ Philopatry
 
 If It Has A Function Its Usually Ultimate
 
-## statistics
+## Statistics
 Descriptive
 Inferential
 
-## The 6 Basic ‘steps’ of the scientific method 
+## The 6 Basic ‘Steps’ Of The Scientific Method
 Step 1: Ask a Question 
 Step 2: Do some background research/preliminary observations
 Step 3: Construct a Hypothesis and TESTABLE predictions
@@ -126,14 +123,14 @@ Ultimate: Function/Adaptation, Evolution/Phylogeny
 
 ## Ethograms
 Ethogram: a catalogue or table of all the different kinds of behaviour or activity observed in an animal.
-### rules
+
+### Rules
 1. An ethogram is list of behavioural categories, abbreviations for those behaviours, with clear, descriptive definitions – With this list, you should be able to look at an animal, and, based on your list, say: “oh, that animal is clearly doing behaviour X right now!” – Definitions need to be clear, so that two different researchers watching thesame animal will always score the behaviour the same way! 
 2. These behavioural categories must be tailored to your research question/research goals 
 3. Behavioural categories should be defined so the animal can always be classified as doing at least one behaviour. – Ie., you should never look at your animal of interest and say: “oh, that animal’s current behaviour does not match ANYHTING on my list of behaviours” 
 4. Each behavioural category is mutually exclusive of other behaviours – An animal by definition can only be doing ONE behaviour on your list of behaviours at a time – Ie., you should not be able to say: “oh, that animal is both eating AND walkingright now, so I will write in my notes that it is engaged in two behaviours at once…”
 
 ### Basic Ethogram Format
-
 
 | Behaviour Name | Abbreviation | Purpose/Simple Descriiption             | What sequence of minimovements/behaviours make up this behavioural category?                                                                                                                                                                    |
 | -------------- | ------------ | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -146,11 +143,11 @@ Usually Standing While Opening And Closing Their Mouth To Vocalies In Front Of A
 
 Dont Use The Word "To"
 
-## State Behaviours vs. Event Behaviors
+## State Behaviours Vs. Event Behaviors
 ### State Behaviour
 This is a behaviour with a recordable duration
 
-• You sit down for dinner, and someone observing
+- You sit down for dinner, and someone observing
 
 you starts a timer – By the time you finish dinner, they can say “it took
 
@@ -160,7 +157,7 @@ lay on the bed – The observer can tell you it took 18 seconds for
 
 you to travel from the kitchen, until you lay down
 
-• You fall asleep, and wake up early the next
+- You fall asleep, and wake up early the next
 
 morning – The timer could tell you were inactive for 8.5
 
@@ -171,6 +168,7 @@ give them a start and end time…
 – That means you can calculate how long they
 
 lasted (a duration)
+
 ### Event Behavior
 Event behaviours happen so quickly
 
@@ -178,7 +176,7 @@ that you can’t realistically give them a start and end time when observing
 
 them…
 
-• You sneeze… – No person is fast enough that just
+- You sneeze… – No person is fast enough that just
 
 watching you they could see on their
 
@@ -186,7 +184,7 @@ watch timer when the sneeze started,
 
 and when it ended.
 
-• It is “instantaneous” in that it is toofast for there to be a duration• Many animal vocalizations are like
+- It is “instantaneous” in that it is toofast for there to be a duration• Many animal vocalizations are like
 
 this – In the field, I can’t “time” from the start
 
@@ -217,6 +215,7 @@ Short Sampling Intervals (Like Ten Minutes, Once Every Minute)
 Less Precise
 Misses Rare, Short Behaviours
 Dont Record Event Behaviours
+
 ## Scan Sampling
 Individuals In A Whole Group
 Instantaneous
@@ -239,19 +238,15 @@ Whether The Behaviour Occured During That Time Sample
 ### Ad Libitum Sampling
 Writing Down Whatever
 
-
 ## Canada Geese Behavioural Observation Session
 
 302(28)•2024•5965(14:19), West Park Lake (Not under Bridge(There Are Too Few)), 
 
 Swimming, Drinking From The Top Of The Water, Standing On Branch (In Lake), Leaving/ Entering Water, Grooming, Walking, Resting, Resting By Water, Foraging, Social, Out Of Sight, Stretching Tall
 
-(Cant Focus Properly Because The Wifi Inst Worrking On Atny haindg  cant Log On To The Computers For Whatever Reason) Something Something Reproduction
+(Cant Focus Properly Because The Wifi Inst Worrking On Atny haindg cant Log On To The Computers For Whatever Reason) Something Something Reproduction
 9Never
 
 
 
 <center><sub>Done?</sub></center>
-
-
-

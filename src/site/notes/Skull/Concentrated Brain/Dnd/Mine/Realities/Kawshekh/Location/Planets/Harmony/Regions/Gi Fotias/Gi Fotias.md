@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/gi-fotias/gi-fotias/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/regions/gi-fotias/gi-fotias/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Featured":"![[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Files And Shit/Gi Fotias Map.png]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Files And Shit/Gi Fotias Map.png","thumbnail":"thumbnails/resized/1ef9c298e39700ee28591e5a58ee500a_86cf658e.webp"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -8,12 +9,12 @@
 }
 </style>
 
-
 # <center><span style="color:#2EACEA">Gi Fotias</span></center>
 
 
 Humble Beginnings And Holy Endings
 
+<!--  
 - Gi Fotias Has Magic Trees/Plants
 - Basically Animal Products Grow On Trees There
 - All Animal Product In The Country Come From Trees
@@ -23,6 +24,7 @@ Humble Beginnings And Holy Endings
 - The Legend Is That When The World Became What It Is The Plants Became Alive
 - Now Any That Get Taken Over The Boarder Become Tough And Bitter
 - You Go Outside To Pick A Staek And Theres A Fucking Owlbear In Your Tree
+--> 
 
 ## Named Cities And Towns
 [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi Fotias/Named Towns And Cities/Knuts/Lei\|Lei]] (Capital)
@@ -44,6 +46,7 @@ Humble Beginnings And Holy Endings
 
 ## Map
 ![Gi Fotias Map.png](/img/user/Skull/Concentrated%20Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gi%20Fotias/Files%20And%20Shit/Gi%20Fotias%20Map.png)
+
 ### Battle
 ### Travel
 
@@ -51,7 +54,7 @@ Humble Beginnings And Holy Endings
 
 ## Extra
 
-### description & Details
+### Description & Details
 #### Stuff You Can Find
 - Thing
 

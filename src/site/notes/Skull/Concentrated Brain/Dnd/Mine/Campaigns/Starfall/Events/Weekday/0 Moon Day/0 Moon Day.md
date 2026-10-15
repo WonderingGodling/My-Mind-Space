@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/0-moon-day/0-moon-day/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type:":"Days Events","Starting location:":"Luna","description:":null,"Type":"Session","Session Number":0,"Finishing location":null,"up":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/Weekday]]","down":null,"aliases":null,"Next":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/1 Day De Les Phantoms/1 Day De Les Phantoms]]","Previous":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/8 Sol/8 Sol]]","same":null,"tags":["Tagless"],"description":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"title":null,"comments":true}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/0-moon-day/0-moon-day/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Starting Location":null,"Session Number":0,"Finishing Location":null,"Up":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/Weekday]]","Down":null,"aliases":[],"Next":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/1 Day De Les Phantoms/1 Day De Les Phantoms]]","Previous":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/8 Sol/8 Sol]]","Same":null,"tags":["Tagless"],"Yesterday":null,"Tomorrow":null,"Embedded":null,"Title":null,"Comments":true,"Date Created":"278·10·2026 21:24 (Monday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
 
@@ -9,48 +9,48 @@ Time: Sunset
 	- The Fog Eats Loud Noise Or Bright Lights
 	- Well Water Inflicts Poison And Short-Term Memory Loss
 	- A Few Crow Calls Heard In The Distance
-[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma]], Sena, [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Aris]] In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town Events\|Hatchet Town Events]]
-- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma]] Tosses Coin Into Well
+[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma]], Sena, [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris]] In [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Gamora/Clifract/Hatchet Town\|Hatchet Town]]
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma]] Tosses Coin Into Well
 	- No Noise, Just Goes Poof
 - Harbinger Leads Them To The Hideout
-- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma]] Tries To Trick The Doorman ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Khan Doorman\|Khan]]) And Fails
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma]] Tries To Trick The Doorman ([[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Khan Doorman\|Khan]]) And Fails
 	- Being Watched By Someone
 - Eventually Shoots Then Charms [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Khan Doorman\|Khan]] 
 	- Khan Becomes Friendly And Suggestable
 		- Lets Them In
 	- Khan Goes Off To Get <span style="color:rgb(75, 236, 19)">VIP Cloaks</span>
-- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma]] Says She's A [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hunter\|Hunter]] Khan Responds "Are You One Of The Tamers?"
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma]] Says She's A [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hunter\|Hunter]] Khan Responds "Are You One Of The Tamers?"
 - Khan Panics When Told About The Fog "Being Weakened"
 - Spawned A Cloak Room
-- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Aris]] Says She Lost Her Cloak
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris]] Says She Lost Her Cloak
 - Sena Tells Khan To Get Her A Cloak
-- [[Branches/People\|People]] Start Leaving
+- [[Branches/People Branch\|People Branch]] Start Leaving
 - Sena Opens The Door Into The Cloak Room, Mostly Empty
 	- Last Guy In The Cloak Room Meran (Self Important)
 - Sena Demands Someone Gets Her A Cloak
 	- Fails Intimidation Check And Gets Gusted To The Floor
-- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma]] Fails To Talk Meran Down
-- Another [[Gust\|Gust]] Of Wind Knocks Everyone But [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma]] And Meran Over
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma]] Fails To Talk Meran Down
+- Another [[Gust\|Gust]] Of Wind Knocks Everyone But [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma]] And Meran Over
 	- Khan Had To Get The Third Cloak Special
 - They Leave And Reinvestigate The Well
 - Then They Start Killing Each Other While Harbinger Watches
-- They Team Up On [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Aris]], [[Knock\|Knock]] Her Out And Force Her Into The Well
-- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Aris]] Passes Out For Ten Minutes
+- They Team Up On [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris]], [[Knock\|Knock]] Her Out And Force Her Into The Well
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris]] Passes Out For Ten Minutes
 - They Argue For A While
-- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Aris]] Finds A Building (The Local Inn) With A Person (Trill) Looking After His Dads Place
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris]] Finds A Building (The Local Inn) With A Person (Trill) Looking After His Dads Place
 Back In The Hideout
 - Theres A Girl (Lisa) Writing About [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]] In A Notebook For The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Fruitless Sky\|Fruitless Sky]]
-	- Tells [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma]] Not To Touch Anytthing Because Its All Sensitive And/Or Dangerous
+	- Tells [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma]] Not To Touch Anytthing Because Its All Sensitive And/Or Dangerous
 	- Mentions Of Goblins Stuff And Hints Towards The Goblins Knowing The Star Stuff
-- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Aris]] Finds A Trap Door In The Outside Stage With 8 Silver [[Jewels\|Jewels]] Under It
-- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma]] Tries To Kill [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton\|Linton]]
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris]] Finds A Trap Door In The Outside Stage With 8 Silver [[Jewels\|Jewels]] Under It
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma]] Tries To Kill [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton\|Linton]]
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton\|Linton]] Gets Stuck On A Write
 	- Advisor Helps Out
-- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma]] Gets Knocked Out By An [[Eldritch Blast\|Eldritch Blast]]
-- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma]] Gets Stripped Of Her Cloak And Dumped Outside
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma]] Gets Knocked Out By An [[Eldritch Blast\|Eldritch Blast]]
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma]] Gets Stripped Of Her Cloak And Dumped Outside
 	- Harbinger Watches All Of This
-- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Aris]] And Sena Converse About The General Situation
-- [[Skull/Concentrated Brain/Random Thoughts/PetPlay Stuffs\|PetPlay Stuffs]] Of The Inn (Tavernis) Finds [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret 1/Karma]] And Takes Her In
+- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Aris]] And Sena Converse About The General Situation
+- [[Skull/Concentrated Brain/Random Thoughts/PetPlay Stuffs\|PetPlay Stuffs]] Of The Inn (Tavernis) Finds [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma\|Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Secret/Karma]] And Takes Her In
 
 
 
@@ -60,7 +60,7 @@ Back In The Hideout
 	- Opening Speech
 		- "Thank You All For Coming Tonight! [Pauses For Applause] Yes, Yes We've All Waited So Very Long For This Momentous Occasion And Im Sure All Of You Would Love To Get Straight Out There And Do Your Thing. (Ive Heard That Some Of You Already Have). But We Do Unfortunately Have Rules That We Need To Follow So If It Shimmers With All In Attendance Lets Get To The Itinerary...."
 			- "Faith"
-		- "Lets See....The Town Has Been Secured The East Wing Has Been Checked For Goblins And Is Clear. Parlence Has Been Spread. Reminder That If You See The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/The Cult Of The Wicked\|The Cult Of The Wicked]] You Are To Avoid Them. This Should Be Common Knowledge But [[Branches/People\|People]] Keep Asking [[Explicitly Showcased/Me/Me\|Me]] Where They Fit Into The Plan. We Are On....What Are We On"
+		- "Lets See....The Town Has Been Secured The East Wing Has Been Checked For Goblins And Is Clear. Parlence Has Been Spread. Reminder That If You See The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Cult Of The Wicked/Cult Of The Wicked\|Cult Of The Wicked]] You Are To Avoid Them. This Should Be Common Knowledge But [[Branches/People Branch\|People Branch]] Keep Asking [[Explicitly Showcased/Me/Me\|Me]] Where They Fit Into The Plan. We Are On....What Are We On"
 			- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Fruitless Sky Advisor\|Advisor]] Hold Up Right Amount Of Fingers
 		- "We Are On [Number] Which So Far Means [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]" [Improv From Here, Say It Mopstly Seems Like Admin Stuff And Ask If The Group Wants To Stay To Till The End]
 - "Throwing To The Floor Real Quick" And Someone From The Congregation Shouts Out
@@ -82,7 +82,7 @@ Back In The Hideout
 
 - A Girl (Lisa) Writing About [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Stars/Stars\|Stars]] In A Notebook For The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Fruitless Sky\|Fruitless Sky]]
 - Lisa Has Bad Handwritting
-- Wants [[Branches/People\|People]] To Not Touch Anytthing Because Its All Sensitive And/Or Dangerous
+- Wants [[Branches/People Branch\|People Branch]] To Not Touch Anytthing Because Its All Sensitive And/Or Dangerous
 - [[Magic\|Magic]] Detection By The Lab Doors
 - Passively Studying Monster Corpse Stuff
 	- Mentions Of Goblins Stuff And Hints Towards The Goblins Knowing The Star Stuff
@@ -96,9 +96,9 @@ Lil Assistant [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Week
 Books That Increase Int By Two For The Night
 Rewards For Permanent Evil And Proof Of Fucking Up The Main Groups
 
-
 ## The Hatchet Town Hideout
 Bigger On The Inside And Different Each Loop (Depending On Actions Taken)
+
 ### Hatchet Town Hideout Rooms
 
 - Nook, No Exits
@@ -177,7 +177,6 @@ Bigger On The Inside And Different Each Loop (Depending On Actions Taken)
 - Walk In Closet
 -  Escape Room (Initiation If Theyre Found Out)
 
-
 # Other Groups
 Time: Sunset
 The Party Goes To The Moon Day Celebration At [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Satellia/Lei\|Lei]]
@@ -188,25 +187,27 @@ If A Member Of Group S (A Vantas) Interacts With A Party Member They Get A Bendy
 [Temp Stat Up]
 
 [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Church Vantias/Vantias\|Vantias]] Steal And Hide Peters Pipes
-- More [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Church Vantias/Vantias\|Vantias]]  Missions
+- More [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Church Vantias/Vantias\|Vantias]] Missions
 
 - Mostly Lunarian (Common) Attendees
 	- A Couple Exotic Shopkeeps
 		- [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Generic Rogue Shopkeep Sheet\|Generic Rogue Shopkeep Sheet]]
 		- Generic Shopkeep Sheet 2
 - Transportation Arrangement Following Festival To Any Nearby Or Capital Cities (Train/Carriage Escort)
+
 ## North (Main Stage)
 ### Optional Combat Arena
 
-### Music 
+### Music
 - Performed By Bards
-    - Lead By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Pan-Pipes Peter\|Pan-Pipes Peter]]
-        - His Pipes Get Stolen After The Performance
-    - [[Rest\|Rest]] Of The Band Is Made Up Of Dwarves (Paul, Gene, Ace) And Aasimar TWins (Vinnie, Eric)
+	- Lead By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Pan-Pipes Peter\|Pan-Pipes Peter]]
+		- His Pipes Get Stolen After The Performance
+	- [[Rest\|Rest]] Of The Band Is Made Up Of Dwarves (Paul, Gene, Ace) And Aasimar TWins (Vinnie, Eric)
 - After The First Loop The Music Is Managed By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Clarent\|Clarent]]
+
 ### Replacement
 Announced By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hunter\|Hunter]] Because Who Knows Where [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Lancelot\|Lancelot]] Is
-- [[images/Dnd/Character Tokens/NPCs/The Queen Of Gi Fotias\|The Queen Of Gi Fotias]] Couldnt Make It So Theyre Doing A Talent Show
+- [[Files And Shit/Dnd/Character Tokens/NPCs/The Queen Of Gi Fotias\|The Queen Of Gi Fotias]] Couldnt Make It So Theyre Doing A Talent Show
 	- Show Of Strength
 		- Reward
 	- Show Of Skill
@@ -218,17 +219,17 @@ Announced By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hunter\|Hunt
 ## East
 ### "Historical" Paintings
 - Pro-monarchist Propaganda
-    - How The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Queen\|Queen]] Saved Us All
-    - The Wars Of The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hunter\|Hunter]]
-    - Public Executions
+	- How The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Queen\|Queen]] Saved Us All
+	- The Wars Of The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hunter\|Hunter]]
+	- Public Executions
 - Heretic Propaganda
-    - Hellfire
-    - Different Occultist Groups Being Killed During Activities
-        - [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias\|Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias]]
-        - Piscologists
-        - Moon/Nature Worshipers
-        - Violets
-- Depictions Of [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge\|Rouge]] And [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel\|Ciel]] wreaking havok
+	- Hellfire
+	- Different Occultist Groups Being Killed During Activities
+		- [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias\|Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias]]
+		- Piscologists
+		- Moon/Nature Worshipers
+		- Violets
+- Depictions Of [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Rouge/Rouge\|Rouge]] And [[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Moons/Ciel/Ciel\|Ciel]] wreaking havok
 - Guy Painting For The [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Religious Organisations/The Church Of The Next/Church Of The Next\|Church Of The Next]]
 	- A Soul On [[Skull/Spam/Fire\|Fire]] Being Sucked Into A Tube
 
@@ -236,10 +237,10 @@ Announced By [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Hunter\|Hunt
 - Friendship Test
 	- Put An Item That Links You In A Box
 	- [[Red\|Red]] Light Or [[Green\|Green]] Light
+
 ### Balloon Darts
 ### Whack-a-mole
 free
-
 
 ## Petting Zoo And Botanical Garden Pocket Dimension
 2 Gold Per Head
@@ -257,7 +258,6 @@ If She Dies All The Creatures Are Let Out
 - [Bear Dog](https://www.dandwiki.com/wiki/Bear_Dog_(5e_Creature))
 - [Beaver](https://www.dandwiki.com/wiki/Beaver_(5e_Creature))
 -  
-
 
 ## South
 ### Puzzles
@@ -290,50 +290,55 @@ If She Dies All The Creatures Are Let Out
 - [[Purple Oil\|Purple Oil]] Member Of The Guilded Capes
 - **[[Skull/Concentrated Brain/Dnd/Mine/Realities/Kawshekh/Location/Planets/Harmony/Regions/Hollywood/Named Cities And Towns/Hell\|Hell]]-Heated-Sodio-Elysium Crystal** Blessed By The God Of Craft Reeves
 - **Members Of [[Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias\|Skull/Concentrated Brain/Dnd/Mine/Beliefs/Vantias/Vantias]]** Cause A Scene
-    - "Fake Science"
-    - "Messing With Powers Beyond Their Control"
-    - "The World Will End And Blood Will Be On Your Hands"
+	- "Fake Science"
+	- "Messing With Powers Beyond Their Control"
+	- "The World Will End And Blood Will Be On Your Hands"
 
 #### Hunter (2nd Prince)
 - Announces That The [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Queen\|Queen]] Was Otherwise Occupied But That He Has Enjoyed The Day So Far
 
 #### Droste
 - Puts On A Show
-    - Light Show
-    - Tells Everyone To Make Their Way To The Main Stage
-    -  Collapsing Door To Nowhere As An Exit
-        - Pocket Dimension Suitcase
-            - House And Storage And Stuff
+	- Light Show
+	- Tells Everyone To Make Their Way To The Main Stage
+	-  Collapsing Door To Nowhere As An Exit
+		- Pocket Dimension Suitcase
+			- House And Storage And Stuff
+
 ### Qute's Stand
 
 ## West
 ### **Intergalactic Subway**
 - [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Neutral/Jared\|Jared]] Stays In The Subway Alone And Does His Job
-    - Has Next Day Off
-        - Is At Subway For The [[Rest\|Rest]] Of The Timeline
+	- Has Next Day Off
+		- Is At Subway For The [[Rest\|Rest]] Of The Timeline
 - Bin Of Screaming
-    - Three Bins
-        - Bin One: [[Green\|Green]], Screams
-        - Bin Two: [[Red\|Red]], Recycling
-        - Bin Three: Grey, Rubbish
-      
+	- Three Bins
+		- Bin One: [[Green\|Green]], Screams
+		- Bin Two: [[Red\|Red]], Recycling
+		- Bin Three: Grey, Rubbish
+	  
+
 ### Sera's Stand
 
 ### Fri's Lil Shop Of Waters
 Tea Shop With Open Jars Of what Looks Like Various Herbs And Powders
 Honor System
-	Breaking Honor  System Gives 1 Related And 1 Random Curse
+	Breaking Honor System Gives 1 Related And 1 Random Curse
+
 #### 20 Gold Tea (Price Increases Every Time), Effects Last For The Loop
 [[Blue\|Blue]]- +10 Speed
 Sleepy Time With [[Explicitly Showcased/People/Special Ones/Ash/Tiddy Gremlin\|Tiddy Gremlin]]- Advantage Against Being Put To Sleep
 Carrot Tea- [[Darkvision\|Darkvision]] 20ft
 Mixed Fruits- +1 To Lowest Stat
+
 #### 100 Gold Tea
 Pep In Your Step- Extra Reaction
 [[Lucky\|Lucky]] Sip- Inspiration
 Golden Shower- [[Skull/Concentrated Brain/Poetry Apparently/Thing Trilogy/Nothing\|Nothing]]
 Free Spirit- One Death Save
-### A few (SMALL) quests 
+
+### A Few (SMALL) Quests
 
 10 Copper Each
 - [ ] Half-Priced Cracked Ice
@@ -352,4 +357,3 @@ Free Spirit- One Death Save
 Without Influence [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Group 1/Qutes\|Qutes]] Makes 350 Silver Max (Check Her Pricing)
 Without Influence [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/Starfall PCs/Group 1/Sera\|Sera]] Makes 7 Gold Max (Check Her Pricing)
 	Eating Seras Food Will Give Temporary +3 To Wisdom The First Time Its Eaten
-

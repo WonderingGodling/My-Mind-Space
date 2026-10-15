@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/uni/2/5-ab-molecular-biosciences/5-bc-005-molecular-biosciences-practical-techniques/molecular-biosciences-practical-techniques/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Uni Db.base]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/uni/2/5-ab-molecular-biosciences/5-bc-005-molecular-biosciences-practical-techniques/molecular-biosciences-practical-techniques/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Uni Db.base]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"[[Files And Shit/Pasted image 20251109222050.png]]","Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Files And Shit/Pasted image 20251109222050.png","thumbnail":"thumbnails/resized/3e24a0d49c3cd74ba09cadc2f1526cf6_86cf658e.webp"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#AAAAAA">Molecular Biosciences Practical Techniques</span></center>
 
 ![[Practical 1 PCR 2024.docx]]
 
-## vector
+## Vector
 capable of carrying a fragment of foreign DNA  
 (Vector + foreign DNA = Recombinant DNA)
 cDNA: Complementary DNA
@@ -19,23 +19,23 @@ OPR (Open Reading Frame) And CDS (Coding DNA Sequence) Are The Same Thing
 Types of Vectors:
 - Cloning Vectors 
 	- isolate and amplify DNA
-	![Pasted image 20251109222050.png](/img/user/images/Pasted%20image%2020251109222050.png)
-	![pBluescript_II_SK(+).png](/img/user/images/pBluescript_II_SK(+).png)
+	![Pasted image 20251109222050.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109222050.png)
+	![pBluescript_II_SK(+).png](/img/user/Files%20And%20Shit/pBluescript_II_SK(+).png)
 - Expression Vectors
 	- isolate and amplify DNA
 	- express foreign DNA (gene) in host organism/cell (DNA RNA Protein)
-![Pasted image 20251109220241.png](/img/user/images/Pasted%20image%2020251109220241.png)
-![pcDNA3.1(-).png](/img/user/images/pcDNA3.1(-).png)
+![Pasted image 20251109220241.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109220241.png)
+![pcDNA3.1(-).png](/img/user/Files%20And%20Shit/pcDNA3.1(-).png)
 pcDNA+ MCS Is In A Different Order
 
 Other Vectors:
 - Bacteriophage
 - Bacterial Artificail Chromosome (BAC)
-![Pasted image 20251113001917.png](/img/user/images/Pasted%20image%2020251113001917.png)
+![Pasted image 20251113001917.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251113001917.png)
 - Yeast Artificial Chromosome (YAC)
 
 ## Gene Cloning
-### Plasmid 
+### Plasmid
  dsDNA molecule capable of independent replication within a host organism (Bacteria).  
 
 All plasmids contain:
@@ -43,18 +43,16 @@ All plasmids contain:
 - Charicteristic gene (Like amp<sup>r</sup>)
  
 #### Plasmid Modifications
-##### Multiple cloning site
+##### Multiple Cloning Site
 A small sequence (~30-80bp) of DNA containing recognition sites for a number of common restriction enzymes (must be unique to the cloning site)
 
  pBluescript II Mcs:
 Kpn1-XhoI-ClaI-HindIII-EcoRV-EcoRI-PstI-BamHI-XbaI--NotI-BstxI-SacI
 
-##### screening system System
-###### The LacZ selection system
-The b-galactosidase gene, LacZ, metabolizes Xgal    Producing a blue product
-Insertion of foreign DNA into the MCS destroys the LacZ gene    no blue product
-
-
+##### Screening System System
+###### The LacZ Selection System
+The b-galactosidase gene, LacZ, metabolizes Xgal Producing a blue product
+Insertion of foreign DNA into the MCS destroys the LacZ gene no blue product
 
 ## Restriction Enzymes
 Found naturally in bacteria- protect against infection from bacteriophages
@@ -74,7 +72,7 @@ EcoRI Cuts Once
 SalI Cuts Twice
 NcoI Cuts Thrice
 
-## DNA ligase
+## DNA Ligase
 catalyses the formation of a phosphodiester bond between the 3’-hydroxyl group at the end of one double stranded DNA chain and the 5’-phosphoryl group at the end of another.
 To ensure the best chance of a successful ligation reaction we add more insert (SPINT2) than Vector (pCDNA3.1)
 When preforming ligations we measure the amount of DNA used in ends:  
@@ -88,12 +86,12 @@ Reverse Primer Is Complimentary To The Forward DNA
 
 Primers Made With 21 Base Pairs
 
-Primer written: 5'  3'  
+Primer written: 5' 3'  
 
 ## SPINT2
 SPINT2 Is Also Called HFG Activator Inhibitor Type 2 (HAI-2)
 Hepatocyte growth factor (HFG)
-MET   (AKA: HGF receptor)
+MET (AKA: HGF receptor)
 **Kunitz-type protease inhibitor 2** is an [enzyme inhibitor](https://en.wikipedia.org/wiki/Enzyme_inhibitor "Enzyme inhibitor") that in humans is encoded by the _SPINT2_ [gene](https://en.wikipedia.org/wiki/Gene "Gene").[[5\|5]](https://en.wikipedia.org/wiki/SPINT2#cite_note-pmid9115294-5)[[6\|6]](https://en.wikipedia.org/wiki/SPINT2#cite_note-pmid9346890-6)[[7\|7]](https://en.wikipedia.org/wiki/SPINT2#cite_note-entrez-7) SPINT2 is a [transmembrane protein](https://en.wikipedia.org/wiki/Transmembrane_protein "Transmembrane protein") with two extracellular [Kunitz domains](https://en.wikipedia.org/wiki/Kunitz_domain "Kunitz domain") to inhibit [serine proteases](https://en.wikipedia.org/wiki/Serine_protease "Serine protease"). This gene is a presumed [tumor suppressor](https://en.wikipedia.org/wiki/Tumor_suppressor_gene "Tumor suppressor gene") by inhibiting HGF activator which prevents the formation of active [hepatocyte growth factor](https://en.wikipedia.org/wiki/Hepatocyte_growth_factor "Hepatocyte growth factor"). [Mutations](https://en.wikipedia.org/wiki/Mutation "Mutation") in SPINT2 could result in [congenital sodium diarrhea](https://en.wikipedia.org/w/index.php?title=Congenital_sodium_diarrhea&action=edit&redlink=1 "Congenital sodium diarrhea (page does not exist)") (CSD).
 
 ## Transformation
@@ -125,27 +123,29 @@ minutes.
 
 
 1.2a: Historic mini-prep protocol Solutions  
-Solution GTE:               50 mM glucose, 25 mM Tris/HCl (pH 8.0), 10 mM EDTA  
+Solution GTE: 50 mM glucose, 25 mM Tris/HCl (pH 8.0), 10 mM EDTA  
 Solution SDS/NaOH: 0.2 M NAOH, 1 % (w/v) SDS (sodium dodecyl sulphate)  
-Solution KAc:                5 M Potassium Acetate (60 ml), Glacial acetic acid (11.5 ml),  
+Solution KAc: 5 M Potassium Acetate (60 ml), Glacial acetic acid (11.5 ml),  
 H2O (28.5 ml).  
 
-## Expression of cloned genes in human cells
+## Expression Of Cloned Genes In Human Cells
 Cellular localisation [images]
 Effect on Cell physiology
-## Moles, Daltons and Constants
+
+## Moles, Daltons And Constants
 A Mole is the amount of a substance that contains the same number of elementary entities (atoms, molecules etc.) as 12g of Carbon.
 
 Atomic Mass of Carbon= 12Da (The accepted unit of molecular Mass is the Dalton (Da or kDa)
 1Mol of Carbon= 12g
 
-The number of Carbon atoms in 1Mol (12g) is:  6.022 X1023 
+The number of Carbon atoms in 1Mol (12g) is: 6.022 X1023 
 This is the Avogadro constant: N<sub>A</sub> or L  
 N<sub>A</sub> is the number if units of a substance per Mole.  
 6.022 X1023 mol-1
 
 ((x/1.5)<sup>6</sup>)10<sup>-9</sup>ng
 A/ng = Molecules/ng
+
 ### Calculations
 
 Atomic Mass of Carbon= 12  
@@ -178,7 +178,7 @@ The Molecular Mass of dsDNA
 602,200,000,000  
 (6.022X1023/1X1012=6.022X1011)
 
-#### How many molecules of pBS are there in 100ng?
+#### How Many Molecules Of pBS Are There In 100ng?
  1.5kb= 1X106 Da
 (3/1.5=2)
  1 pBS molecule has a mass of (3/1.5)= 2X106 Da
@@ -195,9 +195,9 @@ So: 2X106g= 2X106 X 1X109= 2X1015ng
 
 6.02X1023/2X1015=3X108 (1ng) X100= 3X1010 (100ng)
 
-### Scoring successful Transformants (pcDNA3.1 control)
+### Scoring Successful Transformants (pcDNA3.1 Control)
 
-#### Number of transformants per ug of DNA
+#### Number Of Transformants Per Ug Of DNA
 No. of colonies: 200
 Total Volume: 1000ul  
 100ul plated  
@@ -213,10 +213,10 @@ Then: 200 (colonies) X1.0 (ug)/0.005=
 plasmid  
 (4.0X104 )
 
-### Scoring successful Transformants
-#### Number of transforming molecules per ug of plasmid
+### Scoring Successful Transformants
+#### Number Of Transforming Molecules Per Ug Of Plasmid
 No. of colonies: 200
-Plasmid pCDNA3.1  (5.427kb)
+Plasmid pCDNA3.1 (5.427kb)
 1.5kb= 1X106 Da  
 1 pCDNA3.1 molecule has a mass of (5.427/1.5)=  
 3.62X106 Da  
@@ -231,8 +231,7 @@ of pCDNA3.1/ug
 0.005 X 1.66X1011 = 8.3X108 molecules  
 830,000,000)
 
-
-#### Number of E.coli plated
+#### Number Of E.coli Plated
 No. of colonies: 200
 Plasmid pCDNA3.1  
 (5.427kb)
@@ -250,8 +249,8 @@ successful transformation
 1 in 4.15X106 Successfully transformed
 (4.15X106 = 4.15 million)
 
-### Scoring successful Transformants (Ligation)
-#### Number of transformants per ug of DNA
+### Scoring Successful Transformants (Ligation)
+#### Number Of Transformants Per Ug Of DNA
 No. of colonies: 200
 Plasmid pCDNA3.1
 (5.427kb)
@@ -270,7 +269,8 @@ Then: 200 (colonies) X1.0 (ug)/0.058=
 3,448 successful transformants per ug  
 plasmid  
 (3.450X103 )
-#### Number of transforming molecules per ug of plasmid
+
+#### Number Of Transforming Molecules Per Ug Of Plasmid
 No. of colonies: 200
 Plasmid pCDNA3.1
 (5.427kb)
@@ -288,7 +288,8 @@ So: 6.02X1023 /4.15X1012 = 1.45X1011 molecules
 of pCDNA3.1-SPINT2/ug  
 (0.058ug in 1000ul on plate  
 0.058 X 1.45X1011 = 8.41X109 molecules)
-#### Number of E.coli plated
+
+#### Number Of E.coli Plated
 No. of colonies: 200
 Plasmid pCDNA3.1
 (5.427kb)
@@ -307,7 +308,7 @@ successful transformation
 1 in 4.2X107 Successfully transformed
 (4.2X107 = 42 million)
 
-## Questions:  
+## Questions:
 Week 1  
 Restriction digest of plasmids to prepare gene (insert) and expression  
 vector for ligation.  
@@ -358,8 +359,7 @@ Q14: describe what you see in each of the three digestion lanes, what do they
 represent? Was your sub-cloning experiment successful? Include a fully labeled  
 figure (a calibration curve is not required).
 
-
-## Lost in translation
+## Lost In Translation
 Plasmid small
 Expression Vector
 	p- Promoter
@@ -367,14 +367,14 @@ Differences Between Vectors
 ((x/1.5)<sup>6</sup>)10<sup>-9</sup>ng
 A/ng = Molecules/ng
 "complementary cOhesvive Pairs"
-Incubate Constriction At 4°C  To Provide Time For Hydrogen Bonding 
+Incubate Constriction At 4°C To Provide Time For Hydrogen Bonding 
 	ATP Provides Energy Not Heat
 	Call Wall And DNA Are Negatively Charged
 	CaCl<sub>2</sub><sup>2+</sup> Makes The Bacteria "Chemically Competent"
 Beta Lactinase Degrades Ampicillin
 
 ## Mark
-### Tumor suppressor activity and epigenetic inactivation of hepatocyte growth factor activator inhibitor type 2/SPINT2 in papillary and clear cell renal cell carcinoma
+### Tumor Suppressor Activity And Epigenetic Inactivation Of Hepatocyte Growth Factor Activator Inhibitor Type 2/SPINT2 In Papillary And Clear Cell Renal Cell Carcinoma
 #### Abstract
 
 Following treatment with a demethylating agent, 5 of 11 renal cell carcinoma (RCC) cell lines showed increased expression of hepatocyte growth factor (HGF) activator inhibitor type 2 (HAI-2/SPINT2/Bikunin), a Kunitz-type protease inhibitor that regulates HGF activity. As activating mutations in the MET proto-oncogene (the HGF receptor) cause familial RCC, we investigated whether HAI-2/SPINT2 might act as a RCC tumor suppressor gene. We found that transcriptional silencing of HAI-2 in RCC cell lines was associated with promoter region methylation and HAI-2/SPINT2 protein expression was down-regulated in 30% of sporadic RCC. Furthermore, methylation-specific PCR analysis revealed promoter region methylation in 30% (19 of 64) of clear cell RCC and 40% (15 of 38) of papillary RCC, whereas mutation analysis (in 39 RCC cell lines and primary tumors) revealed a missense substitution (P111S) in one RCC cell line. Restoration of HAI-2/SPINT2 expression in a RCC cell line reduced in vitro colony formation, but the P111S mutant had no significant effect. Increased cell motility associated with HAI-2/SPINT2 inactivation was abrogated by treatment with extracellular signal-regulated kinase (ERK)/mitogen-activated protein kinase (MAPK) and phospholipase C-gamma inhibitors, but not by an inhibitor of atypical protein kinase C. These findings are consistent with frequent epigenetic inactivation of HAI-2/SPINT2, causing loss of RCC tumor suppressor activity and implicate abnormalities of the MET pathway in clear cell and papillary sporadic RCC. This information provides opportunities to develop novel targeted approaches to the treatment of RCC.
@@ -385,7 +385,7 @@ Renal cell carcinoma (RCC) is a heterogeneous disorder with the majority (∼75%
 
 Methylation of CpG dinucleotides in the promoter regions of tumor suppressor genes producing transcriptional silencing plays a major role in many human cancers (13–16). The frequency of tumor suppressor gene inactivation by de novo methylation varies between tumor suppressor genes and between cancers. Thus, the 3p21.3 renal tumor suppressor gene, RASSF1A, is usually inactivated by epigenetic silencing and only rarely by somatic mutations (17–22), whereas the VHL tumor suppressor gene is inactivated more commonly by somatic mutation than by epigenetic silencing (8–11). For certain cancers, notably colorectal cancer, a subset of tumors may show extensive tumor suppressor gene promoter methylation (23). However, in a methylation profile analysis of RCC, we found promoter methylation of only a minority of tumor suppressor genes that were known to be inactivated in other tumor types (24, 25). This observation prompted us to investigate whether gene expression profiling of RCC cell lines treated with the demethylated agent 5-azacytidine might identify novel RCC tumor suppressor genes (26–28). During our investigations, we found silencing or down-regulation of HAI-2/SPINT2 expression in a number of RCC cell lines. HAI-2/SPINT2 (also known as bikunin) encodes Kunitz-type protease inhibitor that regulates HGF activity. Thus, HGF is secreted as an inactive proform and needs to be activated by HGF activator enzyme to initiate MET signaling. HAI-2/SPINT2 is an endogenous inhibitor of HGF activator enzyme and has been implicated in the pathogenesis of ovarian and hepatocellular carcinoma (29–31). In view of these findings, we proceeded to investigate whether epigenetic inactivation of SPINT2 might play a role in renal tumorigenesis.
 
-#### Materials and Methods
+#### Materials And Methods
 
 **Patients and samples.** DNA from a total of 102 primary RCCs were analyzed and subdivided into 64 clear cell and 38 papillary RCCs. Protein lysates from 31 additional RCC tumors (29 clear cell RCC and 2 nonclear cell RCC) was also analyzed. Local ethics committees approved the collection of samples and informed consent was obtained from each patient.
 
@@ -416,6 +416,7 @@ In a similar manner, untransfected SKRC39 cells were scratched and incubated in 
 **Anchorage-independent growth assay.** SKRC39, UMRC2, or SKRC45 clones (three of each) stably expressing wt_SPINT2_ or the empty vector control were suspended in DMEM 10% FCS agar. Cells were maintained by addition of 200 μL of DMEM 10% FCS, supplemented with 1 mg/mL G418 weekly. After 8 weeks of growth, a final count of colonies was done.
 
 **Statistical analysis.** Paired _t_ tests and χ2 tests were carried out using SPSS 12.0 and statistical significance was taken at the 0.05 level.
+
 #### Results
 **Expression of HAI-2/SPINT2 protein in sporadic renal cell carcinoma**
 **_HAI-2/SPINT2_ promoter region methylation status and mutation analysis in sporadic renal cell carcinoma****Restoration of _HAI-2/SPINT2_ expression reduces colony formation**
@@ -435,69 +436,67 @@ We found that restoration of _HAI-2/SPINT2_ expression had a variety of effects 
 
 RCC is curable if detected at an early stage. However, up to 40% of patients with RCC present with locally advanced or metastatic disease that is difficult to treat with chemotherapy or radiotherapy. A major aim of human cancer genetics is to develop novel therapeutic agents based on a detailed knowledge of cancer molecular biology. Such agents could then be administered in individualized treatment regimens. Thus, response to treatment with an epidermal growth factor receptor (EGFR) kinase inhibitor (gefitinib) in lung cancer patients was associated with the presence of somatic EGFR mutations in the lung cancer (55, 56), Intriguingly, bikunin has been investigated as a treatment for ovarian carcinoma. Thus, overexpression of _HAI-2/SPINT2_ in an ovarian cancer cell line suppressed invasion and peritoneal carcinomatosis (30), and once-daily oral _HAI-2/SPINT2_ therapy reduced tumor load in a nude mouse model and in human ovarian cancer (57). In addition, a combination of _HAI-2/SPINT2_ and paclitaxel produced more profound effects on tumor growth (58). We note that conditioned media from HAI-2/SPINT2–expressing cells inhibited cell motility. Thus, our findings suggest that administration of HAI-2/SPINT2, and/or inhibitors of MET signaling (59), might provide novel therapeutic approaches to treating advanced RCC with HAI-2/SPINT2 inactivation.
 
-
 ## Extra Research
 ## Misc
-![pBluescript_II_SK(+).png](/img/user/images/pBluescript_II_SK(+).png)
-![pcDNA3.1(-).png](/img/user/images/pcDNA3.1(-).png)
-![Pasted image 20251109213326.png](/img/user/images/Pasted%20image%2020251109213326.png)
-![Pasted image 20251109213332.png](/img/user/images/Pasted%20image%2020251109213332.png)
-![Pasted image 20251113002319.png](/img/user/images/Pasted%20image%2020251113002319.png)
-![Pasted image 20251113002348.png](/img/user/images/Pasted%20image%2020251113002348.png)
-![Pasted image 20251109213338.png](/img/user/images/Pasted%20image%2020251109213338.png)
-![Pasted image 20251109213401.png](/img/user/images/Pasted%20image%2020251109213401.png)
-![Pasted image 20251109213525.png](/img/user/images/Pasted%20image%2020251109213525.png)
-![Pasted image 20251113002401.png](/img/user/images/Pasted%20image%2020251113002401.png)
-![Pasted image 20251113002427.png](/img/user/images/Pasted%20image%2020251113002427.png)
-![Pasted image 20251109213621.png](/img/user/images/Pasted%20image%2020251109213621.png)
-![Pasted image 20251109215235.png](/img/user/images/Pasted%20image%2020251109215235.png)
-![Pasted image 20251109220206.png](/img/user/images/Pasted%20image%2020251109220206.png)
-![Pasted image 20251109220215.png](/img/user/images/Pasted%20image%2020251109220215.png)
-![Pasted image 20251109222044.png](/img/user/images/Pasted%20image%2020251109222044.png)
-![Pasted image 20251109215943.png](/img/user/images/Pasted%20image%2020251109215943.png)
-![Pasted image 20251109220003.png](/img/user/images/Pasted%20image%2020251109220003.png)
-![Pasted image 20251109220012.png](/img/user/images/Pasted%20image%2020251109220012.png)
-![Pasted image 20251109220026.png](/img/user/images/Pasted%20image%2020251109220026.png)
-![Pasted image 20251109220326.png](/img/user/images/Pasted%20image%2020251109220326.png)
-![Pasted image 20251109220333.png](/img/user/images/Pasted%20image%2020251109220333.png)
-![Pasted image 20251109220612.png](/img/user/images/Pasted%20image%2020251109220612.png)
-![Pasted image 20251109220729.png](/img/user/images/Pasted%20image%2020251109220729.png)
-![Pasted image 20251109221116.png](/img/user/images/Pasted%20image%2020251109221116.png)
-![Pasted image 20251109221356.png](/img/user/images/Pasted%20image%2020251109221356.png)
-![Pasted image 20251109221428.png](/img/user/images/Pasted%20image%2020251109221428.png)
-![Pasted image 20251109221820.png](/img/user/images/Pasted%20image%2020251109221820.png)
-![Pasted image 20251109222235.png](/img/user/images/Pasted%20image%2020251109222235.png)
-![Pasted image 20251109222300.png](/img/user/images/Pasted%20image%2020251109222300.png)
-![Pasted image 20251109223041.png](/img/user/images/Pasted%20image%2020251109223041.png)
-![Pasted image 20251109223046.png](/img/user/images/Pasted%20image%2020251109223046.png)
-![Pasted image 20251109223117.png](/img/user/images/Pasted%20image%2020251109223117.png)
-![Pasted image 20251109223122.png](/img/user/images/Pasted%20image%2020251109223122.png)
-![Pasted image 20251109223134.png](/img/user/images/Pasted%20image%2020251109223134.png)
+![pBluescript_II_SK(+).png](/img/user/Files%20And%20Shit/pBluescript_II_SK(+).png)
+![pcDNA3.1(-).png](/img/user/Files%20And%20Shit/pcDNA3.1(-).png)
+![Pasted image 20251109213326.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109213326.png)
+![Pasted image 20251109213332.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109213332.png)
+![Pasted image 20251113002319.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251113002319.png)
+![Pasted image 20251113002348.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251113002348.png)
+![Pasted image 20251109213338.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109213338.png)
+![Pasted image 20251109213401.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109213401.png)
+![Pasted image 20251109213525.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109213525.png)
+![Pasted image 20251113002401.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251113002401.png)
+![Pasted image 20251113002427.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251113002427.png)
+![Pasted image 20251109213621.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109213621.png)
+![Pasted image 20251109215235.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109215235.png)
+![Pasted image 20251109220206.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109220206.png)
+![Pasted image 20251109220215.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109220215.png)
+![Pasted image 20251109222044.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109222044.png)
+![Pasted image 20251109215943.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109215943.png)
+![Pasted image 20251109220003.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109220003.png)
+![Pasted image 20251109220012.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109220012.png)
+![Pasted image 20251109220026.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109220026.png)
+![Pasted image 20251109220326.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109220326.png)
+![Pasted image 20251109220333.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109220333.png)
+![Pasted image 20251109220612.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109220612.png)
+![Pasted image 20251109220729.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109220729.png)
+![Pasted image 20251109221116.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109221116.png)
+![Pasted image 20251109221356.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109221356.png)
+![Pasted image 20251109221428.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109221428.png)
+![Pasted image 20251109221820.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109221820.png)
+![Pasted image 20251109222235.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109222235.png)
+![Pasted image 20251109222300.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109222300.png)
+![Pasted image 20251109223041.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109223041.png)
+![Pasted image 20251109223046.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109223046.png)
+![Pasted image 20251109223117.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109223117.png)
+![Pasted image 20251109223122.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109223122.png)
+![Pasted image 20251109223134.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109223134.png)
 
-![Pasted image 20251113001917.png](/img/user/images/Pasted%20image%2020251113001917.png)
-![Pasted image 20251113001937.png](/img/user/images/Pasted%20image%2020251113001937.png)
-![Pasted image 20251113001956.png](/img/user/images/Pasted%20image%2020251113001956.png)
-![Pasted image 20251113002004.png](/img/user/images/Pasted%20image%2020251113002004.png)
-![Pasted image 20251113002015.png](/img/user/images/Pasted%20image%2020251113002015.png)
-![Pasted image 20251113002021.png](/img/user/images/Pasted%20image%2020251113002021.png)
+![Pasted image 20251113001917.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251113001917.png)
+![Pasted image 20251113001937.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251113001937.png)
+![Pasted image 20251113001956.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251113001956.png)
+![Pasted image 20251113002004.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251113002004.png)
+![Pasted image 20251113002015.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251113002015.png)
+![Pasted image 20251113002021.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251113002021.png)
+
 ## Stuff I Missed
-![Pasted image 20251109213413.png](/img/user/images/Pasted%20image%2020251109213413.png)
-![Pasted image 20251109213423.png](/img/user/images/Pasted%20image%2020251109213423.png)
-![Pasted image 20251109214106.png](/img/user/images/Pasted%20image%2020251109214106.png)
-![Pasted image 20251109214222.png](/img/user/images/Pasted%20image%2020251109214222.png)
+![Pasted image 20251109213413.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109213413.png)
+![Pasted image 20251109213423.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109213423.png)
+![Pasted image 20251109214106.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109214106.png)
+![Pasted image 20251109214222.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109214222.png)
 
-![Pasted image 20251109214703.png](/img/user/images/Pasted%20image%2020251109214703.png)
-![Pasted image 20251109214737.png](/img/user/images/Pasted%20image%2020251109214737.png)
-![Pasted image 20251109214757.png](/img/user/images/Pasted%20image%2020251109214757.png)
-![Pasted image 20251109215257.png](/img/user/images/Pasted%20image%2020251109215257.png)
-![Pasted image 20251109215303.png](/img/user/images/Pasted%20image%2020251109215303.png)
-![Pasted image 20251109215309.png](/img/user/images/Pasted%20image%2020251109215309.png)
-![Pasted image 20251109222528.png](/img/user/images/Pasted%20image%2020251109222528.png)
-![Pasted image 20251109222532.png](/img/user/images/Pasted%20image%2020251109222532.png)
+![Pasted image 20251109214703.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109214703.png)
+![Pasted image 20251109214737.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109214737.png)
+![Pasted image 20251109214757.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109214757.png)
+![Pasted image 20251109215257.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109215257.png)
+![Pasted image 20251109215303.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109215303.png)
+![Pasted image 20251109215309.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109215309.png)
+![Pasted image 20251109222528.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109222528.png)
+![Pasted image 20251109222532.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109222532.png)
 
-
-
-## Definitions 
+## Definitions
 
 Complimentary DNA (cDNA): DNA synthesised from a mRNA template catalysed by the retroviral enzyme reverse transcriptase.
 
@@ -510,7 +509,7 @@ Primase: Enzymes whose continual activity is required at the DNA replication for
 
 Reverse Transcriptase: An enzyme used to generate DNA from an RNA template. The enzyme is encoded by reverse-transcribing RNA viruses (e.g. retroviruses) to convert their RNA genomes into DNA  
 
-## Appendix  
+## Appendix
 1.1: Preparation of calcium competent E.coli.  
 Day 1  
 Set up an overnight culture of E.coli  
@@ -526,9 +525,9 @@ minutes.
 
 
 1.2a: Historic mini-prep protocol Solutions  
-Solution GTE:               50 mM glucose, 25 mM Tris/HCl (pH 8.0), 10 mM EDTA  
+Solution GTE: 50 mM glucose, 25 mM Tris/HCl (pH 8.0), 10 mM EDTA  
 Solution SDS/NaOH: 0.2 M NAOH, 1 % (w/v) SDS (sodium dodecyl sulphate)  
-Solution KAc:                5 M Potassium Acetate (60 ml), Glacial acetic acid (11.5 ml),  
+Solution KAc: 5 M Potassium Acetate (60 ml), Glacial acetic acid (11.5 ml),  
 H2O (28.5 ml).  
 
 1.2b: Ion exchange column miniprep protocol (Qiagen)
@@ -541,8 +540,7 @@ H2O (28.5 ml).
 
 1.6 p35/10 BAC  
 
-
-## Assessment  
+## Assessment
 This is a single practical which extends over 6 sessions.  
 During that time you will carry out several experiments each of which will continue on  
 from the one before, forming a natural progression.  
@@ -565,10 +563,10 @@ OBJECTIVES
 The purpose of this module is to introduce you to the basic techniques of molecular  
 biology related to the manipulation of recombinant DNA and the use of microbial host  
 cells. The techniques you will use are fundamental to modern molecular biology:  
-• Restriction endonuclease analysis of plasmid DNA  
-• Creating recombinant DNA by ligation  
-• Transformation of bacterial host cells with plasmid DNA  
-• Rapid isolation of recombinant plasmids from bacterial host cells  
+- Restriction endonuclease analysis of plasmid DNA  
+- Creating recombinant DNA by ligation  
+- Transformation of bacterial host cells with plasmid DNA  
+- Rapid isolation of recombinant plasmids from bacterial host cells  
 An interesting gene (SPINT2) has been cloned into a basic cloning plasmid. To  
 enable us to determine what the gene product (protein) does we need to sub-clone  
 it into an expression plasmid.  
@@ -1047,7 +1045,6 @@ NOT required) (30 marks).
 Week 6  
 Test!  
 The test will last for 1 hour 30 min.
-
 
 ## SPINT2
 

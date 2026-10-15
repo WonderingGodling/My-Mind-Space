@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"dg-permalink":"Avarice Dies","permalink":"/Avarice Dies/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Starfall Legend/The Stars' Legacy]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/starfall-legend/avarice-dies/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Starfall Legend/The Stars' Legacy]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"permalink":"Avarice Dies","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
  float: right;
 }
 </style>
-
 
 # <center><span style="color:#DEFC0A">Avarice Dies</span></center>
 
@@ -19,11 +19,3 @@ He Didn't Live To See The End Of The War But He Would Have Been Proud Of The Wor
 Then There Was The Day He Died. As He Fell The World Lit Up. It Was The Most Beautiful Tragedy. Very Few People Get To See A Sword Thrown So High That It Gets Lost Inside The Sky's Light. The Fewest People Got To See The Sword Glide Amidst The Battlefield And Through The Scales Of Those Beasts. Even Dead, *Polites* Was The End Of More Mites Than Any Other Soldier That Day Which Is Why It Is Always A Pleasure To Go See *Piecemeal*.
 
 As I Write This, The Blade Of That Legend Is Still Dripping With Aureate Blood, Still Plunged In The Plains Where It Landed, Still A Symbol Of The Determination We Are Capable Of Harnessing.
-
-
-
-
-
-
-
-

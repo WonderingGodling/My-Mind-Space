@@ -1,12 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/explicitly-showcased/people/special-ones/edie/dee/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"Permalink":"TheMythicalEdie","permalink":"/TheMythicalEdie/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"285·2026 (Monday)","dg-note-properties":{"Type":null,"Up":"[[Explicitly Showcased/People/Special Ones/Edie/Mai Wife!!]]","aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·2026 (Sunday)","Date Modified":"285·2026 (Monday)","Name":"Edie","Nickname":"Deedus :)","Pronouns":"She/Her","Why Pronouns":"Because woman i think","Orientation":"Pansexual","Birthday":"20th Feb 2005","Contact Info":[447908870302,"edieadavies@gmail.com"],"Picked Number":17,"Favourite Number":21,"Favourite (Mixture Of) Smell(s)":"LOVE smoky and rummy and sandalwoody things","Favourite Skull":"Elk or Deer","Favourite Animal":"Deer or Bear","Favourite Parasocial":"Alexander Skarsgard i suppose","Last Sing Occasion":"Today, all the time","Big Scare":"Being stuck emotionally","Allergic Or Hates":"I hate scrambled eggs","Counting Visual":"I count on my fingers:)","Opposite Of Coffee":"Not having the shits","Thoughts On Sun Fire":"Yeah... i think it is?","Character Flaw":"Unwavering ambition","One Gorilla Or Five Cobras":"Gorilla","Traditional Superpower":"Invisibility","Drink They Are":"A horrible flavoured beer","The One Food To Rule Them All":"big samdwich","Jack Off Elephant":"No","Toddler Fight":10,"Tasty Poison":"Any funky coloured mushroom","Experience To Share":"This DICK","Enough Effection":"Plenty","Unfortunate Interest":"Boot cleaning lol I feel like thats an ancient kink","Biggest Insert":"Maybe like 2 whole hotdogs in my mouth"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
-
 # <center><span style="color:#000000">Dee</span></center>
 Muse;Spider, Flesh
+
+<p><span>   Born 7905 days ago</span></p>
+
+
+
 
 # Good Day
 I Hung Out With Dee Today (The Light Of My Life, Beacon Of Hope And The Best Woman Since Adam Got Married) And She Is Always So Freaking Amazing!
@@ -14,7 +19,7 @@ We Went To Spoons For Lunch Then I Kinda Just Escorted Her Through The Completio
 Living Proof That Spiders Can Be Lovely 
 On That Topic No Clue What Aspect They Are
 
-#  52•2024• 
+# 52•2024•
 I Got To Hang Out With Dee Like All Day-- 
 (This App sucks (Crashed))
 Anyway Got To Hers In The Wet, That Was Sad, But I Got A Hug And Some Tea Out Of It, Then We Watched Gravity Falls While I Failed To Source Cabin In The Woods Before Switching To The Goldbergs Then To Sweeny Todd
@@ -60,13 +65,7 @@ Maybe With Reviews!
 
 
 
-<center><sub>Done :)</sub></center>
+<center><sub>Love You Babe</sub></center>
 
 
-<script src="https://utteranc.es/client.js"
-        repo="WonderingGodling/My-Mind-Space"
-        issue-term="title"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
-</script>
+

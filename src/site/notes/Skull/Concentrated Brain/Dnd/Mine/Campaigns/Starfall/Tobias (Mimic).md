@@ -1,19 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/tobias-mimic/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/tobias-mimic/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#323456"> </span></center>
 
 
 
 ## General
- Race:  Dragonborn Mimic
+ Race: Dragonborn Mimic
  Class: Rogue 7
  Alignment: Chaotic Evil
-
 
 ## Stats
 
@@ -44,6 +43,7 @@
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
 | Death Fails |     |     |     |
+
 ### Attacks
 
 | Attack                          | To-Hit | Damage                              |
@@ -52,16 +52,16 @@
 | Dagger Of Venom (Nick)          | 10     | 1d4+7 Piercing, 2d10 Poison (DC 15) |
 |     BITE                            |  13      | 1d8 Piercing +10 Acid, Grapple                                    |
 
-Applying  Poison To The Dagger Takes An Action
+Applying Poison To The Dagger Takes An Action
 Nick: Offhand Attack As A Free Action
 Dragon Slayer Deals +3d6 Piercing Against Dragons
 Vex: Advantage On Your Next Attack This Turn
-
 
 # Inventory
 
 Money: 400 Gold
 Inventory: Gloves Of Missile Snaring (reaction -1d10+6 Damage), 1000 Ball Bearings, 40 Arrows, Bedroll, Bell, 5 Candles, 3 Crowbars, Dagger, 3 Hammers, Lantern, mess Kit, 2 Oils, 30 Pitons, 35 Rations, 200ft Rope, 10ft String, Theives Tools, 4 Tinderboxes, 30 Torches, 4 Waterskins, Efficient Quiver, 
+
 # Extra
 Resistances: Poison, Poisoned, Nonmagical Bludgeoning
 Immunities: psychic, 
@@ -72,18 +72,17 @@ Criticals Deal ½Level + Con Modifier (8) Less Damage
 
 # Proficiencies
 		
-Armor:  Light Armour
+Armor: Light Armour
 Weapons: crossbow, Handbow, Longsword, Rapier, Shortsword, Simple Weapons
 Tools: Theives' Tools
 Languages: abyssal, Celestial, Draconic, Theives Cant, Undercommon
 
-# Notes: 
+# Notes:
 Mimic Bite: High Damage, Grappple, Acid
 Object?: Advantage In Stealth, Can Hide Without Cover
 No Vital Organs: Criticals Deal Half Level + Con Modifier Less Damage
 Unusual Predation: Must Eat A Whole Person A Day
 
-
-# Characteristics 
+# Characteristics
 
 No Armour

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/uni/2/5-bm-061-evolution-and-development/selection-overrides-gene-flow-to-break-down-maladaptive-mimicry/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/uni/2/5-bm-061-evolution-and-development/selection-overrides-gene-flow-to-break-down-maladaptive-mimicry/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"[[Files And Shit/Pasted image 20260417164915.png]]","Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Files And Shit/Pasted image 20260417164915.png","thumbnail":"thumbnails/resized/6a845f39a265975106a23d3176d2ef7b_86cf658e.webp"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -8,13 +9,11 @@
 }
 </style>
 
-
-# The Aim Of The Study And Relevant Background   Information
+# The Aim Of The Study And Relevant Background Information
 
 ## Important Concepts
 Batesian Mimicry
 Mimicry Shouldnt Arise When The Mimiced Creature Isnt I
-
 
 ## Similar Studies
 Frequency-dependent Batesian mimicry (Pfennig, Harcombe and Pfennig, 2001) Showed That Predators avoid look-alikes of venomous snakes only when the real thing is around.
@@ -29,41 +28,41 @@ mimics migrate from sympatry, where mimicry is favoured 3,9 , to allopatry, wher
 Whether mimics occur in allopatry because of gene flow from regions where the model is present to regions where the model is absent. 
 Whether gene flow maintains mimetic phenotypes in allopatry or whether such phenotypes ultimately break down
 
-# The Methods And Techniques Used To Collect And  Analyse The Data
+# The Methods And Techniques Used To Collect And Analyse The Data
 
 ## Methods And Techniques Used In The Study And Why
 non-venomous scarlet kingsnakes 
-![Pasted image 20260417164915.png](/img/user/images/Pasted%20image%2020260417164915.png)
+![Pasted image 20260417164915.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260417164915.png)
 closely resemble highly venomous eastern coral snakes
-![Pasted image 20260417163942.png](/img/user/images/Pasted%20image%2020260417163942.png)
+![Pasted image 20260417163942.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260417163942.png)
 
 Also
 Western Coral Snake
-![Pasted image 20260417164006.png](/img/user/images/Pasted%20image%2020260417164006.png)
+![Pasted image 20260417164006.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260417164006.png)
 Florida Scarlet Snake
-![Pasted image 20260417164120.png](/img/user/images/Pasted%20image%2020260417164120.png)
+![Pasted image 20260417164120.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260417164120.png)
 Texas long-nosed snake
-![Pasted image 20260417164211.png](/img/user/images/Pasted%20image%2020260417164211.png)
+![Pasted image 20260417164211.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260417164211.png)
 Arizona mountain kingsnake
-![Pasted image 20260417164244.png](/img/user/images/Pasted%20image%2020260417164244.png)
+![Pasted image 20260417164244.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260417164244.png)
 Milk Snake
-![Pasted image 20260417164304.png](/img/user/images/Pasted%20image%2020260417164304.png)
+![Pasted image 20260417164304.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260417164304.png)
 California Mountain Kingsnake
-![Pasted image 20260417164318.png](/img/user/images/Pasted%20image%2020260417164318.png)
+![Pasted image 20260417164318.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260417164318.png)
 Scarlet Snake
-![Pasted image 20260417164356.png](/img/user/images/Pasted%20image%2020260417164356.png)
+![Pasted image 20260417164356.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260417164356.png)
 Gray-banded Kingsnake
-![Pasted image 20260417164409.png](/img/user/images/Pasted%20image%2020260417164409.png)
+![Pasted image 20260417164409.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260417164409.png)
 Resplendent Desert Shovel-Nosed Snake
-![Pasted image 20260417164425.png](/img/user/images/Pasted%20image%2020260417164425.png)
+![Pasted image 20260417164425.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260417164425.png)
 Texas Scarletsnake
-![Pasted image 20260417164455.png](/img/user/images/Pasted%20image%2020260417164455.png)
+![Pasted image 20260417164455.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260417164455.png)
 Thornscrub Hook-nosed Snake
-![Pasted image 20260417164506.png](/img/user/images/Pasted%20image%2020260417164506.png)
+![Pasted image 20260417164506.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260417164506.png)
 Saddled Leafnose Snake
-![Pasted image 20260417164528.png](/img/user/images/Pasted%20image%2020260417164528.png)
+![Pasted image 20260417164528.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260417164528.png)
 Sonoran shovelnose snake
-![Pasted image 20260417164540.png](/img/user/images/Pasted%20image%2020260417164540.png)
+![Pasted image 20260417164540.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260417164540.png)
 
 Gene flow estimation
 Colour pattern analysis
@@ -80,7 +79,6 @@ sequencing three mitochondrial (mtDNA) loci (ND4,CytB and 16S).
  also estimated gene flow based on five nuclear (microsatellite) loci, which measure gene flow caused by both sexes. These estimates of Nm were significantly greater than zero in both population
  Nm were significantly higher in the nuclear genome than in the mitochondrial genome (Fig. 1d, e), indicating that dispersal by males may explain the presence of mimetic phenotypes in allopatry
 
-
 ## Describe The Key Variables That Were Measured Or Analysed
 
 ## Miscellaneous Methodology Points
@@ -92,13 +90,14 @@ mimicry seems to be breaking down in allopatry, and this erosion of the mimetic 
 	(Change Is Not Based On Location (Eastern Coral snakes are predominantly found north))
 
 ## More Results Points
-![Pasted image 20260419161808.png](/img/user/images/Pasted%20image%2020260419161808.png)
+![Pasted image 20260419161808.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260419161808.png)
 The Relative Size Of Both Black And Red Bands Are Similar In Sympatric Mimics But Significantly Different In Allopatric Mimics
 The Range Of The Proportions Also Increases Showing Less "Refined" Mimicry (Broken Down)
 
-![Pasted image 20260419162126.png](/img/user/images/Pasted%20image%2020260419162126.png)
+![Pasted image 20260419162126.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260419162126.png)
 As Mimics Are Found Further From The Model Species The Snakes Become More Red And Less Black
 This May Be The Reason Why An Increase In Disctance Also Increases The Potential To Be Preyed Upon
+
 # A Discussion Of The Results And Their Significance
 
 ## How Did The Researchers Interpret Their Results?

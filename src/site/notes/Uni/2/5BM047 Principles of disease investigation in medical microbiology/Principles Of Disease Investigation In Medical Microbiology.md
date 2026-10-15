@@ -1,17 +1,18 @@
 ---
-{"dg-publish":true,"dg-permalink":"Disease2","permalink":"/Disease2/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Uni Db.base]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/uni/2/5-bm-047-principles-of-disease-investigation-in-medical-microbiology/principles-of-disease-investigation-in-medical-microbiology/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Uni Db.base]]","down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":"Disease2","Featured":"[[Files And Shit/Pasted image 20251109235604.png]]","Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Files And Shit/Pasted image 20251109235604.png","thumbnail":"thumbnails/resized/c4995e298a40b79ee571b76fc1bab0b0_86cf658e.webp"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
-
 # <center><span style="color:#AAFAA2">Principles Of Disease Investigation In Medical Microbiology</span></center>
 <sub> [[Uni/1/4BM017 Biomedical Basis of Disease 1/Disease\|Last Year]]</sub>
+
 ## Week 1: Summary
 Report: introduction, materials and methods, results, discussion and conclusion (References) 1000 words
 
-## Introduction to Medical  Microbiology
-### Role of NHS microbiology laboratory  
+## Introduction To Medical Microbiology
+### Role Of NHS Microbiology Laboratory
 Responsible for:
 - Diagnostic support relating to infection
 - Information to support treatment choice/ patient management  
@@ -20,11 +21,12 @@ Responsible for:
 - More interpretation in Micro than other disciplines - for the BMS
 
 Diagnostic workflow: 
-Sample  → Collection → Receipt → Processing → Interpretation → Report
+Sample → Collection → Receipt → Processing → Interpretation → Report
 
-### Reference laboratories  
+### Reference Laboratories
 Decrease cost, provide specialist work, increase patient capacity, and provide equipment/ resources
-### UKHSA  (United Kingdom Health Security Agency)
+
+### UKHSA (United Kingdom Health Security Agency)
 Known for:
 - Surveilling trends, outbreaks, epidemics  
 - Epidemiology
@@ -32,14 +34,15 @@ Known for:
 - Contact tracing  
 - Pandemic preparedness
 - Guide health protection programmes e.g. vaccination  
-### How samples are processed in the laboratory
+
+### How Samples Are Processed In The Laboratory
 - Hospital, GP, prison, and community clinics provide/collect samples 
 - Specimen is then barcoded, quality checked, then goes through the LIMS (laboratory information management system) to signal that it has been received 
 - Processing can be manual or automatic
 - The results are then sent to Site Specific Groups (whomever it concerns)
 - Further tests are then requested  
 
-### Microbiology diagnostics/ investigations
+### Microbiology diagnostics/ Investigations
 Random stuff:
 - Safety  
 - SOPs - standard operating procedures  
@@ -65,18 +68,18 @@ Parasitology
 - microscopy  
 - identification
 
-## The Fungi that kills you
+## The Fungi That Kills You
 
-### Fungi classification
+### Fungi Classification
 - Fungi are A Kingdom Of eukaryotic organisms 
 - ~300 species of the estimated 3.5 - 5.1 million fungal diseases are linked to human fungal diseases.
 
-### Fungi as disease causing agents
+### Fungi As Disease Causing Agents
 Fungi responsible for 1.5 million annual fatalities and have infected 1/3 of the human population
 - Fungi are responsible for more human infections compared to TB, malaria or HIV
 - Fungi are are capable of causing superficial, cutaneous, subcutaneous, systemic or allergic diseases
 
-### Characteristics of fungi
+### Characteristics Of Fungi
 - Most fungi are obligate or facultative aerobes.
 - Digest food externally and then ingest it.
 - Most are multicellular & filamentous.
@@ -86,7 +89,7 @@ Fungi responsible for 1.5 million annual fatalities and have infected 1/3 of the
 	- Macroscopic filamentous fungi such as Mushrooms
 	- Single celled microscopic yeasts.
 
-### Fungal cell wall structure
+### Fungal Cell Wall Structure
 Most fungal cell wall comprises of polysaccharides (chitin, β-glucan, mannan), lipid-phosphate-protein, protease and melanin.
 - Chitin is a polysaccharide composed of long chain of n- acetylglucosamine.
 - Plasma membrane contains ergosterol similar to cholesterol in mammalian cells
@@ -94,7 +97,7 @@ Most fungal cell wall comprises of polysaccharides (chitin, β-glucan, mannan), 
 - As eukaryotes, fungal cells contain a membrane-bound nucleus where the DNA is wrapped around histone proteins.
 - Cytoplasm contains microtubules, mitochondria, lipids, endoplasmic reticulum and phosphate granules.
 
-### Fungal pathogenesis
+### Fungal Pathogenesis
 - Most fungi are saprophytic or parasitic to plants and are adapted to their natural environment.
 - Other fungi such as Candida sp. and Malassezia sp. have adapted to human environment and exist as commensals
 - Infection in humans is a chance event
@@ -125,7 +128,7 @@ Most fungal cell wall comprises of polysaccharides (chitin, β-glucan, mannan), 
 - Some types of moulds release mycotoxins e.g Aflatoxins, which can be absorbed by the skin or inhaled into the lungs.
 - Long-term exposure to mycotoxins can result in pulmonary fibrosis, various cancers, kidney damage etc
 
-### Mushrooms or toadstools
+### Mushrooms Or Toadstools
 - Grow by producing a mycelium below ground.
 - Differ from moulds because they produce visible fruiting bodies that hold the spores.
 - This fruiting body is made up of tightly packed hyphae which divide to produce the different parts of the fungal structure e.g the cap and the stem.
@@ -142,21 +145,21 @@ Most fungal cell wall comprises of polysaccharides (chitin, β-glucan, mannan), 
 - Yeast like Candida sp. are opportunistic pathogens and cause infections such as candidiasis and thrush. Yeasts colonies resemble bacterial colonies in appearance and in consistency.
 - Yeast can be identified in the lab by their ability to assimilate and ferment various carbon sources and to utilize nitrate as a source of nitrogen.
 
-### Dimorphic fungi
+### Dimorphic Fungi
 These are fungi which exhibit a filamentous mycelial morphology (saprophytic phase) when grown at room temperature 27ᴼC, but have a typical yeast morphology (parasitic phase) inside the body and when grown at 37ᴼC in the laboratory (e.g. Histoplasmosis).
 
-### Terms used in colonial morphology of yeast and filamentous fungi
-![Pasted image 20251109235604.png](/img/user/images/Pasted%20image%2020251109235604.png)
+### Terms Used In Colonial Morphology Of Yeast And Filamentous Fungi
+![Pasted image 20251109235604.png](/img/user/Files%20And%20Shit/Pasted%20image%2020251109235604.png)
 
 |     |     |
 | --- | --- |
 |     |     |
 
-
-### Fungal infection (mycoses)
+### Fungal Infection (Mycoses)
 - Superficial mycoses infection is limited to the outer surface of hair shafts, skin shafts and nails e.g. Tinea versicolor, Black Piedra, White Piedra
 - Cutaneous mycoses - Is the most common fungal infection.
 - It extends deeper into the epidermis, and can include invasive hair and nail disease e.g
+
 #### Dermatophytosis
 - Subcutaneous mycoses- these are caused by saprophytic fungi which are unable to penetrate the skin.
 	- Often introduced into the subcutaneous tissue by a puncture wound that has been contaminated with soil e.g. Chromoblastomamycoses
@@ -164,7 +167,7 @@ These are fungi which exhibit a filamentous mycelial morphology (saprophytic pha
 - Systemic (deep) mycoses due to primary pathogens originate primarily in the lungs and may spread to many organ systems e.g Blastomycosis
 - Opportunistic mycoses due to opportunistic pathogens are infections of patients with immune deficiencies
 
-### Diagnosis of fungal infections
+### Diagnosis Of Fungal Infections
 - Microscopy using lactophenol cotton blue (LCB) wet mount preparation.
 - Culture
 - Germ tube test - Candida albicans
@@ -174,7 +177,7 @@ These are fungi which exhibit a filamentous mycelial morphology (saprophytic pha
 - MALDITOF-MS
 - Whole genome sequencing
 
-### Treatment of fungal infections
+### Treatment Of Fungal Infections
 #### Polyenes
 - Include Amphotericin B, Nystatin and Natamycin
 - These bind directly to the ergosterol in fungal cell membrane causing leakage and cell death
@@ -182,6 +185,7 @@ These are fungi which exhibit a filamentous mycelial morphology (saprophytic pha
 - Toxic at higher therapeutic concentrations
 - Have poor gut absorption
 - Very effective topically
+
 #### Echinocandins
 - Examples include Caspofungin, Micafungin, Anidulafungin
 - They act through the inhibition of D-glucan synthase
@@ -201,17 +205,19 @@ These are fungi which exhibit a filamentous mycelial morphology (saprophytic pha
 - Examples include Terbinafine, Naftifine
 - Inhibit ergosterol biosynthesis at the level of squalene epoxidase
 
-### Infections caused by Candida species
-#### Superficial infections
+### Infections Caused By Candida Species
+#### Superficial Infections
 - Athletes foot
 - Jock itch
 - Nail infections
-#### Mucosal infections
+
+#### Mucosal Infections
 - Genital candidiasis
 - Oropharyngeal candidiasis (thrush)
 - Oesophageal candidiasis
 - Ocular candidiasis
-#### Systemic infections
+
+#### Systemic Infections
 - Endocarditis
 - Meningitis
 - Bronchitis
@@ -230,36 +236,41 @@ These are fungi which exhibit a filamentous mycelial morphology (saprophytic pha
 9. C. krusei
 10. C. auris
 
-### Candida species
+### Candida Species
 - The genus Candida belongs to phylum Ascomycota
 - Diploid yeast cells typically 4-6μm in diameter
 - Cells multiply by budding (binary fusion)
 - Yeast cells germinate & produce characteristic germ tubes or pseudohyphae
 - Most common: Candida albican
-#### C. glabrata
+
+#### C. Glabrata
 - These are small spherical yeast cells
 - A major cause of candidemia & invasive candidiasis
 - Sometimes are seen can live as mucosal commensal
-#### C. parapsilosis
+
+#### C. Parapsilosis
 - Can produce both yeast & pseudohyphae in culture
 - These are commonly associated with septicemia in neonates, catheter associated candidaemia
 - Niche: skin & environment
-#### C. krusei  
+
+#### C. Krusei
 - Can grow as a yeast & pseudohyphae  
 - Associated with candidaemia  
 - Niche - natural sources e.g soil  
-#### C. albicans  
+
+#### C. Albicans
 - Frequently encountered in cancer patients, can cause candidemia  
 - Can grow as yeast & can produce pseudohyphae  
 - Niche; skin & GIT of healthy humans + soil
-#### C. albicans
+
+#### C. Albicans
 - The most widespread yeast
 - Normal flora of oral cavity, genitalia, large intestine or skin in 20% of humans
 - Infections can be short-lived, superficial skin irritations to overwhelming fatal systemic diseases
 - Account for 80% of nosocomial fungal infections and 30% of deaths from nosocomial infections
 - Can produce pseudohyphae, true hyphae or yeast forms
 
-### Risk factors
+### Risk Factors
 Infections occur in predisposed individuals
 - Obesity, Pregnancy
 - Immune compromised (HIV, Cancer etc)
@@ -269,39 +280,42 @@ Infections occur in predisposed individuals
 - Long term hospitalisation
 - Broad Spectrum antibiotics
 
-### Superficial Candida infections
-#### Nail infection 
-##### Paronychia and Onychomycosis
+### Superficial Candida Infections
+#### Nail Infection
+##### Paronychia And Onychomycosis
 ###### Paronychia
 nail inflammation that may result from trauma, irritation or infection.
 - It usually develops when Candida enters broken skin near the cuticle and nail fold
 - Risk factors include nail biting/cuticle, working with water
+
 ###### Onychomycosis
 fungal infection of the nail unit.
 - Risk factors include HIV, diabetes mellitus, obesity, age
 - Fungal nail infections are frequent in the adult population
 
-##### Diagnosis and treatment
-###### Sample type
+##### Diagnosis And Treatment
+###### Sample Type
 - Scraping or Clippings
 - Microscopy and culture 1 to 5 days
+
 ###### Treatment
 - Paronychia - Topical creams (home remedies)
 - Onychomycosis - topical creams of imidazole or terbinafine for 1-3 weeks
 - Oral treatment with Itraconazole or terbinafine is 80% more effective
 - Treatment takes long because of slow growth of the nail
 
-#### Tinea pedis - interdigital candidiasis
+#### Tinea Pedis - Interdigital Candidiasis
 - Frequent in people who wear closed shoes regularly, sweat heavily, walk barefoot in infested areas
 Specimen: Skin Scraping
 Treatment: Miconazole, Terbinafine
 
-### Mucosal Candida infections
-#### Mucosal candidiasis
+### Mucosal Candida Infections
+#### Mucosal Candidiasis
 - Main aetiological agent is C.albicans but C. glabrata is also a cause which are usually resident flora of the vaginal area.
 - Caused by an imbalance of pH, hormones in the genital area
 - Risk factors include - Pregnancy, diabetes, poor hygiene
 - It is frequently recurring
+
 ##### Symptoms
 - Itching and irritation around the vagina/ penis head
 - Soreness during sex or urination
@@ -314,8 +328,8 @@ Treatment: Miconazole, Terbinafine
 - Topical azole creams
 - Consider non-azole based treatment if non-albicans yeasts is isolated
 
-### Disseminated Candida infections
-#### Disseminated candidiasis
+### Disseminated Candida Infections
+#### Disseminated Candidiasis
 - Common feature in hospitalized patients
 - Candida species can cause bloodstream infections
 - Candida in the blood is characterized by fever, chills and yeasts can be isolated in a blood culture
@@ -323,7 +337,8 @@ Treatment: Miconazole, Terbinafine
 Patients at risk:
 Central venous catheter, diabetics, pre-term babies, long-term antibiotic
 treatment
-##### Diagnosis and treatment
+
+##### Diagnosis And Treatment
 - Blood culture, CSF culture
 - Subculture on but this depends on sample but isolation technique on SAB+C usually works.
 - Candida usually form cream, pasty, smooth colonies 1-4 days from culture when incubated at 37oC.
@@ -333,10 +348,10 @@ treatment
 - VITEK (susceptibility tests)
 - Serology
 
-## Bloodstream infections and Infective Endocarditis (Blood & Heart)
+## Bloodstream Infections And Infective Endocarditis (Blood & Heart)
 
 ### Blood
-#### Bloodstream infections
+#### Bloodstream Infections
 - Blood is sterile, consists of plasma and cells
 - The presence of a pathogen in the bloodstream can result in:
 	- Bacteraemia
@@ -347,7 +362,8 @@ treatment
 	- Kidneys (ascending UTI)
 	- Infection of tissues e.g., wound/bite
 	- Lungs (during pneumonia infection)
-##### Types of Bloodstream infections
+
+##### Types Of Bloodstream Infections
 1. Transient
 	- Presence of bugs for several minutes rapid removal by immune system
 	- After dental extraction, urinary catheterisation
@@ -355,7 +371,8 @@ treatment
 	- Recurrent transient bacteraemia negative blood cultures
 3. Continuous
 	- Infection that has overwhelmed host defences (cannot be cleared from bloodstream)
-##### Risk factors
+
+##### Risk Factors
 - Indwelling central venous catheters (CVC)
 - Burns
 - Intravenous drug abuse
@@ -364,15 +381,16 @@ treatment
 - Pneumonia (esp. pneumococcal)
 - Pyelonephritis
 - Diabetes mellitus
+
 #### Bacteraemia
 1. Primary
 - Bacterial invasion with no preceding or simultaneous site of infection with same pathogen
 2. Secondary
  - Isolation of bug from blood as well as other site(s) e.g., wounds, urine, sputum
 
-![Pasted image 20260101145102.png](/img/user/images/Pasted%20image%2020260101145102.png)
+![Pasted image 20260101145102.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101145102.png)
 
-#### Symptoms of bloodstream infections
+#### Symptoms Of Bloodstream Infections
 - Fever (>38.3ºC), chills, rigors
 - BSI = Bacteria/Fungi in blood plus clinical signs and symptoms of pathogen invasion and toxin production
 - Full-blown sepsis can develop if not treated quickly 
@@ -383,6 +401,7 @@ treatment
 	- Heart rate >90 beats per minute
 	- Hyperventilation >20 breaths per minute
 	- White blood cell count >12,000 cells/μL (high) or <4000 cells per μL (low) Levi MM et al 2003
+
 #### Sepsis
 - 20% of cases associated with bacteraemia
 - 80% are secondary to infection at other sites
@@ -391,14 +410,17 @@ treatment
 - Early and appropriate empirical antibiotics plus fluids
 	- ↓ mortality rates
 	- Improved clinical outcomes
-##### Severe sepsis
+
+##### Severe Sepsis
 - Dysfunction of ≥ 1 organ plus hypotension
-##### Septic shock
+
+##### Septic Shock
 - Severe sepsis → extreme low hypotension
 - All associated with high mortality
 	- Each hour of delay in antibiotic treatment results in increased mortality
 - Accurate and timely lab diagnosis needed
-###### Septic shock symptoms
+
+###### Septic Shock Symptoms
 Additional symptoms include
 - Extremely low blood pressure
 - Little or no urine output
@@ -414,9 +436,9 @@ Additional symptoms include
 - This can lead to Hypotension/shock, Organ failure
 	- Very poor prognosis
 
-![Pasted image 20260101145130.png](/img/user/images/Pasted%20image%2020260101145130.png)
+![Pasted image 20260101145130.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101145130.png)
 
-###### Treatment of Sepsis
+###### Treatment Of Sepsis
 - Involve both broad-spectrum antibiotics
 - But once clinical diagnosis made
 - Switched to more targeted agents
@@ -426,7 +448,7 @@ Additional symptoms include
 
 ### Hearts
 
-### Infective endocarditis
+### Infective Endocarditis
 - Infectious endocarditis is the inflammation of the endocardium, the inner lining of the heart, as well as the valves that separate each of the four chambers within the heart
 - Rare: <10 per100,000 population
 - Usually occurs in individuals with congenital heart defect or prosthetic valve where there is turbulent blood flow
@@ -435,9 +457,9 @@ Additional symptoms include
 - Tends to be difficult to treat with antimicrobial therapy
 	- Viable bacteria deep within vegetation
 
-![Pasted image 20260101145220.png](/img/user/images/Pasted%20image%2020260101145220.png)
+![Pasted image 20260101145220.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101145220.png)
 
-#### Risks factors
+#### Risks Factors
 - Congenital heart disease
 - Mitral valve prolapse
 - Rheumatic heart disease (low-income countries)
@@ -445,7 +467,8 @@ Additional symptoms include
 - Intravenous drug abuse (IVDU)
 - Diabetes
 - Cancer
-#### Signs and symptoms of Infective endocarditis
+
+#### Signs And Symptoms Of Infective Endocarditis
 - Fever
 - Heart murmur on echocardiogram
 - Respiratory symptoms
@@ -454,7 +477,8 @@ Additional symptoms include
 	- Malaise, chills, night sweats
 - 20 - 50% mortality despite antibiotic treatment
 
-![Pasted image 20260101145248.png](/img/user/images/Pasted%20image%2020260101145248.png)
+![Pasted image 20260101145248.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101145248.png)
+
 #### Treatment
 - β-lactam antibiotics and gentamicin - as many cases are caused by Gram positive cocci
 - Treatment takes between 14 and 28 days
@@ -471,24 +495,27 @@ Additional symptoms include
 - Neutralisation / removal of antimicrobial substances, either natural or drugs
 - Minimisation of contamination
 - Earliest possible detection of bacteria and fungi
-#### Blood culture system
+
+#### Blood Culture System
 - Detection of changes in CO2 and O2 concentration in culture medium due to bacterial metabolism
 	- ensitivity allows rapid detection of growth
 - Aliquots from positive bottles
 	- Gram stain
 	-  Culture plates
 	-  ‘Direct susceptibility’ test
-##### Automated blood culture system
+
+##### Automated Blood Culture System
 - Collect aliquot using specific venting needle
 - Report result to Consultant Microbiologist to notify ward
 - Antibiotics can be changed based on Gram stain result
 
-![Pasted image 20260101145332.png](/img/user/images/Pasted%20image%2020260101145332.png)
+![Pasted image 20260101145332.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101145332.png)
 
 - Collect aliquot using specific venting needle
 - Report result to Consultant Microbiologist to notify ward
 - Antibiotics can be changed based on Gram stain result
-##### Gram stain of positive blood culture
+
+##### Gram Stain Of Positive Blood Culture
 - Antibiotic susceptibilities 24 hrs earlier
 - MIC test often needed esp. with infective endocarditis
 	- Antigen agglutination testing
@@ -497,26 +524,29 @@ Additional symptoms include
 	- Multiplex PCR for several targets
 	- FilmArray blood culture identification panels
 
-## Central Nervous System infections Blood, Hearts and Brains
+## Central Nervous System Infections Blood, Hearts And Brains
 
-### Brain, Spinal cord and meninges
+### Brain, Spinal Cord And Meninges
 - Brain and spinal cord protected by skull and spinal column (physical barrier).
 	- Barriers to spread of infection
 - Walls of skull and spinal column contain blood vessels and nerves.
 	- Main routes of invasion by pathogens
-#### Cellular barriers to Pathogen invasion
+
+#### Cellular Barriers To Pathogen Invasion
 - Tightly joined cells act as a cellular barrier to blood-borne invasion.
 - Invasion occurs by crossing:
 	- Blood-Brain Barrier to cause encephalitis (inflammation of brain white matter).
 	- Blood-CSF Barrier to cause meningitis (inflammation of the meninges surrounding the brain).
-#### CNS invasion
+
+#### CNS Invasion
 - Pathogens cross the cellular barriers by
 	- Growing across, infecting cells that comprise the barrier
 	-  Passively transported across in intracellular vacuoles
 	-  Carried across by infected WBCs
 - Certain viruses e.g., HSV, VZV, rabies
 	- Invade via peripheral nerves
-#### Host response to CSF invasion
+
+#### Host Response To CSF Invasion
 1. Viral invasion - aseptic meningitis
 	- ↑lymphocytes, ↑protein in cerebrospinal fluid (marginal increase)
 	- Clear CSF
@@ -525,7 +555,8 @@ Additional symptoms include
 	- Visibly turbid CSF
 3. Slower growing/less pyogenic bacteria
 	- Less spectacular changes e.g., TB, Listeria
-##### Predisposing factors
+
+##### Predisposing Factors
 - Congenital malformations
 - Trauma e.g., basal skull fracture
 - Presence of CSF shunts/cochlear implants
@@ -534,7 +565,8 @@ Additional symptoms include
 - Tumours close to the CNS
 - Immune dysfunction (e.g., complement cascade deficiency syndromes)
 - Overcrowding e.g., University halls
-#### Signs and symptoms
+
+#### Signs And Symptoms
 - Symptoms develop within hours or within 1 to 2 days
 - History
 	- Headache (75-90%), Vomiting, Rash
@@ -543,16 +575,17 @@ Additional symptoms include
 	- Fever (95%), neck stiffness (85%), altered mental status (80%), all three (40%)
 	- Any one of the three (100%)
 
-![Pasted image 20260101145646.png](/img/user/images/Pasted%20image%2020260101145646.png)
-![Pasted image 20260101145701.png](/img/user/images/Pasted%20image%2020260101145701.png)
+![Pasted image 20260101145646.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101145646.png)
+![Pasted image 20260101145701.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101145701.png)
 
-#### Treatment for meningitis
+#### Treatment For Meningitis
 - Bacterial meningitis is a medical emergency
 - Give antibiotics immediately!!!
 - Ceftriaxone (chloramphenicol if penicillin allergic)
 - Once pathogen known, antibiotic therapy can be modified for optimum treatment - e.g. change to amoxicillin/ampicillin for GBS
 - Prophylaxis given to close contacts
-### Viral CNS infections
+
+### Viral CNS Infections
 1. Meningitis
 	- Milder than bacterial meningitis
 	- Headache, fever, but less neck stiffness
@@ -562,7 +595,8 @@ Additional symptoms include
 - 70% mortality in untreated patients
 - Early and prolonged (21 day) IV acyclovir treatment to prevent relapse
 - Others e.g., Rabies, JEV, West Nile virus
-### Fungal meningitis
+
+### Fungal Meningitis
 - Cryptococcal meningitis is the most common cause of fungal meningitis
 - Other pathogens include Coccidioides, Blastomyces and Histoplasma
 - Cryptococcal meningitis is an AIDS defining infection but it can also be seen in immunocompetent individuals
@@ -571,7 +605,8 @@ Additional symptoms include
 	- Headache, fever, vomiting and neck stiffness
 - Diagnosis is usually by India ink, lateral flow, CrAg test (latex) and culture
 - Treatment - Amphotericin + flucytosine or fluconazole
-#### Laboratory diagnosis of fungal infections
+
+#### Laboratory Diagnosis Of Fungal Infections
 - Lumbar puncture
 - Blood culture
 - Complete cell count
@@ -584,10 +619,10 @@ Additional symptoms include
 - Differential WBC count done on CSF centrifuged deposit
 	- Report predominant WBC type
 
-![Pasted image 20260101145727.png](/img/user/images/Pasted%20image%2020260101145727.png)
-![Pasted image 20260101145743.png](/img/user/images/Pasted%20image%2020260101145743.png)
+![Pasted image 20260101145727.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101145727.png)
+![Pasted image 20260101145743.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101145743.png)
 
-### CSF Latex detection
+### CSF Latex Detection
 - Detect specific polysaccharide surface antigens in CSF supernatant
 	- Group B Streptococcus
 	- H. influenzae type b
@@ -597,10 +632,10 @@ Additional symptoms include
 	- Specificity: 100%
 	- Sensitivity: 50-95%
 
-![Pasted image 20260101145803.png](/img/user/images/Pasted%20image%2020260101145803.png)
-![Pasted image 20260101145812.png](/img/user/images/Pasted%20image%2020260101145812.png)
+![Pasted image 20260101145803.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101145803.png)
+![Pasted image 20260101145812.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101145812.png)
 
-## Urinary tract infections
+## Urinary Tract Infections
 ### Introduction
 - The urinary tract is essentially sterile
 	- Functions to remove urine and impurities via the kidneys
@@ -610,33 +645,34 @@ Additional symptoms include
 
 A urinary tract infection (UTI) is an infection in any part of your urinary system — your kidneys, ureters, bladder and urethra. Most infections involve the lower urinary tract — the bladder and the urethra. Women are at greater risk of developing a UTI than are men. Lets begin with a definition…..
 
-![Pasted image 20260101145928.png](/img/user/images/Pasted%20image%2020260101145928.png)
-![Pasted image 20260101145938.png](/img/user/images/Pasted%20image%2020260101145938.png)
-![Pasted image 20260101145949.png](/img/user/images/Pasted%20image%2020260101145949.png)
+![Pasted image 20260101145928.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101145928.png)
+![Pasted image 20260101145938.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101145938.png)
+![Pasted image 20260101145949.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101145949.png)
 
-#### Urinary tract Host defence mechanisms
+#### Urinary Tract Host Defence Mechanisms
 - Tamm-Horsefall protein
 - Aimed towards E. coli
 - prevents interaction with uroepithelium by interfering with fimbriae adhesion
 - Produced by renal tubular epithelial cells
 - One of most abundant proteins 
 
-![Pasted image 20260101150110.png](/img/user/images/Pasted%20image%2020260101150110.png)
+![Pasted image 20260101150110.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101150110.png)
 
-#### Some interesting facts and figures
+#### Some Interesting Facts And Figures
 - UTI is common depending on age and sex
 - Most common in 1st year of life
 - Males predominate but females take over
 - Lowest rates in 11 - 15 yrs
 - Infection rates rise in females with sexual activity -at least 20% will develop infection
-#### Urinary tract pathogens
+
+#### Urinary Tract Pathogens
 - Specialist adaptations are required
 - To colonise the urinary tract adhesins or intracellular habits are required
 - Must resist antimicrobial action of urine
 - Flushing action
 - Most serious infection associated with catheters or existing damage or dysfunction
 
-![Pasted image 20260101150135.png](/img/user/images/Pasted%20image%2020260101150135.png)
+![Pasted image 20260101150135.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101150135.png)
 
 - Other organisms also cause UTI
 - Common infections are caused by fungi
@@ -645,17 +681,18 @@ A urinary tract infection (UTI) is an infection in any part of your urinary syst
 - Fastidious organisms and Mycobacteria
 - Parasites - Schistosoma haematobium
 
-![Pasted image 20260101150207.png](/img/user/images/Pasted%20image%2020260101150207.png)
-![Pasted image 20260101150213.png](/img/user/images/Pasted%20image%2020260101150213.png)
-![Pasted image 20260101150221.png](/img/user/images/Pasted%20image%2020260101150221.png)
-![Pasted image 20260101150230.png](/img/user/images/Pasted%20image%2020260101150230.png)
+![Pasted image 20260101150207.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101150207.png)
+![Pasted image 20260101150213.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101150213.png)
+![Pasted image 20260101150221.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101150221.png)
+![Pasted image 20260101150230.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101150230.png)
 
 ### Introduction
 - Diagnosis is as only as good as the samples
 - Specimen collection must take into account contamination
 - Contamination taken into account during culture - more common in women
 - Direct and biochemical methods used to determine presence and 
-### Specimen collection
+
+### Specimen Collection
 - A variety of methods exist
 - Midstream urine (MSU)
 - Common for adults
@@ -671,13 +708,15 @@ A urinary tract infection (UTI) is an infection in any part of your urinary syst
 - port must be used
 - Suprapubic aspirate
 - Sample taken from the bladder with a needle - neonates
-### Considerations about transport
+
+### Considerations About Transport
 - Urine is a really good growth media!
 - Growth in sample can skew results
 - 4oC for max 24 h to preserve structures
 - Dip slides can be used
 - Boric acid - reduces counts
-### Initial processing of samples
+
+### Initial Processing Of Samples
 - Dipstick tests are often used
 - Determine presence of RBC, WBC and some bacteria
 - Consideration needs to be given to clinical state of the patient
@@ -686,7 +725,8 @@ A urinary tract infection (UTI) is an infection in any part of your urinary syst
 - Nitrate reductase = UTI bacteria
 - All except S. Saprophyticus
 A typical dipstick test shows the presence of many things associated with infection and other disease markers
-### Processing of samples
+
+### Processing Of Samples
 - Urine microscopy
 - Used to determine the presence of cells, casts and crystals
 - Cells - RBC’s, WBC’s, bacteria, epithelial cells
@@ -695,8 +735,8 @@ A typical dipstick test shows the presence of many things associated with infect
 - Crystals - precipitations of the chemical constituents
 - 96-well Rant-Shepherd test often used
 
-![Pasted image 20260101150401.png](/img/user/images/Pasted%20image%2020260101150401.png)
-![Pasted image 20260101150410.png](/img/user/images/Pasted%20image%2020260101150410.png)
+![Pasted image 20260101150401.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101150401.png)
+![Pasted image 20260101150410.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101150410.png)
 - Automated methods
 - Automated dipstick
 - Avoids subjectivity
@@ -704,13 +744,15 @@ A typical dipstick test shows the presence of many things associated with infect
 - Recognises particles in urine and provides image
 - Flow cytometry
 - Uses a laser to ‘see’ size and shape of components
-### Culture of urine samples
+
+### Culture Of Urine Samples
 - Culture results are important
 - Clinically significant
 - Approx. - ≥105 - 106 cfu/ml may be taken as significant and indicates infection
 - A cut off of 104 cfu/ml is used
 - Loop and multipoint inoculation methods are used
-### Common media used in urine analysis
+
+### Common Media Used In Urine Analysis
 - The work horse of the lab is Cysteine Lactose Electrolyte deficient agar (CLED)
 - Differential media that shows ability to ferment lactose
 - Fermenters = yellow/red, non-fermenters = blue/cream
@@ -718,13 +760,14 @@ A typical dipstick test shows the presence of many things associated with infect
 - Prevents swarming or Proteus
 - Supports growth of many organisms CLED agar is commonly used but other media such as McConkey agar and chromogenic agars are also sometimes used
 
-### Susceptibility testing
+### Susceptibility Testing
 - Significant cultures are susceptibility tested
 - Influences the choice of antibiotic depending on:
 - Susceptibility profile, status of the patient, cost and mode of delivery of antibiotic
 - Cultural methods available - disks
 - Identification and susceptibilities can be combined and automated - VITEK
-### Treatment of Urinary tract infection
+
+### Treatment Of Urinary Tract Infection
 - A variety of antibiotic chemotherapeutics are used
 - Depends on in upper or lower UT infection
 - Trimethoprim and Nitrofurantoin are commonly used
@@ -745,7 +788,8 @@ A typical dipstick test shows the presence of many things associated with infect
 	- Soldiers returning from Thessaloniki, Greece
 	- You can isolate the Anopheles mosquitoes in Kent
 - Transmission is possible during warmer summer months
-#### Epidemiology of malaria
+
+#### Epidemiology Of Malaria
 - 249 million cases each year with 608 000 deaths/year
 - 40% of world at risk
 - Africa disproportionately has a prevalence of malaria
@@ -754,12 +798,13 @@ A typical dipstick test shows the presence of many things associated with infect
 - 78% of the deaths were recorded in children <5yrs
 - Majority of cases are due to Plasmodium falciparum
 
-#### Who is at Risk?
+#### Who Is At Risk?
 - Infants, children under 5 years, pregnant women, travellers and people with HIV or AIDS are at higher risk of severe infection.
 - In 2022, there were an estimated 35.4 million pregnancies in Africa, of which 12.7 million (36%) were exposed to malaria infection during pregnancy
 - Malaria infection during pregnancy can also cause premature delivery or delivery of a baby with low birth weight
 - Low birthweight is a strong risk factor for neonatal and childhood mortality
-#### Travel malaria
+
+#### Travel Malaria
 - Backpacking / Visiting relative - Non-immune adults
 - According UKHSA
 - In 2023 - 2004 cases
@@ -769,40 +814,46 @@ A typical dipstick test shows the presence of many things associated with infect
 - (2019) - 1719 cases & 6 deaths
 Majority of cases are imported from Nigeria, Sierra Leone & Ghana
 
-#### Malaria vector
+#### Malaria Vector
 - ~ 400 species & 60 are able to transmit malaria infection
 	- Transmitted by the Anopheles mosquito
 - Only the female bites humans
 - A blood meal is required for “egg” production
 - Male feeds on plant nectar
-#### Important definitions
+
+#### Important Definitions
 ##### Sporozoite
 - Slender spindle-shaped infective stage of malaria parasite
 - Result of the sexual phase in mosquito
 - Infects human during feeding
+
 ##### Schizont
 - Stage of asexual reproduction occurring inside liver and erythrocyte cells
 - A schizont is made up of numerous merozoites
+
 ##### Merozoite
 - The invasive form of the parasite in erythrocytes
+
 ##### Trophozoite
 - Feeding stage of protozoa
 - Forms more schizonts full of merozoites
 - Sexual gametocytes
+
 ##### Gametocyte
 - Male (micro)
 - Female (macro) stages that Enter mosquito for sexual cell cycle
+
 ##### Hypnozoite
  - Dormant stage found in the liver
  - P. vivax and P. ovale
 
-![Pasted image 20260101151148.png](/img/user/images/Pasted%20image%2020260101151148.png)
+![Pasted image 20260101151148.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101151148.png)
 
-#### Why is malaria endemicity limited to few regions
+#### Why Is Malaria Endemicity Limited To Few Regions
 - Malaria transmission does not occur Below 16˚C or above 33˚C or Altitudes greater than 2000 meters
 - This is because sporogony in the mosquito cannot take place
 
-#### Malaria symptoms
+#### Malaria Symptoms
 - Most infections only mild and self limiting
 - Symptoms for severe malaria include
 	- Extreme tiredness and fatigue
@@ -819,7 +870,8 @@ Majority of cases are imported from Nigeria, Sierra Leone & Ghana
 	- Sweating - Profuse sweating (2-4 hrs)
 - Periodicity varies with different malaria
 	- Symptoms are due to the breaking down of red blood cells as parasites (merozoites) are released into circulation
-#### Malaria symptoms periodicity
+
+#### Malaria Symptoms Periodicity
 - P. vivax
 	- 48 hrs - Tertian malaria
 	- Every 3 days
@@ -834,6 +886,7 @@ Majority of cases are imported from Nigeria, Sierra Leone & Ghana
 	- 48 hrs - Tertian malaria
 	- Every 3 days
 	- Fever temp (°F)
+
 ### Malaria
 - The number of infected erythrocytes is called the parasitaemia
 	- Severity of disease correlates with parasitaemia
@@ -842,7 +895,8 @@ Majority of cases are imported from Nigeria, Sierra Leone & Ghana
 	- P. vivax - 20,000/mm3
 	- P. ovale - 9,000/mm3
 	- P. malariae - 6,000/mm3
-#### Complications of malaria
+
+#### Complications Of Malaria
 - Cerebral malaria (CM)
 	- Only with P. falciparum
 	- Headache, drowsiness & confusion
@@ -866,17 +920,18 @@ Majority of cases are imported from Nigeria, Sierra Leone & Ghana
 - P. ovale
 	- Mild fever of a short duration
 	- Relapse of infection occurs may occur due to hypnozoites
-##### Symptoms of other Malaria infections
+
+##### Symptoms Of Other Malaria Infections
 - P. malariae
 	- 1st time infection can be severe
 	- Usually a mild disease
 	- May be chronic with recrudescence's decades later
 	- Renal complications due to antigen-antibody complexes in the glomeruli
 
-### Anaemia pathogenesis
-![Pasted image 20260101151905.png](/img/user/images/Pasted%20image%2020260101151905.png)
+### Anaemia Pathogenesis
+![Pasted image 20260101151905.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101151905.png)
 
-#### Inside the erythrocyte
+#### Inside The Erythrocyte
 - The trophozoite digests the haemoglobin
 	- Plasmepsins
 	- Falcipains
@@ -884,32 +939,35 @@ Majority of cases are imported from Nigeria, Sierra Leone & Ghana
 - However, the haem is toxic
 - This is polymerised into hemozoin sometimes called malaria pigment
 - Many drugs target this polymerisation
-##### Release from erythrocyte
+
+##### Release From Erythrocyte
 - Schizonts rupture cell
 - Releasing merozoites
 - Each cycle destroys more cells resulting in Anaemia
 
-### Cerebral malaria pathogenesis
-#### Cerebral malaria symptoms
+### Cerebral Malaria Pathogenesis
+#### Cerebral Malaria Symptoms
 Only occurs with P. falciparum
 - Headache
 - Drowsiness
 - Confusion
 - Impaired consciousness & coma
 - Complications can develop rapidly, and these are caused by infected Rbc blocking the capillaries in the brain
+
 #### Sequestration
 - Erythrocytes infected with developed parasites
 - Leave peripheral circulation
 - Sequester in blood capillaries resulting in mechanical obstruction / hypoxia
+
 #### Mechanism
 - The parasite inside the erythrocyte inserts a protein in the erythrocyte membrane
 - PfEMP-1 (Plasmodium falciparum Erythrocyte Membrane Protein - 1)
 - Binds to CD36, ICAM-1 (intracellular adhesion molecule) and EPCR (endothelial protein C receptor)
 - Resulting in the erythrocytes resetting or clumping
 
-### Treatment and prophylaxis for Malaria
+### Treatment And Prophylaxis For Malaria
 
-#### Prophylaxis of malaria
+#### Prophylaxis Of Malaria
 - This is the use of antimalarial drugs to ‘prevent infection’
 - Usually used by holiday makers
 - You take the drugs for a period before you go (1-7 days)
@@ -919,10 +977,12 @@ Only occurs with P. falciparum
 - Does not stop you getting the infection but decreases the likelihood that an infection can develop
 - It is not 100% effective
 - You can still develop a serious infection
+
 ##### Quinine
 - Alkaloid from bark of Cinchona tree
 - Often use analogue quinidine (cardiac drug)
 - Present in tonic water / IRN Bru
+
 ##### Chloroquine
 - Synthetic derivative of quinine
 - Drug of choice in non-resistant areas
@@ -930,21 +990,26 @@ Only occurs with P. falciparum
 - Prevents the formation of hemozoin
 - Side effects - Prolongation of QT interval (cardiac dysrhythmia)
 - Half life - 1-2 months (weekly dosing)
+
 ##### Doxycycline
 - Antibiotic drug of choice for chlamydia
 - Used chloroquine resistant areas
 - Tetracycline antibiotic
 - Mechanism - Not defined
 - Possibly affects apicoplast genes
-###### Side effects
+
+###### Side Effects
 - Heartburn
 - Sunburn
 - Milk and antacids affects its
-###### absorption
+
+###### Absorption
 - Half life - 18-22 hours (Daily dosing)
 - Very cheap (20p / tablet)
+
 ##### Malarone
 - Atovaquone + proguanil combination
+
 ###### Mechanism
 - Proguanil inhibits dihydrofolate reductase in the parasite
 - Blocks synthesis of purine (adenine / guanine > DNA)
@@ -952,15 +1017,18 @@ Only occurs with P. falciparum
 - Structurally similar to Ubiquinone (Co Enzyme Q) found in the mitochondria
 - Inhibits Dihydroorotate dehydrogenase (DHOD) in the parasite
 - Blocks synthesis of pyrimidines (Cytosine / thymidine)
+
 ##### Mefloquine (Larium)
 - Used in chloroquine resistant areas
 - Mechanism - Unknown
 - Possibly the same a chloroquine
-###### Side effects
+
+###### Side Effects
 - Linked to neuropsychiatric side-effects
 - Anxiety
 - Vivid dreams / nightmares
 - Half life - 2-4 weeks (weekly dosing)
+
 ##### Primaquine
 - Targets the Liver stage
 - Hypnozoites
@@ -969,17 +1037,19 @@ Only occurs with P. falciparum
 - SHOULD NOT BE GIVEN in G6PD deficiency
 	- Haemolytic anaemia
 
-![Pasted image 20260101152328.png](/img/user/images/Pasted%20image%2020260101152328.png)
+![Pasted image 20260101152328.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101152328.png)
 
 ### Prevention
-#### Personal protection
+#### Personal Protection
 - Avoid breeding grounds of mosquitoes
 - Ponds & stagnant water
 - Cover up in evening and night
 - When mosquito feeds
+
 #### Repellents
 - DEET (30%) or N,N,-diethyl meta-toluamide
-#### Mosquito bed nets
+
+#### Mosquito Bed Nets
 Pros
 - Prevent mosquitoes biting
 - Impregnated with pyrethroids (e.g. permethrin) are insecticidal
@@ -989,16 +1059,19 @@ Cons
 - Can easily become damaged, often difficult to repair
 - Not always used for sleeping under
 - Prevent natural immunity developing
-#### Mosquito (vector) control
-###### House spraying
+
+#### Mosquito (Vector) Control
+###### House Spraying
 - DDT
 - Malathion
 - Deltamethrin
-###### Drainage of stagnant water
+
+###### Drainage Of Stagnant Water
 - Puddles
 - Ditches
 - Plant pots
 - Removal of mosquito breeding grounds
+
 #### Vaccines
 - Development of the RTS,S Vaccine started in the 1980’s
 - There are others but this is the only one that has made it to Phase 3 trials
@@ -1013,16 +1086,18 @@ Symptoms depend on
 - Is there drug resistance in the area
 - Microscopy of blood
 - Thick & thin films with Giemsa staining
+
 #### Dipsticks
 - Blood antigen detection of: Plasmodium histidine- rich protein (PfHRP2)
 - Plasmodium lactate dehydrogenase (pLDH)
 - Used in the field
 - Don’t require skilled personnel
+
 #### Polymerase Chain Reaction (PCR)
 - Molecular technique
 - Amplifies part of the 18S rRNA gene in Plasmodium
 
-### Livers, Lurgies and Bloody mucous Lecture
+### Livers, Lurgies And Bloody Mucous Lecture
 #### Schistosomiasis
 - Schistosomiasis is an acute and chronic parasitic disease caused by blood flukes of the genus Schistosoma
 	- Bilharzia
@@ -1040,14 +1115,16 @@ Symptoms depend on
 - S. japonicum may live for 4 - 20 years
 	- Producing up to 300 - 3000 eggs per day
 	- Approx 22 million eggs from 1 worm pair
-##### Epidemiology of Schistosomiasis
+
+##### Epidemiology Of Schistosomiasis
 - The infection is prevalent in tropical and sub-tropical areas, in poor communities without potable water and adequate sanitation
 - 500 - 600 million people at risk from the disease
 	- 240 million cases each year
 	- 120 million are symptomatic
 	- 20 million suffer severe consequences
 - More UK tourists are becoming infected the rise in "off-track" tourism
-##### Schistosoma geographical distribution
+
+##### Schistosoma Geographical Distribution
 Intestinal schistosomiasis Schistosoma mansoni Africa, the Middle East, the
 Caribbean, Brazil, Venezuela and Suriname
 
@@ -1061,15 +1138,15 @@ Schistosoma guineensis and related S. intercalatum
 Rain forest areas of central Africa
 Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Corsica (France)
 
-### Life cycle
-![Pasted image 20260101152837.png](/img/user/images/Pasted%20image%2020260101152837.png)
-![Pasted image 20260101152857.png](/img/user/images/Pasted%20image%2020260101152857.png)
-![Pasted image 20260101152904.png](/img/user/images/Pasted%20image%2020260101152904.png)
-![Pasted image 20260101152916.png](/img/user/images/Pasted%20image%2020260101152916.png)
+### Life Cycle
+![Pasted image 20260101152837.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101152837.png)
+![Pasted image 20260101152857.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101152857.png)
+![Pasted image 20260101152904.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101152904.png)
+![Pasted image 20260101152916.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101152916.png)
 
 ### Pathology
-#### Acute schistosomiasis infection
-###### Swimmers itch (cercarial dermatitis)
+#### Acute Schistosomiasis Infection
+###### Swimmers Itch (Cercarial Dermatitis)
 - Is a transient symptom that occur within 12 hrs after cercariae penetrate the skin
 - This is an IgE hypersensitivity (allergic)
 - Macropapular pruritic rash
@@ -1084,9 +1161,9 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 - Very rare in natives of endemic regions
 	- Travellers / Tourists
 
-
 ### Urinary Schistosomiasis
 - It is normally caused by Schistosoma haematobium
+
 #### Bilharzia
 ##### Symptoms
 - Rash, weakness, lethargy
@@ -1095,10 +1172,11 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 - Can result in bladder cancer
 
 ### Intestinal Schistosomiasis
-#### Schistosoma mansoni & japonicum
+#### Schistosoma Mansoni & Japonicum
 - Cause of intestinal schistosomiasis
 - Eggs are passed in faeces
 - Liver pathology due to granuloma formation
+
 ##### Symptoms
 - Rash, weakness, lethargy
 - Diarrhoea
@@ -1121,7 +1199,6 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 		- From greek word - baglike
 		- Accumulation of fluid in the peritoneum
 
-
 ### Pathogenesis
 - The eggs of S. mansoni do not remain localised in the blood vessels surrounding the intestines
 - Ideally eggs find their way to the gut lumen
@@ -1130,7 +1207,8 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 	- Eggs that don’t penetrate into the intestines
 		- Move towards the liver
 			- S. mansoni primarily affects the liver
-#### Worm pairs in the mesenteric vessels
+
+#### Worm Pairs In The Mesenteric Vessels
 - Some of the Schistosoma eggs are too big to traverse the liver sinusoids
 - Equipped with Kupffer cells protect the liver
 - Trapped eggs secrete soluble egg antigen (SEA)
@@ -1140,7 +1218,7 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 - SEA proteins and the eggs elicit Inflammation
 - Resulting in the recruitment of dendritic cells
 
-### Granuloma formation
+### Granuloma Formation
 - The dendritic cell (DC) phagocytoses the SEA
 - Enter vesicles within DC and complex with MHC proteins
 - MHC proteins migrate to the outer surface of the DC presented to T cell
@@ -1170,7 +1248,7 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 	- One female schistosome produces >million eggs in its lifetime
 	- Each egg can potentially cause liver damage
 
-### Treatment of Schistosomiasis
+### Treatment Of Schistosomiasis
 - The infection is treated with a single oral annual dose of Praziquantel
 - Praziquantel is effective against all species of adult schistosome worms.
 - Praziquantel is less effective against the juvenile, maturing worms
@@ -1178,12 +1256,13 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 	- Oxamniquine (Vansil)
 	- Drontal (dogs and cats)
 - Even with a cheap readily available drug the problem remains
+
 #### Mechanism
 - Drug induced muscle contraction of Schistosome
 - Damage to tegument
 - Vulnerable to antibody mediated damage
 
-### Prevention of Schistosomiasis
+### Prevention Of Schistosomiasis
 - Praziquantel is donated by Merck through the WHO Praziquantel donation programme.
 - Merck has pledged 250 million tablets for the treatment of schistosomiasis
 - Infections can also be reduced
@@ -1192,16 +1271,18 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 	- Vigorous towel drying after swimming
 	- Improving sanitation (Provision of safe and clean water)
 
-### Diagnosis of Schistosomiasis
+### Diagnosis Of Schistosomiasis
 #### Symptoms
 - Urinary symptoms
 - Intestinal / Liver symptoms
 - Hepatomegaly / splenomegaly
-#### Travel history
+
+#### Travel History
 - Where has the patient visited
 - Or where does the patient live
 - Africa, South America, Asia?
-#### Look for the eggs
+
+#### Look For The Eggs
 - 150 μm in length
 - Faeces (Keto katz - Wet prep microscopy, antigen test, PCR)
 - intestinal polyps (Histology)
@@ -1212,7 +1293,7 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 - Most food-associated infective diseases are bacterial but also viral and parasitical causes
 - Most food-associated infections result from eating improperly treated animal products; includes meat, poultry, eggs, milk, fish, shellfish, and so on
 - In developing countries GI infections are high due to poor sanitation and poor hygiene - spread feacal-oral
-![Pasted image 20260101153604.png](/img/user/images/Pasted%20image%2020260101153604.png)
+![Pasted image 20260101153604.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101153604.png)
 
 #### The GI Tract
 - ~ 10 metres long
@@ -1232,11 +1313,12 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 - Intestinal microflora
 - Mucus
 - Systemic and local immune
-#### mechanisms
+
+#### Mechanisms
 - Enzymes
 - Others: (e.g. breast feeding)
 
-#### Stages of Infection
+#### Stages Of Infection
 - Ingestion
 - 10 bacteria - Shigella dysenteriae
 - 108 - Vibrio cholerae
@@ -1248,7 +1330,7 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 - Stays local or can spread
 - Yersinia invade lymphatics → systemic infection
 
-#### Conditions and Symptoms
+#### Conditions And Symptoms
 - Gastroenteritis
 - Diarrhoea, nausea, vomiting, abdominal pain
 - Sometimes with headache, fever, malaise
@@ -1259,7 +1341,7 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 - Enterocolitis
 - Inflammation of mucosa of both small and large intestines
 
-![Pasted image 20260101153743.png](/img/user/images/Pasted%20image%2020260101153743.png)
+![Pasted image 20260101153743.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101153743.png)
 
 ### Gastrointestinal Bacteria
 #### Campylobacter
@@ -1291,9 +1373,9 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 - S. dysenteriae → most severe (Shiga toxin)
 - Acquired in countries with poor sanitation
 
-![Pasted image 20260101153824.png](/img/user/images/Pasted%20image%2020260101153824.png)
+![Pasted image 20260101153824.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101153824.png)
 
-### EHEC aka STEC/VTEC
+### EHEC Aka STEC/VTEC
 - Produce Shiga- or ‘vero’-toxin
 - Toxic to tissue cultures of ‘vero’ cells
 - Identical to Shiga (Shigella) toxin
@@ -1308,6 +1390,7 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 - Inadequate clean drinking water and sewage disposal
 - Caused pandemics in the past (Haiti 2010)
 - Symptoms due to enterotoxin production in the gut
+
 ### Cholera
 - Treatment
 - Prompt rehydration with fluids and electrolytes
@@ -1317,7 +1400,7 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 - Loss of 1 litre of fluid every hour
 - 40-60% mortality if untreated
 
-### Clostridium difficile
+### Clostridium Difficile
 - Transient inhabitant of human gut
 - Common cause of healthcare-associated diarrhoea
 - Spores survive in environment
@@ -1326,7 +1409,8 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 - Multiplies and produces cytotoxins
 - Broad-spectrum antibiotics obliterate host microflora
 - colonisation of C. difficile Other Bacterial Causes
-### Yersinia enterocolitica
+
+### Yersinia Enterocolitica
 - Found in gut of flora of many mammals
 - Pigs, sheep, cattle
 - Can multiply at refrigerator temperatures
@@ -1334,7 +1418,8 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 - Enterocolitis, often with mesenteric adenitis
 - Confused with appendicitis (children)
 - Prolonged duration → immune-mediated complications e.g. arthritis
-### Vibrio parahaemolyticus
+
+### Vibrio Parahaemolyticus
 - Halophilic (salt-loving) found in estuarine, marine and coastal environments
 - Can contaminate seafood and fish
 - Diarrhoea (milder than cholera) because of consuming undercooked seafood and fish
@@ -1349,6 +1434,7 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 - Short incubation period (12-72 h)
 - Nausea, vomiting, diarrhoea, headache, myalgia, chills, fever
 - Recovery within 24-48 h
+
 #### Rotavirus
 - Latin word rota meaning wheel
 - Different rotaviruses infect the young of many mammals
@@ -1360,7 +1446,7 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 - lasts 4 to 7 days
 - Fluid and salt replacement can be life saving
 
-![Pasted image 20260101153922.png](/img/user/images/Pasted%20image%2020260101153922.png)
+![Pasted image 20260101153922.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101153922.png)
 
 #### Protozoa
 - Single-celled organisms
@@ -1385,7 +1471,7 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 - rest are Enterobacteriaceae
 
 ### CULTURE
-![Pasted image 20260101154109.png](/img/user/images/Pasted%20image%2020260101154109.png)
+![Pasted image 20260101154109.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101154109.png)
 
 #### What Culture Plates/Tests?
 - All specimens
@@ -1397,6 +1483,7 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 - Mesenteric adenitis/appendicitis → CIN agar
 - Diarrhoea aged >65 → C. difficile test
 - Travel to Africa, Asia, South America → parasite investigations
+
 #### Campylobacter Identification
 - Culture requirements differ to those of enterobacteria
 - Microaerophilic
@@ -1406,12 +1493,14 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 - Slow growing (48 h)
 - Gram stain morphology is diagnostic
 - S-shaped Gram -ve rods
-#### Isolation of Salmonella
+
+#### Isolation Of Salmonella
 - Inoculate amount of faeces into ‘selective/enrichment broth’ - Selenite cysteine or Rappaport-Vassiliadis (RV) broth
 - Ideal conditions for bacterial multiplication
 - After a few hours of incubation at 41 to 42oC subculture broth onto selective medium
 - Malachite Green and Magnesium Chloride are included in the formulation as selective agents due to their ability to inhibit most enteric organisms but allow salmonellae to multiply freely
-##### Identification of Salmonella spp. - XLD
+
+##### Identification Of Salmonella Spp. - XLD
 - Red colonies with black centre
 - Other ‘interfering’ organisms e.g. Proteus spp. resembling Salmonella spp. need ruling out
 - Proteus spp urease +ve
@@ -1422,6 +1511,7 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 - Suspected colonies identified by
 - Serology
 - MALDI-TOF/API 20E
+
 #### Serogrouping Agglutination Test
 - Antisera generated in animals to specific antigens on bacterial cell surface
 - Different strains of bacteria have different antigens on surface
@@ -1436,12 +1526,14 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 - molecular tests
 - parasite concentration methods
 - imaging-based methods
-##### Clostridium difficile Toxin Detection by ELISA
+
+##### Clostridium Difficile Toxin Detection By ELISA
 - ELISA plate wells coated with antibodies to C. difficile toxins
 - Add emulsified faecal specimen → 37 ºC/1h
 - Add detecting antibodies conjugated to horseradish peroxidase
 - If ‘toxin sandwich’ present → colour change
 - Poor sensitivity
+
 ##### Molecular Detection Methods
 - Cepheid GeneXpert cartridge to confirm positive C. difficile toxin EIA results
 - Norovirus detection by reverse-transcriptase PCR
@@ -1449,11 +1541,11 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 - Increased sensitivity
 - Shorter turnaround time to result
 
-![Pasted image 20260101154146.png](/img/user/images/Pasted%20image%2020260101154146.png)
+![Pasted image 20260101154146.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101154146.png)
 
-![Pasted image 20260101154154.png](/img/user/images/Pasted%20image%2020260101154154.png)
+![Pasted image 20260101154154.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101154154.png)
 
-![Pasted image 20260101154206.png](/img/user/images/Pasted%20image%2020260101154206.png)
+![Pasted image 20260101154206.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101154206.png)
 
 #### Fluorescence Microscopy
 - Ova of Cryptosporidium parvum in a faecal smear stained with auramine phenol
@@ -1467,14 +1559,15 @@ Urogenital schistosomiasis Schistosoma haematobium Africa, the Middle East, Cors
 - Infrequently performed by the testing lab
 - Collects data to detect regional and national patterns of disease
 
-### War wounds: Skin and soft tissue infections
+### War Wounds: Skin And Soft Tissue Infections
 Skin is a defence mechanism
 - It is the largest organ of the body
 - Primary and physical barrier against infection
 - Mucosal membranes easier to breach
 - Colonised by commensal organisms
 - Normal flora
-#### Structure of the skin
+
+#### Structure Of The Skin
 - The structure of the skin allows protection, insulation and flexibility
 - Epidermis
 - External layer
@@ -1484,7 +1577,8 @@ Skin is a defence mechanism
 - Loser connective tissue and fat
 - Deep fascia
 - Denser organised tissues - mucsle
-#### Normal flora of the skin
+
+#### Normal Flora Of The Skin
 - The microbiota of the skin is varied, dynamic and essential
 - Often transient
 - Can be removed by washing but soon return
@@ -1498,7 +1592,8 @@ disease.
 The distribution of organisms is very dynamic but dependant and moisture availability - Dry G+ves and yeasts, Moist - G-ves and many others
 Bacterial cells present underneath a human toenail
 The normal flora is very varied and often lives in mixed communities that rely on each other for survival. This is particularly seen in the mouth.
-#### Natural control of commensals
+
+#### Natural Control Of Commensals
 - A variety of mechanisms keep numbers under control
 - Dry conditions - water availability is low in most places
 - Acidic pH - <pH5.5
@@ -1506,7 +1601,8 @@ The normal flora is very varied and often lives in mixed communities that rely o
 - Surface temp. - 33oC is less than optimum
 - Excreted substances - fatty acids, urea, AMP’s - defensins
 - Competition between species
-#### Predisposing factors to SSTI
+
+#### Predisposing Factors To SSTI
 - A variety of factors allow infection of the skin
 - Perturbation of balance of commensal population
 - Long term antibiotic treatment, long term increased moisture levels
@@ -1515,9 +1611,10 @@ The normal flora is very varied and often lives in mixed communities that rely o
 - Surgery / stabbing wounds, drug use, bites, sores, ulcers
 - Long term Catheters
 - Co-morbidities
-![Pasted image 20260101154501.png](/img/user/images/Pasted%20image%2020260101154501.png)
-![Pasted image 20260101154515.png](/img/user/images/Pasted%20image%2020260101154515.png)
-#### Fungal infection in humans
+![Pasted image 20260101154501.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101154501.png)
+![Pasted image 20260101154515.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101154515.png)
+
+#### Fungal Infection In Humans
 - Superficial and cutaneous mycoses
 - Caused by deposition of fungal material on surface of the body
 - Skin, Hair, Nails
@@ -1534,8 +1631,9 @@ The normal flora is very varied and often lives in mixed communities that rely o
 Azoles Tinea corporis dermatophyte infection of the body surface commonly called ring worm.
 Tinea pedis dermatophyte infection of the skin between toes and on feet commonly called athlete's foot.
 
-![Pasted image 20260101154553.png](/img/user/images/Pasted%20image%2020260101154553.png)
-#### Staphylococcal skin infections
+![Pasted image 20260101154553.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101154553.png)
+
+#### Staphylococcal Skin Infections
 - Often result from breaks or infection of follicles
 - Folliculitis
 - Entry through hair follicle which become inflamed - Erythematous pustule forms around hair - long lasting damage to skin
@@ -1550,8 +1648,9 @@ Tinea pedis dermatophyte infection of the skin between toes and on feet commonly
 A furuncle (boil) in the skin of the back. These start through infection of a single or collection of hair follicles.
 An abscess in the gluteal region.
 These start through infection of hair follicles or through other breaks in the skin.
-![Pasted image 20260101154655.png](/img/user/images/Pasted%20image%2020260101154655.png)
-![Pasted image 20260101154707.png](/img/user/images/Pasted%20image%2020260101154707.png)
+![Pasted image 20260101154655.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101154655.png)
+![Pasted image 20260101154707.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101154707.png)
+
 #### Erysipelas
 - Spreading Infection of dermis and subcutaneous tissues
 - Swelling (oedema) and redness (erythema)
@@ -1561,6 +1660,7 @@ These start through infection of hair follicles or through other breaks in the s
 - May involve superficial lymphatics
 - S. pyogenes
 The characteristic butterfly-wing rash of Erysipelas
+
 #### Cellulitis
 - Spreading infection of deeper subcutaneous fatty tissues
 - Begins as a superficial lesion - boils, insect bites - trauma leads to infection
@@ -1569,7 +1669,8 @@ The characteristic butterfly-wing rash of Erysipelas
 - S. pyogenes & S. aureus
 The spreading rash of cellulitis.
 Often borders are marked to show the spreading nature
-#### Treatment of spreading skin infections
+
+#### Treatment Of Spreading Skin Infections
 - Treatment is dependant on organism and severity
 - Approx. 5% of erysipelas cases develop bacteriaemia
 - Cellulitis treatment based on clinical diagnosis
@@ -1583,7 +1684,7 @@ Often borders are marked to show the spreading nature
 - Secondary - bacteria enter blood from another part of the body that is infected
 - Wounds, lungs, intestine, genital mucosa
 
-![Pasted image 20260101154734.png](/img/user/images/Pasted%20image%2020260101154734.png)
+![Pasted image 20260101154734.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101154734.png)
 
 #### Necrotising Fasciitis
 - Spreading infection of Subcutaneous fat and superficial fascia of muscle
@@ -1593,6 +1694,7 @@ Often borders are marked to show the spreading nature
 - Type I - mix of aerobes and anaerobes
 - Type II - S. pyogenes
 The coordinated action of degradative enzymes lead to the ‘flesh eating’ disease observed
+
 #### Gas Gangrene
 - Spreading infection of the deep muscles
 - Uncommon but potentially fatal infection of severe trauma
@@ -1604,6 +1706,7 @@ The coordinated action of degradative enzymes lead to the ‘flesh eating’ dis
 - Rapidly progressive
 Enzymatic decay promotes anaerobic environments and invasion. This leads to necrosis of tissue due to poor blood supply
 The amputation kit was previously the only treatment for these infections. 
+
 #### Treatment
 - Necrotising Fasciitis
 - Removal of all necrotic fascia - debridement
@@ -1618,11 +1721,11 @@ The amputation kit was previously the only treatment for these infections.
 - Amputation may be necessary to prevent sepsis
 - Prevention includes rapid cleansing of wounds
 
-![Pasted image 20260101154816.png](/img/user/images/Pasted%20image%2020260101154816.png)
+![Pasted image 20260101154816.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101154816.png)
 Diagnosis of infecting agents in wounds follows standard protocols, sampling and culture regimes.
 Diagnosis and suseptibility testing is essential
 
-#### Specimen collection
+#### Specimen Collection
 - The use of specialist sterile swabs is required
 - Area of the wound is cleaned
 - Suspected infected area swabbed
@@ -1633,7 +1736,7 @@ Diagnosis and suseptibility testing is essential
 Ames swabs are used for collection and transport. If available fresh draining puss or
 tissue is better.
 
-#### Sample processing
+#### Sample Processing
 - Microscopy
 - Useful for pus and tissue samples
 - Less likely to be contaminated
@@ -1644,7 +1747,7 @@ tissue is better.
 Microscopy is a useful rapid reporting tool that can help direct
 treatment
 
-#### Why selective media is required
+#### Why Selective Media Is Required
 - Many sample areas are contaminated
 - Wounds may be contaminated with faecal organisms if on lower body
 - E. coli and Proteus
@@ -1653,14 +1756,14 @@ treatment
 Manitol salt agar (MSA)is used to select for and differentiate different Staphylococci
 A quick reminder about blood agar a complex/ differential media that grows most pathogens that contains defibrinated blood. Differentiates based on the ability to cause different levels of haemolysis
 
-![Pasted image 20260101154959.png](/img/user/images/Pasted%20image%2020260101154959.png)
-![Pasted image 20260101155007.png](/img/user/images/Pasted%20image%2020260101155007.png)
-![Pasted image 20260101155014.png](/img/user/images/Pasted%20image%2020260101155014.png)
-![Pasted image 20260101155022.png](/img/user/images/Pasted%20image%2020260101155022.png)
-![Pasted image 20260101155034.png](/img/user/images/Pasted%20image%2020260101155034.png)
-![Pasted image 20260101155041.png](/img/user/images/Pasted%20image%2020260101155041.png)
+![Pasted image 20260101154959.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101154959.png)
+![Pasted image 20260101155007.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101155007.png)
+![Pasted image 20260101155014.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101155014.png)
+![Pasted image 20260101155022.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101155022.png)
+![Pasted image 20260101155034.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101155034.png)
+![Pasted image 20260101155041.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260101155041.png)
 
-### ACDP III and IV pathogens: Working in containment
+### ACDP III And IV Pathogens: Working In Containment
 - A microbiologist is required to handle and identify a variety of pathogens  
 - Mostly bacterial  
 - opportunistic - S. aureus, P. aeruginosa.  
@@ -1674,7 +1777,7 @@ A quick reminder about blood agar a complex/ differential media that grows most 
 - Easy to miss-diagnose - look like other infections  
 - Can potentially cause serious infections in staff - often highly infectious
 
-#### The HSE, ACDP and COSHH  
+#### The HSE, ACDP And COSHH
 - Handling very dangerous pathogens takes special care  
 - Techniques and equipment are the same for any organism of same type  
 - Handling them safely is the hard bit  
@@ -1688,14 +1791,14 @@ A quick reminder about blood agar a complex/ differential media that grows most 
 - COSHH  
 - Health and safety at work act etc 1974
 
-#### The health and safety at work act (1974)  
+#### The Health And Safety At Work Act (1974)
 - Enforced by the HSE  
 - Basically puts responsibility for safety in the work place on everybody  
 - ‘The Act sets out the general duties which employers have towards employees and members of the public, and employees have to themselves and to each other’.  
 - Especially in the laboratory  
 - Many regulations for the containment environment
 
-##### COSHH  
+##### COSHH
 - Control of Substances Hazardous to Health
 - Substances include - reagents, solvents, medias, infectious organisms and anything with an exposure limit - section 3 COSHH  
 - Regular assessments are needed to minimise risk.  
@@ -1706,14 +1809,14 @@ A quick reminder about blood agar a complex/ differential media that grows most 
 - Only applies where work related - includes teaching and research  
 - Other legislation and other government departments covers specific situations and pathogens - DEFRA
 
-##### The ACDP  
+##### The ACDP
 - Advisory committee on Dangerous Pathogens
 - Advise the HSE and Ministers for the Department of Health and the Department for the Environment, Food & Rural  
 Affairs and their counterparts, on all aspects of hazards and risks to workers and others from exposure to pathogens.  
 - Develop guidance of how organisms should be handled  
 - Produce an approved list of pathogens
 
-###### The ACDP Groups  
+###### The ACDP Groups
 - Agents appearing in the Approved List are classified on the basis of their ability to cause disease by infection  
 - Only agents in Groups 2, 3 and 4 are listed  
 - Those not listed in these groups are not implicitly classified in group 1  
@@ -1722,9 +1825,9 @@ Affairs and their counterparts, on all aspects of hazards and risks to workers a
 - ACDP Group 1  
 	- Generally non pathogenic - Bacillus subtilis, laboratory strains of E. coli  
 - ACDP Group 2  
-	- May cause infections in humans but are normally treatable with  antibiotics or self limiting - P. aeruginosa, S. aureus, Salmonella  enteritidis  
+	- May cause infections in humans but are normally treatable with antibiotics or self limiting - P. aeruginosa, S. aureus, Salmonella enteritidis  
 - ACDP Group 3  
-	- Very infectious, Infection may to death if untreated - Bacillus anthracis, Yersinia pestis. May be difficult to treat using conventional antibiotics.  May be transmissible.
+	- Very infectious, Infection may to death if untreated - Bacillus anthracis, Yersinia pestis. May be difficult to treat using conventional antibiotics. May be transmissible.
 - ACDP Group 4  
 	- Highly infectious to humans and often transmissible.  
 	- Highly pathogenic and often untreatable  
@@ -1732,17 +1835,18 @@ Affairs and their counterparts, on all aspects of hazards and risks to workers a
 	- Mostly viral agents  
 	- Ebola, Marburg, Machupo, Omsk, Rift valley fever virus
 
-#### Containment of organisms  
-- COSHH, ACDP, DEFRA, contained use regs (2014) set out minimum level and type of  containment needed for each pathogen  
+#### Containment Of Organisms
+- COSHH, ACDP, DEFRA, contained use regs (2014) set out minimum level and type of containment needed for each pathogen  
 - Part II and III of schedule 3 of COSHH - facility requirements  
 - Hospitals - ACDP II mostly -ACDP III room  
 - Use Level II were no real risk of culturing III or IV  
 - Need access to Level III were suspected
-##### Why are ACDP III and IV are so dangerous?  
+
+##### Why Are ACDP III And IV Are So Dangerous?
 - Many are zoonotic spp.  
 - Removal from usual host to humans increases pathogenicity - host adaptation  
 - Have numerous highly effective virulence factors - ability to cause disease in the healthy  
-- Toxins, degradative enzymes capsules, injectable effector molecules, iron  scavenging molecules  
+- Toxins, degradative enzymes capsules, injectable effector molecules, iron scavenging molecules  
 - Natural intrinsic resistance to antibiotics  
 - Environmental species
 - Intracellular mode of life or resistant to phagocytosis  
@@ -1754,24 +1858,25 @@ Affairs and their counterparts, on all aspects of hazards and risks to workers a
 - Often misidentified for another less pathogenic agents  
 - Especially in clinical diagnosis
 
-#### Discussion points  
+#### Discussion Points
 - What do you do if you don’t know which category an agent goes in?  
 - Why do you think the rules in schedule 3 of COSHH differ for labs, and industrial facilities?  
 - What do you understand by the terms ‘Biological Agent’ and ‘Microorganism’?
 
-#### Notifiable pathogens  
+#### Notifiable Pathogens
 - UKHSA is responsible for studying the pattern of infectious disease in UK and investigation of uncommon outbreaks.  
 - Key infections are continually monitored by microbiology labs in the UK and the PHE collates findings which are then published on their website:  
 - Some infections are notifiable - doctors must report these  
 - Some are ACDP group 3 or 4  
-![Pasted image 20260104010624.png](/img/user/images/Pasted%20image%2020260104010624.png)
+![Pasted image 20260104010624.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260104010624.png)
 
-#### The NOIDs reports
+#### The NOIDs Reports
 - Data is made available to professionals and pubic
 - By law medical practitioners must notify health authority
 - Weekly, monthly and yearly summaries of the Notifications of infectious diseases are produced 
 The UKHSA also help to collate data on high consequence infectious diseases too
-#### Bacillus anthracis
+
+#### Bacillus Anthracis
 - Causative agent of the disease anthrax
 - Naturally occurring animal disease
 - Herbivores infected by grazing contaminated pastures - ingest spores
@@ -1779,12 +1884,14 @@ The UKHSA also help to collate data on high consequence infectious diseases too
 - Zoonosis in humans
 - Results in 3 different disease presentations depending on site infected
 - ACDP group 3
-##### Bacteriological characteristics
+
+##### Bacteriological Characteristics
 - Gram Positive aerobic spore forming rod shaped bacterium.
 - Large colonies on rich media
 - Characteristic ground glass appearance when grown on media containing blood
 - Spores remain viable for many years
-##### Pathogenesis in the human host
+
+##### Pathogenesis In The Human Host
 - Infection is through, ingestion, inhalation or contamination of wounds with spores.
 - Infectious dose is considered to be 8000 - 80000 spores in humans
 - Contamination of the body can result in 3 different disease presentations.
@@ -1792,7 +1899,8 @@ The UKHSA also help to collate data on high consequence infectious diseases too
 - Intestinal anthrax- contaminated food
 - Inhalational anthrax- inhaling spores
 - 98% of naturally occurring anthrax in humans occurs in the skin.
-##### Cutaneous anthrax
+
+##### Cutaneous Anthrax
 - Results from infection of the skin.
 - Causes formation of characteristic eschar
 - Local swelling due to toxin
@@ -1802,13 +1910,15 @@ The UKHSA also help to collate data on high consequence infectious diseases too
 - Incubation period 1-15 days
 - Damage to gut from virulence factors
 - Death 1-7 days if not treated
-##### Inhalational anthrax
+
+##### Inhalational Anthrax
 - Most severe form 1 - 45 days
 - Inhalation of spores
 - Lungs to lymph nodes and into blood
 - Action of virulence factors causes massive swelling and cell death
 - Death in 1 - 3 days
-##### Virulence factors
+
+##### Virulence Factors
 - Polyglutamic acid capsule
 - Plasmid encoded - PX01
 - Allows resistance to macrophage killing
@@ -1817,50 +1927,57 @@ The UKHSA also help to collate data on high consequence infectious diseases too
 - Plasmid encoded - PX02
 - 3 components - PA, EF, LF
 
-#### Yersinia pestis
+#### Yersinia Pestis
 - Causative agent of the disease Plague
 - Naturally occurring disease in rats
 - Endemic in Asia - India
 - Zoonosis in humans
 - Black death killed third of population in northern hemisphere - 3 great plagues
-##### Bacteriological characteristics
+
+##### Bacteriological Characteristics
 - Short Gram negative rod - Bi-polar
 - Non-motile at RT
 - Grows well especially on blood
 - Relatively slow growth at 37oC
 - Small grey/white colonies after 24 h - 48 h
 - ACDP group 3
-##### Pathogenesis in the human host
+
+##### Pathogenesis In The Human Host
 - Transmitted to humans by insect vector - flea bites
 - Disease when close contact between rats and humans
 - Avoids immune system and multiplies in local lymph nodes - TTSS system
 - Two/ three types Bubonic, septecaemic, Pneumonic
-##### Bubonic plague
+
+##### Bubonic Plague
 - Multiplication of Y. pestis in local lymph node - Bubo
 - Incubation period 2-10 days
 - Rupture may result in survival
 - May progress to septicaemia - death
 - Colonisation of the lungs - pneumonic plague
-##### Pneumonic plague
+
+##### Pneumonic Plague
 - Inhalation of bacteria
 - Secondary to bubonic
 - Incubation period 1-3 days
 - Rapid and very lethal -70 - 90%
 - Highly contagious
-#### Burkholderia pseudomallei
+
+#### Burkholderia Pseudomallei
 - Causative agent of the disease melioidosis
 - Endemic in south east Asia
 - North Eastern Thailand, Singapore, Northern Australia
 - Soil saprophyte
 - Rice farmers at risk
 - Peak in rainy season
-##### Bacteriological characteristics
+
+##### Bacteriological Characteristics
 - Bipolar staining gram negative rod
 - Characteristic colonies with haemolysis on blood agar
 - Grows on any agar
 - Facultative anaerobe
 - ACDP group 3
-#### Pathogenesis in the human host
+
+#### Pathogenesis In The Human Host
 - In areas of endemicy many children seropositive
 - Incubation - days - years
 - Out come depends on dose -
@@ -1873,7 +1990,8 @@ The UKHSA also help to collate data on high consequence infectious diseases too
 - resembles TB on X-ray
 - Infects all organs - liver and spleen - abscesses
 - Diabetes patients at particular risk
-##### Virulence factors and role in disease
+
+##### Virulence Factors And Role In Disease
 - B. pseudomallei has many putative factors
 - Capsule - survival in phagolysosome
 - Motility- polyermerises actin for movement between cells
@@ -1882,10 +2000,11 @@ The UKHSA also help to collate data on high consequence infectious diseases too
 - Toxins
 - TTSS for delivery of effectors
 
-![Pasted image 20260104010746.png](/img/user/images/Pasted%20image%2020260104010746.png)
+![Pasted image 20260104010746.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260104010746.png)
 
-![Pasted image 20260104010802.png](/img/user/images/Pasted%20image%2020260104010802.png)
-#### Handling ACDP 3 and 4 pathogens
+![Pasted image 20260104010802.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260104010802.png)
+
+#### Handling ACDP 3 And 4 Pathogens
 - Initially infecting agent would be unknown
 - Sample preparation would take place in a suitable microbiological safety cabinet
 - ACDP II containment if ID not suspected
@@ -1900,7 +2019,8 @@ The UKHSA also help to collate data on high consequence infectious diseases too
 - Sub-culture & Storage
 - Working in containment is a highly stressful environment - requires highly trained staff
 - ACDP group 3 and 4 - PHE, Porton Down, DSTL
-##### The ACDP category 3 laboratory
+
+##### The ACDP Category 3 Laboratory
 - Relies on the use of a large air handling system.
 - Restricted access
 - Contained water a drainage
@@ -1921,7 +2041,7 @@ The UKHSA also help to collate data on high consequence infectious diseases too
 - Easy to fumigate
 Different kinds of microbiological safety cabinets. All have different range of uses
 
-![Pasted image 20260104010825.png](/img/user/images/Pasted%20image%2020260104010825.png)
+![Pasted image 20260104010825.png](/img/user/Files%20And%20Shit/Pasted%20image%2020260104010825.png)
 - The lab itself is specially designed
 - No absorbent surfaces
 - Large fire resistant doors - bulkheads on outside
@@ -1941,7 +2061,8 @@ Different kinds of microbiological safety cabinets. All have different range of 
 - Emergency showers - tested daily
 - Safety and evacuation plan
 - Exposure drills - never just run away 
-##### The ACDP Category 4 laboratory
+
+##### The ACDP Category 4 Laboratory
 - Special guidelines on design and commissioning
 - HSE, ACDP, COSHH
 - Location must be considered

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/grims-stuff/agate-and-katrina/agate-s-creations/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/grims-stuff/agate-and-katrina/agate-s-creations/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
+
 
 ## Rough
 ### Drawn
@@ -8,7 +9,7 @@ The Courtyard, With Camera Angles
 The Popular Kids
 Weretiger 
 "Curse Radiator?"
-Jagot The Owlbear, Big Teeth,  Glowing Green, Three Eyes
+Jagot The Owlbear, Big Teeth, Glowing Green, Three Eyes
 
 # In Progress
 ### Drawn
@@ -18,19 +19,17 @@ Vault Door (13)
 Shopping Adventure
 Blood Moon Night
 
-
-
-
-
 # Detailed:
 ## Pottered
 Bone Bowl (3)
 Bone Spoon
 Bone Ladle 
+
 ### Plush
 Cyn
 Jetty
 Agate
+
 ### Drawn
 #### Ceatures
 "world Eater" Cloud Cat (Familiar) ^^
@@ -63,7 +62,6 @@ Skates :)
 Ethereal silver eyeliner
 Lingo lipstick
 
-
 ##### Misc
 Jettys Dried Shirt
 Amantia's (Queens Cat's) Notebook full of doodles and notes
@@ -77,6 +75,7 @@ Art Company Deed
 Marketable Plushies!
 bullet mold
 15 silver bullets
+
 #### Events
 Jettys Fountain Suicide
 Jetty Hanging Herself

@@ -1,18 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/venti/ferventi-rana-small/","tags":["dnd","FerventiRana","MyPCs","FreyaStuff","ConcentratedBrain"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Branches/My PCs]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":["Venti","Ferventi"],"Next":null,"Previous":null,"title":null,"comments":true,"tags":["dnd","FerventiRana","MyPCs","FreyaStuff","ConcentratedBrain"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/venti/ferventi-rana-small/","tags":["dnd","FerventiRana","MyPCs","FreyaStuff","ConcentratedBrain"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Branches/My PCs]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":["Venti","Ferventi"],"Next":null,"Previous":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["dnd","FerventiRana","MyPCs","FreyaStuff","ConcentratedBrain"],"permalink":null,"Featured":"[[Files And Shit/470afad0-3694-4a4d-86c4-7cef3a3a97f6.jpg]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"Files And Shit/470afad0-3694-4a4d-86c4-7cef3a3a97f6.jpg","thumbnail":"thumbnails/resized/bb759cf46d13fc99d8944a2721a26c5d_86cf658e.webp"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
-
-# <center><span style="color:#CC550D">Ferventi  Rana</span></center>
-![470afad0-3694-4a4d-86c4-7cef3a3a97f6.jpg](/img/user/images/470afad0-3694-4a4d-86c4-7cef3a3a97f6.jpg)
-
-
+# <center><span style="color:#CC550D">Ferventi Rana</span></center>
+![470afad0-3694-4a4d-86c4-7cef3a3a97f6.jpg](/img/user/Files%20And%20Shit/470afad0-3694-4a4d-86c4-7cef3a3a97f6.jpg)
 
 ## General
- Race:  [[Shadar-Kai\|Shadar-Kai]]/[[Reborn\|Reborn]]
- Class:  [[Curse User\|Curse User]] 3
+ Race: [[Shadar-Kai\|Shadar-Kai]]/[[Reborn\|Reborn]]
+ Class: [[Curse User\|Curse User]] 3
 				 [[Curse User#Heavenly pact\|Heavenly pact]]
  Curse Points 6/6
  Alignment: Lawful Neutral 
@@ -23,8 +21,6 @@ Char Save, Wisdom Save, Int Save= 15
 Heavy Armour, Firearms = 6
 Pan Flute = 1
 Herbalism Kit, Poisoners Kit, Land And Water Vehicles =8
-
-
 
 ## Stats
 
@@ -61,6 +57,7 @@ Herbalism Kit, Poisoners Kit, Land And Water Vehicles =8
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
 | Death Failes |     |     |     |
+
 ### Attacks
 
 | Attack         | To-Hit | Damage                |
@@ -69,16 +66,14 @@ Herbalism Kit, Poisoners Kit, Land And Water Vehicles =8
 |  |     |  |
 |    |        |                       |
 
- ### Spells
-
-
-
+### Spells
 
 | Spell Modifier | Wisdom |
 |:--------------:|:------:|
 |    Spell DC    |       |
 |  Hit Modifier  |      |
-# Inventory 
+
+# Inventory
 Money: 
 Inventory: Ring Mail, [[1 In The Chamber\|1 In The Chamber]], 5 Rations
 
@@ -126,10 +121,7 @@ Notes:
 
 [[Blessing of the Raven Queen \|Blessing of the Raven Queen ]] (2)
 
-
-
 ### Spell List
-
 
 | 1st (4) | Shield (Reaction) | PrestIdigitation |
 | ------- | ----------------- | ---------------- |
@@ -156,14 +148,14 @@ Its Not Like Anyhting Was Ever Perfect, They Always Felt Like They Were One Push
 ## # <center><span style="color:#000000">Curses</span></center>
 
 
-## <center><span style="color:#CC550D">Cursed tool: 1 in the chamber </span></center>
+## <center><span style="color:#CC550D">Cursed Tool: 1 In The Chamber </span></center>
 
 A Tattered Shell Of What You Can Imagine Was Once A Revolver But Is Now Some Metallic Shell Riddled With Holes And Deliberate Looking Scratches. Its A Miracle This Piece Of Junk Can Hold Itself Together. If You Use It You Better Hope The Explosion Comes From The Part Pointing Away From You.
 
 Action
 2d8 cursed damage
 This weapon is broken and cannot be used other then with its cursed ability 
-Cursed ability:costs 1 cursed energy  roll a d6 on a 6  you fire the revolver and it will critical the opponent
+Cursed ability:costs 1 cursed energy roll a d6 on a 6 you fire the revolver and it will critical the opponent
 Give Someone The Gun And If They Beat Their Own AC They Get Shot, If They Dont: I Get Shot
 
 ---
@@ -175,9 +167,10 @@ Having Missed Ferventi (Obviously In An Attempt To Flirt) The Attacker Is Now In
 Reverse technique:
 Costs 2 cursed energy 
 Reaction strike (prerequisite: creature has to miss a attack on you )
-After a creature misses a attack you may strike back with a unarmed strike, on a hit  you charm the creature for three rounds or until you attack them, as well as this they will listen to basic commands as if under the effect of the suggestion spell 
+After a creature misses a attack you may strike back with a unarmed strike, on a hit you charm the creature for three rounds or until you attack them, as well as this they will listen to basic commands as if under the effect of the suggestion spell 
 
 ---
+
 ## <center><span style="color:#CC550D">Quid Pro Quo</span></center>
 
 You Scratch My Back; I'll Scratch Yours Also Works When Both Parties Have Claws. Being No Stanger To Being Stabbed In The Back, Venti Had Her Eye On This One And Has Counted Their Transgressions, Until The Fires Of Hell Can Bring Forth Retribution Part Of It Will Be Hand Delivered By Yours Truly.
@@ -185,33 +178,36 @@ You Scratch My Back; I'll Scratch Yours Also Works When Both Parties Have Claws.
 Improved reverse technique:
 Action
 Consumed ⅓ of the damage you wish to use 
-During a fight pick one creature, you now may tally how much  damage they do to you throughout the fight, at any point during it you can consume ⅓ of that damage as curse energy then fire back all of it at a enemy, the attack is unable to miss unless a technique is used 
+During a fight pick one creature, you now may tally how much damage they do to you throughout the fight, at any point during it you can consume ⅓ of that damage as curse energy then fire back all of it at a enemy, the attack is unable to miss unless a technique is used 
 (i.e if you are hurt for 15 dmg overall then you consume 5 cursed energy then deal 15dmg to them)
 
 ---
+
 ## <center><span style="color:#000000">The Voids Embrace</span></center>
 
 
 The Rapid Expansion And Escape Of Ferventi Rana's Emotions Created A Blanket Of Chaos Ending All Feeling Within The Domain. Exposure To The Void Causes Emotions To Spiral As One Tries To Gain Control Of Them. Escaping The Void Leaves One Longing For Its Embrace And Temporarily Unable To Properly Function Without It.
 
 Action 
-Consumes 8 cursed energy, costs 2  energy to maintain  
+Consumes 8 cursed energy, costs 2 energy to maintain  
 Causes the frightened effect as well as stunning for a turn after the domain closes
 For two turns after the domain closes a user who was caught in it can’t use any cursed energy they also have disadvantage on physical strike 
 Rewritten
 drain curse points, turn invisible
 
 ---
+
 ## <center><span style="color:#892102">Warning Shot</span></center>
 
 When Ferventi's Adrenaline Gets Too High They Lash Out Both Physically And Emotionally, Striking Their Opponent With A Personalised Curse. The Pain Of The Curse Settling In Subsides As Their Senses Are Filled With A Manifestation Of Their Greatest Fear. It Overwhelms Them Until She Lets Them Go And The Curse Energy Drains Out.
 
 Reaction 
-Consume 3 cursed energy and perform a reaction strike pouring cursed energy into your weapon/fist on an unsuccessful hit (+5) the opponent sees the attack form into their greatest fear causing them to take 2d8 curse damage and  go into the frightened status and abandoning whatever their current motivation was
+Consume 3 cursed energy and perform a reaction strike pouring cursed energy into your weapon/fist on an unsuccessful hit (+5) the opponent sees the attack form into their greatest fear causing them to take 2d8 curse damage and go into the frightened status and abandoning whatever their current motivation was
 Consume a extra 1 energy every turn you wish for this effect to stay active
 If Known: At The End incapacitated, can’t move, and can speak only falteringly.
 
 ---
+
 ## <center><span style="color:#CC550D">Yoink</span></center>
 The Sempra Distant Begin To Feel Their Heart Get Pulled Towards The Creature Theyve Been Stalking. They Dont Know Why Theyve Been Staying So Far Away But For Some Reason This Thing Wants Them. Ferventi Grows Impatient. Ferventi Needs More.
 
@@ -219,10 +215,9 @@ Improved technique:
 Passive ability 
 Consumes 2 cursed energy when you want to toggle it on, lasts until you dismiss it or are incapacitated 
 Prerequisite: have to be 40ft away 
-While a creature of your choice is 40ft away you can drain hp away from them  equal to the creatures con modifier 
+While a creature of your choice is 40ft away you can drain hp away from them equal to the creatures con modifier 
 
 
 
 
 <center><sub>Done :)</sub></center>
-

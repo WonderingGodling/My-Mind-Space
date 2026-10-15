@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/jesters-stuff/mist-walker/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/jesters-stuff/mist-walker/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#000000">Mist Walker</span></center>
 
@@ -31,11 +31,10 @@ Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 
 - (a) a simple weapon or (b) a shortsword or (c) a whip
-    
+	
 - (a) a Dagger or (b) a longbow and 20 arrows
-    
+	
 - (a) a Component pouch or (b) an Arcane Focus.
-    
 
 |       |                          |                |              |                          |                                             |                               |     |     |     |     |     |     |     |     |
 | ----- | ------------------------ | -------------- | ------------ | ------------------------ | ------------------------------------------- | ----------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -62,11 +61,11 @@ You start with the following equipment, in addition to the equipment granted by 
 | 19th  | +6                       | 6              | 17           | 19pts<br><br>20ft radius | Ability Score Improvement                   | 4                             | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
 | 20th  | +6                       | 6              | 17           | 20pts<br><br>25ft radius | Mist path feature                           | 4                             | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
-### Mist walk
+### Mist Walk
 
 At the 1st level,  your connection to the mist allows you to transport yourself distances using mist, as a action step into any mist that takes up at least a 5ft area (or more) and transport yourself to another 5ft area (or more) of mist 
 
-#### Shroud of mist
+#### Shroud Of Mist
 
 At 1st level, when you die, your body releases mist in a 10ft radius around you, the only people who may see through this mist is your allies (the mist will dissipate within one turn)
 
@@ -86,24 +85,24 @@ The Mist walker Table shows how many Spell Slots you have to cast your Spells of
 
 Constitution is your spellcasting ability for your Spells, since the power of your magic relies on your ability to contain the toxic mist that now dwells within you. You use your Constitution whenever a spell refers to your spellcasting ability. In addition, you use your Constitution modifier when setting the saving throw DC and spellcasting attack modifier for a Mist walker spell you cast. Spell save DC = 8 + your proficiency bonus + your Constitution modifier. Spell Attack modifier = your proficiency bonus + your Constitution modifier, Spellcasting Focus You can use an arcane focus as a spellcasting focus for your Mist walker Spells.
 
-### Mist breath
+### Mist Breath
 
 At 2nd level, gain access to mist breath points,as a action consume a mist point and  breath a 5ft radius of mist within 5ft, you gain all misty point back at the start of each dawn
 
-## Misty path
+## Misty Path
 
 At the 3rd level you may now pick one of the following Mist walker paths listed towards the end of the page. you gain feats and features as shown in that archetype and or as shown in the MIst walker table above.
 
 - Path of the ethereal
-    
+	
 - Path of the changed
-    
+	
 - Path of the damned
-    
+	
 - [[Path of the ascended\|Path of the ascended]]
-    
+	
 
-### Mist sight
+### Mist Sight
 
 At level 3 your eyes have evolved beyond that of a mortals, you may now see through all magically induced darkness with 30ft of dark vision or fully see through any mist 
 
@@ -113,15 +112,15 @@ At level 3 your eyes have evolved beyond that of a mortals, you may now see thro
 
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1.This cannot raise an ability score above 20.
 
-### Hand of the mist
+### Hand Of The Mist
 
 At 4th level, when a creature moves into or out of a 5ft distance from a mist node you make make a reaction strike as if you were standing within that mist node if you yourself are within another mist node
 
-### Defense of the mist
+### Defense Of The Mist
 
 At the 7th level, while within a mist node gain fire immunity and +1ac as well as after transporting yourself to another mist node gain 10ft of movement 
 
-### Misty movement
+### Misty Movement
 
 At 9th level you have the Misty step spell prepared. It counts as a Mist walker spell for you, and it doesn't count against the number of spells you can have prepared.
 
@@ -131,15 +130,15 @@ Mist guard 
 
 At 10th level when a creature attacks another creature within 5ft distance from a mist node you can use your reaction to add your spellcasting modifier to the targets Ac if  yourself are within another mist node
 
-### Guiding hand of the mist
+### Guiding Hand Of The Mist
 
 At 13th level, when a creature attacks another creature within 5ft distance from a mist node you can use your reaction to add your spellcasting modifier to the attackers attack roll and damage roll  if  yourself are within another mist node
 
-### Mist assist
+### Mist Assist
 
 At the 15th level, when a creature attacks another creature within 5ft distance from a mist node you can use your reaction to make a opportunity strike to the target if you yourself are within another mist node
 
-### Mist born
+### Mist Born
 
 At 18th level, the mist within you has manifested into full control over your new home, you can Mist walk as a bonus action and while within a mist node take 2 reactions per turn
 
@@ -427,15 +426,15 @@ While a mist cloud is active use a action to consume a mist breath point and alt
   
 
 - Your mist now puts people to sleep if they end or start their turn inside it (constitution saving throw)
-    
+	
 - Your mist now blinds anyone who ends or starts their turn inside it ( constitution saving throw)
-    
+	
 - Your mist now deafens anyone who ends or starts their turn inside it ( constitution saving throw)
-    
+	
 - Your mist now charms anyone who ends or starts their turn inside it ( constitution saving throw)
-    
+	
 - Your mist now frightens anyone who ends or starts their turn inside it ( constitution saving throw)
-    
+	
 
   
 
@@ -459,23 +458,23 @@ You gain access to Mist manufacturing 
   
 
 - Create a simple or martial weapon of your choice you have proficiency with it if created this way and you use your spellcasting mod for atk bonus also a (+1) acts magical for purposes of surpassing resistances (costs 3 mist points and takes a action, lasts 1 hour)
-    
+	
 - Create a suit of armor made from any material (costs 5 mist points and takes a action, lasts a hour)
-    
+	
 - Create a momentary distraction to draw a foe’s attention imposing disadvantage on a enemy attack against you or a freind (costs 3 mist points and takes a reaction)
-    
+	
 - Create a shield (+2ac) that gives resistance to magical damage (costs 3 mist points, takes a action)
-    
+	
 - Create 20 ammunation (+1) acts magical for purposes of surpassing resistances (costs 3 mist points, costs a action, lasts 1 hour)
-    
+	
 - Create a arcane focus of any kind (costs max mist points, takes a bonus action, lasts 1 minute)
-    
+	
 - Create thrall ([https://www.aidedd.org/dnd/monstres.php?vo=zombie](https://www.aidedd.org/dnd/monstres.php?vo=zombie)) (costs 2 mist points)
-    
+	
 - Create skeleton([https://www.aidedd.org/dnd/monstres.php?vo=skeleton](https://www.aidedd.org/dnd/monstres.php?vo=skeleton)) (costs 4 mist points)
-    
+	
 - Create acronach([https://www.aidedd.org/dnd/monstres.php?vo=animated-armor](https://www.aidedd.org/dnd/monstres.php?vo=animated-armor))  (costs 7 mist points)  
-    
+	
 
   
   
@@ -494,37 +493,37 @@ You gain access to Spell manipulation 
   
 
 - Indecisive spell: a spell lingers in the air for 1 turn before fully activating , but you may use a reaction to trigger it at any point before the next turn (if done in this way anything caught within the spells radius, if it has one, automatically fails any roll)(costs 2 mist points, costs an extra 1 mist point to trigger early as a reaction)
-    
+	
 
   
 
 - Playful spell: a spell that would normally deal damage or have a harmful effect no longer does (costs 1 mist point)
-    
+	
 
   
 
 - Hateful spell: a spell that deals damage does triple the damage (eg 2d4 rolls a 3 you do 6 damage) (costs 4x the spell level in mist points)
-    
+	
 
   
 
 - Loving spell: a spell that restores hp recovers triple the hp (eg  2d4 rolls a 3 you heal 6) (costs 4x the spell level in mist points)
-    
+	
 
   
 
 - Generous spell: when you cast a helpful spell that effects multiple people  (such as mass healing word) the range is extended by each target (eg 60 ft of range used on someone 60ft away extends it from them another 60ft) (4 mist points per extended range)
-    
+	
 
   
 
 - Obsessive spell: when you cast a harmful spell that effects multiple people and requires them to do a saving throw to avoid something you can choose a number of foes and they will automatically succeed those throws, you may now make any other people affected by the spell reroll the throw if they succeed a number of times you allowed others to pass (4  points per reroll)
-    
+	
 
   
 
 - Vengeful spell: if you cast a spell that requires a attack roll and you miss, then next turn as a action roll half the damage die  and deal that much damage to the target (costs 4x the spell level in mist points)
-    
+	
 
   
   
@@ -564,14 +563,7 @@ Weapon
 |Mist sleeper|Creatures hit with this weapon must make a constitution saving throw or be put to sleep for 1 minute|(costs 12 mist points)|
 |Mist missile (must be ranged)|Any shot that misses a target lands 5ft behind them creating a 10ft radius blast, any creature <br><br>in the radius must do a dexterity saving throw, on a failed save they 4d8 fire damage on a successful save they take half damage|(costs 15 mist points)|
 
-  
-  
-
 Armor 
-
-  
-  
-  
 
 |   |   |   |
 |---|---|---|
@@ -584,25 +576,7 @@ Armor 
 |Mist attachment|Inbuilt standard weapon (allows for extra attack)|(costs 13 mist points)|
 |Mist wings|Gain a flying speed matching your dash speed|(costs 12 mist points)|
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
 Trinkets 
-
-  
-  
 
 |   |   |   |
 |---|---|---|
@@ -614,10 +588,6 @@ Trinkets 
 |Mist person|Create a perfect body double(lacking your subclass abilities )with 1 hit point that can act on your turn (following its creation)|(costs 15 mist points)|
 |Mist glass|Fills with any liquid obtainable by normal means|(costs 10 mist points)|
 |Mist tongue|Speak any language|(costs 5 mist points)|
-
-  
-  
-  
 
 Mist apotheosis
 
@@ -647,39 +617,39 @@ Some may even come to see you as a god for your all mighty power
   
 
 - Gain 10 extra mist points
-    
+	
 - Refresh 10  mist points every short rest 
-    
+	
 - Create magic items of very rare or worse through mist artifcation 
-    
+	
 - Half the cost of all mist artification 
-    
+	
 - Half the cost of all spell tipped spells
-    
+	
 - Half the cost of all mist manipulation 
-    
+	
 - You do not age, you do not need to sleep,eat,drink or breath
-    
+	
 - You are immune to disease 
-    
+	
 - Your soul is now bound to a object of your choice
-    
+	
 - You gain 1 extra 9th level spell slot
-    
+	
 - You surpass mortal limits  (level cap increased to 30, stat cap increased to 30)
-    
+	
 - You have gained knowledge of other realms and may create spells of interrealm travel
-    
+	
 - You may cast plane shift to travel planes without using a spell slot
-    
+	
 - You can now float ^-^
-    
+	
 - You can gift small power to mortals (creating a dark gift)
-    
+	
 - You may choose if you are celestial,devil,abortion,fiend,fey or undead
-    
+	
 - If you spend 1000 years as a mist litch you will be able to become a demi mist lich 
-    
+	
 
   
   
@@ -697,23 +667,23 @@ Your vessel has crumbled the mist has tried to leave you, you will not allow suc
   
 
 - Gain 10 more mist points 
-    
+	
 - Refresh all mist points every short rest
-    
+	
 - Create magic items of legendary or worse through mist artification 
-    
+	
 - You can travel realms without having to perform rituals
-    
+	
 - You now always float ^-^
-    
+	
 - Your soul is ethereal are unable to be destroyed through physical or mortal means
-    
+	
 - You may now choose a domain of what you rule over and may gift power upon mortals to create warlock pacts
-    
+	
 - If given godhood you can forsake it so keep yourself upon the mortal realms
-    
+	
 - Godhood will still give all benefits other then the ability to freely move between the earthly and celestial plane (since you already have it from normal litchdom)
-    
+	
 
   
   
@@ -789,11 +759,11 @@ At Higher Levels. When you cast this spell using a spell slot of 3nd level or hi
 Tiny beast, unaligned
 
 - Armor Class 6
-    
+	
 - Hit Points 5  
-    
+	
 - Speed 5 ft., fly 30 ft.
-    
+	
 
 STR
 
@@ -810,21 +780,21 @@ STR
 4 (-3)
 
 - Senses Blindsight 60 Ft., passive Perception 11
-    
+	
 - Challenge 0 (10 XP)
-    
+	
 
 - Echolocation. The bat can't use its blindsight while deafened.
-    
+	
 - Keen Hearing. The bat has advantage on Wisdom (Perception) checks that rely on hearing.
-    
+	
 
 ## Actions
 
 ---
 
 - Bite. Melee Weapon Attack: +0 to hit, reach 5 ft., one creature. Hit: (1d4) piercing damage.
-    
+	
 
   
 
@@ -859,9 +829,9 @@ You release your vial of mist mixed with silver dust into a area filling a 30ft 
 
 
 <script src="https://utteranc.es/client.js"
-        repo="WonderingGodling/My-Mind-Space"
-        issue-term="title"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
+		repo="WonderingGodling/My-Mind-Space"
+		issue-term="title"
+		theme="preferred-color-scheme"
+		crossorigin="anonymous"
+		async>
 </script>

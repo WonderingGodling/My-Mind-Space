@@ -1,23 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/ruby/avnis-ver/rubella-sanguine/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/ruby/avnis-ver/rubella-sanguine/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:49 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:49 (Sunday)","Featured":"![[Skull/Concentrated Brain/Dnd/Missy's Stuff/My Pcs/Ruby/Avnis Ver/Files And Shit/e81be147-672e-4096-886e-0ab9db12931d.png]]","feature":"Skull/Concentrated Brain/Dnd/Missy's Stuff/My Pcs/Ruby/Avnis Ver/Files And Shit/e81be147-672e-4096-886e-0ab9db12931d.png","thumbnail":"thumbnails/resized/03dd77fd10b314c203b06531fe98fce5_86cf658e.webp"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
-
 # <center><span style="color:#FF0000">Rubella "Ruby" Sanguine Of Upper Avalon</span></center>
-![[e81be147-672e-4096-886e-0ab9db12931d.png\|e81be147-672e-4096-886e-0ab9db12931d.png]]
-
-
+![e81be147-672e-4096-886e-0ab9db12931d.png](/img/user/Skull/Concentrated%20Brain/Dnd/Missy's%20Stuff/My%20Pcs/Ruby/Avnis%20Ver/Files%20And%20Shit/e81be147-672e-4096-886e-0ab9db12931d.png)
 
 ## General
- Race:  [[Shifter\|Shifter]]
- Class:  [[Monk\|Monk]] 1, [[Brawler\|Brawler]] 3
-​    ​‍​    ​‍Fisticuffs: 2d6
-​    ​‍​    ​‍Style Points: 3
+ Race: [[Shifter\|Shifter]]
+ Class: [[Monk\|Monk]] 1, [[Brawler\|Brawler]] 3
+​ ​‍​ ​‍Fisticuffs: 2d6
+​ ​‍​ ​‍Style Points: 3
  Alignment: Lawful Good
  Background: [[Giant Foundling\|Giant Foundling]]
-
 
 ## Stats
 
@@ -54,6 +51,7 @@
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
 | Death Failes |     |     |     |
+
 ### Attacks
 
 | Attack         | To-Hit | Damage               |
@@ -61,10 +59,11 @@
 | Sickle         | +6     | 2d6 (Piercing) +6    |
 | Unarmed Strike | +6     | 2d6 (Bludgeoning) +6 |
 | Darts 9        | +6     | 2d6 (Piercing) +6    |
+
 # Inventory
 
 Money: 25gp
-Inventory:  Sickle, 9 darts
+Inventory: Sickle, 9 darts
 2 backpacks, crowbar, hammer, 10 pitons, 10 torches, tinderbox, 10 days of rations, waterskin(Well Water), 50 feet of hempen rope, a set of traveler's clothes, playing Cards, **Headband**
 a small stone that reminds you of home, Throne Marble
 
@@ -77,37 +76,36 @@ Conditions:
 
 # Proficiencies
 		
-Armor:  Light Armor,medium,heavy armor
+Armor: Light Armor,medium,heavy armor
 Weapons: Simple weapons, shortswords, Improvised Weapons, Whip, Derringer 
 Tools: Smith's Tools, Flute, Playing Cards
 Languages: Giant, Common, Dwarvish, Orcish
 
-# Notes: 
+# Notes:
 
 [[Monk#Unarmored Defense\|Unarmoured Defence ]]
 [[Monk#Martial Arts\|Martial Arts]]
 [[Strike of the Giants\|Strike of the Giants]] 2/rest
-​    ​‍​    ​‍Storm Strike, 1d6 DC10
+​ ​‍​ ​‍Storm Strike, 1d6 DC10
 [[Blindsight\|Blindsight]] 15ft
 [[Keen Senses\|Keen Senses]]
 [[Shifter#Shifting.\|Shifting]] 2/rest
-​    ​‍​    ​‍Beasthide 1d6, +1AC
+​ ​‍​ ​‍Beasthide 1d6, +1AC
 [[Brawler#Fisticuffs\|Fisticuffs]]
 [[Brawler#Style\|Style]]
-​​    ​‍​    [[Brawler#Headbutt\|Headbutt]] (Con Save Stun)
-     ​‍​   [[Brawler#Chokehold\|Chokehold]] (Grapple)
-    ​‍​    [[Brawler#Down but not out\|Down but not out]] (0hp, Strike + Prone)
+​​ ​‍​ [[Brawler#Headbutt\|Headbutt]] (Con Save Stun)
+	 ​‍​ [[Brawler#Chokehold\|Chokehold]] (Grapple)
+	​‍​ [[Brawler#Down but not out\|Down but not out]] (0hp, Strike + Prone)
 [[Brawler#Street Smart\|Street Smart]]
 [[Brawler#Adrenaline rush\|Adrenaline Rush]] Reactioni
 [[Brawler#Fighting style\|Fighting Style]]
-    ​‍​    [[Brawler#Street fighter\|Street Fighter]]
+	​‍​ [[Brawler#Street fighter\|Street Fighter]]
 [[Brawler#Brass is better than bone\|Brass is better than bone]]
 [[Brawler#Sly shot\|Sly shot ]]
 
 Skill Expert
 
-
-# Characteristics 
+# Characteristics
 Wolf-Like,Seven And A Half Feet Tall, musclular, pointed ears; most shifters also have prominent canine teeth
 He Doesnt Know How He Looks, And If He Did He Wouldnt Know That Hes More Intimidating Than Other People
 Has An Unplaceable Acccent Because Giant Is His First Language

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/union-ceremony/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/union-ceremony/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"278·10·2026 16:56 (Monday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
+
 
 Union Ceremony: 
 Happily Ever After
@@ -21,4 +22,4 @@ To Show Its Appreciation The Host Gives Up Some Of Its Earthly Possessions
 
 Protozoa
 If The Host Is A Monster Or Evil Aligned Creature Not Under Stronger Rule Its Alligiance Switches Or It Is Absorbed. You Gain Its Skills And Knowledge
-    
+	

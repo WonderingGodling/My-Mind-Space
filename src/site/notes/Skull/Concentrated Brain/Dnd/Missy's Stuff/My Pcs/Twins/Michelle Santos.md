@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/twins/michelle-santos/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/missy-s-stuff/my-pcs/twins/michelle-santos/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Featured":"[[Files And Shit/Santos Twins.png]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"Files And Shit/Santos Twins.png","thumbnail":"thumbnails/resized/d2557e7215f1952e137723d9221630d7_86cf658e.webp"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
  img{
@@ -10,18 +11,18 @@
 
 # <center><span style="color:#323456"> Michelle Santos</span></center>
 
-![Santos Twins.png](/img/user/images/Santos%20Twins.png)
+![Santos Twins.png](/img/user/Files%20And%20Shit/Santos%20Twins.png)
 Transfem Neon Conduit Who Prefers Making The Right Move Over Making The easy One
 Has Always Been Scared Of The Dark But "Only As much As A Normal Person" And Will Never Let It Show
 
 Improvised Kusarigama
 https://docs.google.com/document/d/1bWk0UEGlO0sAQv6Jb5iq9zmo1t2GaQIT1Xa8HSAxCeE/edit?tab=t.0
 
-
 ### Magic
 
 | Constitution |     |     |
 | ------------ | --- | --- |
+
 [Control Flames](https://dnd5e.wikidot.com/spell:control-flames)
 [Create Bonfire](https://dnd5e.wikidot.com/spell:create-bonfire)
 [Dancing Lights](https://dnd5e.wikidot.com/spell:dancing-lights)
@@ -38,12 +39,13 @@ Manipulate Nearby Light As If You Were Holding It Allowing You To:
 - Form Shapes Or Animations That Last Up To An Hour
 - Change The Colour Or Intensity
 - Cause An Object To Glow (Bright Light 20ft, Dim Light 20 More)
+
 ###### Radiant Spirit
 Action 
 5ft, 15ft Cone, 60ft
 Instant
 Bright Light Erupts From You, Each Creature Of Your Choice Within 5ft Must Succeed A Constitution Save Or Take 1d6 Radiance
-Or One Creature Within 60ft  Must Succeed A Dexterity Save Or Take 1d8 Radiance
+Or One Creature Within 60ft Must Succeed A Dexterity Save Or Take 1d8 Radiance
 The target gains no benefit from cover for this saving throw.
 Modified From [Word Of Radience](https://dnd5e.wikidot.com/spell:word-of-radiance), And [Sacred Flame](https://dnd5e.wikidot.com/spell:sacred-flame)
 
@@ -65,11 +67,11 @@ Modified From [Thaumaturgy](https://dnd5e.wikidot.com/spell:thaumaturgy), [Contr
 Action
 Touch/15ft
 Instant
-Lightning  Springs From Your Hand To A Creature You Try To Touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can’t take reactions until the start of its next turn.
+Lightning Springs From Your Hand To A Creature You Try To Touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can’t take reactions until the start of its next turn.
 Or A Creature Within 15ft must succeed on a Strength saving throw or be pulled up to 10 feet in a straight line toward you and then take 1d8 lightning damage if it is within 5 feet of you.
 Modified From [Shocking Grasp](https://dnd5e.wikidot.com/spell:shocking-grasp)
 
-###### Candlelight 
+###### Candlelight
 Action
 Self/120ft
 10 Minutes
@@ -85,7 +87,7 @@ Instant
 Can Light Up A Screen
 Modified From [On/Off](https://dnd5e.wikidot.com/spell:on-off)
 
-###### Ray of Frost
+###### Ray Of Frost
 Casting Time: 1 action
 Range: 60 feet
 Components: V, S

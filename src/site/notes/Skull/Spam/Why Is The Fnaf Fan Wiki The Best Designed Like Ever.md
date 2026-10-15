@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/skull/spam/why-is-the-fnaf-fan-wiki-the-best-designed-like-ever/","title":"Fnaf Amiright","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type:":"Stolen Webpage","up:":"[[Remember]]","down:":null,"Yesterday:":null,"Tomorrow:":null,"alias:":["Fnaf Wiki"],"Next:":null,"Previous:":null,"title":"Fnaf Amiright","comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/spam/why-is-the-fnaf-fan-wiki-the-best-designed-like-ever/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"Fnaf Amiright","comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
@@ -1657,7 +1658,7 @@ Unstrip post‐expand size: 0/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%    0.000      1 -total
+100.00% 0.000 1 -total
 -->
 </p><p><!-- Saved in parser cache with key prod_wikia:pcache:idhash:901040-0!canonical!FandomDesktop!LegacyGalleries and timestamp 20230818145325 and revision id 3719279.
 </p>
@@ -1756,12 +1757,12 @@ Unstrip post‐expand size: 21949/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%   36.647      1 -total
- 13.14%    4.814      8 Template:Header
-  7.38%    2.703      1 Template:Col-begin
-  7.13%    2.611      3 Template:Col-25
-  6.89%    2.524      1 Template:Col-end
-  2.52%    0.923      1 w:Template:FooterHorrorGames
+100.00% 36.647 1 -total
+ 13.14% 4.814 8 Template:Header
+  7.38% 2.703 1 Template:Col-begin
+  7.13% 2.611 3 Template:Col-25
+  6.89% 2.524 1 Template:Col-end
+  2.52% 0.923 1 w:Template:FooterHorrorGames
 -->
 
 <!-- Saved in parser cache with key prod_freddyfazbearspizza:pcache:idhash:1461-0!canonical!FandomDesktop!LegacyGalleries and timestamp 20230831213321 and revision id 3425347.
@@ -2095,7 +2096,7 @@ Transclusion expansion time report (%,ms,calls,template)
 window.fandomContext = {"site":{"categories":["gaming"],"directedAtChildren":false,"siteName":"freddyfazbearspizza","top1000":true,"tags":{"bundles":["25_bundle","marines_bundle","alc21_bundle","video_tier_1_and_2_bundle","21_bundle","top500"],"sex":["f","m"],"theme":["villains","monster"],"gnre":["casual","scifi","mystery","survival","horror","cartoon","indie","sim"],"media":["movies","games","books"],"age":["25-34","teen","13-17","under18","18-24"],"pform":["xbox series x","ps5","pc","mobile","xboxone","ps4","switch"]},"taxonomy":["gaming","games"]},"page":{"articleId":1461,"lang":"en","pageId":1461,"pageName":"Five_Nights_at_Freddy's_Wiki","pageType":"home","tags":{"theme":["psychological","postapocalypse","zombie"],"gnre":["indie","platformer","fps","horror"],"media":["comics"],"pub":["capcom"],"pform":["xboxone","ps5","switch"]},"wordCount":530}}
 </script>
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.059","walltime":"0.092","ppvisitednodes":{"value":80,"limit":1000000},"postexpandincludesize":{"value":3574,"limit":2097152},"templateargumentsize":{"value":143,"limit":2097152},"expansiondepth":{"value":3,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":21949,"limit":5000000},"timingprofile":["100.00%   36.647      1 -total"," 13.14%    4.814      8 Template:Header","  7.38%    2.703      1 Template:Col-begin","  7.13%    2.611      3 Template:Col-25","  6.89%    2.524      1 Template:Col-end","  2.52%    0.923      1 w:Template:FooterHorrorGames"]},"cachereport":{"timestamp":"20230831213321","ttl":1209600,"transientcontent":false}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.059","walltime":"0.092","ppvisitednodes":{"value":80,"limit":1000000},"postexpandincludesize":{"value":3574,"limit":2097152},"templateargumentsize":{"value":143,"limit":2097152},"expansiondepth":{"value":3,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":21949,"limit":5000000},"timingprofile":["100.00% 36.647 1 -total"," 13.14% 4.814 8 Template:Header"," 7.38% 2.703 1 Template:Col-begin"," 7.13% 2.611 3 Template:Col-25"," 6.89% 2.524 1 Template:Col-end"," 2.52% 0.923 1 w:Template:FooterHorrorGames"]},"cachereport":{"timestamp":"20230831213321","ttl":1209600,"transientcontent":false}}});});</script>
 <script defer="" src="https://www.fastly-insights.com/static/scout.js?k=17272cd8-82ee-4eb5-b5a3-b3cd5403f7c5"></script><script defer="" src="https://www.fastly-insights.com/static/scout.js?k=17272cd8-82ee-4eb5-b5a3-b3cd5403f7c5"></script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":92});});</script>
 
@@ -2136,7 +2137,7 @@ value:a});window.__jw_event_fired=!0}})}catch(a){}}var b=0,c=setInterval(functio
 <style>
 
   .global-footer__section-fandom-overview > ul:nth-child(2) > li:nth-child(3) { 
-    display:none; 
+	display:none; 
   }
 </style><iframe sandbox="allow-same-origin allow-scripts" src="https://www.fandom.com/silver-surfer.html" style="display: none;"></iframe></body>
 
@@ -2157,9 +2158,9 @@ value:a});window.__jw_event_fired=!0}})}catch(a){}}var b=0,c=setInterval(functio
 
 
 <script src="https://utteranc.es/client.js"
-        repo="WonderingGodling/My-Mind-Space"
-        issue-term="title"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
+		repo="WonderingGodling/My-Mind-Space"
+		issue-term="title"
+		theme="preferred-color-scheme"
+		crossorigin="anonymous"
+		async>
 </script>

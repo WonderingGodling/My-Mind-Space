@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/crazy-dungeon/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/kawshekh/location/planets/harmony/crazy-dungeon/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"permalink":null,"Featured":"[[Files And Shit/Screenshot_20250407_193434_Chrome.png]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"Files And Shit/Screenshot_20250407_193434_Chrome.png","thumbnail":"thumbnails/resized/82e132b8fafe5d059b76e3af68376169_86cf658e.webp"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
-
 # <center><span style="color:#000000"></span></center>Traps Rearm Every Few Minutes
-Poison Needle (1d4 piercing  & (Delayed DC14) 2d10 poison + Condition) On Every Lock, DC 15 Con Or Poisoned
+Poison Needle (1d4 piercing & (Delayed DC14) 2d10 poison + Condition) On Every Lock, DC 15 Con Or Poisoned
 Arrow Volley As The Door Is Opened
 First Spike Pit In The First Corridor
 Simple Pitfall (20ft (2d6)) In The Exact Middle Of Every Following 5 Or 10 Ft Corridor 
@@ -24,7 +24,7 @@ Borrowed:
 - At the entrance of the dungeon, there's a big burly muscly guy ( minotaur, [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Thievin Steven\|Thievin Steven]]) who tells the party that weapons are not allowed inside, and they need to leave their weapons with him. If they refuse to hand over their weapons, he'll issue vague threats, like "okay, you can take the weapons in if you really want to, but don't say I didn't warn you..."
 	- If the party does hand over their weapons, when they exit the dungeon, the man is gone.
 	- He's just a thief.
-Reward: Skill Book (Free Feat), Party's Abilities +1 LeveL When Together "Natural Bond",  Magic Crowbar: Opens NonMagical Containers, Ghost Cat Familiar
+Reward: Skill Book (Free Feat), Party's Abilities +1 LeveL When Together "Natural Bond", Magic Crowbar: Opens NonMagical Containers, Ghost Cat Familiar
 
 | Trap                     | Level 1-4             | Level 5-10       | Level 11-14      | Level 14-18    | Level 18-20       |
 | ------------------------ | --------------------- | ---------------- | ---------------- | -------------- | ----------------- |
@@ -39,12 +39,10 @@ Reward: Skill Book (Free Feat), Party's Abilities +1 LeveL When Together "Natura
 |                          |                       |                  |                  |                |                   |
 |                          |                       |                  |                  |                |                   |
 
+![Screenshot_20250407_193434_Chrome.png](/img/user/Files%20And%20Shit/Screenshot_20250407_193434_Chrome.png)
 
 
-![Screenshot_20250407_193434_Chrome.png](/img/user/images/Screenshot_20250407_193434_Chrome.png)
-
-
-![Screenshot_20250407_193012_Chrome.jpg](/img/user/images/Screenshot_20250407_193012_Chrome.jpg)
+![Screenshot_20250407_193012_Chrome.jpg](/img/user/Files%20And%20Shit/Screenshot_20250407_193012_Chrome.jpg)
 
 
 

@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/npc/clarent/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Starfall NPC]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/npc/clarent/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":["[[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Characters/NPC/Starfall NPC]]"],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/WfzBgk3q.jpg]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"Files And Shit/WfzBgk3q.jpg","thumbnail":"thumbnails/resized/aaee91c552c078c84f554cd95f01152b_86cf658e.webp"}}
 ---
+
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
-
 # <center><span style="color:#4e1f7b">Clarent </span></center>
-![WfzBgk3q.jpg](/img/user/images/WfzBgk3q.jpg)
-
-
+![WfzBgk3q.jpg](/img/user/Files%20And%20Shit/WfzBgk3q.jpg)
 
 ## General
  Race: [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Geist\|Geist]]
  Class: 30 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Showman#Gambler\|Gambling]] [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Showman\|Showman]]
  Alignment: True Neutral 
  Background: Entertainer
-
 
 ## Stats
 
@@ -42,6 +39,7 @@
 | Investigation (Int)   |      5 | Survival (Wis)        |   -1    |
 
 Cards: /39
+
 ### Attacks
 
 | Attack | To-Hit | Damage |
@@ -52,12 +50,14 @@ Cards: /39
 
 | Charisma |   28  |   20  |
 | ------------ | --- | --- |
- 
+
  [thaumaturgy](https://www.dandwiki.com/wiki/5e_SRD:Thaumaturgy "5e SRD:Thaumaturgy")_ cantrip
+
 # Inventory
 
 Money: 350
 Inventory (Cards): Drumkit, the favor (Love Letter) of an admirer, a costume, Entertainer's Pack,
+
 # Extra
 Resistances: nonmagical Physical
 Advantage: 
@@ -67,12 +67,12 @@ Conditions:
 
 # Proficiencies
 		
-Armor:  Light Armor, Medium Armor  
+Armor: Light Armor, Medium Armor  
 Weapons: Simple Weapons
 Tools: Disguise kit, Drummer, All Gaming Sets, Brewer's supplies, Calligrapher's supplies
 Languages: 
 
-# Notes: 
+# Notes:
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Geist#Ethereal\|Geist#Ethereal]]
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Geist#Ethereal Sight\|Geist#Ethereal Sight]]
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Geist#Ghostly Touch\|Geist#Ghostly Touch]]
@@ -126,6 +126,6 @@ Piercer
 Thrown Arms Master
 	(Throw Anything, Light Thrown Objects Boomerang)
 
-# Characteristics 
+# Characteristics
 
 Has Brewing Company

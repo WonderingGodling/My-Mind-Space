@@ -1,17 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/0-moon-day/linton/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":null,"title":null,"comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/weekday/0-moon-day/linton/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/external/bc88f7bbfd2e466ff3ec9788659d1384.jpg]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"thumbnails/external/bc88f7bbfd2e466ff3ec9788659d1384.jpg","thumbnail":"thumbnails/resized/25f0bee50c94cf4a007ffd208e33b0cb_86cf658e.webp"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#323456">Linton
 </span></center>
 
 ![](https://i.imgur.com/X0kkkmj.jpeg)
-
-
-
 
 ## General
  Class: Occultist
@@ -51,6 +48,7 @@ Linton Coffee: Exhaustion + Poison If Drank By Someone Else (DC 18), Drank Too F
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
 | Death Fails |     |     |     |
+
 ### Attacks
 
 | Attack    | To-Hit | Damage                   |
@@ -73,9 +71,11 @@ Mage Hand
 Message
 Fire Bolt
 Disguise Self
+
 ##### 1St 4
 Id Insinuation
 Infallible Relay
+
 ##### 2nd 2
 Misty Step
 
@@ -83,6 +83,7 @@ Misty Step
 
 Money: 5
 Inventory: Scale mail, martial weapon, scholar’s pack, dagger and a Handaxe, Grimoire, A scroll case stuffed full of notes from your studies or prayers, a winter blanket, a set of common clothes, an herbalism kit
+
 # Extra
 Resistances: damage.
 Advantage: all Intelligence, Wisdom, and Charisma saving throws, saving throws against poison
@@ -93,12 +94,12 @@ Devil Sight 120
 
 # Proficiencies
 		
-Armor:  Light armor, medium armor, shields
+Armor: Light armor, medium armor, shields
 Weapons: Simple weapons, martial weapons, battleaxe, handaxe, light hammer, and warhammer.
 Tools: Herbalism kit, brewer's supplies
 Languages: Common, One Other, Read All
 
-# Notes: 
+# Notes:
 - **Stonecunning.** Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton#Pact of the Blade\|#Pact of the Blade]]
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton#Pact of the Chain\|#Pact of the Chain]]
@@ -114,11 +115,8 @@ Occult Specialization
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton#Improved Sinister Calling\|#Improved Sinister Calling]]
 [[Skull/Concentrated Brain/Dnd/Mine/Campaigns/Starfall/Events/Weekday/0 Moon Day/Linton#Mask of Many Faces\|#Mask of Many Faces]]
 
-
-
-
 # Dump
-#### Pact of the Blade
+#### Pact Of The Blade
 
 Starting at 1st level, you can use your action to create a pact weapon in your empty hand. You can choose the form that this melee weapon takes each time you create it (see the Weapons section for weapon options). You are proficient with it while you wield it. This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. When you attack with your pact weapon, you can use your Charisma modifier, instead of Strength or Dexterity, for the attack and damage rolls.
 
@@ -128,7 +126,7 @@ Your pact weapon disappears if it is more than 5 feet away from you for 1 minute
 
 You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
 
-#### Pact of the Chain
+#### Pact Of The Chain
 
 Also at 1st level, you learn the find familiar spell and can cast it as a ritual.
 
@@ -142,17 +140,17 @@ Beginning at 2nd level, your deep studies of the occult have lead you to hear si
 
 You learn the Eldritch Blast cantrip which you can cast at will. Charisma is your spellcasting ability for this spell.
 
-#### Pact of the Tome
+#### Pact Of The Tome
 
 The sinister voices lead you to uncover a grimoire called the Book of Shadows which binds itself to your soul. When you gain this feature, choose three cantrips from any class’s spell list (the three needn’t be from the same list). While the book is on your person, you can cast those cantrips at will.
 
 If you lose your Book of Shadows, the sinister voices will lead you to it. The book returns to your person if it is destroyed. The book turns to ash when you die.
 
-#### Master of the Elements
+#### Master Of The Elements
 
 Starting at 3rd level, you can use your sinister powers to manipulate the elements of nature itself. You learn the Gust, Shape Water, Mold Earth, and Control Flames cantrips and can cast them at will.
 
-#### Eyes of the Rune Keeper
+#### Eyes Of The Rune Keeper
 
 Beginning at 3rd level, you can read all writing.
 
@@ -180,9 +178,10 @@ A creature can only be affected by one of these effects per turn, and only ONCE 
 
 In addition, when you cast Eldritch Blast, add your Charisma modifier to the damage it deals on a hit.
 
-#### Mask of Many Faces
+#### Mask Of Many Faces
 
 Starting at 6th level, you can cast Disguise Self at will.
+
 #### Eldritch Sight
 
 Starting at 7th level, you can cast Detect Magic at will, without expending material components.
@@ -195,7 +194,7 @@ Also at 7th level, you can see normally in darkness, both magical and nonmagical
 
 Beginning at 10th level, you can cast Levitate on yourself at will, without expending material components.
 
-#### Master of Myriad Forms
+#### Master Of Myriad Forms
 
 At 11th level, you can now cast Alter Self at will.
 
@@ -203,11 +202,11 @@ At 11th level, you can now cast Alter Self at will.
 
 Starting at 14th level, you have advantage on all Intelligence, Wisdom, and Charisma saving throws.
 
-#### Shroud of Shadow
+#### Shroud Of Shadow
 
 Starting at 15th level, you can cast Invisibility on yourself at will.
 
-#### Visions of Distant Realms
+#### Visions Of Distant Realms
 
 At 18th level, as an action, you gain the ability to see through solid objects to a range of 30 feet. This special sight lasts for 1 minute or until your concentration ends (as if you were concentrating on a spell). During that time, you perceive objects as ghostly, transparent images. Once you use this feature, you can’t use it again until you finish a short or long rest.
 
@@ -217,13 +216,13 @@ In addition, you can cast Arcane Eye at will.
 
 Beginning at 18th level, you gain true sight up to 120 feet.
 
-#### Book of Ancient Secrets
+#### Book Of Ancient Secrets
 
 At 9th level, you can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list; these rituals needn’t be from the same spell list. The spells appear in the book. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can't cast the spells except as rituals, unless you've learned them by some other means.
 
 On your adventures, you can add other spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than your occultist level and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
 
-#### Aspect of the Moon
+#### Aspect Of The Moon
 
 Starting at 13th level, you no longer need to sleep and can’t be forced to sleep by any means. To gain the benefits of a long rest, you can spend all 8 hours doing light activity, such as reading your Book of Shadows and keeping watch.
 

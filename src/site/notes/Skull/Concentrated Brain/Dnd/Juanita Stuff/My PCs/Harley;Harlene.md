@@ -1,22 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/skull/concentrated-brain/dnd/juanita-stuff/my-p-cs/harley-harlene/","title":"Harley/Harlene","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Type":null,"up":"[[Branches/My PCs]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":null,"Next":null,"Previous":null,"title":"Harley/Harlene","comments":true,"tags":["Tagless"]}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/juanita-stuff/my-p-cs/harley-harlene/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"Up":"[[Branches/My PCs]]","Down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":"Harley/Harlene","comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/external/5d17376e585f97f0a3b4f0b54dc84a2d.png]]","Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","feature":"thumbnails/external/5d17376e585f97f0a3b4f0b54dc84a2d.png","thumbnail":"thumbnails/resized/7c947f7fd32989ca3f61fe4405c5d1e7_86cf658e.webp"}}
 ---
 
-<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
 # <center><span style="color:#F00e69">Harley/Harlene</span></center>
 ![](https://i.imgur.com/sPsH5Fr.png)
 
-
-
 ## General
- Race:  Changeling
- Class:  [[Rogue\|Rogue]] 3
-​    ​‍​    ​‍​    ​‍​    [[​‍Soulknife\|​‍Soulknife]] 
+ Race: Changeling
+ Class: [[Rogue\|Rogue]] 3
+​ ​‍​ ​‍​ ​‍​ [[​‍Soulknife\|​‍Soulknife]] 
  Alignment: True Neutral
  Background: Entertainer
-
 
 ## Stats
 
@@ -44,12 +41,10 @@
 | Intimidation (Char)   |   7   | Stealth (Dex)         |   5   |
 | Investigation (Int)   |   0   | Survival (Wis)        |   1   |
 
-
-
-
 | Death Saves  |     |     |     |
 | ------------ | --- | --- | --- |
 | Death Failes |     |     |     |
+
 ### Attacks
 
 | Attack             | To-Hit | Damage        |
@@ -59,11 +54,12 @@
 
 spell save DC: 13
 [[Dissonant Whispers\|Dissonant Whispers]], [[Misty Step\|Misty Step]]
+
 # Inventory
 
 Money: 95gp
 Tokens 12
-Inventory:  Flute, a costume, [[Coiling Grasp Tattoo\|Coiling Grasp Tattoo]], Leather armor, thieves' tools
+Inventory: Flute, a costume, [[Coiling Grasp Tattoo\|Coiling Grasp Tattoo]], Leather armor, thieves' tools
 
 backpack,, bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, a waterskin, 50 feet of hempen rope, Blanket, Mirrror, A Lot Of Alcohol
 
@@ -76,15 +72,12 @@ Conditions:
 
 # Proficiencies
 		
-Armor:  Light Armor
+Armor: Light Armor
 Weapons: Simple weapons, hand crossbows, longswords, rapiers, shortswords
 Tools: Thieves' tools, Disguise kit, Flute
 Languages: Common, Elvish, Thieves' Cant
 
-
-
-
-# Notes: 
+# Notes:
 [[Shapechanger\|Shapechanger]]
 [[Unsettling Visage\|Unsettling Visage]]
 [[Divergent Persona\|Divergent Persona]]
@@ -98,4 +91,4 @@ Languages: Common, Elvish, Thieves' Cant
 
 [[Fey Touched\|Fey Touched]]
 
-# Characteristics 
+# Characteristics
