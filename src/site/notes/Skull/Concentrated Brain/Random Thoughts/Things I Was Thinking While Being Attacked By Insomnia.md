@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/things-i-was-thinking-while-being-attacked-by-insomnia/","tags":["RandomThoughts","Insomnia","TmaReference","Rambling"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"I Was Tired","comments":true,"show-local-graph":false,"tags":["RandomThoughts","Insomnia","TmaReference","Rambling"],"Type":"Rambling","Up":"[[Branches/Random Thoughts]]","Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/things-i-was-thinking-while-being-attacked-by-insomnia/","tags":["RandomThoughts","Insomnia","TmaReference","Rambling"],"noteIcon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"I Was Tired","comments":true,"show-local-graph":false,"tags":["RandomThoughts","Insomnia","TmaReference","Rambling"],"Type":"Rambling","Up":"[[Branches/Random Thoughts]]","Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
 
 
