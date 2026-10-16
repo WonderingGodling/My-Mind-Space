@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/poetry-apparently/conversation-poetry/sunny-talks/ew-zeus/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"Ew Zeus >~<","comments":false,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
+{"Yesterday":null,"Tomorrow":null,"Title":"Ew Zeus >~<","comments":false,"show-local-graph":null,"tags":["Tagless"],"dg-show-toc":null,"dg-hide-in-graph":null,"permalink":"/skull/concentrated-brain/poetry-apparently/conversation-poetry/sunny-talks/ew-zeus/","Publish":true,"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)","dgPassFrontmatter":true,"Icon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"Ew Zeus >~<","comments":false,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:38 (Sunday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
 

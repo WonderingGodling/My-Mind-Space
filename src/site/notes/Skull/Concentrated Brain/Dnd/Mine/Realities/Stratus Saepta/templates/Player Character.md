@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/realities/stratus-saepta/templates/player-character/","noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":"PC","Dead":null,"Race":null,"up":null,"Same":null,"down":null,"Allies":null,"Enemies":null,"Player Character":null,"Character Level":null,"Date Created":"278·10·2026 16:54 (Monday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
+{"Type":"PC","Dead":null,"Race":null,"up":null,"Same":null,"down":null,"Allies":null,"Enemies":null,"Player Character":null,"Character Level":null,"Publish":true,"Date Created":"278·10·2026 16:54 (Monday)","Date Modified":"284·10·2026 3:25 (Sunday)","permalink":"/skull/concentrated-brain/dnd/mine/realities/stratus-saepta/templates/player-character/","dgPassFrontmatter":true,"Icon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":"PC","Dead":null,"Race":null,"up":null,"Same":null,"down":null,"Allies":null,"Enemies":null,"Player Character":null,"Character Level":null,"Date Created":"278·10·2026 16:54 (Monday)","Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
 
