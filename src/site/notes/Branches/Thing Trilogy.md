@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/branches/thing-trilogy/","tags":["Tagless"],"noteIcon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"Thing Trilogy","comments":null,"tags":["Tagless"],"Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
+{"Yesterday":null,"Tomorrow":null,"Title":"Thing Trilogy","comments":null,"Publish":true,"dg-show-local-graph":null,"tags":["Tagless"],"dg-show-toc":null,"dg-hide-in-graph":null,"Permalink":null,"Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","permalink":"/branches/thing-trilogy/","dgPassFrontmatter":true,"Icon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"Thing Trilogy","comments":null,"tags":["Tagless"],"Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/branches/from-others/","tags":["Clarifier","Tagless"],"noteIcon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Title":"From Others","Comments":true,"tags":["Clarifier","Tagless"],"Yesterday":null,"Tomorrow":null,"Embedded":null,"Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","Icon":null,"Featured":null}}
+{"Title":"From Others","Comments":true,"Publish":true,"dg-show-local-graph":null,"tags":["Clarifier","Tagless"],"Yesterday":null,"Tomorrow":null,"Embedded":null,"dg-show-toc":null,"dg-hide-in-graph":null,"Permalink":null,"Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","Icon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","Featured":null,"permalink":"/branches/from-others/","dgPassFrontmatter":true,"updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Title":"From Others","Comments":true,"tags":["Clarifier","Tagless"],"Yesterday":null,"Tomorrow":null,"Embedded":null,"Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","Icon":null,"Featured":null}}
 ---
 
 

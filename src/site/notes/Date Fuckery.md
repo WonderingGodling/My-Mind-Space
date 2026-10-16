@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/date-fuckery/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"288·2026 18:4:56 (Thursday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":"200·2026 12:36:08 (Sunday)","Session Number":null,"Icon":null,"Banner":null,"Date Modified":"288·2026 18:4:56 (Thursday)"}}
+{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"Publish":true,"dg-show-local-graph":null,"tags":["Tagless"],"dg-show-toc":true,"dg-hide-in-graph":null,"Permalink":null,"Similarly Rooted":null,"Date Created":"200·2026 12:36:08 (Sunday)","Session Number":null,"Icon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","Banner":null,"Date Modified":"288·2026 18:4:56 (Thursday)","permalink":"/date-fuckery/","dgShowToc":true,"dgPassFrontmatter":true,"updated":"288·2026 18:4:56 (Thursday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Similarly Rooted":null,"Date Created":"200·2026 12:36:08 (Sunday)","Session Number":null,"Icon":null,"Banner":null,"Date Modified":"288·2026 18:4:56 (Thursday)"}}
 ---
 
 
@@ -21,7 +21,7 @@
 
 Date Countdown Progress Bar
 
-<p><span><strong>COUNTDOWN</strong>     <progress max="165" value="0" style="height:10px;width:20%"></progress>    <strong>0%</strong> | 7 days remaining</span></p>
+<p><span><strong>COUNTDOWN</strong>     <progress max="162" value="0" style="height:10px;width:20%"></progress>    <strong>0%</strong> | 7 days remaining</span></p>
 
 ```javascript
 var now = moment();
@@ -49,8 +49,8 @@ function getDatePercent() {
 console.log(getDatePercent())
 ```
 
-<p><span><strong>Day %age</strong>     <progress max="100" value="10.318287037037036" style="height:10px;width:20%"></progress></span></p>
+<p><span><strong>Day %age</strong>     <progress max="100" value="24.89351851851852" style="height:10px;width:20%"></progress></span></p>
 
 <p><span> 6472 </span></p>
 
-[[[Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/Untitled.md\|Untitled]]]
+[[[Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/289·2026 (Friday).md\|289·2026 (Friday)]]]
