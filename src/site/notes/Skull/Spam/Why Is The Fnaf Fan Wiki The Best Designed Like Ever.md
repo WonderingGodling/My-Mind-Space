@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/skull/spam/why-is-the-fnaf-fan-wiki-the-best-designed-like-ever/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"Fnaf Amiright","comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
+{"Yesterday":null,"Tomorrow":null,"Title":"Fnaf Amiright","comments":true,"show-local-graph":null,"tags":["Tagless"],"dg-show-toc":true,"dg-hide-in-graph":null,"permalink":"/skull/spam/why-is-the-fnaf-fan-wiki-the-best-designed-like-ever/","Permalink":null,"Publish":true,"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","dgShowToc":true,"dgPassFrontmatter":true,"Icon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"Fnaf Amiright","comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
 
 

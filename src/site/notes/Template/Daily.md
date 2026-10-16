@@ -5,7 +5,7 @@
 
 # <center><span style="color:#AAAAFF">{{date}}</span></center>
 
-<p><span><strong>Day Age</strong>     <progress max="100" value="29.20023148148148" style="height 6472 10px;width:20%"></progress>    2920 </span></p>
+<p><span><strong>Day Age</strong>     <progress max="100" value="79.28819444444444" style="height 6472 10px;width:20%"></progress>    7929 </span></p>
 
 ```
 <%*

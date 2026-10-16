@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/uni/3/6-ab-020-honours-project/honours-project/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"286·2026 (Tuesday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"278·2026 (Monday)","Date Modified":"286·2026 (Tuesday)"}}
+{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"dg-show-toc":true,"dg-hide-in-graph":null,"permalink":"/uni/3/6-ab-020-honours-project/honours-project/","Permalink":null,"Publish":true,"Date Created":"278·2026 16:55 (Monday)","Date Modified":"289·2026 7:41 (Friday)","dgShowToc":true,"dgPassFrontmatter":true,"Icon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"289·2026 7:41 (Friday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"278·2026 16:55 (Monday)","Date Modified":"289·2026 7:41 (Friday)"}}
 ---
 
 
@@ -9,7 +9,20 @@
 }
 </style>
 
-# <center><span style="color:#DEFCCA">Investigation of antimicrobial activities of silver-loaded zeolites</span></center>
+# 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/uni/3/6-ab-020-honours-project/investigation-of-antimicrobial-activities-of-silver-loaded-zeolites/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
+ img{
+ float: right;
+}
+</style>
+
+# <center><span style="color:#FFDCAA">Investigation Of Antimicrobial Activities Of Silver-loaded zeolites</span></center>
 
 Supervisor name: Professor Iza Radecka
 
@@ -17,24 +30,25 @@ Supervisor name: Professor Iza Radecka
 ### [[Project approval form Dimitri Williams.docx|Project Approval Form]]
 working in labs with:	level 2 biohazards
 
-#### Summary of aims and objectives of Project 
+#### Summary Of Aims And Objectives Of Project
 
-##### What are you trying to find out? What is the purpose of doing this? How is it relevant to your award?
+##### What Are You Trying To Find Out? What Is The Purpose Of Doing This? How Is It Relevant To Your Award?
 The purpose of this is to find the efficiency of silver zeolites against microbial pathogens.  
 Antimicrobials will be incorporated into the matrix of bacterial cellulose hydrogel to produce novel antimicrobial wound dressings and test them against gram-ve and gram+ve bacterial pathogens.
 
-##### How will you undertake your investigation? Include key equipment, approximate numbers of samples +/or time to be spent recording observations. Describe controls where relevant.
+##### How Will You Undertake Your Investigation? Include Key Equipment, Approximate Numbers Of Samples +/or Time To Be Spent Recording Observations. Describe Controls Where Relevant.
 
--	Production and purification of bacterial cellulose as a novel dressing material. 
--	Produced wound dressing would be characterized using SEM and FTIR.
--	Examples of Gram-positive and Gram-negative microorganisms will be tested against different concentrations of silver zeolite using zone of inhibition (ZOI) method, MIC and MBC tests.
--	All experiments will be performed in triplicates.
-##### Data handling (with reference to the proposed statistical analysis). What kind of data will you generate? How will you analyse it and present it?
+- Production and purification of bacterial cellulose as a novel dressing material. 
+- Produced wound dressing would be characterized using SEM and FTIR.
+- Examples of Gram-positive and Gram-negative microorganisms will be tested against different concentrations of silver zeolite using zone of inhibition (ZOI) method, MIC and MBC tests.
+- All experiments will be performed in triplicates.
 
--	Standard Deviation will be calculated; ANOVA 2 factor will be used to analyze obtained data.
--	All results will be presented as figures using tables, bar charts and graphs.
+##### Data Handling (With Reference To The Proposed Statistical Analysis). What Kind Of Data Will You Generate? How Will You Analyse It And Present It?
 
-##### Recent key references
+- Standard Deviation will be calculated; ANOVA 2 factor will be used to analyze obtained data.
+- All results will be presented as figures using tables, bar charts and graphs.
+
+##### Recent Key References
 Saengmee-anupharb, S., Srikhirin, T., Thaweboon, B., Thaweboon, S., Amornsakchai, T., Dechkunakorn, S. and Suddhasthira, T. (2013). Antimicrobial effects of silver zeolite, silver zirconium phosphate silicate and silver zirconium phosphate against oral microorganisms. Asian Pacific Journal of Tropical Biomedicine, 3(1), pp.47–52. doi:https://doi.org/10.1016/s2221-1691(13)60022-2.
 Deng, L., Huang, Y., Chen, S., Han, Z., Han, Z., Jin, M., Qu, X., Wang, B., Wang, H. and Gu, S. (2023). Bacterial cellulose-based hydrogel with antibacterial activity and vascularization for wound healing. Carbohydrate Polymers, [online] 308, p.120647. doi:https://doi.org/10.1016/j.carbpol.2023.120647.
 Panda, S. (2020). Toxicity test for silver-zeolite: - An original research. The Journal of Indian Prosthodontic Society, 20(5), pp.8–8. doi:https://doi.org/10.4103/0972-4052.306362.
@@ -42,15 +56,14 @@ Bacakova, L., Vandrovcova, M., Kopova, I. and Jirka, I. (2018). Applications of 
 Zheng, L., Li, S., Luo, J. and Wang, X. (2020). Latest Advances on Bacterial Cellulose-Based Antibacterial Materials as Wound Dressings. Frontiers in Bioengineering and Biotechnology, 8. doi:https://doi.org/10.3389/fbioe.2020.593768.
 Barros, C., Fulaz, S., Stanisic, D. and Tasic, L. (2018). Biogenic Nanosilver against Multidrug-Resistant Bacteria (MDRB). Antibiotics, [online] 7(3), p.69. doi:https://doi.org/10.3390/antibiotics7030069.
 
-### COSHH forms
+### COSHH Forms
 Need Physical Coshh Form
 https://www.sigmaaldrich.com/GB/en/documents-search
 
 Microorganisms: [Gluconacetobacter xylinus](https://www.nzytech.com/media/dds/brochurescertificates/cz05191-sds_v3_en.pdf), Pseudomonas aeruginosa, Staphylococcus aureus, **(order starters from Andy Brooke)**
 (Category One)
 
-
-#### HS liquid medium
+#### HS Liquid Medium
 
 [Glucose](https://www.fishersci.co.uk/store/msds?partNumber=10141520&productDescription%3DD%28%2B%29-Glucose+anhydrous%2C+Certified+AR%2C+500g&countryCode=GB&language=en) 20g/l
 [Bactopeptone](https://digitalassets.avantorsciences.com/adaptivemedia/rendition?id=6c884c0d0f37c87b6fb9215ad5fad763446911bb&vid=6c884c0d0f37c87b6fb9215ad5fad763446911bb&prid=original&clid=SAPDAM) 5g/l
@@ -65,7 +78,7 @@ pH = 6,  adjust with [acetic acid](https://www.fishersci.com/store/msds?partNum
 TSA, [TSB](https://www.fishersci.com/store/msds?partNumber=R455052&productDescription=TRYPTIC+SOY+BROTH+500G&vendorId=VN00040817&countryCode=US&language=en)
 2% [NaOH](https://www.fishersci.com/store/msds?partNumber=BP359500&productDescription=SODIUM+HYDROXIDE+500G&vendorId=VN00033897&countryCode=US&language=en)
 
-## PRODUCTION of BACTERIAL CELLULOSE
+## PRODUCTION Of BACTERIAL CELLULOSE
 ### Wednesday 7th 11:15 Make And Sterilise HS Medium
 Plan Outline: Make And Sterilise 100ml of HS medium (in 250 ml conical flask) to be inoculated with highly mucoid colony of G. xylinus and incubated for 72hrs on the orbital shaker at 30oC
 
@@ -85,14 +98,20 @@ Plan Outline: Make And Sterilise 100ml of HS medium (in 250 ml conical flask) to
 - The magnetic stirrer was then removed and 300ml of deionised water was added
 	- later processes revealed that the total volume was between 1.6l and 1.7l
 - The pH was measured as 6.4 so citric acid was added dropwise to get it to 6
-- 240ml of the medium solution was then poured into six (6) 300ml conical flasks labled with the date, my initials and the flask number "7/10/26 H.S By DW F1-6"
+- 240ml of the medium solution was then poured into six (6) 300ml conical flasks labled with the date, my initials and the flask number “7/10/26 H.S By DW F[1-6]”
+	- There Was A Slight Pause Between 7/10/26 H.S By DW F1 And The Others Because That Is Where I Took The Time To Write All Of the Labels
+- Two 110ml~ Overflow Flasks Were “7/10/26 H.S By DW OV.F [1&2]”
+- Aluminium foil was wrapped around the openings of all of the flasks and then they were put onto a tray to be autoclaved
+- The Gluconacetobacter acquisition form was handed in for wednesday
+
 ### Wednesday 14th 11:15 Inoculating Starter Cultures For BC Production
-Plan Outline: PREPARATION OF BACTERIAL CELLULOSE STATIC MICROBIAL CULTURES (5 x 500 ml conical flasks each)
-- Transfer 10 ml of the starter culture* with Gluconacetobacter xylinus into sterile flasks (500 ml flasks) containing 240 ml sterile HS medium.  
-- Cultivate statically at 30 °C for 12- 14 days.
-- Clean With Sodium Hydroxide
+Plan Outline: PREPARATION OF BACTERIAL CELLULOSE STATIC MICROBIAL CULTURES (5 x 500 ml conical flasks each) by Transfering 10 ml of the starter culture* with Gluconacetobacter xylinus into sterile flasks (500 ml flasks) containing 240 ml sterile HS medium. These Will Be Cultivated statically at 30 °C for 1214 days. then Cleaned With Sodium Hydroxide
 
+- Gluconacetobacter starter was made by using an inoculating loop to relocate (already growing) Gluconacetobacter from a petri dish into OV.F1.
+- Put Into 30 ° Incubator
+- To Be Checked Up-On At 10:00 The 16th
 
+### Friday 16th 10:00 Preparation Of Antimicrobial Media
 ## Notes
 Make Note Of/Picture The Label Information When Using A Material
 Bacterial Cellulose
@@ -119,7 +138,6 @@ Results Will Be Noisier
 After That, Work With Antibacterial
 Incorporate Organics Into A Composite
 
-
 Need Three Consecutive Days For Minimum Inhibitor/Bacteriacidal Concentrations
 	Somewhere in November
 	1st Day Longest (3 Hours)
@@ -143,9 +161,26 @@ Cover sheet
 #### Appendix/Supplementary Material
 
 
+</div></div>
 
-## Presentation?
+
+## 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/uni/3/6-ab-020-honours-project/presentation/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+<style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}
+ img{
+ float: right;
+}
+</style>
+
+# <center><span style="color:#FFBCAA">Presentation?</span></center>
+
 You need to prepare and deliver a PowerPoint presentation on the progress of your research project to date. The presentation should last for 10 minutes and you should expect around 5 minutes at the end for questions.
 
 
-<center><sub>Done :)</sub></center>
+</div></div>
+
