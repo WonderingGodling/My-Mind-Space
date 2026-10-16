@@ -132,7 +132,16 @@ Headlines Custom CSS
   <a href='https://www.freepik.com/vectors/brush'>Brush vector created by Creative_hat - www.freepik.com</a> */
 
 
-
+  .HyperMD-header-1, .markdown-preview-section h1 {
+    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+    border-radius: 10px;
+    border-bottom: 5px solid #55423d;
+    font-weight: 900;
+    padding:20px;
+    font-size: 20px;
+    transition: 1s;
+    
+}
 
 .cm-header-1.cm-header-1.cm-header-1,
 .markdown-preview-view h1 {
@@ -143,12 +152,6 @@ Headlines Custom CSS
   border-radius: 10px;
 }
 
-.markdown-preview-section h1:hover{
-    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
-    filter: invert(100%);
-    border-radius: 10px;
-    transition: 1s;
-}
 
 .theme-dark.markdown-preview-section h1:hover{
   background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
