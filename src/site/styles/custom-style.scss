@@ -57,7 +57,7 @@ body {
 .dashboard div > ul > li {
     width: 650px;
 }
-    /*
+/*
  * Obsidian live preview emacs bullet list display
  * by Lilian POULIQUEN
  * 
@@ -131,7 +131,7 @@ Headlines Custom CSS
   /*Image attribute: 
   <a href='https://www.freepik.com/vectors/brush'>Brush vector created by Creative_hat - www.freepik.com</a> */
 
-  .HyperMD-header-1, .markdown-preview-section h1 {
+ // .HyperMD-header-1, .markdown-preview-section h1 {
     background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
     border-radius: 10px;
     border-bottom: 5px solid #55423d;
@@ -192,15 +192,6 @@ Headlines Custom CSS
   border-bottom: 5px solid blue;
   transition: 0.5s;
 
-}
-
-.markdown-preview-section h2::before{
-    font-size: 11px;
-    content: "H2 ";
-    font-weight: 700;
-    color: brown;
-    padding-right: 5px;
-
 
 }
 /* H3    */
@@ -217,14 +208,7 @@ Headlines Custom CSS
     padding: 3px;
     font-size: 25px;
     transition: 1s;
-}
 
-.markdown-preview-section h3::before {
-    font-size: 11px;
-    content: "H3 ";
-    font-weight: 700;
-    color: black;
-    padding-right: 5px;
 }
 
 .markdown-preview-section h3:hover {
