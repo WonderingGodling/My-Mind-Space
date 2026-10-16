@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"Permalink":"My Precious Little Puppy <3","permalink":"/My Precious Little Puppy <3/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"289·2026 2:3 (Friday)","dg-note-properties":{"Type":null,"Up":["[[Explicitly Showcased/People/Special Ones/Bee/Beebee|Bee]]"],"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":"Precious Puppy","comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/Pasted image 20250905172138.png]]","Date Created":"200·2026 12:37 (Sunday)","Date Modified":"289·2026 2:3 (Friday)","feature":"Explicitly Showcased/People/Special Ones/Bee/Files And Shit/HPYg2PaW4AA98Bk.jpg","thumbnail":"thumbnails/resized/e377b75760eadca36e2e983f419f815e_86cf658e.webp","Name":"Bee","Nickname":"Puppy","Pronouns":"she/her i think","Why Pronouns":"because","Orientation":"girls","Birthday":"Dec 14 2006","Contact Info":"that place","Picked Number":23,"Favourite Number":null,"Favourite (Mixture Of) Smell(s)":"mango loco monster possibly","Favourite Skull":"yours","Favourite Animal":"corvids","Favourite Parasocial":"uhhhhh","Last Sing Occasion":"never","Big Scare":"secretly being hated","Allergic Or Hates":"not allergic afaik but not a fan of raw ginger or olives","Counting Visual":"rectangle (like multiples and stuff)","Opposite Of Coffee":"alcohol","Thoughts On Sun Fire":"not really","Character Flaw":null,"One Gorilla Or Five Cobras":"Cobras","Traditional Superpower":"teleportation or shapeshifting (the basic transgender ones)","Drink They Are":"water or some flavor of monster","The One Food To Rule Them All":"burger . . .","Jack Off Elephant":"Yes","Toddler Fight":5,"Tasty Poison":"maybe the fruit of potatoes","Experience To Share":"time","Effection":"not completely because i'm greedy i think","Unfortunate Interest":null,"Biggest Insert":"mommy if i try hard enough","Height":"6'0","Height Metric":"183cm","Weight":93,"Blood Type":null,"Body Count":0,"Similarly Rooted":null,"Icon":"[[Explicitly Showcased/People/Special Ones/Bee/Files And Shit/Kiss My Dog.png]]","Banner":"![[Explicitly Showcased/People/Special Ones/Bee/Files And Shit/Kiss My Dog Centred.svg]]","Banner_y":0.91333,"Eyes":"Hazel","Likes":["games","bed","hideo kojima","cars","hot baths","guns","Glocks","Revolvers","Girls","Saying Hi","Explicitly Showcased/People/Special Ones/Bee/Files And Shit/Pasted image 20261012234023.png","Explicitly Showcased/People/Special Ones/Bee/Files And Shit/Pasted image 20261012234214.png","Consistency","Vyper Deadlock","older women","Bugs","when horse girls in porn have human sized and horse shaped cocks","Explicitly Showcased/People/Special Ones/Bee/Files And Shit/Pasted image 20261013000228.png","caramel Feet","making noises","socks","jerma","roguelikes","fires","monster","Mango Loco","lego","birds","Corvids","being treated like a dog","Me","pizza","pineapple","mushroom","Burger","Burger King","spring","sucking on stuff","Piss","Rimming","Beasts","Bondage","Bees","Completion","blahaj","smell of pine","zipties","cherry coke","eating breakfast for dinner","flavored water","Spreadsheets","Seafood","Shrimps","Bras","lollipops","corn","tiramisu","Garlic","Water","red onionsss","Transitional Weather","clear sunny 20 degrees with a slight breeze","soft things","hugs","oranges","Lizards","Modded Minecraft","laoganma","Brisket","parcel lockers","Resident Evil","Finals","Apex","Yakuza","Metal Gear","Signalis","half life","Scott Pilgrim","How To Train Your Dragon","breaking bad","radiohead","tame impala"]}}
+{"Type":null,"Up":["[[Beebee|Bee]]"],"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":"Precious Puppy","comments":true,"Publish":true,"dg-show-local-graph":null,"tags":["Tagless"],"dg-show-toc":false,"dg-hide-in-graph":null,"Permalink":"My Precious Little Puppy <3","Featured":"[[Files And Shit/Pasted image 20250905172138.png]]","Date Created":"200·2026 12:37 (Sunday)","Date Modified":"289·2026 5:5 (Friday)","feature":"Explicitly Showcased/People/Special Ones/Bee/Files And Shit/HPYg2PaW4AA98Bk.jpg","thumbnail":"thumbnails/resized/e377b75760eadca36e2e983f419f815e_86cf658e.webp","Name":"Bee","Nickname":"Puppy","Pronouns":"she/her i think","Why Pronouns":"because","Orientation":"girls","Birthday":"Dec 14 2006","Contact Info":"that place","Picked Number":23,"Favourite Number":null,"Favourite (Mixture Of) Smell(s)":"mango loco monster possibly","Favourite Skull":"yours","Favourite Animal":"corvids","Favourite Parasocial":"uhhhhh","Last Sing Occasion":"never","Big Scare":"secretly being hated","Allergic Or Hates":"not allergic afaik but not a fan of raw ginger or olives","Counting Visual":"rectangle (like multiples and stuff)","Opposite Of Coffee":"alcohol","Thoughts On Sun Fire":"not really","Character Flaw":null,"One Gorilla Or Five Cobras":"Cobras","Traditional Superpower":"teleportation or shapeshifting (the basic transgender ones)","Drink They Are":"water or some flavor of monster","The One Food To Rule Them All":"burger . . .","Jack Off Elephant":"Yes","Toddler Fight":5,"Tasty Poison":"maybe the fruit of potatoes","Experience To Share":"time","Effection":"not completely because i'm greedy i think","Unfortunate Interest":null,"Biggest Insert":"mommy if i try hard enough","Height":"6'0","Height Metric":"183cm","Weight":93,"Blood Type":null,"Body Count":0,"Similarly Rooted":null,"Icon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","noteIcon":null,"Banner":"![[Kiss My Dog Centred.svg]]","Banner_y":0.91333,"Eyes":"Hazel","Likes":["games","bed","hideo kojima","cars","hot baths","guns","Glocks","Revolvers","Girls","Saying Hi","Pasted image 20261012234023.png","Pasted image 20261012234214.png","Consistency","Vyper Deadlock","older women","Bugs","when horse girls in porn have human sized and horse shaped cocks","Pasted image 20261013000228.png","caramel Feet","making noises","socks","jerma","roguelikes","fires","monster","Mango Loco","lego","birds","Corvids","being treated like a dog","Me","pizza","pineapple","mushroom","Burger","Burger King","spring","sucking on stuff","Piss","Rimming","Beasts","Bondage","Bees","Completion","blahaj","smell of pine","zipties","cherry coke","eating breakfast for dinner","flavored water","Spreadsheets","Seafood","Shrimps","Bras","lollipops","corn","tiramisu","Garlic","Water","red onionsss","Transitional Weather","clear sunny 20 degrees with a slight breeze","soft things","hugs","oranges","Lizards","Modded Minecraft","laoganma","Brisket","parcel lockers","Resident Evil","Finals","Apex","Yakuza","Metal Gear","Signalis","half life","Scott Pilgrim","How To Train Your Dragon","breaking bad","radiohead","tame impala"],"permalink":"/My Precious Little Puppy <3/","dgPassFrontmatter":true,"updated":"289·2026 5:5 (Friday)","dg-note-properties":{"Type":null,"Up":["[[Explicitly Showcased/People/Special Ones/Bee/Beebee|Bee]]"],"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":"Precious Puppy","comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/Pasted image 20250905172138.png]]","Date Created":"200·2026 12:37 (Sunday)","Date Modified":"289·2026 5:5 (Friday)","feature":"Explicitly Showcased/People/Special Ones/Bee/Files And Shit/HPYg2PaW4AA98Bk.jpg","thumbnail":"thumbnails/resized/e377b75760eadca36e2e983f419f815e_86cf658e.webp","Name":"Bee","Nickname":"Puppy","Pronouns":"she/her i think","Why Pronouns":"because","Orientation":"girls","Birthday":"Dec 14 2006","Contact Info":"that place","Picked Number":23,"Favourite Number":null,"Favourite (Mixture Of) Smell(s)":"mango loco monster possibly","Favourite Skull":"yours","Favourite Animal":"corvids","Favourite Parasocial":"uhhhhh","Last Sing Occasion":"never","Big Scare":"secretly being hated","Allergic Or Hates":"not allergic afaik but not a fan of raw ginger or olives","Counting Visual":"rectangle (like multiples and stuff)","Opposite Of Coffee":"alcohol","Thoughts On Sun Fire":"not really","Character Flaw":null,"One Gorilla Or Five Cobras":"Cobras","Traditional Superpower":"teleportation or shapeshifting (the basic transgender ones)","Drink They Are":"water or some flavor of monster","The One Food To Rule Them All":"burger . . .","Jack Off Elephant":"Yes","Toddler Fight":5,"Tasty Poison":"maybe the fruit of potatoes","Experience To Share":"time","Effection":"not completely because i'm greedy i think","Unfortunate Interest":null,"Biggest Insert":"mommy if i try hard enough","Height":"6'0","Height Metric":"183cm","Weight":93,"Blood Type":null,"Body Count":0,"Similarly Rooted":null,"Icon":"StKissMyDogCentred","noteIcon":null,"Banner":"![[Explicitly Showcased/People/Special Ones/Bee/Files And Shit/Kiss My Dog Centred.svg]]","Banner_y":0.91333,"Eyes":"Hazel","Likes":["games","bed","hideo kojima","cars","hot baths","guns","Glocks","Revolvers","Girls","Saying Hi","Explicitly Showcased/People/Special Ones/Bee/Files And Shit/Pasted image 20261012234023.png","Explicitly Showcased/People/Special Ones/Bee/Files And Shit/Pasted image 20261012234214.png","Consistency","Vyper Deadlock","older women","Bugs","when horse girls in porn have human sized and horse shaped cocks","Explicitly Showcased/People/Special Ones/Bee/Files And Shit/Pasted image 20261013000228.png","caramel Feet","making noises","socks","jerma","roguelikes","fires","monster","Mango Loco","lego","birds","Corvids","being treated like a dog","Me","pizza","pineapple","mushroom","Burger","Burger King","spring","sucking on stuff","Piss","Rimming","Beasts","Bondage","Bees","Completion","blahaj","smell of pine","zipties","cherry coke","eating breakfast for dinner","flavored water","Spreadsheets","Seafood","Shrimps","Bras","lollipops","corn","tiramisu","Garlic","Water","red onionsss","Transitional Weather","clear sunny 20 degrees with a slight breeze","soft things","hugs","oranges","Lizards","Modded Minecraft","laoganma","Brisket","parcel lockers","Resident Evil","Finals","Apex","Yakuza","Metal Gear","Signalis","half life","Scott Pilgrim","How To Train Your Dragon","breaking bad","radiohead","tame impala"]}}
 ---
 
 
@@ -47,6 +47,8 @@
 
 <p><span>   Born 7246 days ago</span></p>
 
+[[Explicitly Showcased/People/Special Ones/Bee/Precious Puppy\|Precious Puppy]]
+
 ### Appearence
 - Hazel Eyes
 - 6'0 (183cm)
@@ -68,9 +70,9 @@
 - [And This One](/img/user/Explicitly%20Showcased/People/Special%20Ones/Bee/Files%20And%20Shit/Pasted%20image%2020261012234214.png)
 - Consistency
 - Vyper Deadlock
-- "older women !!!"
+- “older women !!!”
 - Bugs
-- "sometimes i like to lay on my back neatly covered with my blanket and pretend i'm a corpse at the morgue"
+- “sometimes i like to lay on my back neatly covered with my blanket and pretend i'm a corpse at the morgue”
 - when horse girls in porn have human sized and horse shaped cocks
 - [This Artist](/img/user/Explicitly%20Showcased/People/Special%20Ones/Bee/Files%20And%20Shit/Pasted%20image%2020261013000228.png)
 - caramel
@@ -95,7 +97,7 @@
 - Burger
 	- Burger King
 - spring
-- "sucking on stuff"
+- “sucking on stuff”
 - Piss
 - Rimming
 - Beasts
@@ -128,10 +130,11 @@
 - laoganma
 - Brisket
 - parcel lockers
+
 ##### Bonus Round
 ![Pasted image 20261013001517.png](/img/user/Explicitly%20Showcased/People/Special%20Ones/Bee/Files%20And%20Shit/Pasted%20image%2020261013001517.png)
 
-##### People And Things She Wants To Fuck (Real And fake)
+##### People And Things She Wants To Fuck (Real And Fake)
 
 ### Dislikes
 - Puzzles
@@ -170,14 +173,18 @@
 - Metal Gear
 - Signalis
 - half life
+
 #### Movies
 - Scott Pilgrim
 - How To Train Your Dragon
+
 #### Shows
 - breaking bad
+
 #### Music
 - radiohead
 - tame impala
+
 ## Activities
 ### Time Sinks/Hobbies
 - Playing Videogames
@@ -204,7 +211,7 @@
 Would Rather Be In A Mall With Five Cobras Than One Gorilla
 If She Could Have Any Traditional Superpower It Would Either Be Shapeshifting Or Teleportation 
 
-## "Her"
+## “Her”
 ![[convert.avif]]
 
 5.9.26 15:04
@@ -263,7 +270,7 @@ both have more downs than ups but i'm not sure which i like less
 Puppy — 17/09/2026 19:11
 i can cum !
 i just need like half an hour of stimulation
-it's still not much . . .
+it's still not much …
 clear goop
 30/09/2026 10:06
 just brain being evil and making me suffer for fun or something
@@ -273,7 +280,7 @@ tomorrow i might go get my license made or maybe we can do it tonight online
 and just use the picture on my id
 -1 year of e
 he doesn't wanna sell it cause it's his first car
-tbh i wouldn't wanna sell my first car either . . . . especially not to be someone else's first car . . . . the same week they passed . . . .
+tbh i wouldn't wanna sell my first car either … . especially not to be someone else's first car … . the same week they passed … .
 people who just passed are not known to be amazing drivers
 mostly cause you don't really learn maintenance at all
 forced to drive the land cruiser
