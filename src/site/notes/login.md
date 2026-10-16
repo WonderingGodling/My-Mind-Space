@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/login/","tags":["Tagless","f1f1f1","ddd","04AA6D","f44336","474e5d","fefefe","ccc"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless","f1f1f1","ddd","04AA6D","f44336","474e5d","fefefe","ccc"],"permalink":null,"Date Created":"200·07·2026 12:36 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
+{"Publish":true,"permalink":"/login/","tags":["Tagless","f1f1f1","ddd","04AA6D","f44336","474e5d","fefefe","ccc"],"noteIcon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless","f1f1f1","ddd","04AA6D","f44336","474e5d","fefefe","ccc"],"permalink":null,"Date Created":"200·07·2026 12:36 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
 
 
