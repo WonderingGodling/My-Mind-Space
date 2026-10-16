@@ -112,6 +112,19 @@
         "src/plugins/toc-settings/templates/config.njk",
         "src/plugins/toc-settings/tests/browser.test.cjs"
       ]
+    },
+    "growth-stages": {
+      "repo": "oleeskild/garden-plugin-growth-stages",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-10-16T00:00:06.665Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/growth-stages/README.md",
+        "src/plugins/growth-stages/garden-plugin.json",
+        "src/plugins/growth-stages/styles/badge.scss",
+        "src/plugins/growth-stages/templates/badge.njk"
+      ]
     }
   }
 }
