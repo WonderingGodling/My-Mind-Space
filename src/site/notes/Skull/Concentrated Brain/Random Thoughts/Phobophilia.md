@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/random-thoughts/phobophilia/","tags":["fear","RandomThoughts","Love","Psychological"],"noteIcon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"Phobophilia","comments":true,"show-local-graph":false,"tags":["fear","RandomThoughts","Love","Psychological"],"Date Created":"278·10·2026 16:55 (Monday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
+{"Yesterday":null,"Tomorrow":null,"Title":"Phobophilia","comments":true,"show-local-graph":false,"tags":["fear","RandomThoughts","Love","Psychological"],"Publish":true,"Date Created":"278·10·2026 16:55 (Monday)","Date Modified":"284·10·2026 3:24 (Sunday)","permalink":"/skull/concentrated-brain/random-thoughts/phobophilia/","dgPassFrontmatter":true,"Icon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"Phobophilia","comments":true,"show-local-graph":false,"tags":["fear","RandomThoughts","Love","Psychological"],"Date Created":"278·10·2026 16:55 (Monday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
 
 

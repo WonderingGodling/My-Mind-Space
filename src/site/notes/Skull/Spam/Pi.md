@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/skull/spam/pi/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"Pi","tags":["Tagless"],"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
+{"Yesterday":null,"Tomorrow":null,"Title":"Pi","tags":["Tagless"],"Permalink":null,"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","Publish":true,"permalink":"/skull/spam/pi/","dgPassFrontmatter":true,"Icon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"Pi","tags":["Tagless"],"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
 
 

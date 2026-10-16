@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/random-facts/sharks/sharks/","tags":["sharks","Concentrated","RandomFacts","Sharks"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"shark Facts","comments":true,"show-local-graph":false,"tags":["sharks","Concentrated","RandomFacts","Sharks"],"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
+{"Yesterday":null,"Tomorrow":null,"Title":"shark Facts","comments":true,"show-local-graph":false,"tags":["sharks","Concentrated","RandomFacts","Sharks"],"Publish":true,"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","permalink":"/skull/concentrated-brain/random-facts/sharks/sharks/","dgPassFrontmatter":true,"Icon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Yesterday":null,"Tomorrow":null,"Title":"shark Facts","comments":true,"show-local-graph":false,"tags":["sharks","Concentrated","RandomFacts","Sharks"],"Date Created":"200·07·2026 12:40 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
 
 
