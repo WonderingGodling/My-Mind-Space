@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/starfall-events/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":"Starfall Events Clarifier","up":[["Starfall"]],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"Similarly Rooted":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"278·10·2026 21:24 (Monday)","Session Number":null,"Icon":null,"Date Modified":"284·10·2026 3:25 (Sunday)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/events/starfall-events/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":"Starfall Events Clarifier","up":[["Starfall"]],"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"Similarly Rooted":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"278·10·2026 21:24 (Monday)","Session Number":null,"Icon":null,"Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
 

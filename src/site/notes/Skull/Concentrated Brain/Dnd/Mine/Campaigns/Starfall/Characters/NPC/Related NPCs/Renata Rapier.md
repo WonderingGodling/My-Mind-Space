@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/npc/related-np-cs/renata-rapier/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"Similarly Rooted":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"279·10·2026 0:49 (Tuesday)","Session Number":null,"Icon":null,"Date Modified":"284·10·2026 3:25 (Sunday)"}}
+{"Publish":true,"permalink":"/skull/concentrated-brain/dnd/mine/campaigns/starfall/characters/npc/related-np-cs/renata-rapier/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"284·10·2026 3:25 (Sunday)","dg-note-properties":{"Type":null,"up":null,"down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"Similarly Rooted":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"279·10·2026 0:49 (Tuesday)","Session Number":null,"Icon":null,"Date Modified":"284·10·2026 3:25 (Sunday)"}}
 ---
 
 
