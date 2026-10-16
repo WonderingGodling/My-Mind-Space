@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/kanji-radicals/","noteIcon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Featured":"[[Files And Shit/_-order 2.gif]]","Date Created":"200·07·2026 12:36 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Files And Shit/_-order 2.gif","thumbnail":"thumbnails/resized/d66a0a7522e9e194c7437b0f02b1b72c_86cf658e.webp"}}
+{"Publish":true,"Featured":"[[Files And Shit/_-order 2.gif]]","Date Created":"200·07·2026 12:36 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Files And Shit/_-order 2.gif","thumbnail":"thumbnails/resized/d66a0a7522e9e194c7437b0f02b1b72c_86cf658e.webp","permalink":"/kanji-radicals/","dgPassFrontmatter":true,"Icon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Featured":"[[Files And Shit/_-order 2.gif]]","Date Created":"200·07·2026 12:36 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","feature":"Files And Shit/_-order 2.gif","thumbnail":"thumbnails/resized/d66a0a7522e9e194c7437b0f02b1b72c_86cf658e.webp"}}
 ---
 
 
