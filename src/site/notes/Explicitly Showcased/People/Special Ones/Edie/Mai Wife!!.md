@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/explicitly-showcased/people/special-ones/edie/mai-wife/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"286·2026 (Tuesday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"aliases":["The Light Of My Life","Beacon Of Hope","The Best Woman Since Adam Got Married","Dee","Edie","Dee's","Edie's","Wife","My Wife","Wife's"],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·2026 (Sunday)","Date Modified":"286·2026 (Tuesday)"}}
+{"Publish":true,"permalink":"/explicitly-showcased/people/special-ones/edie/mai-wife/","tags":["Tagless"],"noteIcon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"286·2026 (Tuesday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"aliases":["The Light Of My Life","Beacon Of Hope","The Best Woman Since Adam Got Married","Dee","Edie","Dee's","Edie's","Wife","My Wife","Wife's"],"Next":null,"Previous":null,"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·2026 (Sunday)","Date Modified":"286·2026 (Tuesday)"}}
 ---
 
 

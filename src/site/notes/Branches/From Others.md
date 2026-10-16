@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/branches/from-others/","tags":["Clarifier","Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Title":"From Others","Comments":true,"tags":["Clarifier","Tagless"],"Yesterday":null,"Tomorrow":null,"Embedded":null,"Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","Icon":null,"Featured":null}}
+{"Publish":true,"permalink":"/branches/from-others/","tags":["Clarifier","Tagless"],"noteIcon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Title":"From Others","Comments":true,"tags":["Clarifier","Tagless"],"Yesterday":null,"Tomorrow":null,"Embedded":null,"Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","Icon":null,"Featured":null}}
 ---
 
 

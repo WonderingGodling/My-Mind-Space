@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"Permalink":"aliases","permalink":"/aliases/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:23 (Sunday)","dg-note-properties":{"Title":"Names","comments":true,"tags":["Tagless"],"Type":"Name List","Up":"[[Branches/Explicitely Showcased]]","aliases":["Alias","Aliases","Names","Call Me"],"Yesterday":null,"Tomorrow":null,"Embedded":null,"Similarly Rooted":null,"Date Created":"278·10·2026 16:25 (Monday)","Session Number":null,"Icon":"[[Explicitly Showcased/Me/Files And Shit/BleedingEye.svg]]","Date Modified":"284·10·2026 3:23 (Sunday)"}}
+{"Publish":true,"Permalink":"aliases","permalink":"/aliases/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"284·10·2026 3:23 (Sunday)","dg-note-properties":{"Title":"Names","comments":true,"tags":["Tagless"],"Type":"Name List","Up":"[[Branches/Explicitely Showcased]]","aliases":["Alias","Aliases","Names","Call Me"],"Yesterday":null,"Tomorrow":null,"Embedded":null,"Similarly Rooted":null,"Date Created":"278·10·2026 16:25 (Monday)","Session Number":null,"Icon":"[[Explicitly Showcased/Me/Files And Shit/BleedingEye.svg]]","Date Modified":"284·10·2026 3:23 (Sunday)"}}
 ---
 
 

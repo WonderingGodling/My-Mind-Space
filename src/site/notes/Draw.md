@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/draw/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 4:16 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/Pasted image 20251212024158.png]]","Date Created":"200·07·2026 12:36 (Sunday)","Date Modified":"284·10·2026 4:16 (Sunday)","feature":"Files And Shit/Pasted image 20251212024158.png","thumbnail":"thumbnails/resized/eaba141ce76a2025d00685e236ff6934_86cf658e.webp"}}
+{"Publish":true,"permalink":"/draw/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"284·10·2026 4:16 (Sunday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Featured":"[[Files And Shit/Pasted image 20251212024158.png]]","Date Created":"200·07·2026 12:36 (Sunday)","Date Modified":"284·10·2026 4:16 (Sunday)","feature":"Files And Shit/Pasted image 20251212024158.png","thumbnail":"thumbnails/resized/eaba141ce76a2025d00685e236ff6934_86cf658e.webp"}}
 ---
 
 

@@ -1,22 +1,17 @@
 ---
-{"Publish":true,"permalink":"/explicitly-showcased/people/special-ones/claire/claire-bear/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"286·2026 (Tuesday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·2026 (Sunday)","Date Modified":"286·2026 (Tuesday)","Icon":null,"Name":null,"Nickname":null,"Pronouns":null,"Why Pronouns":null,"Orientation":null,"Birthday":null,"Contact Info":null,"Picked Number":null,"Favourite Number":null,"Favourite (Mixture Of) Smell(s)":null,"Favourite Skull":null,"Favourite Animal":null,"Favourite Parasocial":null,"Last Sing Occasion":null,"Big Scare":null,"Allergic Or Hates":null,"Counting Visual":null,"Opposite Of Coffee":null,"Thoughts On Sun Fire":null,"Character Flaw":null,"One Gorilla Or Five Cobras":null,"Traditional Superpower":null,"Drink They Are":null,"The One Food To Rule Them All":null,"Jack Off Elephant":null,"Toddler Fight":null,"Tasty Poison":null,"Experience To Share":null,"Effection":null,"Unfortunate Interest":null,"Biggest Insert":null,"Height":null,"Height Metric":null,"Weight":null,"Blood Type":null,"Body Count":null,"Banner":null,"feature":"Explicitly Showcased/People/Special Ones/Claire/Files And Shit/Pasted image 20261013191116.png","thumbnail":"thumbnails/resized/646c7a4016844a85b32340645e59bd76_86cf658e.webp"}}
+{"Publish":true,"permalink":"/explicitly-showcased/people/special-ones/claire/claire-bear/","tags":["Tagless"],"noteIcon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"289·2026 1:29 (Friday)","dg-note-properties":{"Type":null,"Up":null,"Down":null,"Yesterday":null,"Tomorrow":null,"Embedded":null,"Next":null,"Previous":null,"aliases":[],"Title":null,"comments":true,"tags":["Tagless"],"Date Created":"200·2026 12:37 (Sunday)","Date Modified":"289·2026 1:29 (Friday)","Icon":null,"Name":null,"Nickname":null,"Pronouns":null,"Why Pronouns":null,"Orientation":null,"Birthday":null,"Contact Info":null,"Picked Number":null,"Favourite Number":null,"Favourite (Mixture Of) Smell(s)":null,"Favourite Skull":null,"Favourite Animal":null,"Favourite Parasocial":null,"Last Sing Occasion":null,"Big Scare":null,"Allergic Or Hates":null,"Counting Visual":null,"Opposite Of Coffee":null,"Thoughts On Sun Fire":null,"Character Flaw":null,"One Gorilla Or Five Cobras":null,"Traditional Superpower":null,"Drink They Are":null,"The One Food To Rule Them All":null,"Jack Off Elephant":null,"Toddler Fight":null,"Tasty Poison":null,"Experience To Share":null,"Effection":null,"Unfortunate Interest":null,"Biggest Insert":null,"Height":null,"Height Metric":null,"Weight":null,"Blood Type":null,"Body Count":null,"Banner":null,"feature":"Explicitly Showcased/People/Special Ones/Claire/Files And Shit/Pasted image 20261013191116.png","thumbnail":"thumbnails/resized/646c7a4016844a85b32340645e59bd76_86cf658e.webp"}}
 ---
 
 
 <style id="Force_Custom_Fonts" type="text/css">@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather")}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF,U+2E80-9FFF,U+F900-FAFF,U+FE30-FE4F,U+20000-2FA1F}@font-face{font-style:normal;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}@font-face{font-style:bolder;font-family:"Merriweather";src:local("Merriweather");unicode-range:U+0-FF}:not(pre):not(code):not(textarea):not(tt):not(kbd):not(samp):not(var){font-family:"Merriweather"!important}pre,code,textarea,tt,kbd,samp,var{font-family:monospace!important}pre *,code *,textarea *,tt *,kbd *,samp *,var *{font-family:monospace!important}</style>
 
-
-
-
-
-
-
-
 # <center><span style="color:#AED4F1">Claire</span></center>
 ![Pasted image 20261013191116.png](/img/user/Explicitly%20Showcased/People/Special%20Ones/Claire/Files%20And%20Shit/Pasted%20image%2020261013191116.png)
+
 ## Facts
 ### Birthday
 6/12
+
 ## Opinions
 ### Likes
 - Capybaras
@@ -62,6 +57,7 @@
 
 ### Dislikes
 - Liquorice
+
 #### Phobias/Hates
 - Peanuts
 
@@ -75,12 +71,15 @@
 - If Found
 - Ready or Not
 - Valorant
+
 #### Movies
 - Spiderverse Movies
+
 #### Shows
 - Chainsaw Man
+
 ## Activities
-### Probably the Best At
+### Probably The Best At
 - Cooking/Baking Things That I Like
 - Making Me Smile
 - Saying 6 7
@@ -111,6 +110,5 @@
 </script>
 </body>
 </html>
-
 
 <center><sub>Good Girl</sub></center>

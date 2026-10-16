@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/branches/dnd-characters/","tags":["dnd"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"Up":"[[Branches/Dnd]]","Down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"Comments":true,"tags":["dnd"],"Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","Icon":null,"Featured":null}}
+{"Publish":true,"permalink":"/branches/dnd-characters/","tags":["dnd"],"noteIcon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"Up":"[[Branches/Dnd]]","Down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"Comments":true,"tags":["dnd"],"Date Created":"200·07·2026 12:37 (Sunday)","Date Modified":"284·10·2026 3:24 (Sunday)","Icon":null,"Featured":null}}
 ---
 
 
