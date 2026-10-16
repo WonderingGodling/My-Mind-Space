@@ -118,7 +118,7 @@
       "installedVersion": "1.0.0",
       "installedRef": "v1.0.0",
       "installedAt": "2026-10-16T00:00:06.665Z",
-      "enabled": true,
+      "enabled": false,
       "files": [
         "src/plugins/growth-stages/README.md",
         "src/plugins/growth-stages/garden-plugin.json",
