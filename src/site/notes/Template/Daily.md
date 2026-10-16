@@ -1,12 +1,11 @@
 ---
-{"Publish":true,"permalink":"/template/daily/","hideInGraph":true,"noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Icon":"[[Files And Shit/CalendarRange.svg]]","Featured":"","Yesterday":null,"Tomorrow":null}}
+{"dg-hide-in-graph":true,"Icon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","Featured":"","Permalink":null,"Publish":true,"Yesterday":null,"Tomorrow":null,"Date Created":"280·2026 9:40 (Wednesday)","Date Modified":"288·2026 19:9 (Thursday)","permalink":"/template/daily/","hideInGraph":true,"dgPassFrontmatter":true,"updated":"288·2026 19:9 (Thursday)","dg-note-properties":{"Icon":"LiCalendarRange","Featured":"","Yesterday":null,"Tomorrow":null,"Date Created":"280·2026 9:40 (Wednesday)","Date Modified":"288·2026 19:9 (Thursday)"}}
 ---
 
 
 # <center><span style="color:#AAAAFF">{{date}}</span></center>
 
-<p><span><strong>Day Age</strong>     <progress max="100" value="71.24074074074075" style="height:10px;width:20%"></progress>    71.24074074074075 </span></p>
-
+<p><span><strong>Day Age</strong>     <progress max="100" value="29.20023148148148" style="height 6472 10px;width:20%"></progress>    2920 </span></p>
 
 ```
 <%*
@@ -58,12 +57,10 @@ notice.hide();
 -%>
 ```
 
-
 ---
+
 ## Last Night:
 - 
-
-
 
 ## Todays Plans:
 - [ ] 
@@ -85,7 +82,6 @@ Steps::
 
 ### Breakfast
 
-
 ### Dinner
 
 ## To-Dos
@@ -93,8 +89,5 @@ Steps::
 ## General
 
 ## Imported
-
-
-
 
 <center><small>And That Is All Folks</small></center>

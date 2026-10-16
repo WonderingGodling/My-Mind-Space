@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/template/clarifier-template/","tags":["Tagless"],"dgShowToc":true,"noteIcon":"Biohazard_symbol.svg","updated":"281·10·2026 13:43 (Thursday)","dg-note-properties":{"Type":null,"Description":"{{description}}","Up":null,"Embedded":null,"Next":null,"Previous":null,"Similarly Rooted":null,"aliases":null,"Title":null,"Comments":true,"tags":["Tagless"],"Date Created":null,"Date Modified":"281·10·2026 13:43 (Thursday)","Icon":"{{favicon}}","Banner":"{{image}}","Featured":null}}
+{"Type":null,"Description":"{{description}}","Up":null,"Embedded":null,"Next":null,"Previous":null,"Similarly Rooted":null,"aliases":[],"Title":null,"Comments":true,"dg-show-local-graph":null,"dg-hide-in-graph":null,"tags":["Tagless"],"dg-show-toc":true,"Date Created":"278·2026 16:26 (Monday)","Date Modified":"288·2026 19:10 (Thursday)","Icon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","Banner":null,"Featured":null,"dg-permalink":null,"Publish":true,"permalink":"/template/clarifier-template/","dgShowToc":true,"dgPassFrontmatter":true,"updated":"288·2026 19:10 (Thursday)","dg-note-properties":{"Type":null,"Description":"{{description}}","Up":null,"Embedded":null,"Next":null,"Previous":null,"Similarly Rooted":null,"aliases":[],"Title":null,"Comments":true,"tags":["Tagless"],"Date Created":"278·2026 16:26 (Monday)","Date Modified":"288·2026 19:10 (Thursday)","Icon":"{{favicon}}","Banner":null,"Featured":null}}
 ---
 
 
@@ -9,12 +9,8 @@
 }
 </style>
 
-
 # <center><span style="color:#FFDCAA">{Title}</span></center>
 
 ## {Header 1}
-
-
-
 
 <center><sub>Done :)</sub></center>

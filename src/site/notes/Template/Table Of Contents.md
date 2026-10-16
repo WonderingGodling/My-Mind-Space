@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/template/table-of-contents/","noteIcon":"Biohazard_symbol.svg","dg-note-properties":{"Icon":null}}
+{"Permalink":null,"Publish":true,"Icon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","permalink":"/template/table-of-contents/","dgPassFrontmatter":true,"dg-note-properties":{"Icon":null}}
 ---
 
 

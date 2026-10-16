@@ -1,5 +1,5 @@
 ---
-{"Publish":true,"permalink":"/to-dos/","tags":["Tagless"],"noteIcon":"Biohazard_symbol.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Branches/This Is To Poeople]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"278·10·2026 16:56 (Monday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
+{"Type":null,"up":"[[This Is To Poeople]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"dg-show-toc":null,"dg-hide-in-graph":null,"permalink":"/to-dos/","Permalink":null,"Publish":true,"Date Created":"278·10·2026 16:56 (Monday)","Date Modified":"284·10·2026 3:24 (Sunday)","dgPassFrontmatter":true,"Icon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Type":null,"up":"[[Branches/This Is To Poeople]]","down":null,"Yesterday":null,"Tomorrow":null,"aliases":[],"Next":null,"Previous":null,"Title":null,"comments":true,"show-local-graph":null,"tags":["Tagless"],"permalink":null,"Date Created":"278·10·2026 16:56 (Monday)","Date Modified":"284·10·2026 3:24 (Sunday)"}}
 ---
 
 
