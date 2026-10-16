@@ -1,5 +1,5 @@
 ---
-{"Up":"[[Explicitely Showcased]]","Yesterday":"N/A","Tomorrow":"N/A","aliases":["Horizon","home","Home Page","Website"],"Title":"Horizon","Comments":true,"dg-home":true,"Publish":true,"dg-show-toc":true,"Icon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","tags":["Home","Rambling","gardenEntry","Website","Tagless"],"Embedded":null,"Similarly Rooted":null,"dg-hide-in-graph":true,"Date Created":"278·10·2026 16:53 (Monday)","Previous":"[[Old Home Page]]","Type":"Home Page","Banner":"[[4491b55d359feda1319a6a5b11aeb278.jpg]]","Date Modified":"284·10·2026 3:24 (Sunday)","Featured":"![[Explicitly Showcased/Home Page I Guess/40e956a5545bd6530d36627f3c2a33e7 1.jpg]]","feature":"Explicitly Showcased/Home Page I Guess/40e956a5545bd6530d36627f3c2a33e7 1.jpg","thumbnail":"thumbnails/resized/466ae5ba8d64bbe373a9f5bfc0ca9153_86cf658e.webp","permalink":"/explicitly-showcased/home-page-i-guess/home-page/","hideInGraph":true,"dgShowToc":true,"dgPassFrontmatter":true,"updated":"284·10·2026 3:24 (Sunday)","dg-note-properties":{"Up":"[[Branches/Explicitely Showcased]]","Yesterday":"N/A","Tomorrow":"N/A","aliases":["Horizon","home","Home Page","Website"],"Title":"Horizon","Comments":true,"Icon":"[[Files And Shit/Biohazard_symbol.svg]]","tags":["Home","Rambling","gardenEntry","Website","Tagless"],"Embedded":null,"Similarly Rooted":null,"Date Created":"278·10·2026 16:53 (Monday)","Previous":"[[Explicitly Showcased/Home Page I Guess/Old Home Page]]","Type":"Home Page","Banner":"[[Explicitly Showcased/Home Page I Guess/4491b55d359feda1319a6a5b11aeb278.jpg]]","Date Modified":"284·10·2026 3:24 (Sunday)","Featured":"![[Explicitly Showcased/Home Page I Guess/40e956a5545bd6530d36627f3c2a33e7 1.jpg]]","feature":"Explicitly Showcased/Home Page I Guess/40e956a5545bd6530d36627f3c2a33e7 1.jpg","thumbnail":"thumbnails/resized/466ae5ba8d64bbe373a9f5bfc0ca9153_86cf658e.webp"}}
+{"Up":"[[Explicitely Showcased]]","Yesterday":"N/A","Tomorrow":"N/A","aliases":["Horizon","home","Home Page","Website"],"Title":"Horizon","Comments":true,"dg-home":true,"Publish":true,"dg-show-toc":true,"Icon":"Skull/Concentrated Brain/Journaling Before It Gets Amalgamated/10·2026/Files And Shit/fish-off.svg","tags":["Home","Rambling","gardenEntry","Website","Tagless"],"Embedded":null,"Similarly Rooted":null,"dg-hide-in-graph":true,"Date Created":"278·2026 16:53 (Monday)","Previous":"[[Old Home Page]]","Type":"Home Page","Banner":"[[4491b55d359feda1319a6a5b11aeb278.jpg]]","Date Modified":"289·2026 6:53 (Friday)","Featured":"![[Explicitly Showcased/Home Page I Guess/40e956a5545bd6530d36627f3c2a33e7 1.jpg]]","feature":"Explicitly Showcased/Home Page I Guess/40e956a5545bd6530d36627f3c2a33e7 1.jpg","thumbnail":"thumbnails/resized/466ae5ba8d64bbe373a9f5bfc0ca9153_86cf658e.webp","permalink":"/explicitly-showcased/home-page-i-guess/home-page/","hideInGraph":true,"dgShowToc":true,"dgPassFrontmatter":true,"updated":"289·2026 6:53 (Friday)","dg-note-properties":{"Up":"[[Branches/Explicitely Showcased]]","Yesterday":"N/A","Tomorrow":"N/A","aliases":["Horizon","home","Home Page","Website"],"Title":"Horizon","Comments":true,"Icon":"[[Files And Shit/Biohazard_symbol.svg]]","tags":["Home","Rambling","gardenEntry","Website","Tagless"],"Embedded":null,"Similarly Rooted":null,"Date Created":"278·2026 16:53 (Monday)","Previous":"[[Explicitly Showcased/Home Page I Guess/Old Home Page]]","Type":"Home Page","Banner":"[[Explicitly Showcased/Home Page I Guess/4491b55d359feda1319a6a5b11aeb278.jpg]]","Date Modified":"289·2026 6:53 (Friday)","Featured":"![[Explicitly Showcased/Home Page I Guess/40e956a5545bd6530d36627f3c2a33e7 1.jpg]]","feature":"Explicitly Showcased/Home Page I Guess/40e956a5545bd6530d36627f3c2a33e7 1.jpg","thumbnail":"thumbnails/resized/466ae5ba8d64bbe373a9f5bfc0ca9153_86cf658e.webp"}}
 ---
 
 
@@ -11,9 +11,9 @@
 
 # <center><span style="color:#000000">There Is No Good Title For What This Has Become</span></center>
 
-I Am Redoing This For Some Reason[^1]— Maybe I Am Particularly Sad Or Happy Or Otherwise In My Head About....My Head. I Wish I Had Something To Talk About In This Opening So I Will Just Say What I Think I Need To
+I Am Redoing This For Some Reason[^1]— Maybe I Am Particularly Sad Or Happy Or Otherwise In My Head About….My Head. I Wish I Had Something To Talk About In This Opening So I Will Just Say What I Think I Need To
 
-This Is The Current Front Page For My Website (If You Desire To See [[Explicitly Showcased/Home Page I Guess/Old Home Page\|The Old One]] For Whatever Reason Then Feel Free). I Am Somewhat Hoping This Can Be A Good Start Into...[[Explicitly Showcased/Home Page I Guess/Home Page\|This]]
+This Is The Current Front Page For My Website (If You Desire To See [[Explicitly Showcased/Home Page I Guess/Old Home Page\|The Old One]] For Whatever Reason Then Feel Free). I Am Somewhat Hoping This Can Be A Good Start Into…[[Explicitly Showcased/Home Page I Guess/Home Page\|This]]
 I Should Get A Word For It As A Whole But That Is More Effort Than I Am Willing To Put In AT This Stage Of My Life.
 
 <aside>
@@ -22,7 +22,7 @@ If You Manage To Find Better Or Deeper Parts Of This Website I Hope That You Hav
 If You Are Looking To Cheat At Dnd Then I Am Sorry To Tell You That You Are Out Of Luck
 </aside>
 
-I Will Say Though I Am Willing To Take Some Feedback On....Yeahhhh I Should Name This
+I Will Say Though I Am Willing To Take Some Feedback On….Yeahhhh I Should Name This
 Feedback On The Digital Secretions Of My Brain?
 Sometimes I Need Something To Do And Oftentimes This Is That Something
 
@@ -30,14 +30,7 @@ Also Just Decided That The Website As A Whole Is My Digital Imprint
 My Journal Is Here Somewhere Both An Abridged And An Unabridged Version
 I Would Like To Include More On The People In My Life As Well— If This Imprint Is Made Up Of Things I Care About Then The People I Care About Most Should Be In Here
 
-
 Oh Also [[Explicitly Showcased/Home Page I Guess/Socials\|Socials]] Totally Didnt Forget
-
-
-
-
-
-
 
 <center><sub>If I Still Live Then I Still Observe</sub></center>
 

@@ -21,7 +21,7 @@
 
 Date Countdown Progress Bar
 
-<p><span><strong>COUNTDOWN</strong>     <progress max="162" value="0" style="height:10px;width:20%"></progress>    <strong>0%</strong> | 7 days remaining</span></p>
+<p><span><strong>COUNTDOWN</strong>     <progress max="161" value="0" style="height:10px;width:20%"></progress>    <strong>0%</strong> | 7 days remaining</span></p>
 
 ```javascript
 var now = moment();
@@ -49,7 +49,7 @@ function getDatePercent() {
 console.log(getDatePercent())
 ```
 
-<p><span><strong>Day %age</strong>     <progress max="100" value="24.89351851851852" style="height:10px;width:20%"></progress></span></p>
+<p><span><strong>Day %age</strong>     <progress max="100" value="29.091435185185187" style="height:10px;width:20%"></progress></span></p>
 
 <p><span> 6472 </span></p>
 
